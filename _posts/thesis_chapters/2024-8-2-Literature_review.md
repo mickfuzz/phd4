@@ -452,15 +452,24 @@ ADD TO THE PROBLEMS STATEMENT.
 
 ### Pair programming & social/collaborative coding
 
-**Pair Programming:**  Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved. Pair programming involves social learning elements and can model a greater choices for students in they way they solve problems. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings). The importance of a coding community is explored in another chapter in this collection on design and project approaches. A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6]
+In their review of the potential of CGD&P to encourage collaboration, Earp and colleagues found that "analysis of collaboration is mainly restricted to peer review and providing feedback" [@earp_learner_2013].
+
+Pair programming, a common industry practice has recieved attention in educational contexts [@hanks_pair_2011]. Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved.
+
+Werner and colleagues [@werner_pair_2009; denner_computer_2007] investigate pair programming as way to adress gender gap and extending research on collaborative problem solving in computer coding.
+
+They cite research challalenging the gender aspect of bricolage / abstract duality, but propose a need for more research on programming styles and stragegies [@denner_computer_2007] Thier own research underlies that while pair programming is an inclusive stragety benefial to all but in particular to narrow participation gaps due to gender and socio-economic factors [@werner_pair_2009, p.31].
 
 
-See Robertson
+In Denner's research, pair programming involved social learning elements and can model a greater choices for students in they way they solve problems and opportunities to develop identities. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
+
+<!-- A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6] -->
+
+Werner et al draw on existing research on collaborative   'social reality or joint problem solving space' to scaffold the process of ideation [@omalley_construction_1995] and the role of friendly relations to develops these productive and sustained interactions [@mcdowell_pair_2006].
+
 
 Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
 
-**Concepts** -  perhaps some of the underlying concepts like
-- joint problem spaces
 - resource interdependence from Preston
 
 
@@ -722,6 +731,8 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 ### Creative Family Learning - Roque
 
 <!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
+
+Correa (2015), explores the role of children as brokers of technology in family environments.
 
 The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017].
 
