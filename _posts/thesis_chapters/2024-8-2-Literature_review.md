@@ -308,9 +308,10 @@ Turning to theories of learning, constructionism promote an open ended, child-le
 
 Vossoughi notes recent attempts to align constructionism with socio-cultural approaches, but continues to critique its lack of _intentional pedagogy_.
 
-This critique is partly addressed in  K and B's review. HOW
+This critique is partly addressed by Kafai, when she notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], specifics on pedagogical scaffolding and structure used to enable _constructionist gaming_ are absent [@illingworth_review_2017].
 
-While, Kafia, a leading constructionist researcher, notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], and some of the studies brought under the umbrella of _constructionist gaming_ do describe the pedagogical scaffolding and structure used to support these approaches, most do not.
+Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies namely: design-build-test, stepwise instruction, and social pedagogical approaches.
+
 
 Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
 
