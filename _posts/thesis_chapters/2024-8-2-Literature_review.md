@@ -227,8 +227,6 @@ Researcher Ito's ethnographic approach to studies of informal digital consumptio
 
 <!--
 @erstad_identity_2012
-
-
 The practical and and cultural difficulties of undertaking a project-based approach within the curriculum are significant. Factors of difficulties associated with technology projects compound difficulties.
 SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN. -->
 <!--
@@ -250,7 +248,7 @@ Turning more specifically studies on computer game design and programming (CGD&P
 Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant. Similarly, while Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation, pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017]. The narrative and celebratory nature of Kafai and Burke's review can be compared with that of Denner et al[@denner_does_2019;], who take a systematic approach in their review and make more modest claims regarding the effectiveness of CGD&P to develop computing science learning and motivation.
 However, their cautious finding are also broadly positive. They outline three strands of pedagogical interest, use of design cycles, stepwise approaches (WHICH IS WHAT), and social approaches. They conclude by noting the need for more research describing and evaluating pedagogy in more detail.
 
-THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!! 
+THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!!
 
 
 <!-- This deficit in addressing and assessing pedagogies used, is reflective of a comparatively weakness of concepts of pedagogy within the wider constructionist theory, a dimension which is explored after the next section barriers to participation. -->
@@ -262,14 +260,13 @@ Other studies show games as a potential vehicle for exploring issues involving r
 ### Barriers (and tensions) related to participation in game making
 
 
-
 ### Technical barriers
 
 **Difficulty of computer programming**
 
 As CGD&G involves computer programming, it inherits some of the intrinsic difficulty of that process [@sentance_teaching_2019; @gomes2007learning; @joao_cross-analysis_2019]. These difficulties include but are not limited to: the complexity of syntax and problem of leading with syntax [@gomes2007learning], issues of needing levels of abstraction in learning programming [@gomes2007learning], difficulties in applying skills learned between contexts [@rahmat_major_2012]. The use of specialist coding tools, using techniques like block coding, aimed at novice coders and in particular younger audience and alleviate the complexity of coding syntax, environments, and project organisation [@yu_survey_2018]. However, the simplification involved creates a tension between the use of more authentic languages and specialised, scaffolded approaches [@joao_cross-analysis_2019]. This tension is explored within the context of digital making, by Sefton-Green in his description of the use of Mozilla webmaker tools [-@sefton-green_mapping_2013]. These tools using web languages of HTML, CSS and JavaScript act a bridge between informal practices of web based making and professional tools. He contrasts these tools to Scratch and similar block based systems which obfuscate learners from authentic code languages.
 
-    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
+<!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
 
 
 ### Barriers linked to identity and values
@@ -293,7 +290,10 @@ To address issues of confidence interacting in online communities, Roque's FCL s
 
 ## Deconstructing the concept of constructionist gaming AND for the aim of (HOW DOES THIS HELP THE PROBLEM STATEMENT?)
 
-Before turning to a more detailed exploration of distinct pedagogies used in or appropriate for CGD&P, this section explores the value and limits of the broad proposition of Kafai and Burke's framing of _constructionist gaming_, firstly by examining if games present particular opportunities compared to other digital products and then by articulating the limits of claims surrounding constructionism as a guiding pedagogy.
+
+<!-- Before turning to a more detailed exploration of distinct pedagogies used in or appropriate for CGD&P,  -->
+
+This section explores Kafai and Burke's framing of _constructionist gaming_, as a dominant voice in this domain, as a means to situate the concerns of this thesis within the existing body of research. To do this I explore how games present particular opportunities compared to other digital products,  and then by articulating the limits of claims surrounding constructionism as a guiding pedagogy.
 
 
 Kafai and Burke note that while there are benefits to exploring games over other types of media projects, including their inherent rules based systems, which facilitate the exploration of systems thinking and design approaches, a potential problem with prioritising games is the gender elements associated with gameing - THIS IS CONFUSED IN THE ORIGINAL
@@ -304,15 +304,22 @@ Kafai and Burke also note the benefits to exploring games over other types of me
 
 MERGE WITH SECTION IN INTRODUCTION - OR MOVE SOME OF THIS TO CHAPTER 3. WHAT TO KEEP?
 
-Turning to theories of learning, constructionism promote an open ended, child-led approach to designing engaging and relatable objects of interest. Research on constructionism as an educational approach has historically focused primarily on the design affordances of researcher-created toolkits and communities to develop a personal understandings of knowledge [@vossoughi_making_2016]. While, Kafaa, a leading constructionist researcher, notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], and some of the studies brought under the umbrella of _constructionist gaming_ do describe the pedagogical scaffolding and structure used to support these approaches, most do not. Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
+Turning to theories of learning, constructionism promote an open ended, child-led approach to designing engaging and relatable objects of interest. Research on constructionism as an educational approach has historically focused primarily on the design affordances of researcher-created toolkits and communities to develop a personal understandings of knowledge [@vossoughi_making_2016].
 
-<!-- Within this perspective, a design and project based approach is advocated, details of which are explored in the pedagogy section of this chapter. e research on project-based learning processes. -->
+Vossoughi notes recent attempts to align constructionism with socio-cultural approaches, but continues to critique its lack of _intentional pedagogy_.
+
+This critique is partly addressed in  K and B's review. HOW
+
+While, Kafia, a leading constructionist researcher, notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], and some of the studies brought under the umbrella of _constructionist gaming_ do describe the pedagogical scaffolding and structure used to support these approaches, most do not.
+
+Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
+
 <!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
 <!-- However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult. -->
 
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
 
-It behoves us to revisit the purpose of game making. Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
+Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
 
 It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on.
 
@@ -438,7 +445,7 @@ Pair programming, a common industry practice has recieved attention in education
 
 Werner and colleagues [@werner_pair_2009; denner_computer_2007] investigate pair programming as way to adress gender gap and extending research on collaborative problem solving in computer coding.
 
-They cite research challalenging the gender aspect of bricolage / abstract duality, but propose a need for more research on programming styles and stragegies [@denner_computer_2007] Thier own research underlies that while pair programming is an inclusive stragety benefial to all but in particular to narrow participation gaps due to gender and socio-economic factors [@werner_pair_2009, p.31].
+They cite research challenging the gender aspect of bricolage / abstract duality, but propose a need for more research on programming styles and strategies [@denner_computer_2007] Their own research underlies that while pair programming is an inclusive strategy beneficial to all but in particular to narrow participation gaps due to gender and socio-economic factors [@werner_pair_2009, p.31].
 
 
 In Denner's research, pair programming involved social learning elements and can model a greater choices for students in they way they solve problems and opportunities to develop identities. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
@@ -460,11 +467,7 @@ and Use of game design patterns [@werner_computational_2020]
 
 The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety and demotivation surrounding the difficulty of coding games. UMC evolved from research involving the use of game making and robotics to support computational thinking [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]. The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]
 
-**Use:** In the _Use_ stage, coders build a familiarity with coding interfaces, code structures and syntax through scaffolded approaches which involve interacting with the program code and what it produces.
-
-**Modify:** In the _Modify_ stage learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims.
-
-**Create:** After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
+In the _Use_ stage, coders build a familiarity with coding interfaces, code structures and syntax through scaffolded approaches which involve interacting with the program code and what it produces. In the _Modify_ stage learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims. _Create:_ After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
 
 A study involving five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach with more student-led exploration [@franklin_analysis_2020]. The researchers also found that the students enjoyed the UMC approach as they had more choice and agency in the process. This is supported by other research which compared UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students using UMC had more time to play around with code, they were able to add their own personal touches and that this ownership over the code sustained their continued engagement. While the scope of the study is limited, observations support motivation of UMC that this pattern of creation maintains higher level of engagement through reducing technical barriers to participation, and affording greater sense of learner's ownership over end project through greater choice over the final outcome.
 
@@ -554,19 +557,13 @@ Kynigos and Yiannoutsou identify a progression in the type of CT skills being us
 <!--
 The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1]. -->
 <!-- Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction. -->
-onal Sophicistication - using game patterns as a higher leve.
 
-which learners construct from scratch.
-
-My resear
 ### Design patterns
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context.
-onal Sophicistication - using game patterns as a higher leve.
 
-which learners construct from scratch.
+<!-- onal Sophicistication - using game patterns as a higher level which learners construct from scratch. -->
 
-My resear
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
 
 
@@ -615,14 +612,13 @@ GSM created a supporting pack for teachers which used challenges themed around c
 
 The normal practice is geared towards prompts within the software with specific missions.
 
-There is little research published on how the cards were used in practice. Limitations include ...
+There is little research published on how the cards were used in practice. Limitations include
+
+Thus while existing research show the promise of GDPs in exploring systems thinking and developing an overall sense of game design, there is a gap in the research landscape in how GDP pattern collections could be used to support novices and young people to program computer games.
+ADD TO PROBLEM STATEMENT
 
 <!-- NOTE - follow this up - can email - why was this not adopted?
 What could have been different?-->
-**GAP in the research:**
-
-No research for GDP pattern collection for to text code games with for CS or game studies in young people.
-
 
 
 <!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
@@ -645,7 +641,7 @@ This section addresses programmes which address barriers  to participation in in
 
 As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS].
 
-It particularly is concerned with identity, and including a structure of pedagogy
+To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity, and structures of pedagogy used.
 
 
 ### Coding club(houses) & Grass Roots community responses
@@ -714,7 +710,7 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
 
-### Creative Family Learning - Roque
+### Creative Family Learning - Roque (and 5d?)
 
 <!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
