@@ -11,27 +11,26 @@
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Barriers (and tensions) related to participation in game
-            making](#barriers-and-tensions-related-to-participation-in-game-making)
-        -   [Technical barriers](#technical-barriers)
-        -   [Barriers linked to identity and
-            values](#barriers-linked-to-identity-and-values)
-    -   [Deconstructing the concept of constructionist gaming AND for
-        the aim of (HOW DOES THIS HELP THE PROBLEM
-        STATEMENT?)](#deconstructing-the-concept-of-constructionist-gaming-and-for-the-aim-of-how-does-this-help-the-problem-statement)
+        -   [Potential benefits of computer game design and programming
+            (CGD&P)](#potential-benefits-of-computer-game-design-and-programming-cgdp)
+        -   [Barriers to participation in game
+            making](#barriers-to-participation-in-game-making)
+        -   [Exploring pedagogies of constructionist
+            gaming](#exploring-pedagogies-of-constructionist-gaming)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
-        -   [Project-based learning (PBL)](#project-based-learning-pbl)
         -   [Design steps frameworks via stages - COMPRESS AS A
             SUBSECTION OF
             PBL?](#design-steps-frameworks-via-stages---compress-as-a-subsection-of-pbl)
+        -   [Project-based learning (PBL)](#project-based-learning-pbl)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Use Modify Create](#use-modify-create)
         -   [PRIMM](#primm)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
-            -   [Game(play) design patterns](#gameplay-design-patterns)
+        -   [Design patterns](#design-patterns)
+        -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Coding club(houses) & Grass Roots community
@@ -40,8 +39,8 @@
                 Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
         -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
+        -   [Creative Family Learning - Roque (and
+            5d?)](#creative-family-learning---roque-and-5d)
         -   [A final reflection](#a-final-reflection)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)

@@ -240,24 +240,21 @@ SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN. -->
 
 ### Potential benefits of computer game design and programming (CGD&P)
 
-Turning more specifically studies on computer game design and programming (CGD&P), there are several notable reviews exploring the broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Hayes and Games [-@hayes_making_2008], identify four main motivations for CGD&P: learn computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review [-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions namely: studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Together these competencies are framed as 21st Century Skills [@bermingham_approaches_2013].
+Turning more specifically studies on computer game design and programming (CGD&P), there are several notable reviews exploring motivations, process and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1; @gee_video_2016]. While Gee and Tran discuss the diverse tools available for game design [-@gee_video_2016], Hayes and Games [-@hayes_making_2008] take a broader approach, identifing four main motivations for CGD&P specifically: learning computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review [-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions namely: studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Together these competencies are framed as 21st Century Skills [@bermingham_approaches_2013]. A review by Denner and colleagues focuses on computer science learning [@denner_does_2019], breaking this wider concept into subcategories of programming knowledge and problem specification and design.
 
-A review by Denner and colleagues focuses on computer science learning [@denner_does_2019], breaking this wider concept into subcategories of
+The narrative and celebratory nature of Kafai and Burke's review can be compared with that of Denner et al[@denner_does_2019], who take a systematic approach in their review and make more modest claims.
+However, their finding are also cautiously positive about the the effectiveness of CGD&P to develop computing science learning and motivation. While Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation (explore in the next section of this chapter), pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017]. Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Denner et al. outline three strands of pedagogical interest namely: design-build-test, stepwise instruction, and social pedagogical approaches. However, these strands are described only in vague terms, which is frustrating given their stated intent to provide a systematic review [@denner_does_2019], and the lack of any similar breakdown in other reviews. Later in this chapter, I explore these strands and describe and analyse pedagogies used in this field in more detail.
 
-<!-- Significantly, the review is structured around key areas of knowledge and skill development. The primary area involves of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. -->
+<!-- THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!! -->
+<!-- Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant.  -->
+
+<!--
+WHAT ABOUT FLUENCY?
+In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1] -->
+
+<!-- Significantly, the review is structured around key areas of knowledge and skill development. The primary area involves of building subject knowledge in educational settings in particular to develop coding and computing skiWhile the focus of lls and STEM subjects. -->
 
 <!-- Of particular interest to this study are studies exploring the social and cultural dimensions of CGD&P. While studies on pair programming techniques in CGD&P [@denner_computer_2007; @werner_can_2009] yield positive results, including increased confidence in coding and articulation of problems arising,  -->
-
-In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1]
-
-Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant.
-
-
-Similarly, while Kafai and Burke's reviews is strong in terms of broad potential of CGD&P and the barriers facing participation, pedagogies to address these are limited and expressed in only generalised terms [@illingworth_review_2017]. The narrative and celebratory nature of Kafai and Burke's review can be compared with that of Denner et al[@denner_does_2019;], who take a systematic approach in their review and make more modest claims regarding the effectiveness of CGD&P to develop computing science learning and motivation.
-However, their cautious finding are also broadly positive. They outline three strands of pedagogical interest, use of design cycles, stepwise approaches (WHICH IS WHAT), and social approaches. They conclude by noting the need for more research describing and evaluating pedagogy in more detail.
-
-THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!!
-
 
 <!-- This deficit in addressing and assessing pedagogies used, is reflective of a comparatively weakness of concepts of pedagogy within the wider constructionist theory, a dimension which is explored after the next section barriers to participation. -->
 
@@ -265,75 +262,55 @@ THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES A
 <!-- What is missing?
 Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
 
-### Barriers (and tensions) related to participation in game making
+### Barriers to participation in game making
 
-
-### Technical barriers
-
-**Difficulty of computer programming**
+This section explores relevant studies to outline the barriers to participation in CGD&P, covering in turn: technical barriers, those concerned with access to suitable technology and environments, and those to do with identity and values.
 
 As CGD&G involves computer programming, it inherits some of the intrinsic difficulty of that process [@sentance_teaching_2019; @gomes2007learning; @joao_cross-analysis_2019]. These difficulties include but are not limited to: the complexity of syntax and problem of leading with syntax [@gomes2007learning], issues of needing levels of abstraction in learning programming [@gomes2007learning], difficulties in applying skills learned between contexts [@rahmat_major_2012]. The use of specialist coding tools, using techniques like block coding, aimed at novice coders and in particular younger audience and alleviate the complexity of coding syntax, environments, and project organisation [@yu_survey_2018]. However, the simplification involved creates a tension between the use of more authentic languages and specialised, scaffolded approaches [@joao_cross-analysis_2019]. This tension is explored within the context of digital making, by Sefton-Green in his description of the use of Mozilla webmaker tools [-@sefton-green_mapping_2013]. These tools using web languages of HTML, CSS and JavaScript act a bridge between informal practices of web based making and professional tools. He contrasts these tools to Scratch and similar block based systems which obfuscate learners from authentic code languages.
 
 <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
 
+<!-- #### Access to  CGD&P -->
 
-### Barriers linked to identity and values
+Turning to issues of access to CGD&P, one key barrier is the inequality of access to participatory culture communities. Historical issues of lack of access to technology needed to make games might be solved by equipping community centres with computers which at the time were high cost items [@resnick_computer_1996]. However, technological access to computers, software and the internet is only of the relevant one dimensions. Sefton-Green proposes that motivated and capable facilitators are the main limit to potential participation given greater access to equipment most young people have. The full potential of the kinds of online metagaming communities described by Ito and Gee above [-@ito_hanging_2010; --@gee_what_2004], is only accessible to a minority.  Even within those accessing communities, those undertaking creative activities that generate finished digital products are the exception rather than norm, with one study exposing a 80 percent failure rate of collaborative media projects in the New Grounds community [@luther_why_2010].
 
-Studies study the use of games and playful techniques to overcome exclusion from the culture of computing [@kafai_diversifying_2017; @kafai_beyond_2014]. If students feel excluded from school culture then making bridges to home cultures is vital.
+Addressing barriers linked to identity and values, a key theme of CGD&P involves the potential of playful associations of games to increase inclusivity for those traditionally excluded from cultures of computing [@kafai_beyond_2014]. There is significant potential for tapping into home interests in computer games to make bridges to and more structured computing activities. The broad uptake of casual and retro gaming, and its proliferation of retro games in particular into popular culture provides a rich fund of knowledge which can be drawn upon in diverse ways [@moje_working_2004]. However, Kafai and Burke balance this potential with complex issues of the gender representation associated with gaming culture [@kafai_diversifying_2017].
 
-A key advantage of viewing the domain from a contextual point of view is allowing a more nuanced exploration of the motivations for participating or not participating in game making. There is a danger that lack of participation in computer science can be viewed from a deficit perspective, e.g. what skills or confidence to students lack. Studies from a sociocultural perspective allow for a deeper exploration of interests, values, and practices from outside of the immediate learning environment. In their critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process.
+Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlighted the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues [@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces. Similarly Buechley et al [@buechley_lilypad_2008, p. 431] ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”.
 
-Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In a game testers programme, DiSalvo and colleagues investigated these barriers in the context of interest in computer games be used to motivate  access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. The results highlighted that activities should be not only interesting but also align to the underlying values of the program's young, African American males.
+Margolis et al [@margolis_stuck_2008;] outlined barriers causing a race gap in participation and achievement in computing in a US context; specifically, feelings of isolation, less access to computing opportunities, and lack of social support. In a game testers programme, DiSalvo and colleagues investigated these barriers in the context of interest in computer games be used to motivate  access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. The results highlighted that activities should be not only interesting but also align to the underlying values of the program's young, African American males. In their critique of digital making cultures, Vossoughi et al [-@vossoughi_making_2016] stress the need to explore and incorporate not only the values of but also cultural experiences of working-class students and students of colour into the making process.
 
-Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation with abstract approaches to computing. They highlighted the need for diversity of teaching and learning styles to address issues surrounding the early socialisation of women and girls to value personal and concrete styles of working. Denner and colleagues[@denner_what_2008; @angelides_beyond_2014] highlighted inclusive gender practice in game making includes allowing participants choice over not only the content of the games they make but also the dominant mode of play (game mechanics). Their findings show a complex picture of girls interests in game genres, a picture supported by research which caution against gender stereo-typing and identity in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address the issues of gender identities within game design by advocating the creation of new communities and learning environments which align with values of participants rather than trying to lure girls in to existing, male-gendered spaces.
-Similarly Buechley et al [@buechley_lilypad_2008, p. 431]  ask “how can we integrate computer science with activities and communities that girls and women are already engaged in?”,
 
-**_Inequality of access to participatory culture communities (Barrier)_**
+<!-- To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents. -->
 
-In online game making communities, Ito and colleagues [-@ito_hanging_2010] note that generative activities are the exception rather than norm even in expressly creative communities, with another study exposing a 80 percent failure rate of collaborative media projects in a [@luther_why_2010].
-
-More on access.
-
-To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents.
-
-## Deconstructing the concept of constructionist gaming AND for the aim of (HOW DOES THIS HELP THE PROBLEM STATEMENT?)
-
+### Exploring pedagogies of constructionist gaming
 
 <!-- Before turning to a more detailed exploration of distinct pedagogies used in or appropriate for CGD&P,  -->
 
-This section explores Kafai and Burke's framing of _constructionist gaming_, as a dominant voice in this domain, as a means to situate the concerns of this thesis within the existing body of research. To do this I explore how games present particular opportunities compared to other digital products,  and then by articulating the limits of claims surrounding constructionism as a guiding pedagogy.
+<!-- Turning first to how games are special.
+However, while the inclusion games clearly favour these elements, the  use of home interests and the use of a playful approach are not unique to game making.
+Kafai and Burke
+
+also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity. -->
+
+This section explores Kafai and Burke's framing of _constructionist gaming_, as a dominant voice in this domain, as a means to situate the concerns of this thesis within the existing body of research. To do this I explore criticism of constructionism, in particular for its lack of specific pedagogical approach.
+
+While Laurillard  gives a clear summary of constructionism as a distinctive and productive pedagogy, she notes that 'theoretical underpinnings of constructionism are difficult to pin down in most of its literature' [@laurillard2020significance, p.29]. Laurillard's definition draws on founder Papert's vision of a publicly shareable project based on a microworld environment (a concept explored later in this chapter) designed to bring certain set of concepts to the fore. However, this narrow and clear definition is at odd with the way the concept has been used by Resnick [-@resnick2014give] and other constructionist researcher, particularly in their advocacy surrounding the value of software and hardware tools that promote an open ended, child-led approach to designing engaging and relatable objects of interest. Research on constructionism as an educational approach has increasingly focused primarily on the design affordances of researcher-created toolkits and communities to develop a personal understandings of knowledge [@vossoughi_making_2016]. Where pedagogy is described in recent constructionist studies, for the most part takes the form of broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], (explored later in this chapter).  Recently, Kafai, has revisited this topic to add the importance of situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work is at a broad scope any specifics on the pedagogical scaffolding to achieve this are still absent.  Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective  notes this lack of _intentional forms of pedagogy_, attributing it to the schools' focus on tools rather than sociocultural contexts and the development of social relationships as part of the making process.
+
+<!-- Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies . -->
+
+Vossoughi along with other researchers also highlight political and social concerns
+[@thumlert2018learning; @vossoughi_making_2016], positioning a constructionist approach as implicitly favouring coding to progress to join the computer programming industry, and develop employability (21st Century) skills in young people. Thumlert and colleagues caution against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses." [@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons. The authors also warn that this positioning aids the potential subsuming of a constructionist approach into instruction-based approaches limited to curricular concerns [@thumlert2018learning] rather than the espoused development of _computational fluency_, a concept which favours the development the learners expression within a community.
+
+Given the importance of more intentional forms of pedagogy in this area, and given the lack of detail in the reviews describe above, the following sections detail several key pedagogies used in CGD&P.
+<!--
+In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, -->
 
 
-Kafai and Burke note that while there are benefits to exploring games over other types of media projects, including their inherent rules based systems, which facilitate the exploration of systems thinking and design approaches, a potential problem with prioritising games is the gender elements associated with gameing - THIS IS CONFUSED IN THE ORIGINAL
-
-While gaming culture has previously raised concerns regarding inclusion [], the broad uptake of casual and retro gaming, and its proliferation of retro games in particular into popular culture has helped address this concern and provides a rich fund of knowledge which can be drawn upon in diverse ways. Another strength of the use of games in leaning aligns with a playful approach which can have significant benefits for nurturing a positive attitude of participants [@klopfer_moving_2009]. However, while the inclusion games clearly favour these elements, the  use of home interests and the use of a playful approach are not unique to game making.
-
-Kafai and Burke also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity.
-
-MERGE WITH SECTION IN INTRODUCTION - OR MOVE SOME OF THIS TO CHAPTER 3. WHAT TO KEEP?
-
-Turning to theories of learning, constructionism promote an open ended, child-led approach to designing engaging and relatable objects of interest. Research on constructionism as an educational approach has historically focused primarily on the design affordances of researcher-created toolkits and communities to develop a personal understandings of knowledge [@vossoughi_making_2016].
-
-Vossoughi notes recent attempts to align constructionism with socio-cultural approaches, but continues to critique its lack of _intentional pedagogy_.
-
-This critique is partly addressed by Kafai, when she notes the importance a situated and critical approach to game making studies [@kafai_revaluation_2022; @kafai_theory_2020], specifics on pedagogical scaffolding and structure used to enable _constructionist gaming_ are absent [@illingworth_review_2017].
-
-Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies namely: design-build-test, stepwise instruction, and social pedagogical approaches.
+<!-- It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on. -->
 
 
-Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
-
-
-
-In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
-
-Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
-
-It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on.
-
-
-
-
+<!-- A key advantage of viewing the domain from a contextual point of view is allowing a more nuanced exploration of the motivations for participating or not participating in game making. There is a danger that lack of participation in computer science can be viewed from a deficit perspective, e.g. what skills or confidence to students lack. Studies from a sociocultural perspective allow for a deeper exploration of interests, values, and practices from outside of the immediate learning environment. -->
 
 
 
@@ -347,11 +324,7 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 ## Pedagogies to support game making via coding
 
-One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1. Following activity theory terms pedagogy can be framed as pedagogical tools and processes and can be viewed as a kind of meditational strategy.
-
-The following have been selected as particularly aligned to the scope of the research, digital making in informal approaches (game making specifically when possible) and developing agency. It also focuses on real life rather than online pedagogies (justify this).
-
-The progression of pedagogies here develops from those on the more formal elements, teacher led, and develop to describe key features of coding clubs and informal programs.
+One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1. Following activity theory terms pedagogy can be framed as pedagogical tools and processes and can be viewed as a kind of meditational strategy. The following have been selected as particularly aligned to the scope of the research, digital making (game making specifically when possible) in informal, real-life (rather than online) communities. In a key systematic review of game making studies, three key pedagogical streams were highlighted: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches [@denner_does_2019]. The review of pedagogies in this section broadly follows these streams dealing firstly with design thinking approaches and project-based learning. I follow by outlining some pedagogies based around scaffolding game production via progressive steps (e.g. Use, Modify and Create - UMC). Finally, I describe social and cultural features of coding clubs and informal programs which act as a site for CGD&P. 
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
 
@@ -360,7 +333,7 @@ The progression of pedagogies here develops from those on the more formal elemen
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
-### Design steps frameworks via stages - COMPRESS AS A SUBSECTION OF PBL?
+### Design frameworks using stages
 
 Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1].
 
