@@ -199,19 +199,11 @@ title: 2. Literature Review
     - Problem statement  
     - Link  -->
 
-This chapter undertakes a review of the literature around key areas relevant to situating and providing contextual information to answer the research questions of this study. To do this it explores several broad themes on inquiry. Firstly, as its dominance in this domain, I examine the findings of research and reviews in the areas of constructionist approach to game making. Following this, I focus in particular characteristics of relevant settings for game making, focusing in particular on the  barriers to participation to game making. This literature review then explores key pedagogies of game making, and   digital making where relevant. One key pedagogy addressed is the use of game design patterns. Here I assess the current potential explored in studies and highlight existing gaps in the current research, particularly in the area of developing notice coding practices. This aspect of the review supports the proposed problem statement of this thesis that game making processes in both formal and informal settings can benefit from more research involving novel pedagogies.  
-
-My final research questions involves the development of agency. This focus guides both the way in which I review current research on game making pedagogies, and how I describe current responses to current limits to the potential of game making in the final part of the chapter. I conclude by noting that the exploration of agency continues as part of Chapter 3 which outlines the the theoretical framework of the study.
-
-
+This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions. The review then delves into key pedagogies of game making and digital making. A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. Additionally this chapter examines the learning characteristics of informal settings for game making such as, code clubs, competitions and game jams. Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
 
 ## Context of game making and digital projects at home and other informal settings
 
-### Home eduction contextual factors relevant to this study
-
-The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. Two broad streams are sometimes framed as pedagogy and ideology [@galen_home_1991] [@rothermel_can_2003]. In terms of pedagogy, popular concepts in home ed circles include unschooling and deschooling. Holt's concept of unschooling [@gray_challenges_2013], highlights the value facilitating learning around of the process of drawing out interests of children in everyday activities.
-Illich's work around deschooling promotes an idea of webs of learning. Instead of one educational site as the font of all knowledge, learners  access learning experiences in varied contexts based on their interests and needs [@illich_deschooling_1971].
-Many home educating families are active in identifying networks to tap into [@doroudi_relevance_2023] using friendship and social networking groups and email to share opportunities and collaborate on learning activities.
+The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. These motivations are often categorized into two broad streams: pedagogy and ideology [@galen_home_1991; @rothermel_can_2003]. Addressing ideology, some families choose home education to limit their children’s exposure to mainstream values, such as religious beliefs or consumerist ideals. In terms of pedagogy, popular concepts within home education circles include unschooling and deschooling. Holt’s concept of unschooling [@gray_challenges_2013] emphasises facilitating learning by drawing out children's interests through everyday activities. Illich’s work on deschooling promotes the idea of _webs of learning_ [@illich_deschooling_1971], where learners access educational experiences in varied contexts based on their interests and needs, rather than relying on a single educational institution as the sole source of knowledge. Many home-educating families actively seek and establish networks, using friendships, social networking groups, and email lists to share opportunities and collaborate on learning activities [@doroudi_relevance_2023]. The game-making club that forms the basis of this research can be viewed as one node within the complex web of learning that participating families engage with.
 
 ### Defining informal education
 
@@ -324,7 +316,7 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 ## Pedagogies to support game making via coding
 
-One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1. Following activity theory terms pedagogy can be framed as pedagogical tools and processes and can be viewed as a kind of meditational strategy. The following have been selected as particularly aligned to the scope of the research, digital making (game making specifically when possible) in informal, real-life (rather than online) communities. In a key systematic review of game making studies, three key pedagogical streams were highlighted: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches [@denner_does_2019]. The review of pedagogies in this section broadly follows these streams dealing firstly with design thinking approaches and project-based learning. I follow by outlining some pedagogies based around scaffolding game production via progressive steps (e.g. Use, Modify and Create - UMC). Finally, I describe social and cultural features of coding clubs and informal programs which act as a site for CGD&P. 
+One of the main themes of this review is to address what pedagogies are available in to help coding, in relation to RQ1. Following activity theory terms pedagogy can be framed as pedagogical tools and processes and can be viewed as a kind of meditational strategy. The following have been selected as particularly aligned to the scope of the research, digital making (game making specifically when possible) in informal, real-life (rather than online) communities. In a key systematic review of game making studies, three key pedagogical streams were highlighted: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches [@denner_does_2019]. The review of pedagogies in this section broadly follows these streams dealing firstly with design thinking approaches and project-based learning. I follow by outlining some pedagogies based around scaffolding game production via progressive steps (e.g. Use, Modify and Create - UMC). Finally, I describe social and cultural features of coding clubs and informal programs which act as a site for CGD&P.
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
 
@@ -720,10 +712,16 @@ Regarding game design patters, in the  work of Werner et al [-@werner2014using],
 
 ### The problem statement of the thesis
 
+<!-- - Discussion of implications of synthesis of the Literature review
+- Description on  how the RQs frame the problem to help an investigation via the data gathered. -->
+
 This section gives a further overall synthesis of the problems of the area based on Lit review that this study aims to address via the RQs.
 
-- Discussion of implications of synthesis of the Literature review
-- Description on  how the RQs frame the problem to help an investigation via the data gathered.
+From the reviews of the field above, it is clear that game making processes in informal settings can benefit from more research involving novel pedagogies designed to develop learner agency and identity as game makers.
+
+In addition, the lack of pedagogical detail in existing research, particularly of which are communicated in a detailed and robust way, suggests that the research process should be outlined in a way which allows replication. This need aligns with my own commitment to and experience in documenting learning processes and facilitation materials in an open source way.
+
+My final research questions involves the development of agency. This focus guides both the way in which I review current research on game making pedagogies, and how I describe current responses to current limits to the potential of game making in the final part of the chapter.
 
 
 ####  pedagogies exist but more are needed
