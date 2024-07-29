@@ -238,12 +238,17 @@ SUPPLEMENT THIS WIHT POINTS FROM SEFTON GREEN. -->
 
 <!-- ### A review of studies on computer game design and programming (CGD&P) -->
 
-Turning more specifically studies on computer game design and programming (CGD&P), there are several notable reviews exploring the broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Some reviews focus on key areas of CGD&P, for instance, Bermingham et al### A review of studies on computer game design and programming (CGD&P) [@bermingham_approaches_2013] emphasise 21st Century skills, while Gee and Tran discuss the diverse tools available for game design [-@gee_video_2016]. Hayes and Games [-@hayes_making_2008], identify four main motivations for CGD&P: learn computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review[-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions. These include studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. These competencies are commonly known as 21st Century Skills.
+### Potential benefits of computer game design and programming (CGD&P)
 
+Turning more specifically studies on computer game design and programming (CGD&P), there are several notable reviews exploring the broad motivations and impact of making games for learning [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1]. Hayes and Games [-@hayes_making_2008], identify four main motivations for CGD&P: learn computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts. Kafai and Burke's review [-@kafai_constructionist_2015-1] synthesising 55 relevant papers, including CGD&P within a frame of _constructionist gaming_, mostly maintains these categories but add some new dimensions namely: studies addressing race-related barriers to participation and those addressing social dimensions such as pair programming, social skills, self-reflection, cultural awareness and a range of technical abilities that allow participation in information society. Together these competencies are framed as 21st Century Skills [@bermingham_approaches_2013].
+
+A review by Denner and colleagues focuses on computer science learning [@denner_does_2019], breaking this wider concept into subcategories of
 
 <!-- Significantly, the review is structured around key areas of knowledge and skill development. The primary area involves of building subject knowledge in educational settings in particular to develop coding and computing skills and STEM subjects. -->
 
 <!-- Of particular interest to this study are studies exploring the social and cultural dimensions of CGD&P. While studies on pair programming techniques in CGD&P [@denner_computer_2007; @werner_can_2009] yield positive results, including increased confidence in coding and articulation of problems arising,  -->
+
+In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1]
 
 Kafai and Burke note the lack of studies addressing collaborative approaches in research on CGD&P. Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant.
 
@@ -318,14 +323,19 @@ Denner and colleagues' review of this area, using the term CGD&P rather than con
 
 Instead constructionist researchers often adopt the broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], details of which are explored in the pedagogy section of this chapter.
 
-<!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
-<!-- However, the range of applications of PBL creates significant challenges in communicating the types and specific details of appropriate scaffolding. The situated nature of the learning makes representation of practice difficult. -->
+
 
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, but also caution against the potential subsuming of a constructionist approach into instruction-based  approaches limited to curricular concerns [@thumlert2018learning].
 
 Critics [@thumlert2018learning; @vossoughi_making_2016] , position a constructionist approach as implicitly favouring the following: coding to progress to join the computer programming industry, developing a deeper understanding of curricular concepts, and develop employability (21st Century) skills in young people.  Thumlert  cautions against the appropriation of such skills as "creativity and 'design thinking' are similarly colonized by market-driven agendas and discourses."[@thumlert2018learning, p.4], rather than being mobilised for critical and emancipatory reasons.
 
 It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on.
+
+
+
+
+
+
 
 <!-- **Returning to developing Computational Fluency**
 PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
@@ -350,53 +360,6 @@ The progression of pedagogies here develops from those on the more formal elemen
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
-
-### Project-based learning (PBL)
-
-<!-- As outlined in the introduction, this thesis, while guided by constructionism as a design approach, uses AT as a theoretical framework.
-In addition, this section outlines the value of PBL as a more developed framework as well. -->
-
-**PBL provides a wide scope of research detailing pedagogical approaches aligned with the aims of this research.**
-
-<!-- There is a clear alignment between the potential of making games and other media products as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills).  -->
-
-The educational strategy of learning how to code games in a informal setting lends itself to a project based learning (PBL) approach. The following section explores relevant elements of PBL pedagogies, where possible making alignments with existing game making studies. In broad terms, PBL is an educational strategy which advocates: learner choice in projects which increases motivation; authentic and shareable project outcomes and learning environments to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners [@barron_doing_1998; @hernandez_aalborg_2015].
-
-PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016]. PBL pedagogy aligns with AT concepts of learning in that change happens via the use of artefacts use in a community [@gibbes_project-based_2014; @hung_activity_2000].
-
-    <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
-
-Critics of PBL often wrongly conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. In formal education, contextual factors hinder the adoption of PBL challenge creative approaches in general. These include challenges of teaching to an exam-based curriculum, time allocated and other timetabling factors. While these are less applicable to informal settings, other challenges still exist including, lack of frameworks, expertise, confidence in facilitation [@ertmer_essentials_2015-1].
-
-Studies and supporting resources advocating PBL articulate various procedural forms of scaffolding which facilitators can adopt, including those to aid group work, support reflection, and to structure knowledge sharing via project outcomes [@ertmer_essentials_2015-1; @pitot_establishing_2024]. An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
-
-PBL can be effective in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8], language learning [@gibbes_project-based_2014], and digital making [@weng_characterizing_2022].  However, due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
-
-<!-- It is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning. -->
-
-<!-- Research in the area of digital media production using a PBL methodology exists
-
-Gibbes et al's review of PBL in language learning from an activity theory perspective provides good foundational material for this study [@gibbes_project-based_2014]. -->
-
-
-<!-- Given then broad benefits of PBL to make media, and returning to the claims around Kafai on constructionist games, it invites the question, is there anything particularly special about the use of games as a project? -->
-<!-- **Returning to developing Computational Fluency**
-PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
-
-To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills? -->
-
-<!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy
-
- [@werner_middle_2005-1] -->
-
-
-<!-- Benefits which have been explored in research and toolsets privileging these aspects over coding or other skills. -->
-
-<!-- It is helpful a this point to align these PBL guidelines with underlying activity theory concepts and illustration in similar research -->
-
- <!-- - Pair programming as guided participation  - in Rogoff and ...? -->
-
-
 ### Design steps frameworks via stages - COMPRESS AS A SUBSECTION OF PBL?
 
 Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1].
@@ -414,23 +377,54 @@ Diagram [@resnick_lifelong_2017] -->
 
 One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
-<!-- However, while the ethos and benefits of this approach is communicated in a convincing way, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.   -->
+
 
 <!--
 A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
-
-    Ask: Identify the Need & Constraints;
-    Research the Problem;
-    Imagine: Develop Possible Solutions;
-    Plan: Select a Promising Solution;
-    Create: Build a Prototype;
-    Test and Evaluate Prototype; and Improve: Redesign as Needed -->
+ -->
 
 While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products. Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communities to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective. One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
 The authors, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
 ADD TO THE PROBLEMS STATEMENT.  
 
+Thus, while the ethos and benefits of this approach are convincing RESNICK'S TAKE, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  
 
+### Project-based learning (PBL)
+
+<!-- As outlined in the introduction, this thesis, while guided by constructionism as a design approach, uses AT as a theoretical framework.
+In addition, this section outlines the value of PBL as a more developed framework as well. -->
+
+**PBL provides a wide scope of research detailing pedagogical approaches aligned with the aims of this research.**
+
+<!-- There is a clear alignment between the potential of making games and other media products as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills).  -->
+
+The educational strategy of learning how to code games in a informal setting lends itself to a project based learning (PBL) approach. The following section explores relevant elements of PBL pedagogies, where possible making alignments with existing game making studies. In broad terms, PBL is an educational strategy which advocates: learner choice in projects which increases motivation; authentic and shareable project outcomes and learning environments to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners [@barron_doing_1998; @hernandez_aalborg_2015].
+
+PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016]. PBL pedagogy aligns with AT concepts of learning in that change happens via the use of artefacts use in a community [@gibbes_project-based_2014; @hung_activity_2000].
+
+    <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
+
+Critics of PBL often wrongly conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. In formal education, contextual factors hinder the adoption of PBL challenge creative approaches in general. These include challenges of teaching to an exam-based curriculum, time allocated and other timetabling factors. While these are less applicable to informal settings, other challenges still exist including, lack of frameworks, expertise, confidence in facilitation [@ertmer_essentials_2015-1]. In addition, the range of applications and situated nature of the learning via PBL creates significant challenges in representation of practice, including communicating specific details of scaffolding used.
+
+<!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
+
+
+Studies and supporting resources advocating PBL articulate various procedural forms of scaffolding which facilitators can adopt, including those to aid group work, support reflection, and to structure knowledge sharing via project outcomes [@ertmer_essentials_2015-1; @pitot_establishing_2024]. An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
+
+PBL can be effective in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8], language learning [@gibbes_project-based_2014], and digital making [@weng_characterizing_2022].  However, due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
+
+<!-- It is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning. -->
+
+<!-- Research in the area of digital media production using a PBL methodology exists
+
+Gibbes et al's review of PBL in language learning from an activity theory perspective provides good foundational material for this study [@gibbes_project-based_2014]. -->
+
+
+<!-- Given then broad benefits of PBL to make media, and returning to the claims around Kafai on constructionist games, it invites the question, is there anything particularly special about the use of games as a project? -->
+<!-- **Returning to developing Computational Fluency**
+PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
+
+To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills? -->
 
 
 
