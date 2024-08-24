@@ -17,12 +17,15 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Introduction](#introduction)
         -   [Notes on structure of the
             chapter](#notes-on-structure-of-the-chapter)
-            -   [Recap of Emerging role of
-                playtesting](#recap-of-emerging-role-of-playtesting)
-    -   [Observations on emerging flexible design
-        practices](#observations-on-emerging-flexible-design-practices)
-        -   [Observations on Flexible Design
-            Practices](#observations-on-flexible-design-practices)
+            -   [Recap of Emerging role of playtesting / PERHAPS MOVE
+                SOME BACK
+                HERE](#recap-of-emerging-role-of-playtesting-perhaps-move-some-back-here)
+    -   [Observations / Discussion
+        section](#observations-discussion-section)
+        -   [Observations on emerging flexible design
+            practices](#observations-on-emerging-flexible-design-practices)
+        -   [Discussion on Flexible Design
+            Practices](#discussion-on-flexible-design-practices)
         -   [On different Game Making
             approaches](#on-different-game-making-approaches)
             -   [Observations on Game Making
@@ -32,63 +35,55 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 learning](#a-focus-on-the-value-of-changing-roles---especially-peer-teaching-as-reinforcing-learning)
             -   [The potential of emergent "non-productive"
                 activities](#the-potential-of-emergent-non-productive-activities)
-    -   [Discussion on making types and side
-        missions](#discussion-on-making-types-and-side-missions)
+        -   [Discussion on making types and side
+            missions](#discussion-on-making-types-and-side-missions)
         -   [Discussion in relation to other research - beyond design
             cycle
             stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages)
         -   [On Game Jamming](#on-game-jamming)
-        -   [Recommendations for practice based on developing agency of
-            Participants - WRITE HERE AND MOVE IF
-            NEEDED.](#recommendations-for-practice-based-on-developing-agency-of-participants---write-here-and-move-if-needed.)
-    -   [Authenticity in project approaches (was drama
-        process)](#authenticity-in-project-approaches-was-drama-process)
-    -   [Discussion / Synthesis section](#discussion-synthesis-section)
-        -   [Metaphors on developing
-            agency](#metaphors-on-developing-agency)
-        -   [Synthesis - The interaction of emergent / flexible deign
-            practices and the collection of Game Design
-            Patterns](#synthesis---the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
-        -   [Dual stimulation and conceptions of
-            agency](#dual-stimulation-and-conceptions-of-agency)
-        -   [Metaphors](#metaphors)
-            -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
-            -   [Affordances as catching points
-                metaphor](#affordances-as-catching-points-metaphor)
-        -   [Playgrounds and sheltered
-            harbours](#playgrounds-and-sheltered-harbours)
-            -   [Nurturing agency by creating space for emergent
-                practices](#nurturing-agency-by-creating-space-for-emergent-practices)
-    -   [Exploring conceptions of agency via a synthesis of the findings
-        of this study (using metaphors
-        above)](#exploring-conceptions-of-agency-via-a-synthesis-of-the-findings-of-this-study-using-metaphors-above)
-        -   [Discussion on agency concerning tools and resources
-            (authenticity in
-            particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
-            -   [Increased scaffolding of tools can increase
-                instrumental agency but at what
-                cost?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost)
+        -   [Observations / Discussions on Dimensions of
+            Authenticity](#observations-discussions-on-dimensions-of-authenticity)
+            -   [Observations on Authenticity in project
+                approaches](#observations-on-authenticity-in-project-approaches)
             -   [Different black boxes for different
                 goals](#different-black-boxes-for-different-goals)
+            -   [Increased scaffolding of tools can increase
+                instrumental agency but at what cost? EXPLORE AS
+                TENSION? MOVE TO CH.
+                4?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost-explore-as-tension-move-to-ch.-4)
             -   [The potentially awesome impact of lifting the lid on
                 authentic
                 technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-            -   [Exploring characteristics of the learning design using
-                different dimensions of agency & previous
-                metaphors](#exploring-characteristics-of-the-learning-design-using-different-dimensions-of-agency-previous-metaphors)
+    -   [Discussion of three dimension of agency using a metaphorical
+        approach](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach)
+        -   [Affordances as points on a climbing wall to support
+            understandings of instrumental
+            agency](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency)
+        -   [Playgrounds and sheltered harbours as a way to explore
+            conceptions of relational agency - INTEGRATE MY
+            FINDINGS](#playgrounds-and-sheltered-harbours-as-a-way-to-explore-conceptions-of-relational-agency---integrate-my-findings)
+        -   [Exploring transformative agency using the metaphor of
+            Kedging
+            anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
+            -   [Dual stimulation and conceptions of
+                agency](#dual-stimulation-and-conceptions-of-agency)
+            -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
+    -   [Synthesis Section](#synthesis-section)
+        -   [Synthesis - The interaction of emergent / flexible deign
+            practices and the collection of Game Design
+            Patterns](#synthesis---the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
+        -   [Discussion on agency concerning tools and resources
+            (authenticity in
+            particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
+            -   [INTEGRATE ABOVE Exploring characteristics of the
+                learning design using different dimensions of agency &
+                previous
+                metaphors](#integrate-above-exploring-characteristics-of-the-learning-design-using-different-dimensions-of-agency-previous-metaphors)
             -   [Agency in response to a series of second stimuli aimed
                 at participant
                 identity](#agency-in-response-to-a-series-of-second-stimuli-aimed-at-participant-identity)
-    -   [Summary of implications for practice to encourage
-        agency](#summary-of-implications-for-practice-to-encourage-agency)
-        -   [Asking questions about the challenge of applying this model
-            to classroom
-            environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
-            -   [Divining authentic
-                frameworks](#divining-authentic-frameworks)
-            -   [Keeping hard fun hard](#keeping-hard-fun-hard)
-    -   [Implications in conceptualisations of forms of
-        agency](#implications-in-conceptualisations-of-forms-of-agency)
+        -   [Conceptualisations of forms of
+            agency](#conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [Emerging use of narratives and graphics which drawing on
@@ -330,7 +325,6 @@ Within the concept of jamming, activity which is casual seemingly non-productive
 <!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
 
 
-
 ### Observations / Discussions on Dimensions of Authenticity
 
 NOT SURE HOW MUCH OF THIS SHOULD BE IN CHAPTER 4
@@ -400,7 +394,7 @@ Lifting the lid on hidden technologies and concepts in hands-on, exploratory pro
     Pearl: You just take things for granted don’t you?
 
 
-## Discussion / Synthesis section
+## Discussion of three dimension of agency using a metaphorical approach  
 
 An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this I draw on key forms of developmental agency explored in Chapter 3.
 
@@ -409,9 +403,50 @@ This section synthesises findings learner agency in relation to existing concept
 This section explores these academic conceptions in a playful way using relatable metaphors from related research. The aim of this playful/relatable approach is to aid the situation of later recommendations for researchers and educators working in this area in an accessible way.
 
 
-NOTE THIS NEEDS RESTRUCTURING TO INTEGRATE THE FINDINGS WITH THE CONCEPTIONS IN RESEARCH
+### Affordances as points on a climbing wall to support understandings of instrumental agency
 
-### Discussion developing different dimensions of agency linking this studies' finding with existing conceptions in relevant research
+<!-- In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However,  -->
+
+In this design, participants aim for affordances as visible  points. In the design above such  points include: regular play-testing; the use of documentation; and highlighted variables and level structure in the quick start stage.
+
+To incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind. Or in a training environment of a climbing wall, attaching colours to a particular route designed to suit a particular skill level.
+
+<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
+
+
+The role of the faciliator in this metaphor is to structure the climber journey to the top.
+
+This my be done by
+- defining or reducing the use use of specialised terminology  or
+- hiding away un-needed complexity.
+- signposting issues   
+- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
+
+
+
+### Playgrounds and sheltered harbours as a way to explore conceptions of relational agency - INTEGRATE MY FINDINGS
+
+My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
+
+Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
+
+Many design decisions were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; skirting use of specialist terminology; hiding away un-needed complexity in the code template.
+
+While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
+
+**Growing / Gardening metaphors**
+
+We can substitute the metaphor of playground/ harbour with that of a walled garden.
+
+The title to this chapter is  _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens.
+
+**The freedoms and restrictions of playgrounds**
+
+In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
+
+These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
+
+### Exploring transformative agency using the metaphor of Kedging anchors
 
 #### Dual stimulation and conceptions of agency
 
@@ -468,49 +503,18 @@ Sannino's metaphor of a kedging anchor thrown by participants to pull themselves
 
 The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
 
-#### Affordances as catching points metaphor
-
-In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However, in this design, participants aim for affordances as visible anchor points. In the design above such anchor points include: regular play-testing; the use of documentation; and highlighed variables and level structure in the quick start stage.
+##### SYNTHESIS - LINKING TO AFFORDENCES
 
 Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
-
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
 To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
 
-To shift the metaphor here, to incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind. Or in a training environment of a climbing wall, attaching colours to a particular route designed to suit a particular skill level.
-
-<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
-
-<!-- This my be done by
-- defining or reducing the use use of specialised terminology  or
-- hiding away un-needed complexity.
-- signposting issues like a lighthouse or similar big thing on a rock - don't go there  
-- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
-
-#### Playgrounds and sheltered harbours - INTEGRATE MY FINDINGS
-
-My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
-
-Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
-
-Many design decisions were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; skirting use of specialist terminology; hiding away un-needed complexity in the code template.
-
-While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
-
-**Growing / Gardening metaphors**
-
-We can substitute the metaphor of playground/ harbour with that of a walled garden.
-
-The title to this chapter is  _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens.
-
-**The freedoms and restrictions of playgrounds**
-
-In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
-
-These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
 
 
+## Synthesis Section
+
+Here
 #### SYNTHESIS - Nurturing agency by creating space for emergent practices
 
 **What relevance does the previous poetic description of agency have on practitioners and reserachers in this area?**

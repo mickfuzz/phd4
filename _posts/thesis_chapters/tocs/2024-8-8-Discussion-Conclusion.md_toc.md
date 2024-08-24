@@ -10,6 +10,14 @@
             relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contextual-factors-may-impact-relevancy)
         -   [Perhaps a summary of 3M & motivations
             here?](#perhaps-a-summary-of-3m-motivations-here)
+    -   [Summary of implications for practice to encourage
+        agency](#summary-of-implications-for-practice-to-encourage-agency)
+        -   [Asking questions about the challenge of applying this model
+            to classroom
+            environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
+            -   [Divining authentic
+                frameworks](#divining-authentic-frameworks)
+            -   [Keeping hard fun hard](#keeping-hard-fun-hard)
     -   [Research outputs & discussion on
         outputs](#research-outputs-discussion-on-outputs)
         -   [Research output: 3M game making (Meta) model of pedagogical
