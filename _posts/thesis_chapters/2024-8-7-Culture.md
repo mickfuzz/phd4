@@ -45,15 +45,15 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             Authenticity](#observations-discussions-on-dimensions-of-authenticity)
             -   [Observations on Authenticity in project
                 approaches](#observations-on-authenticity-in-project-approaches)
+            -   [The potentially awesome impact of lifting the lid on
+                authentic
+                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
             -   [Different black boxes for different
                 goals](#different-black-boxes-for-different-goals)
             -   [Increased scaffolding of tools can increase
                 instrumental agency but at what cost? EXPLORE AS
                 TENSION? MOVE TO CH.
                 4?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost-explore-as-tension-move-to-ch.-4)
-            -   [The potentially awesome impact of lifting the lid on
-                authentic
-                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
     -   [Discussion of three dimension of agency using a metaphorical
         approach](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach)
         -   [Affordances as points on a climbing wall to support
@@ -69,6 +69,14 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 agency](#dual-stimulation-and-conceptions-of-agency)
             -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
     -   [Synthesis Section](#synthesis-section)
+        -   [SYNTHESIS - How different forms of agency are developed and
+            transform over iterations of this game making
+            programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
+            -   [Proposal on shifting forms of
+                agency.](#proposal-on-shifting-forms-of-agency.)
+            -   [SYNTHESIS - Nurturing agency by creating space for
+                emergent
+                practices](#synthesis---nurturing-agency-by-creating-space-for-emergent-practices)
         -   [Synthesis - The interaction of emergent / flexible deign
             practices and the collection of Game Design
             Patterns](#synthesis---the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
@@ -82,8 +90,6 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [Agency in response to a series of second stimuli aimed
                 at participant
                 identity](#agency-in-response-to-a-series-of-second-stimuli-aimed-at-participant-identity)
-        -   [Conceptualisations of forms of
-            agency](#conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [Emerging use of narratives and graphics which drawing on
@@ -354,6 +360,18 @@ Educators should be aware of this tension and help resolve it by developing thei
 While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
 CROSSREFF -  list the benefits here.
 
+
+
+#### The potentially awesome impact of lifting the lid on authentic technologies   
+
+Lifting the lid on hidden technologies and concepts in hands-on, exploratory processes can be empowering for participants. Ratto explores this via critical making [@ratto_critical_2011], a process which playfully surfaces Latour's [@weibel_making_2005; @latour_cautious_2008] concepts of shifting matters of fact to matters of concern by exposing taken for granted artefacts as objects that have been designed (for better or worse). Conversations between participants showing an inspirational or engaging impact on previously unknown technology. For examples, exchanges among participants that communicated a sense of awe of how much effort and coding must be involved in a professional game based on the relative complexity of the code of their simple game.    
+
+    Pearl: It just shows you what goes into these games.
+    Student Helper 3: Think about how much effort goes into.
+    Pearl: You just take things for granted don’t you?
+
+
+
 #### Different black boxes for different goals
 
 My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
@@ -384,16 +402,6 @@ The _black box_ design decisions of use of tools and documentation create a kind
 
 
 
-#### The potentially awesome impact of lifting the lid on authentic technologies   
-
-
-Lifting the lid on hidden technologies and concepts in hands-on, exploratory processes can be empowering for participants. Ratto explores this via critical making [@ratto_critical_2011], a process which playfully surfaces Latour's [@weibel_making_2005; @latour_cautious_2008] concepts of shifting matters of fact to matters of concern by exposing taken for granted artefacts as objects that have been designed (for better or worse). Conversations between participants showing an inspirational or engaging impact on previously unknown technology. For examples, exchanges among participants that communicated a sense of awe of how much effort and coding must be involved in a professional game based on the relative complexity of the code of their simple game.    
-
-    Pearl: It just shows you what goes into these games.
-    Student Helper 3: Think about how much effort goes into.
-    Pearl: You just take things for granted don’t you?
-
-
 ## Discussion of three dimension of agency using a metaphorical approach  
 
 An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this I draw on key forms of developmental agency explored in Chapter 3.
@@ -422,6 +430,11 @@ This my be done by
 - signposting issues   
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
 
+LINK TO EXISTING WORK ON AFFORDENCES FROM SOCIAL CULTURAL PERSPECTIVE.
+LINK TO AT theory
+NARDI ON AFFORDENCES AND TECH FOR EXAMPLE
+AND ROUND UP THE CONSTRUCTIONIST UNDERSTANDING OF AFFORDANCES AND BLACK BOXING
+
 
 
 ### Playgrounds and sheltered harbours as a way to explore conceptions of relational agency - INTEGRATE MY FINDINGS
@@ -445,6 +458,10 @@ The title to this chapter is  _Seeding and Nurturing Game Making Communities to 
 In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
 
 These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
+
+MOVE to RECOMMENDATIONS?
+The concepts of affective space and magic circle  as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
+
 
 ### Exploring transformative agency using the metaphor of Kedging anchors
 
@@ -503,33 +520,49 @@ Sannino's metaphor of a kedging anchor thrown by participants to pull themselves
 
 The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
 
-##### SYNTHESIS - LINKING TO AFFORDENCES
+
+
+## Synthesis Section
+
+Here
+
+### SYNTHESIS - How different forms of  agency are developed and transform over iterations of this game making programme  
+
+
+#### Proposal on shifting forms of agency.
+
+Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
+
+Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
+
+A question arises, is it less valueable in later iterations? Different stokes probably.
+
+#####  LINKING TO ANCHORS TO AFFORDENCES
 
 Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
 TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
 To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
 
+#### AN EMERGING TENSION  - Is nurturing agency by creating space for emergent practices sustainable for ongoing iterations?
 
+Is it a negative thinkg that later participants have less opportunity for transformative agency?
 
-## Synthesis Section
-
-Here
-#### SYNTHESIS - Nurturing agency by creating space for emergent practices
-
-**What relevance does the previous poetic description of agency have on practitioners and reserachers in this area?**
+Also - A personal refection while I love this aspect, but others can find it stressful. Differnt strokes.
 
 <!--
 NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
 
-THIS SECTION IS STILL UNDER DEVELOPMENT
+INTEGRATE SOME OF THISL INTO THE SECTIONS OR THE DISCUSSION ABOVE ON HARBOURS.
 
 As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
 
 Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
 
-Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
+To retain this potential for transformation
+it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
 
+This would negate the use of the side missions perhaps.
 
 ### Synthesis -  The interaction of emergent / flexible deign practices and the collection of Game Design Patterns
 
@@ -598,24 +631,6 @@ Learner agency in the form of choice over the  chosen activity is present not on
 <!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
 
 Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
-
-
-### Conceptualisations of forms of agency
-
-THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
-
-This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
-
-This section contributes observations from this research process with the following aims.
-
- - to serve other researchers undertaking similar work using activity theory and design based approach
- - to help practitioners be research informed
-
-There is alignment with other research in terms of how
- - authenticity of tools can be problematic and needs design adaptation, often black boxing
- - this process merits attention and alignment with overall project aims of the designer
- - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
- - ideally emergent and producing a culture series of
 
 
 

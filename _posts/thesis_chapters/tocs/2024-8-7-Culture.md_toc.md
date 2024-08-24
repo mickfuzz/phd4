@@ -34,15 +34,15 @@
             Authenticity](#observations-discussions-on-dimensions-of-authenticity)
             -   [Observations on Authenticity in project
                 approaches](#observations-on-authenticity-in-project-approaches)
+            -   [The potentially awesome impact of lifting the lid on
+                authentic
+                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
             -   [Different black boxes for different
                 goals](#different-black-boxes-for-different-goals)
             -   [Increased scaffolding of tools can increase
                 instrumental agency but at what cost? EXPLORE AS
                 TENSION? MOVE TO CH.
                 4?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost-explore-as-tension-move-to-ch.-4)
-            -   [The potentially awesome impact of lifting the lid on
-                authentic
-                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
     -   [Discussion of three dimension of agency using a metaphorical
         approach](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach)
         -   [Affordances as points on a climbing wall to support
@@ -58,6 +58,14 @@
                 agency](#dual-stimulation-and-conceptions-of-agency)
             -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
     -   [Synthesis Section](#synthesis-section)
+        -   [SYNTHESIS - How different forms of agency are developed and
+            transform over iterations of this game making
+            programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
+            -   [Proposal on shifting forms of
+                agency.](#proposal-on-shifting-forms-of-agency.)
+            -   [SYNTHESIS - Nurturing agency by creating space for
+                emergent
+                practices](#synthesis---nurturing-agency-by-creating-space-for-emergent-practices)
         -   [Synthesis - The interaction of emergent / flexible deign
             practices and the collection of Game Design
             Patterns](#synthesis---the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
@@ -71,8 +79,6 @@
             -   [Agency in response to a series of second stimuli aimed
                 at participant
                 identity](#agency-in-response-to-a-series-of-second-stimuli-aimed-at-participant-identity)
-        -   [Conceptualisations of forms of
-            agency](#conceptualisations-of-forms-of-agency)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [Emerging use of narratives and graphics which drawing on

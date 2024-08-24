@@ -58,6 +58,8 @@
         research](#answering-rq3-on-agency---synthesis-and-limitations-of-this-research)
         -   [Specific 3M - techniques through the lens of agency
             (RQ3)](#specific-3m---techniques-through-the-lens-of-agency-rq3)
+        -   [Research Output - Conceptualisations of forms of
+            agency](#research-output---conceptualisations-of-forms-of-agency)
             -   [TADS - interventions and affordances as double
                 stimulation -
                 DROP](#tads---interventions-and-affordances-as-double-stimulation---drop)

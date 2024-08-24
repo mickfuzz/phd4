@@ -518,6 +518,25 @@ In PBL, UDL and other models - learner choice and building agency is shown to be
 
 In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
 
+### Research Output - Conceptualisations of forms of agency
+
+THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
+
+This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
+
+This section contributes observations from this research process with the following aims.
+
+ - to serve other researchers undertaking similar work using activity theory and design based approach
+ - to help practitioners be research informed
+
+There is alignment with other research in terms of how
+ - authenticity of tools can be problematic and needs design adaptation, often black boxing
+ - this process merits attention and alignment with overall project aims of the designer
+ - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
+ - ideally emergent and producing a culture series of
+
+
+
 #### TADS - interventions and affordances as double stimulation - DROP
 
 Revisiting terms; The term intervention and affordances do not nearly align with the broad conceptual framework of this study infering a duality between subject and object. FIND REFERENCE
