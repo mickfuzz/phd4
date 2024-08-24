@@ -19,8 +19,8 @@
             analysis](#overall-table-and-rational-of-data-analysis)
         -   [Notes to allocate to a
             stage](#notes-to-allocate-to-a-stage)
-            -   [Rational and approach of data analysis
-                -](#rational-and-approach-of-data-analysis--)
+            -   [Rational and approach of data
+                analysis -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
             -   [3 planes approach - noting tensions and
                 behaviours](#planes-approach---noting-tensions-and-behaviours)

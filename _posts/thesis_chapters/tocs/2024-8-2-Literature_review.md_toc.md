@@ -5,23 +5,17 @@
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
-        -   [Home eduction contextual factors relevant to this
-            study](#home-eduction-contextual-factors-relevant-to-this-study)
-        -   [Defining informal education](#defining-informal-education)
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Potential benefits of computer game design and programming
-            (CGD&P)](#potential-benefits-of-computer-game-design-and-programming-cgdp)
         -   [Barriers to participation in game
             making](#barriers-to-participation-in-game-making)
         -   [Exploring pedagogies of constructionist
             gaming](#exploring-pedagogies-of-constructionist-gaming)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
-        -   [Design steps frameworks via stages - COMPRESS AS A
-            SUBSECTION OF
-            PBL?](#design-steps-frameworks-via-stages---compress-as-a-subsection-of-pbl)
+        -   [Design frameworks using
+            stages](#design-frameworks-using-stages)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
