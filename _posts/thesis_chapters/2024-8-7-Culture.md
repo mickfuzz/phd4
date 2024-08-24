@@ -181,17 +181,21 @@ This section describes and discusses some of the emergent, flexible and adaptive
 <!-- I also discuss these findings in line with existing research in relevant areas. -->
 
 
-#### Recap of Emerging role of playtesting
+
+
+#### Recap of Emerging role of playtesting / PERHAPS MOVE SOME BACK HERE
 
 The emerging character of playtesting in this design (explored in Chapter 5) is another example of a process which began in as an introduced activity. Namely:
 
 
 
 
+## Observations / Discussion  section
+
+SOME EVIDENCE HERE
 
 
-
-## Observations on emerging flexible design practices
+### Observations on emerging flexible design practices
 
 To restructure. More evidence on emerging norms, DoL, and community behaviour.  
 
@@ -231,7 +235,7 @@ In a closer review of key literature claims of of the value for participants of 
 
 
 
-#### Observations on Flexible Design Practices
+### Discussion on Flexible Design Practices
 
 While the concept of Game Jams are established, the free form flexibility of the Jam process is often left to the skills and evolving practices of the participants.
 
@@ -287,10 +291,11 @@ This a concept is developed later in this discussion.
 
 
 
-## Discussion on making types and side missions
+### Discussion on making types and side missions
 
 The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
+MOVE THIS UP?
 As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
 
 
@@ -313,22 +318,12 @@ There are disparate resources available for game jams but due to the adult centr
 
 Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
 
-
-Examples
+Examples - move examples up?
 
 Within the concept of jamming, activity which is casual seemingly non-productive can still transmit useful information to guide collaborative practices. As per above and examples in Appedix ? Find.
 
-MOVE THIS CLAIM LATER.
-**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams.
-
-
-
-### Recommendations for practice based on developing agency of Participants - WRITE HERE AND MOVE IF NEEDED.
-
-Pull out some of the 3M aspects from Fok, Playtesting, Flexible practice.
-
-- keep it flexible,
--  Jamming
+<!-- MOVE THIS CLAIM LATER.
+**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams. -->
 
 
 
@@ -336,8 +331,13 @@ Pull out some of the 3M aspects from Fok, Playtesting, Flexible practice.
 
 
 
+### Observations / Discussions on Dimensions of Authenticity
 
-## Authenticity in project approaches (was drama process)
+NOT SURE HOW MUCH OF THIS SHOULD BE IN CHAPTER 4
+AND HOW MUCH IS NEEDED FOR THEISIS RQS.
+MOVE ALL HERE AND EVALUATE LATER
+
+#### Observations on Authenticity in project approaches
 
 Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
 
@@ -360,6 +360,44 @@ Educators should be aware of this tension and help resolve it by developing thei
 While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
 CROSSREFF -  list the benefits here.
 
+#### Different black boxes for different goals
+
+My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
+
+Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
+
+
+#### Increased scaffolding of tools can increase instrumental agency but at what cost? EXPLORE AS TENSION? MOVE TO CH. 4?
+
+Increased scaffolding of learner resources and tools can increase instrumental agency for novice coders but at the potential cost of reducing access to the tools and processes of authentic creative communities. Many of the design adaptations described in this chapter align with motivations of constructionist design principles explored in the Literature review [@resnick_design_2005]. Techniques or concepts which are embodied in both the Scratch software and the adaptations to the tool set of this intervention include:
+
+- reducing barriers to entry through techniques to avoid code syntax errors
+- increasing engagement with a code authoring environment that provides live feedback of the results of code output
+-  supporting immediacy of creative process by providing a library of assets.
+- The use of black boxes?
+
+IT FEELS LIKE IT WOULD BE GOOD TO TRY TO SQUEEZE THIS BIT INTO CHAPTER 4 ?
+PERHAPS via some ADDITION TO A TABLE AT THE END OF CHATPER 4
+
+While these elements of ethos are aligned, the process of supporting novices to use an authentic, text-based language and authoring tools used by professional community required more specific adaptations (o) : creating simplified but extendable starting template; highlighting code variables as key design affordances; using a grid structure to visually facilitate level design; and simplifying the syntax and the structure of the game code.
+
+Of particular relevant to the process of this design is the  constructionist design principles, choose black boxes carefully.  Resnick [@resnick_reflections_2005] explains the designing of black boxes as the process of as abstracting away areas potentially problematic areas of the production process. Black boxes allow the learning design to steer participants towards the exploration of certain concepts and away from those that have been hidden.
+
+The _black box_ design decisions of use of tools and documentation create a kind of border between the participants experience with the protective environment of the scaffolded learning experience and a more open ecology of learning from code in the wild; specifically via the use of authentic developer focused tools, processes and documentation. A significant drawback of using a bespoke tool for novices is that attempts to progress by stepping outside of that protective area risk culture shock and alienation from the newly unfamiliar environment.
+
+
+<!-- This is a long-running theme of constructionist research, with roots in Papert concept of Microworlds, typically embodied by the Mathland environment, where participants control a robotic turtle with lines of simplified LOGO code language.  Because the turtle speaks only LOGO, children are drawn to speak LOGO to progress. Thus, Scratch and Mircoworlds can be seen as digital playgrounds with affordances that encourage certain types of play. -->
+
+
+
+#### The potentially awesome impact of lifting the lid on authentic technologies   
+
+
+Lifting the lid on hidden technologies and concepts in hands-on, exploratory processes can be empowering for participants. Ratto explores this via critical making [@ratto_critical_2011], a process which playfully surfaces Latour's [@weibel_making_2005; @latour_cautious_2008] concepts of shifting matters of fact to matters of concern by exposing taken for granted artefacts as objects that have been designed (for better or worse). Conversations between participants showing an inspirational or engaging impact on previously unknown technology. For examples, exchanges among participants that communicated a sense of awe of how much effort and coding must be involved in a professional game based on the relative complexity of the code of their simple game.    
+
+    Pearl: It just shows you what goes into these games.
+    Student Helper 3: Think about how much effort goes into.
+    Pearl: You just take things for granted don’t you?
 
 
 ## Discussion / Synthesis section
@@ -373,34 +411,9 @@ This section explores these academic conceptions in a playful way using relatabl
 
 NOTE THIS NEEDS RESTRUCTURING TO INTEGRATE THE FINDINGS WITH THE CONCEPTIONS IN RESEARCH
 
-### Metaphors on developing agency
+### Discussion developing different dimensions of agency linking this studies' finding with existing conceptions in relevant research
 
-
-
-### Synthesis -  The interaction of emergent / flexible deign practices and the collection of Game Design Patterns
-
-THIS SECTION SHOULD BE DEVELOPED. BUT LATER?
-
-BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS.
-
-- It's a balance between structure and choice
-- Menu facilitates a rhizomatic approach / within a structure
-- progress to metaphors
-
-In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks.
-
-The nature of the framework provided by game play design patterns can be explored through the lens of agency and authenticity.  
-
-They are authentic  -
-There is choice  - and interaction - contribution to the overall object.
-
-
-
-
-
-
-
-### Dual stimulation and conceptions of agency
+#### Dual stimulation and conceptions of agency
 
 As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). This section explores these conceptions using the core AT concept of dual stimulation.
 
@@ -441,10 +454,6 @@ Introducing additional tools in the form of documentation to the initial coding 
 
 More examples linking DS to practice follow after exploring agency using metaphors.
 
-### Metaphors
-
-How does this all fit together?
-
 
 #### Kedging anchor metaphor
 
@@ -461,7 +470,6 @@ The following section integrates affordance theory into a metaphor to encompass 
 
 #### Affordances as catching points metaphor
 
-
 In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However, in this design, participants aim for affordances as visible anchor points. In the design above such anchor points include: regular play-testing; the use of documentation; and highlighed variables and level structure in the quick start stage.
 
 Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
@@ -472,7 +480,6 @@ To aid learners agency, designers notice existing paths of participants and add 
 
 To shift the metaphor here, to incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind. Or in a training environment of a climbing wall, attaching colours to a particular route designed to suit a particular skill level.
 
-
 <!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
 
 <!-- This my be done by
@@ -481,17 +488,11 @@ To shift the metaphor here, to incorporate the utility of  previously used affor
 - signposting issues like a lighthouse or similar big thing on a rock - don't go there  
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
 
-
-
-
-
-
-### Playgrounds and sheltered harbours
+#### Playgrounds and sheltered harbours - INTEGRATE MY FINDINGS
 
 My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
 
 Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
-
 
 Many design decisions were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; skirting use of specialist terminology; hiding away un-needed complexity in the code template.
 
@@ -510,9 +511,7 @@ In this research, similar metaphors have emerged in the pedagogical and technica
 These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes. The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail.
 
 
-
-
-#### Nurturing agency by creating space for emergent practices
+#### SYNTHESIS - Nurturing agency by creating space for emergent practices
 
 **What relevance does the previous poetic description of agency have on practitioners and reserachers in this area?**
 
@@ -528,7 +527,22 @@ Adopting analysis which aligns authorial agency and transformative agency, there
 Thus, I propose that key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. The concepts of affective space and magic circle  previously explored in the context of drama process as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
 
 
-## Exploring conceptions of agency via a synthesis of the findings of this study (using metaphors above)
+### Synthesis -  The interaction of emergent / flexible deign practices and the collection of Game Design Patterns
+
+THIS SECTION SHOULD BE DEVELOPED. BUT LATER?
+
+BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS.
+
+- It's a balance between structure and choice
+- Menu facilitates a rhizomatic approach / within a structure
+- progress to metaphors
+
+In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks.
+
+The nature of the framework provided by game play design patterns can be explored through the lens of agency and authenticity.  
+
+They are authentic  -
+There is choice  - and interaction - contribution to the overall object.
 
 ### Discussion on agency concerning tools and resources  (authenticity in particular)
 
@@ -541,48 +555,6 @@ Chapter 4  exposed the tensions that developed in the activity systems and subse
 
 <!-- _lifting the hood_ (see LR) -->
 <!-- The distributed nature of the toolset used helped build authentic digital literacy skills.   -->
-
-
-
-#### Increased scaffolding of tools can increase instrumental agency but at what cost?
-
-Increased scaffolding of learner resources and tools can increase instrumental agency for novice coders but at the potential cost of reducing access to the tools and processes of authentic creative communities. Many of the design adaptations described in this chapter align with motivations of constructionist design principles explored in the Literature review [@resnick_design_2005]. Techniques or concepts which are embodied in both the Scratch software and the adaptations to the tool set of this intervention include:
-
-- reducing barriers to entry through techniques to avoid code syntax errors
-- increasing engagement with a code authoring environment that provides live feedback of the results of code output
--  supporting immediacy of creative process by providing a library of assets.
-- The use of black boxes?
-
-IT FEELS LIKE IT WOULD BE GOOD TO TRY TO SQUEEZE THIS BIT INTO CHAPTER 4 ?
-PERHAPS via some ADDITION TO A TABLE AT THE END OF CHATPER 4
-
-While these elements of ethos are aligned, the process of supporting novices to use an authentic, text-based language and authoring tools used by professional community required more specific adaptations (o) : creating simplified but extendable starting template; highlighting code variables as key design affordances; using a grid structure to visually facilitate level design; and simplifying the syntax and the structure of the game code.
-
-Of particular relevant to the process of this design is the  constructionist design principles, choose black boxes carefully.  Resnick [@resnick_reflections_2005] explains the designing of black boxes as the process of as abstracting away areas potentially problematic areas of the production process. Black boxes allow the learning design to steer participants towards the exploration of certain concepts and away from those that have been hidden.
-
-The _black box_ design decisions of use of tools and documentation create a kind of border between the participants experience with the protective environment of the scaffolded learning experience and a more open ecology of learning from code in the wild; specifically via the use of authentic developer focused tools, processes and documentation. A significant drawback of using a bespoke tool for novices is that attempts to progress by stepping outside of that protective area risk culture shock and alienation from the newly unfamiliar environment.
-
-
-<!-- This is a long-running theme of constructionist research, with roots in Papert concept of Microworlds, typically embodied by the Mathland environment, where participants control a robotic turtle with lines of simplified LOGO code language.  Because the turtle speaks only LOGO, children are drawn to speak LOGO to progress. Thus, Scratch and Mircoworlds can be seen as digital playgrounds with affordances that encourage certain types of play. -->
-
-
-
-#### Different black boxes for different goals
-
-
-My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
-
-Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
-
-
-#### The potentially awesome impact of lifting the lid on authentic technologies   
-
-
-Lifting the lid on hidden technologies and concepts in hands-on, exploratory processes can be empowering for participants. Ratto explores this via critical making [@ratto_critical_2011], a process which playfully surfaces Latour's [@weibel_making_2005; @latour_cautious_2008] concepts of shifting matters of fact to matters of concern by exposing taken for granted artefacts as objects that have been designed (for better or worse). Conversations between participants showing an inspirational or engaging impact on previously unknown technology. For examples, exchanges among participants that communicated a sense of awe of how much effort and coding must be involved in a professional game based on the relative complexity of the code of their simple game.    
-
-    Pearl: It just shows you what goes into these games.
-    Student Helper 3: Think about how much effort goes into.
-    Pearl: You just take things for granted don’t you?
 
 
 
@@ -624,42 +596,41 @@ Learner agency in the form of choice over the  chosen activity is present not on
 Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
 
 
-## Implications in conceptualisations of forms of agency
+### Conceptualisations of forms of agency
 
-THIS SHOULD BE DROPPED OR INTEGRATED TO SOMEWHERE ELSE? CONCLUSION PERHAPS.
-
+THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
 
 This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
 
 This section contributes observations from this research process with the following aims.
+
  - to serve other researchers undertaking similar work using activity theory and design based approach
  - to help practitioners be research informed
 
-
- There is alignment with other research in terms of how
-
+There is alignment with other research in terms of how
  - authenticity of tools can be problematic and needs design adaptation, often black boxing
  - this process merits attention and alignment with overall project aims of the designer
  - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
  - ideally emergent and producing a culture series of
 
 
-<!-- Transistion - When designing with learner agency in mind. Some of the following may help -->
 
 ## Conclusion
 
-In AT terminology, this chapter has in a general sense returned to the concrete (see Marx / Blunden). Chapter four outlined a design narrative where tools were chosen and adapted by myself and Participants in response to local context. Chapter five explored the emerging organisational unit of GDPs, and how they were used as meditational strategies.  This chapter has explored emergent cultural and community activity, and deepened discussion on interpersonal activity, and then returned to discuss implications for dimensions of concrete tool use on learner agency.
+In AT terminology, this chapter has in a general sense returned to the concrete (see Marx / Blunden).
+
+Chapter four outlined a design narrative where tools were chosen and adapted by myself and Participants in response to local context. Chapter five explored the emerging organisational unit of GDPs, and how they were used as meditational strategies.  
+
+This chapter has explored emergent cultural and community activity, and deepened discussion on interpersonal activity, and then returned to discuss implications for dimensions of concrete tool use on learner agency.
 
 It's dialectic innit. We call it praxis.
+
 The methodology chapter outlined some of the challenges of this approach, particularly in the thick description of context, and the challenge of then satisfying the goal of generalisability / and overall utitlity.
 
-The final chapters aims to address this with research outputs, implications and recommendations for facilitators and researchers.
-
-
+The final chapters aims to address this with  recommendations for facilitators and researchers.
 
 <!-- [^1]: https://playthinklearn.net/blog/ten-steps-to-game-design/
 [^2]: https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/ -->
-
 
 
 ## TO MOVE OR DROP FROM CHAPTER
