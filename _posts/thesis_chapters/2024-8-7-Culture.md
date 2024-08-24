@@ -447,13 +447,28 @@ Many design decisions were made to create a supported, simplified coding environ
 
 While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
 
-**Growing / Gardening metaphors**
+
+#### How to seed relational practices in the community garden of the program  /  Growing / Gardening metaphors
 
 We can substitute the metaphor of playground/ harbour with that of a walled garden.
 
 The title to this chapter is  _Seeding and Nurturing Game Making Communities to Facilitate Learner Agency_. It could be extended to _Rewilding_ metaphor to reflect the importance of leaving learners to evolve their own processes as a form of authorial and transformational agency, albeit within the forms of pedagogical walled gardens.
 
-**The freedoms and restrictions of playgrounds**
+
+##### Relational Agency in response to a series of stimuli participant identity
+
+Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
+
+<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
+
+MOVE SOMEWHERE? DIVISION OF LABOUR -
+Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation.
+
+Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within it.
+
+It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
+
+#### The freedoms and restrictions of playgrounds
 
 In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
 
@@ -465,7 +480,7 @@ The concepts of affective space and magic circle  as a way to encourage particip
 
 ### Exploring transformative agency using the metaphor of Kedging anchors
 
-#### Dual stimulation and conceptions of agency
+#### Dual stimulation and conceptions of agency - MOVE SEOM OF THIS UP INTO AFFORDENCES. 
 
 As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). This section explores these conceptions using the core AT concept of dual stimulation.
 
@@ -583,22 +598,25 @@ There is choice  - and interaction - contribution to the overall object.
 
 ### Discussion on agency concerning tools and resources  (authenticity in particular)
 
+MOVE MUCH OF THIS TO THE AFFORDENCES SECTION ABOVE IF SUITABLE -
+THEN MOVE SOME ELEMENTS OF DUAL STIMULATION TO THAT SECTION ON AFFORDENCES.
+
+
+
 <!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
 
 Chapter 4  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format. This section begins to analyse these tensions in more depth, in particular the intersection of authenticity in tool use and participant agency.
 
 
-<!-- While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity, supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency. -->
+While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity, supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency.
 
-<!-- _lifting the hood_ (see LR) -->
-<!-- The distributed nature of the toolset used helped build authentic digital literacy skills.   -->
 
 
 
 #### INTEGRATE ABOVE Exploring characteristics of the learning design using different dimensions of agency & previous metaphors
 
 
-Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
 
 An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
 
@@ -620,18 +638,7 @@ While the genesis engendered authorial agency, if repeated this process of caref
 
 Other affordances of the design would encourage greater authorial (and relational agency), for example those designed to build user's sense of belonging in the game making community.
 
-#### Agency in response to a series of second stimuli aimed at participant identity
-
-- game player types
-- side missions
-- ?
-
-Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
-
-<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
-
-Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design. While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within its. It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group. Further examples are explored in chapter five.
-
+MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
 
 ## Conclusion
