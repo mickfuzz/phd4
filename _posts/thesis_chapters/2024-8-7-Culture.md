@@ -480,7 +480,7 @@ The concepts of affective space and magic circle  as a way to encourage particip
 
 ### Exploring transformative agency using the metaphor of Kedging anchors
 
-#### Dual stimulation and conceptions of agency - MOVE SEOM OF THIS UP INTO AFFORDENCES. 
+#### Dual stimulation and conceptions of agency - MOVE SEOM OF THIS UP INTO AFFORDANCES.
 
 As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). This section explores these conceptions using the core AT concept of dual stimulation.
 
