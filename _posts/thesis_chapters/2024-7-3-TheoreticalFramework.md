@@ -1,4 +1,4 @@
----
+  ---
 # all the regular stuff you have here
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
@@ -171,7 +171,7 @@ The process of finding a germ cell/ unit of analysis is seen as a productive tec
 
 In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth. RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Chapter 4 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
 
-Turning to the developmental aspect, a granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002]. In Chapters 5 and 6 GDPs are explored as a developmental, germ cell concept in practical terms. 
+Turning to the developmental aspect, a granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002]. In Chapters 5 and 6 GDPs are explored as a developmental, germ cell concept in practical terms.
 
 
 <!-- #### TO MERGE UP - Principle: Finding suitable dimensions and units of analysis by focusing on objects of activity
@@ -627,6 +627,9 @@ The principle noted above of analysis of tensions and areas of conflict guides m
 Double stimulation refers to the use of tools and processes to overcome such conflicts. Engestrom's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
 
 One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
+
+While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
+
 
 
 
