@@ -443,7 +443,7 @@ In research on the use of wiki technology by students Lund and Ramussen [-@lund_
 
 WHERE BEST TO ADD THE CONCEPT OF A SERIES OF SECONDARY STIMULI PART - THE MANY -
 
-REMOVE THIS DUPLICATE EXAMPLE PERHAPS EVEN THIS WHOLE SECTION. 
+REMOVE THIS DUPLICATE EXAMPLE PERHAPS EVEN THIS WHOLE SECTION.
 For example in my design:
 Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process.
 
@@ -479,24 +479,30 @@ THEN MOVE SOME ELEMENTS OF DUAL STIMULATION TO THAT SECTION ON AFFORDENCES.
 
 <!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
 
-Chapter 4  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format. This section begins to analyse these tensions in more depth, in particular the intersection of authenticity in tool use and participant agency.
+Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format.
+
+This section  analyse these tensions in more depth,
+CAN THIS JUST BE A SUMMARY OF PREVIOUS CHAPTERS QUICKLY EXPRESSED? TABLE? BEFORE MOVING INTO METAPHOR SECTION?
+
+In particular the intersection of authenticity in tool use and participant agency. DOES THIS HAPPEN? - IF SO WHERE
+
+WHERE IS THIS CLARIFIED? WHY IS IT IMPORTANT?
+While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity,
+supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency.
 
 
-While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity, supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency.
-
-
-#### INTEGRATE ABOVE Exploring characteristics of the learning design using different dimensions of agency & previous metaphors
-
-
+DOES SOME OF THIS LIVE IN CHAPTER 5 IN THE DESIGN NARRATIVE?
 An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
+CHAPT 5
 
 The motivations for creating starter templates are similar for both educators and professional template creators. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.  This strong alignment with authentic, professional practice may help learners transition to other forms of web coding projects, due to the similarity of as this element of practice.
-
+CH.5
 <!-- PIVOT -->
  a theme explored in more detail in chapter five
 Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
+CH 5.
 
-This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection.
+<!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
 
 This curated replication of authentic process of finding and incorporating code snippets into the starting template supported the development of skills used in professional coding communities.
 
@@ -504,12 +510,21 @@ The careful alignment between navigational documentation and the participants dr
 
 The process aligns with the concept of just-in-time instruction.
 
-While the genesis engendered authorial agency, if repeated this process of careful alignment would represent instrumental agency.
+While the genesis of processes in P1  authorial agency, if repeated this process of careful alignment would represent instrumental agency.
+DROP?
 
 Other affordances of the design would encourage greater authorial (and relational agency), for example those designed to build user's sense of belonging in the game making community.
 
 MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
+
+### Justifying the use of Metaphors in these FINDINGS
+
+A mixed readership for this research is hoped for as relevant to pracitioners and some of the break down of agency is quite academic in tone and potentialy opaque.
+
+There is a good tradition of metaphors in this space with Papert's low thresholds, high ceilings and wide walls concept. INSERT IN LR, PERHAPS IN TRANSITION FROM MICROWORLDS TO SCRATCH AND DESIGN BUILD TEST GAME MAKING.  
+
+Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]  
 
 ### Playgrounds and sheltered harbours as a way to explore conceptions of relational agency - INTEGRATE MY FINDINGS
 
