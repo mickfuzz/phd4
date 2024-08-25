@@ -331,76 +331,6 @@ Within the concept of jamming, activity which is casual seemingly non-productive
 <!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
 
 
-### Observations / Discussions on Dimensions of Authenticity
-
-NOT SURE HOW MUCH OF THIS SHOULD BE IN CHAPTER 4
-AND HOW MUCH IS NEEDED FOR THEISIS RQS.
-MOVE ALL HERE AND EVALUATE LATER
-
-#### Observations on Authenticity in project approaches
-
-Authenticity in project approaches can profitably be applied to tools, processes and project goals  [@hung_engaged_2006]. Authenticity in goal here is clear. Participants make a real digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
-
-As explored in this chapter and in chapter four, the authenticity of the tools and processes involved are more complex.
-
-Playtesting processes are authentic and often informed by existing real experience as game players. These observations are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
-
-There are examples of the authenticity of the audience being used by participants
-
-  - Suzanna uses the imagined audience to norm behaviour.
-  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
-The use of code playgrounds and js? structured along design principles which align with affordance theory.
-
-THEREFORE - WHAT IS THE KEY POINT HERE?
-
-While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
-
-Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
-
-While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
-CROSSREFF -  list the benefits here.
-
-
-
-#### The potentially awesome impact of lifting the lid on authentic technologies   
-
-Lifting the lid on hidden technologies and concepts in hands-on, exploratory processes can be empowering for participants. Ratto explores this via critical making [@ratto_critical_2011], a process which playfully surfaces Latour's [@weibel_making_2005; @latour_cautious_2008] concepts of shifting matters of fact to matters of concern by exposing taken for granted artefacts as objects that have been designed (for better or worse). Conversations between participants showing an inspirational or engaging impact on previously unknown technology. For examples, exchanges among participants that communicated a sense of awe of how much effort and coding must be involved in a professional game based on the relative complexity of the code of their simple game.    
-
-    Pearl: It just shows you what goes into these games.
-    Student Helper 3: Think about how much effort goes into.
-    Pearl: You just take things for granted don’t you?
-
-
-
-#### Different black boxes for different goals
-
-My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
-
-Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar.
-
-
-#### Increased scaffolding of tools can increase instrumental agency but at what cost? EXPLORE AS TENSION? MOVE TO CH. 4?
-
-Increased scaffolding of learner resources and tools can increase instrumental agency for novice coders but at the potential cost of reducing access to the tools and processes of authentic creative communities. Many of the design adaptations described in this chapter align with motivations of constructionist design principles explored in the Literature review [@resnick_design_2005]. Techniques or concepts which are embodied in both the Scratch software and the adaptations to the tool set of this intervention include:
-
-- reducing barriers to entry through techniques to avoid code syntax errors
-- increasing engagement with a code authoring environment that provides live feedback of the results of code output
--  supporting immediacy of creative process by providing a library of assets.
-- The use of black boxes?
-
-IT FEELS LIKE IT WOULD BE GOOD TO TRY TO SQUEEZE THIS BIT INTO CHAPTER 4 ?
-PERHAPS via some ADDITION TO A TABLE AT THE END OF CHATPER 4
-
-While these elements of ethos are aligned, the process of supporting novices to use an authentic, text-based language and authoring tools used by professional community required more specific adaptations (o) : creating simplified but extendable starting template; highlighting code variables as key design affordances; using a grid structure to visually facilitate level design; and simplifying the syntax and the structure of the game code.
-
-Of particular relevant to the process of this design is the  constructionist design principles, choose black boxes carefully.  Resnick [@resnick_reflections_2005] explains the designing of black boxes as the process of as abstracting away areas potentially problematic areas of the production process. Black boxes allow the learning design to steer participants towards the exploration of certain concepts and away from those that have been hidden.
-
-The _black box_ design decisions of use of tools and documentation create a kind of border between the participants experience with the protective environment of the scaffolded learning experience and a more open ecology of learning from code in the wild; specifically via the use of authentic developer focused tools, processes and documentation. A significant drawback of using a bespoke tool for novices is that attempts to progress by stepping outside of that protective area risk culture shock and alienation from the newly unfamiliar environment.
-
-
-<!-- This is a long-running theme of constructionist research, with roots in Papert concept of Microworlds, typically embodied by the Mathland environment, where participants control a robotic turtle with lines of simplified LOGO code language.  Because the turtle speaks only LOGO, children are drawn to speak LOGO to progress. Thus, Scratch and Mircoworlds can be seen as digital playgrounds with affordances that encourage certain types of play. -->
-
-
 
 ## Discussion of three dimension of agency using a metaphorical approach  
 
@@ -410,27 +340,27 @@ This section synthesises findings learner agency in relation to existing concept
 
 This section explores these academic conceptions in a playful way using relatable metaphors from related research. The aim of this playful/relatable approach is to aid the situation of later recommendations for researchers and educators working in this area in an accessible way.
 
-#### Dual stimulation and conceptions of agency -
+### Justifying the use of Metaphors in these FINDINGS
+
+A mixed readership for this research is hoped for as relevant to pracitioners and some of the break down of agency is quite academic in tone and potentialy opaque.
+
+There is a good tradition of metaphors in this space with Papert's low thresholds, high ceilings and wide walls concept. INSERT IN LR, PERHAPS IN TRANSITION FROM MICROWORLDS TO SCRATCH AND DESIGN BUILD TEST GAME MAKING.  
+
+Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]  
+
+
+### Dual stimulation and conceptions of agency -IS THIS AN INTRODUCTION TO METAPHORS WITH A SUMMARY OR SOMETHING ELSE?
 
 As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). This section explores these conceptions using the core AT concept of dual stimulation.
-
-The exploration of tensions in Chapter 5 and  the transformative use of GDPs in the previous chapter help ground these concepts in the context of this study.
-
-In summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
-But may remove authroial or relational agency.
-
-As an example take the tensions surrounding  authenticity of coding web development language, coding environment and documentation. my choice of curated collection of docs prevented friction and potential confusion if using real developer documents.  
-
-Instrumental agency
 
 
 <!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
 
-Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency) agency.
+<!-- Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency) agency.
 
 In many cases design decisions were driven by the response and interest of the participants.
 
-Research on  engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+Research on  engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. -->
 
 **How Double Stimulation informs understandings of agency in this design**
 
@@ -451,7 +381,15 @@ Introducing additional tools in the form of documentation to the initial coding 
 
 <!-- In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However,  -->
 
-In this design, participants aim for affordances as visible  points. In the design above such  points include: regular play-testing; the use of documentation; and highlighted variables and level structure in the quick start stage.
+The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+But may remove authroial or relational agency.
+
+As an example take the tensions surrounding  authenticity of coding web development language, coding environment and documentation. my choice of curated collection of docs prevented friction and potential confusion if using real developer documents.  
+
+
+In this design, participants aim for affordances as visible  points.
+
+In the design above such  points include: regular play-testing; the use of documentation; and highlighted variables and level structure in the quick start stage.
 
 To incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind. Or in a training environment of a climbing wall, attaching colours to a particular route designed to suit a particular skill level.
 
@@ -517,14 +455,6 @@ Other affordances of the design would encourage greater authorial (and relationa
 
 MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
-
-### Justifying the use of Metaphors in these FINDINGS
-
-A mixed readership for this research is hoped for as relevant to pracitioners and some of the break down of agency is quite academic in tone and potentialy opaque.
-
-There is a good tradition of metaphors in this space with Papert's low thresholds, high ceilings and wide walls concept. INSERT IN LR, PERHAPS IN TRANSITION FROM MICROWORLDS TO SCRATCH AND DESIGN BUILD TEST GAME MAKING.  
-
-Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]  
 
 ### Playgrounds and sheltered harbours as a way to explore conceptions of relational agency - INTEGRATE MY FINDINGS
 
