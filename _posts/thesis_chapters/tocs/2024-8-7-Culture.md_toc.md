@@ -30,32 +30,30 @@
             cycle
             stages](#discussion-in-relation-to-other-research---beyond-design-cycle-stages)
         -   [On Game Jamming](#on-game-jamming)
-        -   [Observations / Discussions on Dimensions of
-            Authenticity](#observations-discussions-on-dimensions-of-authenticity)
-            -   [Observations on Authenticity in project
-                approaches](#observations-on-authenticity-in-project-approaches)
-            -   [The potentially awesome impact of lifting the lid on
-                authentic
-                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-            -   [Different black boxes for different
-                goals](#different-black-boxes-for-different-goals)
-            -   [Increased scaffolding of tools can increase
-                instrumental agency but at what cost? EXPLORE AS
-                TENSION? MOVE TO CH.
-                4?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost-explore-as-tension-move-to-ch.-4)
     -   [Discussion of three dimension of agency using a metaphorical
         approach](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach)
+        -   [Justifying the use of Metaphors in these
+            FINDINGS](#justifying-the-use-of-metaphors-in-these-findings)
+        -   [The use of concepts of mediation and dual stimulation in
+            this exploration of the development of
+            agency](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency)
         -   [Affordances as points on a climbing wall to support
             understandings of instrumental
             agency](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency)
+        -   [Discussion on agency concerning tools and resources
+            (authenticity in
+            particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
         -   [Playgrounds and sheltered harbours as a way to explore
             conceptions of relational agency - INTEGRATE MY
             FINDINGS](#playgrounds-and-sheltered-harbours-as-a-way-to-explore-conceptions-of-relational-agency---integrate-my-findings)
+            -   [How to seed relational practices in the community
+                garden of the program / Growing / Gardening
+                metaphors](#how-to-seed-relational-practices-in-the-community-garden-of-the-program-growing-gardening-metaphors)
+            -   [The freedoms and restrictions of
+                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Exploring transformative agency using the metaphor of
             Kedging
             anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
-            -   [Dual stimulation and conceptions of
-                agency](#dual-stimulation-and-conceptions-of-agency)
             -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
     -   [Synthesis Section](#synthesis-section)
         -   [SYNTHESIS - How different forms of agency are developed and
@@ -63,22 +61,13 @@
             programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
             -   [Proposal on shifting forms of
                 agency.](#proposal-on-shifting-forms-of-agency.)
-            -   [SYNTHESIS - Nurturing agency by creating space for
-                emergent
-                practices](#synthesis---nurturing-agency-by-creating-space-for-emergent-practices)
-        -   [Synthesis - The interaction of emergent / flexible deign
-            practices and the collection of Game Design
-            Patterns](#synthesis---the-interaction-of-emergent-flexible-deign-practices-and-the-collection-of-game-design-patterns)
-        -   [Discussion on agency concerning tools and resources
-            (authenticity in
-            particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
-            -   [INTEGRATE ABOVE Exploring characteristics of the
-                learning design using different dimensions of agency &
-                previous
-                metaphors](#integrate-above-exploring-characteristics-of-the-learning-design-using-different-dimensions-of-agency-previous-metaphors)
-            -   [Agency in response to a series of second stimuli aimed
-                at participant
-                identity](#agency-in-response-to-a-series-of-second-stimuli-aimed-at-participant-identity)
+        -   [Synthesis - The interaction of flexible deign practices,
+            the collection of Game Design Patterns, stepwise scaffolding
+            of learning environments and new understandings of
+            agency.](#synthesis---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
+            -   [Returning to the concept of computational fluency with
+                a lens of
+                agency](#returning-to-the-concept-of-computational-fluency-with-a-lens-of-agency)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [Emerging use of narratives and graphics which drawing on

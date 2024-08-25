@@ -629,7 +629,9 @@ It's dialectic innit. We call it praxis.
 
 The methodology chapter outlined some of the challenges of this approach, particularly in the thick description of context, and the challenge of then satisfying the goal of generalisability / and overall utitlity.
 
-The final chapters aims to address this with  recommendations for facilitators and researchers.
+The final chapters aims to address this with  recommendations for facilitators and researchers. The scope of the applicability is addressed as the findings of this thesis can inform the wider debate of how to best support project based learning in wider domains. Specifically the use of concrete design frameworks and step-based iterative project in scaffolding PBL.
+
+
 
 <!-- [^1]: https://playthinklearn.net/blog/ten-steps-to-game-design/
 [^2]: https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/ -->

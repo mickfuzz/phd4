@@ -46,6 +46,8 @@
         -   [Surfacing areas of contradiction in joint activity through
             method of double
             stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
+        -   [Mediation compared to double
+            stimulation](#mediation-compared-to-double-stimulation)
         -   [Third spaces, idiocultures and designed systems as a
             research
             method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)

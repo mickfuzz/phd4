@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 8. Discursive Conclusion
 ---
-
 -   [Discursive Conclusion](#discursive-conclusion)
     -   [Research Questions - March
         2024](#research-questions---march-2024)
@@ -17,32 +16,71 @@ title: 8. Discursive Conclusion
         -   [Initial Discussion Outline](#initial-discussion-outline)
         -   [Initial Conclusion Outline](#initial-conclusion-outline)
     -   [Introduction](#introduction)
-        -   [Revisiting potential audiences for the research outputs of
-            this study and how contextual factors may impact
-            relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contextual-factors-may-impact-relevancy)
-        -   [Perhaps a summary of 3M & motivations
-            here?](#perhaps-a-summary-of-3m-motivations-here)
-    -   [Research outputs & discussion on
-        outputs](#research-outputs-discussion-on-outputs)
+    -   [Key Findings and research
+        outputs](#key-findings-and-research-outputs)
         -   [Research output: 3M game making (Meta) model of pedagogical
             elements of the learning
             design](#research-output-3m-game-making-meta-model-of-pedagogical-elements-of-the-learning-design)
-        -   [Research Output - MoE
-            approach](#research-output---moe-approach)
-            -   [Side missions, Maker Types to address identity
-                issues.](#side-missions-maker-types-to-address-identity-issues.)
         -   [Research Output - Toolsets of template and Code playground
             (RQ1 and impact on
             RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3)
-        -   [Research Output - Toolsets of template and Code playground
-            (RQ1 and impact on
-            RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3-1)
-        -   [Research Output - MoE approach & creating
-            spaces](#research-output---moe-approach-creating-spaces)
-            -   [Side missions, Maker Types to address identity
-                issues.](#side-missions-maker-types-to-address-identity-issues.-1)
+        -   [Evidence of evolution on design/ processes and learner
+            agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
+    -   [Theoretical Contributions](#theoretical-contributions)
+        -   [Research Output - Conceptualisations of forms of
+            agency](#research-output---conceptualisations-of-forms-of-agency)
+        -   [Divining authentic
+            frameworks](#divining-authentic-frameworks)
+    -   [Practical implications and recommendations for
+        practice](#practical-implications-and-recommendations-for-practice)
+        -   [Revisiting potential audiences for the research outputs of
+            this study and how contextual factors may impact
+            relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contextual-factors-may-impact-relevancy)
+        -   [Using Concrete / applied
+            frameworks](#using-concrete-applied-frameworks)
+            -   [abstact vs applied frameworks - Comparing aims of
+                coding for empowerment/ learner agency with STEM
+                pipeline
+                narrative](#abstact-vs-applied-frameworks---comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
+            -   [Guided iterative (step-wise) project
+                frames.](#guided-iterative-step-wise-project-frames.)
         -   [The value and processes of creating space for emergent
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
+        -   [Summary of implications for practice to encourage
+            agency](#summary-of-implications-for-practice-to-encourage-agency)
+        -   [Asking questions about the challenge of applying this model
+            to classroom
+            environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
+        -   [Discussion on 3M's accumulative effect - more than a sum or
+            parents](#discussion-on-3ms-accumulative-effect---more-than-a-sum-or-parents)
+    -   [Limitations if this research](#limitations-if-this-research)
+        -   [Gender based issues of
+            inclusion](#gender-based-issues-of-inclusion)
+        -   [Advantages and limitations of Home Education
+            context](#advantages-and-limitations-of-home-education-context)
+        -   [A larger focus on empowerment impact on
+            participants](#a-larger-focus-on-empowerment-impact-on-participants)
+    -   [Future directions and promising
+        areas](#future-directions-and-promising-areas)
+        -   [Design patterns as a teaching
+            aid](#design-patterns-as-a-teaching-aid)
+        -   [How can the use of design patterns map to other computing
+            educational
+            domains?](#how-can-the-use-of-design-patterns-map-to-other-computing-educational-domains)
+    -   [Concluding reflection](#concluding-reflection)
+        -   [Final reflection of the characteristics and potential of
+            the pedagogy and how it relates to my past and
+            future](#final-reflection-of-the-characteristics-and-potential-of-the-pedagogy-and-how-it-relates-to-my-past-and-future)
+    -   [PREVIOUS WORK TO MOVE OR
+        INTEGRATE](#previous-work-to-move-or-integrate)
+        -   [Perhaps a summary of 3M & motivations
+            here?](#perhaps-a-summary-of-3m-motivations-here)
+            -   [Keeping hard fun hard - MOVE TO A DISCUSSION SECTION OF
+                ATHER CHAPTER? CH. 7 = IN MOVEMENT BETWEEN DIFFERENT
+                TYPES OF AGENCY / CMOPUTATIONAL
+                FLUENCY?](#keeping-hard-fun-hard---move-to-a-discussion-section-of-ather-chapter-ch.-7-in-movement-between-different-types-of-agency-cmoputational-fluency)
+    -   [Research outputs & discussion on
+        outputs](#research-outputs-discussion-on-outputs)
         -   [Research Output - Collection of GDPS with supporting
             resources (including Learning dimensions
             map)](#research-output---collection-of-gdps-with-supporting-resources-including-learning-dimensions-map)
@@ -60,22 +98,6 @@ title: 8. Discursive Conclusion
                 concept.](#practical-or-abstract-framework---ct-as-a-practical-skill-or-a-more-abstract-concept.)
     -   [Answering RQ3 on agency - synthesis and limitations of this
         research](#answering-rq3-on-agency---synthesis-and-limitations-of-this-research)
-        -   [Specific 3M - techniques through the lens of agency
-            (RQ3)](#specific-3m---techniques-through-the-lens-of-agency-rq3)
-            -   [TADS - interventions and affordances as double
-                stimulation -
-                DROP](#tads---interventions-and-affordances-as-double-stimulation---drop)
-        -   [Coding impact on design/ processes on learner agency - OF
-            WHAT?](#coding-impact-on-design-processes-on-learner-agency---of-what)
-    -   [Answering RQ3 on agency - synthesis and limitations of this
-        research](#answering-rq3-on-agency---synthesis-and-limitations-of-this-research-1)
-        -   [Discussion on 3M's accumulative effect - more than a sum or
-            parents](#discussion-on-3ms-accumulative-effect---more-than-a-sum-or-parents)
-        -   [Specific 3M - techniques through the lens of agency
-            (RQ3)](#specific-3m---techniques-through-the-lens-of-agency-rq3-1)
-        -   [Coding impact on design/ processes on learner agency - OF
-            WHAT? SHOULD THIS BE IN CHAPTER
-            7?](#coding-impact-on-design-processes-on-learner-agency---of-what-should-this-be-in-chapter-7)
         -   [Synthesis of reflections on designing for learner
             agency](#synthesis-of-reflections-on-designing-for-learner-agency)
     -   [Implications and recommendations for
@@ -85,6 +107,8 @@ title: 8. Discursive Conclusion
             -   [Supporting different game making approaches via
                 scaffolding within choice with
                 limits.](#supporting-different-game-making-approaches-via-scaffolding-within-choice-with-limits.)
+        -   [Exploring CT development via the use of
+            GDPs](#exploring-ct-development-via-the-use-of-gdps)
         -   [Game Design Patterns vs CT and more established
             "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
             -   [GDP, CT & Transfer](#gdp-ct-transfer)
@@ -97,26 +121,7 @@ title: 8. Discursive Conclusion
             -   [Compare formal teaching of CT and CS with an approach
                 based on a freer choice of
                 patterns.](#compare-formal-teaching-of-ct-and-cs-with-an-approach-based-on-a-freer-choice-of-patterns.)
-            -   [abstact vs applied framworks - Comparing aims of coding
-                for empowerment/ learner agency with STEM pipeline
-                narrative](#abstact-vs-applied-framworks---comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
-    -   [Future work and limitations of this
-        research](#future-work-and-limitations-of-this-research)
-        -   [Design patterns as a teaching
-            aid](#design-patterns-as-a-teaching-aid)
-        -   [Gender based issues of
-            inclusion](#gender-based-issues-of-inclusion)
-        -   [Advantages and limitations of Home Education
-            context](#advantages-and-limitations-of-home-education-context)
-        -   [Using game design to explore games as a design artefact for
-            empowerment
-            purposes](#using-game-design-to-explore-games-as-a-design-artefact-for-empowerment-purposes)
-        -   [How can the use of design patterns map to other computing
-            educational
-            domains?](#how-can-the-use-of-design-patterns-map-to-other-computing-educational-domains)
     -   [Final Conclusion](#final-conclusion)
-        -   [Synthesising the characteristics and potential of the 3M
-            pedagogy](#synthesising-the-characteristics-and-potential-of-the-3m-pedagogy)
     -   [Holding Zone or DROP](#holding-zone-or-drop)
         -   [Thoughts Log - things that may end up
             here.](#thoughts-log---things-that-may-end-up-here.)
@@ -194,72 +199,15 @@ This chapter synthesises answers to the RQs 1-3 in the following way.
 
 Firstly by examining the research outputs of the study and discussion how they embody answers to the RQs.
 
+- Summary of Key Findings  
+- Theoretical Contributions  
+- Practical Implications  
+- Limitations  
+- Future Research Directions  
+- Final Reflection  
 
 
-### Revisiting potential audiences for the research outputs of this study and how contextual factors may impact relevancy
-
-Here I return to the material of introduction and contextual factors which impact utility of this research.
-
-- school settings
-- home and hobby environments
-- non-formal and third spaces
-
-### Perhaps a summary of 3M & motivations here?
-
-MOVE MATERIAL ?
-
-The motivation to create an overall 3M pedagogy for dissemination.
-
-
-
-
-## Summary of implications for practice to encourage agency
-
-NOTE - HOW MUCH OF THIS IS ALREADY IN PREVIOUS SECTIONS?
-
-After exploring varied understandings of agency and manifestations in this context. What are resulting implication for practice in brief - COMPARE TO RELEVANT SECTION IN NEXT CHAPTER.
-
-### Asking questions about the challenge of applying this model to classroom environments.
-
-This chapter has narrowed down form cultural observations to guided particpation and then personal appropriation of of tools and practices.
-
-Is this a good section to begin to ask how appropriate is the 3M approach (summarise in the next chapter), to a classroom setting?
-
-In a classroom setting the personal appropriation would have different expectations. The recreation of concepts and knowledge for testing purposes or even more formative assessment is quite different from the more naturalistic approaches outlined here.
-DISCUSS MORE.
-
-#### Divining authentic frameworks
-
-The process of discovering the framework of GDPs explored in chapter five merits exploration from the perspective of replicability.
-
-Is there is something particular about the format of the game product to be designed that particularly suits this process. What other products does it suit?
-
-What are the broad implication for the use of this frameworks in other domains.
-
-PERHAPS ONE FOR FINAL CHAPTER
-
-
-#### Keeping hard fun hard
-
-Hard fun is a well used concept in creative computing education.
-
-A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. My results Drawing from authentic resources can be chaotic and create problematic errors.
-
-Where participants lacked the concepts and technical  language needed to find external support materials, the combination of the starting code template and a selection of curated code and documentation examples helped address this.
-
-However, in designing out conflicts the facilitator may reduce the capacity for participants to profitably address them, both as individuals pair or collectively as a group. There is a balance here for the facilitator to take an appropriate position on.
-
-Some parents were aware of this tension as outlined in appendix.
-
-There is a potential tension between instrumental agency and transformative agency.
-
-
-## Research outputs & discussion on outputs
-
-<!-- **Diagrams / Illustrations**
-
-3 foci and 3M element compared - save for the conclusion/ discussion?
-  https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60   -->
+## Key Findings and research outputs
 
 ### Research output: 3M game making (Meta) model of pedagogical elements of the learning design
 
@@ -290,17 +238,6 @@ Table 1.2.  Key Features of 3M Game Making Model
 
 Some of these element and their impact have been discussed in previous chapters. This conclusion synthesises reflections on these elements and brings additional analysis in relation to similar research. To do this in a way which highlights utility of the process, firstly  key research outputs are examined in turn.
 
-### Research Output - MoE approach
-
-NOTE THIS ASPECT HAS BEEN DISCUSSED IN THE LAST CHAPTER SO THERE IS LESS TO SYNTHESISE HERE.
-
-While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
-
-#### Side missions, Maker Types to address identity issues.
-
-The interaction with barriers to participation in diverse settings is partciularly valid in the multitude of settings.
-
-
 
 ### Research Output - Toolsets of template and Code playground (RQ1 and impact on RQ3)
 
@@ -324,34 +261,103 @@ Make-code arcade has been created and adopted by educators. I developed this ove
 P5.js perhaps provides a better base which is more aligned with learners needs.
 Recreating resources in P5.js is a strong possibility to make this approach more familiar and less porous / daunting.
 
-### Research Output - Toolsets of template and Code playground (RQ1 and impact on RQ3)
 
-Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
+### Evidence of  evolution on design/ processes and learner agency
+<!-- NOTE  I would say  too complex for coding -->
 
-- Code playgrounds are now common and suggested by CS
+Answering RQ - on pedagogical resources / agency / use of GDPs
 
-However phaser while authentic has mismatches. Exposed by Belen, as I am using version 2 instead of 3.
-Thus the resources available are harder to navigate.
+THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 
-Alternative exist using the same 3M approach.
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especially docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
 
-
-However, here are some more possible directions.
-
-Make-code arcade has been created and adopted by educators. I developed this over lock down and gathered data on use which is available for further study.
-
-P5.js perhaps provides a better base which is more aligned with learners needs.
-Recreating resources in P5.js is a strong possibility to mnake this approach more familiar and less porous / daunting.
+This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
 
 
 
-### Research Output - MoE approach & creating spaces
 
-While the drama framework is basic here, the advantage is that it can be easily adapted to diverse settings with little experise needed.
 
-#### Side missions, Maker Types to address identity issues.
+## Theoretical Contributions
 
-The interaction with barriers to participation in diverse settings is particularly valid in the multitude of settings.
+### Research Output - Conceptualisations of forms of agency
+
+THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
+
+This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
+
+This section contributes observations from this research process with the following aims.
+
+ - to serve other researchers undertaking similar work using activity theory and design based approach
+ - to help practitioners be research informed
+
+There is alignment with other research in terms of how
+ - authenticity of tools can be problematic and needs design adaptation, often black boxing
+ - this process merits attention and alignment with overall project aims of the designer
+ - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
+ - ideally emergent and producing a culture series of
+
+
+ #### Specific 3M  techniques through the lens of agency (RQ3)
+
+ In this section I summarises the potential for learners  the concepts and techniques of achieving agency in the 3M design.
+
+ In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
+
+ In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
+
+
+
+### Divining authentic frameworks
+
+The process of discovering the framework of GDPs explored in chapter five merits exploration from the perspective of replicability.
+
+Is there is something particular about the format of the game product to be designed that particularly suits this process. What other products does it suit?
+
+What are the broad implication for the use of this frameworks in other domains.
+
+PERHAPS ONE FOR FINAL CHAPTER
+
+
+
+
+## Practical implications and recommendations for practice
+
+### Revisiting potential audiences for the research outputs of this study and how contextual factors may impact relevancy
+
+Here I return to the material of introduction and contextual factors which impact utility of this research.
+
+- school settings
+- home and hobby environments
+- non-formal and third spaces
+
+
+### Using Concrete / applied frameworks
+
+#### abstact vs applied frameworks -  Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
+
+- Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
+  - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
+  - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
+- Recap limitations and contextual factors of computing in schools and diverse environments
+
+
+Following on from design chapter using GDPs as a germ cell for activities.
+
+The use of that germ cell to develop mid level / concrete / applied frameworks has signficant potential in many areas of project base d work. Particularly where there is
+
+Media tropes for example, something which practitioners instinctively do but which is under-explored in research as a guiding pedagogy for inclusive learning approaches.
+
+#### Guided iterative (step-wise) project frames.
+
+In addition, the value and potenial of the use of what Denner et al call a step-wise approach is advocated in this thesis.
+
+I propose the use of guided iterative project frames which build one of the other ideally linked by germ cell concept.
+
 
 ### The value and processes of creating space for emergent practices.
 
@@ -372,6 +378,174 @@ At this point it is of value to return to one of the key challenge of a more bri
 In chapter four and five we explored the value of a menu of tutorials and code snippets to support participant choice and a more active approach to learning which still contained the needed technical information.
 
 This can be framed as Just-in-time learning [@riel1998education] but with certain modifications which offer additional scaffolding to reduce learner confusion.
+
+
+### Summary of implications for practice to encourage agency
+
+NOTE - HOW MUCH OF THIS IS ALREADY IN PREVIOUS SECTIONS?
+
+After exploring varied understandings of agency and manifestations in this context. What are resulting implication for practice in brief - COMPARE TO RELEVANT SECTION IN NEXT CHAPTER.
+
+### Asking questions about the challenge of applying this model to classroom environments.
+
+This chapter has narrowed down form cultural observations to guided particpation and then personal appropriation of of tools and practices.
+
+Is this a good section to begin to ask how appropriate is the 3M approach (summarise in the next chapter), to a classroom setting?
+
+In a classroom setting the personal appropriation would have different expectations. The recreation of concepts and knowledge for testing purposes or even more formative assessment is quite different from the more naturalistic approaches outlined here.
+DISCUSS MORE.
+
+### Discussion on 3M's accumulative effect - more than a sum or parents
+
+A recall to what I was trying to achieve in the first place. A free for all, organised chaos, choice, agency, interactions, questioning.
+
+**Reclaiming choice as a concept**
+
+A proposal on how the different dimensions of choice in 3M impact on both relational and authorial agency. In a way which can be described as fluency.
+
+
+## Limitations if this research  
+
+#### Gender based issues of inclusion
+
+This research did not address gender or racial issues directly. But further research would suit that.
+
+The possibilities align with similar research, home interests etc.
+How will this  impact pedagogies?
+
+Future work could involved
+
+
+
+#### Advantages and limitations of Home Education context
+
+Comments include:
+
+- Reflecting back on interview there were very highly insightful comments from home educators that did influence the design.
+- Thus a very fruitful area for jointly created design research
+- However it is important then to not extend all conclusions beyond this setting but to extract the essense and try to seed in other settings using accelerated ways to construct and scaffold the kinds of support that home ed parents can offer.
+
+
+#### A larger focus on empowerment impact on participants
+
+SO IS THIS NOT EXPLORED? HOW IS IT MORE SPECI
+
+While this research addresses empowerment through fostering agency, it is limited in the extent that it engages with the subjective experiences of participants.
+
+Bruno advocates process that expose that are surrounded by designed objects. This process of making lifts the lid on that process.
+
+See example between helper and Pa in 2019-03-18 at the end. "It makes you think" . They marvel at the complexity of code needed to create even a simple game.
+
+The motivation to allow participants to get under the hood of new technology is a foundation of many technical programs built on empowerment. We can take Mozilla, mouse, etc.
+
+It is also present in design programs which take care to convey ethical perspectives as part of the design process as a way to counteract the possible effects of unindended side effects. This is especially relevant in the age of big data and highly powerful corporations.
+
+Yet this approach is not without critique.
+
+"Battle not with monsters, lest ye become a monster, and if you gaze into the abyss, the abyss gazes also into you.”  Friedrich Nietzsche
+
+This expression, conveys a perspective that the medium is the message. By engaging with the technology its influences may permeate the subject.
+
+This raises an additional question.
+How can we help learners build agency in technological environmental without becoming monsters.
+
+
+
+## Future directions and promising areas   
+
+#### Design patterns as a teaching aid
+
+
+A further direction would be to extend the idea of DPs for HCI areas, websites, or other areas of design beyond computing technology.
+
+
+See journal notes and contrast with existing research with GDP and informal / formal coding programming debates.
+Asking what does this research add to these debates?
+
+Some of the following may be relevant;
+
+- Learner choice and levels of abstraction techniques
+- From the literature what are complexities involving the practitioner practicalities surrounding creating communities of coders
+- What is special about the use of GDP in this 3M model?
+- How is this model different from Game Jams in particular.
+- Whereas Game Jams focus on x, 3m has a focus on y.
+- Exploring GDP and different kinds of types of coding errors?
+
+
+### How can the use of design patterns map to other computing educational domains?
+
+HCI and webdesign already share a similar process at times.
+What about physical computing / electronics.
+
+Can the same process help unearth accessible design patterns.
+
+
+
+
+
+
+
+## Concluding reflection  
+
+
+### Final reflection of the characteristics and potential of the pedagogy and how it relates to my past and future
+
+BE CONVINCING HERE OF POTENTIAL OF THIS APPROACH.
+
+how is the sum of parts  distinct from existing frameworks explored in literature review?   
+
+- Walled garden of limited design patterns
+- Playful methods of community creation
+- Drama narrative to create audience a la heathcote
+- Regular informal feedback and chances to discuss evolving designs
+
+
+---
+
+## PREVIOUS WORK TO MOVE OR INTEGRATE
+
+### Perhaps a summary of 3M & motivations here?
+
+MOVE MATERIAL ?
+
+The motivation to create an overall 3M pedagogy for dissemination.
+
+
+
+
+
+
+
+#### Keeping hard fun hard - MOVE TO A DISCUSSION SECTION OF ATHER CHAPTER? CH. 7 = IN MOVEMENT BETWEEN DIFFERENT TYPES OF AGENCY / CMOPUTATIONAL FLUENCY?
+
+Hard fun is a well used concept in creative computing education.
+
+A relevant challenge is the difficulty of structuring resources in a way which can support the diversity of the directions in which participant want to progress their design. My results Drawing from authentic resources can be chaotic and create problematic errors.
+
+Where participants lacked the concepts and technical  language needed to find external support materials, the combination of the starting code template and a selection of curated code and documentation examples helped address this.
+
+However, in designing out conflicts the facilitator may reduce the capacity for participants to profitably address them, both as individuals pair or collectively as a group. There is a balance here for the facilitator to take an appropriate position on.
+
+Some parents were aware of this tension as outlined in appendix.
+
+There is a potential tension between instrumental agency and transformative agency.
+
+
+## Research outputs & discussion on outputs
+
+<!-- **Diagrams / Illustrations**
+
+3 foci and 3M element compared - save for the conclusion/ discussion?
+  https://docs.google.com/document/d/1FIPn2dEB2aCKZi5z05j69cnHgpGNXFh1_SPV6h5l12g/edit#heading=h.kci0lnvn7f60   -->
+
+
+
+
+
+
+
+
+
 
 
 ### Research Output - Collection of GDPS with supporting resources (including  Learning dimensions map)
@@ -506,111 +680,17 @@ Supporting resources help resolve tensions around learners getting stuck and nee
 
 
 
-## Answering RQ3 on agency - synthesis and limitations of this research
-
-HOlding?
-
-### Specific 3M - techniques through the lens of agency (RQ3)
-
-In this section I summarises the potential for learners  the concepts and techniques of achieving agency in the 3M design.
-
-In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
-
-In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
-
-### Research Output - Conceptualisations of forms of agency
-
-THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
-
-This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
-
-This section contributes observations from this research process with the following aims.
-
- - to serve other researchers undertaking similar work using activity theory and design based approach
- - to help practitioners be research informed
-
-There is alignment with other research in terms of how
- - authenticity of tools can be problematic and needs design adaptation, often black boxing
- - this process merits attention and alignment with overall project aims of the designer
- - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
- - ideally emergent and producing a culture series of
-
-
-
-#### TADS - interventions and affordances as double stimulation - DROP
-
-Revisiting terms; The term intervention and affordances do not nearly align with the broad conceptual framework of this study infering a duality between subject and object. FIND REFERENCE
-
-Backwards and warping anchors.  
-
-How does the process of offering out ledging points where anchors can catch, as a form of learning design match with conceptions of agency?
-
 <!-- ### Relational Agency - Edwards
 
 Look at use of tools at the boundaries to construct new knowledge [cite - Building common knowledge at the boundaries between professional practices: Relational agency and relational expertise in systems of distributed expertise - Edwards] -->
 
 
 
-###  Coding impact on design/ processes on learner agency - OF WHAT?
-
-<!-- NOTE  I would say  too complex for coding -->
-
-Answering RQ - on pedagogical resources / agency / use of GDPs
-
-THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
-
-This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
-
-
 
 
 ## Answering RQ3 on agency - synthesis and limitations of this research
 
-### Discussion on 3M's accumulative effect - more than a sum or parents
 
-A recall to what I was trying to achieve in the first place. A free for all, organised chaos, choice, agency, interactions, questioning.
-
-**Reclaiming choice as a concept**
-
-A proposal on how the different dimensions of choice in 3M impact on both relational and authorial agency. In a way which can be described as fluency.
-
-### Specific 3M - techniques through the lens of agency (RQ3)
-
-In this section I summarises the potential for learners  the concepts and techniques of achieving agency in the 3M design.
-
-In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
-
-In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
-
-<!-- ### Relational Agency - Edwards
-
-Look at use of tools at the boundaries to construct new knowledge [cite - Building common knowledge at the boundaries between professional practices: Relational agency and relational expertise in systems of distributed expertise - Edwards] -->
-
-
-
-###  Coding impact on design/ processes on learner agency - OF WHAT? SHOULD THIS BE IN CHAPTER 7?
-
-<!-- NOTE  I would say  too complex for coding -->
-
-Answering RQ - on pedagogical resources / agency / use of GDPs
-
-THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
-
-This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
 
 
 ### Synthesis of reflections on designing for learner agency
@@ -647,6 +727,7 @@ At this point it is of value to return to one of the key challenge of a more bri
 In chapter four and five we explored the value of a menu of tutorials and code snippets to support participant choice and a more active approach to learning which still contained the needed technical information.
 
 This can be framed as Just-in-time learning [@riel1998education] but with certain modifications which offer additional scaffolding to reduce learner confusion.
+
 ### Exploring CT development via the use of GDPs
 
 **Brief commentary on the enduring value of CT concepts and how they could be studied in relation to GDP pattern implementation.**
@@ -669,11 +750,6 @@ My end design highlights game patterns as a starting point for user interest and
 
 - Discussion - The use of GDPs hits a sweet spot as a "middle" level construct, (see Eriksson and Bjork)
 - Discussion -  Rising to the concrete - as a key AT concept - how does this fit?
-
-
-
-
-
 
 
 #### GDP, CT & Transfer
@@ -736,153 +812,6 @@ Elements of contrast with 3M include;
 
 
 
-#### abstact vs applied framworks -  Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
-
-- Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
-  - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
-  - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
-- Recap limitations and contextual factors of computing in schools and diverse environments
-
-
-
-
-## Answering RQ3 on agency - synthesis and limitations of this research
-
-
-
-### Discussion on 3M's accumulative effect - more than a sum or parents
-
-
-**Synthesis of reflections on designing for learner agency**
-
-Pulling all together with recommendations from research . add in from notes
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community Playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especialy docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
-
-A recall to what I was trying to achieve in the first place. A free for all, organised chaos, choice, agency, interactions, questioning.
-
-THE FOLLOWING WAS MOVED HERE ITS ABOUT CODING
-
-Answering RQ - on pedagogical resources / agency / use of GDPs
-
-THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- relational agency or authorial agency in particular in elements of peer learning and especially peer teaching which reinforces learning.
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
-
-This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
-
-
-
-**Reclaiming choice as a concept**
-
-A proposal on how the different dimensions of choice in 3M impact on both relational and authorial agency. In a way which can be described as fluency.
-
-### Specific 3M - techniques through the lens of agency (RQ3)
-
-In this section I summarises the potential for learners  the concepts and techniques of achieving agency in the 3M design.
-
-In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
-
-In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
-
-<!-- ### Relational Agency - Edwards
-
-Look at use of tools at the boundaries to construct new knowledge [cite - Building common knowledge at the boundaries between professional practices: Relational agency and relational expertise in systems of distributed expertise - Edwards] -->
-
-
-
-
-## Implications and recommendations for practitioners / Future work and limitations
-
-This section is specifically oriented towards teaching coding in informal settings but also potential in classroom contexts.
-
-
-
-#### Design patterns as a teaching aid
-
-
-A further direction would be to extend the idea of DPs for HCI areas, websites, or other areas of design beyond computing technology.
-
-
-See journal notes and contrast with existing research with GDP and informal / formal coding programming debates.
-Asking what does this research add to these debates?
-
-Some of the following may be relevant;
-
-- Learner choice and levels of abstraction techniques
-- From the literature what are complexities involving the practitioner practicalities surrounding creating communities of coders
-- What is special about the use of GDP in this 3M model?
-- How is this model different from Game Jams in particular.
-- Whereas Game Jams focus on x, 3m has a focus on y.
-- Exploring GDP and different kinds of types of coding errors?
-
-
-
-
-### Limitations of this research / Future directions
-
-
-#### Gender based issues of inclusion
-
-This research did not address gender or racial issues directly. But further research would suit that.
-
-The possibilities align with similar research, home interests etc.
-How will this  impact pedagogies?
-
-Future work could involved
-
-
-
-#### Advantages and limitations of Home Education context
-
-Comments include:
-
-- Reflecting back on interview there were very highly insightful comments from home educators that did influence the design.
-- Thus a very fruitful area for jointly created design research
-- However it is important then to not extend all conclusions beyond this setting but to extract the essense and try to seed in other settings using accelerated ways to construct and scaffold the kinds of support that home ed parents can offer.
-
-
-#### A larger focus on empowerment impact on participants
-
-SO IS THIS NOT EXPLORED? HOW IS IT MORE SPECI
-
-While this research addresses empowerment through fostering agency, it is limited in the extent that it engages with the subjective experiences of participants.
-
-Bruno advocates process that expose that are surrounded by designed objects. This process of making lifts the lid on that process.
-
-See example between helper and Pa in 2019-03-18 at the end. "It makes you think" . They marvel at the complexity of code needed to create even a simple game.
-
-The motivation to allow participants to get under the hood of new technology is a foundation of many technical programs built on empowerment. We can take Mozilla, mouse, etc.
-
-It is also present in design programs which take care to convey ethical perspectives as part of the design process as a way to counteract the possible effects of unindended side effects. This is especially relevant in the age of big data and highly powerful corporations.
-
-Yet this approach is not without critique.
-
-"Battle not with monsters, lest ye become a monster, and if you gaze into the abyss, the abyss gazes also into you.”  Friedrich Nietzsche
-
-This expression, conveys a perspective that the medium is the message. By engaging with the technology its influences may permeate the subject.
-
-This raises an additional question.
-How can we help learners build agency in technological environmental without becoming monsters.
-
-
-### How can the use of design patterns map to other computing educational domains?
-
-HCI and webdesign already share a similar process at times.
-What about physical computing / electronics.
-
-Can the same process help unearth accessible design patterns.
 
 
 
@@ -890,20 +819,6 @@ Can the same process help unearth accessible design patterns.
 ## Final Conclusion
 
 
-###  Synthesising the characteristics and potential of the 3M pedagogy
-
-BE CONVINCING HERE OF POTENTIAL OF THIS APPROACH.
-
-3m This is a domain specific framework for teaching , can it have wider applications?  
-
-If so how can characteristics be abstracted?
-
-And if so are they distinct from existing frameworks explored in literature review?   
-
-- Walled garden of limited design patterns
-- Playful methods of community creation
-- Drama narrative to create audience a la heathcote
-- Regular informal feedback and chances to discuss evolving designs
 
 
 
