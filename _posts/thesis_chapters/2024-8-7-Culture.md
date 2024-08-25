@@ -600,6 +600,22 @@ The nature of the framework provided by game play design patterns can be explore
 There is choice  - and interaction - contribution to the overall object.
 
 
+#### Returning to the concept of computational fluency with a lens of agency
+
+IS THERE A NEED FOR A SIMILAR DISCUSSION IN GDP CHAPTER?
+
+The term computational fluency (compared to digital literacy or computational thinking) best reflect the focus on development of agency outlined in this research.
+
+It is of merit to return to existing dimension in existing research and suggest additional analyis based on this research.  
+
+Participant voice and expression: scaffolded and restricted in this design but to help development of next factor
+Community participation: The use of playtesting, and other community factors explored in Ch.6 and 7.
+Technical skills: Less a focus here than in CT but still a requirement, the reduced focus allows a different means of appropriation of the skills and concepts through guided participation and cultural participation.  
+
+I propose that the journey by particpants to develop computational fluency involves all three aspects of agency explored in this chapter.
+
+In term of a progression to transformative / athorial agency, it is of value to explore conceptions of authorial creativity (of an everyday variety) rather than the high bar of transformation of fundamental system elements.
+
 
 ## Conclusion
 
