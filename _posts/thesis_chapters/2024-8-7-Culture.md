@@ -349,33 +349,33 @@ There is a good tradition of metaphors in this space with Papert's low threshold
 Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]  
 
 
-### Dual stimulation and conceptions of agency -IS THIS AN INTRODUCTION TO METAPHORS WITH A SUMMARY OR SOMETHING ELSE?
+### The use of concepts of mediation and dual stimulation in this exploration of the development of agency
 
-As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter). This section explores these conceptions using the core AT concept of dual stimulation.
+As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter).
+
+This section explores these conceptions using the core AT concepts of mediation and dual stimulation explored in Chapter 3 to illuminate pedagogical development related to the interaction of designed and emergent tools and processes, shedding light on dimensions of participant agency.
+
+To summarise similarities and distinctions between mediation and double stimulation we can say X & Y.  
+
+SHIFT SOME OF THE BELOW TO THE THEORETICAL FRAMEWORK CHAPTER.
+
+RECAP KEY ELEMENTS FROM CHAPTER 3. LIke:
+
+- THE DIFFERENCE BETWEEN TOOLS AS MEDIATING TOOLS AND DOUBLE STIMULATION.
+- primary and secondary tools / stimulation
+- that there are many possible stimuli in a modern environment (find source )
 
 
 <!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
-
 <!-- Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency) agency.
-
 In many cases design decisions were driven by the response and interest of the participants.
 
 Research on  engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. -->
 
-**How Double Stimulation informs understandings of agency in this design**
 
-The concept of dual stimulation can help illuminate the design and pedagogical tensions related to the interaction of designed and emergent tools and processes, shedding light on dimensions of participant agency.
-
-RECAP KEY ELEMENTS FROM CHAPTER 3.
-EXPLORE THE DIFFERENCE BETWEEN TOOLS AS MEDIATING TOOLS AND DOUBLE STIMULATION.
-
-In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
-
-WHERE BEST TO ADD THE CONCEPT OF A SERIES OF SECONDARY STIMULI PART - THE MANY -
-
-REMOVE THIS DUPLICATE EXAMPLE PERHAPS EVEN THIS WHOLE SECTION.
+<!-- REMOVE THIS DUPLICATE EXAMPLE .
 For example in my design:
-Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process.
+Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process. -->
 
 ### Affordances as points on a climbing wall to support understandings of instrumental agency
 
