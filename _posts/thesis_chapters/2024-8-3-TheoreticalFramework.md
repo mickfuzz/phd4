@@ -121,15 +121,13 @@ The second part of the chapter looks specifically at theoretical framework for u
 
 AT sits within a sociocultural approach to educational theory.
 
-<!-- The following terms and concepts have already been explored in the literature review.
+<!-- The following terms and concepts
+
 - Activity - as unit of analysis  Vygotsky
 - Mediation as concept - cole and wertsch  
 - Rogoff planes - and beyond instruction vs child led - a move towards helping teachers to see patterns - towards understandings in pedagogical terms
+
 -->
-
-
-<!-- IMPLICIT ## Justification of choice of methodology -->
-
 
 ### Socio cultural approaches and the primacy of context
 
@@ -142,12 +140,36 @@ REWRITE
 
 This primacy of context described above underlies much of the social turn of educational and psychological research. As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
-<!-- There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .   -->
-<!-- [@laveSituatedLearningLegitimate1991]  -->
+#### Communities of Practice and Learners
+
+RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
+
+Rogoff's concept of communites of learners and Lave and Wegner's community of practice are helpful illustrations of the social turn
+
+**Community of practices**
+* Applied often in work settings to address questions of how learning happens.
+* nature of activity between outsider status into insider status
+* Idea of legitimate peripheral participation and transfer of
+
+test
+
+**Community of learners**
+the messyness from outside.
+the process of guided participation
+the element of non/passive
+
+**3 planes**
+Following the approach of Morcom [@morcom_scaffolding_2014] Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners. This is drawn on as a method in a way explained in Chapter 4.
+
+
+#### Link to next section
+
+There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .
+ [@laveSituatedLearningLegitimate1991]
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research.
 
-### Conceptualising AT via foundational theory
+## Conceptualising AT via foundational theory
 
 Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context. Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive]. The conception of the relation between subject, object and mediating tools was formuated into a trianglar representation.
 
@@ -156,7 +178,7 @@ Foundation sociocultural approach which goes beyond a conception of transmission
 The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools. The process is also seen as mutual.  Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
 
 
-**Evolution of AT**
+#### **Evolution of AT**
 
 Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996].
 
@@ -164,7 +186,25 @@ The work in this field by scholars such as Wertsch and Cole places community and
 
 <!-- The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy. This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation. -->
 
-**Selecting activity systems as units of analysis**
+
+
+### Third generation activity theory
+
+An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
+
+![](./Pictures/At_dia_5_basic_v1.png){width=90%}
+
+As an example based on the overall study we can include the following diagram and description.
+
+![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
+
+#### Definitions of object / objective
+
+There is some complexity and variance in the terminology used when decribing the object of activity of the activity system. Some theorists take a material view to describe the object as the physical of conceputal object that is being worked on and transformed by the activity. Other work, to reflect a sometimes complex environment when more than one physical or conceptual object is at play, takes as the object, an objective of an activity. In other words using the purpose or driving goal of the activity as synonym for object. Because of the complexity of objects being acted on in this study, I favour the second interpretation by default in this writing.  
+
+
+
+### Selecting activity systems as units of analysis
 
 The process of finding a germ cell/ unit of analysis is seen as a productive technique of explorative activity theory research (with what aim?). The work of Blunden [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014] provides as comprehensive justification the utility of the process. He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
 
@@ -194,7 +234,9 @@ IS THIS NOT COVERED IN CHAPTER 5 - SIGNPOST?
 While units of analysis are often chosen on an broad scope to allow for sociological concepts to emerge, Blunden makes a pragmatic proposal to use projects as they key unit of analysis [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014] . His rationale is INCLUDE SUMMARY OF RATIONALE HERE
 
 
-**Activity, Actions and Operations:** To describe these wider activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which consitue the broader units of actity. Kutti [@kuutti_activity_1995]. describes actions in the following way.  
+### Activity, Actions and Operations
+
+To describe these wider activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which consitue the broader units of actity. Kutti [@kuutti_activity_1995]. describes actions in the following way.  
 
   "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent."
 
@@ -208,19 +250,29 @@ The concept of fluency is key to this study, as such it is important to be able 
 
 <!-- At this scope, for participants implementing . -->
 
+#### Mediation
+
+Overview of mediation and use of tools
+
+#### Mediation compared to double stimulation
+
+While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
 
 
-### Third generation activity theory
+In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
 
-An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
+#### Surfacing areas of contradiction in joint activity through method of double stimulation
 
-![](./Pictures/At_dia_5_basic_v1.png){width=90%}
+Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
 
-As an example based on the overall study we can include the following diagram and description.
+The principle noted above of analysis of tensions and areas of conflict guides more specific methods.
 
-![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
+Double stimulation refers to the use of tools and processes to overcome such conflicts. Engestrom's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
 
-There is some complexity and variance in the terminology used when decribing the object of activity of the activity system. Some theorists take a material view to describe the object as the physical of conceputal object that is being worked on and transformed by the activity. Other work, to reflect a sometimes complex environment when more than one physical or conceptual object is at play, takes as the object, an objective of an activity. In other words using the purpose or driving goal of the activity as synonym for object. Because of the complexity of objects being acted on in this study, I favour the second interpretation by default in this writing.  
+One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
+
+
+
 
 ## Design-based research
 
@@ -518,7 +570,7 @@ When interrogating the literature on formative there is often the assumption of 
 The next section explore techniques and methodological concepts which facilitate research on social and cultural dimensions of activities.
 
 
-**Methods / Conceptual tools associated with agency**
+## Conceptual tools associated with agency**
 
 Some of the following deal specifically with agency.
 NOTE - Are these methods, are they useful theories that need to be framed in a different way?
@@ -610,33 +662,6 @@ Call back to PRIMM and Waite Sentence's work here -->
 
 
 
-#### 3 planes approach - noting tensions and behaviours
-
-The principle noted above of analysis of tensions and areas of conflict guides more specific methods.
-
-For example in study x, y is used to surface tensions.
-
-RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
-
-Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
-
-
-#### Surfacing areas of contradiction in joint activity through method of double stimulation
-
-Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
-
-The principle noted above of analysis of tensions and areas of conflict guides more specific methods.
-
-Double stimulation refers to the use of tools and processes to overcome such conflicts. Engestrom's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
-
-One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
-
-#### Mediation compared to double stimulation
-
-While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
-
-
-In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
 
 
 ##### TADS - On double stimulation and agency

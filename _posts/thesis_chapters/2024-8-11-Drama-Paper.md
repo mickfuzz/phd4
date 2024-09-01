@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 7b. Drama Process to Facilitate Learner Agency
+title: 11. Drama Process to Facilitate Learner Agency
 ---
 -   [Drama Process to Facilitate Learner
     Agency](#drama-process-to-facilitate-learner-agency)

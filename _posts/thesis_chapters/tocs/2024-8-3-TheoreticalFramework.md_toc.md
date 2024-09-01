@@ -6,10 +6,25 @@
         (CHAT)](#socio-cultural-approach-and-cultural-historical-activity-theory-chat)
         -   [Socio cultural approaches and the primacy of
             context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [Conceptualising AT via foundational
-            theory](#conceptualising-at-via-foundational-theory)
+            -   [3 planes approach - noting tensions and
+                behaviours](#planes-approach---noting-tensions-and-behaviours)
+    -   [Conceptualising AT via foundational
+        theory](#conceptualising-at-via-foundational-theory)
+        -   [**Evolution of AT**](#evolution-of-at)
         -   [Third generation activity
             theory](#third-generation-activity-theory)
+            -   [Definitions of object /
+                objective](#definitions-of-object-objective)
+        -   [Selecting activity systems as units of
+            analysis](#selecting-activity-systems-as-units-of-analysis)
+        -   [Activity, Actions and
+            Operations](#activity-actions-and-operations)
+            -   [Mediation](#mediation)
+            -   [Mediation compared to double
+                stimulation](#mediation-compared-to-double-stimulation)
+            -   [Surfacing areas of contradiction in joint activity
+                through method of double
+                stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
     -   [Design-based research](#design-based-research)
         -   [Formative Interventions](#formative-interventions)
             -   [Formative intervention as stimulus for expansive
@@ -41,13 +56,8 @@
                 agency](#authorial-and-transformative-agency)
     -   [SUMMARY OF - Specific methods used in this
         study](#summary-of---specific-methods-used-in-this-study)
-        -   [3 planes approach - noting tensions and
-            behaviours](#planes-approach---noting-tensions-and-behaviours)
-        -   [Surfacing areas of contradiction in joint activity through
-            method of double
-            stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
-        -   [Mediation compared to double
-            stimulation](#mediation-compared-to-double-stimulation)
+    -   [Conceptual tools associated with
+        agency\*\*](#conceptual-tools-associated-with-agency)
         -   [Third spaces, idiocultures and designed systems as a
             research
             method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)

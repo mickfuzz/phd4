@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 9b. Glossary
+title: 10. Glossary
 ---
 
 # Glossary
@@ -40,7 +40,7 @@ Killer / Griefer is a concept which is emotive as the process of playing against
 
 ### Context / Community
 
-**Digital making:** A broad field involving the maker community, physical computing and participation in on-line digital making communities. 
+**Digital making:** A broad field involving the maker community, physical computing and participation in on-line digital making communities.
 
 **Coder Dojo:**
 
