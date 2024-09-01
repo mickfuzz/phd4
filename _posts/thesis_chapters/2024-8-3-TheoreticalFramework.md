@@ -147,11 +147,9 @@ RQx addresses the formation of a game-making community. This process is co-const
 Rogoff's concept of communites of learners and Lave and Wegner's community of practice are helpful illustrations of the social turn
 
 **Community of practices**
-* Applied often in work settings to address questions of how learning happens.
-* nature of activity between outsider status into insider status
-* Idea of legitimate peripheral participation and transfer of
-
-test
+- Applied often in work settings to address questions of how learning happens.
+- nature of activity between outsider status into insider status
+- Idea of legitimate peripheral participation and transfer of
 
 **Community of learners**
 the messyness from outside.
