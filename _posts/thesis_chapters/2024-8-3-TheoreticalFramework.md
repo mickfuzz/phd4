@@ -105,12 +105,15 @@ Emergent
 
 ## Introduction
 
-This chapter describes:
+This chapter describes the guiding theoretical framework and key concepts which are relevant to the discussion of the thesis. Specifically, activity theory, the concepts of  formative interventions as a form of design based research (DBR).
 
-- guiding theoretical framework
-- key methods approaches that contribute the methodology
+  - AT is explored via x, y z,
+  - DBR in this way
 
-The methdology of this chapter is closely aligned with the activity theory concept of expansive learning within formative interventions. It also uses methods widely adopted in design based research (DBR)
+The second part of the chapter looks specifically at theoretical framework for understanding the development of agency.
+
+
+<!-- The underlying approach of this chapter is closely aligned with the activity theory concept of expansive learning within formative interventions. It also uses methods widely adopted in design based research (DBR) -->
 
 <!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
