@@ -138,6 +138,8 @@ Socio-cultural research and perspectives can be broadly described as...[@barnett
 An assumption underlying the approach  is " abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or   the learners’ belief that they are likely to do something meaningful with that which they are learning."[@barnett_ecosystem_2019]
 REWRITE
 
+
+
 This primacy of context described above underlies much of the social turn of educational and psychological research. As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
 #### Communities of Practice and Learners
