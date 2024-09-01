@@ -136,7 +136,7 @@ The focus of this study is on the construction of shared meaning and practices a
 Socio-cultural research and perspectives can be broadly described as...[@barnett_ecosystem_2019]
 
 An assumption underlying the approach  is " abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or   the learners’ belief that they are likely to do something meaningful with that which they are learning."[@barnett_ecosystem_2019]
-REWRITE
+REWRITE.
 
 
 
