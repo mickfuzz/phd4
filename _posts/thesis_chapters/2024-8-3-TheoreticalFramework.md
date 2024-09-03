@@ -172,10 +172,16 @@ I have chosen to use activity theory as a base for the the theoretical framework
 
 Nardi and Kaptelinin outline the activity theory (AT) as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
 
+While this study is on community activity, some of the concepts and tools of AT inherit meaning from a tradition of exploring personal psychology and thus a clarification of the terms used in a community setting is helpful. To help make this process more concrete, at times I will give examples related to the context of this study.
+
+Before outlining these concepts a short history places them in context.
+
  <!-- NOTE USE THIS AS A BASE - kaptelinin_activity_nodate Activity Theory: Basic Concepts and Applications A summary of a tutorial given at the East West HCI 95 Conference
  -->
 
 <!-- NOTE - Brief history before going into detail? -->
+
+### History in brief
 
 Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
 
@@ -186,25 +192,55 @@ The work in this field by scholars such as Wertsch and Cole places community and
 
 <!-- The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy. This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation. -->
 
-#### Mediation
+### Subject, Object and Mediation by tools
 
-Overview of mediation and use of tools
+Luria formulated the conception of the relation between subject, object and mediating tools into a trianglar representation.
 
+![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
 
+This simple representation is show to introduce an exploration of key concepts on AT of subject, object and mediation by tools.
 
+Human endeavour and change is based on activity and the subject of that activity is understood as the person or people driving it.
 
+### Object / objective in activity and varied interpretations
 
-### The importance of object / objective in activity and varied interpretations
+While the materialist language of Marxism has led some descriptions to focus on the object as the physical object that is being worked on and transformed by the activity, conceptual objects are also included in this concepts. Thus an object can comprise a physical object but is best understood within the context of wider motivation, for in many complex environments when more than one physical or conceptual object is at play.
 
-There is some complexity and variance in the terminology used when describing the object of activity of the activity system. Some theorists take a material view to describe the object as the physical of conceptual object that is being worked on and transformed by the activity.
-
-Other work, to reflect a sometimes complex environment when more than one physical or conceptual object is at play, takes as the object, an objective of an activity. In other words using the purpose or driving goal of the activity as synonym for object. Because of the complexity of objects being acted on in this study, I favour the second interpretation by default in this writing.  
+<!-- Because of the complexity of objects being acted on in this study, I use favour the second interpretation by default in this writing.  In other words using the purpose or driving goal of the activity as synonym for object.  -->
 
 Paying attention to the objective of AT systems is important as it helping to differentiate the scope of activity systems. Example?
 
 It also helps identify conflicts between the stated objective of the system and the actual objective of participants.
 
-### Selecting activity systems as units of analysis
+This concepts is also helped by understanding activity as a hierarchy.
+
+### Activity, Actions and Operations
+
+To describe these wider activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which consitue the broader units of actity. Kutti [@kuutti_activity_1995]. describes actions in the following way.  
+
+  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent."
+
+The concept of fluency is key to this study, as such it is important to be able to locate and describe these chains of operations and actions in detail. While game making as a community learning project  is clearly as an important activity system in this study, to answer alll the research questions of this thesis, it is important to also examine interpersonal activity in more detail. In order to do this an activity system of even smaller scope is examined in greater detail in Chapter 6 on the use of game design patterns by participants.
+
+
+
+### On Mediation and internalisation and externalisation of concepts
+
+The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools.
+
+
+
+#### Mutual process  via internalisation and externalisation
+
+The process of mediation through the use of conceptual tools is seen as mutual through the process of in  .  
+
+Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
+
+#### Tools as a propogation of cultures
+
+Tools are a product of adaptation and hold within them an evolution of culture.
+
+## Selecting activity systems as units of analysis
 
 The process of finding a germ cell/ unit of analysis is seen as a productive technique of explorative activity theory research (with what aim?). The work of Blunden [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014] provides as comprehensive justification the utility of the process. He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
 
@@ -236,13 +272,6 @@ While units of analysis are often chosen on an broad scope to allow for sociolog
 IS THE RATIONALE ALIGNED WITH THE IMPORTANCE OF OBJECTIVE?
 
 
-### Activity, Actions and Operations
-
-To describe these wider activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which consitue the broader units of actity. Kutti [@kuutti_activity_1995]. describes actions in the following way.  
-
-  "...actions consist of chains of operations, which are well-defined habitual routines used as answers to conditions faced during the performing of the action. Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent."
-
-The concept of fluency is key to this study, as such it is important to be able to locate and describe these chains of operations and actions in detail. While game making as a community learning project  is clearly as an important activity system in this study, to answer alll the research questions of this thesis, it is important to also examine interpersonal activity in more detail. In order to do this an activity system of even smaller scope is examined in greater detail in Chapter 6 on the use of game design patterns by participants.
 
 <!-- In the case of this study, activity can be seen as different planes; wider educational context and the culture of the whole program; guided activity; specific actions and operations carried out on a personal level. -->
 
@@ -251,7 +280,7 @@ The concept of fluency is key to this study, as such it is important to be able 
 <!-- At this scope, for participants implementing . -->
 
 
-#### Third generation activity theory & community
+## Third generation activity theory & community
 
 An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
 
