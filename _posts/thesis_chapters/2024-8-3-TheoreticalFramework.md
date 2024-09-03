@@ -172,8 +172,12 @@ I have chosen to use activity theory as a base for the the theoretical framework
 
 Nardi and Kaptelinin outline the activity theory (AT) as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
 
+ <!-- NOTE USE THIS AS A BASE - kaptelinin_activity_nodate Activity Theory: Basic Concepts and Applications A summary of a tutorial given at the East West HCI 95 Conference
+ -->
+
 <!-- NOTE - Brief history before going into detail? -->
 
+The
 
 Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
 
@@ -184,7 +188,6 @@ The conception of the relation between subject, object and mediating tools was f
 The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools. The process is also seen as mutual.  Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
 
 
-### **Evolution of AT**
 
 Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996].
 
@@ -192,9 +195,9 @@ The work in this field by scholars such as Wertsch and Cole places community and
 
 <!-- The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy. This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation. -->
 
+Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
 
-
-#### Third generation activity theory
+#### Third generation activity theory & community
 
 An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
 
@@ -261,32 +264,12 @@ The concept of fluency is key to this study, as such it is important to be able 
 <!-- Here the term project here communicates a concrete implementation of a planned goal and also a sense that all elements of key activity are present at this level e.g. all stages of the design cycle (and another example?).  This sentiment is echoed by a parent when noticing that the documentation on one GDPs involved several distinct stages - "It’s like a project in itself really!" -->
 
 <!-- At this scope, for participants implementing . -->
+#### Development and design
 
-#### Mediation
+Link to next section
+Check overlap with methodology chaper.
 
-Overview of mediation and use of tools
-
-#### Mediation compared to double stimulation
-
-While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
-
-
-In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
-
-#### Surfacing areas of contradiction in joint activity through method of double stimulation
-
-Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
-
-The principle noted above of analysis of tensions and areas of conflict guides more specific methods.
-
-Double stimulation refers to the use of tools and processes to overcome such conflicts. Engestrom's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
-
-One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
-
-
-
-
-## Design-based research
+## Development in activity & Design-based research
 
 Design based research (DBR) is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
@@ -327,9 +310,7 @@ The role of the expanding learning can be applied to formative interventions.
 
 Figure 3. x - Engestrom's concept of expansive learning via a shared object
 
-
 Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.
-
 [@engestrom_design_2011]
 
 REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning
