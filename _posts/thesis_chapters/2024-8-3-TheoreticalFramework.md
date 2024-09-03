@@ -177,35 +177,22 @@ Nardi and Kaptelinin outline the activity theory (AT) as a series of foundationa
 
 <!-- NOTE - Brief history before going into detail? -->
 
-The
-
 Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
-
-The conception of the relation between subject, object and mediating tools was formuated into a trianglar representation.
-
-![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
-
-The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools. The process is also seen as mutual.  Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
-
-
 
 Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996].
 
 The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. Of particular importance are the role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
+
 <!-- The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy. This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation. -->
 
-Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
+#### Mediation
 
-#### Third generation activity theory & community
+Overview of mediation and use of tools
 
-An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
 
-![](./Pictures/At_dia_5_basic_v1.png){width=90%}
 
-As an example based on the overall study we can include the following diagram and description.
 
-![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
 
 ### The importance of object / objective in activity and varied interpretations
 
@@ -259,11 +246,42 @@ The concept of fluency is key to this study, as such it is important to be able 
 
 <!-- In the case of this study, activity can be seen as different planes; wider educational context and the culture of the whole program; guided activity; specific actions and operations carried out on a personal level. -->
 
-
-
 <!-- Here the term project here communicates a concrete implementation of a planned goal and also a sense that all elements of key activity are present at this level e.g. all stages of the design cycle (and another example?).  This sentiment is echoed by a parent when noticing that the documentation on one GDPs involved several distinct stages - "It’s like a project in itself really!" -->
 
 <!-- At this scope, for participants implementing . -->
+
+
+#### Third generation activity theory & community
+
+An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
+
+![](./Pictures/At_dia_5_basic_v1.png){width=90%}
+
+As an example based on the overall study we can include the following diagram and description.
+
+![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
+
+#### Mediation compared to double stimulation
+
+While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
+
+
+In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
+
+#### Surfacing areas of contradiction in joint activity through method of double stimulation
+Link to next section
+Check overlap with methodology chaper.
+
+Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
+
+The principle noted above of analysis of tensions and areas of conflict guides more specific methods.
+
+Double stimulation refers to the use of tools and processes to overcome such conflicts. Engestrom's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
+
+One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
+
+
+
 #### Development and design
 
 Link to next section
