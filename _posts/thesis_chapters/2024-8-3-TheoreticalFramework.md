@@ -107,6 +107,7 @@ Emergent
 
 This chapter describes the guiding theoretical framework and key concepts which are relevant to the discussion of the thesis. Specifically, activity theory, the concepts of  formative interventions as a form of design based research (DBR).
 
+  - Social turn / socio cultural approach
   - AT is explored via x, y z,
   - DBR in this way
 
@@ -117,7 +118,7 @@ The second part of the chapter looks specifically at theoretical framework for u
 
 <!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
-## Socio-cultural approach and Cultural historical activity theory (CHAT)
+## Socio-cultural approach
 
 AT sits within a sociocultural approach to educational theory.
 
@@ -129,7 +130,6 @@ AT sits within a sociocultural approach to educational theory.
 
 -->
 
-### Socio cultural approaches and the primacy of context
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
 
@@ -139,46 +139,52 @@ An assumption underlying the approach  is " abstraction of ‘content’ from it
 REWRITE.
 
 
-
 This primacy of context described above underlies much of the social turn of educational and psychological research. As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
 
-#### Communities of Practice and Learners
+### Communities of Practice and Learners
 
-RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
+RQx addresses the of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
 
-Rogoff's concept of communites of learners and Lave and Wegner's community of practice are helpful illustrations of the social turn
+Rogoff's concept of communities of learners and Lave and Wegner's community of practice are helpful illustrations of the social turn
 
-**Community of practices**
+#### **Community of practices**
 - Applied often in work settings to address questions of how learning happens.
 - nature of activity between outsider status into insider status
 - Idea of legitimate peripheral participation and transfer of
 
-**Community of learners**
+#### **Community of learners**
 the messyness from outside.
 the process of guided participation
 the element of non/passive
 
-**3 planes**
+#### **3 planes**
 Following the approach of Morcom [@morcom_scaffolding_2014] Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners. This is drawn on as a method in a way explained in Chapter 4.
 
 
-#### Link to next section
+### Link to next section
 
 There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .
  [@laveSituatedLearningLegitimate1991]
 
-I have chosen to use activity theory as a base for the the theoretical framework of this study and to supplement it with the technique of design-based research.
+I have chosen to use activity theory as a base for the the theoretical framework of this study as it is a sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
 
-## Conceptualising AT via foundational theory
+## The foundational concepts of activity theory
 
-Foundation sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context. Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive]. The conception of the relation between subject, object and mediating tools was formuated into a trianglar representation.
+Nardi and Kaptelinin outline the activity theory (AT) as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
+
+<!-- NOTE - Brief history before going into detail? -->
+
+
+Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
+
+The conception of the relation between subject, object and mediating tools was formuated into a trianglar representation.
 
 ![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
 
 The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools. The process is also seen as mutual.  Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
 
 
-#### **Evolution of AT**
+### **Evolution of AT**
 
 Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996].
 
@@ -188,7 +194,7 @@ The work in this field by scholars such as Wertsch and Cole places community and
 
 
 
-### Third generation activity theory
+#### Third generation activity theory
 
 An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). The extension of Levontev's CHECK, triangular diagram include a new level which represents key cultural apsects of the activity in question.
 
@@ -198,11 +204,15 @@ As an example based on the overall study we can include the following diagram an
 
 ![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
 
-#### Definitions of object / objective
+### The importance of object / objective in activity and varied interpretations
 
-There is some complexity and variance in the terminology used when decribing the object of activity of the activity system. Some theorists take a material view to describe the object as the physical of conceputal object that is being worked on and transformed by the activity. Other work, to reflect a sometimes complex environment when more than one physical or conceptual object is at play, takes as the object, an objective of an activity. In other words using the purpose or driving goal of the activity as synonym for object. Because of the complexity of objects being acted on in this study, I favour the second interpretation by default in this writing.  
+There is some complexity and variance in the terminology used when describing the object of activity of the activity system. Some theorists take a material view to describe the object as the physical of conceptual object that is being worked on and transformed by the activity.
 
+Other work, to reflect a sometimes complex environment when more than one physical or conceptual object is at play, takes as the object, an objective of an activity. In other words using the purpose or driving goal of the activity as synonym for object. Because of the complexity of objects being acted on in this study, I favour the second interpretation by default in this writing.  
 
+Paying attention to the objective of AT systems is important as it helping to differentiate the scope of activity systems. Example?
+
+It also helps identify conflicts between the stated objective of the system and the actual objective of participants.
 
 ### Selecting activity systems as units of analysis
 
@@ -232,6 +242,8 @@ IS THIS NOT COVERED IN CHAPTER 5 - SIGNPOST?
 <!-- When mapping onto AT in a practical purpose of data analysis these planes can be seen as manifestations in different scopes of activty. -->
 
 While units of analysis are often chosen on an broad scope to allow for sociological concepts to emerge, Blunden makes a pragmatic proposal to use projects as they key unit of analysis [-@blunden_interdisciplinary_2010; -@blunden_collaborative_2014] . His rationale is INCLUDE SUMMARY OF RATIONALE HERE
+
+IS THE RATIONALE ALIGNED WITH THE IMPORTANCE OF OBJECTIVE?
 
 
 ### Activity, Actions and Operations
@@ -305,16 +317,24 @@ EXPAND THIS WITH EXAMPLES? kindergarten one below?
 
 #### Formative intervention as stimulus for expansive learning
 
-The role of the expanding learning can be applied to formative interventions.  [@sannino_formative_2016; @engestrom_methodological_2014]
+The role of the expanding learning can be applied to formative interventions.  
+
+
+[@sannino_formative_2016; @engestrom_methodological_2014]
+
 
 ![](./Pictures/shared_object_engestrom.png){width=90%}
 
 Figure 3. x - Engestrom's concept of expansive learning via a shared object
 
 
-    Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations (Davydov, 1990).  From  [@engestrom_design_2011]
+Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.
 
-REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning  [@sannino_formative_2016; @engestrom_methodological_2014]
+[@engestrom_design_2011]
+
+REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning
+
+ [@sannino_formative_2016; @engestrom_methodological_2014]
 
 The concept of germ cell is explore later in more detail in Chapter 5.  
 
