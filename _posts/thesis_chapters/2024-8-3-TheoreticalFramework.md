@@ -396,7 +396,7 @@ Link to a larger following section
 
 An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT).
 
-As mentioned in the section above, the recognised the importance of interacting activty systems, the movement of subjects between systems and the possibility for joint work on a shared object. These concepts are represented via an extension of Engeström's triangular representation of key cultural aspects of the activity in question, now also include a second triable representing other
+As mentioned in the section above, the recognised the importance of interacting activty systems, the movement of subjects between systems and the possibility for joint work on a shared object. These concepts are represented via an extension of Engeström's triangular representation of key cultural aspects of the activity in question, now also include a second triable representing other cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987; @engestrom_expansive_2001]
 
 
 ![](./Pictures/shared_object_engestrom.png){width=90%}
