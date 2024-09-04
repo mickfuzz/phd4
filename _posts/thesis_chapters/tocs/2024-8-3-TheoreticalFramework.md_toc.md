@@ -25,21 +25,26 @@
             concepts](#on-mediation-and-internalisation-and-externalisation-of-concepts)
             -   [Mutual process via internalisation and
                 externalisation](#mutual-process-via-internalisation-and-externalisation)
-            -   [Tools as a propogation of
-                cultures](#tools-as-a-propogation-of-cultures)
-    -   [Third generation activity theory &
-        community](#third-generation-activity-theory-community)
-        -   [Mediation compared to double
-            stimulation](#mediation-compared-to-double-stimulation)
-        -   [Surfacing areas of contradiction in joint activity through
-            method of double
-            stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
+            -   [Tools as a propagation of
+                cultures](#tools-as-a-propagation-of-cultures)
         -   [Development and design](#development-and-design)
-    -   [Development in activity & Design-based
-        research](#development-in-activity-design-based-research)
-        -   [Formative Interventions](#formative-interventions)
-            -   [Formative intervention as stimulus for expansive
-                learning](#formative-intervention-as-stimulus-for-expansive-learning)
+    -   [Third generation activity theory (3GAT) and Expansive
+        Learning](#third-generation-activity-theory-3gat-and-expansive-learning)
+        -   [The value of surfacing areas of
+            contradictions](#the-value-of-surfacing-areas-of-contradictions)
+            -   [Disambiguating terminology - Conflicts, tensions,
+                contradictions,
+                dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
+            -   [Double stimulation and its interaction with
+                contradiction in joint activity through method of double
+                stimulation](#double-stimulation-and-its-interaction-with-contradiction-in-joint-activity-through-method-of-double-stimulation)
+        -   [Expansive learning](#expansive-learning)
+        -   [Putting AT to work via interventionist research via
+            formative interventions and
+            DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
+        -   [On formative interventions](#on-formative-interventions)
+        -   [What is DBR and why and how do I use it in this
+            study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
         -   [Outline of the guiding principles of DBR and formative
             interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
             -   [Principle: Mutuality](#principle-mutuality)
@@ -50,9 +55,6 @@
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
-            -   [Principle: Analysis of activity system through
-                conflicts and contradictions between
-                elements](#principle-analysis-of-activity-system-through-conflicts-and-contradictions-between-elements)
         -   [Summary of Justification of
             choice](#summary-of-justification-of-choice)
             -   [Ongoing alignments between DBR and the CHAT community /
@@ -73,5 +75,10 @@
             research
             method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
         -   [On affordances](#on-affordances)
+    -   [Conclusion / Sythesis.](#conclusion-sythesis.)
+        -   [The role of AT in the analysis of
+            HCI](#the-role-of-at-in-the-analysis-of-hci)
+        -   [Signposting where concepts are used in the
+            thesis](#signposting-where-concepts-are-used-in-the-thesis)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
