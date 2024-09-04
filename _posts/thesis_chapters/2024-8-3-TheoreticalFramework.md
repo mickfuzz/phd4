@@ -10,17 +10,42 @@ categories: chapter
 title: 3. Theoretical Framework
 ---
 -   [Theoretical Framework](#theoretical-framework)
-    -   [Research Questions - April
-        2024](#research-questions---april-2024)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [Socio-cultural approach and Cultural historical activity theory
-        (CHAT)](#socio-cultural-approach-and-cultural-historical-activity-theory-chat)
-        -   [Socio cultural approaches and the primacy of
-            context](#socio-cultural-approaches-and-the-primacy-of-context)
-        -   [Conceptualising AT via foundational theory - IN INTRO OR
-            LIT
-            REVIEW?](#conceptualising-at-via-foundational-theory---in-intro-or-lit-review)
-    -   [Design-based research](#design-based-research)
+    -   [Socio-cultural approach](#socio-cultural-approach)
+        -   [Communities of Practice and
+            Learners](#communities-of-practice-and-learners)
+            -   [**Community of practices**](#community-of-practices)
+            -   [**Community of learners**](#community-of-learners)
+            -   [**3 planes**](#planes)
+        -   [Link to next section](#link-to-next-section)
+    -   [The foundational concepts of activity
+        theory](#the-foundational-concepts-of-activity-theory)
+        -   [History in brief](#history-in-brief)
+        -   [Core AT concepts](#core-at-concepts)
+        -   [Object / objective in activity and varied
+            interpretations](#object-objective-in-activity-and-varied-interpretations)
+        -   [Activity, Actions and
+            Operations](#activity-actions-and-operations)
+        -   [On Mediation and internalisation and externalisation of
+            concepts](#on-mediation-and-internalisation-and-externalisation-of-concepts)
+            -   [Mutual process via internalisation and
+                externalisation](#mutual-process-via-internalisation-and-externalisation)
+            -   [Tools as a propogation of
+                cultures](#tools-as-a-propogation-of-cultures)
+    -   [Selecting activity systems as units of
+        analysis](#selecting-activity-systems-as-units-of-analysis)
+    -   [Third generation activity theory &
+        community](#third-generation-activity-theory-community)
+        -   [Mediation compared to double
+            stimulation](#mediation-compared-to-double-stimulation)
+        -   [Surfacing areas of contradiction in joint activity through
+            method of double
+            stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
+        -   [Development and design](#development-and-design)
+    -   [Development in activity & Design-based
+        research](#development-in-activity-design-based-research)
         -   [Formative Interventions](#formative-interventions)
             -   [Formative intervention as stimulus for expansive
                 learning](#formative-intervention-as-stimulus-for-expansive-learning)
@@ -29,9 +54,6 @@ title: 3. Theoretical Framework
             -   [Principle: Mutuality](#principle-mutuality)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
-            -   [Principle: Finding suitable dimensions and units of
-                analysis by focusing on objects of
-                activity](#principle-finding-suitable-dimensions-and-units-of-analysis-by-focusing-on-objects-of-activity)
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
@@ -54,11 +76,8 @@ title: 3. Theoretical Framework
                 agency](#authorial-and-transformative-agency)
     -   [SUMMARY OF - Specific methods used in this
         study](#summary-of---specific-methods-used-in-this-study)
-        -   [3 planes approach - noting tensions and
-            behaviours](#planes-approach---noting-tensions-and-behaviours)
-        -   [Surfacing areas of contradiction in joint activity through
-            method of double
-            stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
+    -   [Conceptual tools associated with
+        agency\*\*](#conceptual-tools-associated-with-agency)
         -   [Third spaces, idiocultures and designed systems as a
             research
             method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
@@ -199,7 +218,7 @@ Historically AT had limited take up in western academia before Cole's translatio
 
 The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. Of particular importance are the role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
-### Core AT concepts 
+### Core AT concepts
 
 Nardi and Kaptelinin outline the activity theory (AT) as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
 

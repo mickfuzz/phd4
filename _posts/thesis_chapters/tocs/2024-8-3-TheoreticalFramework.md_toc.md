@@ -2,30 +2,39 @@
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [Socio-cultural approach and Cultural historical activity theory
-        (CHAT)](#socio-cultural-approach-and-cultural-historical-activity-theory-chat)
-        -   [Socio cultural approaches and the primacy of
-            context](#socio-cultural-approaches-and-the-primacy-of-context)
-            -   [3 planes approach - noting tensions and
-                behaviours](#planes-approach---noting-tensions-and-behaviours)
-    -   [Conceptualising AT via foundational
-        theory](#conceptualising-at-via-foundational-theory)
-        -   [**Evolution of AT**](#evolution-of-at)
-        -   [Third generation activity
-            theory](#third-generation-activity-theory)
-            -   [Definitions of object /
-                objective](#definitions-of-object-objective)
-        -   [Selecting activity systems as units of
-            analysis](#selecting-activity-systems-as-units-of-analysis)
+    -   [Socio-cultural approach](#socio-cultural-approach)
+        -   [Communities of Practice and
+            Learners](#communities-of-practice-and-learners)
+            -   [**Community of practices**](#community-of-practices)
+            -   [**Community of learners**](#community-of-learners)
+            -   [**3 planes**](#planes)
+        -   [Link to next section](#link-to-next-section)
+    -   [The foundational concepts of activity
+        theory](#the-foundational-concepts-of-activity-theory)
+        -   [History in brief](#history-in-brief)
+        -   [Core AT concepts](#core-at-concepts)
+        -   [Object / objective in activity and varied
+            interpretations](#object-objective-in-activity-and-varied-interpretations)
         -   [Activity, Actions and
             Operations](#activity-actions-and-operations)
-            -   [Mediation](#mediation)
-            -   [Mediation compared to double
-                stimulation](#mediation-compared-to-double-stimulation)
-            -   [Surfacing areas of contradiction in joint activity
-                through method of double
-                stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
-    -   [Design-based research](#design-based-research)
+        -   [On Mediation and internalisation and externalisation of
+            concepts](#on-mediation-and-internalisation-and-externalisation-of-concepts)
+            -   [Mutual process via internalisation and
+                externalisation](#mutual-process-via-internalisation-and-externalisation)
+            -   [Tools as a propogation of
+                cultures](#tools-as-a-propogation-of-cultures)
+    -   [Selecting activity systems as units of
+        analysis](#selecting-activity-systems-as-units-of-analysis)
+    -   [Third generation activity theory &
+        community](#third-generation-activity-theory-community)
+        -   [Mediation compared to double
+            stimulation](#mediation-compared-to-double-stimulation)
+        -   [Surfacing areas of contradiction in joint activity through
+            method of double
+            stimulation](#surfacing-areas-of-contradiction-in-joint-activity-through-method-of-double-stimulation)
+        -   [Development and design](#development-and-design)
+    -   [Development in activity & Design-based
+        research](#development-in-activity-design-based-research)
         -   [Formative Interventions](#formative-interventions)
             -   [Formative intervention as stimulus for expansive
                 learning](#formative-intervention-as-stimulus-for-expansive-learning)
