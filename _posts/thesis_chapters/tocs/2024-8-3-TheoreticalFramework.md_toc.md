@@ -15,16 +15,18 @@
         -   [Core AT concepts](#core-at-concepts)
         -   [Object / objective in activity and varied
             interpretations](#object-objective-in-activity-and-varied-interpretations)
-        -   [Activity, Actions and
-            Operations](#activity-actions-and-operations)
+        -   [The hierarchical structure of
+            activity](#the-hierarchical-structure-of-activity)
+            -   [Activity, Actions and
+                Operations](#activity-actions-and-operations)
+            -   [Selecting activity systems as units of
+                analysis](#selecting-activity-systems-as-units-of-analysis)
         -   [On Mediation and internalisation and externalisation of
             concepts](#on-mediation-and-internalisation-and-externalisation-of-concepts)
             -   [Mutual process via internalisation and
                 externalisation](#mutual-process-via-internalisation-and-externalisation)
             -   [Tools as a propogation of
                 cultures](#tools-as-a-propogation-of-cultures)
-    -   [Selecting activity systems as units of
-        analysis](#selecting-activity-systems-as-units-of-analysis)
     -   [Third generation activity theory &
         community](#third-generation-activity-theory-community)
         -   [Mediation compared to double
