@@ -170,9 +170,6 @@ I have chosen to use activity theory as a base for the the theoretical framework
 
 ## The foundational concepts of activity theory
 
-Nardi and Kaptelinin outline the activity theory (AT) as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
-
-While this study is on community activity, some of the concepts and tools of AT inherit meaning from a tradition of exploring personal psychology and thus a clarification of the terms used in a community setting is helpful. To help make this process more concrete, at times I will give examples related to the context of this study.
 
 Before outlining these concepts a short history places them in context.
 
@@ -185,14 +182,10 @@ Before outlining these concepts a short history places them in context.
 
 Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
 
-Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996].
-
-The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. Of particular importance are the role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
 
 <!-- The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy. This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation. -->
 
-### Subject, Object and Mediation by tools
 
 Luria formulated the conception of the relation between subject, object and mediating tools into a trianglar representation.
 
@@ -201,6 +194,17 @@ Luria formulated the conception of the relation between subject, object and medi
 This simple representation is show to introduce an exploration of key concepts on AT of subject, object and mediation by tools.
 
 Human endeavour and change is based on activity and the subject of that activity is understood as the person or people driving it.
+
+Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996].
+
+The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. Of particular importance are the role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
+
+### Core AT concepts 
+
+Nardi and Kaptelinin outline the activity theory (AT) as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
+
+While this study is on community activity, some of the concepts and tools of AT inherit meaning from a tradition of exploring personal psychology and thus a clarification of the terms used in a community setting is helpful. To help make this process more concrete, at times I will give examples related to the context of this study.
+
 
 ### Object / objective in activity and varied interpretations
 
