@@ -5,10 +5,10 @@
     -   [Socio-cultural approach](#socio-cultural-approach)
         -   [Communities of Practice and
             Learners](#communities-of-practice-and-learners)
-            -   [**Community of practices**](#community-of-practices)
-            -   [**Community of learners**](#community-of-learners)
-            -   [**3 planes**](#planes)
-        -   [Link to next section](#link-to-next-section)
+            -   [Community of practices](#community-of-practices)
+            -   [Community of learners](#community-of-learners)
+        -   [Link to next section - DOESN'T SEEM
+            RIGHT.](#link-to-next-section---doesnt-seem-right.)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
         -   [History in brief](#history-in-brief)
@@ -27,6 +27,8 @@
                 externalisation](#mutual-process-via-internalisation-and-externalisation)
             -   [Tools as a propagation of
                 cultures](#tools-as-a-propagation-of-cultures)
+            -   [Double stimulation and
+                Affordances](#double-stimulation-and-affordances)
         -   [Development and design](#development-and-design)
     -   [Third generation activity theory (3GAT) and Expansive
         Learning](#third-generation-activity-theory-3gat-and-expansive-learning)
@@ -39,24 +41,27 @@
                 contradiction in joint activity through method of double
                 stimulation](#double-stimulation-and-its-interaction-with-contradiction-in-joint-activity-through-method-of-double-stimulation)
         -   [Expansive learning](#expansive-learning)
-        -   [Putting AT to work via interventionist research via
-            formative interventions and
-            DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
+        -   [An operationalised example of Activity Theory concepts in
+            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+        -   [Critiques and alternatives to Activity
+            theory.](#critiques-and-alternatives-to-activity-theory.)
+    -   [Putting AT to work via interventionist research via formative
+        interventions and
+        DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
         -   [On formative interventions](#on-formative-interventions)
         -   [What is DBR and why and how do I use it in this
             study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
         -   [Outline of the guiding principles of DBR and formative
             interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
-            -   [Principle: Mutuality](#principle-mutuality)
+            -   [Principle : Researcher take and active interventionist
+                approach](#principle-researcher-take-and-active-interventionist-approach)
+            -   [Principle: Mutuality - LINKED TO THE ABOVE POINT
+                TOO](#principle-mutuality---linked-to-the-above-point-too)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-            -   [Principle : Researcher take and active interventionist
-                approach](#principle-researcher-take-and-active-interventionist-approach)
-        -   [Summary of Justification of
-            choice](#summary-of-justification-of-choice)
             -   [Ongoing alignments between DBR and the CHAT community /
                 ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
     -   [Concepts of agency within
@@ -67,18 +72,21 @@
                 agency](#instrumental-and-relational-agency)
             -   [Authorial and transformative
                 agency](#authorial-and-transformative-agency)
-    -   [SUMMARY OF - Specific methods used in this
-        study](#summary-of---specific-methods-used-in-this-study)
-    -   [Conceptual tools associated with
-        agency\*\*](#conceptual-tools-associated-with-agency)
-        -   [Third spaces, idiocultures and designed systems as a
-            research
-            method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
-        -   [On affordances](#on-affordances)
-    -   [Conclusion / Sythesis.](#conclusion-sythesis.)
-        -   [The role of AT in the analysis of
-            HCI](#the-role-of-at-in-the-analysis-of-hci)
-        -   [Signposting where concepts are used in the
-            thesis](#signposting-where-concepts-are-used-in-the-thesis)
+        -   [Conceptual tools associated with
+            agency](#conceptual-tools-associated-with-agency)
+            -   [Specifically, TAS, TADS](#specifically-tas-tads)
+        -   [Affordances](#affordances)
+            -   [Third spaces, idiocultures and designed systems as a
+                research
+                method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
+    -   [Conclusion / Synthesis.](#conclusion-synthesis.)
+        -   [Summary of Justification of choice - and how the RQs align
+            with different
+            concepts](#summary-of-justification-of-choice---and-how-the-rqs-align-with-different-concepts)
+            -   [Signposting where concepts are used in the thesis (in
+                relation to
+                RQs)](#signposting-where-concepts-are-used-in-the-thesis-in-relation-to-rqs)
+            -   [The role of AT in the analysis of HCI -
+                MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)

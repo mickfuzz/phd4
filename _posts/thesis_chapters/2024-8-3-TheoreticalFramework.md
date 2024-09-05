@@ -16,10 +16,10 @@ title: 3. Theoretical Framework
     -   [Socio-cultural approach](#socio-cultural-approach)
         -   [Communities of Practice and
             Learners](#communities-of-practice-and-learners)
-            -   [**Community of practices**](#community-of-practices)
-            -   [**Community of learners**](#community-of-learners)
-            -   [**3 planes**](#planes)
-        -   [Link to next section](#link-to-next-section)
+            -   [Community of practices](#community-of-practices)
+            -   [Community of learners](#community-of-learners)
+        -   [Link to next section - DOESN'T SEEM
+            RIGHT.](#link-to-next-section---doesnt-seem-right.)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
         -   [History in brief](#history-in-brief)
@@ -38,6 +38,8 @@ title: 3. Theoretical Framework
                 externalisation](#mutual-process-via-internalisation-and-externalisation)
             -   [Tools as a propagation of
                 cultures](#tools-as-a-propagation-of-cultures)
+            -   [Double stimulation and
+                Affordances](#double-stimulation-and-affordances)
         -   [Development and design](#development-and-design)
     -   [Third generation activity theory (3GAT) and Expansive
         Learning](#third-generation-activity-theory-3gat-and-expansive-learning)
@@ -50,24 +52,27 @@ title: 3. Theoretical Framework
                 contradiction in joint activity through method of double
                 stimulation](#double-stimulation-and-its-interaction-with-contradiction-in-joint-activity-through-method-of-double-stimulation)
         -   [Expansive learning](#expansive-learning)
-        -   [Putting AT to work via interventionist research via
-            formative interventions and
-            DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
+        -   [An operationalised example of Activity Theory concepts in
+            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+        -   [Critiques and alternatives to Activity
+            theory.](#critiques-and-alternatives-to-activity-theory.)
+    -   [Putting AT to work via interventionist research via formative
+        interventions and
+        DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
         -   [On formative interventions](#on-formative-interventions)
         -   [What is DBR and why and how do I use it in this
             study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
         -   [Outline of the guiding principles of DBR and formative
             interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
-            -   [Principle: Mutuality](#principle-mutuality)
+            -   [Principle : Researcher take and active interventionist
+                approach](#principle-researcher-take-and-active-interventionist-approach)
+            -   [Principle: Mutuality - LINKED TO THE ABOVE POINT
+                TOO](#principle-mutuality---linked-to-the-above-point-too)
             -   [Principle: The importance of
                 context](#principle-the-importance-of-context)
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-            -   [Principle : Researcher take and active interventionist
-                approach](#principle-researcher-take-and-active-interventionist-approach)
-        -   [Summary of Justification of
-            choice](#summary-of-justification-of-choice)
             -   [Ongoing alignments between DBR and the CHAT community /
                 ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
     -   [Concepts of agency within
@@ -78,19 +83,22 @@ title: 3. Theoretical Framework
                 agency](#instrumental-and-relational-agency)
             -   [Authorial and transformative
                 agency](#authorial-and-transformative-agency)
-    -   [SUMMARY OF - Specific methods used in this
-        study](#summary-of---specific-methods-used-in-this-study)
-    -   [Conceptual tools associated with
-        agency\*\*](#conceptual-tools-associated-with-agency)
-        -   [Third spaces, idiocultures and designed systems as a
-            research
-            method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
-        -   [On affordances](#on-affordances)
-    -   [Conclusion / Sythesis.](#conclusion-sythesis.)
-        -   [The role of AT in the analysis of
-            HCI](#the-role-of-at-in-the-analysis-of-hci)
-        -   [Signposting where concepts are used in the
-            thesis](#signposting-where-concepts-are-used-in-the-thesis)
+        -   [Conceptual tools associated with
+            agency](#conceptual-tools-associated-with-agency)
+            -   [Specifically, TAS, TADS](#specifically-tas-tads)
+        -   [Affordances](#affordances)
+            -   [Third spaces, idiocultures and designed systems as a
+                research
+                method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
+    -   [Conclusion / Synthesis.](#conclusion-synthesis.)
+        -   [Summary of Justification of choice - and how the RQs align
+            with different
+            concepts](#summary-of-justification-of-choice---and-how-the-rqs-align-with-different-concepts)
+            -   [Signposting where concepts are used in the thesis (in
+                relation to
+                RQs)](#signposting-where-concepts-are-used-in-the-thesis-in-relation-to-rqs)
+            -   [The role of AT in the analysis of HCI -
+                MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
 
@@ -135,9 +143,15 @@ Emergent
 
 This chapter describes the guiding theoretical framework and key concepts which are relevant to the discussion of the thesis. Specifically, activity theory, the concepts of  formative interventions as a form of design based research (DBR).
 
+A brief justification of the use of the framework can be given due to the importance of context, transformation and the development of participant agency to this study.
+
+
   - Social turn / socio cultural approach
   - AT is explored via x, y z,
-  - DBR in this way
+  - In order to operationalise AT concepts DBR is compared to formative interventsions  
+  - Finally concetions of  agency within AT are explored
+
+
 
 The second part of the chapter looks specifically at theoretical framework for understanding the development of agency.
 
@@ -165,21 +179,35 @@ RQx addresses the of a game-making community. This process is co-constituted by 
 
 Rogoff's concept of communities of learners and Lave and Wegner's community of practice are helpful illustrations of the social turn
 
-#### **Community of practices**
+#### Community of practices
 - Applied often in work settings to address questions of how learning happens.
 - nature of activity between outsider status into insider status
 - Idea of legitimate peripheral participation and transfer of
 
-#### **Community of learners**
+Communities of practice - legitimate peripheral participation boundaries and barriers to participation
+
+#### Community of learners
 the messyness from outside.
 the process of guided participation
 the element of non/passive
 
-#### **3 planes**
-Following the approach of Morcom [@morcom_scaffolding_2014] Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners. This is drawn on as a method in a way explained in Chapter 4.
+(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
+
+Participation on community activities as a valid approach.
+
+Cultural and social factors are vital to development process even if hidden in as school setting.
+Guided participation as a middle ground between instruction and discovery.
+
+Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
+
+<!-- This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.  -->
+
+**3 planes - perhaps just guided participation? or 3 aspects and 3 planes next chapter**
+Following the approach of Morcom [@morcom_scaffolding_2014] Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
+This is drawn on as a method in a way explained in Chapter 4.
 
 
-### Link to next section
+### Link to next section - DOESN'T SEEM RIGHT.
 
 There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .
  [@laveSituatedLearningLegitimate1991]
@@ -197,28 +225,30 @@ Before outlining these concepts a short history places them in context.
 
 ### History in brief
 
-Vygotsky drew on marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective (object) [@luriia1976cognitive].
+Vygotsky drew on Marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective or object [@luriia1976cognitive].
+Human endeavour and change is based on activity and the subject of that activity is understood as the person or people driving it.
 
-<!-- The vital role of cultural mediation in development [@cole_beyond_1996-1] which recalls a situating of pedagogies as a meditational strategy. This clearly aligns with community-based digital making and the use of objects as mediated objects and creative processes which facilitate and constituent participation. -->
+Vygotsky formulated the conception of the relation between subject, object and tools into a triadic relationship.
 
-Vygotsky formulated the conception of the relation between subject, object and mediating tools into a triadic relationship.
-![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
+Vygotsky also held context as vital to development,
+For even individual activities take place in the context of a culture. (objectives can be )
 
-Vygotsky also held context as vital to development, concerns which Leontiev's developed
+For example the use of tools as objects, concepts which facilitate and constituent cultural participation.
 
-beyond just mediating tools,
+The role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
-The triadic conception of activity was expanded to represent key cultural aspects of the activity in question, specifically those of
+Of particular relevance to this study is the situating of pedagogies as a meditational strategy.
+
+<!-- ![](./Pictures/At_dia_6_basicer_v1.png){width=90%} -->
+
+Vygotsky's student Leontiev developed to extend the triadic conception of activity to include  key cultural aspects of the activity in question, specifically those of a characterisation later represented as an extended trianle shown in Fig 5.x [@engestrom_learning_1987]
 
 ![](./Pictures/At_dia_5_basic_v1.png){width=90%}
 
-This simple representation is show to introduce an exploration of key concepts on AT of subject, object and mediation by tools.
-
-Human endeavour and change is based on activity and the subject of that activity is understood as the person or people driving it.
+Fig. 5.x Leontiev's conception of Activity [@engestrom_learning_1987]
 
 Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996]. The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. The vital role of cultural mediation in development [@cole_beyond_1996-1] situating learning pedagogies as form of meditational strategy.
 
- Of particular importance are the role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
 SIGN POST IF AND HOW THESE ARE EXPLORED LATER.
 
@@ -300,6 +330,7 @@ IS THE RATIONALE ALIGNED WITH THE IMPORTANCE OF OBJECTIVE?
 
 The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools.
 
+
 #### Mutual process  via internalisation and externalisation
 
 The process of mediation through the use of conceptual tools is seen as mutual through the process of in  .  
@@ -309,6 +340,12 @@ Learners are actively processing and make sense of the world by both appropriati
 #### Tools as a propagation of cultures
 
 Tools are a product of adaptation and hold within them an evolution of culture.
+
+
+#### Double stimulation and Affordances
+
+There is a link between double stimulation and affordances [@romero_analysing_2022]
+
 
 ### Development and design
 
@@ -336,11 +373,6 @@ Figure 3. x - Engeström's concept of expansive learning via a shared object
 
 The recognition of wider activity systems and the bleed of motivations of actors into new systems is represented in Engeström's view of AT as a foundation for interventionist and participatory processes on [@spinuzzi_trying_2020-1]
 
-<!-- EXAMPLE WITHIN CONTEXT OF THIS STUDY.
-IS THIS REALLY NEEDED HERE? IF NOT WHERE?
-As an example based on the overall study we can include the following diagram and description.
-
-![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%} -->
 
 
 
@@ -416,7 +448,43 @@ Expansive learning leads to the formation of a new, expanded object and pattern 
 REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning
  [@sannino_formative_2016; @engestrom_methodological_2014]
 
-### Putting AT to work via interventionist research via formative interventions and DBR
+
+### An operationalised example of Activity Theory concepts in context
+
+
+These concepts are used in later analysis in findings chapters. However, to situate the learner at this stage I include a diagram .
+
+![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
+Fig 3.x - a wide scope of activity
+
+The concepts above are now used in context.
+
+The objective of activity is to make a game to share, that process is mediated by tool use. The tools themselves have been created by a wider community including the facilitator (drawing on the product of a wider on-line community)
+
+<!-- EXAMPLE WITHIN CONTEXT OF THIS STUDY.
+IS THIS REALLY NEEDED HERE? IF NOT WHERE?
+As an example based on the overall study we can include the following diagram and description.
+
+ -->
+
+### Critiques and alternatives to Activity theory.
+
+It's complex and unwieldy when putting into practice.
+
+While examples like formative interventions, in the form of Change Laboratory and 5th D are available, they are highly context dependent and not easily replicable.
+
+There are also other critiques.
+- Such as
+
+Alternative which are less theoretically heavy include DBR &
+
+
+
+
+However more recent conception of DBR and AT process such as formative interventions are working to align these , an aspect which
+
+
+## Putting AT to work via interventionist research via formative interventions and DBR
 
 This section covers a summary of how the theoretical framework of AT can be operationalised. It compares the approaches of formative interventions and design based research.  
 
@@ -477,7 +545,7 @@ In both DBR and formative interventions, the researchers take an active role, a 
 
 **Designed systems:** Learning environments are understood as designed systems with accumulated culture of tools and artefacts [@barnett_ecosystem_2019; @cole_design-based_2016].
 
-However, in a situation where working in a new context or with new technology, learning designers often starting from a blank canvas.
+However, in a situation where working in a new context or with new technology, learning designers often starting from a blank canvas. For example, in the context of this study on game making the activity is novel there are few if any established community or working processes.
 
 Formative interventions rarely work with new educational design, favouring existing systems within
 
@@ -551,10 +619,6 @@ Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK
 
 
 
-
-
-
-
 ## Concepts of agency within CHAT
 
 ### Addressing and disambiguating definitions of agency in education
@@ -597,8 +661,13 @@ Matusov bases much of the definition of authorial agency on existing work on tra
 
 Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
 
-Specifically, TAS, TADS
 
+
+
+
+### Conceptual tools associated with agency
+
+#### Specifically, TAS, TADS
 TAS from Stetsenko addresses grand ideas of agency directly.
 However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
 
@@ -611,43 +680,36 @@ Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @s
 
 For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
 
+### Affordances
+
+<!-- [@ba_erentsen_activity_2002] -->
+
+Affordances can be explored within the AT concept of mediation.
+
+There is a link between double stimulation and affordances [@romero_analysing_2022]
+
+A good summary of affordances related to HCI is here [@galliers_affordance_2017]
+
+Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].
+
+They focus particularly in terms of who the affordance is for.
+
+Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
+
+This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
+
+Nardi and colleagues give an overview regrounding Gibson's concept of affordances as action possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
+
+While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
+
+However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
+
+NOTE - more on affordances here from Nardi
+
+**Link with TADS?**
+TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
 
 
-## SUMMARY OF  - Specific methods used in this study
-
-This section examines the use of methods aligned with activity theory and DBR to help conceptualise and analyise the learning environment and processes.
-
-<!--
-MAKE MORE SPECIFIC TO THIS INTERVENTION AND RESERACH QUESTIONS.
-FIND MORE DIRECT PARALLELS IN RESEARCH CASE STUDIES? 5D FOR EXAMPLE -->
-
-
-As the game making activity for participants is novel there are few if any established community or working processes.
-
-<!-- Thus the full CL process is not applicable to this research intervention. In addition, the time intensive and explicitly analytical goals of CL are beyond the scope of commitment level and interest of the participants. -->
-
-However, the expansive process and the use of transformational agency through double stimulation as a guiding technique offers  significant opportunities.
-LINK THE CONCEPTS / PROCESS HERE.
-
-For example, in and educational settings INSERT QUICK CASE STUDY
-
-When interrogating the literature on formative there is often the assumption of an activity already in progress which learners, often in work place settings, question as the first stage of the process. How this maps onto a new activity in informal setting with novice learners is requires some clarification.
-
-The next section explore techniques and methodological concepts which facilitate research on social and cultural dimensions of activities.
-
-
-## Conceptual tools associated with agency**
-
-Some of the following deal specifically with agency.
-NOTE - Are these methods, are they useful theories that need to be framed in a different way?
-
-<!-- DOES THIS NEED MOVING? PERHAPS TO INTRO OF LIT REVIEW  ? -->
-
-- agency as choice already explored in in 5D
-
-Cultural mediation via artefacts [cole], as a base.
-
-Look for tensions in ATs - and how learners overcome barriers or blockages, is an instrumental type of agency
 
 
 <!--
@@ -665,33 +727,7 @@ In addition the concept of diversion from the primary task are relevant to the m
 
 
 
-
-
-<!-- #### Communities of practice and communities of learners
-
-Communities of practice - legitimate peripheral participation boundaries and barriers to participation
-
-
-
-(Continue to) refute or problematise  dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009].
-
-Participation on community activities as a valid approach.
-
-Cultural and social factors are vital to development process even if hidden in as school setting.
-Guided participation as a middle ground between instruction and discovery.
-
-Teachers benefit from the concept of scaffolding, and designing learning environments and interventions to support learners to enter into a pattern of activity.
-
-This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding. -->
-
-
-
-
-
 <!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
-
-
-
 
 <!-- DROP THIS - NOT NEEDED
 REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
@@ -706,8 +742,6 @@ From the perspective of participants, the goal of implementing individual game p
 - any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
 
 <!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-
 
 <!-- (see blunden for more on project as unit of Activity
 https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
@@ -726,12 +760,7 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 <!-- #### LOA in Computing pedagogy
 Call back to PRIMM and Waite Sentence's work here -->
 
-
-
-
-
 ##### TADS - On double stimulation and agency
-
 
 The active use of secondary stimulus can facilitate agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
@@ -758,72 +787,35 @@ Cole's recent work address the use of FoK to form ideocultures in educational in
 The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
 
 
-#### On affordances
-
-<!-- [@ba_erentsen_activity_2002] -->
-
-Affordance theory and associated research in the context of designing for created learner experiences provides concept useful for this study.
-
-There is a link between double stimulation and affordances [@romero_analysing_2022]
-
-A good summary of affordances related to HCI is here [@galliers_affordance_2017]
-
-Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].
-
-They focus particularly in terms of who the affordance is for.
-
-Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
-
-This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
-
-Nardi and colleagues give an overview regrounding Gibson's concept of affordances as action possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
-
-While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
-
-
-However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
-
-NOTE - more on affordances here from Nardi
-
-**Link with TADS?**
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-
-## Conclusion / Sythesis.
+## Conclusion / Synthesis.
 
 Synthesis of different concepts as they are applied to the context of this study.
 
 - DBR vs AT?
 - Role of 3 planes?
 
-### The role of AT in the analysis of HCI
+
+### Summary of Justification of choice - and how the RQs align with different concepts
+
+For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
+NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
+
+<!-- Barab and Squire [@barab_design-based_2004] -->
+
+<!--
+As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
+
+#### Signposting where concepts are used in the thesis (in relation to RQs)
+
+The concept of germ cell is explore later in more detail in Chapter 5.  
+
+#### The role of AT in the analysis of HCI - MOVE?
 
 NOTE BE SURE TO USE THE RIGHT TERMS HERE.
 
 It is of note that the work of Kaptelinin and Nardi on conceptualising activity theory happens in the context of Human Computer Interaction (HCI). The link of concepts of mediation and affordances are of note [@kaptelinin_acting_2009, p.71].
 
-
-### Summary of Justification of choice
-
-
-
-
-
-Barab and Squire [@barab_design-based_2004]
-
-For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
-NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
-<!--
-As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
-
-### Signposting where concepts are used in the thesis
-
-The concept of germ cell is explore later in more detail in Chapter 5.  
-
-
-
 ## Parked to replace or remove or rework
-
 
 ##### Situating this study using third space and FoK terminology and processes
 
