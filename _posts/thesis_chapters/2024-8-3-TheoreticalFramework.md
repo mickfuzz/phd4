@@ -86,10 +86,14 @@ title: 3. Theoretical Framework
         -   [Conceptual tools associated with
             agency](#conceptual-tools-associated-with-agency)
             -   [Specifically, TAS, TADS](#specifically-tas-tads)
-        -   [Affordances](#affordances)
-            -   [Third spaces, idiocultures and designed systems as a
-                research
-                method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
+            -   [Affordances](#affordances)
+            -   [TADS - On double stimulation and
+                agency](#tads---on-double-stimulation-and-agency)
+        -   [Third spaces, idiocultures and designed systems as a
+            research
+            method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
         -   [Summary of Justification of choice - and how the RQs align
             with different
@@ -680,7 +684,7 @@ Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @s
 
 For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
 
-### Affordances
+#### Affordances
 
 <!-- [@ba_erentsen_activity_2002] -->
 
@@ -760,13 +764,13 @@ https://www.youtube.com/watch?v=BMi56ZBSows -->
 <!-- #### LOA in Computing pedagogy
 Call back to PRIMM and Waite Sentence's work here -->
 
-##### TADS - On double stimulation and agency
+#### TADS - On double stimulation and agency
 
 The active use of secondary stimulus can facilitate agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
-#### Third spaces, idiocultures and designed systems as a research method
+### Third spaces, idiocultures and designed systems as a research method
 
 This study aligns with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
 
@@ -780,7 +784,7 @@ This can be compared to methods addressing existing existing activities like the
 However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
 
 
-##### Funds of Knowledge within ideocultures
+#### Funds of Knowledge within ideocultures
 
 Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
 

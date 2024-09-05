@@ -75,10 +75,14 @@
         -   [Conceptual tools associated with
             agency](#conceptual-tools-associated-with-agency)
             -   [Specifically, TAS, TADS](#specifically-tas-tads)
-        -   [Affordances](#affordances)
-            -   [Third spaces, idiocultures and designed systems as a
-                research
-                method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
+            -   [Affordances](#affordances)
+            -   [TADS - On double stimulation and
+                agency](#tads---on-double-stimulation-and-agency)
+        -   [Third spaces, idiocultures and designed systems as a
+            research
+            method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
         -   [Summary of Justification of choice - and how the RQs align
             with different
