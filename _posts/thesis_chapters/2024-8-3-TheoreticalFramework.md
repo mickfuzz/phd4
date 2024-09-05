@@ -534,14 +534,6 @@ The specific drive for participants to identify new tools, -->
 
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
-
-
-
-
-
-### Summary of Justification of choice
-
-
 ####  Ongoing alignments between  DBR  and the CHAT community / ethos
 
 Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work
@@ -558,47 +550,10 @@ Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include
 Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
 
-<!-- #### Summary statement
-
-MOVE ?
-I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
-MOVED FROM ANOTHER SECTION SEE IF IT FITS.
-
-AGAIN MOVED
-**Active stance of research:**  There is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent. -->
 
 
 
-<!-- NOTE Investigate more
-https://dspace.mit.edu/handle/1721.1/131022/discover?query=constructionism&submit=Go&filtertype_0=department&filter_relational_operator_0=authority&filter_0=845e039612ff85b8394b5ef42a7f3aa7 -->
 
-<!-- While noting the focus "individualist" approach of many studies from constructionist researchers, [@barab_practice_2000], Barab notes following alignmentS with . -->
-
-
-<!-- They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] .  -->
-
-<!-- Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
-oloughlin_rethinking_1992 -->
-
-<!-- Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. -->
-
- <!-- Some of the specifics of these processes have already been named in the section above looking at collaboration.  -->
-
-<!-- Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991]. -->
-
-<!-- [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] -->
-
-
-<!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
-
-<!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
-
-Barab and Squire [@barab_design-based_2004]
-
-For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
-NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
-<!--
-As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
 
 ## Concepts of agency within CHAT
 
@@ -847,17 +802,27 @@ NOTE BE SURE TO USE THE RIGHT TERMS HERE.
 
 It is of note that the work of Kaptelinin and Nardi on conceptualising activity theory happens in the context of Human Computer Interaction (HCI). The link of concepts of mediation and affordances are of note [@kaptelinin_acting_2009, p.71].
 
+
+### Summary of Justification of choice
+
+
+
+
+
+Barab and Squire [@barab_design-based_2004]
+
+For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
+NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
+<!--
+As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
+
 ### Signposting where concepts are used in the thesis
 
 The concept of germ cell is explore later in more detail in Chapter 5.  
 
 
 
-
-
 ## Parked to replace or remove or rework
-
-
 
 
 ##### Situating this study using third space and FoK terminology and processes
@@ -875,3 +840,40 @@ Retro gaming cultures emcompass broad media and practices beyond the games thems
 This study positions this interest and identification as a fund of knowledge which designers should be aware of and utilise to help address some of the affective barriers to taking part in coding processes.
 
 This study contributes to work which explores the potential does that give to developing game coding practices as per RQ3.
+
+
+
+<!-- #### Summary statement
+
+MOVE ?
+I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
+MOVED FROM ANOTHER SECTION SEE IF IT FITS.
+
+AGAIN MOVED
+**Active stance of research:**  There is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent. -->
+
+
+
+<!-- NOTE Investigate more
+https://dspace.mit.edu/handle/1721.1/131022/discover?query=constructionism&submit=Go&filtertype_0=department&filter_relational_operator_0=authority&filter_0=845e039612ff85b8394b5ef42a7f3aa7 -->
+
+<!-- While noting the focus "individualist" approach of many studies from constructionist researchers, [@barab_practice_2000], Barab notes following alignmentS with . -->
+
+
+<!-- They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] .  -->
+
+<!-- Much of the foundational literature on game making focuses on personal dimensions of learning (Harel and Papert, 1991; Kafai and Burke, 2015; Kafai and Resnick, 1996). They draw on Papert's constructionist approach which extends a piagetian take to propose that construction of personal knowledge happens best where learners can experiment and manipulate  [@ackermann_piagets_2001] . Such a focus on individual learning is problematic from perspective of sociocultural approaches due to a tendency to ignore both contextual factors influencing the learning setting and the evolving use of resources, processes and shared understandings by emergent communities of learners
+oloughlin_rethinking_1992 -->
+
+<!-- Notably, later work from Kafai incorporates broader social approaches and attempts to bring them into the constructionist fold @kafaiConstructionistGamingUnderstanding2015. Kafai and Burke draw on the conceptions of Rogoff [-@rogoffObservingSocioculturalActivity1993] of personal, social and community learning planes to advocate the wide-ranging benefits of 'constructionist gaming'. -->
+
+ <!-- Some of the specifics of these processes have already been named in the section above looking at collaboration.  -->
+
+<!-- Other concepts of value include Vygotsky's concept of mediated action Wertsch, 1994); Rogoff's [-@rogoffObservingSocioculturalActivity1993] take on guided participation within a community of learners; and more detailed analysis of roles community-based transfer of knowledge in practice Lave and Wenger [-@laveSituatedLearningLegitimate1991]. -->
+
+<!-- [@rogoffObservingSocioculturalActivity1993; -@rogoffGuidedParticipationCultural1993] -->
+
+
+<!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
+
+<!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
