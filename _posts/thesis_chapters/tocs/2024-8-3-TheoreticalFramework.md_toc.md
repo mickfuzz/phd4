@@ -30,8 +30,9 @@
             -   [Double stimulation and
                 Affordances](#double-stimulation-and-affordances)
         -   [Development and design](#development-and-design)
-    -   [Third generation activity theory (3GAT) and Expansive
-        Learning](#third-generation-activity-theory-3gat-and-expansive-learning)
+    -   [Later iterations of activity theory, 3GAT / Cole /
+        etc](#later-iterations-of-activity-theory-3gat-cole-etc)
+        -   [3GAT](#gat)
         -   [The value of surfacing areas of
             contradictions](#the-value-of-surfacing-areas-of-contradictions)
             -   [Disambiguating terminology - Conflicts, tensions,
@@ -41,18 +42,24 @@
                 contradiction in joint activity through method of double
                 stimulation](#double-stimulation-and-its-interaction-with-contradiction-in-joint-activity-through-method-of-double-stimulation)
         -   [Expansive learning](#expansive-learning)
-        -   [An operationalised example of Activity Theory concepts in
-            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+        -   [Third spaces, idiocultures and designed
+            systems](#third-spaces-idiocultures-and-designed-systems)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
         -   [Critiques and alternatives to Activity
             theory.](#critiques-and-alternatives-to-activity-theory.)
     -   [Putting AT to work via interventionist research via formative
         interventions and
         DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
+        -   [An operationalised example of Activity Theory concepts in
+            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
         -   [On formative interventions](#on-formative-interventions)
         -   [What is DBR and why and how do I use it in this
             study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
         -   [Outline of the guiding principles of DBR and formative
             interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
+            -   [Ongoing alignments between DBR and the CHAT community /
+                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
             -   [Principle: Mutuality - LINKED TO THE ABOVE POINT
@@ -62,8 +69,6 @@
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-            -   [Ongoing alignments between DBR and the CHAT community /
-                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Addressing and disambiguating definitions of agency in
@@ -78,11 +83,6 @@
             -   [Affordances](#affordances)
             -   [TADS - On double stimulation and
                 agency](#tads---on-double-stimulation-and-agency)
-        -   [Third spaces, idiocultures and designed systems as a
-            research
-            method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
         -   [Summary of Justification of choice - and how the RQs align
             with different

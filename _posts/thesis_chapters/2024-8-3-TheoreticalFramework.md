@@ -41,8 +41,9 @@ title: 3. Theoretical Framework
             -   [Double stimulation and
                 Affordances](#double-stimulation-and-affordances)
         -   [Development and design](#development-and-design)
-    -   [Third generation activity theory (3GAT) and Expansive
-        Learning](#third-generation-activity-theory-3gat-and-expansive-learning)
+    -   [Later iterations of activity theory, 3GAT / Cole /
+        etc](#later-iterations-of-activity-theory-3gat-cole-etc)
+        -   [3GAT](#gat)
         -   [The value of surfacing areas of
             contradictions](#the-value-of-surfacing-areas-of-contradictions)
             -   [Disambiguating terminology - Conflicts, tensions,
@@ -52,18 +53,24 @@ title: 3. Theoretical Framework
                 contradiction in joint activity through method of double
                 stimulation](#double-stimulation-and-its-interaction-with-contradiction-in-joint-activity-through-method-of-double-stimulation)
         -   [Expansive learning](#expansive-learning)
-        -   [An operationalised example of Activity Theory concepts in
-            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+        -   [Third spaces, idiocultures and designed
+            systems](#third-spaces-idiocultures-and-designed-systems)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
         -   [Critiques and alternatives to Activity
             theory.](#critiques-and-alternatives-to-activity-theory.)
     -   [Putting AT to work via interventionist research via formative
         interventions and
         DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
+        -   [An operationalised example of Activity Theory concepts in
+            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
         -   [On formative interventions](#on-formative-interventions)
         -   [What is DBR and why and how do I use it in this
             study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
         -   [Outline of the guiding principles of DBR and formative
             interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
+            -   [Ongoing alignments between DBR and the CHAT community /
+                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
             -   [Principle: Mutuality - LINKED TO THE ABOVE POINT
@@ -73,8 +80,6 @@ title: 3. Theoretical Framework
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-            -   [Ongoing alignments between DBR and the CHAT community /
-                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Addressing and disambiguating definitions of agency in
@@ -89,11 +94,6 @@ title: 3. Theoretical Framework
             -   [Affordances](#affordances)
             -   [TADS - On double stimulation and
                 agency](#tads---on-double-stimulation-and-agency)
-        -   [Third spaces, idiocultures and designed systems as a
-            research
-            method](#third-spaces-idiocultures-and-designed-systems-as-a-research-method)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
         -   [Summary of Justification of choice - and how the RQs align
             with different
@@ -359,6 +359,10 @@ Activity theory is based on the concept that activity in context should be under
 
 Engeström's work on what he termed a  third generation includes theory of expansive learning which charts changes and expansion of the object being worked on, often due to tensions beyond a single activity system to encompass others thus but through acknowledging the impact of movement of actors between systems [@engestrom_expansive_2001]. This along with the work of Cole, is vital to move beyond a limited view of activity to engage with cross cultural understandings of learning [@cole_cross-cultural_1988]
 
+
+
+## Later iterations of activity theory, 3GAT / Cole / etc
+
 As part of a the broader social turn of psychology explored, these authors and their colleagues also forged new concepts which I draw on in this study and which are explored in the next section (on 3gat and Cole's cultural work) including:
 
 - tensions between system elements
@@ -371,7 +375,7 @@ The next section explores these concepts and their utility to this study.
 
 NOTE - THE CONCEPTS LISTED ABOVE ARE NOT THE SAME AS THE DBR PRINCIPLES BUT SEE MORE IMPORTANT - DOES THIS NEED RESTRUCTURING?
 
-## Third generation activity theory (3GAT) and Expansive Learning
+### 3GAT
 
 An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT).
 
@@ -382,8 +386,6 @@ As mentioned in the section above, the recognised the importance of interacting 
 Figure 3. x - Engeström's concept of expansive learning via a shared object
 
 The recognition of wider activity systems and the bleed of motivations of actors into new systems is represented in Engeström's view of AT as a foundation for interventionist and participatory processes on [@spinuzzi_trying_2020-1]
-
-
 
 
 ### The value of surfacing areas of contradictions
@@ -458,6 +460,46 @@ Expansive learning leads to the formation of a new, expanded object and pattern 
 REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning
  [@sannino_formative_2016; @engestrom_methodological_2014]
 
+### Third spaces, idiocultures and designed systems
+
+REWORK THIS TO SIT IN THIS SECTION
+
+This study aligns with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
+
+The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
+
+
+Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
+
+This can be compared to methods addressing existing existing activities like the change laboratory.
+
+However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
+
+
+#### Funds of Knowledge within ideocultures
+
+Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
+
+The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
+
+
+### Critiques and alternatives to Activity theory.
+
+It's complex and unwieldy when putting into practice.
+
+While examples like formative interventions, in the form of Change Laboratory and 5th D are available, they are highly context dependent and not easily replicable.
+
+There are also other critiques.
+- Such as
+
+Alternative which are less theoretically heavy include DBR & COP
+
+More recent conception of DBR and AT process such as formative interventions are working to align the approaches and mitigate against Engeström's initial critiques in a way which is explored in next section.
+
+
+## Putting AT to work via interventionist research via formative interventions and DBR
+
+This section covers a summary of how the theoretical framework of AT can be operationalised. It compares the approaches of formative interventions and design based research.  
 
 ### An operationalised example of Activity Theory concepts in context
 
@@ -474,29 +516,11 @@ The objective of activity is to make a game to share, that process is mediated b
 <!-- EXAMPLE WITHIN CONTEXT OF THIS STUDY.
 IS THIS REALLY NEEDED HERE? IF NOT WHERE?
 As an example based on the overall study we can include the following diagram and description.
-
  -->
 
-### Critiques and alternatives to Activity theory.
-
-It's complex and unwieldy when putting into practice.
-
-While examples like formative interventions, in the form of Change Laboratory and 5th D are available, they are highly context dependent and not easily replicable.
-
-There are also other critiques.
-- Such as
-
-Alternative which are less theoretically heavy include DBR &
-
-
-
-
-However more recent conception of DBR and AT process such as formative interventions are working to align these , an aspect which
-
-
-## Putting AT to work via interventionist research via formative interventions and DBR
-
-This section covers a summary of how the theoretical framework of AT can be operationalised. It compares the approaches of formative interventions and design based research.  
+**On develoment**
+What this static representation does not cover is the development and transformation.
+The next sections address this
 
 ### On formative interventions
 
@@ -546,6 +570,25 @@ The following sections explore key similarities and disctinctions in the applica
 - generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy
 
 To help explore these principles, this section describes some of the fault-lines in the theoretical debates surrounding the methods of DBR and formative interventions.
+
+
+####  Ongoing alignments between  DBR  and the CHAT community / ethos
+
+Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work
+<!--
+NOTE PROBLEM REFERNCE for pandoc
+ [@engestrom_design_2011] -->
+
+Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
+
+Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
+
+Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
+
+Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
+
+
+
 
 
 #### Principle : Researcher take and active interventionist approach
@@ -611,21 +654,6 @@ The specific drive for participants to identify new tools, -->
 #### Principle : Utility of research - overcoming the tension between the rich context and generalisation of results
 
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
-
-####  Ongoing alignments between  DBR  and the CHAT community / ethos
-
-Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work
-<!--
-NOTE PROBLEM REFERNCE for pandoc
- [@engestrom_design_2011] -->
-
-Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
-
-Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
-
-Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
-
-Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
 
 
@@ -722,53 +750,7 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 
 
-<!--
-DROP CONTENT ON CHANGE LAB
 
-One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
-EXPAND THIS WITH EXAMPLES?
-
-I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
-
-In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013]. -->
-
-
-<!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
-
-
-
-<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
-
-<!-- DROP THIS - NOT NEEDED
-REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
-
-<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
-From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
-
-- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
-- the utility of the smaller unit of analysis in aiding resource creation
-- the value of completing something concrete a sense of sustaining achievement.
-- the ability to reflect after implementing each sub project,
-- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
-
-<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
-
-<!-- (see blunden for more on project as unit of Activity
-https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
-
-<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
-
-<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
-NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
-
-<!-- review this video to develop
-https://www.youtube.com/watch?v=BMi56ZBSows -->
-
-<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
-
-<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
-<!-- #### LOA in Computing pedagogy
-Call back to PRIMM and Waite Sentence's work here -->
 
 #### TADS - On double stimulation and agency
 
@@ -776,25 +758,7 @@ The active use of secondary stimulus can facilitate agency [@sannino_principle_2
 
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
-### Third spaces, idiocultures and designed systems as a research method
 
-This study aligns with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
-
-The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
-
-
-Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
-
-This can be compared to methods addressing existing existing activities like the change laboratory.
-
-However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
-
-
-#### Funds of Knowledge within ideocultures
-
-Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
-
-The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
 
 
 ## Conclusion / Synthesis.
@@ -879,3 +843,54 @@ oloughlin_rethinking_1992 -->
 <!-- There are particular limitations in the kind of empirical research that characterises many studies involving. -->
 
 <!-- Many of these limitations involve research in to background cultures of participants and how they can be involved into making activities and a focus on creating and sustaining an authentic learning environment. -->
+
+
+
+<!--
+DROP CONTENT ON CHANGE LAB
+
+One of the most striking set of practical techniques are those used in Engeström's take on Expansive Learning, specifically set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+EXPAND THIS WITH EXAMPLES?
+
+I am guided by the concepts behind the use of the models rather than drawn to an off the shelf application of CL processes or similar interventions. While some of the material used in CL and the fictional device of the 5D supports their primary tasks, others could be said to be support secondary considerations of navigating learning, establishing shared concepts and communities and reflecting on transformations in practices or understandings. These dimensions are sometimes explored in CHAT using the term of secondary stimuli used to facilitate and complement the primary task as part of the concept double stimulation.
+
+In addition the concept of diversion from the primary task are relevant to the more playful approaches of participants and facilitators to make the learning process attractive [@engestrom_expansive_2013]. -->
+
+
+<!-- The concept of the importance of project is used to encompass and engender a sense of commitment from participants Blunden, 2009), (explored in earlier sections).  -->
+
+
+**Change labs**
+
+<!-- Here, I try to strike a balance which stays concrete but which also pulls from my observations a framework which may translate in to other game-making and creative project based approaches. -->
+
+<!-- DROP THIS - NOT NEEDED
+REWRITE THE ABOVE - TALK OF EVOLUTION OF RESOURCES AROUND GAME FEATURES VIA REQUESTS -->
+
+<!-- DUPLICATION IN GDP CHAPTER CURRENTLY.
+From the perspective of participants, the goal of implementing individual game patterns rather than the overall goal of making of a game, took up the majority of their focus. This can be evidenced in the following observations;
+
+- the frequency of GDP language referring to patterns used by pairs in particular in the process of collaborating on their games
+- the utility of the smaller unit of analysis in aiding resource creation
+- the value of completing something concrete a sense of sustaining achievement.
+- the ability to reflect after implementing each sub project,
+- any other value for practitioners, parents and young participants - i.e. in navigation and goal setting. -->
+
+<!-- Thus while GDP emerged as a main unit rather than the whole game, in play testing with others the wider focus of making an engaging game came into focus. Particularly the shift to wider sense of game as an enjoyable experience for others AND??? -->
+
+<!-- (see blunden for more on project as unit of Activity
+https://www.activityanalysis.net/andy-blundens-vision-of-activity-theory/ )  -->
+
+<!-- NOTE - Thus GDP can be seen as a sub-activities of the wider overall goal of making a game. Which invites discussion on why GDP were chosen as the primary unit of analysis. -->
+
+<!-- NOTE - DISCUSS THE THEORETICAL INPUT IN RELATION TO THE ABOVE POINTS.
+NOTE MORE THEORETICAL INPUT - DRAW ON TERMINOLOGY - WHY IS IT IMPORTANT TO IDENTITY KEY UNITS OF ACTIVITY / ANALYSIS (AND WHAT IS THE DISTINCTION BETWEEN UNIT OF ACTIVITY AND ANALYSIS) -->
+
+<!-- review this video to develop
+https://www.youtube.com/watch?v=BMi56ZBSows -->
+
+<!-- We have also looked at the other studies which look at game design patterns as a useful tool for advanced and less frequently for notice coders.  -->
+
+<!-- In the following sections, I draw on observations of participants in practice to outline how game design patterns are used in the making of games.  -->
+<!-- #### LOA in Computing pedagogy
+Call back to PRIMM and Waite Sentence's work here -->
