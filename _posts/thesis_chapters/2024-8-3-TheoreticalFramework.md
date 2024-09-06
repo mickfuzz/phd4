@@ -149,13 +149,11 @@ This chapter describes the guiding theoretical framework and key concepts which 
 
 A brief justification of the use of the framework can be given due to the importance of context, transformation and the development of participant agency to this study.
 
-
   - Social turn / socio cultural approach
-  - AT is explored via x, y z,
-  - In order to operationalise AT concepts DBR is compared to formative interventsions  
-  - Finally concetions of  agency within AT are explored
-
-
+  - AT is explored via foundational concepts,
+  - AT's more more recent evolutions
+  - In order to explore the operationalisation of  AT in a research seetting, concepts including DBR formative interventsions and y are conpared.
+  - Finally conceptions of  agency within AT are explored
 
 The second part of the chapter looks specifically at theoretical framework for understanding the development of agency.
 
