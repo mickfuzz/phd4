@@ -359,7 +359,13 @@ Activity theory is based on the concept that activity in context should be under
 
 Engeström's work on what he termed a  third generation includes theory of expansive learning which charts changes and expansion of the object being worked on, often due to tensions beyond a single activity system to encompass others thus but through acknowledging the impact of movement of actors between systems [@engestrom_expansive_2001]. This along with the work of Cole, is vital to move beyond a limited view of activity to engage with cross cultural understandings of learning [@cole_cross-cultural_1988]
 
-As part of a the broader social turn of psychology explored, these authors and their colleagues also forged new research approaches and concepts which I draw on in this study and which are explored in the next section. These include expansive learning, design based research, formative interventions, double stimulation, ideocultures and mutual appropriation.  
+As part of a the broader social turn of psychology explored, these authors and their colleagues also forged new concepts which I draw on in this study and which are explored in the next section (on 3gat and Cole's cultural work) including:
+
+- tensions between system elements
+- double stimulation  
+- ideocultures and
+- mutual appropriation.  
+- expansive learnig
 
 The next section explores these concepts and their utility to this study.
 
