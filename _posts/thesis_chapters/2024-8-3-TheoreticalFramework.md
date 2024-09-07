@@ -422,18 +422,28 @@ Instead of a more technical definition [@engestrom_discursive_2011], following K
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
 
-#### Double stimulation  and its interaction with contradiction in joint activity through method of double stimulation
+#### Double stimulation  
 
-Link to next section
-Check overlap with methodology chaper.
+Exploration of  contradictions in joint activity through method of double stimulation
 
 Double stimulation refers to the use of tools and processes to overcome such conflicts. Engeström's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
+EXPAND ON THIS
+
+While the core concept stems from object based psychological experiments, the "extension of this idea to collective behavior with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492]
+
+This jump allowed a reframing of double stimulation as form of intervention via planned (by researchers / facilitators) forms of stimuli in the work place to stimulate (first stimulus) and then record and reflect on the emerging discussion.
+
+Engeström and Sannino also advocates the value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016]. While
+
+Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation see auxilary stimulation as triggers for will and agency in participants. [@hopwood2023motives]
 
 
-While Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2], it shares the a perspective that there is value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016].
+She also cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2],
 
+COMPARE THE BELOW OR INTEGRATE ABOVE?
+One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] t
 
-One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
+Another to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
 
 In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
 
@@ -501,12 +511,15 @@ This section covers a summary of how the theoretical framework of AT can be oper
 
 ### An operationalised example of Activity Theory concepts in context
 
-To situate the learner at this stage, concepts explored within the context of this study. 
+To situate the learner at this stage, concepts explored within the context of this study.
 
 The following example gives broader picture by arranging the focus of the represenation as Cole does in describing the 5D programme  [@valsiner_cultural-historical_2007, p.497]
 
 ![](./Pictures/At_dia_3_v2.png){width=90%}
-Fig 3.x - environmental positioning
+Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
+
+
+The broad intention here would be to examine the parts that make up each of the system with the learning experience being a partnership intervention between the activity systems of different stakeholders.
 
 The following diagram includes a break down of factors typified by Engeström's model.
 
