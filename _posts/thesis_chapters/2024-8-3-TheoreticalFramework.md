@@ -460,11 +460,7 @@ REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of acti
 
 REWORK THIS TO SIT IN THIS SECTION - HOW IS THIS DIFFERENT FROM THE PUTTING AT TO WORK? DOES IT FINISH WITH THAT FOCUS? CONCEPTS FIRST THEN HOW APPLIED.
 
-The joint development and analysis of culture via a joint activity is described by Cole using the 5D case study [@valsiner_cultural-historical_2007] Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers. 
-
-This study aligns with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
-
-The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
+The joint development and analysis of culture via a joint activity is described by Cole using the 5D case study [@valsiner_cultural-historical_2007] Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers.
 
 
 Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
@@ -475,6 +471,10 @@ However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures 
 
 
 #### Funds of Knowledge within ideocultures
+
+Many studies in the school of research Cole describes above align with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
+
+The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
 
 Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
 
@@ -501,24 +501,24 @@ This section covers a summary of how the theoretical framework of AT can be oper
 
 ### An operationalised example of Activity Theory concepts in context
 
+To situate the learner at this stage, concepts explored within the context of this study. 
 
-These concepts are used in later analysis in findings chapters. However, to situate the learner at this stage I include a diagram .
+The following example gives broader picture by arranging the focus of the represenation as Cole does in describing the 5D programme  [@valsiner_cultural-historical_2007, p.497]
+
+![](./Pictures/At_dia_3_v2.png){width=90%}
+Fig 3.x - environmental positioning
+
+The following diagram includes a break down of factors typified by Engeström's model.
 
 ![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
 Fig 3.x - a wide scope of activity
 
-The concepts above are now used in context.
-
 The objective of activity is to make a game to share, that process is mediated by tool use. The tools themselves have been created by a wider community including the facilitator (drawing on the product of a wider on-line community)
 
-<!-- EXAMPLE WITHIN CONTEXT OF THIS STUDY.
-IS THIS REALLY NEEDED HERE? IF NOT WHERE?
-As an example based on the overall study we can include the following diagram and description.
- -->
 
-**On develoment**
+**On development**
 What this static representation does not cover is the development and transformation.
-The next sections address this
+The next sections address this with relevant concepts.
 
 ### On formative interventions
 
