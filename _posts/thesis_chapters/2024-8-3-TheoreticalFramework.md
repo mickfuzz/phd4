@@ -375,9 +375,7 @@ NOTE - THE CONCEPTS LISTED ABOVE ARE NOT THE SAME AS THE DBR PRINCIPLES BUT SEE 
 
 ### 3GAT
 
-An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT).
-
-As mentioned in the section above, the recognised the importance of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object. These concepts are represented via an extension of Engeström's triangular representation of key cultural aspects of the activity in question, now also include a second triable representing other cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987; @engestrom_expansive_2001]
+An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). As mentioned in the section above, the recognised the importance of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object. Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987; @engestrom_expansive_2001]
 
 
 ![](./Pictures/shared_object_engestrom.png){width=90%}
@@ -460,7 +458,9 @@ REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of acti
 
 ### Third spaces, idiocultures and designed systems
 
-REWORK THIS TO SIT IN THIS SECTION
+REWORK THIS TO SIT IN THIS SECTION - HOW IS THIS DIFFERENT FROM THE PUTTING AT TO WORK? DOES IT FINISH WITH THAT FOCUS? CONCEPTS FIRST THEN HOW APPLIED.
+
+The joint development and analysis of culture via a joint activity is described by Cole using the 5D case study [@valsiner_cultural-historical_2007] Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers. 
 
 This study aligns with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
 
@@ -602,7 +602,6 @@ Formative interventions rarely work with new educational design, favouring exist
 
 DBR however is more comfortable with new designs that are introduced fully by the researcher but with feedback from participants for ongoing iterations.
 
-
 Different  approaches are needed depending on if the activity and context of that activity is already  established an on-going or if it is a new venture created by researchers / participants.
 
 #### Principle: Mutuality - LINKED TO THE ABOVE POINT TOO
@@ -616,9 +615,6 @@ This bears examination on two levels.
 Firstly, it is of note that the formal approach of formative interventions is often used in stable institutional systems of work environments in European contexts where there are more stable understandings of stakeholders involved compared to less formal learning environments [@spinuzzi_trying_2020-1]. The author notes the impact of this context on they types of mutuality possible based on unstable stakeholders as a critique of 3GAT and formative interventions.
 
 Secondly, it is out of date, see Penuel [-@penuel_emerging_2014] for an more updated take on alignment of formative interventions and DBR. More recently Engeström and colleagues [-@cakir_contradictions_2022] have advocated the advantages of incorporating more rigour of formative interventions to add to DBR, rather that critiquing it wholesale.   
-
-
-
 
 <!--
 From [@cakir_contradictions_2022]
@@ -646,16 +642,26 @@ The specific drive for participants to identify new tools, -->
 <!-- Comparing Engeström's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment. -->
 
 
-
-
-
 #### Principle : Utility of research - overcoming the tension between the rich context and generalisation of results
 
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
-
-
 ## Concepts of agency within CHAT
+
+### Agency and AT - big picture in relation to ANT (Latour) and agency of humans and artefacts
+
+Who and what has agency is a thorny philosophical question. Nardi and Kaptelin write on agency and objects in relation to technology convincingly [@kaptelinin_activity_2012]. In AT artefacts or tools used in mediated activity may be given a form of delegated agency through design, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
+
+In addition socio cultural concepts of agency also distinguish between agency as a personal property and one that exists within a context.
+
+Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
+[@stetsenko_critical_2020; @matusov_mapping_2016], thus acknowledging both the importance of context and human volition.
+
+For the purposes of this thesis agency is considered as a a cultural phenomenon which humans experience in relation to their peers and learning environment.  
+
+The following sections draw on research in line with this understanding to further clarify dimensions of agency.
+
+<!-- See also affordences in hci [@kaptelinin_affordances_2012] -->
 
 ### Addressing and disambiguating definitions of agency in education
 
@@ -665,7 +671,7 @@ Agency and autonomy have disputed, often inter-related definitions or are often 
 
 See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
 
-Concepts of agency are explored in more depth in chapter three, however a brief definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
+A definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
 
 Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; and authorial agency which involves agentic changes to the learning environment.
 
@@ -684,8 +690,7 @@ In this sometimes technological view of educational environments teachers or fac
 
 #### Authorial and transformative agency
 
-Other takes of socio cultural school of research focus less on the individual and more on broader conceptions of activity. Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
-[@stetsenko_critical_2020; @matusov_mapping_2016].
+
 
 
 Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
