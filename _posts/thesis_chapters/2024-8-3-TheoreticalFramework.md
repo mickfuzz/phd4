@@ -517,19 +517,24 @@ Exploration of  contradictions in joint activity through method of double stimul
 Double stimulation refers to the use of tools and processes to overcome such conflicts. Engeström's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
 EXPAND ON THIS
 
-While the core concept stems from object based psychological experiments, the "extension of this idea to collective behaviour with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492].  This jump allowed a reframing of double stimulation as form of intervention via planned (by researchers / facilitators) forms of stimuli in the work place to stimulate (first stimulus) and then record and reflect on the emerging discussion.
+While the core concept stems from object based psychological experiments, the "extension of this idea to collective behaviour with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492].  
 
-Engeström and Sannino also advocates the value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016]. READ AND EXPAND
+This jump allowed a reframing of double stimulation as  the first stimulus as _the problem itself_ [@engestrom_methodological_2014] and a potential series of secondary stimuli be presented as part of intervention.
 
-A different
+
+Engeström's initial description of DS, which does appear to be a series on introduced meditational stimuli evolves based on initial research. Engeström and Sannino posit that the process is active and goes beyond simple mediation via existing tools, instead stimuli, either presented as suggested tools or discovered in the environment, are actively imbued with meaning by the participants through transformation [@engestrom_methodological_2014]. This process is complex "Most likely the initially given potential second stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
+
+attributing DS a crucial role in to participants development of agency [@sannino_formative_2016].
+
+Thus Sannino cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2],
+
 
 Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation see auxiliary stimulation as triggers for will and agency in participants. [@hopwood2023motives]
 
-She also cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2],
+An example would be a form of intervention via planned (by researchers / facilitators) forms of stimuli in the work place to stimulate (first stimulus) and then record and reflect on the emerging discussion.
 
-How this interpretation sits with Engeström's first definition of DS, which does appear to be a series on introduced meditational stimuli is not explicitly explored.
 
- EXAMPLES MOVE LATER?
+EXAMPLES MOVE LATER?
 One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] t
 
 Another to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
@@ -599,10 +604,18 @@ The next sections address this with relevant concepts.
 
 ### More on formative interventions in education
 
-**This section explains the CHAT method of formative interventions**
-IS THIS DONE ABOVE?
+**This section explains the CHAT method of formative interventions to broader research intervention in education including DBR**
 
-**and proposes this study as an example of a formative intervention in an educational context**
+MORE INTRO
+
+
+Penuel [-@penuel_emerging_2014] charts a shared foundations and of 3GAT and wider research intervention in education including DBR.
+
+He notes a difference in focus with DBR focusing on developing and innovative curricular tasks with technological aspects rather than broader concerns of participant agency.
+
+<!-- Penuel [-@penuel_emerging_2014]
+
+For example, learning scientists today employ design experiments primarily to develop theory related to how children learn disciplinary core ideas by engaging with innovative curricular tasks, often supported by technology (e.g., Cobb, Confrey, diSessa, Lehrer, & Schauble, 2003; Design-Based Research Collective, 2003; Kelly, Lesh, & Baek, 2008; Sandoval, 2013). By contrast, CHAT intervention research focuses on transforming activity and expanding the agency of participants -->
 
 Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
 
