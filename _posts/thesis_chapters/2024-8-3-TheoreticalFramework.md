@@ -168,7 +168,7 @@ A brief justification of the use of the framework can be given due to the import
   - Social turn / socio cultural approach
   - AT is explored via foundational concepts,
   - AT's more more recent evolutions
-  - In order to explore the operationalisation of  AT in a research seetting, concepts including DBR formative interventsions and y are conpared.
+  - In order to explore the operationalisation of  AT in a research setting, concepts including DBR formative interventions and y are compared.
   - Finally conceptions of  agency within AT are explored
 
 The second part of the chapter looks specifically at theoretical framework for understanding the development of agency.
@@ -603,8 +603,7 @@ The next sections address this with relevant concepts.
 
 **This section explains the CHAT method of formative interventions to broader research intervention in education including DBR**
 
-MORE INTRO
-
+IS THIS BETTER IN PREVIOUS SECTION AS PART OF THE STRANDS OF DBR.
 
 Penuel [-@penuel_emerging_2014] charts a shared foundations and of 3GAT and wider research intervention in education including DBR.
 
@@ -614,9 +613,14 @@ He notes a difference in focus with DBR focusing on developing and innovative cu
 
 For example, learning scientists today employ design experiments primarily to develop theory related to how children learn disciplinary core ideas by engaging with innovative curricular tasks, often supported by technology (e.g., Cobb, Confrey, diSessa, Lehrer, & Schauble, 2003; Design-Based Research Collective, 2003; Kelly, Lesh, & Baek, 2008; Sandoval, 2013). By contrast, CHAT intervention research focuses on transforming activity and expanding the agency of participants -->
 
-Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
+Penuel [-@penuel_emerging_2014] proposes the formative intervention research as a useful term to encapsulate a DBR process closely aligned with CHAT. He was both praised for bringing some of the 3GAT processes into DBR domain but chastised by Engeström in reply to this proposition [@engestrom_methodological_2014], for lack of clear articulation of double stimulation and agency within the framework of a narrow interpretation of Engeström and Sannino's current understanding of these concepts. He comes across as a bit nitpicky.
 
-<!-- It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more descriptive methods.   -->
+This response mirrors a critique of 3GAT that a focus on particular concerns of double stimulation, work with germ cell and expansive learning, are quite complex and at times too prescriptive for a more broadly cultural approach.
+
+We can compare this approach with that of Social Design Experiments [@gutierrez_social_2016-1; @gutierrez_social_2020].
+
+The focus there, as with Cole's work is on the emergence of culture, tracing the historicy of it, and on equity in the process.
+
 
 A key text here is Cole and Engeström's exploration of two models  of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]
 MOVE UP
@@ -763,6 +767,10 @@ To effectively answer RQ2 the concept of agency needs disambiguating.
 
 Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
 
+Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014].
+
+
+
 See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
 
 A definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
@@ -785,8 +793,6 @@ In this sometimes technological view of educational environments teachers or fac
 #### Authorial and transformative agency
 
 
-
-
 Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
 
 DEFINE
@@ -795,9 +801,6 @@ As well as the work on Lave and Wegner on community based conceptions of agency,
 Matusov bases much of the definition of authorial agency on existing work on transformational agency.
 
 Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
-
-
-
 
 
 ### Conceptual tools associated with agency
