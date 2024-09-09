@@ -5,7 +5,7 @@
     -   [Socio-cultural approach](#socio-cultural-approach)
         -   [Communities of Practice and
             Learners](#communities-of-practice-and-learners)
-            -   [Community of practices](#community-of-practices)
+            -   [Community of practices](#community-of-practices)S
             -   [Community of learners](#community-of-learners)
         -   [Link to next section - DOESN'T SEEM
             RIGHT.](#link-to-next-section---doesnt-seem-right.)
