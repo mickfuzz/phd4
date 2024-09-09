@@ -52,9 +52,6 @@
                 object](#expansive-learning-and-expanded-object)
             -   [The value of surfacing areas of
                 contradictions](#the-value-of-surfacing-areas-of-contradictions)
-            -   [Disambiguating terminology - Conflicts, tensions,
-                contradictions,
-                dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
             -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
                 MOVE THAT
                 THERE?](#double-stimulation-if-exploring-tads-later---what-about-move-that-there)

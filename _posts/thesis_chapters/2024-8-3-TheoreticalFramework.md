@@ -16,7 +16,7 @@ title: 3. Theoretical Framework
     -   [Socio-cultural approach](#socio-cultural-approach)
         -   [Communities of Practice and
             Learners](#communities-of-practice-and-learners)
-            -   [Community of practices](#community-of-practices)
+            -   [Community of practices](#community-of-practices)S
             -   [Community of learners](#community-of-learners)
         -   [Link to next section - DOESN'T SEEM
             RIGHT.](#link-to-next-section---doesnt-seem-right.)
@@ -63,9 +63,6 @@ title: 3. Theoretical Framework
                 object](#expansive-learning-and-expanded-object)
             -   [The value of surfacing areas of
                 contradictions](#the-value-of-surfacing-areas-of-contradictions)
-            -   [Disambiguating terminology - Conflicts, tensions,
-                contradictions,
-                dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
             -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
                 MOVE THAT
                 THERE?](#double-stimulation-if-exploring-tads-later---what-about-move-that-there)
@@ -125,7 +122,6 @@ title: 3. Theoretical Framework
                 MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
-
 # Theoretical Framework
 
 <!-- Also see this writing.
@@ -631,7 +627,9 @@ EXPAND THIS WITH EXAMPLES? kindergarten one below?
 
 ### What is DBR and why and how do I use it in this study?
 
-Design based research (DBR) is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
+Design based research (DBR) is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. For a summary of those well aligned to a sociocultural approach see Hoadley and Campos [@hoadley_design-based_2022]
+
+The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
 Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
 
@@ -655,6 +653,7 @@ One of the key differences is that while DBR is more flexible in underlying theo
 
 The following sections explore key similarities and disctinctions in the application of principles shared by both design based research and formative interventions using CHAT.
 
+PERHAPS THESE SECTIONS CAN GO - BE COMPRESSED OR SOMETHING
  Namely:
 
 - iterative and responsive design process
