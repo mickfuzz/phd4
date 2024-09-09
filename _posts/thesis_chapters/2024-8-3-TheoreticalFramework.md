@@ -555,10 +555,11 @@ A critique of 3GAT is its implementation via formative interventions, in the for
 
 #### Alternatives
 
-Alternative which are less theoretically heavy include DBR & COP
+Alternatives include DBR & COP and Social Design Experiments [@gutierrez_social_2016-1]
 
-However,
-
+- are they less theoretically heavy?
+- How do they differ?
+- what is the value of exploring these theories here?
 
 #### Synthesis
 
