@@ -27,33 +27,50 @@
                 externalisation](#mutual-process-via-internalisation-and-externalisation)
             -   [Tools as a propagation of
                 cultures](#tools-as-a-propagation-of-cultures)
-            -   [Double stimulation and
-                Affordances](#double-stimulation-and-affordances)
+            -   [Double stimulation and Affordances - PROBABLY OVERKILL
+                TO BE HERE
+                TOO](#double-stimulation-and-affordances---probably-overkill-to-be-here-too)
         -   [Development and design](#development-and-design)
-    -   [Later iterations of activity theory, 3GAT / Cole /
-        etc](#later-iterations-of-activity-theory-3gat-cole-etc)
-        -   [3GAT](#gat)
-        -   [The value of surfacing areas of
-            contradictions](#the-value-of-surfacing-areas-of-contradictions)
+    -   [Exploring key approaches to Activity Theory through the work of
+        Cole and
+        Engeström](#exploring-key-approaches-to-activity-theory-through-the-work-of-cole-and-engeström)
+        -   [Activity theory as a Utopian methodology based on
+            foundations of cultural psychology and alignment with
+            broader sociocultural
+            concepts](#activity-theory-as-a-utopian-methodology-based-on-foundations-of-cultural-psychology-and-alignment-with-broader-sociocultural-concepts)
+            -   [The focus on mutual cultural appropriation in work
+                between institutionap
+                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutionap-partners.)
+            -   [Third spaces, idiocultures and designed
+                systems](#third-spaces-idiocultures-and-designed-systems)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
+        -   [3GAT and Expansive learning](#gat-and-expansive-learning)
+            -   [3GAT, activity systems and new community based
+                concepts](#gat-activity-systems-and-new-community-based-concepts)
+            -   [Expansive learning and expanded
+                object](#expansive-learning-and-expanded-object)
+            -   [The value of surfacing areas of
+                contradictions](#the-value-of-surfacing-areas-of-contradictions)
             -   [Disambiguating terminology - Conflicts, tensions,
                 contradictions,
                 dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
-            -   [Double stimulation and its interaction with
-                contradiction in joint activity through method of double
-                stimulation](#double-stimulation-and-its-interaction-with-contradiction-in-joint-activity-through-method-of-double-stimulation)
-        -   [Expansive learning](#expansive-learning)
-        -   [Third spaces, idiocultures and designed
-            systems](#third-spaces-idiocultures-and-designed-systems)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
-        -   [Critiques and alternatives to Activity
-            theory.](#critiques-and-alternatives-to-activity-theory.)
-    -   [Putting AT to work via interventionist research via formative
-        interventions and
-        DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
+            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
+                MOVE THAT
+                THERE?](#double-stimulation-if-exploring-tads-later---what-about-move-that-there)
+        -   [Critiques, development and synthesis within Activity theory
+            approaches](#critiques-development-and-synthesis-within-activity-theory-approaches)
+            -   [Existing gaps in concepts &
+                critiques](#existing-gaps-in-concepts-critiques)
+            -   [Alternatives](#alternatives)
+            -   [Synthesis](#synthesis)
+    -   [Putting AT to work via interventionist research in educational
+        contexts (via formative interventions and
+        DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-formative-interventions-and-dbr)
         -   [An operationalised example of Activity Theory concepts in
             context](#an-operationalised-example-of-activity-theory-concepts-in-context)
-        -   [On formative interventions](#on-formative-interventions)
+        -   [More on formative interventions in
+            education](#more-on-formative-interventions-in-education)
         -   [What is DBR and why and how do I use it in this
             study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
         -   [Outline of the guiding principles of DBR and formative
@@ -71,6 +88,9 @@
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
+        -   [Agency and AT - big picture in relation to ANT (Latour) and
+            agency of humans and
+            artefacts](#agency-and-at---big-picture-in-relation-to-ant-latour-and-agency-of-humans-and-artefacts)
         -   [Addressing and disambiguating definitions of agency in
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational

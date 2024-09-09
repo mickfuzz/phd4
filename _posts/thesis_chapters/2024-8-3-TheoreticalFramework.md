@@ -38,33 +38,50 @@ title: 3. Theoretical Framework
                 externalisation](#mutual-process-via-internalisation-and-externalisation)
             -   [Tools as a propagation of
                 cultures](#tools-as-a-propagation-of-cultures)
-            -   [Double stimulation and
-                Affordances](#double-stimulation-and-affordances)
+            -   [Double stimulation and Affordances - PROBABLY OVERKILL
+                TO BE HERE
+                TOO](#double-stimulation-and-affordances---probably-overkill-to-be-here-too)
         -   [Development and design](#development-and-design)
-    -   [Later iterations of activity theory, 3GAT / Cole /
-        etc](#later-iterations-of-activity-theory-3gat-cole-etc)
-        -   [3GAT](#gat)
-        -   [The value of surfacing areas of
-            contradictions](#the-value-of-surfacing-areas-of-contradictions)
+    -   [Exploring key approaches to Activity Theory through the work of
+        Cole and
+        Engeström](#exploring-key-approaches-to-activity-theory-through-the-work-of-cole-and-engeström)
+        -   [Activity theory as a Utopian methodology based on
+            foundations of cultural psychology and alignment with
+            broader sociocultural
+            concepts](#activity-theory-as-a-utopian-methodology-based-on-foundations-of-cultural-psychology-and-alignment-with-broader-sociocultural-concepts)
+            -   [The focus on mutual cultural appropriation in work
+                between institutionap
+                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutionap-partners.)
+            -   [Third spaces, idiocultures and designed
+                systems](#third-spaces-idiocultures-and-designed-systems)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
+        -   [3GAT and Expansive learning](#gat-and-expansive-learning)
+            -   [3GAT, activity systems and new community based
+                concepts](#gat-activity-systems-and-new-community-based-concepts)
+            -   [Expansive learning and expanded
+                object](#expansive-learning-and-expanded-object)
+            -   [The value of surfacing areas of
+                contradictions](#the-value-of-surfacing-areas-of-contradictions)
             -   [Disambiguating terminology - Conflicts, tensions,
                 contradictions,
                 dilemmas](#disambiguating-terminology---conflicts-tensions-contradictions-dilemmas)
-            -   [Double stimulation and its interaction with
-                contradiction in joint activity through method of double
-                stimulation](#double-stimulation-and-its-interaction-with-contradiction-in-joint-activity-through-method-of-double-stimulation)
-        -   [Expansive learning](#expansive-learning)
-        -   [Third spaces, idiocultures and designed
-            systems](#third-spaces-idiocultures-and-designed-systems)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
-        -   [Critiques and alternatives to Activity
-            theory.](#critiques-and-alternatives-to-activity-theory.)
-    -   [Putting AT to work via interventionist research via formative
-        interventions and
-        DBR](#putting-at-to-work-via-interventionist-research-via-formative-interventions-and-dbr)
+            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
+                MOVE THAT
+                THERE?](#double-stimulation-if-exploring-tads-later---what-about-move-that-there)
+        -   [Critiques, development and synthesis within Activity theory
+            approaches](#critiques-development-and-synthesis-within-activity-theory-approaches)
+            -   [Existing gaps in concepts &
+                critiques](#existing-gaps-in-concepts-critiques)
+            -   [Alternatives](#alternatives)
+            -   [Synthesis](#synthesis)
+    -   [Putting AT to work via interventionist research in educational
+        contexts (via formative interventions and
+        DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-formative-interventions-and-dbr)
         -   [An operationalised example of Activity Theory concepts in
             context](#an-operationalised-example-of-activity-theory-concepts-in-context)
-        -   [On formative interventions](#on-formative-interventions)
+        -   [More on formative interventions in
+            education](#more-on-formative-interventions-in-education)
         -   [What is DBR and why and how do I use it in this
             study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
         -   [Outline of the guiding principles of DBR and formative
@@ -82,6 +99,9 @@ title: 3. Theoretical Framework
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
+        -   [Agency and AT - big picture in relation to ANT (Latour) and
+            agency of humans and
+            artefacts](#agency-and-at---big-picture-in-relation-to-ant-latour-and-agency-of-humans-and-artefacts)
         -   [Addressing and disambiguating definitions of agency in
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational
@@ -286,13 +306,18 @@ The concept of fluency is key to this study, as such it is important to be able 
 
 #### Selecting activity systems as units of analysis
 
-The process of finding a germ cell/ unit of analysis is seen as a productive technique of explorative activity theory research (with what aim?). The work of Blunden [@blundenInterdisciplinaryConceptActivity2009; @blundenGermCellUnit2014] provides as comprehensive justification the utility of the process. He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
+Early conceptions of activity theory by Vygotsky and Leontiev are built on Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity can be conceived as iterations or instances of underlying germ cell concepts (example commodity and exchange in Capital). The work of Blunden [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023] provides as comprehensive justification the utility of the process of finding a germ cell/ unit of analysis in relation to collaborative projects.
+
+He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
 
 <!-- Mid-level construct of design / patterns heuristics [] -->
 
     ... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised. [@blunden_unit_2020]
 
-In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth. RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Ch. 6 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
+In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth.
+
+
+RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Ch. 6 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
 
 Turning to the developmental aspect, a granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002].
 
@@ -344,7 +369,7 @@ Learners are actively processing and make sense of the world by both appropriati
 Tools are a product of adaptation and hold within them an evolution of culture.
 
 
-#### Double stimulation and Affordances
+#### Double stimulation and Affordances - PROBABLY OVERKILL TO BE HERE TOO
 
 There is a link between double stimulation and affordances [@romero_analysing_2022]
 
@@ -355,36 +380,99 @@ There is a link between double stimulation and affordances [@romero_analysing_20
 
 Activity theory is based on the concept that activity in context should be understood as in a state of ongoing transformation. The foundation of the theory builds on understandings of Marxist dialectical materialism, in which activity is a dynamic system best analysed through its transformations [@ilyenkov1960dialectics].
 
+A key source of transformation in activity is the emergency and resolution of contradictions and conflicts which  through accumulation of tensions in activity [@ilyenkov1960dialectics; @blunden_activity_2023].
+
 Engeström's work on what he termed a  third generation includes theory of expansive learning which charts changes and expansion of the object being worked on, often due to tensions beyond a single activity system to encompass others thus but through acknowledging the impact of movement of actors between systems [@engestrom_expansive_2001]. This along with the work of Cole, is vital to move beyond a limited view of activity to engage with cross cultural understandings of learning [@cole_cross-cultural_1988]
 
+These terms are explored in the section on expansive learning below.
 
 
-## Later iterations of activity theory, 3GAT / Cole / etc
+## Exploring key approaches to Activity Theory through the work of Cole and Engeström
 
-As part of a the broader social turn of psychology explored, these authors and their colleagues also forged new concepts which I draw on in this study and which are explored in the next section (on 3gat and Cole's cultural work) including:
+As part of a the broader social turn of psychology explored, these authors and their colleagues also forged new concepts which I draw on in this study  
 
+MOVE SOME OF THESE
 - tensions between system elements
 - double stimulation  
 - ideocultures and
 - mutual appropriation.  
 - expansive learnig
 
-The next section explores these concepts and their utility to this study.
+The next section explores these concepts and their utility to this study
 
-NOTE - THE CONCEPTS LISTED ABOVE ARE NOT THE SAME AS THE DBR PRINCIPLES BUT SEE MORE IMPORTANT - DOES THIS NEED RESTRUCTURING?
+HOW ARE THE TWO SECTIONS DIFFERENT?REWORK THIS TO SIT IN THIS SECTION - HOW IS THIS DIFFERENT FROM THE PUTTING AT TO WORK? DOES IT FINISH WITH THAT FOCUS? CONCEPTS FIRST THEN HOW APPLIED.
 
-### 3GAT
+### Activity theory as a Utopian methodology based on foundations of cultural psychology and alignment with broader sociocultural concepts
 
-An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). As mentioned in the section above, the recognised the importance of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object. Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987; @engestrom_expansive_2001]
+A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity  [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers.
 
+Cole's approach is often profitably explored  using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
+
+
+#### The focus on mutual cultural appropriation in work between institutionap partners.
+
+Here cultural appropriation is seen as a positive and mutual process between instit
+
+#### Third spaces, idiocultures and designed systems
+
+<!-- Cole's approach can be examined using the 5D case study (later?) -->
+
+Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
+
+This can be compared to methods addressing existing existing activities like the change laboratory. LATER?
+
+However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
+
+#### Funds of Knowledge within ideocultures
+
+Many studies in the school of research Cole describes above align with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
+
+The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
+
+Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
+
+The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
+
+
+
+### 3GAT and Expansive learning
+
+An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). As mentioned in the section above, the recognised the importance of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object.
+
+
+#### 3GAT, activity systems and new community based concepts  
+
+
+Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987; @engestrom_expansive_2001]
+
+EXPAND DESCRIPTION OF THESE ELEMENTS
 
 ![](./Pictures/shared_object_engestrom.png){width=90%}
 Figure 3. x - Engeström's concept of expansive learning via a shared object
 
 The recognition of wider activity systems and the bleed of motivations of actors into new systems is represented in Engeström's view of AT as a foundation for interventionist and participatory processes on [@spinuzzi_trying_2020-1]
 
+#### Expansive learning and expanded object
 
-### The value of surfacing areas of contradictions
+**The concept of the expanding learning can be applied via formative interventions.**
+
+The broad AT principle of the need to analyse activity through its transformation forms the base of the concepts of expansive learning.
+
+[@sannino_formative_2016; @engestrom_methodological_2014]
+
+
+![](./Pictures/shared_object_engestrom.png){width=90%}
+
+Figure 3. x - Engeström's concept of expansive learning via a shared object
+
+Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.
+[@engestrom_design_2011]
+
+REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning
+ [@sannino_formative_2016; @engestrom_methodological_2014]
+
+
+#### The value of surfacing areas of contradictions
 
 In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
 
@@ -399,7 +487,7 @@ While much of the literature focuses on larger systems of workplace analysis hap
 
 Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. A later section explores agency in more detail.
 
-#### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
+##### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas
 
 Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
 
@@ -422,92 +510,68 @@ Instead of a more technical definition [@engestrom_discursive_2011], following K
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
 
-#### Double stimulation  
+#### Double stimulation   IF EXPLORING TADS LATER - WHAT ABOUT MOVE THAT THERE?
 
 Exploration of  contradictions in joint activity through method of double stimulation
 
 Double stimulation refers to the use of tools and processes to overcome such conflicts. Engeström's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
 EXPAND ON THIS
 
-While the core concept stems from object based psychological experiments, the "extension of this idea to collective behavior with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492]
+While the core concept stems from object based psychological experiments, the "extension of this idea to collective behaviour with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492].  This jump allowed a reframing of double stimulation as form of intervention via planned (by researchers / facilitators) forms of stimuli in the work place to stimulate (first stimulus) and then record and reflect on the emerging discussion.
 
-This jump allowed a reframing of double stimulation as form of intervention via planned (by researchers / facilitators) forms of stimuli in the work place to stimulate (first stimulus) and then record and reflect on the emerging discussion.
+Engeström and Sannino also advocates the value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016]. READ AND EXPAND
 
-Engeström and Sannino also advocates the value in exploring the process to explore participants development of agency in professional and educational settings [@sannino_formative_2016]. While
+A different
 
-Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation see auxilary stimulation as triggers for will and agency in participants. [@hopwood2023motives]
-
+Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation see auxiliary stimulation as triggers for will and agency in participants. [@hopwood2023motives]
 
 She also cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2],
 
-COMPARE THE BELOW OR INTEGRATE ABOVE?
+How this interpretation sits with Engeström's first definition of DS, which does appear to be a series on introduced meditational stimuli is not explicitly explored.
+
+ EXAMPLES MOVE LATER?
 One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] t
 
 Another to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
+USE AS A CHANCE TO COMPARE?
 
 In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
 
-### Expansive learning
-
-**The concept of the expanding learning can be applied via formative interventions.**
-
-The broad AT principle of the need to analyse activity through its transformation can be seen in several
-
-[@sannino_formative_2016; @engestrom_methodological_2014]
 
 
-![](./Pictures/shared_object_engestrom.png){width=90%}
-
-Figure 3. x - Engeström's concept of expansive learning via a shared object
-
-Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.
-[@engestrom_design_2011]
-
-REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning
- [@sannino_formative_2016; @engestrom_methodological_2014]
-
-### Third spaces, idiocultures and designed systems
-
-REWORK THIS TO SIT IN THIS SECTION - HOW IS THIS DIFFERENT FROM THE PUTTING AT TO WORK? DOES IT FINISH WITH THAT FOCUS? CONCEPTS FIRST THEN HOW APPLIED.
-
-The joint development and analysis of culture via a joint activity is described by Cole using the 5D case study [@valsiner_cultural-historical_2007] Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers.
+### Critiques, development and synthesis within Activity theory approaches
 
 
-Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
+#### Existing gaps in concepts & critiques
 
-This can be compared to methods addressing existing existing activities like the change laboratory.
+One critiques of AT is that the concepts are complex and the process unwieldy when putting into practice.
 
-However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
+A critique of 3GAT is its implementation via formative interventions, in the form of Change Laboratory is that the interventions are  not easily replicable. They are also context dependent, see critique on participtory design and limits in US context.
 
-
-#### Funds of Knowledge within ideocultures
-
-Many studies in the school of research Cole describes above align with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
-
-The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
-
-Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
-
-The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
-
-
-### Critiques and alternatives to Activity theory.
-
-It's complex and unwieldy when putting into practice.
-
-While examples like formative interventions, in the form of Change Laboratory and 5th D are available, they are highly context dependent and not easily replicable.
-
-There are also other critiques.
-- Such as
+#### Alternatives
 
 Alternative which are less theoretically heavy include DBR & COP
+
+However,
+
+
+#### Synthesis
+
+Some elements of synthesis are emerging which address some of the existing gaps and incorporate some of the processes of alternatives.
 
 More recent conception of DBR and AT process such as formative interventions are working to align the approaches and mitigate against Engeström's initial critiques in a way which is explored in next section.
 
 
-## Putting AT to work via interventionist research via formative interventions and DBR
+## Putting AT to work via interventionist research in educational contexts (via formative interventions and DBR)
 
-This section covers a summary of how the theoretical framework of AT can be operationalised. It compares the approaches of formative interventions and design based research.  
+This section continues to explore how the theoretical framework of AT can be operationalised.
+
+It also grounds this exploration in the specific domain of education.
+
+It compares the approaches of formative interventions and design based research.  
+
+It also begins to apply concepts to the context of this study.
+
 
 ### An operationalised example of Activity Theory concepts in context
 
@@ -533,15 +597,19 @@ The objective of activity is to make a game to share, that process is mediated b
 What this static representation does not cover is the development and transformation.
 The next sections address this with relevant concepts.
 
-### On formative interventions
+### More on formative interventions in education
 
-**This section explains the CHAT method of formative interventions and proposes this study as an example of a formative intervention.**
+**This section explains the CHAT method of formative interventions**
+IS THIS DONE ABOVE?
+
+**and proposes this study as an example of a formative intervention in an educational context**
 
 Penuel [-@penuel_emerging_2014] proposes the formative interventions as a useful term to encapsulate a CHAT process closely aligned with DBR.
 
 <!-- It is widely used within CHAT circles, specific enough to capture the ethos of this research bur broad enough not to require complex clarifications on how it differs from more descriptive methods.   -->
 
 A key text here is Cole and Engeström's exploration of two models  of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]
+MOVE UP
 
 A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
 

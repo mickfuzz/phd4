@@ -256,7 +256,9 @@ This section returns to game making types explored in Chapter 5. TO DEVELOP
 
 For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play Sutton-smith, 2001).
 
-Begin discussion with reference to [@gutierrez_cultural_2003] on "Helping Students Learn: Having Styles or Participating in Practices", and a careful statement to avoid over generalisation here, but at the same time recognise the value of emerging practices and styles. 
+Begin discussion with reference to [@gutierrez_cultural_2003] on "Helping Students Learn: Having Styles or Participating in Practices", and a careful statement to avoid over generalisation here, but at the same time recognise the value of emerging practices and styles.
+
+Thus I am not suggesting that these styles make up a ridgid typology to be replicated in other settings, instead, in line with Gutierrez and Rogoff [-@gutierrez_cultural_2003, p.20] , that the process of co-constructing understanding and communication about learning styles can "support the changing nature of participation and the forms of assistance provided in joint activity."
 
 #### A focus on the value of changing roles - especially peer teaching as reinforcing learning
 
@@ -265,8 +267,6 @@ A role or style that is not fully captured is that of peer learning, although it
 CAN THIS BE ADDED INTO THE CODING SCHEMA
 
 #### The potential of emergent "non-productive" activities
-
-
 
 Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These processes often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
 
@@ -324,6 +324,9 @@ Recent research posits that Game Jams can be profitably used in formal education
 Examples - move examples up?
 
 Within the concept of jamming, activity which is casual seemingly non-productive can still transmit useful information to guide collaborative practices. As per above and examples in Appedix ? Find.
+
+I propose that the concept of jamming can be introduced and supported as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003]
+
 
 <!-- MOVE THIS CLAIM LATER.
 **Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams. -->
