@@ -186,6 +186,8 @@ The second part of the chapter looks specifically at theoretical framework for u
 
 <!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
+
+
 ## Socio-cultural approach
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. To do this I adopt a sociocultural approach and specifically cultural historical activity theory CHAT in the form of design-based research.
@@ -195,9 +197,14 @@ Socio-cultural research and perspectives can be broadly described as...[@barnett
 An assumption underlying the approach  is " abstraction of ‘content’ from its ecological functioning   (e.g., use within a particular situation) is likely to undermine its perceived value for any situation (Bransford, Brown, & Cocking, 2000; Nathan, 2012) or   the learners’ belief that they are likely to do something meaningful with that which they are learning."[@barnett_ecosystem_2019]
 REWRITE.
 
+### A turn away from RCT trials
+
 The social _turn_ in psychology, was a turn away from assumptions in congitivism that studying human mental activity in isolated, context free methods [@stetsenko_activity_2005].
 
 This primacy of context described above underlies much of the social turn of educational and psychological research. As my study seeks to address cultural factors which act as barriers to participation in digital making, it requires a method of research which allows the detailed description and evaluation of complex, emergent learning environments.
+
+The work of Brown as prominent researcher around the importance of context helped legitimise this focus in the broader field [@brown_design_1992].
+
 
 ### Communities of Practice and Learners
 
@@ -612,10 +619,9 @@ Engeström and Sannino consistently argue for the concepts of double stimulation
 
 Cobb and colleagues summarise the characteristics of design based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose “theories” do real work in practical educational contexts" [@cobb_design_2003, p.13].
 
-In addition, mutuality is key
+In addition, mutuality is key to later conceptions of design
 
 <!-- For a summary of DBR approaches well aligned to a sociocultural approach see Hoadley and Campos THAT IS NOT THE FOCUS OF THE ARTICLE [@hoadley_design-based_2022] -->
-
 
 <!-- COMMENT ON UTILITY - NEED TO BE CLEAR AND PERHAPS MOVED.
 Indeed, there is a strength in the flexibility if approach, for the purposes of this study. Allowing me to draw on useful techniques used in relevant context, and to align the process with underlying guiding theory of AT. -->
@@ -625,20 +631,18 @@ One of the key motivations of DBR approach is to produce educational research th
 
 
 <!-- The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014] -->
+IS THIS NOT WHAT JUST HAPPENED ABOVE? COMBINE?
+The following section explores key similarities and distinctions in the application of principles shared by both design based research and formative interventions using CHAT. To help explore these principles, this section describes some of the fault-lines in the theoretical debates surrounding the methods of DBR and formative interventions.
 
-
-
-The following sections explore key similarities and disctinctions in the application of principles shared by both design based research and formative interventions using CHAT.
-
-PERHAPS THESE SECTIONS CAN GO - BE COMPRESSED OR SOMETHING
+<!-- PERHAPS THESE SECTIONS CAN GO - BE COMPRESSED OR SOMETHING
  Namely:
 
 - iterative and responsive design process
 - the research process creates new forms of activity and associated resources
 - the mutuality of the process: aligned with research ethic of participation rather than extraction
-- generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy
+- generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy -->
 
-To help explore these principles, this section describes some of the fault-lines in the theoretical debates surrounding the methods of DBR and formative interventions.
+
 
 #### Principle : Researcher take and active interventionist approach
 
@@ -659,10 +663,10 @@ Different  approaches are needed depending on if the activity and context of tha
 
 One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
 
+MOVE AND COMPRESS THIS PART.
 Engeström has been critical of DBR for lack of mutuality within its linear approach and lack of rigour more generally [@engestrom_design_2011].
 
 This bears examination on two levels.
-
 Firstly, it is of note that the formal approach of formative interventions is often used in stable institutional systems of work environments in European contexts where there are more stable understandings of stakeholders involved compared to less formal learning environments [@spinuzzi_trying_2020-1]. The author notes the impact of this context on they types of mutuality possible based on unstable stakeholders as a critique of 3GAT and formative interventions.
 
 Secondly, it is out of date, see Penuel [-@penuel_emerging_2014] for an more updated take on alignment of formative interventions and DBR. More recently Engeström and colleagues [-@cakir_contradictions_2022] have advocated the advantages of incorporating more rigour of formative interventions to add to DBR, rather that critiquing it wholesale.   
@@ -705,10 +709,12 @@ Barab and Squire [@barab_design-based_2004] describe the messiness of design-bas
 **On Context**
 One of Engeström's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
 
-For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
+O'Neill frames this a challenge to DBR researchers from the area of learning sciences.
 
-Also see O'Neill's summary above on depth of context  [@oneill_understanding_2016]
+"In CHAT/DBR, innovations for learning are ideally historicized, meaning that the designs leverage recognized practices in partner communities. At the risk of stating the obvious, historicizing design in this way demands a degree of knowledge of and legitimacy within the partner community that design-based researchers in the learning sciences/DBR tradition do not always take time to develop."  [@oneill_understanding_2016, p.499]
 
+
+<!-- For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. -->
 
 #### Existing gaps in concepts & critiques
 
