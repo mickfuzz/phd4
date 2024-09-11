@@ -650,30 +650,24 @@ In both DBR and formative interventions, the researchers take an active role, a 
 
 Learning environments are understood as designed systems with accumulated culture of tools and artefacts [@barnett_ecosystem_2019; @cole_design-based_2016]. Cobb and colleagues note a common goal of DBR in education is to study a new form of learning and that in order to do that naturalistic, existing learning environments may need to be disrupted [@cobb_design_2003].
 
-While the process of intervention in a real learning context is present in broad interpretations of DBR [FIND SOURCES], when compared to CHAT there is debate surrounding the extent to which original designs should originate from researchers. Formative interventions running close to Engeström's model rarely work with entirely new design, favouring existing systems within relatively stable groups of stakeholders [@spinuzzi_trying_2020-1].
+While the process of intervention in a real learning context is present in broad interpretations of DBR [FIND SOURCES], when compared to CHAT there is debate surrounding the extent to which original designs should originate from researchers. Formative interventions running close to Engeström's model rarely work with entirely new design, favouring existing systems within relativelyDifferent  approaches are needed depending on if the activity and context of that activity is already  established an on-going or if it is a new venture created by researchers / participants. stable groups of stakeholders [@spinuzzi_trying_2020-1].
 
-However, within DBR there is an understanding for the need for new interventions as the context may involve working in a new partnership or with new technology. Thus learning designers may need to start from a relatively blank canvas, as is the case in my study on game making, where there are little in the way of established community or working processes.
+However, within DBR there is an understanding for the need for new interventions as the context may involve working in a new partnership or with new technology. Thus learning designers may need to start from a relatively blank canvas, as is the case in my study on game making, where there are little in the way of established community or working processes. Different  approaches are needed depending on if the activity and context of that activity is already established an on-going or if it is a new venture created by researchers / participants.
 
-Engeström critiques the starting process of an introduced design
+Engeström critiques the starting process of an introduced design stemming from the researcher rather than a community process [@engestrom_design_2011]. DBR however is more comfortable with new designs that are introduced fully by the researcher but with feedback from participants for ongoing iterations. To address issues of mutuality, early stages are often suggested to be rough prototypes which, so that if they are changed radically by participants, less time and resources are expended [@easterday_design-based_2014]. Issues of intervention lead to questions of mutuality in other ways.
 
-
-DBR however is more comfortable with new designs that are introduced fully by the researcher but with feedback from participants for ongoing iterations.
-
-Different  approaches are needed depending on if the activity and context of that activity is already  established an on-going or if it is a new venture created by researchers / participants.
-
-Issues of intervention lead to questions of mutuality.
-
-#### Principle: Mutuality - LINKED TO THE ABOVE POINT TOO
-
-One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
-
-MOVE AND COMPRESS THIS PART.
-Engeström has been critical of DBR for lack of mutuality within its linear approach and lack of rigour more generally [@engestrom_design_2011].
-
-This bears examination on two levels.
+<!-- This bears examination on two levels.
 Firstly, it is of note that the formal approach of formative interventions is often used in stable institutional systems of work environments in European contexts where there are more stable understandings of stakeholders involved compared to less formal learning environments [@spinuzzi_trying_2020-1]. The author notes the impact of this context on they types of mutuality possible based on unstable stakeholders as a critique of 3GAT and formative interventions.
 
-Secondly, it is out of date, see Penuel [-@penuel_emerging_2014] for an more updated take on alignment of formative interventions and DBR. More recently Engeström and colleagues [-@cakir_contradictions_2022] have advocated the advantages of incorporating more rigour of formative interventions to add to DBR, rather that critiquing it wholesale.   
+Secondly, it is out of date, see Penuel [-@penuel_emerging_2014] for an more updated take on alignment of formative interventions and DBR. More recently Engeström and colleagues [-@cakir_contradictions_2022] have advocated the advantages of incorporating more rigour of formative interventions to add to DBR, rather that critiquing it wholesale.   -->
+
+
+#### Principle: Mutuality
+
+Engeström critique of DBR for lack of mutuality within its _linear_ approach [@engestrom_design_2011] negates a wide uptake of concepts of mutuality in DBR. For example, the principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011].
+
+Indeed the DBR and its link with participatory design provides a wealth of methods which invite participants to input into the design process. FIND HOW HOW.
+
 
 ADD MUTUALITY FORM 5D PERSPECTIVE BEGINNING ON AN INSTITUTIONAL NEGOTIAON BASIS.
 
@@ -681,8 +675,6 @@ ADD MUTUALITY FORM 5D PERSPECTIVE BEGINNING ON AN INSTITUTIONAL NEGOTIAON BASIS.
 From [@cakir_contradictions_2022]
 
 In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
-
-
 
 
 <!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
@@ -703,19 +695,25 @@ The specific drive for participants to identify new tools, -->
 
 Hoadley and Campos [@hoadley_design-based_2022] analyse DBR is also through the possible utility and outcomes of the research which the authors synthesise as including: design processes, domain theories, design principles or patterns, onological innovations, new hypothesis, and transformative learning of the researcher.
 
-
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
 ### Critiques, development and synthesis within Activity theory approaches - NEEDED HERE? IF NOT WHERE?
 
 
-
 #### Summary of critiques of DBR that AT can help address
 
-**On Context**
-One of Engeström's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
 
-O'Neill frames this a challenge to DBR researchers from the area of learning sciences.
+
+In addition to previously mentioned critiques,   Engeström's view of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
+
+O'Neill also frames this a challenge to DBR researchers from the area of learning sciences but advances more contextual factors which explain the pressures on researchers using DBR [@oneill_understanding_2016].  The time frame for funding windows, the
+
+Also the bias of reviewers of journals is noted by Bakker [@bakker_design_2018]. As well as problems fitting in the description of design process. SEE OTHER CONCERNS ABOUT DESIGN NARRATIVE. 
+
+
+In addition, it is of note that the formal approach of formative interventions is often used in stable institutional systems of work environments in European contexts where there are more stable understandings of stakeholders involved compared to less formal learning environments [@spinuzzi_trying_2020-1]. The author notes the impact of this context on they types of mutuality possible based on unstable stakeholders as a critique of 3GAT and formative interventions.
+
+More recently Engeström and colleagues [-@cakir_contradictions_2022] have advocated the advantages of incorporating more rigour of formative interventions to add to DBR, rather that critiquing it wholesale.
 
 "In CHAT/DBR, innovations for learning are ideally historicized, meaning that the designs leverage recognized practices in partner communities. At the risk of stating the obvious, historicizing design in this way demands a degree of knowledge of and legitimacy within the partner community that design-based researchers in the learning sciences/DBR tradition do not always take time to develop."  [@oneill_understanding_2016, p.499]
 
