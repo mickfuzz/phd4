@@ -703,12 +703,11 @@ Barab and Squire [@barab_design-based_2004] describe the messiness of design-bas
 #### Summary of critiques of DBR that AT can help address
 
 
-
 In addition to previously mentioned critiques,   Engeström's view of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
 
-O'Neill also frames this a challenge to DBR researchers from the area of learning sciences but advances more contextual factors which explain the pressures on researchers using DBR [@oneill_understanding_2016].  The time frame for funding windows, the
+O'Neill also frames this a challenge to DBR researchers from the area of learning sciences but advances more contextual factors which explain the pressures on researchers using DBR [@oneill_understanding_2016].  The time frame for funding windows, the push of funders to see change and impact explored in research.
 
-Also the bias of reviewers of journals is noted by Bakker [@bakker_design_2018]. As well as problems fitting in the description of design process. SEE OTHER CONCERNS ABOUT DESIGN NARRATIVE. 
+Also the bias of reviewers of journals is noted by Bakker [@bakker_design_2018]. As well as problems fitting in the description of design process. SEE OTHER CONCERNS ABOUT DESIGN NARRATIVE.
 
 
 In addition, it is of note that the formal approach of formative interventions is often used in stable institutional systems of work environments in European contexts where there are more stable understandings of stakeholders involved compared to less formal learning environments [@spinuzzi_trying_2020-1]. The author notes the impact of this context on they types of mutuality possible based on unstable stakeholders as a critique of 3GAT and formative interventions.
