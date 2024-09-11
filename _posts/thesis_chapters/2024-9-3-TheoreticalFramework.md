@@ -646,14 +646,16 @@ The following section explores key similarities and distinctions in the applicat
 
 #### Principle : Researcher take and active interventionist approach
 
-In both DBR and formative interventions, the researchers take an active role, a stance which has been critique from the perspective of traditional psychological experimental researchers.
+In both DBR and formative interventions, the researchers take an active role, a stance which has been critique from the perspective of traditional psychological experimental researchers CLARIFY.
 
+Learning environments are understood as designed systems with accumulated culture of tools and artefacts [@barnett_ecosystem_2019; @cole_design-based_2016]. Cobb and colleagues note a common goal of DBR in education is to study a new form of learning and that in order to do that naturalistic, existing learning environments may need to be disrupted [@cobb_design_2003].
 
-**Designed systems:** Learning environments are understood as designed systems with accumulated culture of tools and artefacts [@barnett_ecosystem_2019; @cole_design-based_2016].
+While the process of intervention in a real learning context is present in broad interpretations of DBR [FIND SOURCES], when compared to CHAT there is debate surrounding the extent to which original designs should originate from researchers. Formative interventions running close to Engeström's model rarely work with entirely new design, favouring existing systems within relatively stable groups of stakeholders [@spinuzzi_trying_2020-1].
 
-However, in a situation where working in a new context or with new technology, learning designers often starting from a blank canvas. For example, in the context of this study on game making the activity is novel there are few if any established community or working processes.
+However, within DBR there is an understanding for the need for new interventions as the context may involve working in a new partnership or with new technology. Thus learning designers may need to start from a relatively blank canvas, as is the case in my study on game making, where there are little in the way of established community or working processes.
 
-Formative interventions rarely work with new educational design, favouring existing systems within
+Engeström critiques the starting process of an introduced design
+
 
 DBR however is more comfortable with new designs that are introduced fully by the researcher but with feedback from participants for ongoing iterations.
 
@@ -670,6 +672,8 @@ This bears examination on two levels.
 Firstly, it is of note that the formal approach of formative interventions is often used in stable institutional systems of work environments in European contexts where there are more stable understandings of stakeholders involved compared to less formal learning environments [@spinuzzi_trying_2020-1]. The author notes the impact of this context on they types of mutuality possible based on unstable stakeholders as a critique of 3GAT and formative interventions.
 
 Secondly, it is out of date, see Penuel [-@penuel_emerging_2014] for an more updated take on alignment of formative interventions and DBR. More recently Engeström and colleagues [-@cakir_contradictions_2022] have advocated the advantages of incorporating more rigour of formative interventions to add to DBR, rather that critiquing it wholesale.   
+
+ADD MUTUALITY FORM 5D PERSPECTIVE BEGINNING ON AN INSTITUTIONAL NEGOTIAON BASIS.
 
 <!--
 From [@cakir_contradictions_2022]
