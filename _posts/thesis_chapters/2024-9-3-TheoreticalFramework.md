@@ -661,6 +661,8 @@ DBR however is more comfortable with new designs that are introduced fully by th
 
 Different  approaches are needed depending on if the activity and context of that activity is already  established an on-going or if it is a new venture created by researchers / participants.
 
+Issues of intervention lead to questions of mutuality.
+
 #### Principle: Mutuality - LINKED TO THE ABOVE POINT TOO
 
 One principle of DBR advanced by many researchers is that that research participants also influence the ongoing design of the research [@barab_critical_2004; @cobb_design_2003; @downing-wilson_design_2011]. However in application this not a key part of all definitions [@easterday_design-based_2014]. Thus Cole critiques (CHECK) [@cole_design-based_2016]. In addition, lack of adaptability and mutuality in terms of taking on board the suggested adaptations of learners.
