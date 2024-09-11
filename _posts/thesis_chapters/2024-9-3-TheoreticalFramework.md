@@ -545,7 +545,7 @@ NOTE PROBLEM REFERNCE for pandoc
 
 Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
 
-Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
+
 
 Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
@@ -601,6 +601,10 @@ The critique reflects different strands of DBR some of which hold closer to the 
 
 
 Bakker [@bakker_design_2018] also explores varied strands under the unifiying term "design research". He challenges Engeström's critique of the closed goals of DBR as outlined in his critique of the work of Collins and colleagues [@collins_design_2004] as a caricature which misrepresented their work stating they did "not want to fix variables or educational goals upfront" [@bakker_design_2018, p.17]. Bakker echoes the call of a Penuel, Cole, and O’Neill for more dialogue and greater acknowledgement of the shared traditions of CHAT and design research [@cole_cultural-historical_2018].
+
+This view does seem to have been taken up by Engeström and Sannino  and colleagues in recent work [-@cakir_contradictions_2022] as they take a more amicable position "Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning"
+
+
 
 Engeström and Sannino consistently argue for the concepts of double stimulation and rising to the concrete to be applied to research interventions in this domain. These concepts are explored shortly. However, before doing so, the following section explores increasing alignments between how CHAT is applied and the use of design research more generally.
 
@@ -750,7 +754,7 @@ While the core concept stems from object based psychological experiments, the "e
 This jump allowed a reframing of double stimulation as  the first stimulus as _the problem itself_ [@engestrom_methodological_2014] and a potential series of secondary stimuli be presented as part of intervention.
 
 
-Engeström's initial description of DS, which does appear to be a series on introduced meditational stimuli evolves based on initial research. Engeström and Sannino posit that the process is active and goes beyond simple mediation via existing tools, instead stimuli, either presented as suggested tools or discovered in the environment, are actively imbued with meaning by the participants through transformation [@engestrom_methodological_2014]. This process is complex "Most likely the initially given potential second stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
+Engeström's initial description of DS, which does appear to be a series on introduced meditational stimuli evolves based on initial research. Engeström and Sannino posit that the process is active and goes beyond simple mediation via existing tools, instead stimuli, either presented as suggested tools or discovered in the environment, are actively imbued with meaning by the participants through transformation [@engestrom_methodological_2014]. This process is complex "Most likely the initially given potential secoThis research depicts wider constellations of activity systems working together on shared project [@cakir_contradictions_2022].nd stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
 
 attributing DS a crucial role in to participants development of agency [@sannino_formative_2016].
 
@@ -771,11 +775,6 @@ USE AS A CHANCE TO COMPARE?
 In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
 
 
-
-
-
-
-
 ### An operationalised example of Activity Theory concepts in context
 
 To situate the learner at this stage, concepts explored within the context of this study.
@@ -785,6 +784,7 @@ The following example gives broader picture by arranging the focus of the repres
 ![](./Pictures/At_dia_3_v2.png){width=90%}
 Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
 
+This echoes research depicting wider constellations of activity systems working together on shared project (see diagram in) [@cakir_contradictions_2022].
 
 The broad intention here would be to examine the parts that make up each of the system with the learning experience being a partnership intervention between the activity systems of different stakeholders.
 
