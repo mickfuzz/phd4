@@ -55,16 +55,17 @@
     -   [Putting AT to work via interventionist research in educational
         contexts (via formative interventions and
         DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-formative-interventions-and-dbr)
-        -   [An operationalised example of Activity Theory concepts in
-            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
-        -   [More on formative interventions in
-            education](#more-on-formative-interventions-in-education)
-        -   [What is DBR and why and how do I use it in this
-            study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
+        -   [Alignments and divergences between varied forms of
+            interventionist research based on
+            AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
+        -   [observations to integrate in this
+            section](#observations-to-integrate-in-this-section)
+        -   [Quick overview of formative interventions in
+            education](#quick-overview-of-formative-interventions-in-education)
+        -   [Formative Interventions compared to Design Based
+            Research](#formative-interventions-compared-to-design-based-research)
         -   [Outline of the guiding principles of DBR and formative
             interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
-            -   [Ongoing alignments between DBR and the CHAT community /
-                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
             -   [Principle: Mutuality - LINKED TO THE ABOVE POINT
@@ -74,18 +75,21 @@
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-        -   [Debate between Penuel and
-            Engeström](#debate-between-penuel-and-engeström)
-            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
-                MOVE THAT THERE? YES NOW
-                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
         -   [Critiques, development and synthesis within Activity theory
-            approaches](#critiques-development-and-synthesis-within-activity-theory-approaches)
+            approaches - NEEDED HERE? IF NOT
+            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
             -   [Existing gaps in concepts &
                 critiques](#existing-gaps-in-concepts-critiques)
             -   [Alternatives](#alternatives)
             -   [Synthesis](#synthesis)
+        -   [Formative Interventions in more
+            detail](#formative-interventions-in-more-detail)
+            -   [Rising to the Concrete](#rising-to-the-concrete)
+            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
+                MOVE THAT THERE? YES NOW
+                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
+        -   [An operationalised example of Activity Theory concepts in
+            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Agency and AT - big picture in relation to ANT (Latour) and

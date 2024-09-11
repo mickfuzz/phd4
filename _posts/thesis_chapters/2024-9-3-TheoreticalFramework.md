@@ -66,16 +66,17 @@ title: 3. Theoretical Framework
     -   [Putting AT to work via interventionist research in educational
         contexts (via formative interventions and
         DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-formative-interventions-and-dbr)
-        -   [An operationalised example of Activity Theory concepts in
-            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
-        -   [More on formative interventions in
-            education](#more-on-formative-interventions-in-education)
-        -   [What is DBR and why and how do I use it in this
-            study?](#what-is-dbr-and-why-and-how-do-i-use-it-in-this-study)
+        -   [Alignments and divergences between varied forms of
+            interventionist research based on
+            AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
+        -   [observations to integrate in this
+            section](#observations-to-integrate-in-this-section)
+        -   [Quick overview of formative interventions in
+            education](#quick-overview-of-formative-interventions-in-education)
+        -   [Formative Interventions compared to Design Based
+            Research](#formative-interventions-compared-to-design-based-research)
         -   [Outline of the guiding principles of DBR and formative
             interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
-            -   [Ongoing alignments between DBR and the CHAT community /
-                ethos](#ongoing-alignments-between-dbr-and-the-chat-community-ethos)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
             -   [Principle: Mutuality - LINKED TO THE ABOVE POINT
@@ -85,18 +86,21 @@ title: 3. Theoretical Framework
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-        -   [Debate between Penuel and
-            Engeström](#debate-between-penuel-and-engeström)
-            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
-                MOVE THAT THERE? YES NOW
-                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
         -   [Critiques, development and synthesis within Activity theory
-            approaches](#critiques-development-and-synthesis-within-activity-theory-approaches)
+            approaches - NEEDED HERE? IF NOT
+            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
             -   [Existing gaps in concepts &
                 critiques](#existing-gaps-in-concepts-critiques)
             -   [Alternatives](#alternatives)
             -   [Synthesis](#synthesis)
+        -   [Formative Interventions in more
+            detail](#formative-interventions-in-more-detail)
+            -   [Rising to the Concrete](#rising-to-the-concrete)
+            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
+                MOVE THAT THERE? YES NOW
+                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
+        -   [An operationalised example of Activity Theory concepts in
+            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Agency and AT - big picture in relation to ANT (Latour) and
@@ -125,7 +129,6 @@ title: 3. Theoretical Framework
                 MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
-
 
 # Theoretical Framework
 
@@ -513,7 +516,22 @@ In the following chapters I focus on tensions which help explore the research qu
 
 ## Putting AT to work via interventionist research in educational contexts (via formative interventions and DBR)
 
+
+
+###  Alignments and divergences between varied forms of interventionist research based on AT
+
+The section above outlined advancement in concepts of activity theory carried out by differing schools of researchers. Whereas there is broad agreement in the theoretical understandings therein, there is more disparity in the way they are applied in a research settings. This section explores these dimensions using the lens of the influence of DBR on the operationalisation of AT and vice versa.
+
+
+### observations to integrate in this section
+
 This section continues to explore how the theoretical framework of AT can be operationalised.
+
+In the intro to [@cole_cultural-historical_2018, p.5] Cole and colleagues outline three variations in focus in application.
+Formative interventions, as per Change Laboratory focusing on
+
+mutual appropriation
+ [@downing-wilson_design_2011]
 
 It also grounds this exploration in the specific domain of education.
 
@@ -521,40 +539,21 @@ It compares the approaches of formative interventions and design based research.
 
 It also begins to apply concepts to the context of this study.
 
+<!--
+NOTE PROBLEM REFERNCE for pandoc
+ [@engestrom_design_2011] -->
 
-### An operationalised example of Activity Theory concepts in context
+Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
 
-To situate the learner at this stage, concepts explored within the context of this study.
+Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
 
-The following example gives broader picture by arranging the focus of the represenation as Cole does in describing the 5D programme  [@valsiner_cultural-historical_2007, p.497]
-
-![](./Pictures/At_dia_3_v2.png){width=90%}
-Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
-
-
-The broad intention here would be to examine the parts that make up each of the system with the learning experience being a partnership intervention between the activity systems of different stakeholders.
-
-The following diagram includes a break down of factors typified by Engeström's model.
-
-![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
-Fig 3.x - a wide scope of activity
-
-The objective of activity is to make a game to share, that process is mediated by tool use. The tools themselves have been created by a wider community including the facilitator (drawing on the product of a wider on-line community)
+Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
 
-**On development**
-What this static representation does not cover is the development and transformation.
-The next sections address this with relevant concepts.
+### Quick overview of formative interventions in education
 
-### More on formative interventions in education
+**This section explains the CHAT method of formative interventions aiming to later link it to  broader research intervention in education including DBR**
 
-**This section explains the CHAT method of formative interventions to broader research intervention in education including DBR**
-
-IS THIS BETTER IN PREVIOUS SECTION AS PART OF THE STRANDS OF DBR.
-
-Penuel [-@penuel_emerging_2014] charts a shared foundations and of 3GAT and wider research intervention in education including DBR.
-
-He notes a difference in focus with DBR focusing on developing and innovative curricular tasks with technological aspects rather than broader concerns of participant agency.
 
 <!-- Penuel [-@penuel_emerging_2014]
 
@@ -564,43 +563,59 @@ Penuel [-@penuel_emerging_2014] proposes the formative intervention research as 
 
 This response mirrors a critique of 3GAT that a focus on particular concerns of double stimulation, work with germ cell and expansive learning, are quite complex and at times too prescriptive for a more broadly cultural approach.
 
-We can compare this approach with that of Social Design Experiments [@gutierrez_social_2016-1; @gutierrez_social_2020].
+<!-- MOVE THIS ? STICK TO FORMATIVE INTERVENTIONS. ?
+We can compare this approach with that of Social Design Experiments [@gutierrez_social_2016-1; @gutierrez_social_2020]. -->
 
 The focus there, as with Cole's work is on the emergence of culture, tracing the historicy of it, and on equity in the process.
-
-
-A key text here is Cole and Engeström's exploration of two models  of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]
-MOVE UP
 
 A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
 
 EXPAND THIS WITH EXAMPLES? kindergarten one below?
 
+A key (concluding) text here is Cole and Engeström's exploration of two models of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]
 
+The final section concludes that while the methodology aligns with key principles of AT, there are practical changes in aligning with perceived rigor of social science given the changing environmental factors and lack of standadised tests. It also notes issues of financing such lengthy and repeated interventions in the experimental process and the challenge the status quo, and thus those that might fund such reseach, by developing the agency of workers and learners.
 
+### Formative Interventions compared to Design Based Research
 
+Penuel [-@penuel_emerging_2014] charts a shared foundations and of AT and wider research intervention in education including DBR and proposes greater dialogue between CHAT and DBR researchers on alignment of processes. This stance was taken in response to Engeström's critique of design experiments and DBR more widely [@engestrom_design_2011]. It is of value to explore this debate to highlight similarities and differences.
+WITH WHAT AIM?
 
-### What is DBR and why and how do I use it in this study?
+<!-- Penuel [-@penuel_emerging_2014] notes a difference in focus with DBR focusing on developing and innovative curricular tasks with technological aspects rather than broader concerns of participant agency. -->
 
-Design based research (DBR) is a varied discipline which can take a multitude of forms [@mckenney_educational_2021]. For a summary of those well aligned to a sociocultural approach see Hoadley and Campos [@hoadley_design-based_2022]
+The process of comparing FI and DBR is complicated by DBR's wide application and its diverse interpretations beyond some generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021].
 
 The core elements include: research as an intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014].
 
-Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001] p. 3. Thus the broad claims are in alignment with wider socio cultural approaches.
+Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001, p. 3].
 
-Penuel [-@penuel_emerging_2014] describes design based researchers as an eclectic in approach but that there are calls for more formalisation.
+Sandoval notes diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches within DBR namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest".
 
-The critique reflects different strands of DBR some of which holder closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
+However, while the broad approaches are in alignment with wider socio cultural approaches, Engeström  characterisatise key problems with DBR when applied to education in the following way: vague in description of systemic elements in analysis, overly focused on a linear approach to refining the researcher's learning design in a way that limits the input and agency of  participants [@engestrom_design_2011]. O'Neill [-@oneill_understanding_2016] echoes some of these concerns and develops them to encourage fellow DBR researchers to applied CHAT methodology to addressed limitations in existing DBR practice in the learning sciences community. He highlights that DBR researchers in this field do not always take time to familiarise themselves with existing learning practices of the contexts in which they study in a way which aligns with CHAT approaches.  (DOES THIS NEED ELABORATING IN CONTEXT AT THE START OF THIS SECTION OF CHAPTER?).
 
-Sandoval notes critique from some of the diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest"
+O'Neill [-@oneill_understanding_2016] also outlines The causes of this state of affairs. In particular, he outlines the myth of the heroic researcher/ designer who drives change and updates the proposed learning design in the face of adversity stems from a need to report successes within the time span of research funding awards.
 
-Indeed, there is a strength in the flexibility if approach, for the purposes of this study. Allowing me to draw on useful techniques used in relevant context, and to align the process with underlying guiding theory of AT.
+Penuel [-@penuel_emerging_2014] describes design based researchers as an appropriately eclectic in methodical as a way of flexibly responding to context, but notes that there are calls for more formalisation and engagement with a current lack in of terms of elucidation of design process, and factors influencing design process [@ormel_researchpractice_2012; @mckenney_systematic_2013].   
 
-One of the key motivations of this approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
+The critique reflects different strands of DBR some of which hold closer to the lab based approaches that DBR was initially conceived of to transcend [@brown_design_1992]
+
+
+Bakker [@bakker_design_2018] also explores varied strands under the unifiying term "design research". He challenges Engeström's critique of the closed goals of DBR as outlined in his critique of the work of Collins and colleagues [@collins_design_2004] as a caricature which misrepresented their work stating they did "not want to fix variables or educational goals upfront" [@bakker_design_2018, p.17]. Bakker echoes the call of a Penuel, Cole, and O’Neill for more dialogue and greater acknowledgement of the shared traditions of CHAT and design research [@cole_cultural-historical_2018].
+
+Engeström and Sannino consistently argue for the concepts of double stimulation and rising to the concrete to be applied to research interventions in this domain. These concepts are explored shortly. However, before doing so, the following section explores increasing alignments between how CHAT is applied and the use of design research more generally.
+
+
 
 ### Outline of the guiding principles of DBR and formative interventions
 
-**This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.**
+<!-- **This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.** -->
+
+For a summary of DBR approaches well aligned to a sociocultural approach see Hoadley and Campos THAT IS NOT THE FOCUS OF THE ARTICLE [@hoadley_design-based_2022]. Hoadley and Campos [@hoadley_design-based_2022] analyse DBR is also through the possible utility and outcomes of the research which the authors synthesise as including: design processes, domain theories, design principles or patterns, onological innovations, new hypothesis, and transformative learning of the researcher.
+
+<!-- COMMENT ON UTILITY - NEED TO BE CLEAR AND PERHAPS MOVED.
+Indeed, there is a strength in the flexibility if approach, for the purposes of this study. Allowing me to draw on useful techniques used in relevant context, and to align the process with underlying guiding theory of AT. -->
+
+One of the key motivations of DBR approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
 The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014]
 
@@ -617,26 +632,6 @@ PERHAPS THESE SECTIONS CAN GO - BE COMPRESSED OR SOMETHING
 - generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy
 
 To help explore these principles, this section describes some of the fault-lines in the theoretical debates surrounding the methods of DBR and formative interventions.
-
-
-####  Ongoing alignments between  DBR  and the CHAT community / ethos
-
-Adaptations including mutual appropriation from Cole's work [@downing-wilson_design_2011] and formative interventions from Engeström's work
-<!--
-NOTE PROBLEM REFERNCE for pandoc
- [@engestrom_design_2011] -->
-
-Mutual appropriation highlighted the importance that researchers adapt to contextual factors including the practicalities of the setting.
-
-Later work on DBR applied from a CHAT perspective has addressed limitations in this methodology [@oneill_understanding_2016].
-
-Cakir  and colleagues [-@cakir_contradictions_2022] draw on DBR but also include the wider constellations of activity systems working together on shared project.
-
-Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
-
-
-
-
 
 #### Principle : Researcher take and active interventionist approach
 
@@ -695,16 +690,53 @@ The specific drive for participants to identify new tools, -->
 
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
-
-### Debate between Penuel and Engeström
-
+### Critiques, development and synthesis within Activity theory approaches - NEEDED HERE? IF NOT WHERE?
 
 
-Attempt at synthesis
+#### Existing gaps in concepts & critiques
 
-Move the debate here.
+One critiques of AT is that the concepts are complex and the process unwieldy when putting into practice.
+
+A critique of 3GAT is its implementation via formative interventions, in the form of Change Laboratory is that the interventions are  not easily replicable. They are also context dependent, see critique on participtory design and limits in US context.
+
+#### Alternatives
+
+Alternatives include DBR & COP and Social Design Experiments
+
+- are they less theoretically heavy?
+- How do they differ?
+- what is the value of exploring these theories here?
+
+#### Synthesis
+
+Some elements of synthesis are emerging which address some of the existing gaps and incorporate some of the processes of alternatives.
+
+More recent conception of DBR and AT process such as formative interventions are working to align the approaches and mitigate against Engeström's initial critiques in a way which is explored in next section.
 
 
+### Formative Interventions in more detail
+
+Thus there have been attempt at synthesis.
+
+From DBR I take x, y and z.
+
+I am critical of Engeström's gatekeeping approach and do not concur with a very limited view of formative interventions.  
+
+However, this study does this use the key concepts advanced in this debate and finds them useful. They are explored below.  
+
+#### Rising to the Concrete
+
+The concept of germ cell and unit of analysis.  
+
+Question how applicable this is to all research based on AT.
+
+Trace the concept back to the Marxist tradition.
+
+Suggest that this may be a dogmatic response. Note that Engeström and Sannino give no suggestion on how that may be achieved in the work of Penuel.
+
+And suggest that this insistence may be a weak point of their interpretation of formative interventions.
+
+Explore that this process is hard. And that it is not at all clear how to achieve this in more rapidly changing situations where actors from different activity systems.
 
 #### Double stimulation   IF EXPLORING TADS LATER - WHAT ABOUT MOVE THAT THERE? YES NOW REINTEGRATE
 
@@ -738,42 +770,37 @@ USE AS A CHANCE TO COMPARE?
 
 In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
 
-#### Rising to the Concrete
-
-The concept of germ cell and unit of analysis.  
-
-Question how applicable this is to all research based on AT.
-
-Trace the concept back to the Marxist tradition.
-
-Suggest that this may be a dogmatic response. Note that Engeström and Sannino give no suggestion on how that may be achieved in the work of Penuel.
-
-And suggest that this insistence may be a weak point of their interpretation of formative interventions.
-
-Explore that this process is hard. And that it is not at all clear how to achieve this in more rapidly changing situations where actors from different activity systems.  
-
-### Critiques, development and synthesis within Activity theory approaches
 
 
-#### Existing gaps in concepts & critiques
 
-One critiques of AT is that the concepts are complex and the process unwieldy when putting into practice.
 
-A critique of 3GAT is its implementation via formative interventions, in the form of Change Laboratory is that the interventions are  not easily replicable. They are also context dependent, see critique on participtory design and limits in US context.
 
-#### Alternatives
 
-Alternatives include DBR & COP and Social Design Experiments
+### An operationalised example of Activity Theory concepts in context
 
-- are they less theoretically heavy?
-- How do they differ?
-- what is the value of exploring these theories here?
+To situate the learner at this stage, concepts explored within the context of this study.
 
-#### Synthesis
+The following example gives broader picture by arranging the focus of the represenation as Cole does in describing the 5D programme  [@valsiner_cultural-historical_2007, p.497]
 
-Some elements of synthesis are emerging which address some of the existing gaps and incorporate some of the processes of alternatives.
+![](./Pictures/At_dia_3_v2.png){width=90%}
+Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
 
-More recent conception of DBR and AT process such as formative interventions are working to align the approaches and mitigate against Engeström's initial critiques in a way which is explored in next section.
+
+The broad intention here would be to examine the parts that make up each of the system with the learning experience being a partnership intervention between the activity systems of different stakeholders.
+
+The following diagram includes a break down of factors typified by Engeström's model.
+
+![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
+Fig 3.x - a wide scope of activity
+
+The objective of activity is to make a game to share, that process is mediated by tool use. The tools themselves have been created by a wider community including the facilitator (drawing on the product of a wider on-line community)
+
+
+**On development**
+What this static representation does not cover is the development and transformation.
+The next sections address this with relevant concepts.
+
+
 
 
 ## Concepts of agency within CHAT
