@@ -604,26 +604,29 @@ Bakker [@bakker_design_2018] also explores varied strands under the unifiying te
 
 This view does seem to have been taken up by Engeström and Sannino  and colleagues in recent work [-@cakir_contradictions_2022] as they take a more amicable position "Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning"
 
-
-
 Engeström and Sannino consistently argue for the concepts of double stimulation and rising to the concrete to be applied to research interventions in this domain. These concepts are explored shortly. However, before doing so, the following section explores increasing alignments between how CHAT is applied and the use of design research more generally.
 
-
-
-### Outline of the guiding principles of DBR and formative interventions
+### Outline of the guiding principles and approaches  of DBR and formative interventions
 
 <!-- **This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.** -->
 
-For a summary of DBR approaches well aligned to a sociocultural approach see Hoadley and Campos THAT IS NOT THE FOCUS OF THE ARTICLE [@hoadley_design-based_2022]. Hoadley and Campos [@hoadley_design-based_2022] analyse DBR is also through the possible utility and outcomes of the research which the authors synthesise as including: design processes, domain theories, design principles or patterns, onological innovations, new hypothesis, and transformative learning of the researcher.
+Cobb and colleagues summarise the characteristics of design based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose “theories” do real work in practical educational contexts" [@cobb_design_2003, p.13].
+
+In addition, mutuality is key
+
+<!-- For a summary of DBR approaches well aligned to a sociocultural approach see Hoadley and Campos THAT IS NOT THE FOCUS OF THE ARTICLE [@hoadley_design-based_2022] -->
+
 
 <!-- COMMENT ON UTILITY - NEED TO BE CLEAR AND PERHAPS MOVED.
 Indeed, there is a strength in the flexibility if approach, for the purposes of this study. Allowing me to draw on useful techniques used in relevant context, and to align the process with underlying guiding theory of AT. -->
 
 One of the key motivations of DBR approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
-The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014]
 
-One of the key differences is that while DBR is more flexible in underlying theoretical framework, formative interventions are more perscriptively based on AT.
+
+<!-- The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014] -->
+
+
 
 The following sections explore key similarities and disctinctions in the application of principles shared by both design based research and formative interventions using CHAT.
 
@@ -670,11 +673,7 @@ From [@cakir_contradictions_2022]
 In the last decade, learning scientists, psychologists, and education researchers using design-based research (DBR) engaged in a paradigm expansion and focused on research-community partnership in knowledge production and design activities (Bang & Vossoughi, 2016; Barajas-López and Ishimaru, 2020; Coburn & Penuel, 2016; Collins et al., 2018; Gutiérrez et al., 2020; Ishimaru et al., 2019; Zavala, 2016). The new generation of DBR studies typically involves multiple stakeholders, including researchers, practitioners, and other community members, as co-designers in developing possible new solutions for changing educational environments (Gutiérrez et al., 2020; Ishimaru et al., 2019; Penuel, 2020). Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning (Bal, 2016; Bal et al., 2021; Gutiérrez & Penuel, 2014; O'Neill, 2016; Penuel, 2014; Rajala, 2019). -->
 
 
-#### Principle: The importance of context
 
-One of Engeström's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
-
-For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
 
 <!-- Critique of DBR often stems from limits in application. This section addresses some of this critique and introduces additional proposals to remedy early limits. This section identifies broad alignments in direction for CHAT perspective on DBR. -->
 <!-- which is present in the techniques of design experiments, mutual appropriation and participatory action research - -->
@@ -692,9 +691,23 @@ The specific drive for participants to identify new tools, -->
 
 #### Principle : Utility of research - overcoming the tension between the rich context and generalisation of results
 
+Hoadley and Campos [@hoadley_design-based_2022] analyse DBR is also through the possible utility and outcomes of the research which the authors synthesise as including: design processes, domain theories, design principles or patterns, onological innovations, new hypothesis, and transformative learning of the researcher.
+
+
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
 
 ### Critiques, development and synthesis within Activity theory approaches - NEEDED HERE? IF NOT WHERE?
+
+
+
+#### Summary of critiques of DBR that AT can help address
+
+**On Context**
+One of Engeström's critiques of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity.
+
+For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016].
+
+Also see O'Neill's summary above on depth of context  [@oneill_understanding_2016]
 
 
 #### Existing gaps in concepts & critiques
