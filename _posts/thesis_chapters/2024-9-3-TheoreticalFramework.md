@@ -526,10 +526,9 @@ In the following chapters I focus on tensions which help explore the research qu
 
 CHAT is used in a way to refer to broad approach.
 AT to underlying principles.
-3GAT to Engeström's more perscriptive interpretation when a distinction is needed. 
+3GAT to Engeström's more perscriptive interpretation when a distinction is needed.
 
-## Putting AT to work via interventionist research in educational contexts (via formative interventions and DBR)
-
+## Putting AT to work via interventionist research in educational contexts (via CHAT interventions, formative interventions and DBR)
 
 
 ###  Alignments and divergences between varied forms of interventionist research based on AT
@@ -573,19 +572,27 @@ Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK
 
 For example, learning scientists today employ design experiments primarily to develop theory related to how children learn disciplinary core ideas by engaging with innovative curricular tasks, often supported by technology (e.g., Cobb, Confrey, diSessa, Lehrer, & Schauble, 2003; Design-Based Research Collective, 2003; Kelly, Lesh, & Baek, 2008; Sandoval, 2013). By contrast, CHAT intervention research focuses on transforming activity and expanding the agency of participants -->
 
-Penuel [-@penuel_emerging_2014]
-SUMMARISE THE ABOVE
-
+Penuel [-@penuel_emerging_2014], in an attempt to summarise differences between DBR and CHAT interventions talks of the focus of DBR by learning scientists on developing theory and advancing practice around innovative learning tasks, while CHAT interventions are more focused on transformations in activty and the increasing agency of those involved.  This section covers the CHAT interventions by exploring the concept of formative intervention in particular. A following section contrasts this description with previous generations of DBR and articulates current synergies.  
 
 <!-- MOVE THIS ? STICK TO FORMATIVE INTERVENTIONS. ?
 We can compare this approach with that of Social Design Experiments [@gutierrez_social_2016-1; @gutierrez_social_2020]. -->
 
-The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process.
+While the term formative intervention was rooted in  Cole and Engeström's exploration of two models of CHAT based research, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007], it is Engeström who has used it most consistently and who has defended against it being used more flexibly [@engestrom_methodological_2014].
 
-A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007]. The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007].
+
+The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+
+Formative interventions have taken other forms that have been used or endorsed by Engeström's team in Helsinki in the CRADLE project [@engestrom_expansive_2022].  
+
+A form relevant to is the Learning Lab which. [@cakir_contradictions_2022]
 
 <!-- EXPAND THIS WITH EXAMPLES?
 kindergarten one below? -->
+
+By way of comparison. Cole's strand of CHAT interventions, being more focused on school related interventions, has remained open to some of the innovations and strands of DBR.
+
+The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process.
 
 MOVE LATER?
 A key (concluding) text here is Cole and Engeström's exploration of two models of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]. The final section concludes that while the methodology aligns with key principles of AT, there are practical changes in aligning with perceived rigour of social science given the changing environmental factors and lack of standardised tests. It also notes issues of financing such lengthy and repeated interventions in the experimental process and the challenge the status quo, and thus those that might fund such research, by developing the agency of workers and learners.
@@ -621,7 +628,9 @@ While the core concept stems from object based psychological experiments, the "e
 This jump allowed a reframing of double stimulation as  the first stimulus as _the problem itself_ [@engestrom_methodological_2014] and a potential series of secondary stimuli be presented as part of intervention.
 
 
-Engeström's initial description of DS, which does appear to be a series on introduced meditational stimuli evolves based on initial research. Engeström and Sannino posit that the process is active and goes beyond simple mediation via existing tools, instead stimuli, either presented as suggested tools or discovered in the environment, are actively imbued with meaning by the participants through transformation [@engestrom_methodological_2014]. This process is complex "Most likely the initially given potential secoThis research depicts wider constellations of activity systems working together on shared project [@cakir_contradictions_2022].nd stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
+Engeström's initial description of DS, which does appear to be a series on introduced meditational stimuli evolves based on initial research. Engeström and Sannino posit that the process is active and goes beyond simple mediation via existing tools, instead stimuli, either presented as suggested tools or discovered in the environment, are actively imbued with meaning by the participants through transformation [@engestrom_methodological_2014]. This process is complex "Most likely the initially given potential second stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
+
+This research depicts wider constellations of activity systems working together on shared project [@cakir_contradictions_2022].
 
 attributing DS a crucial role in to participants development of agency [@sannino_formative_2016].
 
