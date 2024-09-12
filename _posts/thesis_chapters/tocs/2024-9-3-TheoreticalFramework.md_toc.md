@@ -3,6 +3,7 @@
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
     -   [Socio-cultural approach](#socio-cultural-approach)
+        -   [A turn away from RCT trials](#a-turn-away-from-rct-trials)
         -   [Communities of Practice and
             Learners](#communities-of-practice-and-learners)
             -   [Community of practices](#community-of-practices)
@@ -64,20 +65,20 @@
             education](#quick-overview-of-formative-interventions-in-education)
         -   [Formative Interventions compared to Design Based
             Research](#formative-interventions-compared-to-design-based-research)
-        -   [Outline of the guiding principles of DBR and formative
-            interventions](#outline-of-the-guiding-principles-of-dbr-and-formative-interventions)
+        -   [Outline of the guiding principles and approaches of DBR and
+            formative
+            interventions](#outline-of-the-guiding-principles-and-approaches-of-dbr-and-formative-interventions)
             -   [Principle : Researcher take and active interventionist
                 approach](#principle-researcher-take-and-active-interventionist-approach)
-            -   [Principle: Mutuality - LINKED TO THE ABOVE POINT
-                TOO](#principle-mutuality---linked-to-the-above-point-too)
-            -   [Principle: The importance of
-                context](#principle-the-importance-of-context)
+            -   [Principle: Mutuality](#principle-mutuality)
             -   [Principle : Utility of research - overcoming the
                 tension between the rich context and generalisation of
                 results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
         -   [Critiques, development and synthesis within Activity theory
             approaches - NEEDED HERE? IF NOT
             WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
+            -   [Summary of critiques of DBR that AT can help
+                address](#summary-of-critiques-of-dbr-that-at-can-help-address)
             -   [Existing gaps in concepts &
                 critiques](#existing-gaps-in-concepts-critiques)
             -   [Alternatives](#alternatives)
