@@ -585,7 +585,7 @@ The CL processes suits a formal workplace where there are existing concepts of C
 
 Formative interventions have taken other forms that have been used or endorsed by Engeström's team in Helsinki in the CRADLE project [@engestrom_expansive_2022].  
 
-A form relevant to is the Learning Lab . [@cakir_contradictions_2022; ]
+A form relevant to is the Learning Lab . [@cakir_contradictions_2022; @bal2011culturally]
 
 <!-- EXPAND THIS WITH EXAMPLES?
 kindergarten one below? -->
