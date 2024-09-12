@@ -843,7 +843,7 @@ The next sections address this with relevant concepts.
 
 ### Agency and AT - big picture in relation to ANT (Latour) and agency of humans and artefacts
 
-Who and what has agency is a thorny philosophical question. Nardi and Kaptelin write on agency and objects in relation to technology convincingly [@kaptelinin_activity_2012]. In AT artefacts or tools used in mediated activity may be given a form of delegated agency through design, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
+Who and what has agency is a thorny philosophical question.
 
 In addition socio cultural concepts of agency also distinguish between agency as a personal property and one that exists within a context.
 
@@ -858,37 +858,55 @@ The following sections draw on research in line with this understanding to furth
 
 ### Addressing and disambiguating definitions of agency in education
 
-To effectively answer RQ2 the concept of agency needs disambiguating.  
-
-Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
-
-Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014].
 
 
+To effectively answer RQ2 the concept of agency needs disambiguating in relation to informal education. Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016]. To help chart varied philosophical and professional concepts of the development of agency within education I am informed by the work of Matusov and colleagues [@matusov_mapping_2016]. Their sythesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to the theoretical framework of activity theory.
 
-See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998].
-
-A definition of agency in relation to informal education and this study is useful to ground the findings of the literature review.
-
-Concepts of facilitating the development of agency in education have diverse threads [@matusov_mapping_2016]. These include: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; and authorial agency which involves agentic changes to the learning environment.
-
-Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to other research on the subject.
-
-Matusov and colleagues (USEFUL BUT COMPLEX) outline many forms of agency to educational concepts.  [@matusov_mapping_2016]
-
-The concept of instrumental agency to aid learner control is also useful as a way to reduce friction in learning designs. This more limited conception of agency as a way of getting things done is an attractive concept in designing for learners by designing out obstacles.
+<!-- Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014]. -->
+<!-- See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998]. -->
 
 #### Instrumental and relational agency
 
-Instrumental agency reflects a concept of agency as the ability to get things done. Conceptually these practical dimension involve removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+Instrumental agency reflects a concept of agency as the ability to get things done, thus, a view of agency as a set of capacities [@edwards_steps_2005]. Matusov and colleagues highlights an often technological view of educational environments where educators seek to increase instrumental agency by building the individual capacity of learners to achieve relevant tasks [@matusov_mapping_2016]. Edwards' concept of relational agency is framed as an extension to this concept to include a more social view of instrumental agency where leaners are able to offer and request support [@edwards_steps_2005].  While this view of relational, instrumental agency in an school setting is laudable, Edwards and D'Arcy note it is often restricted by curricular and institutional norms. Explored within a CHAT framework this type of agency would be understood as increasing fluidity of practice (operationalisation) using objects and people as tools within mediated activity.
 
-In this sometimes technological view of educational environments teachers or facilitators can to increase agency by removing individual barriers to use. However, a more social view of instrumental agency also includes relational aspects where leaners are able to offer and request support [@edwards_steps_2005].
+#### Dynamically Emergent Agency
+
+Matusov and colleagues' interpretation of this dimension of agency is complex and diverse allow agency to be recognised in distributed form such as 'emerging collective agency, agency of bureaucracy, non-human agency of animals, agency of distributed machine-human network, agency of Internet, and so on' [@matusov_mapping_2016, p. 432]. The authours recognise the value of this framing of agency to  explore and to remove removing constraints and designing support in the form of affordances in the learning environment.
+
+Affordances are a key aspect of HCI, and as this study involves the use of computer systems to learn computer coding, the concept is relevant.
+
+Work by Bærentsen and Trettvik [@ba_erentsen_activity_2002] linking the use of affordances in HCI to a foundation in activity theory highlights, following Gibson [@gibson2014theory], that affordances exist as opportunities provided by the environment and objects within it, either natural or culturally created, to organisms within that environment. The authors also note that the distinction between the intended (designed) use  of  affordances and their possible use, an important distinction in the field of HCI, is one best explored via activity theory's study of the interaction of humans and artefacts as joint activity, thus preventing the view that that affordances have magical powers outside of a cultural context.
+
+
+The work of Nardi and Kaptelinin is also helpful here to examine the concept of designed affordance in learning environments through a lens of activity theory [@kaptelinin_activity_2012]. The authours also regrounding Gibson's concept of affordances as  possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. They  situate the creation of affordances in designed systems as a form of delegated agency [@kaptelinin_activity_2012].
+
+Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
+
+While there is a The wealth of HCI literature in line with activity which discusses and applies concepts of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
+
+**Link to next section**
+The following section is more concerned with group actions and situations where agency is not experienced as delegated but rather created.
+
+.
+
+<!-- There is a link between double stimulation and affordances [@romero_analysing_2022] -->
+<!-- A good summary of affordances related to HCI is here [@galliers_affordance_2017] -->
+<!-- Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1]. -->
+
+<!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
+
+<!-- While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012]. -->
+
+<!-- **Link with TADS?**
+TADS and the associated metaphor of warping anchors is normally applied in settings of group action. -->
+
+
 
 
 #### Authorial and transformative agency
 
-
-Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency most aligned with x
+Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency,
+as the most active an
 
 DEFINE
 
@@ -912,37 +930,6 @@ In exploring their differences Hopwood x and y.
 Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
 For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
-
-#### Affordances
-
-<!-- [@ba_erentsen_activity_2002] -->
-
-Affordances can be explored within the AT concept of mediation.
-
-There is a link between double stimulation and affordances [@romero_analysing_2022]
-
-A good summary of affordances related to HCI is here [@galliers_affordance_2017]
-
-Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1].
-
-They focus particularly in terms of who the affordance is for.
-
-Affordances have been misused, assigned magical properties, including agency of themselves [SUPPORT].
-
-This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity.
-
-Nardi and colleagues give an overview regrounding Gibson's concept of affordances as action possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. Their focus is primarily on individual action.
-
-While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
-
-However, affordances are originally conceived of as part of activity, not separated from it [@ba_erentsen_activity_2002].
-
-NOTE - more on affordances here from Nardi
-
-**Link with TADS?**
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-
 
 
 
