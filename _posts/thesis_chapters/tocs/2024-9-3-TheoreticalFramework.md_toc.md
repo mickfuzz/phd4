@@ -54,8 +54,8 @@
             -   [The value of surfacing areas of
                 contradictions](#the-value-of-surfacing-areas-of-contradictions)
     -   [Putting AT to work via interventionist research in educational
-        contexts (via formative interventions and
-        DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-formative-interventions-and-dbr)
+        contexts (via CHAT interventions, formative interventions and
+        DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-chat-interventions-formative-interventions-and-dbr)
         -   [Alignments and divergences between varied forms of
             interventionist research based on
             AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
@@ -63,6 +63,10 @@
             section](#observations-to-integrate-in-this-section)
         -   [Quick overview of formative interventions in
             education](#quick-overview-of-formative-interventions-in-education)
+            -   [Rising to the Concrete](#rising-to-the-concrete)
+            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
+                MOVE THAT THERE? YES NOW
+                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
         -   [Formative Interventions compared to Design Based
             Research](#formative-interventions-compared-to-design-based-research)
         -   [Outline of the guiding principles and approaches of DBR and
@@ -77,18 +81,13 @@
         -   [Critiques, development and synthesis within Activity theory
             approaches - NEEDED HERE? IF NOT
             WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
-            -   [Summary of critiques of DBR that AT can help
-                address](#summary-of-critiques-of-dbr-that-at-can-help-address)
+            -   [Summary of critiques and challenges in the intersection
+                of DBR and
+                AT](#summary-of-critiques-and-challenges-in-the-intersection-of-dbr-and-at)
             -   [Existing gaps in concepts &
                 critiques](#existing-gaps-in-concepts-critiques)
             -   [Alternatives](#alternatives)
             -   [Synthesis](#synthesis)
-        -   [Formative Interventions in more
-            detail](#formative-interventions-in-more-detail)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
-            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
-                MOVE THAT THERE? YES NOW
-                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
         -   [An operationalised example of Activity Theory concepts in
             context](#an-operationalised-example-of-activity-theory-concepts-in-context)
     -   [Concepts of agency within
@@ -100,12 +99,11 @@
             education](#addressing-and-disambiguating-definitions-of-agency-in-education)
             -   [Instrumental and relational
                 agency](#instrumental-and-relational-agency)
+            -   [Dynamically Emergent
+                Agency](#dynamically-emergent-agency)
             -   [Authorial and transformative
                 agency](#authorial-and-transformative-agency)
-        -   [Conceptual tools associated with
-            agency](#conceptual-tools-associated-with-agency)
-            -   [Specifically, TAS, TADS](#specifically-tas-tads)
-            -   [Affordances](#affordances)
+            -   [TAS](#tas)
             -   [TADS - On double stimulation and
                 agency](#tads---on-double-stimulation-and-agency)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)

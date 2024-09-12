@@ -509,14 +509,8 @@ Some sythethis on findings on transformative agency here, in particular in P1.
 
 #### Kedging anchor metaphor
 
-Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a kedging anchors.
 
-    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
-
-In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
-Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
-
-Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage is particularly useful to explain  processes where participants seek to resolve conflicts and problems in an existing setting. Indeed, much research employing TADS process and kedging metaphor is located in workplace settings. As such, the designed nature of the environment is less relevant and less explored than research on the co-creation of a new learning environment. By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques.
 
 The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
 

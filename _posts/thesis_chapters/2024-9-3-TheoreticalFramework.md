@@ -9,127 +9,98 @@ layout: post
 categories: chapter
 title: 3. Theoretical Framework
 ---
--   [Theoretical Framework](#theoretical-framework)
-    -   [Research Questions - July
-        2024](#research-questions---july-2024)
-    -   [Introduction](#introduction)
-    -   [Socio-cultural approach](#socio-cultural-approach)
-        -   [A turn away from RCT trials](#a-turn-away-from-rct-trials)
-        -   [Communities of Practice and
-            Learners](#communities-of-practice-and-learners)
-            -   [Community of practices](#community-of-practices)
-            -   [Community of learners](#community-of-learners)
-        -   [Link to next section - DOESN'T SEEM
-            RIGHT.](#link-to-next-section---doesnt-seem-right.)
-    -   [The foundational concepts of activity
-        theory](#the-foundational-concepts-of-activity-theory)
-        -   [History in brief](#history-in-brief)
-        -   [Core AT concepts](#core-at-concepts)
-        -   [Object / objective in activity and varied
-            interpretations](#object-objective-in-activity-and-varied-interpretations)
-        -   [The hierarchical structure of
-            activity](#the-hierarchical-structure-of-activity)
-            -   [Activity, Actions and
-                Operations](#activity-actions-and-operations)
-            -   [Selecting activity systems as units of
-                analysis](#selecting-activity-systems-as-units-of-analysis)
-        -   [On Mediation and internalisation and externalisation of
-            concepts](#on-mediation-and-internalisation-and-externalisation-of-concepts)
-            -   [Mutual process via internalisation and
-                externalisation](#mutual-process-via-internalisation-and-externalisation)
-            -   [Tools as a propagation of
-                cultures](#tools-as-a-propagation-of-cultures)
-            -   [Double stimulation and Affordances - PROBABLY OVERKILL
-                TO BE HERE
-                TOO](#double-stimulation-and-affordances---probably-overkill-to-be-here-too)
-        -   [Development and design](#development-and-design)
-    -   [Exploring key approaches to Activity Theory through the work of
-        Cole and
-        Engeström](#exploring-key-approaches-to-activity-theory-through-the-work-of-cole-and-engeström)
-        -   [Activity theory as a Utopian methodology based on
-            foundations of cultural psychology and alignment with
-            broader sociocultural
-            concepts](#activity-theory-as-a-utopian-methodology-based-on-foundations-of-cultural-psychology-and-alignment-with-broader-sociocultural-concepts)
-            -   [The focus on mutual cultural appropriation in work
-                between institutionap
-                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutionap-partners.)
-            -   [Third spaces, idiocultures and designed
-                systems](#third-spaces-idiocultures-and-designed-systems)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
-        -   [3GAT and Expansive learning](#gat-and-expansive-learning)
-            -   [3GAT, activity systems and new community based
-                concepts](#gat-activity-systems-and-new-community-based-concepts)
-            -   [Expansive learning and expanded
-                object](#expansive-learning-and-expanded-object)
-            -   [The value of surfacing areas of
-                contradictions](#the-value-of-surfacing-areas-of-contradictions)
-    -   [Putting AT to work via interventionist research in educational
-        contexts (via formative interventions and
-        DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-formative-interventions-and-dbr)
-        -   [Alignments and divergences between varied forms of
-            interventionist research based on
-            AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
-        -   [observations to integrate in this
-            section](#observations-to-integrate-in-this-section)
-        -   [Quick overview of formative interventions in
-            education](#quick-overview-of-formative-interventions-in-education)
-        -   [Formative Interventions compared to Design Based
-            Research](#formative-interventions-compared-to-design-based-research)
-        -   [Outline of the guiding principles and approaches of DBR and
-            formative
-            interventions](#outline-of-the-guiding-principles-and-approaches-of-dbr-and-formative-interventions)
-            -   [Principle : Researcher take and active interventionist
-                approach](#principle-researcher-take-and-active-interventionist-approach)
-            -   [Principle: Mutuality](#principle-mutuality)
-            -   [Principle : Utility of research - overcoming the
-                tension between the rich context and generalisation of
-                results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-        -   [Critiques, development and synthesis within Activity theory
-            approaches - NEEDED HERE? IF NOT
-            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
-            -   [Summary of critiques of DBR that AT can help
-                address](#summary-of-critiques-of-dbr-that-at-can-help-address)
-            -   [Existing gaps in concepts &
-                critiques](#existing-gaps-in-concepts-critiques)
-            -   [Alternatives](#alternatives)
-            -   [Synthesis](#synthesis)
-        -   [Formative Interventions in more
-            detail](#formative-interventions-in-more-detail)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
-            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
-                MOVE THAT THERE? YES NOW
-                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
-        -   [An operationalised example of Activity Theory concepts in
-            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
-    -   [Concepts of agency within
-        CHAT](#concepts-of-agency-within-chat)
-        -   [Agency and AT - big picture in relation to ANT (Latour) and
-            agency of humans and
-            artefacts](#agency-and-at---big-picture-in-relation-to-ant-latour-and-agency-of-humans-and-artefacts)
-        -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
-            -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency)
-            -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency)
-        -   [Conceptual tools associated with
-            agency](#conceptual-tools-associated-with-agency)
-            -   [Specifically, TAS, TADS](#specifically-tas-tads)
-            -   [Affordances](#affordances)
-            -   [TADS - On double stimulation and
-                agency](#tads---on-double-stimulation-and-agency)
-    -   [Conclusion / Synthesis.](#conclusion-synthesis.)
-        -   [Summary of Justification of choice - and how the RQs align
-            with different
-            concepts](#summary-of-justification-of-choice---and-how-the-rqs-align-with-different-concepts)
-            -   [Signposting where concepts are used in the thesis (in
-                relation to
-                RQs)](#signposting-where-concepts-are-used-in-the-thesis-in-relation-to-rqs)
-            -   [The role of AT in the analysis of HCI -
-                MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
-    -   [Parked to replace or remove or
-        rework](#parked-to-replace-or-remove-or-rework)
+-   [Exploration of the Formative Learning Design
+    Process](#exploration-of-the-formative-learning-design-process)
+    -   [Research Questions - April
+        2024](#research-questions---april-2024)
+    -   [Chapter Introduction](#chapter-introduction)
+    -   [Narrative exploration of
+        contradictions](#narrative-exploration-of-contradictions)
+    -   [C1 - contradictions involving the use of game programming and
+        asset authoring
+        tools](#c1---contradictions-involving-the-use-of-game-programming-and-asset-authoring-tools)
+        -   [The 3D flying bee](#the-3d-flying-bee)
+    -   [Detail of Tool Evloutio based on resolving
+        Conflicts](#detail-of-tool-evloutio-based-on-resolving-conflicts)
+        -   [Use of a Code Playground](#use-of-a-code-playground)
+        -   [Using a starter game
+            template](#using-a-starter-game-template)
+            -   [Variable editing for player
+                movement](#variable-editing-for-player-movement)
+            -   [Level design and
+                prototyping](#level-design-and-prototyping)
+            -   [Use of game assets](#use-of-game-assets)
+            -   [Distributed approach to asset
+                creation](#distributed-approach-to-asset-creation)
+        -   [Observations and discussion on the game template and core
+            tools](#observations-and-discussion-on-the-game-template-and-core-tools)
+            -   [Developing Digital Literacy
+                skills](#developing-digital-literacy-skills)
+            -   [INTEGRAETE ABOVE Tension of a group remixing from one
+                template rather than feeler community inspiration and
+                interaction](#integraete-above-tension-of-a-group-remixing-from-one-template-rather-than-feeler-community-inspiration-and-interaction)
+            -   [Concluding bit](#concluding-bit)
+    -   [C2 - Participant conflict associated with project navigation
+        and use of
+        documentation](#c2---participant-conflict-associated-with-project-navigation-and-use-of-documentation)
+        -   [Narrative on the evolution of resources during
+            P2](#narrative-on-the-evolution-of-resources-during-p2)
+        -   [Quick Start Cards](#quick-start-cards)
+        -   [Code snippet examples](#code-snippet-examples)
+        -   [Structuring instructional tutorial
+            chapters](#structuring-instructional-tutorial-chapters)
+        -   [Theming the a collection of game design patterns to aid
+            navigation](#theming-the-a-collection-of-game-design-patterns-to-aid-navigation)
+    -   [C3 - Responding to tensions and barriers in cultural aspects of
+        the game making
+        activity](#c3---responding-to-tensions-and-barriers-in-cultural-aspects-of-the-game-making-activity)
+        -   [Social coding processes](#social-coding-processes)
+        -   [Playtesting as a cultural
+            process](#playtesting-as-a-cultural-process)
+            -   [Local playtesting rather than participation with a
+                wider online
+                community](#local-playtesting-rather-than-participation-with-a-wider-online-community)
+            -   [Playtesting and the interaction with UMC pedagogy and
+                half-baked games
+                approaches](#playtesting-and-the-interaction-with-umc-pedagogy-and-half-baked-games-approaches)
+            -   [Playtesting facilitating peer
+                encouragement](#playtesting-facilitating-peer-encouragement)
+            -   [Playtesting and embodied participation in the games of
+                others](#playtesting-and-embodied-participation-in-the-games-of-others)
+            -   [Community concepts and norming behaviour emerging
+                during
+                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
+            -   [What kind of Maker are you - Motivations behind social
+                processes (emerging in
+                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
+            -   [Use of side missions to encourage varied creative
+                practices](#use-of-side-missions-to-encourage-varied-creative-practices)
+        -   [Outroduction to this part of exploring Drama process and
+            playtesting](#outroduction-to-this-part-of-exploring-drama-process-and-playtesting)
+    -   [Chapter Discussion](#chapter-discussion)
+    -   [Observations / Discussions on Dimensions of
+        Authenticity](#observations-discussions-on-dimensions-of-authenticity)
+        -   [Observations on Authenticity in project
+            approaches](#observations-on-authenticity-in-project-approaches)
+        -   [The potentially awesome impact of lifting the lid on
+            authentic
+            technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
+        -   [Different black boxes for different
+            goals](#different-black-boxes-for-different-goals)
+        -   [Increased scaffolding of tools can increase instrumental
+            agency but at what cost? EXPLORE AS TENSION? MOVE TO CH.
+            4?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost-explore-as-tension-move-to-ch.-4)
+        -   [On the emergent and mutual nature of the design and
+            research process (AND link to
+            agency?](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process-and-link-to-agency)
+        -   [Summary of barriers and tensions explored in this
+            chapter](#summary-of-barriers-and-tensions-explored-in-this-chapter)
+            -   [Exploring tensions involving and authentic tool
+                use](#exploring-tensions-involving-and-authentic-tool-use)
+        -   [Emergence of GDPs as a germ cell of
+            activity](#emergence-of-gdps-as-a-germ-cell-of-activity)
+        -   [Link to next chapter](#link-to-next-chapter)
+    -   [Removed notes from chapter](#removed-notes-from-chapter)
 
 # Theoretical Framework
 
@@ -860,7 +831,14 @@ The following sections draw on research in line with this understanding to furth
 
 
 
-To effectively answer RQ2 the concept of agency needs disambiguating in relation to informal education. Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016]. To help chart varied philosophical and professional concepts of the development of agency within education I am informed by the work of Matusov and colleagues [@matusov_mapping_2016]. Their sythesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to the theoretical framework of activity theory.
+To effectively answer RQ2 the concept of agency needs disambiguating in relation to informal education. Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016].
+
+INTEGRATE THIS WORK SOMEHOW?
+Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
+
+To help chart varied philosophical and professional concepts of the development of agency within education I am informed by the work of Matusov and colleagues [@matusov_mapping_2016]. Their sythesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus this summary focuses deepening an analysis on instrumental and authorial agency in relation to the theoretical framework of activity theory.
+
+
 
 <!-- Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014]. -->
 <!-- See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998]. -->
@@ -877,17 +855,22 @@ Affordances are a key aspect of HCI, and as this study involves the use of compu
 
 Work by Bærentsen and Trettvik [@ba_erentsen_activity_2002] linking the use of affordances in HCI to a foundation in activity theory highlights, following Gibson [@gibson2014theory], that affordances exist as opportunities provided by the environment and objects within it, either natural or culturally created, to organisms within that environment. The authors also note that the distinction between the intended (designed) use  of  affordances and their possible use, an important distinction in the field of HCI, is one best explored via activity theory's study of the interaction of humans and artefacts as joint activity, thus preventing the view that that affordances have magical powers outside of a cultural context.
 
-
 The work of Nardi and Kaptelinin is also helpful here to examine the concept of designed affordance in learning environments through a lens of activity theory [@kaptelinin_activity_2012]. The authours also regrounding Gibson's concept of affordances as  possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. They  situate the creation of affordances in designed systems as a form of delegated agency [@kaptelinin_activity_2012].
+
 
 Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
 
 While there is a The wealth of HCI literature in line with activity which discusses and applies concepts of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
 
 **Link to next section**
+
+IN A SIMILAR WAY TO Affordances?
+For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
+
+
 The following section is more concerned with group actions and situations where agency is not experienced as delegated but rather created.
 
-.
+
 
 <!-- There is a link between double stimulation and affordances [@romero_analysing_2022] -->
 <!-- A good summary of affordances related to HCI is here [@galliers_affordance_2017] -->
@@ -906,22 +889,16 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 #### Authorial and transformative agency
 
 Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency,
-as the most active an
+as the most active and best aligned with an ideal form of education.
+REDEFINE
 
-DEFINE
+Matusov bases much of the definition of authorial agency on existing work from social cultural school drawing on of increasing participation in educational communities of practice [], and transformational concepts of agency from Stetsenko in the form of TAS [ ] and Sannino in the form of TADS []
 
-As well as the work on Lave and Wegner on community based conceptions of agency,
-Matusov bases much of the definition of authorial agency on existing work on transformational agency.
+This section focuses on transformative agency. JUSTIFY
 
-Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency.
-
-
-### Conceptual tools associated with agency
-
-#### Specifically, TAS, TADS
+####  TAS
 TAS from Stetsenko addresses grand ideas of agency directly.
 However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
-
 
 Similarly while TADS addresses lofty ideas of "quote" they can be played out in smaller situations.
 
@@ -929,17 +906,20 @@ In exploring their differences Hopwood x and y.
 
 Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
-For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
-
-
-
-
 #### TADS - On double stimulation and agency
 
 The active use of secondary stimulus can facilitate agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
 
 Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
 
+Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+
+    We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
+
+In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
+Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
+
+Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage is particularly useful to explain  processes where participants seek to resolve conflicts and problems in an existing setting. Indeed, much research employing TADS process and kedging metaphor is located in workplace settings. As such, the designed nature of the environment is less relevant and less explored than research on the co-creation of a new learning environment. By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques.
 
 
 
@@ -949,6 +929,7 @@ Synthesis of different concepts as they are applied to the context of this study
 
 - DBR vs AT?
 - Role of 3 planes?
+- Scope of concepts of agency
 
 
 ### Summary of Justification of choice - and how the RQs align with different concepts
