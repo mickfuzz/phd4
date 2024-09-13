@@ -863,6 +863,14 @@ What this static representation does not cover is the development and transforma
 The next sections address this with relevant concepts.
 
 
+**Germ cell and analysis**
+RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms.
+
+While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study. The justification for this is explored in more depth in Ch.4
+
+Later in Ch. 6 I employ a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. 
+
+
 
 
 ## Concepts of agency within CHAT
