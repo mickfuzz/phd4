@@ -609,7 +609,6 @@ Engeström in reply to this proposition [@engestrom_methodological_2014], for la
 
 #### Rising to the Concrete
 
-
 The concept of germ cell and unit of analysis.  
 
 In Engeström's concept of expansive learning and the role of germ cell in rising to the concrete is crucial [@sannino_formative_2016; @engestrom_methodological_2014]. The concept, which can be trace the concept back to the Marxist tradition, bears exploration.
@@ -627,18 +626,16 @@ He describes the germ cell of activity and the unit of activity as two similar c
 
 In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth.
 
-MOVE TO IMPLEMENTATION LATER
-RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Ch. 6 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
+HOWEVER,
+It appears valid to question how applicable is Engeström application of this concepts to all research based on AT, given the consistency of application in AT papers,
 
+It is not at all clear how to achieve this in more rapidly changing situations where actors from different activity systems. For example, Engeström and Sannino give no suggestion on how that may be achieved when critiquing the interpretations of Penuel.
 
-Question how applicable this is to all research based on AT.
+While this strict interpretation is seen as important by Engestrom for x reason - monasim?
 
+This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.  
 
-Suggest that this may be a dogmatic response. Note that Engeström and Sannino give no suggestion on how that may be achieved in the work of Penuel.
-
-And suggest that this insistence may be a weak point of their interpretation of formative interventions.
-
-Explore that this process is hard. And that it is not at all clear how to achieve this in more rapidly changing situations where actors from different activity systems.
+However, given this interpretation, this study does aim for a full application of this concept in analysis, an ambition of which the limits are explored in the conclusion. 
 
 #### Double stimulation   IF EXPLORING TADS LATER - WHAT ABOUT MOVE THAT THERE? YES NOW REINTEGRATE
 
