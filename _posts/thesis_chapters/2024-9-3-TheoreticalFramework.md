@@ -635,7 +635,7 @@ While this strict interpretation is seen as important by Engestrom for x reason 
 
 This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.  
 
-However, given this interpretation, this study does aim for a full application of this concept in analysis, an ambition of which the limits are explored in the conclusion. 
+However, given this interpretation, this study does aim for a full application of this concept in analysis, an ambition of which the limits are explored in the conclusion.
 
 #### Double stimulation   IF EXPLORING TADS LATER - WHAT ABOUT MOVE THAT THERE? YES NOW REINTEGRATE
 
@@ -717,8 +717,6 @@ In addition, mutuality is key to later conceptions of design
 Indeed, there is a strength in the flexibility if approach, for the purposes of this study. Allowing me to draw on useful techniques used in relevant context, and to align the process with underlying guiding theory of AT. -->
 
 One of the key motivations of DBR approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
-
-
 
 <!-- The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014] -->
 IS THIS NOT WHAT JUST HAPPENED ABOVE? COMBINE?
