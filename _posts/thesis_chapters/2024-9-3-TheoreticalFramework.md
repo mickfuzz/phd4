@@ -243,7 +243,7 @@ This is drawn on as a method in a way explained in Chapter 4.
 
 DOESN'T SEEM RIGHT.
 ADD IN MORE FOCUSED SUMMARY? OR MOVE? SIGNPOST TO LATER EXPLORATION?
-HOW DOES ROGOFF FIT IN THIS? 
+HOW DOES ROGOFF FIT IN THIS?
 
 There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .
  [@laveSituatedLearningLegitimate1991]
@@ -315,7 +315,7 @@ The concept of tools here is broad including language, physical tools and repres
 
 The overall view of learning is seen as highly mediated by these cultural tools.
 
-MORE ON MEDIATION
+MORE ON MEDIATION -
 
 #### Mutual process  via internalisation and externalisation
 
@@ -329,6 +329,8 @@ Tools are a product of adaptation and hold within them an evolution of culture.
 
 
 ### The hierarchical structure of activity
+
+REVISIT NARDI AMD K TO ADD A QUICK SUMMARY
 
 #### Activity, Actions and Operations
 
@@ -351,7 +353,7 @@ He describes the germ cell of activity and the unit of activity as two similar c
 
 In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth.
 
-
+MOVE TO IMPLEMENTATION LATER
 RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Ch. 6 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
 
 Turning to the developmental aspect, a granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002].
@@ -374,22 +376,15 @@ IS THIS NOT COVERED IN CHAPTER 5 - SIGNPOST?
 
 <!-- When mapping onto AT in a practical purpose of data analysis these planes can be seen as manifestations in different scopes of activty. -->
 
-While units of analysis are often chosen on an broad scope to allow for sociological concepts to emerge, Blunden makes a pragmatic proposal to use projects as they key unit of analysis [-@blunden_interdisciplinary_2010; -@blunden#### Development and design
+<!-- DROP? r
+While units of analysis are often chosen on an broad scope to allow for sociological concepts to emerge, Blunden makes a pragmatic proposal to use projects as they key unit of analysis [-@blunden_interdisciplinary_2010; -@blunden#### Development and design -->
 
-Link to next section
-Check overlap with methodology chaper._collaborative_2014] . His rationale is INCLUDE SUMMARY OF RATIONALE HERE
-
-IS THE RATIONALE ALIGNED WITH THE IMPORTANCE OF OBJECTIVE?
 
 <!-- In the case of this study, activity can be seen as different planes; wider educational context and the culture of the whole program; guided activity; specific actions and operations carried out on a personal level. -->
 
 <!-- Here the term project here communicates a concrete implementation of a planned goal and also a sense that all elements of key activity are present at this level e.g. all stages of the design cycle (and another example?).  This sentiment is echoed by a parent when noticing that the documentation on one GDPs involved several distinct stages - "It’s like a project in itself really!" -->
 
 <!-- At this scope, for participants implementing . -->
-
-
-
-
 
 
 ### Development and design
@@ -400,57 +395,23 @@ Activity theory is based on the concept that activity in context should be under
 
 A key source of transformation in activity is the emergency and resolution of contradictions and conflicts which  through accumulation of tensions in activity [@ilyenkov1960dialectics; @blunden_activity_2023].
 
+**On limits of 2GAT and culture**
+
 Engeström's work on what he termed a  third generation includes theory of expansive learning which charts changes and expansion of the object being worked on, often due to tensions beyond a single activity system to encompass others thus but through acknowledging the impact of movement of actors between systems [@engestrom_expansive_2001]. This along with the work of Cole, is vital to move beyond a limited view of activity to engage with cross cultural understandings of learning [@cole_cross-cultural_1988]
 
 These terms are explored in the section on expansive learning below.
 
 
-## Exploring key approaches to Activity Theory through the work of Cole and Engeström
+## Strands of emerging variations of Activity Theory
 
-As part of a the broader social turn of psychology explored, these authors and their colleagues also forged new concepts which I draw on in this study  
+As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts and their utility to this study (DO I) with the context of these strands  
 
-MOVE SOME OF THESE
+<!-- MOVE SOME OF THESE
 - tensions between system elements
 - double stimulation  
 - ideocultures and
 - mutual appropriation.  
-- expansive learnig
-
-The next section explores these concepts and their utility to this study
-
-HOW ARE THE TWO SECTIONS DIFFERENT?REWORK THIS TO SIT IN THIS SECTION - HOW IS THIS DIFFERENT FROM THE PUTTING AT TO WORK? DOES IT FINISH WITH THAT FOCUS? CONCEPTS FIRST THEN HOW APPLIED.
-
-### Activity theory as a Utopian methodology based on foundations of cultural psychology and alignment with broader sociocultural concepts
-
-A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity  [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers.
-
-Cole's approach is often profitably explored  using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
-
-
-#### The focus on mutual cultural appropriation in work between institutionap partners.
-
-Here cultural appropriation is seen as a positive and mutual process between instit
-
-#### Third spaces, idiocultures and designed systems
-
-<!-- Cole's approach can be examined using the 5D case study (later?) -->
-
-Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
-
-This can be compared to methods addressing existing existing activities like the change laboratory. LATER?
-
-However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
-
-#### Funds of Knowledge within ideocultures
-
-Many studies in the school of research Cole describes above align with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
-
-The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
-
-Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
-
-The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
-
+- expansive learnig -->
 
 
 ### 3GAT and Expansive learning
@@ -528,10 +489,46 @@ Instead of a more technical definition [@engestrom_discursive_2011], following K
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
 
-**CHAT as a broad term used in this study**
+
+
+
+### Activity theory as a Utopian methodology based on foundations of cultural psychology and alignment with broader sociocultural concepts
+
+A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity  [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers.
+
+Cole's approach is often profitably explored  using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
+
+
+#### The focus on mutual cultural appropriation in work between institutionap partners.
+
+Here cultural appropriation is seen as a positive and mutual process between instit
+
+#### Third spaces, idiocultures and designed systems
+
+<!-- Cole's approach can be examined using the 5D case study (later?) -->
+
+Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
+
+This can be compared to methods addressing existing existing activities like the change laboratory. LATER?
+
+However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
+
+#### Funds of Knowledge within ideocultures
+
+Many studies in the school of research Cole describes above align with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
+
+The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
+
+Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
+
+The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
+
+### Terminology - CHAT as a broad term used in this study
 
 CHAT is used in a way to refer to broad approach.
+
 AT to underlying principles.
+
 3GAT to Engeström's more perscriptive interpretation when a distinction is needed.
 
 ## Putting AT to work via interventionist research in educational contexts (via CHAT interventions, formative interventions and DBR)
