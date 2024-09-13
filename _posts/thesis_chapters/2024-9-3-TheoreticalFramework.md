@@ -424,25 +424,35 @@ An important development of conceptual tools to apply activity to authentic lear
 
 Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987; @engestrom_expansive_2001]
 
+
+
+
+
+![](./Pictures/At_dia_5_basic_v1.png){width=90%}
+Figure 3. x - Engeström's representation of community concepts an activity system
+
+The emergence of divisions of labour and rules can be linked to Rogoff's concepts of cultural repertoires [@rogoff_cultural_2003].
+
 EXPAND DESCRIPTION OF THESE ELEMENTS
 
-![](./Pictures/shared_object_engestrom.png){width=90%}
-Figure 3. x - Engeström's concept of expansive learning via a shared object
-
-The recognition of wider activity systems and the bleed of motivations of actors into new systems is represented in Engeström's view of AT as a foundation for interventionist and participatory processes on [@spinuzzi_trying_2020-1]
 
 #### Expansive learning and expanded object
 
-**The concept of the expanding learning can be applied via formative interventions.**
+**The concept of the expanding learning can be applied via formative interventions (explored later)**
+
+The recognition of wider activity systems and the bleed of motivations of actors into new systems is represented in Engeström's view of AT as a foundation for interventionist and participatory processes on [@spinuzzi_trying_2020-1]
 
 The broad AT principle of the need to analyse activity through its transformation forms the base of the concepts of expansive learning.
 
-[@sannino_formative_2016; @engestrom_methodological_2014]
-
+[@sannino_formative_2016] [@engestrom_methodological_2014]
 
 ![](./Pictures/shared_object_engestrom.png){width=90%}
 
 Figure 3. x - Engeström's concept of expansive learning via a shared object
+
+PERHAPS REPLACE WITH UPDATED REPRESENTATION IN CAKIR
+![](./Pictures/expandedobj_incakir.jpg){width=90%}
+
 
 Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.
 [@engestrom_design_2011]
@@ -789,6 +799,13 @@ In addition, it is of note that the formal approach of formative interventions i
 More recently Engeström and colleagues [-@cakir_contradictions_2022] have advocated the advantages of incorporating more rigour of formative interventions to add to DBR, rather that critiquing it wholesale.
 
 Also the bias of reviewers of journals is noted by Bakker [@bakker_design_2018]. As well as problems fitting in the description of design process. SEE OTHER CONCERNS ABOUT DESIGN NARRATIVE.
+
+These concerns of design representation, present also from Engeström on representing design evollution of formative interventions can be addresssed via the form of a design narrative [@hoadley_creating_2002]
+
+The concept of design narrative emerged within DBR as a way to communicate the important detail of context [@hoadley_creating_2002; @brase_knowledge_2024; @bell_theoretical_2004;].
+
+I propose, given the general direction of this chapter and alignment of DBR and CHAT interventions, to augment the existing language of design narratives [@brase_knowledge_2024] with descriptive and analytical tools provided by activity theory.
+
 
 <!-- For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. -->
 
