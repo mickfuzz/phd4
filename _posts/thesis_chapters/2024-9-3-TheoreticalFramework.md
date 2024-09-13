@@ -9,98 +9,125 @@ layout: post
 categories: chapter
 title: 3. Theoretical Framework
 ---
--   [Exploration of the Formative Learning Design
-    Process](#exploration-of-the-formative-learning-design-process)
-    -   [Research Questions - April
-        2024](#research-questions---april-2024)
-    -   [Chapter Introduction](#chapter-introduction)
-    -   [Narrative exploration of
-        contradictions](#narrative-exploration-of-contradictions)
-    -   [C1 - contradictions involving the use of game programming and
-        asset authoring
-        tools](#c1---contradictions-involving-the-use-of-game-programming-and-asset-authoring-tools)
-        -   [The 3D flying bee](#the-3d-flying-bee)
-    -   [Detail of Tool Evloutio based on resolving
-        Conflicts](#detail-of-tool-evloutio-based-on-resolving-conflicts)
-        -   [Use of a Code Playground](#use-of-a-code-playground)
-        -   [Using a starter game
-            template](#using-a-starter-game-template)
-            -   [Variable editing for player
-                movement](#variable-editing-for-player-movement)
-            -   [Level design and
-                prototyping](#level-design-and-prototyping)
-            -   [Use of game assets](#use-of-game-assets)
-            -   [Distributed approach to asset
-                creation](#distributed-approach-to-asset-creation)
-        -   [Observations and discussion on the game template and core
-            tools](#observations-and-discussion-on-the-game-template-and-core-tools)
-            -   [Developing Digital Literacy
-                skills](#developing-digital-literacy-skills)
-            -   [INTEGRAETE ABOVE Tension of a group remixing from one
-                template rather than feeler community inspiration and
-                interaction](#integraete-above-tension-of-a-group-remixing-from-one-template-rather-than-feeler-community-inspiration-and-interaction)
-            -   [Concluding bit](#concluding-bit)
-    -   [C2 - Participant conflict associated with project navigation
-        and use of
-        documentation](#c2---participant-conflict-associated-with-project-navigation-and-use-of-documentation)
-        -   [Narrative on the evolution of resources during
-            P2](#narrative-on-the-evolution-of-resources-during-p2)
-        -   [Quick Start Cards](#quick-start-cards)
-        -   [Code snippet examples](#code-snippet-examples)
-        -   [Structuring instructional tutorial
-            chapters](#structuring-instructional-tutorial-chapters)
-        -   [Theming the a collection of game design patterns to aid
-            navigation](#theming-the-a-collection-of-game-design-patterns-to-aid-navigation)
-    -   [C3 - Responding to tensions and barriers in cultural aspects of
-        the game making
-        activity](#c3---responding-to-tensions-and-barriers-in-cultural-aspects-of-the-game-making-activity)
-        -   [Social coding processes](#social-coding-processes)
-        -   [Playtesting as a cultural
-            process](#playtesting-as-a-cultural-process)
-            -   [Local playtesting rather than participation with a
-                wider online
-                community](#local-playtesting-rather-than-participation-with-a-wider-online-community)
-            -   [Playtesting and the interaction with UMC pedagogy and
-                half-baked games
-                approaches](#playtesting-and-the-interaction-with-umc-pedagogy-and-half-baked-games-approaches)
-            -   [Playtesting facilitating peer
-                encouragement](#playtesting-facilitating-peer-encouragement)
-            -   [Playtesting and embodied participation in the games of
-                others](#playtesting-and-embodied-participation-in-the-games-of-others)
-            -   [Community concepts and norming behaviour emerging
-                during
-                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
-            -   [What kind of Maker are you - Motivations behind social
-                processes (emerging in
-                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
-            -   [Use of side missions to encourage varied creative
-                practices](#use-of-side-missions-to-encourage-varied-creative-practices)
-        -   [Outroduction to this part of exploring Drama process and
-            playtesting](#outroduction-to-this-part-of-exploring-drama-process-and-playtesting)
-    -   [Chapter Discussion](#chapter-discussion)
-    -   [Observations / Discussions on Dimensions of
-        Authenticity](#observations-discussions-on-dimensions-of-authenticity)
-        -   [Observations on Authenticity in project
-            approaches](#observations-on-authenticity-in-project-approaches)
-        -   [The potentially awesome impact of lifting the lid on
-            authentic
-            technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-        -   [Different black boxes for different
-            goals](#different-black-boxes-for-different-goals)
-        -   [Increased scaffolding of tools can increase instrumental
-            agency but at what cost? EXPLORE AS TENSION? MOVE TO CH.
-            4?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost-explore-as-tension-move-to-ch.-4)
-        -   [On the emergent and mutual nature of the design and
-            research process (AND link to
-            agency?](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process-and-link-to-agency)
-        -   [Summary of barriers and tensions explored in this
-            chapter](#summary-of-barriers-and-tensions-explored-in-this-chapter)
-            -   [Exploring tensions involving and authentic tool
-                use](#exploring-tensions-involving-and-authentic-tool-use)
-        -   [Emergence of GDPs as a germ cell of
-            activity](#emergence-of-gdps-as-a-germ-cell-of-activity)
-        -   [Link to next chapter](#link-to-next-chapter)
-    -   [Removed notes from chapter](#removed-notes-from-chapter)
+-   [Theoretical Framework](#theoretical-framework)
+    -   [Research Questions - July
+        2024](#research-questions---july-2024)
+    -   [Introduction](#introduction)
+    -   [Socio-cultural approach](#socio-cultural-approach)
+        -   [A turn away from RCT trials](#a-turn-away-from-rct-trials)
+        -   [Communities of Practice and
+            Learners](#communities-of-practice-and-learners)
+            -   [Community of practices](#community-of-practices)
+            -   [Community of learners](#community-of-learners)
+        -   [Link to next section - DOESN'T SEEM
+            RIGHT.](#link-to-next-section---doesnt-seem-right.)
+    -   [The foundational concepts of activity
+        theory](#the-foundational-concepts-of-activity-theory)
+        -   [History in brief](#history-in-brief)
+        -   [Core AT concepts](#core-at-concepts)
+        -   [Object / objective in activity and varied
+            interpretations](#object-objective-in-activity-and-varied-interpretations)
+        -   [The hierarchical structure of
+            activity](#the-hierarchical-structure-of-activity)
+            -   [Activity, Actions and
+                Operations](#activity-actions-and-operations)
+            -   [Selecting activity systems as units of
+                analysis](#selecting-activity-systems-as-units-of-analysis)
+        -   [On Mediation and internalisation and externalisation of
+            concepts](#on-mediation-and-internalisation-and-externalisation-of-concepts)
+            -   [Mutual process via internalisation and
+                externalisation](#mutual-process-via-internalisation-and-externalisation)
+            -   [Tools as a propagation of
+                cultures](#tools-as-a-propagation-of-cultures)
+            -   [Double stimulation and Affordances - PROBABLY OVERKILL
+                TO BE HERE
+                TOO](#double-stimulation-and-affordances---probably-overkill-to-be-here-too)
+        -   [Development and design](#development-and-design)
+    -   [Exploring key approaches to Activity Theory through the work of
+        Cole and
+        Engeström](#exploring-key-approaches-to-activity-theory-through-the-work-of-cole-and-engeström)
+        -   [Activity theory as a Utopian methodology based on
+            foundations of cultural psychology and alignment with
+            broader sociocultural
+            concepts](#activity-theory-as-a-utopian-methodology-based-on-foundations-of-cultural-psychology-and-alignment-with-broader-sociocultural-concepts)
+            -   [The focus on mutual cultural appropriation in work
+                between institutionap
+                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutionap-partners.)
+            -   [Third spaces, idiocultures and designed
+                systems](#third-spaces-idiocultures-and-designed-systems)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
+        -   [3GAT and Expansive learning](#gat-and-expansive-learning)
+            -   [3GAT, activity systems and new community based
+                concepts](#gat-activity-systems-and-new-community-based-concepts)
+            -   [Expansive learning and expanded
+                object](#expansive-learning-and-expanded-object)
+            -   [The value of surfacing areas of
+                contradictions](#the-value-of-surfacing-areas-of-contradictions)
+    -   [Putting AT to work via interventionist research in educational
+        contexts (via CHAT interventions, formative interventions and
+        DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-chat-interventions-formative-interventions-and-dbr)
+        -   [Alignments and divergences between varied forms of
+            interventionist research based on
+            AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
+        -   [observations to integrate in this
+            section](#observations-to-integrate-in-this-section)
+        -   [Quick overview of formative interventions in
+            education](#quick-overview-of-formative-interventions-in-education)
+            -   [Rising to the Concrete](#rising-to-the-concrete)
+            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
+                MOVE THAT THERE? YES NOW
+                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
+        -   [Formative Interventions compared to Design Based
+            Research](#formative-interventions-compared-to-design-based-research)
+        -   [Outline of the guiding principles and approaches of DBR and
+            formative
+            interventions](#outline-of-the-guiding-principles-and-approaches-of-dbr-and-formative-interventions)
+            -   [Principle : Researcher take and active interventionist
+                approach](#principle-researcher-take-and-active-interventionist-approach)
+            -   [Principle: Mutuality](#principle-mutuality)
+            -   [Principle : Utility of research - overcoming the
+                tension between the rich context and generalisation of
+                results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+        -   [Critiques, development and synthesis within Activity theory
+            approaches - NEEDED HERE? IF NOT
+            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
+            -   [Summary of critiques and challenges in the intersection
+                of DBR and
+                AT](#summary-of-critiques-and-challenges-in-the-intersection-of-dbr-and-at)
+            -   [Existing gaps in concepts &
+                critiques](#existing-gaps-in-concepts-critiques)
+            -   [Alternatives](#alternatives)
+            -   [Synthesis](#synthesis)
+        -   [An operationalised example of Activity Theory concepts in
+            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+    -   [Concepts of agency within
+        CHAT](#concepts-of-agency-within-chat)
+        -   [Agency and AT - big picture in relation to ANT (Latour) and
+            agency of humans and
+            artefacts](#agency-and-at---big-picture-in-relation-to-ant-latour-and-agency-of-humans-and-artefacts)
+        -   [Addressing and disambiguating definitions of agency in
+            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
+            -   [Instrumental and relational
+                agency](#instrumental-and-relational-agency)
+            -   [Dynamically Emergent
+                Agency](#dynamically-emergent-agency)
+            -   [Authorial and transformative
+                agency](#authorial-and-transformative-agency)
+            -   [TAS](#tas)
+            -   [TADS - On double stimulation and
+                agency](#tads---on-double-stimulation-and-agency)
+    -   [Conclusion / Synthesis.](#conclusion-synthesis.)
+        -   [Summary of Justification of choice - and how the RQs align
+            with different
+            concepts](#summary-of-justification-of-choice---and-how-the-rqs-align-with-different-concepts)
+            -   [Signposting where concepts are used in the thesis (in
+                relation to
+                RQs)](#signposting-where-concepts-are-used-in-the-thesis-in-relation-to-rqs)
+            -   [The role of AT in the analysis of HCI -
+                MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
+    -   [Parked to replace or remove or
+        rework](#parked-to-replace-or-remove-or-rework)
 
 # Theoretical Framework
 
@@ -207,17 +234,23 @@ Teachers benefit from the concept of scaffolding, and designing learning environ
 
 <!-- This has been applied in various forms, PBL, apprenticeship models, for example have guided participation as a base via different forms of scaffolding.  -->
 
-**3 planes - perhaps just guided participation? or 3 aspects and 3 planes next chapter**
+**3 planes - perhaps just guided participation? or 3 aspects and 3 planes next chapter -OR VIA PUTTING TO WORK**
 Following the approach of Morcom [@morcom_scaffolding_2014] Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
 This is drawn on as a method in a way explained in Chapter 4.
 
 
-### Link to next section - DOESN'T SEEM RIGHT.
+### Link to next section -
+
+DOESN'T SEEM RIGHT.
+ADD IN MORE FOCUSED SUMMARY? OR MOVE? SIGNPOST TO LATER EXPLORATION?
+HOW DOES ROGOFF FIT IN THIS? 
 
 There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .
  [@laveSituatedLearningLegitimate1991]
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study as it is a sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
+
+I take a broad approach to applying activity theory, drawing on 3GAT, with its attendance to systemic analysis and particular techniques and understandings of agency, the work of Cole and the importance of institutional mutuality, and the work of Rogoff in particular the attention paid to _linguistic and cultural-historical repertoires_ [@rogoff_cultural_2003]
 
 ## The foundational concepts of activity theory
 
@@ -233,26 +266,16 @@ Before outlining these concepts a short history places them in context.
 Vygotsky drew on Marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective or object [@luriia1976cognitive].
 Human endeavour and change is based on activity and the subject of that activity is understood as the person or people driving it.
 
-Vygotsky formulated the conception of the relation between subject, object and tools into a triadic relationship.
-
 Vygotsky also held context as vital to development,
 For even individual activities take place in the context of a culture. (objectives can be )
+
+Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996]. The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. The vital role of cultural mediation in development [@cole_beyond_1996-1] situating learning pedagogies as form of meditational strategy.
 
 For example the use of tools as objects, concepts which facilitate and constituent cultural participation.
 
 The role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
 
-Of particular relevance to this study is the situating of pedagogies as a meditational strategy.
-
 <!-- ![](./Pictures/At_dia_6_basicer_v1.png){width=90%} -->
-
-Vygotsky's student Leontiev developed to extend the triadic conception of activity to include  key cultural aspects of the activity in question, specifically those of a characterisation later represented as an extended trianle shown in Fig 5.x [@engestrom_learning_1987]
-
-![](./Pictures/At_dia_5_basic_v1.png){width=90%}
-
-Fig. 5.x Leontiev's conception of Activity [@engestrom_learning_1987]
-
-Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996]. The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. The vital role of cultural mediation in development [@cole_beyond_1996-1] situating learning pedagogies as form of meditational strategy.
 
 
 SIGN POST IF AND HOW THESE ARE EXPLORED LATER.
@@ -266,6 +289,14 @@ While this study is on community activity, some of the concepts and tools of AT 
 
 ### Object / objective in activity and varied interpretations
 
+A starting  point in the exploration of key concepts of AT is Vygotsky formulation of the conception of the relation between subject, object and tools into a triadic relationship. [@engestrom_learning_1987] See fig 3.x below.
+
+Vygotsky's student Leontiev developed this theory (HOW)
+
+
+![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
+Fig. 3.x essential conception of Activity
+
 While the materialist language of Marxism has led some descriptions to focus on the object as the physical object that is being worked on and transformed by the activity, conceptual objects are also included in this concepts. Thus an object can comprise a physical object but is best understood within the context of wider motivation, for in many complex environments when more than one physical or conceptual object is at play.
 
 <!-- Because of the complexity of objects being acted on in this study, I use favour the second interpretation by default in this writing.  In other words using the purpose or driving goal of the activity as synonym for object.  -->
@@ -274,7 +305,28 @@ Paying attention to the objective of AT systems is important as it helping to di
 
 It also helps identify conflicts between the stated objective of the system and the actual objective of participants.
 
-This concepts is also helped by understanding activity as a hierarchy.
+LINK TO MEDIATION
+
+### On Mediation and internalisation and externalisation of concepts
+
+Of particular relevance to this study is the situating of pedagogies as a meditational strategy.
+
+The concept of tools here is broad including language, physical tools and representational concepts.  
+
+The overall view of learning is seen as highly mediated by these cultural tools.
+
+MORE ON MEDIATION
+
+#### Mutual process  via internalisation and externalisation
+
+The process of mediation through the use of conceptual tools is seen as mutual through the process of in  .  
+
+Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
+
+#### Tools as a propagation of cultures
+
+Tools are a product of adaptation and hold within them an evolution of culture.
+
 
 ### The hierarchical structure of activity
 
@@ -336,25 +388,8 @@ IS THE RATIONALE ALIGNED WITH THE IMPORTANCE OF OBJECTIVE?
 <!-- At this scope, for participants implementing . -->
 
 
-### On Mediation and internalisation and externalisation of concepts
-
-The concept of tools here is broad including language, physical tools and representational concepts.  The overall view of learning is seen as highly mediated by these cultural tools.
 
 
-#### Mutual process  via internalisation and externalisation
-
-The process of mediation through the use of conceptual tools is seen as mutual through the process of in  .  
-
-Learners are actively processing and make sense of the world by both appropriating cultural learning and by contributing back into shared cultural understandings of the world.
-
-#### Tools as a propagation of cultures
-
-Tools are a product of adaptation and hold within them an evolution of culture.
-
-
-#### Double stimulation and Affordances - PROBABLY OVERKILL TO BE HERE TOO
-
-There is a link between double stimulation and affordances [@romero_analysing_2022]
 
 
 ### Development and design
