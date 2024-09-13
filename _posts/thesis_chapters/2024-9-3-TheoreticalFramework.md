@@ -246,7 +246,7 @@ ADD IN MORE FOCUSED SUMMARY? OR MOVE? SIGNPOST TO LATER EXPLORATION?
 HOW DOES ROGOFF FIT IN THIS?
 
 There are a range of valid methodological approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .
- [@laveSituatedLearningLegitimate1991]
+ [@lave_situated_1991]
 
 I have chosen to use activity theory as a base for the the theoretical framework of this study as it is a sociocultural approach which goes beyond a conception of transmission model of learning and embraces learning in context.
 
@@ -263,17 +263,19 @@ Before outlining these concepts a short history places them in context.
 
 ### History in brief
 
+For more history also see [@sannino_learning_2009, p. 5]
+
 Vygotsky drew on Marxist conceptions of activity to describe the importance of mediation via objects and concepts by the learning subject to active an objective or object [@luriia1976cognitive].
 Human endeavour and change is based on activity and the subject of that activity is understood as the person or people driving it.
 
 Vygotsky also held context as vital to development,
 For even individual activities take place in the context of a culture. (objectives can be )
 
-Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996]. The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. The vital role of cultural mediation in development [@cole_beyond_1996-1] situating learning pedagogies as form of meditational strategy.
+Historically AT had limited take up in western academia before Cole's translations of Vygotsky and work to bring some of the foundational concepts into an educational psychology setting, aligning them with a broader social turn in psychology, explored as cultural psychology [@cole_cultural_1996]. The work in this field by scholars such as Wertsch and Cole places community and context as vital in studies of learning. The vital role of cultural mediation in development [@cole_beyond_1996] situating learning pedagogies as form of meditational strategy.
 
 For example the use of tools as objects, concepts which facilitate and constituent cultural participation.
 
-The role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996-1; @cole_culture_1995].
+The role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996; @cole_culture_1995].
 
 <!-- ![](./Pictures/At_dia_6_basicer_v1.png){width=90%} -->
 
@@ -289,7 +291,7 @@ While this study is on community activity, some of the concepts and tools of AT 
 
 ### Object / objective in activity and varied interpretations
 
-A starting  point in the exploration of key concepts of AT is Vygotsky formulation of the conception of the relation between subject, object and tools into a triadic relationship. [@engestrom_learning_1987] See fig 3.x below.
+A starting  point in the exploration of key concepts of AT is Vygotsky formulation of the conception of the relation between subject, object and tools into a triadic relationship. [@engestrom_learning_1987-1] See fig 3.x below.
 
 Vygotsky's student Leontiev developed this theory (HOW)
 
@@ -343,20 +345,10 @@ The concept of fluency is key to this study, as such it is important to be able 
 
 #### Selecting activity systems as units of analysis
 
-Early conceptions of activity theory by Vygotsky and Leontiev are built on Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity can be conceived as iterations or instances of underlying germ cell concepts (example commodity and exchange in Capital). The work of Blunden [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023] provides as comprehensive justification the utility of the process of finding a germ cell/ unit of analysis in relation to collaborative projects.
+Blunden [@blunden_germ_2014] emphasises the utility of the process of finding an appropriate unit of analysis in relation to collaborative projects. While this concept is explored in more depth later, for now the its importance can be explained in a he
 
-He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
 
-<!-- Mid-level construct of design / patterns heuristics [] -->
-
-    ... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised. [@blunden_unit_2020]
-
-In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth.
-
-MOVE TO IMPLEMENTATION LATER
-RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Ch. 6 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
-
-Turning to the developmental aspect, a granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002].
+A granular exploration of the tensions and processes at work in a complex educational environment can via identifying emerging barriers and responses to comprehension, communication and practical barriers to implementing design challenges facilitates replicability of research and supports its potential value to other practitioners [@barab_using_2002]. Thus, in Barab's research this is used as a justification for using a smaller activity system.
 
 **Concl?**
 In Chapters 5 and 6 GDPs are explored as a developmental, germ cell concept in practical terms.
@@ -421,12 +413,9 @@ An important development of conceptual tools to apply activity to authentic lear
 
 #### 3GAT, activity systems and new community based concepts  
 
+Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987-1].
 
-Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987; @engestrom_expansive_2001]
-
-
-
-
+For example.
 
 ![](./Pictures/At_dia_5_basic_v1.png){width=90%}
 Figure 3. x - Engeström's representation of community concepts an activity system
@@ -454,11 +443,14 @@ PERHAPS REPLACE WITH UPDATED REPRESENTATION IN CAKIR
 ![](./Pictures/expandedobj_incakir.jpg){width=90%}
 
 
-Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.
+"Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.""
 [@engestrom_design_2011]
 
-REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT and the the role of the unit of activity in rising to the concrete and thus expanding learning
- [@sannino_formative_2016; @engestrom_methodological_2014]
+EDIT THIS DOWN
+
+REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT? OR MOVE UP TO AT CORE CONCEPTS? OR MOVE SOME DOWN?
+
+
 
 
 #### The value of surfacing areas of contradictions
@@ -509,7 +501,7 @@ A strand of activity theory perhaps best typified by the pioneering work of Mich
 Cole's approach is often profitably explored  using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
 
 
-#### The focus on mutual cultural appropriation in work between institutionap partners.
+#### The focus on mutual cultural appropriation in work between institutional partners.
 
 Here cultural appropriation is seen as a positive and mutual process between instit
 
@@ -617,11 +609,30 @@ Engeström in reply to this proposition [@engestrom_methodological_2014], for la
 
 #### Rising to the Concrete
 
+
 The concept of germ cell and unit of analysis.  
+
+In Engeström's concept of expansive learning and the role of germ cell in rising to the concrete is crucial [@sannino_formative_2016; @engestrom_methodological_2014]. The concept, which can be trace the concept back to the Marxist tradition, bears exploration.
+
+Early conceptions of activity theory by Vygotsky and Leontiev are built on Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity can be conceived as  instances and interations of underlying germ cell concepts (example commodity and exchange in Capital).
+
+
+The work of Blunden [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023] provides as comprehensive justification the utility of the process of finding a germ cell/ unit of analysis in relation to collaborative projects.
+
+He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
+
+<!-- Mid-level construct of design / patterns heuristics [] -->
+
+    ... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised. [@blunden_unit_2020]
+
+In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth.
+
+MOVE TO IMPLEMENTATION LATER
+RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms. To do this Ch. 6 has a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study.
+
 
 Question how applicable this is to all research based on AT.
 
-Trace the concept back to the Marxist tradition.
 
 Suggest that this may be a dogmatic response. Note that Engeström and Sannino give no suggestion on how that may be achieved in the work of Penuel.
 
@@ -800,9 +811,9 @@ More recently Engeström and colleagues [-@cakir_contradictions_2022] have advoc
 
 Also the bias of reviewers of journals is noted by Bakker [@bakker_design_2018]. As well as problems fitting in the description of design process. SEE OTHER CONCERNS ABOUT DESIGN NARRATIVE.
 
-These concerns of design representation, present also from Engeström on representing design evollution of formative interventions can be addresssed via the form of a design narrative [@hoadley_creating_2002]
+These concerns of design representation, present also from Engeström on representing design evollution of formative interventions can be addresssed via the form of a design narrative [@hoadley_creating_2002-1]
 
-The concept of design narrative emerged within DBR as a way to communicate the important detail of context [@hoadley_creating_2002; @brase_knowledge_2024; @bell_theoretical_2004;].
+The concept of design narrative emerged within DBR as a way to communicate the important detail of context [@hoadley_creating_2002-1; @brase_knowledge_2024; @bell_theoretical_2004].
 
 I propose, given the general direction of this chapter and alignment of DBR and CHAT interventions, to augment the existing language of design narratives [@brase_knowledge_2024] with descriptive and analytical tools provided by activity theory.
 
