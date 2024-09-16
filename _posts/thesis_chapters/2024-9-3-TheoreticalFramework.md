@@ -290,50 +290,34 @@ While this study is on community activity, some of the concepts and tools of AT 
 
 ### Object / objective in activity and varied interpretations
 
-A starting  point in the exploration of key concepts of AT is Vygotsky formulation of the conception of the relation between subject, object and tools into a triadic relationship. [@engestrom_learning_1987-1] See fig 3.x below.
-
-Vygotsky's student Leontiev developed this theory (HOW)
-
+A starting  point in the exploration of key concepts of AT is Vygotsky formulation of the conception of activity the relation between subject, object and tools. This relationship was developed by Vygotsky's student Leontiev into a triadic relationship. [@engestrom_learning_1987-1] See fig 3.x below.
 
 ![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
 Fig. 3.x essential conception of Activity
 
-While the materialist language of Marxism has led some descriptions to focus on the object as the physical object that is being worked on and transformed by the activity, conceptual objects are also included in this concepts. Thus an object can comprise a physical object but is best understood within the context of wider motivation, for in many complex environments when more than one physical or conceptual object is at play.
+While the materialist focus of the Marxist root of this conception has led some descriptions to focus on the object as the physical object that is being worked on and transformed by the activity, conceptual objects are also included in Vygotsky's theory. Thus an object is best understood within the context of wider motivation or objective. Indeed, in many complex environments more than one physical or conceptual object is at play. Paying attention to the objective of AT systems is important as it helping to differentiate the scope of activity systems [barab? / blunden].  
 
-<!-- Because of the complexity of objects being acted on in this study, I use favour the second interpretation by default in this writing.  In other words using the purpose or driving goal of the activity as synonym for object.  -->
+<!-- It also helps identify conflicts between the stated objective of the system and the actual objective of participants. -->
 
-Paying attention to the objective of AT systems is important as it helping to differentiate the scope of activity systems. Example?
+In activity theory, subject and object are presented beyond a dualism which treats the individual and the societal object as distinct entities. Instead a core relationship of a triad including tools which mediate activity.
 
-It also helps identify conflicts between the stated objective of the system and the actual objective of participants.
+**On Mediation**
 
-LINK TO MEDIATION
+The concept of mediation via tools is of particular relevance to this study as learning is seen as highly mediated by varied forms of tool use. Vygotsky's concept of tools here is broad including language, physical tools and representational concepts [@cole_mind_1978]. Physical, digital and conceptual tools evolve as a product of the experience of others in society and are thus a product of adaptation, containing within then evidence evolutionary processes of culture.
 
-### On Mediation
+This study situates pedagogies as forms of meditational strategy which can be drawn on by both facilitators and learners [@donato_sociocultural_1994; @gutierrez_re-mediating_2009].
 
-Of particular relevance to this study is the situating of pedagogies as a meditational strategy.
+**Mutual process via internalisation and externalisation**
 
-The concept of tools here is broad including language, physical tools and representational concepts.  
-
-The overall view of learning is seen as highly mediated by these cultural tools.
-
-MORE ON MEDIATION -
-
-#### Mutual process  via internalisation and externalisation
-
-For Vygotsky, the process of mediation through the use of conceptual tools is seen as through mutual and inseparable process of internalisation and externalisation of activity [@kaptelinin_activity_1995-1]. Learners are actively processing and make sense of the world by both appropriating cultural learning from cultural practices and then by contributing back into shared cultural understandings of the world.
+For Vygotsky, the process of mediation via conceptual tools is examined through mutual processes of internalisation and externalisation of activity [@kaptelinin_activity_1995-1]. Learners are actively processing and make sense of the world by both appropriating cultural learning from cultural practices and then by contributing back into shared cultural understandings of the world.
 
 This two way process is well described in learning context by Rogoff via a personal process she calls participatory appropriation [@rogoff_observing_1995]. Here Rogoff situates Vygotsky's concept of appropriation beyond an internalisation of external concepts experienced in society, as an ongoing and reciprocal contribution to practices and concepts in-situ. This distinction is important as a refutation of transmission based models of learning.
 
 Rogoff also cites this personal dimension as one key plane of three important in the study of community activity.    
 
-    "Inherent to the participatory appropriation view is the mutual constitution of personal, interpersonal, and cultural processes, with development involving all planes of focus in sociocultural activity" [@rogoff_observing_1995, p.154]. 
+    "Inherent to the participatory appropriation view is the mutual constitution of personal, interpersonal, and cultural processes, with development involving all planes of focus in sociocultural activity" [@rogoff_observing_1995, p.154].
 
 These planes are explored in a later section of this chapter.
-
-#### Tools as a propagation of cultures
-
-Tools are a product of adaptation and hold within them an evolution of culture.
-
 
 ### The hierarchical structure of activity
 
@@ -447,16 +431,12 @@ Figure 3. x - Engeström's concept of expansive learning via a shared object
 PERHAPS REPLACE WITH UPDATED REPRESENTATION IN CAKIR
 ![](./Pictures/expandedobj_incakir.jpg){width=90%}
 
-
 "Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.""
 [@engestrom_design_2011]
 
 EDIT THIS DOWN
 
 REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT? OR MOVE UP TO AT CORE CONCEPTS? OR MOVE SOME DOWN?
-
-
-
 
 #### The value of surfacing areas of contradictions
 
@@ -494,9 +474,6 @@ Instrumental agency is relevant here to help examine and the work of learning de
 Instead of a more technical definition [@engestrom_discursive_2011], following Kuuti [-@kuutti_activity_1995], this study adopts  contradictions as a broader definition encompassing concepts of tensions, barriers, breakdowns, conflicts.
 
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
-
-
-
 
 
 ### Activity theory as a Utopian methodology based on foundations of cultural psychology and alignment with broader sociocultural concepts
