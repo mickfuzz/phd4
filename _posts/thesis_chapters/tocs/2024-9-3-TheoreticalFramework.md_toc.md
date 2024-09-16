@@ -2,50 +2,29 @@
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [Socio-cultural approach](#socio-cultural-approach)
-        -   [A turn away from RCT trials](#a-turn-away-from-rct-trials)
-        -   [Communities of Practice and
-            Learners](#communities-of-practice-and-learners)
-            -   [Community of practices](#community-of-practices)
-            -   [Community of learners](#community-of-learners)
-        -   [Link to next section - DOESN'T SEEM
-            RIGHT.](#link-to-next-section---doesnt-seem-right.)
+    -   [The social turn](#the-social-turn)
+        -   [Link to next section -](#link-to-next-section--)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
         -   [History in brief](#history-in-brief)
         -   [Core AT concepts](#core-at-concepts)
         -   [Object / objective in activity and varied
             interpretations](#object-objective-in-activity-and-varied-interpretations)
-        -   [The hierarchical structure of
-            activity](#the-hierarchical-structure-of-activity)
-            -   [Activity, Actions and
-                Operations](#activity-actions-and-operations)
-            -   [Selecting activity systems as units of
-                analysis](#selecting-activity-systems-as-units-of-analysis)
         -   [On Mediation and internalisation and externalisation of
             concepts](#on-mediation-and-internalisation-and-externalisation-of-concepts)
             -   [Mutual process via internalisation and
                 externalisation](#mutual-process-via-internalisation-and-externalisation)
             -   [Tools as a propagation of
                 cultures](#tools-as-a-propagation-of-cultures)
-            -   [Double stimulation and Affordances - PROBABLY OVERKILL
-                TO BE HERE
-                TOO](#double-stimulation-and-affordances---probably-overkill-to-be-here-too)
+        -   [The hierarchical structure of
+            activity](#the-hierarchical-structure-of-activity)
+            -   [Activity, Actions and
+                Operations](#activity-actions-and-operations)
+            -   [Selecting activity systems as units of
+                analysis](#selecting-activity-systems-as-units-of-analysis)
         -   [Development and design](#development-and-design)
-    -   [Exploring key approaches to Activity Theory through the work of
-        Cole and
-        Engeström](#exploring-key-approaches-to-activity-theory-through-the-work-of-cole-and-engeström)
-        -   [Activity theory as a Utopian methodology based on
-            foundations of cultural psychology and alignment with
-            broader sociocultural
-            concepts](#activity-theory-as-a-utopian-methodology-based-on-foundations-of-cultural-psychology-and-alignment-with-broader-sociocultural-concepts)
-            -   [The focus on mutual cultural appropriation in work
-                between institutionap
-                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutionap-partners.)
-            -   [Third spaces, idiocultures and designed
-                systems](#third-spaces-idiocultures-and-designed-systems)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
+    -   [Strands of emerging variations of Activity
+        Theory](#strands-of-emerging-variations-of-activity-theory)
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
             -   [3GAT, activity systems and new community based
                 concepts](#gat-activity-systems-and-new-community-based-concepts)
@@ -53,6 +32,20 @@
                 object](#expansive-learning-and-expanded-object)
             -   [The value of surfacing areas of
                 contradictions](#the-value-of-surfacing-areas-of-contradictions)
+        -   [Activity theory as a Utopian methodology based on
+            foundations of cultural psychology and alignment with
+            broader sociocultural
+            concepts](#activity-theory-as-a-utopian-methodology-based-on-foundations-of-cultural-psychology-and-alignment-with-broader-sociocultural-concepts)
+            -   [The focus on mutual cultural appropriation in work
+                between institutional
+                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutional-partners.)
+            -   [Third spaces, idiocultures and designed
+                systems](#third-spaces-idiocultures-and-designed-systems)
+            -   [Funds of Knowledge within
+                ideocultures](#funds-of-knowledge-within-ideocultures)
+            -   [Community of learners](#community-of-learners)
+        -   [Terminology - CHAT as a broad term used in this
+            study](#terminology---chat-as-a-broad-term-used-in-this-study)
     -   [Putting AT to work via interventionist research in educational
         contexts (via CHAT interventions, formative interventions and
         DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-chat-interventions-formative-interventions-and-dbr)
