@@ -277,7 +277,7 @@ In terms of development, activity theory views activity as constantly evolving w
 
 ## Strands of emerging variations of Activity Theory
 
-As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts within these strands of activity of third generation activity theory (3GAT), and mutual appropriation .
+As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts within two broad strands of activity. The first is that of third generation activity theory (3GAT), centred around the work of Engeström and colleagues in Finland. The second is a more loosely grouped strand stemming from the work of Michael Cole and colleagues drawing on a tradition of American pragmatism within the context of the community of learning sciences researchers. It includes concepts of funds of knowledge, ideocultures and communities of learners which are relevant to this study. 
 
 ### 3GAT and Expansive learning
 
