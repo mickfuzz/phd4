@@ -277,15 +277,7 @@ In terms of development, activity theory views activity as constantly evolving w
 
 ## Strands of emerging variations of Activity Theory
 
-As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts and their utility to this study (DO I) with the context of these strands  
-
-<!-- MOVE SOME OF THESE
-- tensions between system elements
-- double stimulation  
-- ideocultures and
-- mutual appropriation.  
-- expansive learnig -->
-
+As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts within these strands of activity of third generation activity theory (3GAT), and mutual appropriation .
 
 ### 3GAT and Expansive learning
 
@@ -302,6 +294,7 @@ For example.
 Figure 3. x - Engeström's representation of community concepts an activity system
 
 The emergence of divisions of labour and rules can be linked to Rogoff's concepts of cultural repertoires [@rogoff_cultural_2003].
+LATER?
 
 EXPAND DESCRIPTION OF THESE ELEMENTS
 
@@ -370,9 +363,9 @@ In the following chapters I focus on tensions which help explore the research qu
 
 ### Activity theory as a Utopian methodology based on foundations of cultural psychology and alignment with broader sociocultural concepts
 
-A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity  [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American antropological  approaches and those of USSR researchers.
+A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American antropological approaches and those of USSR researchers.
 
-Cole's approach is often profitably explored  using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
+Cole's approach is often profitably explored using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
 
 
 #### The focus on mutual cultural appropriation in work between institutional partners.
