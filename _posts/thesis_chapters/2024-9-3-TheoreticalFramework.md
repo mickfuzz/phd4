@@ -21,6 +21,8 @@ title: 3. Theoretical Framework
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
+            -   [Rising to the Concrete](#rising-to-the-concrete)
+            -   [Double stimulation](#double-stimulation)
     -   [Other strands of research based on activity
         theory](#other-strands-of-research-based-on-activity-theory)
         -   [Interventionist and utopian approaches involving broader
@@ -45,10 +47,6 @@ title: 3. Theoretical Framework
         -   [formative intervention research as an inclusive term for
             CHAT- informed education
             intervention](#formative-intervention-research-as-an-inclusive-term-for-chat--informed-education-intervention)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
-            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
-                MOVE THAT THERE? YES NOW
-                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
         -   [Formative Interventions compared to Design Based
             Research](#formative-interventions-compared-to-design-based-research)
         -   [Outline of the guiding principles and approaches of DBR and
@@ -331,19 +329,85 @@ The term formative intervention (FI) has its roots in  Cole and Engeström's exp
 
 A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007].
 
-The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+The CL interventions takes the form of a series of workshops with stakeholders important in the workplace setting with the researchers act as facilitators of the process. The structural model of 3GAT is used as a tool to identify, analyse and provoke reflection on current workplace practices and dynamics and to facilitate discussion on possible actions to enact change. The CL processes suits a formal, relatively stable workplace where there are existing concepts of community, division of labour and existing norms are readily identifies.
 
-Formative interventions have taken other forms that have been used or endorsed by Engeström's team in Helsinki in the CRADLE project [@engestrom_expansive_2022]. Another form of FI relevant to this study is that of the Learning Lab which is represented above in Fig.3.x  [@cakir_contradictions_2022; @bal2011culturally]
+Another form of FI relevant to this study is that of the Learning Lab which is represented above in Fig.3.x  [@cakir_contradictions_2022; @bal2011culturally].  While Learning Lab takes place in a context of a school environment, interventions retain the form of stakeholder workshops. For more on formative interventions have taken other forms that have been used or endorsed by Engeström's team in Helsinki team see [@engestrom_expansive_2022].
 
-Learning Lab takes place in
+Cole and Engeström's exploration of two models of formative interventions [@valsiner_cultural-historical_2007] concludes that while the methodology aligns with key principles of AT, there are practical changes in aligning with perceived rigour of social science given the changing environmental factors and lack of standardised tests. It also notes issues of financing such lengthy and repeated interventions in the experimental process and the challenge the status quo, and thus those that might fund such research, by developing the agency of workers and learners.
+
+Cole notes the need to align research interventions with the ongoing aims of educational or community parters to maximise their ongoing sustainability beyond research period [@valsiner_cultural-historical_2007; @cole_fifth_2006]. To illustrate this point he describes a model of formative intervention in the form of an after school programme called the 5th Dimension. In a following section, this case study is used as a starting point for a comparison of different approaches to interventions based on CHAT.  Penuel [-@penuel_emerging_2014] proposes the formative intervention research as a useful term to encapsulate a variation of process closely aligned with CHAT including those drawing on elements of DBR. In reply, Engeström resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@engestrom_methodological_2014]. The following section addresses these concerns.
 
 
-MOVE LATER?
-A key (concluding) text here is Cole and Engeström's exploration of two models of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]. The final section concludes that while the methodology aligns with key principles of AT, there are practical changes in aligning with perceived rigour of social science given the changing environmental factors and lack of standardised tests. It also notes issues of financing such lengthy and repeated interventions in the experimental process and the challenge the status quo, and thus those that might fund such research, by developing the agency of workers and learners.
+#### Rising to the Concrete
 
-By way of comparison. Cole's strand of CHAT interventions, being more focused on school related interventions, has remained open to some of the innovations and strands of DBR.
+The concept of germ cell and unit of analysis.  
 
-The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process.
+In Engeström's concept of expansive learning and the role of germ cell in rising to the concrete is crucial [@sannino_formative_2016; @engestrom_methodological_2014]. The concept, which can be trace the concept back to the Marxist tradition, bears exploration.
+
+Early conceptions of activity theory by Vygotsky and Leontiev are built on Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity can be conceived as  instances and interations of underlying germ cell concepts (example commodity and exchange in Capital).
+
+
+The work of Blunden [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023] provides as comprehensive justification the utility of the process of finding a germ cell/ unit of analysis in relation to collaborative projects.
+
+He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
+
+<!-- Mid-level construct of design / patterns heuristics [] -->
+
+    ... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised. [@blunden_unit_2020]
+
+In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth.
+
+HOWEVER,
+It appears valid to question how applicable is Engeström application of this concepts to all research based on AT, given the consistency of application in AT papers,
+
+It is not at all clear how to achieve this in more rapidly changing situations where actors from different activity systems. For example, Engeström and Sannino give no suggestion on how that may be achieved when critiquing the interpretations of Penuel.
+
+While this strict interpretation is seen as important by Engestrom for x reason - monasim?
+
+This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.  
+
+However, given this interpretation, this study does aim for a full application of this concept in analysis, an ambition of which the limits are explored in the conclusion.
+
+#### Double stimulation   
+
+IF EXPLORING TADS LATER - WHAT ABOUT MOVE THAT THERE?
+PERHAPS MOVE SOME?
+
+Exploration of  contradictions in joint activity through method of double stimulation
+
+Double stimulation refers to the use of tools and processes to overcome such conflicts. Engeström's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
+EXPAND ON THIS
+
+While the core concept stems from object based psychological experiments, the "extension of this idea to collective behaviour with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492].  
+
+This jump allowed a reframing of double stimulation as  the first stimulus as _the problem itself_ [@engestrom_methodological_2014] and a potential series of secondary stimuli be presented as part of intervention.
+
+
+Engeström's initial description of DS, which does appear to be a series on introduced meditational stimuli evolves based on initial research. Engeström and Sannino posit that the process is active and goes beyond simple mediation via existing tools, instead stimuli, either presented as suggested tools or discovered in the environment, are actively imbued with meaning by the participants through transformation [@engestrom_methodological_2014]. This process is complex "Most likely the initially given potential second stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
+
+This research depicts wider constellations of activity systems working together on shared project [@cakir_contradictions_2022].
+
+attributing DS a crucial role in to participants development of agency [@sannino_formative_2016].
+
+Thus Sannino cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2],
+
+
+Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation see auxiliary stimulation as triggers for will and agency in participants. [@hopwood2023motives]
+
+An example would be a form of intervention via planned (by researchers / facilitators) forms of stimuli in the work place to stimulate (first stimulus) and then record and reflect on the emerging discussion.
+
+
+EXAMPLES MOVE LATER?
+One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] t
+
+Another to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
+USE AS A CHANCE TO COMPARE?
+
+In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
+
+
+
+<!-- The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process. -->
 
 ## Other strands of research based on activity theory  
 
@@ -447,74 +511,7 @@ Penuel [-@penuel_emerging_2014], in an attempt to summarise differences between 
 
 
 
-MOVE LATER
-Penuel [-@penuel_emerging_2014] proposes the formative intervention research as a useful term to encapsulate a DBR process closely aligned with CHAT. He was both praised for bringing some of the 3GAT processes into DBR domain.
 
-Engeström in reply to this proposition [@engestrom_methodological_2014], for lack of clear articulation of double stimulation and agency within the framework of a narrow interpretation of Engeström and Sannino's current understanding of these concepts. He comes across as a bit nitpicky.
-
-#### Rising to the Concrete
-
-The concept of germ cell and unit of analysis.  
-
-In Engeström's concept of expansive learning and the role of germ cell in rising to the concrete is crucial [@sannino_formative_2016; @engestrom_methodological_2014]. The concept, which can be trace the concept back to the Marxist tradition, bears exploration.
-
-Early conceptions of activity theory by Vygotsky and Leontiev are built on Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity can be conceived as  instances and interations of underlying germ cell concepts (example commodity and exchange in Capital).
-
-
-The work of Blunden [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023] provides as comprehensive justification the utility of the process of finding a germ cell/ unit of analysis in relation to collaborative projects.
-
-He describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
-
-<!-- Mid-level construct of design / patterns heuristics [] -->
-
-    ... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised. [@blunden_unit_2020]
-
-In this thesis, as a designer / researcher and practitioner both aspects are relevant. Examining the analytical aspect, the process of seeking and defining a key activity scope/unit for analysis helps define useful boundaries of what to analyse in depth.
-
-HOWEVER,
-It appears valid to question how applicable is Engeström application of this concepts to all research based on AT, given the consistency of application in AT papers,
-
-It is not at all clear how to achieve this in more rapidly changing situations where actors from different activity systems. For example, Engeström and Sannino give no suggestion on how that may be achieved when critiquing the interpretations of Penuel.
-
-While this strict interpretation is seen as important by Engestrom for x reason - monasim?
-
-This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.  
-
-However, given this interpretation, this study does aim for a full application of this concept in analysis, an ambition of which the limits are explored in the conclusion.
-
-#### Double stimulation   IF EXPLORING TADS LATER - WHAT ABOUT MOVE THAT THERE? YES NOW REINTEGRATE
-
-Exploration of  contradictions in joint activity through method of double stimulation
-
-Double stimulation refers to the use of tools and processes to overcome such conflicts. Engeström's early work on formative interventions sets out the importance the concept of double stimulation  [@valsiner_cultural-historical_2007].
-EXPAND ON THIS
-
-While the core concept stems from object based psychological experiments, the "extension of this idea to collective behaviour with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492].  
-
-This jump allowed a reframing of double stimulation as  the first stimulus as _the problem itself_ [@engestrom_methodological_2014] and a potential series of secondary stimuli be presented as part of intervention.
-
-
-Engeström's initial description of DS, which does appear to be a series on introduced meditational stimuli evolves based on initial research. Engeström and Sannino posit that the process is active and goes beyond simple mediation via existing tools, instead stimuli, either presented as suggested tools or discovered in the environment, are actively imbued with meaning by the participants through transformation [@engestrom_methodological_2014]. This process is complex "Most likely the initially given potential second stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
-
-This research depicts wider constellations of activity systems working together on shared project [@cakir_contradictions_2022].
-
-attributing DS a crucial role in to participants development of agency [@sannino_formative_2016].
-
-Thus Sannino cautions 'double stimulation cannot be subsumed to the general idea of mediation by symbolic tools' [-@sannino_principle_2015, p.2],
-
-
-Sannino's [@sannino_principle_2015] work on the volitional aspect of the process of double stimulation see auxiliary stimulation as triggers for will and agency in participants. [@hopwood2023motives]
-
-An example would be a form of intervention via planned (by researchers / facilitators) forms of stimuli in the work place to stimulate (first stimulus) and then record and reflect on the emerging discussion.
-
-
-EXAMPLES MOVE LATER?
-One example in an educational settings is the use of a Change Laboratory methodology [@engestrom_putting_2007] t
-
-Another to  intervene in kindergarten educational process and organising structure [@rajala_utopian_2023].
-USE AS A CHANCE TO COMPARE?
-
-In research on the use of wiki technology by students Lund and Ramussen [-@lund_right_2008-1] caution against mismatches between the first and second stimulus; interpreting project tasks or objectives as the first stimuli, and the tools used to the as secondary stimuli. They also outline the importance of awareness of the likelihood of multiple stimuli in modern technical working environments.
 
 
 

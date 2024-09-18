@@ -10,6 +10,8 @@
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
+            -   [Rising to the Concrete](#rising-to-the-concrete)
+            -   [Double stimulation](#double-stimulation)
     -   [Other strands of research based on activity
         theory](#other-strands-of-research-based-on-activity-theory)
         -   [Interventionist and utopian approaches involving broader
@@ -34,10 +36,6 @@
         -   [formative intervention research as an inclusive term for
             CHAT- informed education
             intervention](#formative-intervention-research-as-an-inclusive-term-for-chat--informed-education-intervention)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
-            -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
-                MOVE THAT THERE? YES NOW
-                REINTEGRATE](#double-stimulation-if-exploring-tads-later---what-about-move-that-there-yes-now-reintegrate)
         -   [Formative Interventions compared to Design Based
             Research](#formative-interventions-compared-to-design-based-research)
         -   [Outline of the guiding principles and approaches of DBR and
