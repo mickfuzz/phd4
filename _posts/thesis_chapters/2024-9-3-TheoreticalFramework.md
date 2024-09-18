@@ -19,6 +19,8 @@ title: 3. Theoretical Framework
     -   [Strands of emerging variations of Activity
         Theory](#strands-of-emerging-variations-of-activity-theory)
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
+        -   [Applying 3GAT via formative
+            interventions](#applying-3gat-via-formative-interventions)
     -   [Other strands of research based on activity
         theory](#other-strands-of-research-based-on-activity-theory)
         -   [Interventionist and utopian approaches involving broader
@@ -40,8 +42,9 @@ title: 3. Theoretical Framework
             AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
         -   [observations to integrate in this
             section](#observations-to-integrate-in-this-section)
-        -   [Quick overview of formative interventions in
-            education](#quick-overview-of-formative-interventions-in-education)
+        -   [formative intervention research as an inclusive term for
+            CHAT- informed education
+            intervention](#formative-intervention-research-as-an-inclusive-term-for-chat--informed-education-intervention)
             -   [Rising to the Concrete](#rising-to-the-concrete)
             -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
                 MOVE THAT THERE? YES NOW
@@ -322,6 +325,25 @@ Kamanga notes the value of locating system congruencies or strengths within acti
 <!-- Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way. -->
 <!-- (Relational agency?) -->
 
+### Applying 3GAT via formative interventions
+
+The term formative intervention (FI) has its roots in  Cole and Engeström's exploration of two models of CHAT based interventionist research [@valsiner_cultural-historical_2007]. While both interventions, namely Change Laboratory (from Helsinki school) and 5th Dimension (Cole's intervention carried out in partnership with wider sociocultural researchers), were designed to align with principles of AT, and termed formative interventions in early publications, it is Engeström who has used the term most consistently and who has defended against it being used more flexibly [@engestrom_methodological_2014]. In this section I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory. In the following section I turn to wider applications of interventionist approaches.
+
+A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007].
+
+The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
+
+Formative interventions have taken other forms that have been used or endorsed by Engeström's team in Helsinki in the CRADLE project [@engestrom_expansive_2022]. Another form of FI relevant to this study is that of the Learning Lab which is represented above in Fig.3.x  [@cakir_contradictions_2022; @bal2011culturally]
+
+Learning Lab takes place in
+
+
+MOVE LATER?
+A key (concluding) text here is Cole and Engeström's exploration of two models of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]. The final section concludes that while the methodology aligns with key principles of AT, there are practical changes in aligning with perceived rigour of social science given the changing environmental factors and lack of standardised tests. It also notes issues of financing such lengthy and repeated interventions in the experimental process and the challenge the status quo, and thus those that might fund such research, by developing the agency of workers and learners.
+
+By way of comparison. Cole's strand of CHAT interventions, being more focused on school related interventions, has remained open to some of the innovations and strands of DBR.
+
+The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process.
 
 ## Other strands of research based on activity theory  
 
@@ -412,7 +434,7 @@ Mutual appropriation highlighted the importance that researchers adapt to contex
 Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
 
-### Overview of formative interventions in education
+### formative intervention research as an inclusive term for CHAT- informed  education intervention
 
 **This section explains the CHAT method of formative interventions aiming to later link it to  broader research intervention in education including DBR**
 
@@ -424,26 +446,6 @@ For example, learning scientists today employ design experiments primarily to de
 Penuel [-@penuel_emerging_2014], in an attempt to summarise differences between DBR and CHAT interventions talks of the focus of DBR by learning scientists on developing theory and advancing practice around innovative learning tasks, while CHAT interventions are more focused on transformations in activty and the increasing agency of those involved.  This section covers the CHAT interventions by exploring the concept of formative intervention in particular. A following section contrasts this description with previous generations of DBR and articulates current synergies.  
 
 
-
-While the term formative intervention was rooted in  Cole and Engeström's exploration of two models of CHAT based research, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007], it is Engeström who has used it most consistently and who has defended against it being used more flexibly [@engestrom_methodological_2014].
-
-A model of formative intervention that has been addressed by much research is Engeström's implementation of expansive learning in workplace environments, a set of processes applied in a workplace setting called Change Laboratory (CL) [@engestrom_putting_2007].
-
-The CL processes suits a formal workplace where there are existing concepts of Community and Division of Labour and Norms that have resulted in contradictions to be explored and resolved.
-
-Formative interventions have taken other forms that have been used or endorsed by Engeström's team in Helsinki in the CRADLE project [@engestrom_expansive_2022].  
-
-A form relevant to is the Learning Lab . [@cakir_contradictions_2022; @bal2011culturally]
-
-<!-- EXPAND THIS WITH EXAMPLES?
-kindergarten one below? -->
-
-By way of comparison. Cole's strand of CHAT interventions, being more focused on school related interventions, has remained open to some of the innovations and strands of DBR.
-
-The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process.
-
-MOVE LATER?
-A key (concluding) text here is Cole and Engeström's exploration of two models of formative interventions, namely Change Laboratory and 5th Dimension, designed to align with principles of AT [@valsiner_cultural-historical_2007]. The final section concludes that while the methodology aligns with key principles of AT, there are practical changes in aligning with perceived rigour of social science given the changing environmental factors and lack of standardised tests. It also notes issues of financing such lengthy and repeated interventions in the experimental process and the challenge the status quo, and thus those that might fund such research, by developing the agency of workers and learners.
 
 MOVE LATER
 Penuel [-@penuel_emerging_2014] proposes the formative intervention research as a useful term to encapsulate a DBR process closely aligned with CHAT. He was both praised for bringing some of the 3GAT processes into DBR domain.

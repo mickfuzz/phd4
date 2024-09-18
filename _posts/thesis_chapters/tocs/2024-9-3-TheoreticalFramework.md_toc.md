@@ -8,6 +8,8 @@
     -   [Strands of emerging variations of Activity
         Theory](#strands-of-emerging-variations-of-activity-theory)
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
+        -   [Applying 3GAT via formative
+            interventions](#applying-3gat-via-formative-interventions)
     -   [Other strands of research based on activity
         theory](#other-strands-of-research-based-on-activity-theory)
         -   [Interventionist and utopian approaches involving broader
@@ -29,8 +31,9 @@
             AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
         -   [observations to integrate in this
             section](#observations-to-integrate-in-this-section)
-        -   [Quick overview of formative interventions in
-            education](#quick-overview-of-formative-interventions-in-education)
+        -   [formative intervention research as an inclusive term for
+            CHAT- informed education
+            intervention](#formative-intervention-research-as-an-inclusive-term-for-chat--informed-education-intervention)
             -   [Rising to the Concrete](#rising-to-the-concrete)
             -   [Double stimulation IF EXPLORING TADS LATER - WHAT ABOUT
                 MOVE THAT THERE? YES NOW
