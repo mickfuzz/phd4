@@ -302,7 +302,7 @@ Engeström visually represents Leontiev's focus on issues of the wider community
 <!-- The emergence of divisions of labour and rules can be linked to Rogoff's concepts of cultural repertoires [@rogoff_cultural_2003].
 LATER? -->
 
-#### Expansive learning and expanded object
+<!-- #### Expansive learning and expanded object -->
 
 To address 3GAT expands its focus to encompass the role of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object. The recognition of wider activity systems and the transfer of motivations and practices of actors into new systems is represented in Engeström's view of AT [@spinuzzi_trying_2020-1]. This shared, or expanded object being worked on by more than one activity system is represented in Fig 3.x below.
 
@@ -319,42 +319,19 @@ This conception incorporates the importance of the roles of researchers and othe
 <!-- "Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990."" -->
 
 
-#### The value of surfacing areas of contradictions (dialectics)
+<!-- #### The value of surfacing areas of contradictions (dialectics) -->
 
-Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems. 3GAT achieves this via careful of description, analysis, and representation of system elements, interaction between systems and resulting  contradictions.
+Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems [@engestrom_expansive_2001]. 3GAT achieves this via careful of description, analysis, and representation of system elements, interaction between systems and resulting  contradictions. Tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as conflicts [@sannino_cultural-historical_2018]. These unresolved contradictions develop into impasses or conflicts which may serve as motivational factors driving agentic responses from participants in dysfunctional systems. A later section explores Sannino's view of such conflicts positively as the source of transformative agency in greater depth.
 
+Kamanga notes the value of locating system congruencies or strengths within activity systems [@kamanga_contradictions_2021]. For a comprehensive analysis of systemic contradictions see the work of Engeström and Cakir [-@cakir_contradictions_2022; -@engestrom_discursive_2011]. While I agree with the potential value of precise use of the terms tensions and contractions [@karanasios_exploring_2017], in this study rather than larger systems of workplace analysis happening over years, analysis of tensions takes place in the context of shorter interventions as seen in  diverse research [@barab_developing_2002; @barab_using_2002; @lewin_developing_2018]. As such longer terms conflicts are less likely to occur, and the concrete description of contradictions are helpful in themselves as a source of disambiguation. Therefore, following Kuuti [-@kuutti_activity_1995], this study adopts contradictions as a general term encompassing concepts of tensions, barriers and conflicts; however more specific terms are used when needed to disambiguate meaning.
 
- <!-- [@lave_developmental_1993] -->
+<!-- In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities. -->
 
-Engeström [@engestrom_expansive_2001] contradictions as build up of tensions between different elements of the activity system.  Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
-
-TERMS?
-
-While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
-
-Unresolved contradictions develop into impasses or conflicts. These can serve as more urgent  motivational factor driving an agentic response from participants in disfunctional systems. In particular work by Sannino on agency from a chat perspective frames the potential of such conflicts positively as a source of activist transformation. A later section explores agency in more detail.
-
-##### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas - CHAT, AT and 3GAT
-
-Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.   
-
-While guided by the concept of analysing manifestations of systemic contradictions, [@cakir_contradictions_2022; @engestrom_discursive_2011] this study does not use that detailed framework.
-
-NOTE - there is also the concept of congruencies - or strengths within activity systems. Where appropriate these systems strengths and positive alignments are helpful to note [@kamanga_contradictions_2021].
-
-On a smaller scale, design tensions exist. These do not block progress completely but may disrupt some activities. Combinations of tensions can compound to create longer lasting and more serious conflicts if not resolved [Engeström early]. The concept of levels of contradictions are helpful [@sannino_cultural-historical_2018] the forth being a conflict.
-
-In Sannino's later work on transformational agency TADS conflicts are examined - greater scope than tensions - thus larger shifts are implied.
-
-Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way.
-
+<!-- ##### Disambiguating terminology - Conflicts, tensions, contradictions, dilemmas - CHAT, AT and 3GAT -->
+<!-- Even within schools of CHAT, terms are not set. To avoid the dangers of the vague use of the terms tensions and contractions [@karanasios_exploring_2017], this section outlines my interpretation based on the scope of this study.    -->
+<!-- Instrumental agency is relevant here to help examine and the work of learning designers to remove  barriers, Transformational and authorial agency serves to explore the potential for learners to address and overcome tensions and conflicts in their own way. -->
 <!-- (Relational agency?) -->
 
-**The definition used in this study of contradictions**
-
-Instead of a more technical definition [@engestrom_discursive_2011], following Kuuti [-@kuutti_activity_1995], this study adopts  contradictions as a broader definition encompassing concepts of tensions, barriers, breakdowns, conflicts.
-
-In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
 ## Other strands of research based on activity theory  
 
