@@ -340,9 +340,12 @@ Cole notes the need to align research interventions with the ongoing aims of edu
 
 #### Rising to the Concrete
 
-The concept of germ cell and unit of analysis.  
 
-In Engeström's concept of expansive learning and the role of germ cell in rising to the concrete is crucial [@sannino_formative_2016; @engestrom_methodological_2014]. The concept, which can be trace the concept back to the Marxist tradition, bears exploration.
+
+In Engeström's concept of expansive learning and the role of germ cell in rising to the concrete is crucial in the application and description of formative interventions [@sannino_formative_2016; @engestrom_methodological_2014].
+For what reason?
+
+The concept, which can be trace the concept back to the Marxist tradition, bears exploration.
 
 Early conceptions of activity theory by Vygotsky and Leontiev are built on Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity can be conceived as  instances and interations of underlying germ cell concepts (example commodity and exchange in Capital).
 
@@ -362,7 +365,7 @@ It appears valid to question how applicable is Engeström application of this co
 
 It is not at all clear how to achieve this in more rapidly changing situations where actors from different activity systems. For example, Engeström and Sannino give no suggestion on how that may be achieved when critiquing the interpretations of Penuel.
 
-While this strict interpretation is seen as important by Engestrom for x reason - monasim?
+
 
 This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.  
 
