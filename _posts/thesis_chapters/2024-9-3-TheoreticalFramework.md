@@ -277,11 +277,22 @@ In terms of development, activity theory views activity as constantly evolving w
 
 ## Strands of emerging variations of Activity Theory
 
-As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts within two broad strands of activity. The first is that of third generation activity theory (3GAT), centred around the work of Engeström and colleagues in Finland. The second is a more loosely grouped strand stemming from the work of Michael Cole and colleagues drawing on a tradition of American pragmatism within the context of the community of learning sciences researchers. It includes concepts of funds of knowledge, ideocultures and communities of learners which are relevant to this study. 
+As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts within two broad strands of activity. The first is that of third generation activity theory (3GAT), centred around the work of Engeström and colleagues in Finland. The second is a more loosely grouped strand stemming from the work of Michael Cole and colleagues drawing on a tradition of both the soviet tradition described above and American pragmatism in the tradition of Dewey. This body of work carried out within the context of the community of learning sciences researchers, includes concepts of funds of knowledge, ideocultures and communities of learners which are relevant to this study.
 
 ### 3GAT and Expansive learning
 
 An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). As mentioned in the section above, the recognised the importance of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object.
+
+
+#### Terminology - CHAT as a broad term used in this study
+
+Terms evolve over time and and used differently in varied settings. The following disambiguation is offered to address this in this context of this study.
+
+Activity theory AT is used to refer to underlying principles.
+
+Cultural historial approach  and cultural historical activity theory (CHAT) broad application of those principles.
+
+Third generation activity theory (3GAT) refers to Engeström's more specific interpretation of AT when a distinction is needed.
 
 
 #### 3GAT, activity systems and new community based concepts  
@@ -360,8 +371,9 @@ Instead of a more technical definition [@engestrom_discursive_2011], following K
 
 In the following chapters I focus on tensions which help explore the research questions and which help inform the findings of later chapters. In particular I draw out more visible conflicts which threaten more serious disruption of activities.
 
+## Other strands of research based on activity theory  
 
-### Activity theory as a Utopian methodology based on foundations of cultural psychology and alignment with broader sociocultural concepts
+### Interventionist and utopian approaches involving broader sociocultural concepts
 
 A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American antropological approaches and those of USSR researchers.
 
@@ -410,15 +422,6 @@ experiments [@gutierrez_social_2016-1; @gutierrez_social_2020], in a way which w
 
 
 
-### Terminology - CHAT as a broad term used in this study
-
-Terms evolve over time and and used differently in varied settings. The following disambiguation is offered to address this in this context of this study.
-
-Activity theory AT is used to refer to underlying principles.
-
-Cultural historial approach  and cultural historical activity theory (CHAT) broad application of those principles.
-
-Third generation activity theory (3GAT) refers to Engeström's more specific interpretation of AT when a distinction is needed.
 
 
 
