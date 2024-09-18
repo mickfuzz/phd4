@@ -239,13 +239,21 @@ These planes are explored in a later section of this chapter.
 <!-- ### The hierarchical structure of activity -->
 <!-- #### Activity, Actions and Operations -->
 
-To describe activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which constitute a vertical hierarchy of activity structure. Activity works on a level of an overall motive and actions are a smaller component sub-goals to needed to achieve the wider goal of the activity. As we descend this hierarchy, underneath actions are unconscious operations which are carried out in the process of undertaking actions. Kutti [@kuutti_activity_1995] describes a shift from actions to operations in the following way.  
+To describe activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which constitute a vertical hierarchy of activity structure. Activity works on a level of an overall motive and actions are a smaller component sub-goals to needed to achieve the wider goal of the activity. As we descend this hierarchy, underneath actions are unconscious operations which are carried out in the process of undertaking actions. See figure below from [@daniels_vygotsky_2001, p.87].
+
+![](./Pictures/At_dia_7_hierarchy_v1.png){width=90%}
+
+Figure 3. x -  hierarchical structure of activity (adpated from  [@daniels_vygotsky_2001, p.87])
+
+Kutti [@kuutti_activity_1995] describes a shift from actions to operations in the following way.  
 
   Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
 
 The concept of fluency is key to this study, as such it is important to be able to locate and describe these chains of operations and actions in detail.
 
 In addition, some activity systems are also often conceived as being nested within wider activity systems, for example the development and teaching of a series of lessons may take place within the wider activity of a school or university [@lewin_developing_2018-1; @barab_using_2002]. Thus the choice of which activity system to analyse in depth, is described as the process of finding an appropriate unit of analysis [@blunden_germ_2014]. For example, in Barab et al's research on a changes to a university course, a granular exploration of the tensions and processes at work in a complex educational environment is used to identify emerging barriers and responses to comprehension and communication. This level of detail which facilitated its replicability and utility to other practitioners, is used as a justification for using a smaller activity system than that typically represented in Engeström's approach [@engestrom_learning_1987-1; @lave_developmental_1993; @barab_using_2002]. Similarly, in this thesis, while game making at a community project studied as a system, interpersonal activity is also examined using an activity system of a smaller scope. This is explored in more detail in Chapter 4.   
+
+Also [@lecusay_telementoring_2015] ?
 
 <!-- #### TO MERGE UP - Principle: Finding suitable dimensions and units of analysis by focusing on objects of activity
 
@@ -277,73 +285,50 @@ In terms of development, activity theory views activity as constantly evolving w
 
 ## Strands of emerging variations of Activity Theory
 
-As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. The next section explores these concepts within two broad strands of activity. The first is that of third generation activity theory (3GAT), centred around the work of Engeström and colleagues in Finland. The second is a more loosely grouped strand stemming from the work of Michael Cole and colleagues drawing on a tradition of both the soviet tradition described above and American pragmatism in the tradition of Dewey. This body of work carried out within the context of the community of learning sciences researchers, includes concepts of funds of knowledge, ideocultures and communities of learners which are relevant to this study.
+As part of the growing uptake of AT beyond the USSR,  researchers forged new concepts in these varied strands of activity theory. Terms evolve over time and and used differently in varied settings. The following disambiguation is offered to address this in this context of this study. Activity theory AT is used to refer to underlying principles as described above. Cultural historial approach  and cultural historical activity theory (CHAT) broad application of those principles which at times concepts associated sociocultural approaches: these include concept  including communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian]. The term third generation activity theory (3GAT) is used to refer to Engeström's more specific interpretation of AT when a distinction is needed.
+
+The next section explores concepts within two broad strands of activity. The first is that of third generation activity theory (3GAT), centred around the work of Engeström and colleagues in Finland. The second is a more loosely grouped strand of researchers based on a tradition of both the soviet tradition at AT described above and American pragmatism in the tradition of Dewey. This body of work aligned with CHAT principles from the work of Michael Cole and colleagues, carried out to a great extent within the context of funding programme and publications of learning sciences, includes concepts of funds of knowledge, ideocultures and legitimate peripheral participation which are relevant to this study.
 
 ### 3GAT and Expansive learning
 
-An important development of conceptual tools to apply activity to authentic learning settings takes the form of a formulation knows as third generation activity theory (3GAT). As mentioned in the section above, the recognised the importance of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object.
+Addressing the first strand, 3GAT represents an important development of conceptual tools to apply activity to authentic learning settings.  Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987-1].
 
-
-#### Terminology - CHAT as a broad term used in this study
-
-Terms evolve over time and and used differently in varied settings. The following disambiguation is offered to address this in this context of this study.
-
-Activity theory AT is used to refer to underlying principles.
-
-Cultural historial approach  and cultural historical activity theory (CHAT) broad application of those principles.
-
-Third generation activity theory (3GAT) refers to Engeström's more specific interpretation of AT when a distinction is needed.
-
-
-#### 3GAT, activity systems and new community based concepts  
-
-Engeström concept of the activity system model extends Leontiev's work via a triangular representation of key cultural aspects of the activity in question. The model features a further tier cultural factors including, norms and rules, division of labour and community [@engestrom_learning_1987-1].
-
-For example.
 
 ![](./Pictures/At_dia_5_basic_v1.png){width=90%}
 Figure 3. x - Engeström's representation of community concepts an activity system
 
-The emergence of divisions of labour and rules can be linked to Rogoff's concepts of cultural repertoires [@rogoff_cultural_2003].
-LATER?
+Engeström visually represents Leontiev's focus on issues of the wider community (those involved in activity beyond the subjects themselves), division of labour (either through division of tasks between community member or a more vertical power structure) and the emergence of rules or norms (guiding and emerging community behaviours) [@sannino_cultural-historical_2018].  
 
-EXPAND DESCRIPTION OF THESE ELEMENTS
-
+<!-- The emergence of divisions of labour and rules can be linked to Rogoff's concepts of cultural repertoires [@rogoff_cultural_2003].
+LATER? -->
 
 #### Expansive learning and expanded object
 
-**The concept of the expanding learning can be applied via formative interventions (explored later)**
-
-The recognition of wider activity systems and the bleed of motivations of actors into new systems is represented in Engeström's view of AT as a foundation for interventionist and participatory processes on [@spinuzzi_trying_2020-1]
-
-The broad AT principle of the need to analyse activity through its transformation forms the base of the concepts of expansive learning.
-
-[@sannino_formative_2016] [@engestrom_methodological_2014]
+To address 3GAT expands its focus to encompass the role of interacting activity systems, the movement of subjects between systems and the possibility for joint work on a shared object. The recognition of wider activity systems and the transfer of motivations and practices of actors into new systems is represented in Engeström's view of AT [@spinuzzi_trying_2020-1]. This shared, or expanded object being worked on by more than one activity system is represented in Fig 3.x below.
 
 ![](./Pictures/shared_object_engestrom.png){width=90%}
 
-Figure 3. x - Engeström's concept of expansive learning via a shared object
+Figure 3. x - Engeström's concept of expansive learning via a shared object, from [@sannino_formative_2016] [@engestrom_methodological_2014]
 
-PERHAPS REPLACE WITH UPDATED REPRESENTATION IN CAKIR
+To explain this relationship more clearly an example in context is helpful. In research on a joint activity involving school, Cakir and colleagues represent the joint activity as an objective share between school, family and  researchers.
+
 ![](./Pictures/expandedobj_incakir.jpg){width=90%}
 
-"Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990.""
-[@engestrom_design_2011]
+This conception incorporates the importance of the roles of researchers and other stakeholders within this interventionist and participatory processes. The need to analyse activity through its transformation through contradictions of tensions of systems elements, drawn from Marxist conceptions of dialectics forms the base of the concepts of expansive learning. In 3GAT the this view of transformation via joint work between activity systems on a new expanded object is called expansive learning [@engestrom_design_2011].
 
-EDIT THIS DOWN
+<!-- "Expansive learning leads to the formation of a new, expanded object and pattern of activity oriented to the object. This process, known as ascending from the abstract to the concrete, involves the formation of a theoretical concept of the new activity, based on grasping and modeling the initial simple relationship, the “germ cell,” that gives rise to the new activity and generates its diverse concrete manifestations Davydov 1990."" -->
 
-REWRITE THE ABOVE? FOCUS ON EXPANDED OBJECT? OR MOVE UP TO AT CORE CONCEPTS? OR MOVE SOME DOWN?
 
-#### The value of surfacing areas of contradictions
+#### The value of surfacing areas of contradictions (dialectics)
 
-In activity theory tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems.
+Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems. 3GAT achieves this via careful of description, analysis, and representation of system elements, interaction between systems and resulting  contradictions.
 
-While the concept of tensions and contradictions exists in foundational concepts of dialectal materialism, the work of Engeström addressed this in more granular details and also vitally created more detailed understandings, more specific methods of description and analysis, and representations of these contradictions.
 
-Engeström [@engestrom_expansive_2001] explains the role of contradictions as build up of tensions between different elements of the activity system. His detailed analysis of work based activity identifies the role of contradictions in systems is the source of "change and development" [@engestrom_expansive_2001]
  <!-- [@lave_developmental_1993] -->
 
-Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
+Engeström [@engestrom_expansive_2001] contradictions as build up of tensions between different elements of the activity system.  Conflicts and tensions between participant motives and different parts of activity system are sometimes revolved quickly through change, or remain more persistent and can be referred to as blockages.
+
+TERMS?
 
 While much of the literature focuses on larger systems of workplace analysis happening over years, the role of analysis of tensions in shorter interventions is also  present in diverse research. [@barab_developing_2002; @barab_using_2002]
 
