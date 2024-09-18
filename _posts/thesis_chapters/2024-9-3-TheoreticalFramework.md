@@ -16,22 +16,14 @@ title: 3. Theoretical Framework
     -   [The social turn](#the-social-turn)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
-        -   [Core concepts in activity theory
-            (AT)](#core-concepts-in-activity-theory-at)
-        -   [Development and design](#development-and-design)
     -   [Strands of emerging variations of Activity
         Theory](#strands-of-emerging-variations-of-activity-theory)
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
-            -   [3GAT, activity systems and new community based
-                concepts](#gat-activity-systems-and-new-community-based-concepts)
-            -   [Expansive learning and expanded
-                object](#expansive-learning-and-expanded-object)
-            -   [The value of surfacing areas of
-                contradictions](#the-value-of-surfacing-areas-of-contradictions)
-        -   [Activity theory as a Utopian methodology based on
-            foundations of cultural psychology and alignment with
-            broader sociocultural
-            concepts](#activity-theory-as-a-utopian-methodology-based-on-foundations-of-cultural-psychology-and-alignment-with-broader-sociocultural-concepts)
+    -   [Other strands of research based on activity
+        theory](#other-strands-of-research-based-on-activity-theory)
+        -   [Interventionist and utopian approaches involving broader
+            sociocultural
+            concepts](#interventionist-and-utopian-approaches-involving-broader-sociocultural-concepts)
             -   [The focus on mutual cultural appropriation in work
                 between institutional
                 partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutional-partners.)
@@ -40,8 +32,6 @@ title: 3. Theoretical Framework
             -   [Funds of Knowledge within
                 ideocultures](#funds-of-knowledge-within-ideocultures)
             -   [Community of learners](#community-of-learners)
-        -   [Terminology - CHAT as a broad term used in this
-            study](#terminology---chat-as-a-broad-term-used-in-this-study)
     -   [Putting AT to work via interventionist research in educational
         contexts (via CHAT interventions, formative interventions and
         DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-chat-interventions-formative-interventions-and-dbr)
@@ -107,7 +97,6 @@ title: 3. Theoretical Framework
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
 
-
 # Theoretical Framework
 
 <!-- Also see this writing.
@@ -159,7 +148,9 @@ This chapter describes the guiding theoretical framework and key concepts which 
 This section addresses a turn away from a psychological approach towards a more social understanding learning and human behaviour[@sugiman_social_2008]. While this turn has impact in several disciplines, it is in learning that is the focus of this study. This social _turn_ in psychology, involved a turn away from assumptions that studying human mental activity should be carried out in isolated, context free methods [@stetsenko_activity_2005]. The reasoning behind this shift is present not only to address validity of results[@brown_design_1992] but also the value of the research for designers and participants
 [@barnett_ecosystem_2019]. This perspective allows a transcendence of conceptions of transmission models of learning to embrance the value of group-based, participatory processes.
 
-The work of Brown [@brown_design_1992] as prominent researcher within psychology advocating the importance of context within experimental design helped legitimise this focus, and facilitate a broad uptake in diverse fields. The growing work in these varied fields sometimes grouped by the term _learning sciences_, can be viewed in terms of a move way from randomised control trials and their attempt of severance of context away from a behaviourist view of learning as an internal psychology process, towards a diverse set of disciplines and tools drawn from emerging field of cognitive and cultural psychology [@hoadley_learning_2011]. While this fragmentation can be seen as positive in terms of pluralism and interdisciplinary sharing of knowledge between fields as diverse as education, anthropology and computer science, is also a source of criticism in lacking an overall coherence in underlying understandings of the learning and human activity on a deeper conceptual level [@hoadley_learning_2011] <- FIND A BETTER ONE / ENGESTROM?.
+The work of Brown [@brown_design_1992] as prominent researcher within psychology advocating the importance of context within experimental design helped legitimise this focus, and facilitate a broad uptake in diverse fields. The growing work in these varied fields sometimes grouped by the term _learning sciences_, can be viewed in terms of a move way from randomised control trials and their attempt of severance of context away from a behaviourist view of learning as an internal psychology process, towards a diverse set of disciplines and tools drawn from emerging field of cognitive and cultural psychology [@hoadley_learning_2011]. While this fragmentation can be seen as positive in terms of pluralism and interdisciplinary sharing of knowledge between fields as diverse as education, anthropology and computer science, is also a source of criticism in lacking an overall coherence in underlying understandings of the learning and human activity on a deeper conceptual level [@hoadley_learning_2011].
+
+ <!-- <- FIND A BETTER ONE / ENGESTROM?. -->
 
 The work of Michael Cole in Laboratory of Comparative Human Cognition (LCHC) [@cole_comparative_1981]. In his narrative account of his own turn towards a social understanding of learning and activity in the book Cultural Psychology, Cole [@cole_cultural_1996] critiques the emerging trend of behaviourist and cognitive psychology towards interpretations that reduce the minds as an information processing unit rather than one component in complex cultural activity. While there have been varied schools influenced by the turn towards studying learning in context, I have chosen to use Cole's articulation of activity theory as a base for the the theoretical framework of this study due to the overall coherence of the approach and its ability to deal effectively with bother wider cultural impacts on the focus on activity, and detail of narrower actions.  
 
@@ -197,23 +188,21 @@ Communities of practice - legitimate peripheral participation boundaries and bar
 
 Before outlining the concepts driving activity theory, a short history here places them in context. For Marx human endeavour and change is based on activity and the subject of that activity is understood as the person or people driving it [@marx1975marx; @blunden_interdisciplinary_2009]. Vygotsky drew on Marxist conceptions of the importance of human activity as social mediated process, applied the core concepts to broader understandings of the learning process [@blunden_interdisciplinary_2010]. While Vygotsky's student Leontiev formulated the work of Vygotsky into a prototypal activity theory (explored shortly), AT had stagnated in the repressive context of the USSR [@blunden_interdisciplinary_2010] and had limited take up in western academia before Cole's translations of Vygotsky's work [@cole_mind_1978]. This work to bring some of the foundational concepts into an educational psychology setting, at the time of the broader social turn in the discipline.
 
-The work in this emerging field of cultural psychology  by scholars such as Wertsch [@wertsch_vygotsky_1985] and Cole [@cole_cultural_1996] explores the vital role of cultural mediation in human development in general and more specifically community and context in the studies of learning, situating learning pedagogies as form of meditational strategy. Before progressing to study the work of Cole and others in context, it is of value to examine Core concepts in activity theory (AT).
+The work in this emerging field of cultural psychology  by scholars such as Wertsch [@wertsch_vygotsky_1985] and Cole [@cole_cultural_1996] explores the vital role of cultural mediation in human development in general and more specifically community and context in the studies of learning, situating learning pedagogies as form of meditational strategy. Before progressing to study the work of Cole and others in context, it is of value to examine Core concepts in activity theory (AT). Nardi and Kaptelinin outline activity theory as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
 
 <!-- This use of objects, concepts which facilitate and constituent cultural participation. The role of cultural mediation in development, and role of objects to study human culture [@cole_beyond_1996; @cole_culture_1995]. -->
 
 
   <!-- ### Core concepts in activity theory (AT) -->
 
-Nardi and Kaptelinin outline activity theory as a series of foundational concept which form the base for wider theories [@kaptelinin_acting_2009; @wertsch_concept_1981], namely: object-orientedness, tool mediation, hierarchical structure of activity, ongoing development of activity  development, and psychological internalisation and externalisation.
+
 
 <!-- While this study is on community activity, some of the concepts and tools of AT inherit meaning from a tradition of exploring personal psychology and thus a clarification of the terms used in a community setting is helpful. To help make this process more concrete, at times I will give examples related to the context of this study. -->
 
 
 <!-- ### Object / objective in activity and varied interpretations -->
 
-A starting  point in the exploration of key concepts of AT is Vygotsky formulation of the conception of activity the relation between subject, object and tools. Activity theory is seen as object-oriented in that understanding of human organisation and learning are based on activity driven by the goals or objectives of the individual or collective subject [@engestrom_learning_1987-1]. Kaptelinin and colleagues [@kaptelinin_activity_1995] note that while the materialist focus of the Marxist roots of activity theory has led some descriptions to focus on the object as the physical object being worked on and being transformed by the activity, conceptual objects are also included in Leontiev concept of activity theory [@leontev_problem_1974]. Thus the term object is best understood within the context of wider motivation or objective.
-
-To clearly represent subject and object in a way which represents Vygotsky's overcoming of the problems associated subject-object, mind-body, Cartesian dualism [@still1991mutual], this relationship was developed by Vygotsky's student Leontiev into a triadic relationship to including tools which mediate activity.. [@engestrom_learning_1987-1] See fig 3.x below.
+A starting  point in the exploration of key concepts of AT is Vygotsky formulation of the conception of activity the relation between subject, object and tools. Activity theory is seen as object-oriented in that understanding of human organisation and learning are based on activity driven by the goals or objectives of the individual or collective subject [@engestrom_learning_1987-1]. Kaptelinin and colleagues [@kaptelinin_activity_1995] note that while the materialist focus of the Marxist roots of activity theory has led some descriptions to focus on the object as the physical object being worked on and being transformed by the activity, conceptual objects are also included in Leontiev concept of activity theory [@leontev_problem_1974]. Thus the term object is best understood within the context of wider motivation or objective. To clearly represent subject and object in a way which represents Vygotsky's overcoming of the problems associated subject-object, mind-body, Cartesian dualism [@still1991mutual], this relationship was developed by Vygotsky's student Leontiev into a triadic relationship to including tools which mediate activity.. [@engestrom_learning_1987-1] See fig 3.x below.
 
 ![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
 Fig. 3.x essential conception of Activity
@@ -226,7 +215,7 @@ Fig. 3.x essential conception of Activity
 
 Turning to mediation via tools, Vygotsky's concept of tools here is broad including language, physical tools and representational concepts [@cole_mind_1978]. Mediation is of particular relevance to this study as the learning environment involved varied, dynamic forms of tool use. Physical, digital and conceptual tools evolve as a product of the experience of others in society and are thus a product of adaptation, containing within then evidence evolutionary processes of culture. This study situates pedagogies as forms of meditational strategy which can be drawn on by both facilitators and learners [@donato_sociocultural_1994; @gutierrez_re-mediating_2009].
 
-NEEDS DEVELOPMENT
+<!-- NEEDS DEVELOPMENT -->
 
 <!-- **Internalisation and externalisation** -->
 
@@ -239,21 +228,19 @@ These planes are explored in a later section of this chapter.
 <!-- ### The hierarchical structure of activity -->
 <!-- #### Activity, Actions and Operations -->
 
-To describe activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which constitute a vertical hierarchy of activity structure. Activity works on a level of an overall motive and actions are a smaller component sub-goals to needed to achieve the wider goal of the activity. As we descend this hierarchy, underneath actions are unconscious operations which are carried out in the process of undertaking actions. See figure below from [@daniels_vygotsky_2001, p.87].
+To describe activity systems with greater granularity,  Leontiev [-@leontiev_activity_2009], used terms and concepts of actions and operations happening which constitute a vertical hierarchy of activity structure. Activity works on a level of an overall motive and _actions_ are a smaller component sub-goals to needed to achieve the wider goal of the activity. As we descend this hierarchy, underneath actions are series of unconscious _operations_ carried out fluently in the process of undertaking actions. See figure below from [@daniels_vygotsky_2001, p.87].
 
 ![](./Pictures/At_dia_7_hierarchy_v1.png){width=90%}
 
 Figure 3. x -  hierarchical structure of activity (adpated from  [@daniels_vygotsky_2001, p.87])
 
-Kutti [@kuutti_activity_1995] describes a shift from actions to operations in the following way.  
+The concept of fluency is key to this study, as such it is important to be able to locate and describe these chains of operations and actions. Kutti [@kuutti_activity_1995] describes a shift from actions to operations in the following way.  
 
-  Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
+    Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent." [@kuutti_activity_1995]
 
-The concept of fluency is key to this study, as such it is important to be able to locate and describe these chains of operations and actions in detail.
+In addition, activity systems are also sometimes conceived as being nested within wider activity systems, for example the development and teaching of a series of lessons may take place within the wider activity of a school or university [@lewin_developing_2018-1; @barab_using_2002]. Thus the choice of which activity system to analyse in depth, is described as the process of finding an appropriate unit of analysis [@blunden_germ_2014]. For example, in Barab et al's research on a changes to a university course, a granular exploration of the tensions and processes at work in a complex educational environment is used to identify emerging barriers and responses to comprehension and communication. This level of detail which facilitated its replicability and utility to other practitioners, is used as a justification for using a smaller activity system than that typically represented in Engeström's approach [@engestrom_learning_1987-1; @lave_developmental_1993; @barab_using_2002]. Similarly, in this thesis, while game making at a community project studied as a system, interpersonal activity is also examined using an activity system of a smaller scope. This is explored in more detail in Chapter 4.   
 
-In addition, some activity systems are also often conceived as being nested within wider activity systems, for example the development and teaching of a series of lessons may take place within the wider activity of a school or university [@lewin_developing_2018-1; @barab_using_2002]. Thus the choice of which activity system to analyse in depth, is described as the process of finding an appropriate unit of analysis [@blunden_germ_2014]. For example, in Barab et al's research on a changes to a university course, a granular exploration of the tensions and processes at work in a complex educational environment is used to identify emerging barriers and responses to comprehension and communication. This level of detail which facilitated its replicability and utility to other practitioners, is used as a justification for using a smaller activity system than that typically represented in Engeström's approach [@engestrom_learning_1987-1; @lave_developmental_1993; @barab_using_2002]. Similarly, in this thesis, while game making at a community project studied as a system, interpersonal activity is also examined using an activity system of a smaller scope. This is explored in more detail in Chapter 4.   
-
-Also [@lecusay_telementoring_2015] ?
+<!-- Also [@lecusay_telementoring_2015]  -->
 
 <!-- #### TO MERGE UP - Principle: Finding suitable dimensions and units of analysis by focusing on objects of activity
 
@@ -310,9 +297,12 @@ To address 3GAT expands its focus to encompass the role of interacting activity 
 
 Figure 3. x - Engeström's concept of expansive learning via a shared object, from [@sannino_formative_2016] [@engestrom_methodological_2014]
 
-To explain this relationship more clearly an example in context is helpful. In research on a joint activity involving school, Cakir and colleagues represent the joint activity as an objective share between school, family and  researchers.
+To explain this relationship more clearly an example in context is helpful. In research on a joint activity involving school, Cakir and colleagues represent the joint activity as an objective share between school, family and researchers.
 
 ![](./Pictures/expandedobj_incakir.jpg){width=90%}
+Figure 3. x - An object shared between different activity systems
+
+<!-- Also [@lecusay_telementoring_2015] - justifiying examining joint object as  system in itself.  -->
 
 This conception incorporates the importance of the roles of researchers and other stakeholders within this interventionist and participatory processes. The need to analyse activity through its transformation through contradictions of tensions of systems elements, drawn from Marxist conceptions of dialectics forms the base of the concepts of expansive learning. In 3GAT the this view of transformation via joint work between activity systems on a new expanded object is called expansive learning [@engestrom_design_2011].
 
@@ -337,7 +327,7 @@ Kamanga notes the value of locating system congruencies or strengths within acti
 
 ### Interventionist and utopian approaches involving broader sociocultural concepts
 
-A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American antropological approaches and those of USSR researchers.
+A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American anthropological approaches and those of USSR researchers.
 
 Cole's approach is often profitably explored using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
 
@@ -422,7 +412,7 @@ Mutual appropriation highlighted the importance that researchers adapt to contex
 Rajala and Cole echo limits [@rajala_utopian_2023] and argues for the use of FoK in design experiments in the form of funds of identity (FoI). The identity objects here be likened to the creation of artefacts in the game making process, and the evocative objects of Turkle and work of Papert.
 
 
-### Quick overview of formative interventions in education
+### Overview of formative interventions in education
 
 **This section explains the CHAT method of formative interventions aiming to later link it to  broader research intervention in education including DBR**
 
