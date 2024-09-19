@@ -21,21 +21,12 @@ title: 3. Theoretical Framework
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
-            -   [Double stimulation](#double-stimulation)
-    -   [Other strands of research based on activity
-        theory](#other-strands-of-research-based-on-activity-theory)
-        -   [Interventionist and utopian approaches involving broader
-            sociocultural
-            concepts](#interventionist-and-utopian-approaches-involving-broader-sociocultural-concepts)
-            -   [The focus on mutual cultural appropriation in work
-                between institutional
-                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutional-partners.)
-            -   [Third spaces, idiocultures and designed
-                systems](#third-spaces-idiocultures-and-designed-systems)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
-            -   [Community of learners](#community-of-learners)
+    -   [Theoretical concepts used in the Fifth Dimension, a formative
+        intervention drawing on broader sociocultural
+        concepts](#theoretical-concepts-used-in-the-fifth-dimension-a-formative-intervention-drawing-on-broader-sociocultural-concepts)
+        -   [Mutual appropriation in 5D](#mutual-appropriation-in-5d)
+        -   [Third spaces, idiocultures and funds of
+            knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
     -   [Putting AT to work via interventionist research in educational
         contexts (via CHAT interventions, formative interventions and
         DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-chat-interventions-formative-interventions-and-dbr)
@@ -407,21 +398,17 @@ Rajala and colleagues [@rajala_utopian_2023] problematise the use of FoK in thir
 <!-- The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023] -->
 
 
-#### Community of learners - PERHAPS MOVE?
-
-**On cultural-historical repertoires**
-
 The work of Rogoff and Gutiérrez on
-_linguistic and cultural-historical repertoires_ [@rogoff_cultural_2003], is important both as a way of being clear about the cultural sources of difference in groups to avoid cultural-historical practices of participation being misrepresented as innate practices, particualar problematic in dimensions of race.
+_linguistic and cultural-historical repertoires_ [@rogoff_cultural_2003] also aims to avoid cultural-historical practices of participation being misrepresented as innate practices, a practice they cite as particularly problematic in dimensions of race. They emphasise that both educators and researchers should avoid design based on assumed _traits_ of learners, instead researching and then checking existing repertoires of practice that may be incorporated and then extended within joint work. This work draws on Rogoff's pioneering work addressing analysis of complex group activities using three planes of observation, namely personal, social and community activity.  A key motivation driving analysis of behaviours on a social plane is Rogoff's desire to transcend the dichotomy of learner-led verses teacher-led approaches [@rogoff_childrens_1993; @mascolo_beyond_2009]. The concepts of guided participation and, as a middle ground between instruction and discovery, and the role of emerging repertoires of practice within that process are explored in more detail in Chapter 6.
 
-This work also is useful in the way it draws on Rogoff's work of Rogoff on Communities of Learners and in particular analysis of complex group activities using three planes of observation. Rogoff's [-@rogoff_observing_1995] describes three planes of personal, social and community activity which she advocates as foci for analysis.  While the author's original research was on indigenous cultural practices on a village level, the model has been applied in both formal and informal educational settings. For example, in a primary school setting, Morcom [@morcom_scaffolding_2014] applies Rogoff's  [-@rogoff_observing_1995] three planes of activity to help understand the development of classroom activity. In this interpretation, teachers design learning environments and interventions to support learners to enter into a pattern of activity, in this case focusing on those beneficial to student's positive affect.
+<!-- The development of the cultural repertoires in group work  continues of the work of Gutiérrez on social design
+experiments [@gutierrez_social_2016-1; @gutierrez_social_2020]. -->
 
-The model problematises the dichotomy of learner led, teacher led approaches [@mascolo_beyond_2009] in a way which suits the space between formal and informal learning that this community based model of game making occupies.
+<!-- While the author's original research was on indigenous cultural practices on a village level, the model has been applied in both formal and informal educational settings.
 
-Guided participation as a middle ground between instruction and discovery.
+For example, in a primary school setting, Morcom [@morcom_scaffolding_2014] applies Rogoff's  [-@rogoff_observing_1995] three planes of activity to help understand the development of classroom activity. In this interpretation, teachers design learning environments and interventions to support learners to enter into a pattern of activity, in this case focusing on those beneficial to student's positive affect. -->
 
-This focus on the cultural repertoires of group continues of the work of Gutiérrez on social design
-experiments [@gutierrez_social_2016-1; @gutierrez_social_2020], in a way which will be explored in Chapter 7.
+
 
 ## Putting AT to work via interventionist research in educational contexts (via CHAT interventions, formative interventions and DBR)
 

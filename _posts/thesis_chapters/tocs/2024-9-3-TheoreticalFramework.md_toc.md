@@ -10,19 +10,12 @@
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
-    -   [Other strands of research based on activity
-        theory](#other-strands-of-research-based-on-activity-theory)
-        -   [Interventionist and utopian approaches involving broader
-            sociocultural
-            concepts](#interventionist-and-utopian-approaches-involving-broader-sociocultural-concepts)
-            -   [The focus on mutual cultural appropriation in work
-                between institutional
-                partners.](#the-focus-on-mutual-cultural-appropriation-in-work-between-institutional-partners.)
-            -   [Third spaces, idiocultures and designed
-                systems](#third-spaces-idiocultures-and-designed-systems)
-            -   [Funds of Knowledge within
-                ideocultures](#funds-of-knowledge-within-ideocultures)
-            -   [Community of learners](#community-of-learners)
+    -   [Theoretical concepts used in the Fifth Dimension, a formative
+        intervention drawing on broader sociocultural
+        concepts](#theoretical-concepts-used-in-the-fifth-dimension-a-formative-intervention-drawing-on-broader-sociocultural-concepts)
+        -   [Mutual appropriation in 5D](#mutual-appropriation-in-5d)
+        -   [Third spaces, idiocultures and funds of
+            knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
     -   [Putting AT to work via interventionist research in educational
         contexts (via CHAT interventions, formative interventions and
         DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-chat-interventions-formative-interventions-and-dbr)
