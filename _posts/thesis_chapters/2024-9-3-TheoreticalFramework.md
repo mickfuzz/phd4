@@ -392,29 +392,22 @@ Explore of Cole's approach in this area, is often profitably explored using case
 <!-- Here describing the  approach to culture as hybrid of American anthropological approaches and those of USSR researchers. -->
 #### Mutual appropriation in 5D
 
-The setting of the 5D was in community partners after-school clubs, with guiding direction from university researchers and additional support from undergraduate student volunteers. The main activity was playful tasks with the goal of fun and  building literacy. The concept of mutual appropriation has been used by Cole to explain and explore the process of the development of the practicalities and structure of the research programme. Cole noted that for an activity to be sustainable the goal of researchers, student volunteers, and  funders and those of the local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describes a mutual process of adaptation of joint activities between institutions which server not only to reform actvities to be suitable for ongoing partnership, but also leave a historical trace of evolving activity serve as a profitable base for cultural analysis [@downing-wilson_design_2011]. The authours note here a distinction between the 5D approach and  Change Lab is the early stage of the intervention where activity goals are not year formed and are still in a state of evolution.   
+The setting of the 5D was in community partners after-school clubs, with guiding direction from university researchers and additional support from undergraduate student volunteers. The main activity was playful tasks with the goal of fun and  building literacy. The concept of mutual appropriation has been used by Cole to explain and explore the process of the development of the practicalities and structure of the research programme. Cole noted that for an activity to be sustainable the goal of researchers, student volunteers, and  funders and those of the local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describes a mutual process of adaptation of joint activities between institutions which server not only to reform actvities to be suitable for ongoing partnership, but also leave a historical trace of evolving activity serve as a profitable base for cultural analysis [@downing-wilson_design_2011]. The authors note here a distinction between the 5D approach and Change Lab is the early stage of the intervention where activity goals are not year formed and are still in a state of evolution. I return to this point later in this chapter.     
 
-#### Third spaces, idiocultures and designed systems
+#### Third spaces, idiocultures and funds of knowledge
 
 <!-- Cole's approach can be examined using the 5D case study (later?) -->
 
-Cole notes that the creation of idiocultures by researchers [@cole_idiocultural_2017], the created allowing researchers to be present from the beginning of the process.
+Cole describes the values of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. Following Fine [@fine_boys_1987], Cole uses the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures are not created from nothing but encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017].  Cole describes the utility of the concepts of idiocultures as a concrete ways of studying the dynamics cultural variability between the different sites and as a practical way to shape the activities of the programme based on the previous experiences of participants [@cole_idiocultural_2017].  
 
-This can be compared to methods addressing existing existing activities like the change laboratory. LATER?
+This interpretation of the practical utility of idiocultures resonates with the concept of third spaces and fund of knowledge. Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as a resource that can be drawn on as a resource by teachers and participants to facilitate learning in school or other environments to achieve more equitable and inclusive learning experiences. The approach is particularly valuable for learners whose home life is culturally relatively distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy. The process of blending the knowledge and discourses of first space (home life) with the motivations of the second space (school or institution) into a new _third space_ has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
 
-However, [@downing_wilson_sociogenesis_2011] notes that even novel idiocultures are not created from nothing but encompass cultural traits of other systems in which participant engage with.
+Rajala and colleagues [@rajala_utopian_2023] problematise the use of FoK in third spaces.  They critiques a superficial use of FoK which may perpetuate cultural stereo types and thus the existing negatively status quo  [@rajala_utopian_2023]. Additionally, the practical issue of gathering enough relevant data on home cultures to inform a more nuanced use of FOK would be very time consuming. To address these issues the advance a concept of funds of identity, which is allows an exploration of home cultures within the scope of the intervention through the creation of _identity artefacts_ with participants [@subero_mediation_2018].
 
-#### Funds of Knowledge within ideocultures
+<!-- The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023] -->
 
-Many studies in the school of research Cole describes above align with concepts of how home discourses or and FoK can be drawn on as a resource by participants to facilitate learning in new environments [@moje_working_2004] .
 
-The process of merging the knowledge and discourses of  first space (home life) with the process of of the second space (school or institution) into a new third space has been explored in many studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
-
-Cole's recent work address the use of FoK to form ideocultures in educational interventions [@rajala_utopian_2023]
-
-The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
-
-#### Community of learners
+#### Community of learners - PERHAPS MOVE?
 
 **On cultural-historical repertoires**
 
