@@ -16,34 +16,17 @@
         -   [Mutual appropriation in 5D](#mutual-appropriation-in-5d)
         -   [Third spaces, idiocultures and funds of
             knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
-    -   [Putting AT to work via interventionist research in educational
-        contexts (via CHAT interventions, formative interventions and
-        DBR)](#putting-at-to-work-via-interventionist-research-in-educational-contexts-via-chat-interventions-formative-interventions-and-dbr)
-        -   [Alignments and divergences between varied forms of
-            interventionist research based on
-            AT](#alignments-and-divergences-between-varied-forms-of-interventionist-research-based-on-at)
-        -   [observations to integrate in this
-            section](#observations-to-integrate-in-this-section)
-        -   [formative intervention research as an inclusive term for
-            CHAT- informed education
-            intervention](#formative-intervention-research-as-an-inclusive-term-for-chat--informed-education-intervention)
-        -   [Formative Interventions compared to Design Based
-            Research](#formative-interventions-compared-to-design-based-research)
+    -   [Putting AT to work, variations in interventionist CHAT
+        research](#putting-at-to-work-variations-in-interventionist-chat-research)
         -   [Outline of the guiding principles and approaches of DBR and
             formative
             interventions](#outline-of-the-guiding-principles-and-approaches-of-dbr-and-formative-interventions)
-            -   [Principle : Researcher take and active interventionist
-                approach](#principle-researcher-take-and-active-interventionist-approach)
-            -   [Principle: Mutuality](#principle-mutuality)
-            -   [Principle : Utility of research - overcoming the
-                tension between the rich context and generalisation of
-                results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-        -   [Critiques, development and synthesis within Activity theory
-            approaches - NEEDED HERE? IF NOT
-            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
+            -   [Theoretical concepts of DBR used in this
+                study](#theoretical-concepts-of-dbr-used-in-this-study)
             -   [Summary of critiques and challenges in the intersection
-                of DBR and
-                AT](#summary-of-critiques-and-challenges-in-the-intersection-of-dbr-and-at)
+                of DBR and CHAT
+                interventions](#summary-of-critiques-and-challenges-in-the-intersection-of-dbr-and-chat-interventions)
+            -   [Design narratives](#design-narratives)
             -   [Existing gaps in concepts &
                 critiques](#existing-gaps-in-concepts-critiques)
             -   [Alternatives](#alternatives)
@@ -77,3 +60,13 @@
                 MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
+    -   [Sections on DBR and AT](#sections-on-dbr-and-at)
+        -   [Principle : Researcher take and active interventionist
+            approach](#principle-researcher-take-and-active-interventionist-approach)
+        -   [Principle: Mutuality](#principle-mutuality)
+        -   [Principle : Utility of research - overcoming the tension
+            between the rich context and generalisation of
+            results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+        -   [Critiques, development and synthesis within Activity theory
+            approaches - NEEDED HERE? IF NOT
+            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
