@@ -18,21 +18,13 @@
             knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
     -   [Putting AT to work, variations in interventionist CHAT
         research](#putting-at-to-work-variations-in-interventionist-chat-research)
-        -   [Outline of the guiding principles and approaches of DBR and
-            formative
-            interventions](#outline-of-the-guiding-principles-and-approaches-of-dbr-and-formative-interventions)
+        -   [Challenges and resolutions in the intersection of DBR and
+            CHAT
+            interventions](#challenges-and-resolutions-in-the-intersection-of-dbr-and-chat-interventions)
             -   [Theoretical concepts of DBR used in this
                 study](#theoretical-concepts-of-dbr-used-in-this-study)
-            -   [Summary of critiques and challenges in the intersection
-                of DBR and CHAT
-                interventions](#summary-of-critiques-and-challenges-in-the-intersection-of-dbr-and-chat-interventions)
-            -   [Design narratives](#design-narratives)
-            -   [Existing gaps in concepts &
-                critiques](#existing-gaps-in-concepts-critiques)
-            -   [Alternatives](#alternatives)
-            -   [Synthesis](#synthesis)
-        -   [An operationalised example of Activity Theory concepts in
-            context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+    -   [An operationalised example of Activity Theory concepts in
+        context](#an-operationalised-example-of-activity-theory-concepts-in-context)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Agency and AT - big picture in relation to ANT (Latour) and
@@ -53,11 +45,13 @@
         -   [Summary of Justification of choice - and how the RQs align
             with different
             concepts](#summary-of-justification-of-choice---and-how-the-rqs-align-with-different-concepts)
+            -   [Existing gaps in concepts &
+                critiques](#existing-gaps-in-concepts-critiques)
+            -   [Alternatives](#alternatives)
+            -   [Synthesis](#synthesis)
             -   [Signposting where concepts are used in the thesis (in
                 relation to
                 RQs)](#signposting-where-concepts-are-used-in-the-thesis-in-relation-to-rqs)
-            -   [The role of AT in the analysis of HCI -
-                MOVE?](#the-role-of-at-in-the-analysis-of-hci---move)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
     -   [Sections on DBR and AT](#sections-on-dbr-and-at)
