@@ -10,8 +10,6 @@
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
-            -   [Rising to the Concrete](#rising-to-the-concrete)
-            -   [Double stimulation](#double-stimulation)
     -   [Other strands of research based on activity
         theory](#other-strands-of-research-based-on-activity-theory)
         -   [Interventionist and utopian approaches involving broader

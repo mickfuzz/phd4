@@ -338,9 +338,9 @@ Cole and Engeström's exploration of two models of formative interventions [@val
 Cole notes the need to align research interventions with the ongoing aims of educational or community parters to maximise their ongoing sustainability beyond research period [@valsiner_cultural-historical_2007; @cole_fifth_2006]. To illustrate this point he describes a model of formative intervention in the form of an after school programme called the 5th Dimension. In a following section, this case study is used as a starting point for a comparison of different approaches to interventions based on CHAT.  Penuel [-@penuel_emerging_2014] proposes the formative intervention research as a useful term to encapsulate a variation of process closely aligned with CHAT including those drawing on elements of DBR. In reply, Engeström resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@sannino_formative_2016; @engestrom_methodological_2014; @engestrom_discursive_2011]. The following section addresses these concerns.
 
 
-#### Rising to the Concrete
+<!-- #### Rising to the Concrete -->
 
-The concept, of rising the the concrete via a germ cell of activity (or unit of analysis) which can be traced through the work of Vygotsky and Leontiev to Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity are conceived as concreted instances and iterations of underlying germ cell concepts, which exist as an abstracted form. For example, Marx's analysis of a complex capitalist system was based on a more simple germ cell of commodity exchange in pre-industrial economies. The works of Blunden and Davydov [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023; @davydov_problems_2008] provide as comprehensive justification the utility of the process of finding a germ cell/ unit of analysis in relation to collaborative and learning projects. Blunden describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
+The concept of rising the the concrete via a germ cell of activity (or unit of analysis) can be traced through the work of Vygotsky and Leontiev to Hegelian and Marxist concepts of holistic understandings of phenomena [@blunden_activity_2023]. Varied forms of activity are conceived as concreted instances and iterations of underlying germ cell concepts, which exist as an abstracted form. For example, Marx's analysis of a complex capitalist system was based on a more simple germ cell of commodity exchange in pre-industrial economies. The works of Blunden and Davydov [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023; @davydov_problems_2008] provide as comprehensive justification the utility of the process of finding a germ cell/ unit of analysis in relation to collaborative and learning projects. Blunden describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
 
 <!-- Mid-level construct of design / patterns heuristics [] -->
 
@@ -353,7 +353,7 @@ In this thesis, my role as both researcher and practitioner, make both aspects a
 <!-- It appears valid to question how applicable is Engeström application of this concepts to all research based on AT, given the consistency of application in AT papers,
  -->
 
-#### Double stimulation (DS)  
+<!-- #### Double stimulation (DS)   -->
 
 
 
@@ -417,6 +417,7 @@ Cole's recent work address the use of FoK to form ideocultures in educational in
 The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023]
 
 #### Community of learners
+
 **On cultural-historical repertoires**
 
 The work of Rogoff and Gutiérrez on
@@ -428,14 +429,8 @@ The model problematises the dichotomy of learner led, teacher led approaches [@m
 
 Guided participation as a middle ground between instruction and discovery.
 
-
 This focus on the cultural repertoires of group continues of the work of Gutiérrez on social design
 experiments [@gutierrez_social_2016-1; @gutierrez_social_2020], in a way which will be explored in Chapter 7.
-
-
-
-
-
 
 ## Putting AT to work via interventionist research in educational contexts (via CHAT interventions, formative interventions and DBR)
 
