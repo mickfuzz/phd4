@@ -383,18 +383,18 @@ USE AS A CHANCE TO COMPARE? -->
 
 <!-- The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process. -->
 
-## Other strands of research based on activity theory  
+## Theoretical concepts used in the Fifth Dimension, a formative intervention drawing on broader sociocultural concepts
 
-### Interventionist and utopian approaches involving broader sociocultural concepts
+A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues in the Laboratory of Comparative Human Cognition (LCHC). While a full exploration of the themes of this work are beyond the remit of this chapter (see [@cole_mind_1997] for a summary), this section focuses on some of the key concepts with a focus on the development and analysis of culture via a joint activity [@valsiner_cultural-historical_2007].  
 
-A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues focuses on the joint development and analysis of culture via a joint activity [@valsiner_cultural-historical_2007].  Here describing the  approach to culture as hybrid of American anthropological approaches and those of USSR researchers.
+Explore of Cole's approach in this area, is often profitably explored using case study of a series of after-school interventions known as the Fifth Dimension. The focus of the programme was on sustainability, mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis,  have been created or employed by varied researchers associated with LCHC. These concepts are mutual appropriation, third spaces, idiocultures, funds of knowledge and communities of learners.
 
-Cole's approach is often profitably explored using the 5D case study. The practicalities are is explore in more detail later, for now it is useful to describe the motivations of the research programme. The focus of the programme was on sustainability and mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023].  
+<!-- Here describing the  approach to culture as hybrid of American anthropological approaches and those of USSR researchers. -->
+#### Mutual appropriation in 5D
 
+The setting of the 5D was in community partners after-school clubs, with guiding direction from university researchers and additional support from undergraduate student volunteers. The main activity was playful tasks with the goal of fun and  building literacy. The concept of mutual appropriation has been used by Cole to explain and explore the process of the development of the practicalities and structure of the research programme. Cole noted that for an activity to be sustainable the goal of researchers, student volunteers. funders and those of the local partners needed, as much as possible, to align [@cole_fifth_2006]. 
 
-#### The focus on mutual cultural appropriation in work between institutional partners.
-
-Here cultural appropriation is seen as a positive and mutual process between instit
+To achieve this, Cole and colleagues describes a process of cultural appropriation as a positive and mutual process between institutions [@downing-wilson_design_2011]
 
 #### Third spaces, idiocultures and designed systems
 
