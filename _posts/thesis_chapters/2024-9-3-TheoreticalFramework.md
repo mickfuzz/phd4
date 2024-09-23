@@ -469,9 +469,6 @@ Indeed it seems there in now greater consensus that, there is value to bring mor
 
 This study, which aims to CHAT principles to a novel learning context of relative instability, is a potentially helpful case study in this endeavour.
 
-
-
-
 <!-- "In CHAT/DBR, innovations for learning are ideally historicized, meaning that the designs leverage recognized practices in partner communities. At the risk of stating the obvious, historicizing design in this way demands a degree of knowledge of and legitimacy within the partner community that design-based researchers in the learning sciences/DBR tradition do not always take time to develop."  [@oneill_understanding_2016, p.499] -->
 
 
@@ -496,9 +493,6 @@ While this approach may help address the more general bias of reviewers of journ
 One of the key motivations of DBR approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
 
 The rapid change of learning materials based on quick feedback suits this development of a novel learning design.
-
-
-
 
 
 ## An operationalised example of Activity Theory concepts in context
@@ -528,7 +522,7 @@ The object / objective of the activity is of note here.
 
 The objective of activity for learners was to make a game to share,
 
-However, in early stages particulary as the process was in flux, thus the main object shared by all was to create an effective pedagogy and working process to allow the joint creation of games. 
+However, in early stages particulary as the process was in flux, thus the main object shared by all was to create an effective pedagogy and working process to allow the joint creation of games.
 
 That process is mediated by tool use. The tools themselves have been created by a wider community including the facilitator (drawing on the product of a wider on-line community)
 
@@ -546,8 +540,6 @@ RQ2 of this thesis addresses the potential role of game design patterns (GDPs) a
 While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study. The justification for this is explored in more depth in Ch.4
 
 Later in Ch. 6 I employ a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs.
-
-
 
 
 ## Concepts of agency within CHAT
