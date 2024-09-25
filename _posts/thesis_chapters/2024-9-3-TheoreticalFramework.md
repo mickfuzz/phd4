@@ -479,13 +479,9 @@ This section outlines some concepts from DBR which I draw on in later chapters.
 
 **Design narratives**
 
-To address aspects of utility and replication of research and some of the challenges of representation in research outputs that Bakker cites, may be addresssed via the form of a design narrative [@hoadley_creating_2002-1]. The concept of design narrative emerged within DBR as a way to communicate the important detail of context and detail of the emerging learning design [@hoadley_creating_2002-1; @brase_knowledge_2024; @bell_theoretical_2004].
+To address aspects of utility and replication of research and some of the challenges of representation in research outputs that Bakker cites, may be addresssed via the form of a design narrative [@hoadley_creating_2002-1]. The concept of design narrative emerged within DBR as a way to communicate the important detail of context and detail of the emerging learning design [@hoadley_creating_2002-1; @brase_knowledge_2024; @bell_theoretical_2004]. I propose, that the increasing alignment of DBR and CHAT interventions, may be augmented in part through the use of design narratives [@brase_knowledge_2024] with systemic and analytical concepts provided by activity theory. For an example for such a design narrative using CHAT terms see the case study of in Cole and colleagues book on Fifth Dimension [@cole_fifth_2006].  
 
-I propose, that the increasing alignment of DBR and CHAT interventions, may be  augmented by using the existing tool of design narratives [@brase_knowledge_2024] with systemic and analytical concepts provided by activity theory.
-
-For an example for such a design narrative using CHAT terms see the case study of in Cole and colleagues book on Fifth Dimension [@cole_fifth_2006].  
-
-While this approach may help address the more general bias of reviewers of journals is noted by Bakker [@bakker_design_2018] the logisical problems fitting in the description of design process with the restriction. The format of this PhD thesis at least allows for a full exploration in Chapter 5.  
+While this approach may help address the more general bias of reviewers of journals is noted by Bakker [@bakker_design_2018] the logistical problems fitting in the description of design process with the restriction. The format of this PhD thesis at least allows for a full exploration in Chapter 5.  
 
 
 **Rapid iteration of learning resources**
@@ -495,65 +491,46 @@ One of the key motivations of DBR approach is to produce educational research th
 The rapid change of learning materials based on quick feedback suits this development of a novel learning design.
 
 
-## An operationalised example of Activity Theory concepts in context
+## A brief example of Activity Theory concepts within the  context of this study
 
-To situate the learner at this stage, concepts explored within the context of this study.
+THIS IS DONE IN MORE DEPTH AT OTHER STAGES?
+IS THIS WELCOME IN THIS CHAPTER. TO WHAT EXTEND?
+AND SHOULD THIS BE AFTER AGENCY?
+WHERE ELSE SHOULD THIS BE COVERED? THERE ARE MENTIONS CURRENTLY IN CHAPTER 4 AND 5.
 
-The following example gives broader picture by arranging the focus of the represenation as Cole does in describing the 5D programme  [@valsiner_cultural-historical_2007, p.497]
+To situate the learner at this stage, concepts explored in this chapter are explored with examples from this study. The figure below represent a broader picture of the activity within the context of other activity systems as seen in the work of Cakir and colleagues represened above in Fig 3.  [@cakir_contradictions_2022]. However, following an approach taken by Lecusay [-@lecusay_telementoring_2015], the processes at work in the emerging shared object are extensive enough merits examination an activity system in its own right.
 
-![](./Pictures/At_dia_3_v2.png){width=90%}
+![](./Pictures/At_dia_3_v3.png){width=90%}
 Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
 
-This echoes research depicting wider constellations of activity systems working together on shared project (see diagram in) [@cakir_contradictions_2022].
-
-The broad intention here would be to examine the parts that make up each of the system with the learning experience being a partnership intervention between the activity systems of different stakeholders.
-
-The following diagram includes a break down of factors typified by Engeström's model.
-
-
-
-
-![](./Pictures/At_dia_7_simplified_3gat_v1.png){width=90%}
+The representation above allows for a conception that funds of knowledge and existing repertoires of communication from the activity systems of different stakeholders and learning contribution to the new, emerging system. Following a 3GAT approach, the following diagram includes a break down of the elements of this shared system at the level of activity of participants creating digital games within the context of the sessions hosted at university.
+![](./Pictures/At_dia_7_simplified_3gat_v2.png){width=90%}
 Fig 3.x - a wide scope of activity
 
-CHANGE THE OBJECT TO BE - CREATING A WORKING PEDAGOGY FOR GAME MAKING  - OBJECTIVE IS TO MAKE A GAME
 
-The object / objective of the activity is of note here.
+The object of the activity is of note here as there is some expansion in terms of the scope and understanding of the object. While the object of activity for learners was to make a game, in early stages the learning process was experimental. As such, the main object shared by both family and university participants was to develop an effective pedagogy and working processes to allow the joint creation of games.
 
-The objective of activity for learners was to make a game to share,
+This static representation is therefore a basis for future  development and transformation which is taken up again in Chapter 5.
 
-However, in early stages particulary as the process was in flux, thus the main object shared by all was to create an effective pedagogy and working process to allow the joint creation of games.
+HOW IS THIS DONE AT OTHER STAGES? AND SHOULD THIS BE AFTER AGENCY?
 
-That process is mediated by tool use. The tools themselves have been created by a wider community including the facilitator (drawing on the product of a wider on-line community)
-
-Th
-
-
-**On development**
-What this static representation does not cover is the development and transformation.
-The next sections address this with relevant concepts.
-
-
-**Germ cell and analysis**
+<!-- The next sections address this with relevant concepts. -->
+<!-- **Germ cell and analysis**
 RQ2 of this thesis addresses the potential role of game design patterns (GDPs) as a guiding process in varied forms.
 
 While this concept of germ cell / unit of analysis is typically used in a larger scope of activity, the principles apply this smaller scope. While game making can as an overarching activity system, a narrower activity whose objective is implementing GDPs became a significant unit of activity for this study. The justification for this is explored in more depth in Ch.4
 
-Later in Ch. 6 I employ a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs.
+Later in Ch. 6 I employ a narrow focus on the implementation of gameplay design patterns (GDPs) allowing for the identification and analysis of patterns of participant behaviour and introduced and emerging community practices to do with GDPs. -->
 
 
 ## Concepts of agency within CHAT
 
 ### Agency and AT - big picture in relation to ANT (Latour) and agency of humans and artefacts
 
-Who and what has agency is a thorny philosophical question.
+Who and what has agency is a philosophical question with very practical applications in the design of learning contexts. Some interpretations of agency distinguish between agency as a personal property and one that exists within a context.
 
-In addition socio cultural concepts of agency also distinguish between agency as a personal property and one that exists within a context.
-
-Stetsenko places agency in a socio-cultural theory between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
-[@stetsenko_critical_2020; @matusov_mapping_2016], thus acknowledging both the importance of context and human volition.
-
-For the purposes of this thesis agency is considered as a a cultural phenomenon which humans experience in relation to their peers and learning environment.  
+Stetsenko places agency between conceptions of humans as chiefly individualistic or instead as helpless bodies in wider cultural phenomenon   
+[@stetsenko_critical_2020; @matusov_mapping_2016], thus acknowledging both the importance of context and human volition. For the purposes of this thesis agency is chiefly considered as a a cultural phenomenon which humans experience in relation to their peers and learning environment.  
 
 The following sections draw on research in line with this understanding to further clarify dimensions of agency.
 
