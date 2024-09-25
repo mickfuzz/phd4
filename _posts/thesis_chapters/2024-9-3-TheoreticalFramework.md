@@ -559,16 +559,15 @@ The work of Nardi and Kaptelinin is also helpful here to examine the concept of 
 
 Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
 
-While there is a The wealth of HCI literature in line with activity which discusses and applies concepts of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
 
 **Link to next section**
 
-IN A SIMILAR WAY TO Affordances?
+
+While there is a The wealth of HCI literature in line with activity which discusses and applies concepts of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
+
 For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
 
 The following section is more concerned with group actions and situations where agency is not experienced as delegated but rather created.
-
-
 
 <!-- There is a link between double stimulation and affordances [@romero_analysing_2022] -->
 <!-- A good summary of affordances related to HCI is here [@galliers_affordance_2017] -->
