@@ -61,7 +61,13 @@ The term missions became a playful way to represent two key emerging aspects of 
 For participants their need to and requests to add new features to their game spurred me to research and produce support materials to aid this.
 
 After several iterations of the game making programme the end result was a online menu or collection of
-resources to support themed by the type of game design pattern. This categorisation drew on existing work on game design patterns by Schnell and Salen. 
+resources to support themed by the type of game design pattern.
+
+Design patterns in a computing context  are common code structures often shared in a professional context to build a familiarity with
+
+I can remember them being popular and perceived as useful by fellow students when I completed a Computing masters.
+
+This categorisation drew on existing work on game design patterns by Salen to novice scaffold the creative process of novice game makers.  
 
 
 
@@ -80,6 +86,13 @@ This means of drawing on home styles of interaction, in a way that [@gutierrez20
 
 The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context.
 
+For reason of space in this blog post I will not go into great detail about the emergence of processes which support the development of agency in this community of game makers.
+
+Instead in this final section, I share some practical recommendations which result from analysis of the video data and interviews with participants.
+
+* Allow learners to draw on their home repertoires by creating space, and choice.
+* Start with a half-baked game. A starting template which all learners adapt
+*  Incorporate regular playtesting. but with relatively little perscription to encourage new repetoires to emerge.
 
 
 ### 3M as more than the sum of its parts
