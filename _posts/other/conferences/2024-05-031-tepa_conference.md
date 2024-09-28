@@ -42,13 +42,48 @@ The benefits of game making as a process have been well outlined in a book and a
 
 I adopted an approach which aligns with the increasing convergence of activity theory interventions with design based research [@penuel_emerging_2014] to collaboratively create a game making pedagogy drawing on the experience and working patterns of families, mostly in parent-child pairings. Over four iteration of research a pedagogy and set of tools emerged which I present as ready for further testing in different situations.  
 
- Mention agency? 
+Mention agency?
 
 ### Describing the characteristics  of the 3M game making pedagogy
 
-In early dissemination of research I outlined the characteristics of the
+In early dissemination of research I outlined the characteristics of the pedagogy as a 3M framework incorporating missions, methods, and maps. The maps aspect was highlighted to help adapt the process for teacher looking to align skills learned in game making with curricular concerns and concepts. A chapter outlines this approach [@chesterman ]
+
+The main challenge of the research and process evolved to chart the development of fluency in the game making and coding process using a _mission_ based approach and the incorporation of home interests through the use of inclusive pedagogical _methods_ . Given the limited space of this blog post I'll concentrate on those aspects here.
+
+
+
+### Missions
+
+The term missions became a playful way to represent two key emerging aspects of pedagogy, firstly the application of short term coding and asset production goals by participants and secondly social side missions which reinforced working patterns.
+
+**Main Missions**
+
+For participants their need to and requests to add new features to their game spurred me to research and produce support materials to aid this.
+
+After several iterations of the game making programme the end result was a online menu or collection of
+resources to support themed by the type of game design pattern. This categorisation drew on existing work on game design patterns by Schnell and Salen. 
+
+
+
+While some learners took to the resources created to carefully implement their chosen patterns, others approached game making in different ways. I began to notices these behaviours and sought to encourage them.
+
+**Playful  Missions**
+
+The vehicle to encourage these diverse approaches sprang from a conversation with a colleague interested in playful learning, John Lean, about Bartle's game playing styles, Briefly, this research explored diverse motivations and styles of game play on digital adventure games.
+
+MORE ON THIS
+
+This means of drawing on home styles of interaction, in a way that [@gutierrez2020utopian] would refer to as incorporation of home and play repetoires of practice, spurred me to explore other ways in which funds of identity could be incorporated into the game making process with an aim to increase agency therein.
+
+
+### Inclusive methods to build participant agency
+
+The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context.
+
 
 
 ### 3M as more than the sum of its parts
+
+In later analysis, the focus widened to address agency and the co-creation of the pedagogy,  
 
 Choice and impact in different dimensions. Relational and authorial agency.
