@@ -56,39 +56,32 @@ The main challenge of the research and process evolved to chart the development 
 
 The term missions became a playful way to represent two key emerging aspects of pedagogy, firstly the application of short term coding and asset production goals by participants and secondly social side missions which reinforced working patterns.
 
-**Main Missions**
+**Main Missions (Game Design Patterns)**
 
-For participants their need to and requests to add new features to their game spurred me to research and produce support materials to aid this.
+For participants their need to and requests to add new features to their game spurred me to research and produce support materials to aid this. To do this I drew upon the educational posibilities of design patterns. While design patterns are most commonly used for computing students at higher education to teach object oriented computing, they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
 
-After several iterations of the game making programme the end result was a online menu or collection of
-resources to support themed by the type of game design pattern.
+In the learning design of this research, the process of following the request of participants led me to create resources in the form of code examples and snippets based on the requests for different gameplay design patterns (GDPs). Rather than the more complex, structural form of traditional object-oriented code design pattern, gameplay patterns focus on the end users experience.
+I drew on the work on Schnell and Salen to scaffold the creative process of novice game makers through a categorisation on game design patterns. After several iterations of the game making programme the end result was a online menu or collection of resources themed by the type of game design pattern which is available online here.
 
-Design patterns in a computing context  are common code structures often shared in a professional context to build a familiarity with
+As well as being an effective pedagogical approach, the implementation of GDPs, in line with activity theory, became the ideal candidate as a unit of activity to anaylse the emerging community processes of game making of participants. While some learners took to the resources created to carefully implement their chosen patterns, others approached game making in different ways. I began to notices these behaviours and sought to encourage them.
 
-I can remember them being popular and perceived as useful by fellow students when I completed a Computing masters.
-
-This categorisation drew on existing work on game design patterns by Salen to novice scaffold the creative process of novice game makers.  
+<!-- I can remember them being popular and perceived as useful by fellow students when I completed a Computing masters. -->
 
 
+**Playful Missions (encouraging social repertoires)**
 
-While some learners took to the resources created to carefully implement their chosen patterns, others approached game making in different ways. I began to notices these behaviours and sought to encourage them.
+The vehicle to encourage these diverse approaches sprang from a conversation with a colleague interested in playful learning, John Lean, about Bartle's game playing styles, Briefly, this research explored diverse motivations and styles of game play on digital adventure games. I applied the same approach to investigate and reflect back the different game making styles that began to emerge in the community. Some families carefully set goals and followed resources to implement them. Others took more social approaches, learning from others and trading ideas and encouragement. Still others enaged in the process in more tricky ways, creating confusing or unusual games or working against some of the suggested creative practices. A summary of some of the different making styles is included as Fig x.
 
-**Playful  Missions**
+Fig x on Game making styles.
 
-The vehicle to encourage these diverse approaches sprang from a conversation with a colleague interested in playful learning, John Lean, about Bartle's game playing styles, Briefly, this research explored diverse motivations and styles of game play on digital adventure games.
+I became intrigued by these styles and began to reflect back some of my observations. In one iteration, I integrated playful additional (side) missions into the program which legitimised some of the  
 
-MORE ON THIS
-
-This means of drawing on home styles of interaction, in a way that [@gutierrez2020utopian] would refer to as incorporation of home and play repetoires of practice, spurred me to explore other ways in which funds of identity could be incorporated into the game making process with an aim to increase agency therein.
+This means of drawing on home styles of interaction, in a way that [@gutierrez2020utopian] would refer to as incorporation of home and play repetoires of practice, spurred me to explore other ways in which funds of identity could be incorporated into the game making process with an aim to increase agency therein. I explore
 
 
 ### Inclusive methods to build participant agency
 
-The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context.
-
-For reason of space in this blog post I will not go into great detail about the emergence of processes which support the development of agency in this community of game makers.
-
-Instead in this final section, I share some practical recommendations which result from analysis of the video data and interviews with participants.
+The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context. Building agency in this emerging community of game makers is a process involving individual learners working as part of a community evolving joint working practices and collective applied knowledge and evolving the tools needed.   For reason of space in this blog post I will not address my analysis of emerging processes which support the development of agency in this community of game makers. Instead in this final section, I share some practical recommendations which result from analysis of the video data and interviews with participants.
 
 * Allow learners to draw on their home repertoires by creating space, and choice.
 * Start with a half-baked game. A starting template which all learners adapt
@@ -97,6 +90,5 @@ Instead in this final section, I share some practical recommendations which resu
 
 ### 3M as more than the sum of its parts
 
-In later analysis, the focus widened to address agency and the co-creation of the pedagogy,  
 
 Choice and impact in different dimensions. Relational and authorial agency.
