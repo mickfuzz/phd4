@@ -630,28 +630,7 @@ While the three planes provided a higher level framework, specifics of the data 
 
 
 
-
-
-
-#### Justification of selecting sessions and sections for more detailed analysis
-
-Then deciding on 8-10 video sessions warranting full coding of activity.
-This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
-
-
-Criteria  for inclusion included both practical and theoretical considerations.
-
-- Good quality recording
-- Diversity of kinds of participants, ages especially
-- Diversity of participant actions in terms of tasks being worked on
-- Diversity of kinds of pair and peer interactions
-
-
-A page of quick analysis of the files online here helped to shape that decision on what sections
-https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
-
-
-### Use of journal data
+### Use of journal data (in stage one)
 
 STAGE ONE
 My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
@@ -694,25 +673,41 @@ My journal entries contain notes and initial analysis of workshop sessions and r
 Schema for initial thematic analysis in stage two  was informed by literature review, early analysis of journal entries and  emerging observations of data in stage one
 
 
-
-
 #### Partial transcription/description of data
 
 The partial transcription of video data formed a significant part of the data analysis. The large amount of video data recorded forced a prioritisation of data to be transcribed. It also forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
 
-To aid the process of coding, I broke up analysis of  in 5 minute sections. In addition, when these sections were described I imported data into nvivo and coded each of the 5 minute sections to the
+To aid the process of coding, I broke up analysis of  in 5 minute sections.
 
 This limited the accuracy of the process. In part, this element of the research was limited by the practicalities of working with this amount of data.
 
-I priorised more data as this was needed to get a greater scope of activity to allow analysis of wider community activity and ...
+I priorised more data as this was needed to get a greater scope of activity to allow analysis of wider community activity.
 
-#### Partial coding of video at stage 2
+
+**Justification of selecting sessions and sections for more detailed analysis**
+
+Then deciding on 8-10 video sessions warranting full coding of activity.
+This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
+
+
+Criteria  for inclusion included both practical and theoretical considerations.
+
+- Good quality recording
+- Diversity of kinds of participants, ages especially
+- Diversity of participant actions in terms of tasks being worked on
+- Diversity of kinds of pair and peer interactions
+
+
+A page of quick analysis of the files online here helped to shape that decision on what sections
+https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
+
+
+#### Initial, coding of video at stage 2
 
 
 Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
 
 While sstage one surfaced themes, stage two created a coding structure in nvido
-
 
 Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
 
@@ -724,24 +719,64 @@ Describing different grades and pass overs of the video data.
 
 - quick analysis
 - sections coded and described in 5 minute chunks
-- themes of interest identified - in relation to evolving RQs as per DBR
+- themes of interest identified - in relation to evolving RQs  -  to create evolving drafts of the emerging themes
 - some sections transcribed in more details based in themes, more detail on gesture analysis also added
 
 NOTE - this document outlines thoughts on existing framworks which could inform coding process.
 https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#heading=h.3565tm76nud9
 
 
-
-#### What was  excluded from initial coding and why
+#### What was considered but then  excluded from initial coding and why
 
 The following themes  emerge as potential learning outcomes in the learning model, and were observed in interactions in stage one
 
 - Elements of Computational Thinking
 - Systems Thinking Concepts
+- Design cycle stages
+- Types of Gameplay Design Patterns
 
-However, they were note included at stage 2 as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
+CT   was not included at stage 2 as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
 
-##### Coding Participant Roles and Interactions.
+Systems thinking was promising but not a proposed part of the learning design, and the data in P2 and P3 which became a chief focus of thus study was not as rich in this area as later P4 data.  
+
+#### Coding Design Cycle Stages
+
+PERHAPS DROP OR AT LEAST REALLY EDIT DOWN
+HOW MUCH IS IN LR?
+
+<!-- There are similar stage based approaches to creating a digital project. Firstly project based learning (PBL), then Inquiry based learning, finally design thinking. This design could adopt any one of these, however the creation of a digital product more closely resembles a design approach with testing stages of the created product. -->
+
+<!-- The design process characteristics are broadly as follows; the process is often iterative, involves evaluation and separates planning from implementation. -->
+
+In Chapter 2, the potential of iterative design thinking as scaffolding approach was surfaced. I was interested in the promise of this.
+
+It is possible to be more specific when coding and include a wider terminology of technology and domain specific language. For example, debugging in the area of computer programming and playtesting in the domain of game making. I have had to weigh up the value of including these more specific terms and deciding to keep a more generic approach primarily to reduce complexity while undertaking video coding. Sub-categories add complexity and time to the process without necessarity adding a great deal.  
+ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
+
+IS THIS STILL EXPLORED IN CH.4 - COULD IT MOVE HERE?
+I was interested in the question what could  coding based on the different game elements that are being added to the game serves to illustrate. The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008]. As way of coding initially I considered the MDA framework (mechanics, aesthetics, dynamics) due to the focus on the user experience being taken into account.
+
+
+
+This distinction was helpful in preparing resources as a navigational framework, as explored in chapters four and five.
+In that process I adapted the MDA framework to slimplify and match common features that had been suggested by participants. Four categories resulted: game mechanics,  game space, game polish (aesthetics), game challenge (dynamics).
+
+This categorisation prompted  a line of questioning, would the application of different kinds of patterns, yield different results.
+
+It did not yield particularly interesting insights. However, in coding I noted the use of the game design patterns as mediational strategies which proved to me much more fruitful. Thus I began to list the different mediational strategies that involved GDPs and this evolved into one of the main coding theme.
+
+<!-- ##### Coding Game Design Patterns
+
+NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal - OR MOVE - IN DESIGN? PROBABLY JUST REFERENCE REALLY BRIEFLY AND PICK UP IN DESIGN
+
+OR DROP TOTALLY! eg.
+
+-->
+
+
+### Final coding scheme (but this is stage 4)
+
+#### Coding Participant Roles and Interactions.
 
 Evolving notes on coding of roles and interactions are in an online document here.
 
@@ -760,50 +795,6 @@ Specifically, the following were removed from Barron's typology, parent as emplo
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
 
-##### Coding Design Cycle Stages
-
-There are similar stage based approaches to creating a digital project. Firstly project based learning (PBL), then Inquiry based learning, finally design thinking. This design could adopt any one of these, however the creation of a digital product more closely resembles a design approach with testing stages of the created product.
-
-The design process characteristics are broadly as follows; the process is often iterative, involves evaluation and separates planning from implementation.
-
-Resnick in this area has written of a creative design spiral.
-
-The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share [@hester_engineering_2007].
-
-It has been adopted by the area of computing is one used in a recent book on coding by Bers [@bers_coding_2021].
-
-It is possible to be more specific when coding and include a wider terminology of technology and domain specific language. For example, debugging in the area of computer programming and playtesting in the domain of game making. I have had to weigh up the value of including these more specific terms and deciding to keep a more generic approach primarily to reduce complexity while undertaking video coding. Sub-categories add complexity and time to the process without necessarity adding a great deal.  
-ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
-
-<!-- ##### Coding Game Design Patterns
-
-NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal - OR MOVE - IN DESIGN? PROBABLY JUST REFERENCE REALLY BRIEFLY AND PICK UP IN DESIGN
-
-OR DROP TOTALLY! eg.
-
-I was interested in the question what could  coding based on the different game elements that are being added to the game serves to illustrate.
-
-The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008].
-
-As way of coding initially I considered the MDA framework for the simplicity and the focus on the user experience being taken into account.
-
-- mechanics
-- aesthetics
-- dynamics
-
-Finally I adapted this framework to match the one use for documentation.
-
-- Game mechanics
-- Game Challenge
-- Game Space
-- Game Polish (aesthetics)
-
-This had the following limits.
-
-- didn't really add much to
-- in someways the division was arbitrary
-
-Also, while helpful in preparing resources as a navigational framework, as explored in chapters four and five, the coding to participant engagement with creating different areas of game elements / design pattern, it did not yield particularly interesting insights in itself. However, in coding I noted the use of the game design patterns as mediational strategies which overlapped with the -->
 
 
 
@@ -848,7 +839,7 @@ The documentation and other forms of support evolved during each phase -
 
 I did not try to collect any personal notes that participants used for planning. And this was minimal for many participants.
 
-Chapter four explores the evolutin of these resources using AT as a tool for analysis of the existing and emerging contradictions in activity.
+Chapter four explores the evolution of these resources using AT as a tool for analysis of the existing and emerging contradictions in activity.
 
 ### Data Analysis Stage Three
 
@@ -856,6 +847,8 @@ After drafts of the emerging themes were in place, these were sued to create a r
 
 **Integrate the thoughts here**
 https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit#bookmark=id.k9kvu0182p6u
+
+STAGE 3 - In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
 
 
 #### Final coding schema for thematic analysis
