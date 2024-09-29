@@ -50,8 +50,6 @@ In early dissemination of research I outlined the characteristics of the pedagog
 
 The main challenge of the research and process evolved to chart the development of fluency in the game making and coding process using a _mission_ based approach and the incorporation of home interests through the use of inclusive pedagogical _methods_ . Given the limited space of this blog post I'll concentrate on those aspects here.
 
-
-
 ### Missions
 
 The term missions became a playful way to represent two key emerging aspects of pedagogy, firstly the application of short term coding and asset production goals by participants and secondly social side missions which reinforced working patterns.
@@ -88,7 +86,14 @@ The term agency here is understood within a socio-cultural perspective as not a 
 *  Incorporate regular playtesting. but with relatively little perscription to encourage new repetoires to emerge.
 
 
-### 3M as more than the sum of its parts
+### Future possibilities of this research
 
+While the application of the research is still at its early stages and there has not yet been any wider testing to see how general the findings are, I have good reason to believe that it holds a good amount of promise.
 
-Choice and impact in different dimensions. Relational and authorial agency.
+Firstly the overall approach is aligned with solid foundations of use of funds of identity as an inclusive and transformatory practice for young people using digital technology, as explored in a special issue of Mind, Culture and Activity.
+
+Secondly, the process of drawing on games a base for the expression of thes funds of identity remains a valid approach, for while research on game making may have waned in terms of the next fashionable thing, its interest from young people endures.  
+
+Thirdly, in light of increase concerns about risky online activity and screen time addiction, family involvement in the digital lives of young people is an ongoing issue. Game making as an joint family activity would appear to offer an accessible and inclusive foundation from which to explore further digital issues impacting on home lives.
+
+Finally, although I am not holding my breath on this one, we can only hope that the pendulum of digital education on the UK and beyond may swing back from the position typified by Michael Gove's hobby horse of the power of abstracted knowledge, to a more applied approach typified by Paperts visions of concrete, hands on computing experiences involving projects which can motivate personal connections to underlying content knowledge in context.    
