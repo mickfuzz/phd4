@@ -50,7 +50,7 @@ In early dissemination of research I outlined the characteristics of the pedagog
 
 The main challenge of the research and process evolved to chart the development of fluency in the game making and coding process using a _mission_ based approach and the incorporation of home interests through the use of inclusive pedagogical _methods_ . Given the limited space of this blog post I'll concentrate on those aspects here.
 
-### Missions
+### Missions: leading activities offering both structure and choice
 
 The term missions became a playful way to represent two key emerging aspects of pedagogy, firstly the application of short term coding and asset production goals by participants and secondly social side missions which reinforced working patterns.
 
@@ -77,16 +77,18 @@ I became intrigued by these styles and began to reflect back some of my observat
 This means of drawing on home styles of interaction, in a way that [@gutierrez2020utopian] would refer to as incorporation of home and play repetoires of practice, spurred me to explore other ways in which funds of identity could be incorporated into the game making process with an aim to increase agency therein. I explore
 
 
-### Inclusive methods to build participant agency
+### Methods: Inclusive methods to build participant agency
 
-The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context. Building agency in this emerging community of game makers is a process involving individual learners working as part of a community evolving joint working practices and collective applied knowledge and evolving the tools needed.   For reason of space in this blog post I will not address my analysis of emerging processes which support the development of agency in this community of game makers. Instead in this final section, I share some practical recommendations which result from analysis of the video data and interviews with participants.
+The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context. Building agency in this emerging community of game makers is a process involving individual learners working as part of a community evolving joint working practices and collective applied knowledge and evolving the tools needed.  For reason of space in this blog post I will not address my analysis of emerging processes which support the development of agency in this community of game makers. Instead in this final section, I share some practical recommendations which result from analysis of the video data and interviews with participants.
 
-* Allow learners to draw on their home repertoires by creating space, and choice.
-* Start with a half-baked game. A starting template which all learners adapt
-*  Incorporate regular playtesting. but with relatively little perscription to encourage new repetoires to emerge.
+Start with a half-baked game [@kynigos_half], A starting template which all learners adapt from providing a shared structure which promotes peer learning and helps facilitators stay familiar with participants evolving code.  
+
+Allow learners to draw on their home interests by creating an inclusive creative environment where they are supported with relevant code and practice structures but are able to incorporate their own choices.
+
+Allow flexible working practices and incorporate regular play-testing as a way to encourage learners to be able to draw on existing learning relationships they have with family members and to allow new repertoires of practice with peers to emerge.
 
 
-### Future possibilities of this research
+### Concluding remarks
 
 While the application of the research is still at its early stages and there has not yet been any wider testing to see how general the findings are, I have good reason to believe that it holds a good amount of promise.
 
