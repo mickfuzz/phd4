@@ -541,69 +541,54 @@ Edwards' concept of relational agency is framed as an extension to the concept o
 
 Matusov and colleagues' interpretation of a dynamically emergent dimension of agency is complex and diverse allowing agency to be recognised in distributed forms such as 'emerging collective agency, agency of bureaucracy, non-human agency of animals, agency of distributed machine-human network, agency of Internet, and so on' [@matusov_mapping_2016, p. 432]. The authours recognise the value of this framing of agency to explore and address constraints and designing support in the form of affordances in the learning environment. As this study involves the use of computer systems to learn computer coding, it is of value Affordances are well  of human computer interaction (HCI), there is value in exploring agency in this context. Work by Bærentsen and Trettvik [@ba_erentsen_activity_2002] linking the use of affordances in HCI to a foundation in activity theory highlights, following Gibson [@gibson2014theory], that affordances exist as opportunities provided by the environment and objects within it, either natural or culturally created, to organisms within that environment. The authors also note that the distinction between the intended (designed) use of affordances and their possible use, an important distinction in the field of HCI, is one best explored via activity theory's study of the interaction of humans and artefacts as joint activity, thus preventing the view that that affordances have magical powers outside of a cultural context.
 
-The work of Nardi and Kaptelinin is also helpful here to examine the concept of designed affordance in learning environments through a lens of activity theory [@kaptelinin_activity_2012]. The authours also regrounding Gibson's concept of affordances as  possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. They situate the creation of affordances in designed systems as a form of delegated agency [@kaptelinin_activity_2012]. Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
+The work of Nardi and Kaptelinin is also helpful here to examine the concept of designed affordance in learning environments through a lens of activity theory [@kaptelinin_activity_2012]. The authours also regrounding Gibson's concept of affordances as  possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. They situate the creation of affordances in designed systems as a form of delegated agency [@kaptelinin_activity_2012]. Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of agency in actor network theory, objects would not delegate agency to a human [@kaptelinin_activity_2012, p.42]. This is not to say that non-human objects have no impact on others as once the artefacts are placed in context may have unintended consequences creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011]. Thus not withstanding, the original volition or motivations stem from human-initiated activity. The following section on authorial concept of agency is not experienced as delegated but rather created.
 
 
-**Link to next section**
 
 
-While there is a The wealth of HCI literature in line with activity which discusses and applies concepts of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012].
 
-For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022].
 
-The following section is more concerned with group actions and situations where agency is not experienced as delegated but rather created.
+
+
+<!-- For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022]. -->
+
+
 
 <!-- There is a link between double stimulation and affordances [@romero_analysing_2022] -->
 <!-- A good summary of affordances related to HCI is here [@galliers_affordance_2017] -->
 <!-- Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1]. -->
 
-<!-- This study follows socio-cultural take that while objects have a forma of agency, affordances are not magic and become interesting to educators as part of activity stemming from human-initiated activity. -->
-
-<!-- While there is a The wealth of HCI literature in line with activity which discusses and applies concetps of affordances, the focus is often on the individual rather than on collective action [@kaptelinin_affordances_2012]. -->
-
-<!-- **Link with TADS?**
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action. -->
-
 
 #### Authorial and transformative agency
 
-Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency,
-as the most active and best aligned with an ideal form of education.
-REDEFINE
-
-Matusov bases much of the definition of authorial agency on existing work from social cultural school drawing on of increasing participation in educational communities of practice [], and transformational concepts of agency from Stetsenko in the form of TAS [@martin_theory_2015; @stetsenko2014transfromative ] and Sannino in the form of TADS []
-
-This section focuses on transformative agency. JUSTIFY
+Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency, as the most active and best aligned with an ideal form of education, in doing so drawing on existing work from CHAT researchers on and transformational concepts of agency. This section focuses on the work on Stetsenko in the form of transformative activist stance (TAS) [@martin_theory_2015; @stetsenko2014transfromative] and Sannino in the form of TADS [@sannino_transformative_2022]
 
 ####  Transformative activist stance TAS
 
-Stetsenko critiques both conceptions of human agency an individual attribute or a negation of human agency which views individuals as helpless bodies in wider cultural phenomenon [@stetsenko_critical_2020; @matusov_mapping_2016]. Instead, agency involves both contextual tensions and human volition.
+While there is a wealth of research  which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012]. Additionally, while Stetsenko's [@stetsenko2020radical] critique of relational approaches to agency, both outside and within CHAT circles, invites us to resist the marginalisation of the role of the individual. Stetsenko critiques both conceptions of human agency an individual attribute or a negation of human agency which views individuals as helpless bodies in wider cultural phenomenon [@stetsenko_critical_2020; @matusov_mapping_2016]. Instead, agency involves both contextual tensions and human volition. Thus, Stetsenko proposes a transformative activist stance (TAS) to  address the societal urgency of agency with a direct focus on political dimensions. In doing so, Stetsenko advocates a _flagrantly partisan_ approach for researchers, as a reaction to a perceived neutrality or distancing present post-modern and post-human approaches [@stetsenko_hope_2020; @stetsenko_critical_2020].
 
+While the overall focus being societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in a group home for adolescents [@vianna_connecting_2011], and ?
 
-Stetsenko proposes a transformative activist stance (TAS) to  address the societal urgency of agency with a direct focus on political dimensions. In doing so, Stetsenko advocates a _flagrantly partisan_ approach for researchers, as a reaction to a perceived neutrality or distancing present post-modern and post-human approaches [@stetsenko_hope_2020; @stetsenko_critical_2020]. While the overall focus being societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in a group home for adolescents [@vianna_connecting_2011], and ?
-
-
+DEVELOP WITH EXAMPLES?
+For Stetsenko the stakes are high and there is still everything to play for [@hall_marxism_2023].
 
 #### Transformation agency through double stimulation (TADS) - On double stimulation and agency
 
-The Helsinki schools focus on transformative agency also advocates the importance of intervention and transformation as a desirable aspect of research, [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. The vehicle for this in recent years has been the concept of transformation agency through double stimulation (TADS). Similarly to TAS, the objective of TADS is increased agency of participant in research interventions. In addition. TADs researchers articulate a desire to understand a broad picture of agency from a CHAT perspective. As outlined above double stimulation describes additional stimuli beyond the first stimulus understood as the motivation of the activity. In the Change Lab (CL) interventions for example, the active use of secondary stimulus can facilitate agency [@sannino_principle_2015].
+The Helsinki schools focus on transformative agency also advocates the importance of intervention and transformation as a desirable aspect of research, [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. The vehicle for this in recent years has been the concept of transformation agency through double stimulation (TADS). Similarly to TAS, the objective of TADS is increased agency of participant in research interventions. In addition. TADs researchers articulate a desire to understand a broad picture of agency from a CHAT perspective. As outlined above double stimulation describes additional stimuli beyond the first stimulus understood as the motivation of the activity. In the Change Lab (CL) interventions for example, the active use of secondary stimulus can both analyse and facilitate agency by provoking reflection [@sannino_principle_2015].
 
-MORE
-
-TADS is most commonly explored in relation to CL
-and professional settings. Despite its promise of TADS less structured settings, there is a paucity of study in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93]
-
-However, the broad concepts of participants actively overcoming blockages caused by contradictions are well explored in the fields of HCI and DBR. While these fields often focus on revising designs of educational tools to address conflicts, the input and agency of participants is still an acknowledged factor at play [@karanasios_moving_2021].
-
-Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+Studies of transformative agency, for example within CL, often involve a significant longitudinal aspect. However, the TADS concepts has been applied in research over much shorter time frames and in more naturalistic settings such as hospital practice [@hopwood_forward_2022; hopwood_volitional_2022], higher education [@grant_double_2022], and digital education [@aagaard_teacher_2022]. The concept of volitional action by subjects as a foundation for transformation is used in these shorter term studies to explore the processes of decision forming and implementation [@virkkunen_dilemmas_2006; @sannino_double_2015]. Here the secondary stimuli are used by participants as a spur and then as leverage in volitional acts. To address this aspect, Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
     We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
 
-In this metaphor emphasises the active volition of participants to overcome tensions and blockages in learning. In our context learners would throw an anchor of intention out into the learning environment to then pull on to
-Not all throws will be successful. The anchor may slip or it may catch on something in the learning environment that allows the leaner to pull  
+![](./Pictures/warping.jpg){width=90%}
+    Figure 3. x - Warping using a kedging anchor
 
-Sannino's metaphor of a kedging anchor thrown by participants to pull themselves out of a conflict or blockage is particularly useful to explain  processes where participants seek to resolve conflicts and problems in an existing setting. Indeed, much research employing TADS process and kedging metaphor is located in workplace settings. As such, the designed nature of the environment is less relevant and less explored than research on the co-creation of a new learning environment. By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques.
 
+In this metaphor emphasises the active volition of participants to overcome tensions and dilemmas in activity which leave participants at an impasse, equivalent to be stuck on a sandbank. In the context of an educational intervention learners would throw a kedge anchor out into the learning environment in the form of an intention action  to then pull themselves out the impasse they find themselves in.
+
+While not all attempts, for example a direct request for help from a peer or teacher, will be successful, some will catch and result in transformation for the student, and potentially a wider shift in the conditions of the educational environment itself. This may be particularly relevant in the setting of this study, where the designed learning environment is being co-created by both participants and researchers.  
+
+<!-- By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques. -->
 
 
 ## Conclusion / Synthesis.
@@ -613,20 +598,26 @@ Synthesis of different concepts as they are applied to the context of this study
 - DBR vs AT?
 - Role of 3 planes?
 - Scope of concepts of agency
+- Urgency / activist stance
 
 
 ### Summary of Justification of choice - and how the RQs align with different concepts
 
 For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
+
 NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
 
 HOWEVER - MOVE TO DISCUSSION. IS A STRICT ADHERANCE TO Helsinki SCHOOL
 
 
-
 This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.  
 
 However, given this interpretation, this study does aim for a full application of this concept in analysis, an ambition of which the limits are explored in the conclusion.
+
+
+TADS is most commonly explored in relation to CL
+and professional settings. Despite its promise of TADS less structured settings, there is a paucity of study in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93]. However, the broad concepts of participants actively overcoming blockages caused by contradictions are well explored in the fields of HCI and DBR. While these fields often focus on revising designs of educational tools to address conflicts, the input and agency of participants is still an acknowledged factor at play [@karanasios_moving_2021]. In line with Hopwood, I am keen to apply TADS in the working learning environment using a diversity of data sources gathered in-situ as learning practices are in active evolution.
+
 
 #### Existing gaps in concepts & critiques
 
@@ -685,12 +676,7 @@ This study contributes to work which explores the potential does that give to de
 
 <!-- #### Summary statement
 
-MOVE ?
-I propose that this environment is a fertile research base to jointly create learning activities with a wider potential application. To facilitate this goal I have taken a design-based approach which acknowledges the importance of context in educational research [@brown_design_1992].
-MOVED FROM ANOTHER SECTION SEE IF IT FITS.
 
-AGAIN MOVED
-**Active stance of research:**  There is an increasing stream of research work which places the researcher as an agent of change in a complex world where the need for systemic change is apparent and urgent. -->
 
 
 
@@ -829,5 +815,3 @@ The specific drive for participants to identify new tools, -->
 Hoadley and Campos [@hoadley_design-based_2022] analyse DBR is also through the possible utility and outcomes of the research which the authors synthesise as including: design processes, domain theories, design principles or patterns, onological innovations, new hypothesis, and transformative learning of the researcher.
 
 Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
-
-### Critiques, development and synthesis within Activity theory approaches - NEEDED HERE? IF NOT WHERE?
