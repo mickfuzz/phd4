@@ -525,8 +525,6 @@ Who and what has agency is a philosophical question with very practical applicat
 
 <!-- ### Addressing and disambiguating definitions of agency in education -->
 
-<!-- INTEGRATE THIS WORK SOMEHOW?
-Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency. -->
 
 <!-- Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014]. -->
 <!-- See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998]. -->
@@ -545,14 +543,7 @@ The work of Nardi and Kaptelinin is also helpful here to examine the concept of 
 
 
 
-
-
-
-
-
 <!-- For the purposes of this study, I agree with the view that the nature of agency as situated in context. Thus we do not say learners have or lack agency, as it is not a learner property independent of context  [@nieminen_what_2022]. -->
-
-
 
 <!-- There is a link between double stimulation and affordances [@romero_analysing_2022] -->
 <!-- A good summary of affordances related to HCI is here [@galliers_affordance_2017] -->
@@ -565,12 +556,11 @@ Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agen
 
 ####  Transformative activist stance TAS
 
-While there is a wealth of research  which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012]. Additionally, while Stetsenko's [@stetsenko2020radical] critique of relational approaches to agency, both outside and within CHAT circles, invites us to resist the marginalisation of the role of the individual. Stetsenko critiques both conceptions of human agency an individual attribute or a negation of human agency which views individuals as helpless bodies in wider cultural phenomenon [@stetsenko_critical_2020; @matusov_mapping_2016]. Instead, agency involves both contextual tensions and human volition. Thus, Stetsenko proposes a transformative activist stance (TAS) to  address the societal urgency of agency with a direct focus on political dimensions. In doing so, Stetsenko advocates a _flagrantly partisan_ approach for researchers, as a reaction to a perceived neutrality or distancing present post-modern and post-human approaches [@stetsenko_hope_2020; @stetsenko_critical_2020].
+While there is a wealth of research  which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012]. Additionally, while Stetsenko's [@stetsenko2020radical] critique of relational approaches to agency, both outside and within CHAT circles, invites us to resist the marginalisation of the role of the individual. Stetsenko critiques both conceptions of human agency an individual attribute or a negation of human agency which views individuals as helpless bodies in wider cultural phenomenon [@stetsenko_critical_2020; @matusov_mapping_2016]. Instead, agency involves both contextual tensions and human volition. Thus, Stetsenko proposes a transformative activist stance (TAS) to  address the societal urgency of agency with a direct focus on political dimensions. For Stetsenko the stakes are high given ecological and military crises caused by late stage capitalism, but there is still everything to play for [@hall_marxism_2023]. Thus, Stetsenko advocates a _flagrantly partisan_ approach for researchers, as a reaction to a perceived neutrality or distancing present post-modern and post-human approaches [@stetsenko_hope_2020; @stetsenko_critical_2020].
 
-While the overall focus being societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in a group home for adolescents [@vianna_connecting_2011], and ?
+While the overall focus being societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in a group home for adolescents [@vianna_connecting_2011] (MORE?). The second example in group home used a case study of an individual to gain an in-depth picture of transformations concerning identity and learning contexts.
 
-DEVELOP WITH EXAMPLES?
-For Stetsenko the stakes are high and there is still everything to play for [@hall_marxism_2023].
+Overall the conceptual framing of agency here is not as important as a motivational aspect from the author to research community in general to pick a team and get involved.
 
 #### Transformation agency through double stimulation (TADS) - On double stimulation and agency
 
