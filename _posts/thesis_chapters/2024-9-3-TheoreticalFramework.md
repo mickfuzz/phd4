@@ -518,9 +518,10 @@ Later in Ch. 6 I employ a narrow focus on the implementation of gameplay design 
 ## Concepts of agency within CHAT
 
 
-To effectively answer RQ2 of this thesis which asks how participants develop agency in an evolving community of game makers, the concept of agency needs disambiguating, in particular in relation to learning contexts.
+To effectively address Research Question 2, which asks how participants develop agency in an evolving community of game makers, it is vital to clarify the concept of agency, particularly in the context of learning environments
 
-Who and what has agency is a philosophical question with very practical applications in the design of learning contexts. Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016]. While theoretical interpretations of agency vary, for the purposes of this thesis, in line with a cultural historical approach, agency is chiefly considered as a cultural phenomenon which humans experience in relation to their peers and learning environment. To better situation this view within varied and developing concepts of agency within educational settings, I draw on the work of Matusov and colleagues [@matusov_mapping_2016]. Their synthesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus, this summary focuses deepening an analysis on instrumental, dynamic emergent and authorial agency in relation to the theoretical framework of activity theory.
+The question of who or what has agency is a philosophical one with practical applications in designing learning settings. Agency and autonomy are often either vaguely defined or have contested, interconnected definitions in studies [@huang_autonomy_2013; @matusov_mapping_2016]. For this thesis, in line with a cultural-historical approach, agency is viewed as a cultural phenomenon experienced by individuals in relation to their peers and their learning environment. To situate this view within the varied and evolving concepts of agency in educational settings, I draw on the work of Matusov and colleagues [@matusov_mapping_2016]who categorise agency into several genres: instrumental agency focused on developing capacities, effortful agency related to motivation and commitment, dynamically emergent agency involving affordances and actor-network theory, and authorial agency, which entails agentic changes to the learning environment. Given Matusov and colleagues’ critique of effortful agency in education, which primarily focuses on achieving goals predefined by educational institutions, this summary instead emphasises an analysis of instrumental, dynamically emergent, and authorial agency within the framework of Activity Theory. These forms of agency offer a broader perspective, including an exploration of how individuals navigate and transform their learning environments, extending beyond merely fulfilling institutionally set objectives.
+
 <!-- See also affordences in hci [@kaptelinin_affordances_2012] -->
 
 <!-- ### Addressing and disambiguating definitions of agency in education -->
@@ -564,7 +565,7 @@ Overall the conceptual framing of agency here is not as important as a motivatio
 
 #### Transformation agency through double stimulation (TADS) - On double stimulation and agency
 
-The Helsinki schools focus on transformative agency also advocates the importance of intervention and transformation as a desirable aspect of research, [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. The vehicle for this in recent years has been the concept of transformation agency through double stimulation (TADS). Similarly to TAS, the objective of TADS is increased agency of participant in research interventions. In addition. TADs researchers articulate a desire to understand a broad picture of agency from a CHAT perspective. As outlined above double stimulation describes additional stimuli beyond the first stimulus understood as the motivation of the activity. In the Change Lab (CL) interventions for example, the active use of secondary stimulus can both analyse and facilitate agency by provoking reflection [@sannino_principle_2015].
+The Helsinki school's focus on transformative agency also advocates the importance of intervention and transformation as a desirable aspect of research, [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. The vehicle for this in recent years has been the concept of transformation agency through double stimulation (TADS). Similarly to TAS, the objective of TADS is increased agency of participant in research interventions. In addition, TADs researchers articulate a desire to understand a broad picture of agency from a CHAT perspective. As outlined above double stimulation describes additional stimuli beyond the first stimulus understood as the motivation of the activity. In the Change Lab (CL) interventions for example, the active use of secondary stimulus can both analyse and facilitate agency by provoking reflection [@sannino_principle_2015].
 
 Studies of transformative agency, for example within CL, often involve a significant longitudinal aspect. However, the TADS concepts has been applied in research over much shorter time frames and in more naturalistic settings such as hospital practice [@hopwood_forward_2022; hopwood_volitional_2022], higher education [@grant_double_2022], and digital education [@aagaard_teacher_2022]. The concept of volitional action by subjects as a foundation for transformation is used in these shorter term studies to explore the processes of decision forming and implementation [@virkkunen_dilemmas_2006; @sannino_double_2015]. Here the secondary stimuli are used by participants as a spur and then as leverage in volitional acts. To address this aspect, Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
@@ -583,65 +584,43 @@ While not all attempts, for example a direct request for help from a peer or tea
 
 ## Conclusion / Synthesis.
 
-Synthesis of different concepts as they are applied to the context of this study.
+In this chapter I have outlined the foundational concepts and current strands of interest of CHAT and explored how the field is becoming increasing aligned with that of design-based research. The complementary elements identified can be operationalised by drawing on both the comprehensive framework for understanding human activity provided by CHAT, and the practical focus of DBR based in a more rapidly iterative cycles of designed interventions.
 
-- DBR vs AT?
-- Role of 3 planes?
-- Scope of concepts of agency
-- Urgency / activist stance
+Of particular value for this study on developing game coding abilities ability to explore  contextual and the influence of the of other activity systems which contribute to the new shared object of activity including: the ongoing development of cultural artefacts used, home interests and repertoires,
 
+To achieve this goal, rather than following an existing applied CHAT methodology, such as the Change Laboratory, I use a synthesis of different concepts that have been outlined in this chapter. The next chapter which describes this methodology in more depth will explore in detail how I draw on CHAT, DBR and include concept of three foci of analysis from Rogoff. Later in analysis I draw particularly on concepts of tensions between systems elements and transformational concepts of agency.
 
-### Summary of Justification of choice - and how the RQs align with different concepts
+<!-- ### Summary of Justification of choice - and how the RQs align with different concepts -->
 
-For the focus of this study on developing game coding abilities particular aspects of importance are of understanding of the importance of context, and the ongoing development of cultural artefacts.
+<!-- This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.   -->
 
-NOTE - Thus in the next chapter particular attention is paid to the development of the artefacts and processes developed as part of the learning design.
+In chapter 4 particular attention is paid to the development of the artefacts and processes developed as part of the learning design as a form of evidence of these transformations. While the more rapid iterations of design align to a greater extent to DBR than a Change laboratory, this study does aim for a full application of a the stricter application of the term formative intervention as outlined by Engeström and Sannino above. This approach has the advantage of addressing a key critique of the Helsinki
+school's implementation of 3GAT  via formative interventions in the form of Change Laboratory, specifically that it is unwieldy time consuming and needs stable stakeholders (see above). However, the process has presented problems at the stage of analysis, and the limits of this ambition are explored in the conclusion of this thesis.
 
-HOWEVER - MOVE TO DISCUSSION. IS A STRICT ADHERANCE TO Helsinki SCHOOL
+Turning to a similar issue regarding conceptions of agency, TADS is most commonly explored in relation to CL and professional settings. Despite its promise of TADS less structured settings, there is a paucity of study in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93]. However, the broad concepts of participants actively overcoming blockages caused by contradictions are well explored in the fields of HCI and DBR. While these fields often focus on revising designs of educational tools to address conflicts, the input and agency of participants is still an acknowledged factor at play [@karanasios_moving_2021]. In line with Hopwood, I am keen to apply TADS in the working learning environment using a diversity of data sources gathered in-situ as learning practices are in active evolution.
 
+ADDRESS THE RESEARCH QUESTIONS HERE?
 
-This insistence on a strict interpretation of formative interventions may limit its uptake. The instance may prevent someone who could benefit from other AT concepts in a DBR approach to improve and codesign a learning environment.  
-
-However, given this interpretation, this study does aim for a full application of this concept in analysis, an ambition of which the limits are explored in the conclusion.
+To conclude this chapter, it is helpful to situate the  this synthesised theoretical framework as one which has the potential to be a valuable contribution as an applied case study aiming to the current theoretical advances in the field of applied studies of agency within the implementation of smaller scale formative interventions. The framework outlined in this chapter guides the specific methodology describe in the following chapter. In particular the methods of data collection and stages of data analysis in an iterative process are structured to draw on the underlying concepts afforded by CHAT and DBR.  
 
 
-TADS is most commonly explored in relation to CL
-and professional settings. Despite its promise of TADS less structured settings, there is a paucity of study in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93]. However, the broad concepts of participants actively overcoming blockages caused by contradictions are well explored in the fields of HCI and DBR. While these fields often focus on revising designs of educational tools to address conflicts, the input and agency of participants is still an acknowledged factor at play [@karanasios_moving_2021]. In line with Hopwood, I am keen to apply TADS in the working learning environment using a diversity of data sources gathered in-situ as learning practices are in active evolution.
+
+<!-- It is of note that the work of Kaptelinin and Nardi on conceptualising activity theory happens in the context of Human Computer Interaction (HCI). The link of concepts of mediation and affordances are of note [@kaptelinin_acting_2009, p.71]. -->
 
 
-#### Existing gaps in concepts & critiques
 
-One critiques of AT is that the concepts are complex and the process unwieldy when putting into practice. A critique of 3GAT is its implementation via formative interventions, in the form of Change Laboratory unwieldy time consuming and needs stable stakeholders, see above.
+<!-- Some elements of synthesis are emerging which address some of the existing gaps and incorporate some of the processes of alternatives. -->
 
-#### Alternatives
-
-Alternatives include DBR & COP and Social Design Experiments
-
-- are they less theoretically heavy?
-- How do they differ?
-- what is the value of exploring these theories here?
-
-  - HCI as an alternative
-
-It is of note that the work of Kaptelinin and Nardi on conceptualising activity theory happens in the context of Human Computer Interaction (HCI). The link of concepts of mediation and affordances are of note [@kaptelinin_acting_2009, p.71].
-
-
-#### Synthesis
-
-Some elements of synthesis are emerging which address some of the existing gaps and incorporate some of the processes of alternatives.
-
-More recent conception of DBR and AT process such as formative interventions are working to align the approaches and mitigate against Engeström's initial critiques in a way which is explored in next section.
+<!-- More recent conception of DBR and AT process such as formative interventions are working to align the approaches and mitigate against Engeström's initial critiques in a way which is explored in next section. -->
 
 
 <!-- Barab and Squire [@barab_design-based_2004] -->
 <!--
 As we have seen in the literature review on game making, context is explored in the three main streams of research into tools and processes to support game coding namely: schools environments, professional contexts; and informal spaces. -->
 
-#### Signposting where concepts are used in the thesis (in relation to RQs)
+<!-- #### Signposting where concepts are used in the thesis (in relation to RQs)
 
-The concept of germ cell is explore later in more detail in Chapter 5.  
-
-
+The concept of germ cell is explore later in more detail in Chapter 5.   -->
 
 
 ## Parked to replace or remove or rework
