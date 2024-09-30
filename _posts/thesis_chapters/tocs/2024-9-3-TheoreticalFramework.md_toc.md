@@ -23,24 +23,21 @@
             interventions](#challenges-and-resolutions-in-the-intersection-of-dbr-and-chat-interventions)
             -   [Theoretical concepts of DBR used in this
                 study](#theoretical-concepts-of-dbr-used-in-this-study)
-    -   [An operationalised example of Activity Theory concepts in
-        context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+    -   [A brief example of Activity Theory concepts within the context
+        of this
+        study](#a-brief-example-of-activity-theory-concepts-within-the-context-of-this-study)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
-        -   [Agency and AT - big picture in relation to ANT (Latour) and
-            agency of humans and
-            artefacts](#agency-and-at---big-picture-in-relation-to-ant-latour-and-agency-of-humans-and-artefacts)
-        -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
-            -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency)
-            -   [Dynamically Emergent
-                Agency](#dynamically-emergent-agency)
-            -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency)
-            -   [TAS](#tas)
-            -   [TADS - On double stimulation and
-                agency](#tads---on-double-stimulation-and-agency)
+        -   [Instrumental and relational
+            agency](#instrumental-and-relational-agency)
+        -   [Dynamically emergent agency](#dynamically-emergent-agency)
+        -   [Authorial and transformative
+            agency](#authorial-and-transformative-agency)
+        -   [Transformative activist stance
+            TAS](#transformative-activist-stance-tas)
+        -   [Transformation agency through double stimulation (TADS) -
+            On double stimulation and
+            agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
         -   [Summary of Justification of choice - and how the RQs align
             with different

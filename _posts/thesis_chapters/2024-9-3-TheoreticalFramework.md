@@ -34,24 +34,21 @@ title: 3. Theoretical Framework
             interventions](#challenges-and-resolutions-in-the-intersection-of-dbr-and-chat-interventions)
             -   [Theoretical concepts of DBR used in this
                 study](#theoretical-concepts-of-dbr-used-in-this-study)
-    -   [An operationalised example of Activity Theory concepts in
-        context](#an-operationalised-example-of-activity-theory-concepts-in-context)
+    -   [A brief example of Activity Theory concepts within the context
+        of this
+        study](#a-brief-example-of-activity-theory-concepts-within-the-context-of-this-study)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
-        -   [Agency and AT - big picture in relation to ANT (Latour) and
-            agency of humans and
-            artefacts](#agency-and-at---big-picture-in-relation-to-ant-latour-and-agency-of-humans-and-artefacts)
-        -   [Addressing and disambiguating definitions of agency in
-            education](#addressing-and-disambiguating-definitions-of-agency-in-education)
-            -   [Instrumental and relational
-                agency](#instrumental-and-relational-agency)
-            -   [Dynamically Emergent
-                Agency](#dynamically-emergent-agency)
-            -   [Authorial and transformative
-                agency](#authorial-and-transformative-agency)
-            -   [TAS](#tas)
-            -   [TADS - On double stimulation and
-                agency](#tads---on-double-stimulation-and-agency)
+        -   [Instrumental and relational
+            agency](#instrumental-and-relational-agency)
+        -   [Dynamically emergent agency](#dynamically-emergent-agency)
+        -   [Authorial and transformative
+            agency](#authorial-and-transformative-agency)
+        -   [Transformative activist stance
+            TAS](#transformative-activist-stance-tas)
+        -   [Transformation agency through double stimulation (TADS) -
+            On double stimulation and
+            agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
         -   [Summary of Justification of choice - and how the RQs align
             with different
@@ -330,10 +327,7 @@ In this thesis, my role as both researcher and practitioner, make both aspects a
 
 <!-- It appears valid to question how applicable is Engeström application of this concepts to all research based on AT, given the consistency of application in AT papers,
  -->
-
 <!-- #### Double stimulation (DS)   -->
-
-
 
 <!-- While the core concept stems from object based psychological experiments, the "extension of this idea to collective behaviour with adults indicates how the basic logic of the method can be extended as a tool of intervention research". [@valsiner_cultural-historical_2007, p.492].   -->
 
@@ -394,8 +388,6 @@ experiments [@gutierrez_social_2016-1; @gutierrez_social_2020]. -->
 <!-- While the author's original research was on indigenous cultural practices on a village level, the model has been applied in both formal and informal educational settings.
 
 For example, in a primary school setting, Morcom [@morcom_scaffolding_2014] applies Rogoff's  [-@rogoff_observing_1995] three planes of activity to help understand the development of classroom activity. In this interpretation, teachers design learning environments and interventions to support learners to enter into a pattern of activity, in this case focusing on those beneficial to student's positive affect. -->
-
-
 
 ## Putting AT to work, variations in interventionist CHAT research
 
@@ -528,18 +520,13 @@ Later in Ch. 6 I employ a narrow focus on the implementation of gameplay design 
 
 To effectively answer RQ2 of this thesis which asks how participants develop agency in an evolving community of game makers, the concept of agency needs disambiguating, in particular in relation to learning contexts.
 
-Who and what has agency is a philosophical question with very practical applications in the design of learning contexts. Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016]. While theoretical interpretations of agency vary, for the purposes of this thesis, in line with a cultural historical approach, agency is chiefly considered as a a cultural phenomenon which humans experience in relation to their peers and learning environment. For example, Stetsenko critiques both conceptions of human agency an individual attribute or a negation of human agency which views individuals  as helpless bodies in wider cultural phenomenon   
-[@stetsenko_critical_2020; @matusov_mapping_2016]. Instead, agency involves both contextual tensions and human volition. The following sections draw on research in line with these broad understanding to further clarify dimensions of agency.
-
+Who and what has agency is a philosophical question with very practical applications in the design of learning contexts. Agency and autonomy have disputed, often inter-related definitions or are often ill defined in studies [@huang_autonomy_2013; @matusov_mapping_2016]. While theoretical interpretations of agency vary, for the purposes of this thesis, in line with a cultural historical approach, agency is chiefly considered as a cultural phenomenon which humans experience in relation to their peers and learning environment. To better situation this view within varied and developing concepts of agency within educational settings, I draw on the work of Matusov and colleagues [@matusov_mapping_2016]. Their synthesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus, this summary focuses deepening an analysis on instrumental, dynamic emergent and authorial agency in relation to the theoretical framework of activity theory.
 <!-- See also affordences in hci [@kaptelinin_affordances_2012] -->
 
 <!-- ### Addressing and disambiguating definitions of agency in education -->
 
 <!-- INTEGRATE THIS WORK SOMEHOW?
 Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency. -->
-
-To help chart varied philosophical and professional concepts of the development of agency within educational settings, I draw on the work of Matusov and colleagues [@matusov_mapping_2016]. Their synthesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus, this summary focuses deepening an analysis on instrumental, dynamic emergent and authorial agency in relation to the theoretical framework of activity theory.
-
 
 <!-- Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014]. -->
 <!-- See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998]. -->
@@ -590,13 +577,18 @@ This section focuses on transformative agency. JUSTIFY
 
 ####  Transformative activist stance TAS
 
-TAS from Stetsenko addresses ideas of societal urgency of agency with a direct focus on political aspects and a flagrantly partisan approach of researchers, as a reaction to a perceived neutrality or distancing present post-modern and post-human approaches [@stetsenko_hope_2020; @stetsenko_critical_2020]. While the overall focus being societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in a group home for adolescents [@vianna_connecting_2011], and ?
+Stetsenko critiques both conceptions of human agency an individual attribute or a negation of human agency which views individuals as helpless bodies in wider cultural phenomenon [@stetsenko_critical_2020; @matusov_mapping_2016]. Instead, agency involves both contextual tensions and human volition.
+
+
+Stetsenko proposes a transformative activist stance (TAS) to  address the societal urgency of agency with a direct focus on political dimensions. In doing so, Stetsenko advocates a _flagrantly partisan_ approach for researchers, as a reaction to a perceived neutrality or distancing present post-modern and post-human approaches [@stetsenko_hope_2020; @stetsenko_critical_2020]. While the overall focus being societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in a group home for adolescents [@vianna_connecting_2011], and ?
 
 
 
 #### Transformation agency through double stimulation (TADS) - On double stimulation and agency
 
 The Helsinki schools focus on transformative agency also advocates the importance of intervention and transformation as a desirable aspect of research, [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. The vehicle for this in recent years has been the concept of transformation agency through double stimulation (TADS). Similarly to TAS, the objective of TADS is increased agency of participant in research interventions. In addition. TADs researchers articulate a desire to understand a broad picture of agency from a CHAT perspective. As outlined above double stimulation describes additional stimuli beyond the first stimulus understood as the motivation of the activity. In the Change Lab (CL) interventions for example, the active use of secondary stimulus can facilitate agency [@sannino_principle_2015].
+
+MORE
 
 TADS is most commonly explored in relation to CL
 and professional settings. Despite its promise of TADS less structured settings, there is a paucity of study in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93]
