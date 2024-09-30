@@ -538,7 +538,7 @@ Who and what has agency is a philosophical question with very practical applicat
 <!-- INTEGRATE THIS WORK SOMEHOW?
 Hopwood's [-@hopwood_agency_2022] exploration of agency also focuses primarily on transformational agency and relational agency. -->
 
-To help chart varied philosophical and professional concepts of the development of agency within educational settings, I draw on the work of Matusov and colleagues [@matusov_mapping_2016]. Their synthesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus, this summary focuses deepening an analysis on instrumental and authorial agency in relation to the theoretical framework of activity theory.
+To help chart varied philosophical and professional concepts of the development of agency within educational settings, I draw on the work of Matusov and colleagues [@matusov_mapping_2016]. Their synthesis presents several genres of agency including: instrumental agency with a focus on developing capacities; effortful agency which enhances motivation and commitment; dynamically emergent agency which includes concepts of affordances and actor network theory; and authorial agency which involves agentic changes to the learning environment. Matusov and colleagues critique effortful agency in education as focusing only on achieving goals predefined by educational establishments. Thus, this summary focuses deepening an analysis on instrumental, dynamic emergent and authorial agency in relation to the theoretical framework of activity theory.
 
 
 <!-- Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014]. -->
@@ -554,10 +554,7 @@ Edwards' concept of relational agency is framed as an extension to the concept o
 
 Matusov and colleagues' interpretation of a dynamically emergent dimension of agency is complex and diverse allowing agency to be recognised in distributed forms such as 'emerging collective agency, agency of bureaucracy, non-human agency of animals, agency of distributed machine-human network, agency of Internet, and so on' [@matusov_mapping_2016, p. 432]. The authours recognise the value of this framing of agency to explore and address constraints and designing support in the form of affordances in the learning environment. As this study involves the use of computer systems to learn computer coding, it is of value Affordances are well  of human computer interaction (HCI), there is value in exploring agency in this context. Work by Bærentsen and Trettvik [@ba_erentsen_activity_2002] linking the use of affordances in HCI to a foundation in activity theory highlights, following Gibson [@gibson2014theory], that affordances exist as opportunities provided by the environment and objects within it, either natural or culturally created, to organisms within that environment. The authors also note that the distinction between the intended (designed) use of affordances and their possible use, an important distinction in the field of HCI, is one best explored via activity theory's study of the interaction of humans and artefacts as joint activity, thus preventing the view that that affordances have magical powers outside of a cultural context.
 
-The work of Nardi and Kaptelinin is also helpful here to examine the concept of designed affordance in learning environments through a lens of activity theory [@kaptelinin_activity_2012]. The authours also regrounding Gibson's concept of affordances as  possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. They  situate the creation of affordances in designed systems as a form of delegated agency [@kaptelinin_activity_2012].
-
-
-Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
+The work of Nardi and Kaptelinin is also helpful here to examine the concept of designed affordance in learning environments through a lens of activity theory [@kaptelinin_activity_2012]. The authours also regrounding Gibson's concept of affordances as  possibilities in line with activity theory concepts of mediated action [@kaptelinin_affordances_2012]. They situate the creation of affordances in designed systems as a form of delegated agency [@kaptelinin_activity_2012]. Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [@lemonnier_ethnography_2013] concept of compare to actor network theory object would not delegate to a human [@kaptelinin_activity_2012, p.42], although there may be unintended consequences once the artefacts are placed in context creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011].
 
 
 **Link to next section**
@@ -587,25 +584,24 @@ Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agen
 as the most active and best aligned with an ideal form of education.
 REDEFINE
 
-Matusov bases much of the definition of authorial agency on existing work from social cultural school drawing on of increasing participation in educational communities of practice [], and transformational concepts of agency from Stetsenko in the form of TAS [ ] and Sannino in the form of TADS []
+Matusov bases much of the definition of authorial agency on existing work from social cultural school drawing on of increasing participation in educational communities of practice [], and transformational concepts of agency from Stetsenko in the form of TAS [@martin_theory_2015; @stetsenko2014transfromative ] and Sannino in the form of TADS []
 
 This section focuses on transformative agency. JUSTIFY
 
-####  TAS
-TAS from Stetsenko addresses grand ideas of agency directly.
-However the authour also grounds these grand ideas in concrete explorations, including play [@stetsenko_serious_2015]
+####  Transformative activist stance TAS
 
-Similarly while TADS addresses lofty ideas of "quote" they can be played out in smaller situations.
+TAS from Stetsenko addresses ideas of societal urgency of agency with a direct focus on political aspects and a flagrantly partisan approach of researchers, as a reaction to a perceived neutrality or distancing present post-modern and post-human approaches [@stetsenko_hope_2020; @stetsenko_critical_2020]. While the overall focus being societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in a group home for adolescents [@vianna_connecting_2011], and ?
 
-In exploring their differences Hopwood x and y.
 
-Transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
-#### TADS - On double stimulation and agency
+#### Transformation agency through double stimulation (TADS) - On double stimulation and agency
 
-The active use of secondary stimulus can facilitate agency [@sannino_principle_2015]. While many studies have examined the process in professional settings there is a paucity of study in the area of "student-centered contexts of learning" [@isaac_cultural_2021, p. 93].
+The Helsinki schools focus on transformative agency also advocates the importance of intervention and transformation as a desirable aspect of research, [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. The vehicle for this in recent years has been the concept of transformation agency through double stimulation (TADS). Similarly to TAS, the objective of TADS is increased agency of participant in research interventions. In addition. TADs researchers articulate a desire to understand a broad picture of agency from a CHAT perspective. As outlined above double stimulation describes additional stimuli beyond the first stimulus understood as the motivation of the activity. In the Change Lab (CL) interventions for example, the active use of secondary stimulus can facilitate agency [@sannino_principle_2015].
 
-Blockages caused by contradictions are also analysed the fields of design and HCI with an aim of revising designs to remove them [@karanasios_moving_2021].
+TADS is most commonly explored in relation to CL
+and professional settings. Despite its promise of TADS less structured settings, there is a paucity of study in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93]
+
+However, the broad concepts of participants actively overcoming blockages caused by contradictions are well explored in the fields of HCI and DBR. While these fields often focus on revising designs of educational tools to address conflicts, the input and agency of participants is still an acknowledged factor at play [@karanasios_moving_2021].
 
 Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
