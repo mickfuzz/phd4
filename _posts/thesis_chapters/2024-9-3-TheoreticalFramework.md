@@ -559,12 +559,13 @@ Studies of transformative agency, for example within CL, often involve a signifi
     We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
 
 ![](./Pictures/warping.jpg){width=90%}
-    Figure 3. x - Warping using a kedging anchor
+
+Figure 3. x - Warping using a kedging anchor
 
 
-In this metaphor emphasises the active volition of participants to overcome tensions and dilemmas in activity which leave participants at an impasse, equivalent to be stuck on a sandbank. In the context of an educational intervention learners would throw a kedge anchor out into the learning environment in the form of an intention action  to then pull themselves out the impasse they find themselves in.
+This metaphor highlights the active effort of participants to overcome tensions and dilemmas in their activities, which can leave them stuck, much like being stranded on a sandbank. In an educational intervention, learners might "throw a kedge anchor" into the learning environment, symbolizing an intentional action to pull themselves out of the impasse they are facing.
 
-While not all attempts, for example a direct request for help from a peer or teacher, will be successful, some will catch and result in transformation for the student, and potentially a wider shift in the conditions of the educational environment itself. This may be particularly relevant in the setting of this study, where the designed learning environment is being co-created by both participants and researchers.  
+While not all attempts, such as directly asking a peer or teacher for help, will succeed, some will take hold and lead to transformation for the student. This may also trigger a broader shift in the educational environment itself. This idea is particularly relevant to the setting of this study, where the learning environment is co-created by both participants and researchers.
 
 <!-- By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques. -->
 
