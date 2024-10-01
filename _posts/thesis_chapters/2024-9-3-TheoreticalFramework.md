@@ -44,22 +44,12 @@ title: 3. Theoretical Framework
         -   [Dynamically emergent agency](#dynamically-emergent-agency)
         -   [Authorial and transformative
             agency](#authorial-and-transformative-agency)
-        -   [Transformative activist stance
-            TAS](#transformative-activist-stance-tas)
-        -   [Transformation agency through double stimulation (TADS) -
-            On double stimulation and
-            agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
+            -   [Transformative activist stance
+                TAS](#transformative-activist-stance-tas)
+            -   [Transformation agency through double stimulation
+                (TADS) - On double stimulation and
+                agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
-        -   [Summary of Justification of choice - and how the RQs align
-            with different
-            concepts](#summary-of-justification-of-choice---and-how-the-rqs-align-with-different-concepts)
-            -   [Existing gaps in concepts &
-                critiques](#existing-gaps-in-concepts-critiques)
-            -   [Alternatives](#alternatives)
-            -   [Synthesis](#synthesis)
-            -   [Signposting where concepts are used in the thesis (in
-                relation to
-                RQs)](#signposting-where-concepts-are-used-in-the-thesis-in-relation-to-rqs)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
     -   [Sections on DBR and AT](#sections-on-dbr-and-at)
@@ -69,9 +59,6 @@ title: 3. Theoretical Framework
         -   [Principle : Utility of research - overcoming the tension
             between the rich context and generalisation of
             results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-        -   [Critiques, development and synthesis within Activity theory
-            approaches - NEEDED HERE? IF NOT
-            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
 
 # Theoretical Framework
 
@@ -530,13 +517,13 @@ The question of who or what has agency is a philosophical one with practical app
 <!-- Engeström and Sannino see this slipperiness as a deficit in understanding of the underlying mechanism [@engestrom_methodological_2014]. -->
 <!-- See also feminist reconceptualisations of autonomy as agency[@abrams_autonomy_1998]. -->
 
-#### Instrumental and relational agency
+### Instrumental and relational agency
 
 Instrumental agency reflects a concept of agency as the ability to get things done, thus, a view of agency as a set of capacities [@edwards_steps_2005]. Matusov and colleagues highlights an often technological view of educational environments where educators seek to increase instrumental agency by building the individual capacity of learners to achieve relevant tasks [@matusov_mapping_2016]. Many DBR studies which aim to develop and study the use of new tools especially in the area of education technology, would aim to increase instrumental learner agency, designing away problems. Explored within a CHAT framework this type of agency can also be understood as increasing fluidity of practice (operationalisation) using objects and people as tools within mediated activity.
 
 Edwards' concept of relational agency is framed as an extension to the concept of instrumental agency to include a more social dimension where leaners are able to offer and request support [@edwards_steps_2005].  While this view of relational, instrumental agency in an school setting is laudable, Edwards [-@edwards_steps_2005] notes it is often restricted by curricular and institutional norms.  
 
-#### Dynamically emergent agency
+### Dynamically emergent agency
 
 Matusov and colleagues' interpretation of a dynamically emergent dimension of agency is complex and diverse allowing agency to be recognised in distributed forms such as 'emerging collective agency, agency of bureaucracy, non-human agency of animals, agency of distributed machine-human network, agency of Internet, and so on' [@matusov_mapping_2016, p. 432]. The authours recognise the value of this framing of agency to explore and address constraints and designing support in the form of affordances in the learning environment. As this study involves the use of computer systems to learn computer coding, it is of value Affordances are well  of human computer interaction (HCI), there is value in exploring agency in this context. Work by Bærentsen and Trettvik [@ba_erentsen_activity_2002] linking the use of affordances in HCI to a foundation in activity theory highlights, following Gibson [@gibson2014theory], that affordances exist as opportunities provided by the environment and objects within it, either natural or culturally created, to organisms within that environment. The authors also note that the distinction between the intended (designed) use of affordances and their possible use, an important distinction in the field of HCI, is one best explored via activity theory's study of the interaction of humans and artefacts as joint activity, thus preventing the view that that affordances have magical powers outside of a cultural context.
 
@@ -551,7 +538,7 @@ The work of Nardi and Kaptelinin is also helpful here to examine the concept of 
 <!-- Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1]. -->
 
 
-#### Authorial and transformative agency
+### Authorial and transformative agency
 
 Matusov proposes authorial agency [@matusov_mapping_2016] as the concept of agency, as the most active and best aligned with an ideal form of education, in doing so drawing on existing work from CHAT researchers on and transformational concepts of agency. This section focuses on the work on Stetsenko in the form of transformative activist stance (TAS) [@martin_theory_2015; @stetsenko2014transfromative] and Sannino in the form of TADS [@sannino_transformative_2022]
 
@@ -567,7 +554,7 @@ Overall the conceptual framing of agency here is not as important as a motivatio
 
 The Helsinki school's focus on transformative agency also advocates the importance of intervention and transformation as a desirable aspect of research, [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. The vehicle for this in recent years has been the concept of transformation agency through double stimulation (TADS). Similarly to TAS, the objective of TADS is increased agency of participant in research interventions. In addition, TADs researchers articulate a desire to understand a broad picture of agency from a CHAT perspective. As outlined above double stimulation describes additional stimuli beyond the first stimulus understood as the motivation of the activity. In the Change Lab (CL) interventions for example, the active use of secondary stimulus can both analyse and facilitate agency by provoking reflection [@sannino_principle_2015].
 
-Studies of transformative agency, for example within CL, often involve a significant longitudinal aspect. However, the TADS concepts has been applied in research over much shorter time frames and in more naturalistic settings such as hospital practice [@hopwood_forward_2022; hopwood_volitional_2022], higher education [@grant_double_2022], and digital education [@aagaard_teacher_2022]. The concept of volitional action by subjects as a foundation for transformation is used in these shorter term studies to explore the processes of decision forming and implementation [@virkkunen_dilemmas_2006; @sannino_double_2015]. Here the secondary stimuli are used by participants as a spur and then as leverage in volitional acts. To address this aspect, Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
+Studies of transformative agency, for example within CL, often involve a significant longitudinal aspect. However, the TADS concepts has been applied in research over much shorter time frames and in more naturalistic settings such as hospital practice [@hopwood_forward_2022; @hopwood_volitional_2022], higher education [@grant_double_2022], and digital education [@aagaard_teacher_2022]. The concept of volitional action by subjects as a foundation for transformation is used in these shorter term studies to explore the processes of decision forming and implementation [@virkkunen_dilemmas_2006; @sannino_double_2015]. Here the secondary stimuli are used by participants as a spur and then as leverage in volitional acts. To address this aspect, Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors.
 
     We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area. [@sannino_transformative_2022, p. 4]
 

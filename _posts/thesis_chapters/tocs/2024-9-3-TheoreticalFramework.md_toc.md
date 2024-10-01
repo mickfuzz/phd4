@@ -33,22 +33,12 @@
         -   [Dynamically emergent agency](#dynamically-emergent-agency)
         -   [Authorial and transformative
             agency](#authorial-and-transformative-agency)
-        -   [Transformative activist stance
-            TAS](#transformative-activist-stance-tas)
-        -   [Transformation agency through double stimulation (TADS) -
-            On double stimulation and
-            agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
+            -   [Transformative activist stance
+                TAS](#transformative-activist-stance-tas)
+            -   [Transformation agency through double stimulation
+                (TADS) - On double stimulation and
+                agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
-        -   [Summary of Justification of choice - and how the RQs align
-            with different
-            concepts](#summary-of-justification-of-choice---and-how-the-rqs-align-with-different-concepts)
-            -   [Existing gaps in concepts &
-                critiques](#existing-gaps-in-concepts-critiques)
-            -   [Alternatives](#alternatives)
-            -   [Synthesis](#synthesis)
-            -   [Signposting where concepts are used in the thesis (in
-                relation to
-                RQs)](#signposting-where-concepts-are-used-in-the-thesis-in-relation-to-rqs)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
     -   [Sections on DBR and AT](#sections-on-dbr-and-at)
@@ -58,6 +48,3 @@
         -   [Principle : Utility of research - overcoming the tension
             between the rich context and generalisation of
             results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
-        -   [Critiques, development and synthesis within Activity theory
-            approaches - NEEDED HERE? IF NOT
-            WHERE?](#critiques-development-and-synthesis-within-activity-theory-approaches---needed-here-if-not-where)
