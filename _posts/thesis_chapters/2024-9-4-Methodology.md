@@ -1092,18 +1092,20 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 
 ## Data validity, reliability and generalisability  
 
-**and decisions of what to not analyse**
+<!-- **and decisions of what to not analyse** -->
 
 The issues addressed in this section relate not only to the guidance methodology receives from the theoretical underpinnings explored in the last chapter but also the concerns of the driving researcher questions.
 
-
+Issues of reliability and validity in research are significantly complicated when viewed through a post-objectivist critical stance, as exemplified in the previous chapter by Stetsenko's transformative activist stance, which challenges positivist paradigms of research as a neutral endeavour in terms of values of those undertaking it [@stetsenko2014transfromative]. While, a full investigation of the Stetsenko and other's rejection of an objectivist research approach is beyond the remit of this chapter, it supports the inclusion of my own auto-ethnographic journal as a valid source of data.
 
 ### Data Validity
 
-Issues of validity in research are significantly complicated when viewed through a post-objectivist critical stance, as exemplified in the previous chapter by Stetsenko's transformative activist stance, which challenges positivist paradigms of research as a neutral endeavour in terms of values of those undertaking it [@stetsenko2014transfromative]. While, a full investigation of the Stetsenko and other's rejection of an objectivist research approach is beyond the remit of this chapter, it supports the inclusion of my own auto-ethnographic journal as a valid source of data.
+In general terms data validity refers to match between the findings of the study and what is happening in in practice.  Turning to a more established exploration of data validity,  Bakker's [-@bakker_design_2018, p.88] exploration of the issues of data validity in DBR is well suited to the diverse data gathering methods of this study. 
 
-Turning to a more established exploration of data validity,  Bakker's [-@bakker_design_2018, p.88] exploration of the issues of data validity in DBR is well suited to the diverse data gathering methods of this study. Bakker notes need for different approaches for qualitative approaches  [@lincoln1985naturalistic]
+<!-- While Bakker notes need for different approaches for qualitative approaches  [@lincoln1985naturalistic] - he uses conventional terms of validity and reliability -= rather than specialist terms of Lincoln and Grub  -->
 
+
+The strategies in this study are broadly, data triangulation, the use of rich descriptions in part via a design narrative, and a process of checking your interpretations of activities with participants (member checking)
 
 
 **Data triangulation**
