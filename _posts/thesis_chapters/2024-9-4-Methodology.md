@@ -148,14 +148,13 @@ title: 4. Methodology
 
 ## Introduction
 
-This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology. Here I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
+This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology to study the evolution of a game making community and the mutual creation of a new community-based pedagogy. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design.  Here I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
+
+The process described here is part research methodology and part the overall structure or an evolving learning design.
 
 
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 I will explore how this diversity helps triangulate findings.
-
-
 
 this chapter describes:
 
@@ -165,48 +164,42 @@ this chapter describes:
 - comments on data validity, replicability and ethical considerations
 - analysis of broad AT system (MOVE?)
 
-### Additional context for this introduction
 
 
-<!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
+### Revisiting the research questions  
+AND SEEING IF THIS FITS BETTER AT THE END OF CH.3.
 
-### Revisiting the research QUESTIONS
+A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together
+IT WAS BUT HAS THAT CHANGED. IF SO WHY MENTION IT HERE?
 
+As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform.
 
-The research questions guiding this study are broadly aime at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
+Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
 
-The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of exploring how educational interventions evolve in real-world contexts.
+1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+2. How can learners build agency in an evolving community of game makers?
+3. How can game design patterns support the development of coding practices with novices?
 
-In this process, tensions emerged which impacted my framing and understandings of the research questions.
+BE SPECIFIC?
+The remaining research questions guiding this study are broadly aimed  at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
 
-These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher.
+Because it suited my working practices as an educational facilitator, and in line with DBR approaches the initial design evolved from phase to phase and relied heavily on input from participants and a wider, online, open source digital production-education community [] Mozilla link / Sefton Green.
 
+The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
+
+<!-- In this process, tensions emerged which impacted my framing and understandings of the research questions.
+HOW?  -->
+<!-- These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher. -->
+
+IS THIS NEEDED IN INTRO?
 To do this, thematic analysis of video interactions and allow for a detailed examination of the social and communicative aspects identified in the research questions.
 
-Different phases of the research process address research questions :
+<!-- Different phases of the research process address research questions : -->
 
+### What research questions are answered by what data gathering and analysis AND AT WHAT STAGE
 
-### edit this down and integreate above
-**How Research Questions Evolved**
-
-
-was driven by
-
-Possible themes that had potential but which were disguarded included;
-
-- Computation thinking & systems thinking
-- Aligning with Project based learning
-
-Themes emerging include the alternation of abstract and concrete as a suggested learning journey, explored in my journal. However this seems to be explored in research on semantic waves with studies of more breadth so it did not seem a good idea to follow that thread in my thesis.
-
-There was something about the formalisation of this process into graph form which put me off. I also realised that the frameworks that I spent a while trying to make accessible and gameful in the design, grouping and theming of their presentation, had strong similarities to concepts of abstract curriculum if explored through a semantic waves lens. Curriculum seemed too well a well trod path for a PhD thesis.  
-
-Instead the community elements of the learning experience regained focus during the process of coding. There were particularly interesting elements of the learning environment which contributed to notable behaviours.
-
-The area of in-depth study of learning and wider behaviours in the development of coding. Work on roles by Barron  and developed by Roque showed promise identifying helpful roles and reflecting them back to participants. Such reflection sessions were not always replicable with a general home education group or other non-formal setting.  Could this implemented in the design, in the way reflective techniques were implemented in to games. Thus making it more playful/ gameful.
-
-### What research questions are answered by what data gathering and analysis AND AT WHAT STAGE - and described in what chapter?
+<!-- DROP THIS - and described in what chapter? -->
 
  <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their diThe experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
 
@@ -216,14 +209,9 @@ Direct input was through requests and informal feedback and structured end-of-co
 
 The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
 
-
-
-
 Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [].
 
 He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
-
-
 
 1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
 2. How can learners build agency in an evolving community of game makers?
@@ -252,9 +240,16 @@ He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent 
 
 ### JUSTIFICATION OF THE METHODS APPROACH
 
+
 The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback. This process is particularly evident in the evolution of the learning design and resources. The trialling of the coding environment and starting templated occurred in various informal settings, over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians.
 
 While a full description of how this happened is beyond the remit of this chapter, this external input served several functions including: access to novel technical approaches proposed by parents and university volunteers; the surfacing of systemic conflicts hidden from my initial perception stemming from my pre-conceptions; observation of participant conflicts spurred the introduction of new tools to support development; and parental proficiency in adapting the learning environment to supporting their children leading to community-wide innovations in practice. My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process.
+IF I WERE TO WRITE MORE WHERE WOULD IT BE AND WHAT WOULD IT LOOK LIKE - WHERE ARE THOSE DESCRIPTIONS HAPPENING? IN THE FINDINGS CHAPTER ?
+
+
+HOW THE LEARNING DESIGN EVOLVED.
+INTEGRATE WITH THE ABOVE.
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
 
@@ -1583,3 +1578,24 @@ Some PhD studies, many from MIT,  use it as a guiding theory [Roque]
 It can be viewed as a design technique based on constructivist roots [@kynigos_constructionism]
 
 Constructionism is also described as  a theory of learning by Noss [@noss2015reconstructing] rather than a methodology. -->
+
+
+
+### How Research Questions Evolved - JUSTIFICATION FOR CHANING FOCUS.
+
+
+
+was driven by
+
+Possible themes that had potential but which were disguarded included;
+
+- Computation thinking & systems thinking
+- Aligning with Project based learning
+
+Themes emerging include the alternation of abstract and concrete as a suggested learning journey, explored in my journal. However this seems to be explored in research on semantic waves with studies of more breadth so it did not seem a good idea to follow that thread in my thesis.
+
+There was something about the formalisation of this process into graph form which put me off. I also realised that the frameworks that I spent a while trying to make accessible and gameful in the design, grouping and theming of their presentation, had strong similarities to concepts of abstract curriculum if explored through a semantic waves lens. Curriculum seemed too well a well trod path for a PhD thesis.  
+
+Instead the community elements of the learning experience regained focus during the process of coding. There were particularly interesting elements of the learning environment which contributed to notable behaviours.
+
+The area of in-depth study of learning and wider behaviours in the development of coding. Work on roles by Barron  and developed by Roque showed promise identifying helpful roles and reflecting them back to participants. Such reflection sessions were not always replicable with a general home education group or other non-formal setting.  Could this implemented in the design, in the way reflective techniques were implemented in to games. Thus making it more playful/ gameful.
