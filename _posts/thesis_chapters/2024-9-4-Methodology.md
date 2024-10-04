@@ -62,6 +62,8 @@ title: 4. Methodology
             -   [Rational and approach of data analysis
                 -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
+            -   [Practitioner interviews](#practitioner-interviews)
+            -   [](#section)
             -   [3 planes approach - noting tensions and
                 behaviours](#planes-approach---noting-tensions-and-behaviours)
         -   [Use of journal data (in stage
@@ -92,16 +94,15 @@ title: 4. Methodology
             -   [On Final Transcription/description of
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)
-            -   [Practitioner interviews](#practitioner-interviews)
             -   [Participant interviews](#participant-interviews)
             -   [Ethical considerations and
                 processes](#ethical-considerations-and-processes)
     -   [Data validity, reliability and
         generalisability](#data-validity-reliability-and-generalisability)
-        -   [Data Validity - Triangulation of Data - THE
-            THEORY](#data-validity---triangulation-of-data---the-theory)
+        -   [Data Validity](#data-validity)
             -   [Limits of / problems with video data
                 analysis](#limits-of-problems-with-video-data-analysis)
+            -   [Limits of interview data\_](#limits-of-interview-data_)
         -   [Discussion on evolving coding process - PERHAPS SHIFT TO
             LAST CHAPTER
             finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
@@ -602,12 +603,14 @@ https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/
 
 ### Notes to allocate to a stage
 
+
+
 #### Rational and approach of data analysis -
 
 
 Video data analysis involved description and transcription of video data and thematic analysis of the contents.
 
-
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 <!-- The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities. -->
 
@@ -624,9 +627,23 @@ NOTE - Import more from the post of 2024- 05 - 08 - in diary.
 
 ### Data Analysis Stage One
 
+#### Practitioner  interviews
 
+Practitioner data used in stage one to inform strategies and pedagogies for the initial design.
+
+Four practitioner interviews were a rich source of thinking to help develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions experienced by practitioners and participants in similar creative coding projects.
+
+The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
+
+The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone.
+
+These interviews are not explored greatly in the course of the analysis thesis as the key emergent themes were not explored in depth by those participants as while they were working in similar areas, they did not address game making explicitly. However, the interview process did has impacted in the overall direction of the work in by surfacing and focusing my attention on some key themes including: the helping roles of parents in digital technology; the role of competitions in after-schools settings, the value of surfacing and valuing the interests of partipants in digital making, and x.
+
+A summary of the interviews is included as Appendix 4.x
+
+####
 STAGE ONE
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
 
 As outline in the table above, stage one involved initial broad analysis of the varied forms of data and recording observations in an excel sheet.
 
@@ -1018,17 +1035,14 @@ MORE TO COME HERE
 
 ### Use of Interview data
 
-Practitioner data used to inform themse for dvideo ANALYSIS
-
 Participant interview data mostly used to confirm and triangulate with video data from making sessions
 
-#### Practitioner  interviews
 
-Four practitioner interviews were a rich source of thinking to help develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions experienced by practitioners and participants in similar creative coding projects.
 
-The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
+ ANALYSIS
 
-The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone.
+
+
 
 #### Participant interviews
 
@@ -1087,9 +1101,6 @@ Imagining a constructionist game-based pedagogical model: Using tabletop role-pl
 The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. -->
 
 
-
-
-
 ## Data validity, reliability and generalisability  
 
 <!-- **and decisions of what to not analyse** -->
@@ -1100,22 +1111,29 @@ Issues of reliability and validity in research are significantly complicated whe
 
 ### Data Validity
 
-In general terms data validity refers to match between the findings of the study and what is happening in in practice.  Turning to a more established exploration of data validity,  Bakker's [-@bakker_design_2018, p.88] exploration of the issues of data validity in DBR is well suited to the diverse data gathering methods of this study. 
+In general terms data validity refers to match between the findings of the study and what is happening in in practice.  Turning to a more established exploration of data validity,  Bakker's [-@bakker_design_2018, p.88] exploration of the issues of data validity in DBR is well suited to the diverse data gathering methods of this study.
 
 <!-- While Bakker notes need for different approaches for qualitative approaches  [@lincoln1985naturalistic] - he uses conventional terms of validity and reliability -= rather than specialist terms of Lincoln and Grub  -->
 
 
-The strategies in this study are broadly, data triangulation, the use of rich descriptions in part via a design narrative, and a process of checking your interpretations of activities with participants (member checking)
+The strategies in this study are broadly, data triangulation, the use of rich descriptions, and a process of checking your interpretations of activities with participants (member checking)
+
+
+**Use of rich descriptions**
+
+Hoadley calls for rich descriptions of the learning design, a process which is applied in this thesis as a design narrative in Chapter 5.
+
+Similarly, rich descriptions of the interactions of participants with the learning design, their own project creations and each other are included in the data results in small extracts, or where appropriate more extended vignettes. These allow for a fuller exploration of the learning processes in a richer context. Some details of interaction are needed to give other scholars and practitioners a full picture of interactions. The descriptions of facial reactions or body language in the vignette descriptions serve this end.
 
 
 **Data triangulation**
-
-
 <!-- Draw on other chapters to represent overcoming of weaknesses of design-based approach. -->
 
-Having a wide based on data allowed data triangulation
-e.g.  find a dood example of finding confirmation in interview data
+Having a wide based on data allowed data triangulation at the analysis stage. When
 
+One form of triangulation is member checking where participants are asked to confirm and share information which supplement video data.
+
+As an example, in interview data a participant who expressed frustration in the moment about a form of disruptive practice of another participant, was able to place that frustration in context.
 
 #### Limits of / problems with video data analysis
 

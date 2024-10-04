@@ -51,6 +51,8 @@
             -   [Rational and approach of data analysis
                 -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
+            -   [Practitioner interviews](#practitioner-interviews)
+            -   [](#section)
             -   [3 planes approach - noting tensions and
                 behaviours](#planes-approach---noting-tensions-and-behaviours)
         -   [Use of journal data (in stage
@@ -81,16 +83,15 @@
             -   [On Final Transcription/description of
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)
-            -   [Practitioner interviews](#practitioner-interviews)
             -   [Participant interviews](#participant-interviews)
             -   [Ethical considerations and
                 processes](#ethical-considerations-and-processes)
     -   [Data validity, reliability and
         generalisability](#data-validity-reliability-and-generalisability)
-        -   [Data Validity - Triangulation of Data - THE
-            THEORY](#data-validity---triangulation-of-data---the-theory)
+        -   [Data Validity](#data-validity)
             -   [Limits of / problems with video data
                 analysis](#limits-of-problems-with-video-data-analysis)
+            -   [Limits of interview data\_](#limits-of-interview-data_)
         -   [Discussion on evolving coding process - PERHAPS SHIFT TO
             LAST CHAPTER
             finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
