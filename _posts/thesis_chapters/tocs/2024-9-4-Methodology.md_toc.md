@@ -2,11 +2,13 @@
     -   [Introduction](#introduction)
         -   [Additional context for this
             introduction](#additional-context-for-this-introduction)
-        -   [How Research Questions
-            Evolved](#how-research-questions-evolved)
+        -   [Revisiting the research
+            QUESTIONS](#revisiting-the-research-questions)
+        -   [edit this down and integreate
+            above](#edit-this-down-and-integreate-above)
         -   [What research questions are answered by what data gathering
-            and analysis - and described in what
-            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
+            and analysis AND AT WHAT STAGE - and described in what
+            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage---and-described-in-what-chapter)
         -   [JUSTIFICATION OF THE METHODS
             APPROACH](#justification-of-the-methods-approach)
         -   [Justification of data collection and
@@ -81,9 +83,10 @@
         -   [Use of Interview data](#use-of-interview-data)
             -   [Practitioner interviews](#practitioner-interviews)
             -   [Participant interviews](#participant-interviews)
-    -   [Data validity, replicability and reliability and decisions of
-        what to not
-        analyse](#data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse)
+            -   [Ethical considerations and
+                processes](#ethical-considerations-and-processes)
+    -   [Data validity, reliability and
+        generalisability](#data-validity-reliability-and-generalisability)
         -   [Data Validity - Triangulation of Data - THE
             THEORY](#data-validity---triangulation-of-data---the-theory)
             -   [Limits of / problems with video data
@@ -95,9 +98,6 @@
             -   [Data Replicability](#data-replicability)
             -   [Generalisation of
                 Research](#generalisation-of-research-1)
-            -   [Ethical and Practica issues impacting the formative
-                intervention of this research - MOVED HERE
-                CHECK](#ethical-and-practica-issues-impacting-the-formative-intervention-of-this-research---moved-here-check)
     -   [Discussion on Methodology](#discussion-on-methodology)
         -   [Discussion / Conclusion](#discussion-conclusion)
         -   [Authenticity - creating

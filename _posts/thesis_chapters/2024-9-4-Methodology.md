@@ -13,11 +13,13 @@ title: 4. Methodology
     -   [Introduction](#introduction)
         -   [Additional context for this
             introduction](#additional-context-for-this-introduction)
-        -   [How Research Questions
-            Evolved](#how-research-questions-evolved)
+        -   [Revisiting the research
+            QUESTIONS](#revisiting-the-research-questions)
+        -   [edit this down and integreate
+            above](#edit-this-down-and-integreate-above)
         -   [What research questions are answered by what data gathering
-            and analysis - and described in what
-            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis---and-described-in-what-chapter)
+            and analysis AND AT WHAT STAGE - and described in what
+            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage---and-described-in-what-chapter)
         -   [JUSTIFICATION OF THE METHODS
             APPROACH](#justification-of-the-methods-approach)
         -   [Justification of data collection and
@@ -92,9 +94,10 @@ title: 4. Methodology
         -   [Use of Interview data](#use-of-interview-data)
             -   [Practitioner interviews](#practitioner-interviews)
             -   [Participant interviews](#participant-interviews)
-    -   [Data validity, replicability and reliability and decisions of
-        what to not
-        analyse](#data-validity-replicability-and-reliability-and-decisions-of-what-to-not-analyse)
+            -   [Ethical considerations and
+                processes](#ethical-considerations-and-processes)
+    -   [Data validity, reliability and
+        generalisability](#data-validity-reliability-and-generalisability)
         -   [Data Validity - Triangulation of Data - THE
             THEORY](#data-validity---triangulation-of-data---the-theory)
             -   [Limits of / problems with video data
@@ -106,9 +109,6 @@ title: 4. Methodology
             -   [Data Replicability](#data-replicability)
             -   [Generalisation of
                 Research](#generalisation-of-research-1)
-            -   [Ethical and Practica issues impacting the formative
-                intervention of this research - MOVED HERE
-                CHECK](#ethical-and-practica-issues-impacting-the-formative-intervention-of-this-research---moved-here-check)
     -   [Discussion on Methodology](#discussion-on-methodology)
         -   [Discussion / Conclusion](#discussion-conclusion)
         -   [Authenticity - creating
@@ -147,9 +147,16 @@ title: 4. Methodology
 
 ## Introduction
 
-This chapter builds on the theoretical concepts explored in the previous chapter to expain how they are put into practice using a specific methodology. Here I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
+This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology. Here I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
 
-To do this, this chapter describes:
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+I will explore how this diversity helps triangulate findings.
+
+
+
+this chapter describes:
 
 - an overview of the design stages of the study
 - data gathering and processing
@@ -163,11 +170,27 @@ To do this, this chapter describes:
 <!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
 
-### How Research Questions Evolved  
+### Revisiting the research QUESTIONS
 
-The process was driven by the activity of collaborative game making driven by practicalities, and my interests as explored in the first chapter.
 
-As justified by DBR and formative interventions, the process was driven by a meeting of context and the needs / interests of myself as a researcher.
+The research questions guiding this study are broadly aime at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
+
+The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of exploring how educational interventions evolve in real-world contexts.
+
+In this process, tensions emerged which impacted my framing and understandings of the research questions.
+
+These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher.
+
+To do this, thematic analysis of video interactions and allow for a detailed examination of the social and communicative aspects identified in the research questions.
+
+Different phases of the research process address research questions :
+
+
+### edit this down and integreate above
+**How Research Questions Evolved**
+
+
+was driven by
 
 Possible themes that had potential but which were disguarded included;
 
@@ -182,7 +205,7 @@ Instead the community elements of the learning experience regained focus during 
 
 The area of in-depth study of learning and wider behaviours in the development of coding. Work on roles by Barron  and developed by Roque showed promise identifying helpful roles and reflecting them back to participants. Such reflection sessions were not always replicable with a general home education group or other non-formal setting.  Could this implemented in the design, in the way reflective techniques were implemented in to games. Thus making it more playful/ gameful.
 
-### What research questions are answered by what data gathering and analysis - and described in what chapter?
+### What research questions are answered by what data gathering and analysis AND AT WHAT STAGE - and described in what chapter?
 
  <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their diThe experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
 
@@ -192,7 +215,15 @@ Direct input was through requests and informal feedback and structured end-of-co
 
 The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
 
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
+
+Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [].
+
+He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
+
+
+
 1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
 2. How can learners build agency in an evolving community of game makers?
 3. How can game design patterns support the development of coding practices with novices?
@@ -1013,15 +1044,72 @@ MOVE TO CONCLUSION
 In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 
-## Data validity, replicability and reliability and decisions of what to not analyse
+#### Ethical considerations and processes
+
+<!-- The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. -->
 
 
-<!-- NOTE - MOVE THIS? DOESN'T SEEM TO FLOW IN THIS SECTION -->
+Ethical approval for this study was obtained from ESRI ethics process using the ETHOS system to ensure that all research activities comply with the guidelines for research involving human participants. Inclusion criteria included being part of a family (including guardians) unit with the ability to travel to the Manchester Metropolitan university campus campus. Younger family members will be between 7 and 13 years of age. All participants will have an interest in learning to make digital games together as an educational project. The project requires that they have literacy abilities to be able to read and write English.
+
+Participants were be identified by involvement in activities linked to Manchester Met's EdLab programme and that of Coder Dojo activities via an open call on email to interested parties. In addition to address a wider diversity of participants in terms of  to Alternative arrangements may involve an open call to the Greater Manchester Home Education Network internet forum. In the ethics application I noted that participants may be excluded from studies if there is a over-representation of one gender or ethnicity over another. In practice all applicants were accommodated as the gender and ethnicity balance was broadly representative of the home education groups in the local area.
+
+Given the involvement of three different participant groups of university students, parents, and children, I adapted assent forms, participant information sheets and processes to requirements of each group. For parents, a detailed assent form explained the study’s purpose, how data from children would be collected and managed, and the rights of parents, including their ability to withdraw themselves and their child at any time. For children, a simplified assent form was created using age-appropriate language. This form explained the study in simple terms, emphasising that participation was voluntary and that they could withdraw at any time without negative consequences. Written assent from the children was obtained as part of an informal discussion involving both children and parents. University students were also provided with a assent form explaining the study’s purpose, their rights (including voluntary participation and the right to withdraw without consequence), and data usage. They were given the opportunity to review the form and ask questions before providing written consent.
+
+To ensure respect for the autonomy of all participants, particularly children, alternative activities were offered as part of the recruitment process for those who did not wish to participate in the study. This was important in settings where families may have felt a pressure to take part in research in order to benefit from the social or educational opportunities.  
+
+It was not possible to anonymise video, audio recordings at the point of collection, however is has been anonymised in the process of data analysis through the use of pseudonyms.  The raw video data and additional data from the project has been stored on a password protected external computer drive, separate from the research data. Only the lead researcher had direct access although the ethics approval process gave project supervisors may be given access on request. I took care to not allow any personal data into the public realm as part of the research on analysis process.
+
+As the study involved children additional safeguards were in place. All university students assisting with the study, as well as myself as the primary facilitator, had undergone Disclosure and Barring Service (DBS) checks as part of the EdLab studies programme. Activities involving children were conducted under the supervision of a parent or guardian, who could withdraw the child from the study at any time. Children were reminded, in terms they could understand, that they could opt out at any time.
+
+<!-- Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims. -->
+
+<!-- **Practical factors**
+Key contextual factors have facilitated and shaped development of the research design including:
+
+- Impact of research practicalities
+- The location at the university -->
+
+<!-- Eliza effect? If so how relevant? -->
+
+<!-- For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.   -->
+
+<!-- and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. -->
 
 
-### Data Validity - Triangulation of Data - THE THEORY
+<!--
+Generalisation is covered in this thesis.
+https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
+Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
 
-Draw on other chapters to represent overcoming of weaknesses of design-based approach.
+
+<!-- In early stages of delivery I adopted an open project based approach. I will later describe how this evolved in to a template game using a javascript game making library and an online tool used for phases 1-4 which participants were invited to add to and alter.
+
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. -->
+
+
+
+
+
+## Data validity, reliability and generalisability  
+
+**and decisions of what to not analyse**
+
+The issues addressed in this section relate not only to the guidance methodology receives from the theoretical underpinnings explored in the last chapter but also the concerns of the driving researcher questions.
+
+
+
+### Data Validity
+
+Issues of validity in research are significantly complicated when viewed through a post-objectivist critical stance, as exemplified in the previous chapter by Stetsenko's transformative activist stance, which challenges positivist paradigms of research as a neutral endeavour in terms of values of those undertaking it [@stetsenko2014transfromative]. While, a full investigation of the Stetsenko and other's rejection of an objectivist research approach is beyond the remit of this chapter, it supports the inclusion of my own auto-ethnographic journal as a valid source of data.
+
+Turning to a more established exploration of data validity,  Bakker's [-@bakker_design_2018, p.88] exploration of the issues of data validity in DBR is well suited to the diverse data gathering methods of this study. Bakker notes need for different approaches for qualitative approaches  [@lincoln1985naturalistic]
+
+
+
+**Data triangulation**
+
+
+<!-- Draw on other chapters to represent overcoming of weaknesses of design-based approach. -->
 
 Having a wide based on data allowed data triangulation
 e.g.  find a dood example of finding confirmation in interview data
@@ -1056,6 +1144,17 @@ To make a quantitative approach work better X,Y and Z would need to be in place 
 
 
 
+#### Limits of interview data_
+
+The chief limit is the lack of repeated and regular interview data.
+
+The reason are mostly practical, fitting in additional interviews with families withing a busy schedule.
+
+It was depriorisited and less interviews were conducted than anticipated, and not as regularly.
+
+This reduces factors of reliability as it reduces possibilities for
+
+And prioritising more hands on work which was perceived as more benefitial and welcome by myself.
 
 
 
@@ -1113,42 +1212,6 @@ This is potentially complex to describe but worth it if wanting to talk about ge
 NOTE - This could be dropped or picked up again in the limitations section
 
 The process of exploring this guided the development of the research questions.
-
-
-#### Ethical and Practica issues impacting the formative intervention of this research - MOVED HERE CHECK
-
-<!-- The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. -->
-
-
-
-
-**Practical factors**
-
-Key contextual factors have facilitated and shaped development of the research design including:
-
-- Impact of research practicalities
-- The location at the university
-
-<!-- Eliza effect? If so how relevant? -->
-
-The availability of resources potentially  attractive to this audience.
-
-For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.  
-
-and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from.
-
-Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims.
-
-<!--
-Generalisation is covered in this thesis.
-https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
-Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
-
-
-<!-- In early stages of delivery I adopted an open project based approach. I will later describe how this evolved in to a template game using a javascript game making library and an online tool used for phases 1-4 which participants were invited to add to and alter.
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. -->
-
 
 
 
