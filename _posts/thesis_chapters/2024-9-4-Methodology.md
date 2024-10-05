@@ -11,21 +11,17 @@ title: 4. Methodology
 ---
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Additional context for this
-            introduction](#additional-context-for-this-introduction)
         -   [Revisiting the research
-            QUESTIONS](#revisiting-the-research-questions)
-        -   [edit this down and integreate
-            above](#edit-this-down-and-integreate-above)
-        -   [What research questions are answered by what data gathering
-            and analysis AND AT WHAT STAGE - and described in what
-            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage---and-described-in-what-chapter)
-        -   [JUSTIFICATION OF THE METHODS
-            APPROACH](#justification-of-the-methods-approach)
-        -   [Justification of data collection and
-            selection](#justification-of-data-collection-and-selection)
+            questions](#revisiting-the-research-questions)
             -   [Alignment with with socio cultural
                 approach](#alignment-with-with-socio-cultural-approach)
+        -   [What research questions are answered by what data gathering
+            and analysis AND AT WHAT
+            STAGE](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage)
+        -   [Move Justifications](#move-justifications)
+            -   [JUSTIFICATION OF THE METHODS APPROACH - this is later?
+                Reliability / validity etc. OR DISCUSSION ON
+                METHODOLGY](#justification-of-the-methods-approach---this-is-later-reliability-validity-etc.-or-discussion-on-methodolgy)
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
         -   [D1: Initial research and development - August and September
@@ -143,6 +139,8 @@ title: 4. Methodology
                 facilitator/s](#applying-activity-theory-to-surface-contradictions-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
+        -   [How Research Questions Evolved - JUSTIFICATION FOR CHANING
+            FOCUS.](#how-research-questions-evolved---justification-for-chaning-focus.)
 
 # Methodology
 
@@ -197,6 +195,24 @@ To do this, thematic analysis of video interactions and allow for a detailed exa
 
 <!-- Different phases of the research process address research questions : -->
 
+#### Alignment with with socio cultural approach
+
+The methodology of the data collection and analysis process is informed by socio-cultural approaches. If found the work of Rogoff in particular to research community oriented processes particularly illuminating
+
+The process is a suitable approach for informal education.
+
+As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors.
+
+<!-- The depth justifies smaller data size and depth of analysis. -->
+
+Here I adopt a naturalistic (is this the right word) research approach involves gathering data in situ to find and describe patterns of behaviour.
+
+Large amounts of video data were being gathered, a challenge which is explored later in this chapter
+
+Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
+
+While diversity of data invites drawing on diverse methods of analysis (3 planes, DBR approaches), ATs provide a foundation for the analysis of these diverse data.
+
 ### What research questions are answered by what data gathering and analysis AND AT WHAT STAGE
 
 <!-- DROP THIS - and described in what chapter? -->
@@ -237,8 +253,8 @@ He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent 
 - Analysis of video data
 
 
-
-### JUSTIFICATION OF THE METHODS APPROACH
+### Move Justifications
+#### JUSTIFICATION OF THE METHODS APPROACH - this is later? Reliability / validity etc. OR DISCUSSION ON METHODOLGY
 
 
 The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback. This process is particularly evident in the evolution of the learning design and resources. The trialling of the coding environment and starting templated occurred in various informal settings, over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians.
@@ -253,25 +269,8 @@ Direct input was through requests and informal feedback and structured end-of-co
 
 
 
-### Justification of data collection and selection
 
-#### Alignment with with socio cultural approach
 
-The methodology of the data collection and analysis process is informed by socio-cultural approaches. If found the work of Rogoff in particular to research community oriented processes particularly illuminating
-
-The process is a suitable approach for informal education.
-
-As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors.
-
-<!-- The depth justifies smaller data size and depth of analysis. -->
-
-Here I adopt a naturalistic (is this the right word) research approach involves gathering data in situ to find and describe patterns of behaviour.
-
-Large amounts of video data were being gathered, a challenge which is explored later in this chapter
-
-Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
-
-While diversity of data invites drawing on diverse methods of analysis (3 planes, DBR approaches), ATs provide a foundation for the analysis of these diverse data.
 
 
 

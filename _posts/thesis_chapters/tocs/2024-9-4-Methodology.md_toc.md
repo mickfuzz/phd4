@@ -1,20 +1,16 @@
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Additional context for this
-            introduction](#additional-context-for-this-introduction)
         -   [Revisiting the research
-            QUESTIONS](#revisiting-the-research-questions)
-        -   [edit this down and integreate
-            above](#edit-this-down-and-integreate-above)
-        -   [What research questions are answered by what data gathering
-            and analysis AND AT WHAT STAGE - and described in what
-            chapter?](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage---and-described-in-what-chapter)
-        -   [JUSTIFICATION OF THE METHODS
-            APPROACH](#justification-of-the-methods-approach)
-        -   [Justification of data collection and
-            selection](#justification-of-data-collection-and-selection)
+            questions](#revisiting-the-research-questions)
             -   [Alignment with with socio cultural
                 approach](#alignment-with-with-socio-cultural-approach)
+        -   [What research questions are answered by what data gathering
+            and analysis AND AT WHAT
+            STAGE](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage)
+        -   [Move Justifications](#move-justifications)
+            -   [JUSTIFICATION OF THE METHODS APPROACH - this is later?
+                Reliability / validity etc. OR DISCUSSION ON
+                METHODOLGY](#justification-of-the-methods-approach---this-is-later-reliability-validity-etc.-or-discussion-on-methodolgy)
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
         -   [D1: Initial research and development - August and September
@@ -132,3 +128,5 @@
                 facilitator/s](#applying-activity-theory-to-surface-contradictions-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
+        -   [How Research Questions Evolved - JUSTIFICATION FOR CHANING
+            FOCUS.](#how-research-questions-evolved---justification-for-chaning-focus.)
