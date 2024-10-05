@@ -151,6 +151,25 @@ This chapter builds on the theoretical concepts explored in the previous chapter
 The process described here is part research methodology and part the overall structure or an evolving learning design.
 
 
+#### Alignment with with socio cultural approach EDIT DOWN LOADS - WHAT POINTERS ARE REALLY NEEDED?
+
+The methodology of the data collection and analysis process is informed by socio-cultural approaches. If found the work of Rogoff in particular to research community oriented processes particularly illuminating
+
+The process is a suitable approach for informal education.
+
+As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors.
+
+<!-- The depth justifies smaller data size and depth of analysis. -->
+
+Here I adopt a naturalistic (is this the right word) research approach involves gathering data in situ to find and describe patterns of behaviour.
+
+Large amounts of video data were being gathered, a challenge which is explored later in this chapter
+
+Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
+
+While diversity of data invites drawing on diverse methods of analysis (3 planes, DBR approaches), ATs provide a foundation for the analysis of these diverse data.
+
+#### Outline of chapter.
 
 I will explore how this diversity helps triangulate findings.
 
@@ -161,8 +180,6 @@ this chapter describes:
 - data analysis explored in stages
 - comments on data validity, replicability and ethical considerations
 - analysis of broad AT system (MOVE?)
-
-
 
 
 ### Revisiting the research questions  
@@ -195,23 +212,7 @@ To do this, thematic analysis of video interactions and allow for a detailed exa
 
 <!-- Different phases of the research process address research questions : -->
 
-#### Alignment with with socio cultural approach
 
-The methodology of the data collection and analysis process is informed by socio-cultural approaches. If found the work of Rogoff in particular to research community oriented processes particularly illuminating
-
-The process is a suitable approach for informal education.
-
-As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors.
-
-<!-- The depth justifies smaller data size and depth of analysis. -->
-
-Here I adopt a naturalistic (is this the right word) research approach involves gathering data in situ to find and describe patterns of behaviour.
-
-Large amounts of video data were being gathered, a challenge which is explored later in this chapter
-
-Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
-
-While diversity of data invites drawing on diverse methods of analysis (3 planes, DBR approaches), ATs provide a foundation for the analysis of these diverse data.
 
 ### What research questions are answered by what data gathering and analysis AND AT WHAT STAGE
 
@@ -635,12 +636,9 @@ These interviews are not explored greatly in the course of the analysis thesis a
 
 A summary of the interviews is included as Appendix 4.x
 
-####
-STAGE ONE
-
+#### S1 Video analysis
 
 As outline in the table above, stage one involved initial broad analysis of the varied forms of data and recording observations in an excel sheet.
-
 
 This data was analysed, at a broad scale,  using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data.
 
@@ -681,9 +679,8 @@ While the three planes provided a higher level framework, specifics of the data 
 
 
 
-### Use of journal data (in stage one)
+### S1 Use of journal data
 
-STAGE ONE
 My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use. Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
 
 <!-- To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. -->
@@ -724,7 +721,7 @@ My journal entries contain notes and initial analysis of workshop sessions and r
 Schema for initial thematic analysis in stage two  was informed by literature review, early analysis of journal entries and  emerging observations of data in stage one
 
 
-#### Partial transcription/description of data
+#### S2 Video analysis - Transcription/description of data
 
 The partial transcription of video data formed a significant part of the data analysis. The large amount of video data recorded forced a prioritisation of data to be transcribed. It also forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
 
@@ -753,7 +750,7 @@ A page of quick analysis of the files online here helped to shape that decision 
 https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
 
 
-#### Initial, coding of video at stage 2
+#### S2 Video analysis - first pass of thematic analysis / coding
 
 
 Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
@@ -777,9 +774,9 @@ NOTE - this document outlines thoughts on existing framworks which could inform 
 https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#heading=h.3565tm76nud9
 
 
-#### What was considered but then  excluded from initial coding and why
+**What themes were was considered but then excluded at s2**
 
-The following themes  emerge as potential learning outcomes in the learning model, and were observed in interactions in stage one
+The following themes  emerged as potential learning outcomes in the learning model, and were observed in interactions in stage one
 
 - Elements of Computational Thinking
 - Systems Thinking Concepts
@@ -790,7 +787,7 @@ CT   was not included at stage 2 as there is other extensive or focused work in 
 
 Systems thinking was promising but not a proposed part of the learning design, and the data in P2 and P3 which became a chief focus of thus study was not as rich in this area as later P4 data.  
 
-#### Coding Design Cycle Stages
+##### Coding Design Cycle Stages & MDA / GDP framework
 
 PERHAPS DROP OR AT LEAST REALLY EDIT DOWN
 HOW MUCH IS IN LR?
@@ -807,8 +804,6 @@ ADD IN A JUSTIFICATION BASED ON HOW RESULTS PAN OUT.
 IS THIS STILL EXPLORED IN CH.4 - COULD IT MOVE HERE?
 I was interested in the question what could  coding based on the different game elements that are being added to the game serves to illustrate. The process of learning game making through deepening your knowledge of game elements is explored by Schell [-@schell_art_2008]. As way of coding initially I considered the MDA framework (mechanics, aesthetics, dynamics) due to the focus on the user experience being taken into account.
 
-
-
 This distinction was helpful in preparing resources as a navigational framework, as explored in chapters four and five.
 In that process I adapted the MDA framework to slimplify and match common features that had been suggested by participants. Four categories resulted: game mechanics,  game space, game polish (aesthetics), game challenge (dynamics).
 
@@ -823,8 +818,6 @@ NOTE THIS IS NOT REALLY USED IN DATA - thus make minimal - OR MOVE - IN DESIGN? 
 OR DROP TOTALLY! eg.
 
 -->
-
-
 ### Final coding scheme (but this is stage 4)
 
 #### Coding Participant Roles and Interactions.
