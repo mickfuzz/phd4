@@ -16,8 +16,7 @@ title: 4. Methodology
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
         -   [Overview of importance of participant input to learning
-            design - EDIT
-            DOWN?](#overview-of-importance-of-participant-input-to-learning-design---edit-down)
+            design](#overview-of-importance-of-participant-input-to-learning-design)
         -   [D1: Initial research and development - August and September
             2017](#d1-initial-research-and-development---august-and-september-2017)
         -   [P1: A phase of exploratory, co-creative game making -
@@ -79,8 +78,6 @@ title: 4. Methodology
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)
             -   [Participant interviews](#participant-interviews)
-    -   [Ethical considerations and
-        processes](#ethical-considerations-and-processes)
     -   [Revisiting the research questions based on the evolution of the
         learning
         design.](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.)
@@ -89,6 +86,8 @@ title: 4. Methodology
             -   [What research questions are answered by what data
                 gathering and analysis processes and
                 stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)
+    -   [Ethical considerations and
+        processes](#ethical-considerations-and-processes)
     -   [Data validity, reliability and
         generalisability](#data-validity-reliability-and-generalisability)
         -   [Data Validity](#data-validity)
@@ -165,7 +164,9 @@ Here I cover the use of video recordings, participant interviews, and analysis o
 
 
 
-#### Outline of chapter INTERATE WITH ABOVE?
+#### Outline of chapter
+
+INTERATE WITH ABOVE?
 
 I will explore how this diversity helps triangulate findings.
 
@@ -1253,19 +1254,18 @@ Keep this brief.
 
 The smaller time frame of iterations, and more direct intervention in the ongoing / leading activity distiguishes this approach from a Change Laboratory. However, the analysis of tensions, and thus double stimulation to provoke evolutions of agency are alike.
 
-
-
 The next chapter focuses in more depth of the mutual evolution of the learning design in a way which aligns with the design narative technique of DBR (hoadley? - find others!)
 
-My role as a participant facilitator, designer and researcher
-and how this interacts with
- the process of refining this reflection into learning and teaching resources which was complex and iterative. And to an extent intuative. This present issues of validity and replicability.
+
 
 ## Chapter conclusion and link
 
 In line the ethos of formative interventions and DBR this chapter has outlined a methodology which aknowledges the roles of my own input as a scholar/activist and that of participants. The process of working with participant input to the design of the learning intervention served several functions including: access to novel technical approaches proposed by parents and university volunteers; the surfacing of systemic conflicts hidden from my initial perception stemming from my pre-conceptions; observation of participant conflicts spurred the introduction of new tools to support development; and parental proficiency in adapting the learning environment to supporting their children leading to community-wide innovations in practice.
 
 This chapter has described a hybrid approach based on the principles of the Helsinki school's interpretation of  formative intervention, supplemented by naturalistic research methods involving gathering data in-situ to find and describe emerging patterns of behaviour via thick decriptions and the more rapid iterations into the working practices common in DBR in the learning sciences and HCI approaches.
+
+
+My role as a participant facilitator, designer and researcher presents some challenges which this chapter has addressed. While some decisions were to an extent intuative or reflexive based on my past experiences as a facilation of group productive processes involving technology, and for some this would present issues of validity, the process is in line with a TAS approach.  While my auto-ethnographic notes are too extensive to effectively bring into the data analysis process, they chart the complex and iterative process of refining this reflection into learning and teaching resources. Several samples of journal entries are offered as evidence of this process in Appendix. 4.x
 
 LINK
 
@@ -1302,239 +1302,6 @@ Another guiding principle of design-based research - which is present in the tec
 
   6       Jan-March 2020             
   Make Code Platform Duck Run ([madecode)](http://tinyurl.com/runduckrun)                                                                                                                                                                               -->
-
-
-## Analysis of dimensions of game making activity using 3GAT framework
-
-<!--
-#### Code Playgrounds
-Find definition
-NOTES ON CODE PLAYGROUNDS
-However in its styling it is playful and editorial picks and write up celebrate a playful spirit of creativity and sharing. There are strong parallels in this presentation to that Scratch community and to the sharing ethos integral to the maker-movement (explored in Lit Review). The interplay between play and work via shared experimentation is developed further in a later discussion chapter.
-#### Online graphics editors - Piskel -->
-
-
-
-<!-- The tool shown in screenshots is the code playground glitch (see chapter 2 and glossary). -->
-
-
-In line with the process outlined in chapter three, the following sections outline different scopes of activity to introduce tensions between system elements which are explored in this chapter.
-
-<!-- I use concepts from activity theory to describe elements of the activity system and identify intersecting or nested systems of activity and their differing goals. -->
-
-<!-- The following sections describe of the vignette above focusing on the overall activity and its place within evolution of learning design.
-Subsequent analysis of the identified activity systems allows both the researcher and practitioner to identifying existing and emerging tensions and to thus observe (spontaneous) or plan (designed) responses. While this chapter focuses primarily on the tools and resources, future chapter also draw on this framework for wider analysis. -->
-<!-- ALTERNATIVE SIMPLIER INTRO TO THIS SECTION -->
-
-<!-- Each section follows a pattern: the activity is described in general, then examples of activity at that scope from the vignette above are described, ending with brief analysis or signposting to where the activity in explored in greater depth. -->
-
-<!-- The following descriptions mirror the work of AT researchers who conceptualise scope of activity as concentric circles from Broffennbrenner with "larger" scopes of cultural and societal goals and smaller, narrower, lower scopes of more personal activity [Engestrom][Cole]. -->
-
-<!-- A short description of the activity systems follows the vignette above to help the reader establish a broad understanding of the processes involved before further analysis. I signpost the reader to other chapters when the described activity is explored in more detail there. -->
-
-### Environmental factors and objectives
-
-The context of the learning environment situated within wider systems of activity. Three key systems are represented in an illustration 4.x  below. The diagram is necessary simplification of contextual factors and objectives of interacting, focusing on research goals on the part of the researcher, learning computing skills and concepts as a home education project and finally a broad aim of fun on the part of the children participants. Diverse cultural and contextual factors from the original activity systems are played out in a new shared activity system, while there is a nominal shared objective to the main activity, it the community contains diverse actors with different agendas.
-
-
-<!--
-Other relevant objectives of re include: a desire to create a useful learning experience on the part of student helpers; participating with other home educators in a creative environment and thus building team and communication skills;. -->
-
-<!-- NOTE MOVE PREVIOUS Chapter?  -->
-
-
-![Illustration 4.x - Broad Environmental Activity Systems  ](./Pictures/At_dia_3_v2.png){width=95%}
-
-The diagram is in line with Engestrom's concept of expansive learning via a shared object (explored in the chapter three) [@engestrom_expansive_2001]. In this research, I take the approach of treating this shared object as an activity system in its own right. Lecusay takes a similar approach [@lecusay_telementoring_2015] when describing an adaption to an after school program. He describes the shared object as an idiocultural hybrid which develops into its own activity system. The concept of idioculture is used in this study to deepen the description of the community dimension of 3GAT.
-
-
-<!-- NOTE - WHY IS THE CONCEPT OF IDEOCULTURE USEFUL HERE? -->
-
-<!-- NOTE - CAN ADD THE OBJECTIVES / LEADING ACTIVITIES INTO THE ARROWS ON THE DIAGRAM -->
-<!-- While the limited example above of Toby's activity illustrates fun, additional data from interviews with this child and family back the broad goals above. [develop - perhaps an appendix or quotes] -->
-
-<!-- As previously explored this mirrors the Activity, Action and Operation hierarchy. -->
-
-
-<!-- | **Subject**         | **Objective**             | **Tools & Processes**          |
-|------|-------------|------------|
-| Community of novice game makers | Creating a game which is fun to play and communi**Phase one:** In response to need, I adapted a starting code template of a platform game and created various code examples to add functionality requested by participants. This template was adapted from an online tutorial to create a game of the _platformer_ genre  (see glossary), a move which helped to limit expectations of the technical complexity of their game. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.cates an environmental theme     | Shared log in to code playground (glitch.com)   |
-|   |      | Shared log in to graphic editor (Piskel)    |
-|   |      | Instructions from facilitator including the overall mission   |
-|   |      | Starting game template    |
-|   |      | Group playtesting     |
-|        |     |
-
-Table 4.x.  Tools used in larger-scoped objective involving the wider community of notice coders collectively making separate games. -->
-
-
-Following Barab's description of nested activity systems [-@barab_using_2002], this shared system, whose objective is to make a games for an audience to play,  can be seen not only as nested within the wider systems but also as a container for  other  activity systems nested with that. While this overall approach is considered valid [FIND OTHER SUPPORT], the danger of fragmenting activity to much is to make matters confusing. The job of the researcher is to prioritise systems to describe and analyse based on the area of study and the concerns of the participants. This prioritisation in AT is sometimes conceptualised as the process of finding a key units of analysis. In the process of research I have found two units of activity particularly illuminating, one being the shared activity system described above of making a game in a community process. The other, narrower in scope can be described as implementing individual game features. Beyond these key systems, I draw on the concepts of actions and operations within systems to describe tensions and contradictions which emerge in the research process [-@leontiev_activity_2009].
-
-<!-- GDPs ( conceptualised here as game design patterns), which while often implemented on an individual or pair scope, were also fed back into community activity.  -->
-
-###  Activity system 1 - a novice game making community making games as a learning experience
-
-
-<!-- NOTE - what is the difference between objective and outcome -->
-
-<!-- Insert an AT diagram from here - https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit#slide=id.g57b5e8e9ad_0_0 -->
-
-
-![Illustration 4.x - Larger game making activity system  ](./Pictures/At_dia_1_v1.png){width=95%}
-
-
-There are diverse end audiences for the games. The final target audience are students and staff in the Manchester Met Brooks building where the created games are shared in arcade cabinets at the end of the programme. An additional audience are friends and family who can be send the games to play online. The more immediate audience for the evolving games are peer game makers during the making sessions.
-
-![Carrot eater game with an self made arcade unit made from cardboard boxes](./Pictures/carroteater3.jpg){width=90%}
-
-While the broad aim of making a game to share is agreed through participation, there are also diverse motivations stemming from environmental factors in the interrelated actors in this activity which feed into the contradictions which emerge at this level of activity.
-
-#### Illustrative vignette on participants activity indicating general activity of participants
-
-
-The purpose of this vignette is to illustrate some of the key features of the overall game making activity in relation to activity systems and relevant system elements. (included as an appendix of this chapter as Appendix 4.a -
-
-<!--
-[Link to online version here](https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit)) -->
-
-The participant, a child Toby, has been working independently on the design of a platform game for several minutes of the session. As a facilitator, I draw the participants attention to the showcasing of their games to an external audience to focus their attention on completion of their games. Toby pays close attention to the challenge and variety of the game playing experience for his imagined audience of players. During the course of the session Toby invites many other group members to play his game. He initiates and responds to conversations around the difficultly of the game he has designed. The more immediate audience of his peers is clearly important to him in guiding his actions.
-
-He uses a variety of tools in the process of coding and testing his game including: a web based coding tool (code playground), a game template which he has used as the base of his game project and,  a menu of documentation linking to code examples and tutorials   
-
-While this vignette shows that the participant has developed fluid use of both software tools and documentation and support sources, these are areas where significant contradictions emerged which shaped the path of the support given. Contradictions concerned with use of core tools and additional documentation and support are explored in two later sections of this chapter.
-
-The later section of the vignette shows evidence of elements of an emerging idioculture of this group. A student helper shares a question -  "Is yours the one where level one is harder than level three?". This is indicative of some of the emerging playful approaches that younger participants in particular are taking to the overall process. This represents an example of the influence of the wider systems of play of on the shared idioculture of the game making community. The complexities of processes to create and to help resolve contradictions as this cultural domain of collective making are explored later in this chapter.
-
-
-<!-- IS THIS NEEDED? While the programme had a shared objective of making a game, there were tensions brought by the cultural factors and other objectives imported from other activity systems. The third contradiction explored in this chapter explores those tensions (including? ....). -->
-
-
-<!-- In the vignette of Toby's activity this wider objective is present in the facilitator orientation at the start which references this audience -  _the Monday after we can play our games and we can share them with students. We can make the students frustrated when they can’t beat our games_. At the end of the vignette text, one of the student helpers also imagines this audience playing the game of Toby.    -->
-<!--
-NOTE - More on large scope in AT terms? What is needed here? -->
-
-
-### Activity system 2 -  Constructing a game feature by feature
-
-Within the activity system of making a game, in analysis of video data and evolution of course resources from P2 onwards, I identified activity happening at an individual or pair work which emerged with distinctive characteristics.
-
-Activity was driven by learners setting goals, requesting help and then implement code structures based around altering or adding new features to the game using tools available in the learning environment. Participants also worked on audio and graphical assets to achieve this  objective.
-
-While is it possible, aligning with Levontev, to identify the implementation of features as actions within the wider activity, there is value in  treating of implementing each GDP as a sub-project or activity systems in its own right ( NOTE - or at least as as a key unit of analysis). Barab and colleagues justify smaller units in their study observing emerging practices in a technology rich learning environment [@barab_using_2002].
-QUOTE?
-
-
-
-<!-- | Subject         | Objective             | Tools & Processes          |
-|------|-------------|------------|
-| Groups or individual participants | Implementing game elements   | Code editing tool (glitch)   |
-|   |   |  Game preview tool (glitch) |
-|   |   |  Menu of game patterns at ggc-examples.glitch.me  |
-|   |   |  Step by step tutorials on FLOSS manuals  |
-|   |   |  Playtesting own game |
-|        |     |
-
-Table 4.x.  Tools used in mid-level objectives when selecting and planning implementation of game elements. -->
-
-![Mid-level activity system of game making](./Pictures/At_dia_2_v1.png){width=95%}
-
-<!-- One observation from he experimental course was that without signific**Phase one:** In response to need, I adapted a starting code template of a platform game and created various code examples to add functionality requested by participants. This template was adapted from an online tutorial to create a game of the _platformer_ genre  (see glossary), a move which helped to limit expectations of the technical complexity of their game. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
-
-ant support, the process of making a game is complex and there are many possible blockages in the process. -->
-
-<!-- NOTE - THIS IS ANALYSIS  -WHERE TO PLACE IT?
-By this stage, the process of collecting a user generated list of features and trying to respond to all of them as a facilitator had been abandoned as unrealistic. -->
-
-<!-- NOTE - how much from p1-4 below to include? -->
-
-<!-- In the example above Toby progresses from playtesting his own game to altering it. The code to change the layout of the platforms of the game is already included in the starting template. Thus is able add a new platform by making simple code changes. Toby retests the game immediately by clicking on the preview element of the code environment.  -->
-
-<!-- However within that wider objective there may be a variety of goals depending on the participant. In this case Toby's goal is addresses the challenge and variety of the game playing experience. -->
-
-<!-- Toby builds his competence in the process of comparing the own code to the code example to work out what code is new and relevant to the desired behaviour. -->
-
-Game design patterns emerged as a shared object as described by Engestrom in []. The object of activity here is not only the code and game assets which participants are working on. In addition the emerging concept and group understanding of the game design pattern becomes a share understanding on a community level as playtesing, pair work and peer help happens.
-
-![Illustration 4.x - Shared object of implementing GDP  ](./Pictures/At_dia_4_v1.png){width=95%}
-
-Chapter five contains more detail on the emergence of game design patterns as shared concepts and the implications for activity in more depth.
-
-<!-- DEVELOP THIS IDEA HERE OR MOVE IT TO DISCUSSION WITH SOME KIND OF SIGNPOSTING HERE. -->
-
-Objectives at this level also vary between participants with some more straight-forward and others more tricky based on their making style. For example, beyond a purely utilitarian objective, a further objective in implementing a GDP, e.g. a new graphical element may be to increase a sense of personal identification with the game as an vehicle for personal expression.  
-
-<!-- MOVE OR EXPLAIN IN MORE DETAIL
-ALTER THE DIAGRAMS ABOVE TO REFLECT THIS. -->
-
-#### Illustrative use of tools to mediate activity shown in vignette 4.x
-
-A description of the use of the diverse tool set used at this level of activity illustrated in vignette 4.x is helpful to situate later discussion in this chapter.  By this stage of the process, Toby is able to browse a collection of game design patterns and use diverse of tools, resources and processes. Participants developed preferred approaches and tool choices especially in accessing help when adding a new feature to their game. In the vignette 4.a I outline the two main sources of help at the level of adding a new feature to the game: "Here’s the tutorial and there’s the examples of code". In the course of the vignette above, Toby chose to access only a code example of the desired game behaviour. He did not, as some in the group were doing in this session, use the tutorial which provided more descriptive, step-by-step guidance. Other participants relied only on direct verbal help from myself or other participants (like Toby) to help them progress.
-
-A later section of this chapter details the different supporting documentation guiding participation in game making practices. Chapter five then explores activity occurring at this scope in more detail with a greater focus on emerging concepts as tools.
-
-
-<!-- While some game patterns were simple to add, e.g. altering the location of platforms, other more complicated features involved several stages and varied tools to implement. The next section describes these stages as discrete code and design structures. -->
-
-<!-- NOTE - Other participants;s motivations - explored later? -->
-
-<!-- Other participants were less proficient using this online resources and used printed out versions of documentation. -->
-
-<!-- In the next section narrower actions still within this system are explored as discreet actions which combine to be come the activity of implementing a game pattern. -->
-
-<!-- | **Subject**         | **Objective**             | **Tools & Processes**         
-|----------------|-----------|------------|
-| Individuals (mostly)  | Implementing specific code or design tasks   |  Code editing tool (glitch)   |
-|   |   |  Code game preview tool (glitch) |
-|   |   |  Piskel  online graphics editor   |
-|   |   |  Step by step tutorials on FLOSS manuals  |
-|   |   |  Stand-alone code examples on glitch.com  |
-|        |     | -->
-
-<!-- Table 4.x.  Tools used in lower-level objectives of implementing specific code structures or stages in creating game assets -->
-
-#### Operations and actions within the system - Implementing discrete code and design structures
-
-<!-- For example, creating a new graphical element in a separate online pixel-art editor called Piskel, exporting and downloading it to the laptop, and uploading it to the glitch code playground and then making code changes in several parts of the code to initialise and implement new behaviour for this element. -->
-
-Within the objective of adding or altering game features (also referred to as game design patterns here), implementing more complicated patterns involved several stages and varied tools. Using the terminology of Leontiev [-@leontiev_activity_2009], participants undertakes certain chains of processes in a fluid way that shows that actions had become operations (as explored in chapter three). In vignette 4.x, an example of such an operation is Toby's quick navigation between different areas of the game code, the game preview window and other sources of documentation. In contrast, some tasks are new to Toby and are performed more hesitantly. In the vignette's description, it can be observed that at times Toby is careful and hesitant, checking and rechecking the process of copying and pasting new code into his game from the code example of a design pattern he has chosen.
-
-<!--NOTE As a facilitator of a community I aim to notice these transitions as I aim to use the proficiency of participants to help distribute the process of helping peers. -->
-
-Identifying shifts in participant activity in terms of scope facilitates analysis of the complex and interwoven cultural, social and personal actions in a communities activity [@rogoff_observing_1995]. Above, Toby shifts between the wider activity of making a game and sharing it with peers and narrower actions implementing concrete code structures. This aspect is developed in chapter five.
-
-In addition to these shifts in scope, analysis of community processes also involves transformation over time.  The next section offers a description of the evolution of tool use in different phases of the study with an aim to situate analysis of emerging tensions in the use of tools, resources and processes in the following section.
-
-
-<!-- In this thesis, chapter six has a focus on cultural aspects of making a game together and chapter five explores social organisation around the activity of adding game design patterns chapter five.  -->
-
-<!-- After inserting the code which adds a moving enemy to the game, Toby spends five minutes altering the variables involved to match his design and to create a level of challenge that he is happy with. -->
-
-<!-- Toby makes quick progress. one factor here is willingness to make mistakes. There is a confidence here in undoing mistakes, commenting out new code to return to previous behaviour.
-
-The trial and error approach also yields benefits, a mistake in the values edited creates an unexpected result of the enemy moving vertically instead of horizontally. Toby embraces this mistake and shares his account of this happy accident enthusiastically. -->
-
-
-
-<!-- NOTE
-Each of these with differing levels of abstraction.
-Break down that of GDPs? -->
-
-<!-- In the last chapter, we examined the use of Rogoff's 3 lenses of cultural, social and personal activity. We can see a broad alignment of these lenses and the scopes of the activity systems above.
-
-This has utility to both researcher and learning designer. The observations of the following chapters are based on this approach of using lenses to focus in on relevant activity.
-
-NOTE - Explore how performed in line with other research - e.g. DBR (Barab) and possibly Bevan and Petrich -->
-
-<!-- to highlight possible tensions and contradictions between competing goals of interrelated activity systems. -->
-<!-- For example a common contradiction may be an immediate goal of children to mess around, play games and have fun while the goals of parent may be to maximise the acquisition of skills -->
-
-
-#### Applying activity theory to surface contradictions and design tensions experienced by participants and facilitator/s
-
-The followings sections use a process of analysis of contradictions between system elements of the activity systems outlined above. The processes is a formative intervention (explored in chapter three) in that the surfacing of tensions due to changes in the learning design over time are examined. As noted in the introduction, this chapter explores t.
-he following areas of contradictions: contradictions in the technical tool use of design, contradictions shaping the development of supporting documentation, contradictions to do with issues of identity and the cultural dimension of participation.
-
-<!-- I chart the detail of the evolution of resources and other responses used helps illuminate broader, systemic issues concerns in the overall activity [@barab_using_2002]. -->
 
 
 

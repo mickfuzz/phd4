@@ -5,8 +5,7 @@
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
         -   [Overview of importance of participant input to learning
-            design - EDIT
-            DOWN?](#overview-of-importance-of-participant-input-to-learning-design---edit-down)
+            design](#overview-of-importance-of-participant-input-to-learning-design)
         -   [D1: Initial research and development - August and September
             2017](#d1-initial-research-and-development---august-and-september-2017)
         -   [P1: A phase of exploratory, co-creative game making -
@@ -68,8 +67,6 @@
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)
             -   [Participant interviews](#participant-interviews)
-    -   [Ethical considerations and
-        processes](#ethical-considerations-and-processes)
     -   [Revisiting the research questions based on the evolution of the
         learning
         design.](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.)
@@ -78,6 +75,8 @@
             -   [What research questions are answered by what data
                 gathering and analysis processes and
                 stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)
+    -   [Ethical considerations and
+        processes](#ethical-considerations-and-processes)
     -   [Data validity, reliability and
         generalisability](#data-validity-reliability-and-generalisability)
         -   [Data Validity](#data-validity)
