@@ -68,8 +68,8 @@
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)
             -   [Participant interviews](#participant-interviews)
-            -   [Ethical considerations and
-                processes](#ethical-considerations-and-processes)
+    -   [Ethical considerations and
+        processes](#ethical-considerations-and-processes)
     -   [Revisiting the research questions based on the evolution of the
         learning
         design.](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.)

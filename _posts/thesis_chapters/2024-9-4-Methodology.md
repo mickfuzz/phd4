@@ -79,8 +79,8 @@ title: 4. Methodology
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)
             -   [Participant interviews](#participant-interviews)
-            -   [Ethical considerations and
-                processes](#ethical-considerations-and-processes)
+    -   [Ethical considerations and
+        processes](#ethical-considerations-and-processes)
     -   [Revisiting the research questions based on the evolution of the
         learning
         design.](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.)
@@ -182,8 +182,7 @@ this chapter describes:
 
 ## Summary of phases and resources of the study
 
-
-The following overview of activity use by phase briefly details the evolution of tools and processes. Later sections of chapter explore the rationale for their selection or production. Fuller descriptions of the tools and supporting resources used at each stage and links to the online resources created are available as appendix 4.x
+The following sective provides an overview of activity use by phase briefly detailing the evolution of tools and processes. A following section outines the data gathering processes used at each stage before turn to the process of data analyis. Finding in other chapters, in particular the design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions. Fuller techincal descriptions of the tools and supporting resources used at each stage are beyond the scope of those questions and the limits of the structure of this thesis, fuller technical descriptions to and links to the online resources created are available as appendix 4.x.  A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x.
 
 ![](./Pictures/phases_diagram_chevrons.png){width=90%}
 
@@ -193,22 +192,20 @@ Fig. 4.x Summary of delivery phases and development periods
 [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
 
 
+Before exploring the phases in more detail, an overview of the process of participant into into the learning design follows.
 
-#### Overview of importance of participant input to learning design - EDIT DOWN?
+#### Overview of importance of participant input to learning design
 
+EDIT DOWN?
 
 The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
 
-This process is particularly evident in the evolution of the learning design and resources. The trialling of the coding environment and starting templated occurred in various informal settings, over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians.
-
-While a full description of how this happened is beyond the remit of this chapter, this external input served several functions including: access to novel technical approaches proposed by parents and university volunteers; the surfacing of systemic conflicts hidden from my initial perception stemming from my pre-conceptions; observation of participant conflicts spurred the introduction of new tools to support development; and parental proficiency in adapting the learning environment to supporting their children leading to community-wide innovations in practice. My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process.
-IF I WERE TO WRITE MORE WHERE WOULD IT BE AND WHAT WOULD IT LOOK LIKE - WHERE ARE THOSE DESCRIPTIONS HAPPENING? IN THE FINDINGS CHAPTER ?
+This process is evident in the evolution of the learning design and resources. For example, the trialling of the coding environment and starting templated occurred over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians. Input took varied forms. Direct input was through help requests made by participants and feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
-HOW THE LEARNING DESIGN EVOLVED.
-INTEGRATE WITH THE ABOVE.
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process. The following three chapters of research findings in part describe these transformations and emerging repetoires in more detail.
 
+<!-- IF I WERE TO WRITE MORE WHERE WOULD IT BE AND WHAT WOULD IT LOOK LIKE - WHERE ARE THOSE DESCRIPTIONS HAPPENING? IN THE FINDINGS CHAPTER ? -->
 
 #### D1: Initial research and development - August and September 2017
 
@@ -323,6 +320,10 @@ First iteration of game making course of 5-6 weeks. The template and resources c
 **Tools used:** Phaser; Glitch code playground replaces Thimble, Piskel; a starter game template; quick start cards; step-by-step tutorials; code snippet examples.  
 
 
+<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
+https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit# -->
+
+NOT TRUE SEE LINK IN NOTES
 By the beginning of P2 most of the resources and activities were in place and relatively stable. There were some incremental evolutions in the template that stemmed from participant feedback and my reflections. Key additions at this stage to support the use of a template were a collection of tutorials and code examples illustrating key game features that had been requested by participants. The collection of game patterns were presented in a web page together with the starting template and a link to an online book collecting the process into step-by-step chapter based tutorials. The resources are explored in more depth in sections three and four below. A more complete description of the resources used in P2 and P3 are included in appendix 4.x.The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
 
 Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
@@ -335,6 +336,8 @@ P3 used the same toolset as P2 however in addition, drew on my previous work wit
 **Tools used:** As per P2; a drama scenario; side missions; a code project to interact with aliens using markdown code.   
 
 #### P4: Adapting resources to MakeCode Arcade and more formal settings - November 2019 to September 2020
+
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
 
 In 2019 MakeCode Arcade was launched to make games using for novice coders via the use of a block coding systems similar to Scratch. I adapted resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in a later section of this chapter. I ran two iterations of game making course using MakeCode Arcade. The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language [^1]. Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
@@ -966,50 +969,6 @@ MOVE TO CONCLUSION
 In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 
-#### Ethical considerations and processes
-
-<!-- The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. -->
-
-
-Ethical approval for this study was obtained from ESRI ethics process using the ETHOS system to ensure that all research activities comply with the guidelines for research involving human participants. Inclusion criteria included being part of a family (including guardians) unit with the ability to travel to the Manchester Metropolitan university campus campus. Younger family members will be between 7 and 13 years of age. All participants will have an interest in learning to make digital games together as an educational project. The project requires that they have literacy abilities to be able to read and write English.
-
-Participants were be identified by involvement in activities linked to Manchester Met's EdLab programme and that of Coder Dojo activities via an open call on email to interested parties. In addition to address a wider diversity of participants in terms of  to Alternative arrangements may involve an open call to the Greater Manchester Home Education Network internet forum. In the ethics application I noted that participants may be excluded from studies if there is a over-representation of one gender or ethnicity over another. In practice all applicants were accommodated as the gender and ethnicity balance was broadly representative of the home education groups in the local area.
-
-Given the involvement of three different participant groups of university students, parents, and children, I adapted assent forms, participant information sheets and processes to requirements of each group. For parents, a detailed assent form explained the study’s purpose, how data from children would be collected and managed, and the rights of parents, including their ability to withdraw themselves and their child at any time. For children, a simplified assent form was created using age-appropriate language. This form explained the study in simple terms, emphasising that participation was voluntary and that they could withdraw at any time without negative consequences. Written assent from the children was obtained as part of an informal discussion involving both children and parents. University students were also provided with a assent form explaining the study’s purpose, their rights (including voluntary participation and the right to withdraw without consequence), and data usage. They were given the opportunity to review the form and ask questions before providing written consent.
-
-To ensure respect for the autonomy of all participants, particularly children, alternative activities were offered as part of the recruitment process for those who did not wish to participate in the study. This was important in settings where families may have felt a pressure to take part in research in order to benefit from the social or educational opportunities.  
-
-It was not possible to anonymise video, audio recordings at the point of collection, however is has been anonymised in the process of data analysis through the use of pseudonyms.  The raw video data and additional data from the project has been stored on a password protected external computer drive, separate from the research data. Only the lead researcher had direct access although the ethics approval process gave project supervisors may be given access on request. I took care to not allow any personal data into the public realm as part of the research on analysis process.
-
-As the study involved children additional safeguards were in place. All university students assisting with the study, as well as myself as the primary facilitator, had undergone Disclosure and Barring Service (DBS) checks as part of the EdLab studies programme. Activities involving children were conducted under the supervision of a parent or guardian, who could withdraw the child from the study at any time. Children were reminded, in terms they could understand, that they could opt out at any time.
-
-<!-- Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims. -->
-
-<!-- **Practical factors**
-Key contextual factors have facilitated and shaped development of the research design including:
-
-- Impact of research practicalities
-- The location at the university -->
-
-<!-- Eliza effect? If so how relevant? -->
-
-<!-- For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.   -->
-
-<!-- and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. -->
-
-
-<!--
-Generalisation is covered in this thesis.
-https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
-Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
-
-
-<!-- In early stages of delivery I adopted an open project based approach. I will later describe how this evolved in to a template game using a javascript game making library and an online tool used for phases 1-4 which participants were invited to add to and alter.
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. -->
-
-
-
 ## Revisiting the research questions based on the evolution of the learning design.
 
 <!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
@@ -1071,6 +1030,49 @@ Thematic analysis of video interactions and allow for a detailed examination of 
 
 - Interviews with participants some informal and some formal instructed directly adaptations to design
 - Analysis of video data
+
+
+## Ethical considerations and processes
+
+<!-- The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. -->
+
+
+Ethical approval for this study was obtained from ESRI ethics process using the ETHOS system to ensure that all research activities comply with the guidelines for research involving human participants. Inclusion criteria included being part of a family (including guardians) unit with the ability to travel to the Manchester Metropolitan university campus campus. Younger family members will be between 7 and 13 years of age. All participants will have an interest in learning to make digital games together as an educational project. The project requires that they have literacy abilities to be able to read and write English.
+
+Participants were be identified by involvement in activities linked to Manchester Met's EdLab programme and that of Coder Dojo activities via an open call on email to interested parties. In addition to address a wider diversity of participants in terms of  to Alternative arrangements may involve an open call to the Greater Manchester Home Education Network internet forum. In the ethics application I noted that participants may be excluded from studies if there is a over-representation of one gender or ethnicity over another. In practice all applicants were accommodated as the gender and ethnicity balance was broadly representative of the home education groups in the local area.
+
+Given the involvement of three different participant groups of university students, parents, and children, I adapted assent forms, participant information sheets and processes to requirements of each group. For parents, a detailed assent form explained the study’s purpose, how data from children would be collected and managed, and the rights of parents, including their ability to withdraw themselves and their child at any time. For children, a simplified assent form was created using age-appropriate language. This form explained the study in simple terms, emphasising that participation was voluntary and that they could withdraw at any time without negative consequences. Written assent from the children was obtained as part of an informal discussion involving both children and parents. University students were also provided with a assent form explaining the study’s purpose, their rights (including voluntary participation and the right to withdraw without consequence), and data usage. They were given the opportunity to review the form and ask questions before providing written consent.
+
+To ensure respect for the autonomy of all participants, particularly children, alternative activities were offered as part of the recruitment process for those who did not wish to participate in the study. This was important in settings where families may have felt a pressure to take part in research in order to benefit from the social or educational opportunities.  
+
+It was not possible to anonymise video, audio recordings at the point of collection, however is has been anonymised in the process of data analysis through the use of pseudonyms.  The raw video data and additional data from the project has been stored on a password protected external computer drive, separate from the research data. Only the lead researcher had direct access although the ethics approval process gave project supervisors may be given access on request. I took care to not allow any personal data into the public realm as part of the research on analysis process.
+
+As the study involved children additional safeguards were in place. All university students assisting with the study, as well as myself as the primary facilitator, had undergone Disclosure and Barring Service (DBS) checks as part of the EdLab studies programme. Activities involving children were conducted under the supervision of a parent or guardian, who could withdraw the child from the study at any time. Children were reminded, in terms they could understand, that they could opt out at any time.
+
+<!-- Motivating or other effect of being part of a research project (Eliza) may be present. However, this study does not make comparative claims. -->
+
+<!-- **Practical factors**
+Key contextual factors have facilitated and shaped development of the research design including:
+
+- Impact of research practicalities
+- The location at the university -->
+
+<!-- Eliza effect? If so how relevant? -->
+
+<!-- For example, the ability to have that number of identical computers for this audience in particular drove participipation to be in a university setting.   -->
+
+<!-- and using this shape of working which was determined by technical reasons but which had an impact nevertheless on the ability for students to move around the room and the absence of a front for the teacher to teach from. -->
+
+
+<!--
+Generalisation is covered in this thesis.
+https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
+Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
+
+
+
+
+
 
 ## Data validity, reliability and generalisability  
 
@@ -1261,7 +1263,9 @@ and how this interacts with
 
 ## Chapter conclusion and link
 
-This chapter has described a hybrid approach based on the principles of the Helsinki school's interpretation of  formative intervention, supplemented by  naturalistic research methods involving gathering data in-situ to find and describe emerging patterns of behaviour via thick decriptions and the more rapid iterations into the working practices common in DBR in the learning sciences and HCI approaches.
+In line the ethos of formative interventions and DBR this chapter has outlined a methodology which aknowledges the roles of my own input as a scholar/activist and that of participants. The process of working with participant input to the design of the learning intervention served several functions including: access to novel technical approaches proposed by parents and university volunteers; the surfacing of systemic conflicts hidden from my initial perception stemming from my pre-conceptions; observation of participant conflicts spurred the introduction of new tools to support development; and parental proficiency in adapting the learning environment to supporting their children leading to community-wide innovations in practice.
+
+This chapter has described a hybrid approach based on the principles of the Helsinki school's interpretation of  formative intervention, supplemented by naturalistic research methods involving gathering data in-situ to find and describe emerging patterns of behaviour via thick decriptions and the more rapid iterations into the working practices common in DBR in the learning sciences and HCI approaches.
 
 LINK
 
