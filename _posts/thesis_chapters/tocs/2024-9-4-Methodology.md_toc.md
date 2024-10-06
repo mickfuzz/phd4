@@ -1,18 +1,12 @@
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Revisiting the research
-            questions](#revisiting-the-research-questions)
-            -   [Alignment with with socio cultural
-                approach](#alignment-with-with-socio-cultural-approach)
-        -   [What research questions are answered by what data gathering
-            and analysis AND AT WHAT
-            STAGE](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage)
-        -   [Move Justifications](#move-justifications)
-            -   [JUSTIFICATION OF THE METHODS APPROACH - this is later?
-                Reliability / validity etc. OR DISCUSSION ON
-                METHODOLGY](#justification-of-the-methods-approach---this-is-later-reliability-validity-etc.-or-discussion-on-methodolgy)
+        -   [Outline of chapter INTERATE WITH
+            ABOVE?](#outline-of-chapter-interate-with-above)
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
+        -   [Overview of importance of participant input to learning
+            design - EDIT
+            DOWN?](#overview-of-importance-of-participant-input-to-learning-design---edit-down)
         -   [D1: Initial research and development - August and September
             2017](#d1-initial-research-and-development---august-and-september-2017)
         -   [P1: A phase of exploratory, co-creative game making -
@@ -48,21 +42,15 @@
                 -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
             -   [Practitioner interviews](#practitioner-interviews)
-            -   [](#section)
+            -   [S1 Video analysis](#s1-video-analysis)
             -   [3 planes approach - noting tensions and
                 behaviours](#planes-approach---noting-tensions-and-behaviours)
-        -   [Use of journal data (in stage
-            one)](#use-of-journal-data-in-stage-one)
+        -   [S1 Use of journal data](#s1-use-of-journal-data)
         -   [Data Analysis Stage Two](#data-analysis-stage-two)
-            -   [Partial transcription/description of
-                data](#partial-transcriptiondescription-of-data)
-            -   [Initial, coding of video at stage
-                2](#initial-coding-of-video-at-stage-2)
-            -   [What was considered but then excluded from initial
-                coding and
-                why](#what-was-considered-but-then-excluded-from-initial-coding-and-why)
-            -   [Coding Design Cycle
-                Stages](#coding-design-cycle-stages)
+            -   [S2 Video analysis - Transcription/description of
+                data](#s2-video-analysis---transcriptiondescription-of-data)
+            -   [S2 Video analysis - first pass of thematic analysis /
+                coding](#s2-video-analysis---first-pass-of-thematic-analysis-coding)
         -   [Final coding scheme (but this is stage
             4)](#final-coding-scheme-but-this-is-stage-4)
             -   [Coding Participant Roles and
@@ -82,6 +70,14 @@
             -   [Participant interviews](#participant-interviews)
             -   [Ethical considerations and
                 processes](#ethical-considerations-and-processes)
+    -   [Revisiting the research questions based on the evolution of the
+        learning
+        design.](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.)
+        -   [RQ2 - Shift from family impact to broader
+            quetions](#rq2---shift-from-family-impact-to-broader-quetions)
+            -   [What research questions are answered by what data
+                gathering and analysis processes and
+                stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)
     -   [Data validity, reliability and
         generalisability](#data-validity-reliability-and-generalisability)
         -   [Data Validity](#data-validity)
@@ -105,6 +101,7 @@
         -   [How does this methodology relate to existing models of
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
+    -   [Chapter conclusion and link](#chapter-conclusion-and-link)
     -   [Analysis of dimensions of game making activity using 3GAT
         framework](#analysis-of-dimensions-of-game-making-activity-using-3gat-framework)
         -   [Environmental factors and

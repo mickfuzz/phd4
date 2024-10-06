@@ -11,19 +11,13 @@ title: 4. Methodology
 ---
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Revisiting the research
-            questions](#revisiting-the-research-questions)
-            -   [Alignment with with socio cultural
-                approach](#alignment-with-with-socio-cultural-approach)
-        -   [What research questions are answered by what data gathering
-            and analysis AND AT WHAT
-            STAGE](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-and-at-what-stage)
-        -   [Move Justifications](#move-justifications)
-            -   [JUSTIFICATION OF THE METHODS APPROACH - this is later?
-                Reliability / validity etc. OR DISCUSSION ON
-                METHODOLGY](#justification-of-the-methods-approach---this-is-later-reliability-validity-etc.-or-discussion-on-methodolgy)
+        -   [Outline of chapter INTERATE WITH
+            ABOVE?](#outline-of-chapter-interate-with-above)
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
+        -   [Overview of importance of participant input to learning
+            design - EDIT
+            DOWN?](#overview-of-importance-of-participant-input-to-learning-design---edit-down)
         -   [D1: Initial research and development - August and September
             2017](#d1-initial-research-and-development---august-and-september-2017)
         -   [P1: A phase of exploratory, co-creative game making -
@@ -59,21 +53,15 @@ title: 4. Methodology
                 -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
             -   [Practitioner interviews](#practitioner-interviews)
-            -   [](#section)
+            -   [S1 Video analysis](#s1-video-analysis)
             -   [3 planes approach - noting tensions and
                 behaviours](#planes-approach---noting-tensions-and-behaviours)
-        -   [Use of journal data (in stage
-            one)](#use-of-journal-data-in-stage-one)
+        -   [S1 Use of journal data](#s1-use-of-journal-data)
         -   [Data Analysis Stage Two](#data-analysis-stage-two)
-            -   [Partial transcription/description of
-                data](#partial-transcriptiondescription-of-data)
-            -   [Initial, coding of video at stage
-                2](#initial-coding-of-video-at-stage-2)
-            -   [What was considered but then excluded from initial
-                coding and
-                why](#what-was-considered-but-then-excluded-from-initial-coding-and-why)
-            -   [Coding Design Cycle
-                Stages](#coding-design-cycle-stages)
+            -   [S2 Video analysis - Transcription/description of
+                data](#s2-video-analysis---transcriptiondescription-of-data)
+            -   [S2 Video analysis - first pass of thematic analysis /
+                coding](#s2-video-analysis---first-pass-of-thematic-analysis-coding)
         -   [Final coding scheme (but this is stage
             4)](#final-coding-scheme-but-this-is-stage-4)
             -   [Coding Participant Roles and
@@ -93,6 +81,14 @@ title: 4. Methodology
             -   [Participant interviews](#participant-interviews)
             -   [Ethical considerations and
                 processes](#ethical-considerations-and-processes)
+    -   [Revisiting the research questions based on the evolution of the
+        learning
+        design.](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.)
+        -   [RQ2 - Shift from family impact to broader
+            quetions](#rq2---shift-from-family-impact-to-broader-quetions)
+            -   [What research questions are answered by what data
+                gathering and analysis processes and
+                stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)
     -   [Data validity, reliability and
         generalisability](#data-validity-reliability-and-generalisability)
         -   [Data Validity](#data-validity)
@@ -116,6 +112,7 @@ title: 4. Methodology
         -   [How does this methodology relate to existing models of
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
+    -   [Chapter conclusion and link](#chapter-conclusion-and-link)
     -   [Analysis of dimensions of game making activity using 3GAT
         framework](#analysis-of-dimensions-of-game-making-activity-using-3gat-framework)
         -   [Environmental factors and
@@ -146,30 +143,29 @@ title: 4. Methodology
 
 ## Introduction
 
-This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology to study the evolution of a game making community and the mutual creation of a new community-based pedagogy. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design.  Here I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
+This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology to study the evolution of a game making community and the mutual creation of a new community-based pedagogy. The methodology of the data collection and analysis process is informed by cultural historical approaches.
 
-The process described here is part research methodology and part the overall structure or an evolving learning design.
+The importance of context and cultural factors are particularly relevant for this intervention in a non-formal educational context with diverse stakeholder.
 
 
-#### Alignment with with socio cultural approach EDIT DOWN LOADS - WHAT POINTERS ARE REALLY NEEDED?
-
-The methodology of the data collection and analysis process is informed by socio-cultural approaches. If found the work of Rogoff in particular to research community oriented processes particularly illuminating
-
-The process is a suitable approach for informal education.
-
-As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors.
-
+<!-- As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors. -->
 <!-- The depth justifies smaller data size and depth of analysis. -->
 
-Here I adopt a naturalistic (is this the right word) research approach involves gathering data in situ to find and describe patterns of behaviour.
+Driven by my dual role as a researcher and learning facilitator the process described here encorporates both research methodology and an overall structure of the evolving learning design. Thic
 
-Large amounts of video data were being gathered, a challenge which is explored later in this chapter
+In terms of a reaseach process, this chapter describes a hybrid approach which while based on the principles of a formative intervention but incorporating other approaches where relevant. I justify this approach in the following sections.
 
-Turning attention to the gathering and analysis of other data, such a rich set of data, will allow the cross referencing of the many sources.
+Turning the learning design encountered by participants, I have worked with young learners, local families and undergraduate student helpers to co-create a game making design via iterative phases of rapidly evolving interventions most closely resembling a DBR process.
 
-While diversity of data invites drawing on diverse methods of analysis (3 planes, DBR approaches), ATs provide a foundation for the analysis of these diverse data.
 
-#### Outline of chapter.
+<!-- If found the work of Rogoff in particular to research community oriented processes particularly illuminating -->
+
+
+Here I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
+
+
+
+#### Outline of chapter INTERATE WITH ABOVE?
 
 I will explore how this diversity helps triangulate findings.
 
@@ -180,98 +176,6 @@ this chapter describes:
 - data analysis explored in stages
 - comments on data validity, replicability and ethical considerations
 - analysis of broad AT system (MOVE?)
-
-
-### Revisiting the research questions  
-AND SEEING IF THIS FITS BETTER AT THE END OF CH.3.
-
-A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together
-IT WAS BUT HAS THAT CHANGED. IF SO WHY MENTION IT HERE?
-
-As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform.
-
-Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
-
-1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-2. How can learners build agency in an evolving community of game makers?
-3. How can game design patterns support the development of coding practices with novices?
-
-BE SPECIFIC?
-The remaining research questions guiding this study are broadly aimed  at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
-
-Because it suited my working practices as an educational facilitator, and in line with DBR approaches the initial design evolved from phase to phase and relied heavily on input from participants and a wider, online, open source digital production-education community [] Mozilla link / Sefton Green.
-
-The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
-
-<!-- In this process, tensions emerged which impacted my framing and understandings of the research questions.
-HOW?  -->
-<!-- These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher. -->
-
-IS THIS NEEDED IN INTRO?
-To do this, thematic analysis of video interactions and allow for a detailed examination of the social and communicative aspects identified in the research questions.
-
-<!-- Different phases of the research process address research questions : -->
-
-
-
-### What research questions are answered by what data gathering and analysis AND AT WHAT STAGE
-
-<!-- DROP THIS - and described in what chapter? -->
-
- <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their diThe experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
-
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.gital gaming practices Rafael Marques de Albuquerque
- As this is done very methodically
- -->
-
-The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
-
-Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [].
-
-He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
-
-1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-2. How can learners build agency in an evolving community of game makers?
-3. How can game design patterns support the development of coding practices with novices?
-
-
-**RQ1**
-
-- Both barriers and tools / processes are explored in the literature review
-- Interviews with practitioners in chapter 4 guided the design in broad principles.
-- Barriers are explored in chapter 4 on evolution of the design
-- Tools and processes in results chapters 5 and 6.
-
-**RQ2**
-
-- Interviews with participants some informal and some formal instructed directly adaptations to design
-- Analysis of video data
-
-
-**RQ3**
-
-- Interviews with participants some informal and some formal instructed directly adaptations to design
-- Analysis of video data
-
-
-### Move Justifications
-#### JUSTIFICATION OF THE METHODS APPROACH - this is later? Reliability / validity etc. OR DISCUSSION ON METHODOLGY
-
-
-The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback. This process is particularly evident in the evolution of the learning design and resources. The trialling of the coding environment and starting templated occurred in various informal settings, over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians.
-
-While a full description of how this happened is beyond the remit of this chapter, this external input served several functions including: access to novel technical approaches proposed by parents and university volunteers; the surfacing of systemic conflicts hidden from my initial perception stemming from my pre-conceptions; observation of participant conflicts spurred the introduction of new tools to support development; and parental proficiency in adapting the learning environment to supporting their children leading to community-wide innovations in practice. My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process.
-IF I WERE TO WRITE MORE WHERE WOULD IT BE AND WHAT WOULD IT LOOK LIKE - WHERE ARE THOSE DESCRIPTIONS HAPPENING? IN THE FINDINGS CHAPTER ?
-
-
-HOW THE LEARNING DESIGN EVOLVED.
-INTEGRATE WITH THE ABOVE.
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-
-
-
-
 
 
 
@@ -287,6 +191,23 @@ Fig. 4.x Summary of delivery phases and development periods
 
 <!-- NOTE
 [Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
+
+
+
+#### Overview of importance of participant input to learning design - EDIT DOWN?
+
+
+The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
+
+This process is particularly evident in the evolution of the learning design and resources. The trialling of the coding environment and starting templated occurred in various informal settings, over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians.
+
+While a full description of how this happened is beyond the remit of this chapter, this external input served several functions including: access to novel technical approaches proposed by parents and university volunteers; the surfacing of systemic conflicts hidden from my initial perception stemming from my pre-conceptions; observation of participant conflicts spurred the introduction of new tools to support development; and parental proficiency in adapting the learning environment to supporting their children leading to community-wide innovations in practice. My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process.
+IF I WERE TO WRITE MORE WHERE WOULD IT BE AND WHAT WOULD IT LOOK LIKE - WHERE ARE THOSE DESCRIPTIONS HAPPENING? IN THE FINDINGS CHAPTER ?
+
+
+HOW THE LEARNING DESIGN EVOLVED.
+INTEGRATE WITH THE ABOVE.
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
 #### D1: Initial research and development - August and September 2017
@@ -1088,6 +1009,69 @@ Imagining a constructionist game-based pedagogical model: Using tabletop role-pl
 The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. -->
 
 
+
+## Revisiting the research questions based on the evolution of the learning design.
+
+<!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
+BUT WRITE FOR HERE FOR NOW -->
+
+Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
+
+Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds. This section considers some of those revisions as a way to futher explore detail of that evolutionary process.
+
+### RQ2 - Shift from family impact to broader quetions
+
+A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
+
+2. How can learners build agency in an evolving community of game makers?
+
+<!-- BE SPECIFIC? -->
+The remaining research questions guiding this study are broadly aimed  at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
+
+1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+3. How can game design patterns support the development of coding practices with novices?
+
+
+Because it suited my working practices as an educational facilitator, and in line with DBR approaches the initial design evolved from phase to phase and relied heavily on input from participants and a wider, online, open source digital production-education community [] Mozilla link / Sefton Green.
+
+The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
+
+<!-- In this process, tensions emerged which impacted my framing and understandings of the research questions.
+HOW?  -->
+<!-- These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher. -->
+
+
+#### What research questions are answered by what data gathering and analysis processes and stage
+
+ <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their digital gaming practices Rafael Marques de Albuquerque
+ As this is done very methodically
+ -->
+
+<!-- 1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+2. How can learners build agency in an evolving community of game makers?
+3. How can game design patterns support the development of coding practices with novices? -->
+
+AT WHAT STAGE?
+Thematic analysis of video interactions and allow for a detailed examination of the social and communicative aspects identified in the research questions.
+
+**RQ1**
+
+- Both barriers and tools / processes are explored in the literature review
+- Interviews with practitioners in chapter 4 guided the design in broad principles.
+- Barriers are explored in chapter 4 on evolution of the design
+- Tools and processes in results chapters 5 and 6.
+
+**RQ2**
+
+- Interviews with participants some informal and some formal instructed directly adaptations to design
+- Analysis of video data
+
+
+**RQ3**
+
+- Interviews with participants some informal and some formal instructed directly adaptations to design
+- Analysis of video data
+
 ## Data validity, reliability and generalisability  
 
 <!-- **and decisions of what to not analyse** -->
@@ -1275,6 +1259,13 @@ My role as a participant facilitator, designer and researcher
 and how this interacts with
  the process of refining this reflection into learning and teaching resources which was complex and iterative. And to an extent intuative. This present issues of validity and replicability.
 
+## Chapter conclusion and link
+
+This chapter has described a hybrid approach based on the principles of the Helsinki school's interpretation of  formative intervention, supplemented by  naturalistic research methods involving gathering data in-situ to find and describe emerging patterns of behaviour via thick decriptions and the more rapid iterations into the working practices common in DBR in the learning sciences and HCI approaches.
+
+LINK
+
+While the phases and overall structure of the learning design have been presented here, the following chapter, using the a technique of design narrative, explores the evolving areas of contradictions that drive these changes to the evolvling and expanding object of the group game making process.
 
 
 
