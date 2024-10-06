@@ -11,8 +11,7 @@ title: 4. Methodology
 ---
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Outline of chapter INTERATE WITH
-            ABOVE?](#outline-of-chapter-interate-with-above)
+        -   [Outline of chapter](#outline-of-chapter)
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
         -   [Overview of importance of participant input to learning
@@ -112,27 +111,6 @@ title: 4. Methodology
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
     -   [Chapter conclusion and link](#chapter-conclusion-and-link)
-    -   [Analysis of dimensions of game making activity using 3GAT
-        framework](#analysis-of-dimensions-of-game-making-activity-using-3gat-framework)
-        -   [Environmental factors and
-            objectives](#environmental-factors-and-objectives)
-        -   [Activity system 1 - a novice game making community making
-            games as a learning
-            experience](#activity-system-1---a-novice-game-making-community-making-games-as-a-learning-experience)
-            -   [Illustrative vignette on participants activity
-                indicating general activity of
-                participants](#illustrative-vignette-on-participants-activity-indicating-general-activity-of-participants)
-        -   [Activity system 2 - Constructing a game feature by
-            feature](#activity-system-2---constructing-a-game-feature-by-feature)
-            -   [Illustrative use of tools to mediate activity shown in
-                vignette
-                4.x](#illustrative-use-of-tools-to-mediate-activity-shown-in-vignette-4.x)
-            -   [Operations and actions within the system - Implementing
-                discrete code and design
-                structures](#operations-and-actions-within-the-system---implementing-discrete-code-and-design-structures)
-            -   [Applying activity theory to surface contradictions and
-                design tensions experienced by participants and
-                facilitator/s](#applying-activity-theory-to-surface-contradictions-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
         -   [How Research Questions Evolved - JUSTIFICATION FOR CHANING
@@ -1243,8 +1221,6 @@ Direct input was through requests and informal feedback and structured end-of-co
 
 
 The presence of parents adds significant opportunities. I propose that this informal and exploratory setting with the participation of engaged parents, young people and their access to family learning dynamics and wider expertise provides potentially fertile ground in the generation of resources and domain practices. I explore the potential of this theme in more detail in the conclusion of this thesis.  
-
-
 
 
 
