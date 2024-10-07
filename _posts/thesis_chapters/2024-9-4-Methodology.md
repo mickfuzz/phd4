@@ -1014,6 +1014,10 @@ Thematic analysis of video interactions and allow for a detailed examination of 
 ## Ethical considerations and processes
 
 <!-- The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. -->
+<!-- Recruitment details online HERE of call out.  
+https://docs.google.com/document/d/119S3Q7QTplF1hw1MiK02IHO3XvyvxgUsAObw0pWMXhU/edit#heading=h.ilc3cz3teyb6
+And as a publicallly available archive of thr email list.
+https://groups.google.com/g/mozilla-html5-gamemaking-mcr/ -->
 
 
 Ethical approval for this study was obtained from ESRI ethics process using the ETHOS system to ensure that all research activities comply with the guidelines for research involving human participants. Inclusion criteria included being part of a family (including guardians) unit with the ability to travel to the Manchester Metropolitan university campus campus. Younger family members will be between 7 and 13 years of age. All participants will have an interest in learning to make digital games together as an educational project. The project requires that they have literacy abilities to be able to read and write English.
