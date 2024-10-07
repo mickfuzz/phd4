@@ -470,28 +470,8 @@ One of the key motivations of DBR approach is to produce educational research th
 The rapid change of learning materials based on quick feedback suits this development of a novel learning design.
 
 
-## A brief example of Activity Theory concepts within the  context of this study
-
-THIS IS DONE IN MORE DEPTH AT OTHER STAGES?
-IS THIS WELCOME IN THIS CHAPTER. TO WHAT EXTEND?
-AND SHOULD THIS BE AFTER AGENCY?
-WHERE ELSE SHOULD THIS BE COVERED? THERE ARE MENTIONS CURRENTLY IN CHAPTER 4 AND 5.
-
-To situate the learner at this stage, concepts explored in this chapter are explored with examples from this study. The figure below represent a broader picture of the activity within the context of other activity systems as seen in the work of Cakir and colleagues represened above in Fig 3.  [@cakir_contradictions_2022]. However, following an approach taken by Lecusay [-@lecusay_telementoring_2015], the processes at work in the emerging shared object are extensive enough merits examination an activity system in its own right.
-
-![](./Pictures/At_dia_3_v3.png){width=90%}
-Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
-
-The representation above allows for a conception that funds of knowledge and existing repertoires of communication from the activity systems of different stakeholders and learning contribution to the new, emerging system. Following a 3GAT approach, the following diagram includes a break down of the elements of this shared system at the level of activity of participants creating digital games within the context of the sessions hosted at university.
-![](./Pictures/At_dia_7_simplified_3gat_v2.png){width=90%}
-Fig 3.x - a wide scope of activity
 
 
-The object of the activity is of note here as there is some expansion in terms of the scope and understanding of the object. While the object of activity for learners was to make a game, in early stages the learning process was experimental. As such, the main object shared by both family and university participants was to develop an effective pedagogy and working processes to allow the joint creation of games.
-
-This static representation is therefore a basis for future  development and transformation which is taken up again in Chapter 5.
-
-HOW IS THIS DONE AT OTHER STAGES? AND SHOULD THIS BE AFTER AGENCY?
 
 <!-- The next sections address this with relevant concepts. -->
 <!-- **Germ cell and analysis**
@@ -569,15 +549,43 @@ While not all attempts, such as directly asking a peer or teacher for help, will
 
 <!-- By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques. -->
 
+## A brief example of Activity Theory concepts within the context of this study
+
+SHOULD THIS BE AFTER AGENCY?
+<!-- THIS IS DONE IN MORE DEPTH AT OTHER STAGES?
+IS THIS WELCOME IN THIS CHAPTER. TO WHAT EXTEND?
+
+WHERE ELSE SHOULD THIS BE COVERED? THERE ARE MENTIONS CURRENTLY IN CHAPTER 4 AND 5. -->
+
+To situate the learner at this stage, concepts explored in this chapter are explored with examples from this study. The figure below represent a broader picture of the activity within the context of other activity systems as seen in the work of Cakir and colleagues represened above in Fig 3.  [@cakir_contradictions_2022].
+
+![](./Pictures/At_dia_3_v3.png){width=90%}
+Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
+
+The representation above allows for a conception that funds of knowledge and existing repertoires of communication from the activity systems of different stakeholders and learning contribution to the new, emerging system. Following an approach taken by Lecusay [-@lecusay_telementoring_2015], the processes at work in the emerging shared object are extensive enough merits examination as activity system in their own rights. This is tackled in chapter five, in full however at this stage it is of value to explore the object of the activity, as there is some expansion in terms of the scope and understanding of the object. While the object of activity for learners was to make a game, in early stages the learning process was experimental. As such, the main object shared by both family and university participants was to develop an effective pedagogy and working processes to allow the joint creation of games.
+
 
 ## Conclusion / Synthesis.
 
 In this chapter I have outlined the foundational concepts and current strands of interest of CHAT and explored how the field is becoming increasing aligned with that of design-based research. The complementary elements identified can be operationalised by utilising both CHAT's comprehensive framework for understanding human activity and DBR's practical focus on more rapidly iterative cycles of designed interventions.
 
-This is particularly valuable for this study on developing game coding abilities, allowing exploration of the contextual factors and influences from other activity systems contributing to the new shared object of activity. These include the ongoing development of cultural artefacts used, home interests and repertoires, as well as my own motivations. I am encouraged by the activist stance advocated by Stetsenko [@stetsenko_critical_2020], which rejects the abstraction of oneself from the processes participants engage in and promotes immersion in the struggle. This aligns with my own motivations in this study, resonating with my past experiences, as I position myself as an activist advocating for improved access to game-making through computer coding, a process currently hindered by educational contexts and classroom practices.
+
+SHOULD THIS BE AFTER AGENCY?
+<!-- THIS IS DONE IN MORE DEPTH AT OTHER STAGES?
+IS THIS WELCOME IN THIS CHAPTER. TO WHAT EXTEND?
+
+WHERE ELSE SHOULD THIS BE COVERED? THERE ARE MENTIONS CURRENTLY IN CHAPTER 4 AND 5. -->
+
+To situate the learner at this stage, concept related to activity systems approach explored in this chapter are briefly outlined in the context of this study. The figure below represent a broader picture of the activity within the context of other activity systems as seen in the work of Cakir and colleagues represened above in Fig 3.  [@cakir_contradictions_2022].
+
+![](./Pictures/At_dia_3_v3.png){width=90%}
+Fig 3.x - environmental positioning with game making activity mediating the interactions between stakeholders.
+
+The representation above allows for a conception that funds of knowledge and existing repertoires of communication from the activity systems of different stakeholders and learning contribution to the new, emerging system. Following an approach taken by Lecusay [-@lecusay_telementoring_2015], the processes at work in the emerging shared object are extensive enough merits examination as activity system in their own rights from the point of view of the game making community as a whole (including facilitators) as a subject, and from a narrower scope of an individual or pair subject. These systems are outlined in more depth in in chapter five. At this stage, it is of value to briefly explore the object of the activity, while the complexity of understanding of the object of activity is fresh in our minds. In this study, in line with AT understandings, there is some expansion in terms of the scope and understanding of the object. While the object of activity for learners was to make a game, in early stages the learning process was experimental. As such, the main object shared by both family and university participants was to develop an effective pedagogy and working processes to allow the joint creation of games.
+
+The hybrid of AT and DBR is particularly valuable for this study which involves the development of game coding abilities (IS THIS THE RIGHT TERM?), as it allows exploration of the contextual factors and influences from other activity systems contributing to the new shared object of activity. These include the ongoing development of cultural artefacts used, home interests and repertoires, as well as my own motivations. I am encouraged by the activist stance advocated by Stetsenko [@stetsenko_critical_2020], which rejects the abstraction of oneself from the processes participants engage in and promotes immersion in the struggle. This aligns with my own motivations in this study, resonating with my past experiences, as I position myself as an activist advocating for improved access to game-making through computer coding, a process currently hindered by educational contexts and classroom practices.
 
 To achieve this, rather than following an established applied CHAT methodology like the Change Laboratory, I synthesise different concepts outlined in this chapter. The next chapter, which describes the methodology in more detail, will explain how I draw on CHAT, DBR, and Rogoff's concept of the three foci of analysis. In the analysis, I focus on the tensions between system elements, the iterative processes used to address these tensions, and transformational concepts of agency.
-
 
 In chapter 4 particular attention is paid to the development of the artefacts and processes developed as part of the learning design as a form of evidence of these transformations. The more rapid iterations of design align to a greater extent to DBR process of than that of Change Laboratory, Despite this, this study does aim for a full application of a the stricter interpretation of the term formative intervention as outlined by Engeström and Sannino [-@engestrom_methodological_2014]. This hybrid approach address a key critique of the Helsinki school's implementation of third-generation activity theory (3GAT) via formative interventions such as the Change Laboratory, specifically that it is time-consuming and requires stable stakeholders [@spinuzzi_trying_2020-1]. However, while this hybrid process has proven fruitful in some areas, it has also posed challenges during the analysis stage. The implications of both successes and challenges are explored in the thesis conclusion.
 
