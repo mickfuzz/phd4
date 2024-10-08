@@ -68,7 +68,7 @@ As well as being an effective pedagogical approach, the implementation of GDPs, 
 
 **Playful Missions (encouraging social repertoires)**
 
-The vehicle to encourage these diverse approaches sprang from a conversation with a colleague interested in playful learning, John Lean, about Bartle's game playing styles, Briefly, this research explored diverse motivations and styles of game play on digital adventure games. I applied the same approach to investigate and reflect back the different game making styles that began to emerge in the community. Some families carefully set goals and followed resources to implement them. Others took more social approaches, learning from others and trading ideas and encouragement. Still others enaged in the process in more tricky ways, creating confusing or unusual games or working against some of the suggested creative practices. A summary of some of the different making styles is included as Fig x.
+The vehicle to encourage these diverse approaches sprang from a conversation with a colleague interested in playful learning, John Lean, about Bartle's game playing styles, Briefly, this research explored diverse motivations and styles of game play on digital adventure games. I applied the same approach to investigate and reflect back the different game making styles that began to emerge in the community. Some families carefully set goals and followed resources to implement them. Others took more social approaches, learning from others and trading ideas and encouragement. Still others engaged in the process in more tricky ways, creating confusing or unusual games or working against some of the suggested creative practices. A summary of some of the different making styles is included as Fig x.
 
 Fig x on Game making styles.
 
@@ -79,22 +79,26 @@ This means of drawing on home styles of interaction, in a way that [@gutierrez20
 
 ### Methods: Inclusive methods to build participant agency
 
-The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context. Building agency in this emerging community of game makers is a process involving individual learners working as part of a community evolving joint working practices and collective applied knowledge and evolving the tools needed.  For reason of space in this blog post I will not address my analysis of emerging processes which support the development of agency in this community of game makers. Instead in this final section, I share some practical recommendations which result from analysis of the video data and interviews with participants.
+The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context. Building agency in this emerging community of game makers is a process involving individual learners working as part of a community evolving joint working practices and collective applied knowledge and evolving the tools needed.  For reason of space, in the final section of this blog post, rather than deeper analysis of the evolving processes at work, I share some practical recommendations concerning inclusive methods as research recommendations for those looking to support the development of agency in a new community of game makers.
 
-Start with a half-baked game [@kynigos_half], A starting template which all learners adapt from providing a shared structure which promotes peer learning and helps facilitators stay familiar with participants evolving code.  
 
-Allow learners to draw on their home interests by creating an inclusive creative environment where they are supported with relevant code and practice structures but are able to incorporate their own choices.
+Allow learners to draw on their home interests by creating an inclusive creative environment where they are supported to explore the existing knowledge of game conventions and their attitudes to video game playing.
+
+Start coding with a half-baked game [@kynigos_half], A starting template which all learners adapt from providing a shared structure which promotes peer learning and helps facilitators stay familiar with participants evolving code.  
+
+Use emerging learner requests to shape a collection of code examples and supporting documentation based on recognisable gameplay design patterns. Encourage the use of this collection to provide needed technical support in a way which allows learners to incorporate new features based on their own choices.
+
 
 Allow flexible working practices and incorporate regular play-testing as a way to encourage learners to be able to draw on existing learning relationships they have with family members and to allow new repertoires of practice with peers to emerge.
 
 
 ### Concluding remarks
 
-While the application of the research is still at its early stages and there has not yet been any wider testing to see how general the findings are, I have good reason to believe that it holds a good amount of promise.
+While the application of the research is still at its early stages the recommendation above are framed as imperatives, as I have found the process convincing and wish to encourage wider testing of these processes to test the generalisability of the findings. There are other reasons to further explore these findings.
 
 Firstly the overall approach is aligned with solid foundations of use of funds of identity as an inclusive and transformatory practice for young people using digital technology, as explored in a special issue of Mind, Culture and Activity.
 
-Secondly, the process of drawing on games a base for the expression of thes funds of identity remains a valid approach, for while research on game making may have waned in terms of the next fashionable thing, its interest from young people endures.  
+Secondly, the process of drawing on games a base for the expression of these funds of identity remains a valid approach, for while research on game making may have waned in terms of the next fashionable thing, its interest from young people endures.  
 
 Thirdly, in light of increased concerns about risky online activity and screen time addiction, family involvement in the digital lives of young people is an ongoing issue. Game making as an joint family activity would appear to offer an accessible and inclusive foundation from which to explore further digital issues impacting on home lives.
 
