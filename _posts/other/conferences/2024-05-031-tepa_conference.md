@@ -38,11 +38,11 @@ At the conference, while there was acknowledgement that good teachers do find wa
 
 ### Situating game making
 
-The benefits of game making as a process have been well outlined in a book and accompanying papers by Kafai and Burke. To do this they draw on a constructionist tradition which includes the work of Papert on LOGO language and the use of drawing robots, and that of   Resnick on block based programing  languages. While the work on the diverse benefits of game making is convincing, the review is more patchy on how to create specific pedagogies which draw on the importance of social and cultural learning. Other reviews and commentaries conclude that more work is needed in this area. Thus my research aims to contribute to this area using cultural historical activity theory to examine these areas more systematically.
+The benefits of game making as a process have been well outlined in a book and accompanying papers by Kafai and Burke. To do this they draw on a constructionist tradition which includes the work of Papert on LOGO language and the use of drawing robots, and that of   Resnick on block based programming  languages. While the work on the diverse benefits of game making is convincing, the review is more patchy on how to create specific pedagogies which draw on the importance of social and cultural learning. Other reviews and commentaries conclude that more work is needed in this area. Thus my research aims to contribute to this area using cultural historical activity theory to examine these areas more systematically.
 
-I adopted an approach which aligns with the increasing convergence of activity theory interventions with design based research [@penuel_emerging_2014] to collaboratively create a game making pedagogy drawing on the experience and working patterns of families, mostly in parent-child pairings. Over four iteration of research a pedagogy and set of tools emerged which I present as ready for further testing in different situations.  
+I adopted an approach which aligns with the increasing convergence of activity theory interventions with design based research [@penuel_emerging_2014] to collaboratively create a game making pedagogy drawing on the experience and working patterns of families, mostly in parent-child pairings. I have also been inspired by Stetsenko [@stetsenko_serious_2015] who encourages the researcher to resist artificial objectivist approaches to take a transformative activist stance (TAS) in to build participant of agency through active interventions.
 
-Mention agency?
+Over four iteration of research interventions in the form of short game making courses, a pedagogy and set of tools emerged which I present as ready for wider testing.  
 
 ### Describing the characteristics  of the 3M game making pedagogy
 
