@@ -20,7 +20,7 @@ This presentation addresses digital game making as an inclusive process to devel
 
 ## Blog post Intro
 
-The overall thrust of this blog post that game making as a computing pedagogy remains fertile ground to develop students confidence and fluency but that need further development and sharing of practice are needed to overcome systemic barriers to achieving that potential.   
+The overall direction of this blog post that game making as a computing pedagogy remains fertile ground to develop students confidence and fluency but that need further development and sharing of practice are needed to overcome systemic barriers to achieving that potential.   
 
 My research with home educating families developed a game making pedagogy which has been shaped by and integrates patterns of home behaviours and inherent design patterns present in retro games platform games.  
 
@@ -74,13 +74,14 @@ Fig x on Game making styles.
 
 I became intrigued by these styles and began to reflect back some of my observations. In one iteration, I integrated playful additional (side) missions into the program which legitimised some of the  
 
-This means of drawing on home styles of interaction, in a way that [@gutierrez2020utopian] would refer to as incorporation of home and play repetoires of practice, spurred me to explore other ways in which funds of identity could be incorporated into the game making process with an aim to increase agency therein. I explore
+Table x examples of playful missions
+
+In one phase of the learning design, with the help of my school's drama department, I incorporated these playful missions into a drama scenario inspired by the Mantle of the Expert process. This means of drawing on home styles of interaction, in a way that Gutierrez  [@gutierrez2020utopian] would refer to as incorporation of home and play repertoires of practice, spurred me to explore other ways in which funds of identity could be incorporated into the game making process with an aim to increase agency therein. I explore these briefly in the final section of this post.
 
 
 ### Methods: Inclusive methods to build participant agency
 
 The term agency here is understood within a socio-cultural perspective as not a personal property but one that exists in context. Building agency in this emerging community of game makers is a process involving individual learners working as part of a community evolving joint working practices and collective applied knowledge and evolving the tools needed.  For reason of space, in the final section of this blog post, rather than deeper analysis of the evolving processes at work, I share some practical recommendations concerning inclusive methods as research recommendations for those looking to support the development of agency in a new community of game makers.
-
 
 Allow learners to draw on their home interests by creating an inclusive creative environment where they are supported to explore the existing knowledge of game conventions and their attitudes to video game playing.
 
@@ -88,15 +89,16 @@ Start coding with a half-baked game [@kynigos_half], A starting template which a
 
 Use emerging learner requests to shape a collection of code examples and supporting documentation based on recognisable gameplay design patterns. Encourage the use of this collection to provide needed technical support in a way which allows learners to incorporate new features based on their own choices.
 
-
 Allow flexible working practices and incorporate regular play-testing as a way to encourage learners to be able to draw on existing learning relationships they have with family members and to allow new repertoires of practice with peers to emerge.
+
+Finally, as explored briefly above, incorporate playful approaches to build connections with home play funds of knowledge.
 
 
 ### Concluding remarks
 
-While the application of the research is still at its early stages the recommendation above are framed as imperatives, as I have found the process convincing and wish to encourage wider testing of these processes to test the generalisability of the findings. There are other reasons to further explore these findings.
+While the application of the research is still at its early stages the recommendations above are framed as imperatives, as I wish to encourage wider testing of these processes to test the generalisability of the findings based on several motivations to further explore these findings.
 
-Firstly the overall approach is aligned with solid foundations of use of funds of identity as an inclusive and transformatory practice for young people using digital technology, as explored in a special issue of Mind, Culture and Activity.
+Firstly the overall approach is aligned with solid foundations of use of funds of identity as an inclusive and transformational practice for young people using digital technology, as explored in a special issue of Mind, Culture and Activity.
 
 Secondly, the process of drawing on games a base for the expression of these funds of identity remains a valid approach, for while research on game making may have waned in terms of the next fashionable thing, its interest from young people endures.  
 
