@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 3. Theoretical Framework
 ---
+
 -   [Theoretical Framework](#theoretical-framework)
     -   [Research Questions - July
         2024](#research-questions---july-2024)
@@ -24,19 +25,14 @@ title: 3. Theoretical Framework
     -   [Theoretical concepts used in the Fifth Dimension, a formative
         intervention drawing on broader sociocultural
         concepts](#theoretical-concepts-used-in-the-fifth-dimension-a-formative-intervention-drawing-on-broader-sociocultural-concepts)
-        -   [Mutual appropriation in 5D](#mutual-appropriation-in-5d)
+        -   [Mutual appropriation in 5D
+            settings](#mutual-appropriation-in-5d-settings)
         -   [Third spaces, idiocultures and funds of
             knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
     -   [Putting AT to work, variations in interventionist CHAT
         research](#putting-at-to-work-variations-in-interventionist-chat-research)
-        -   [Challenges and resolutions in the intersection of DBR and
-            CHAT
-            interventions](#challenges-and-resolutions-in-the-intersection-of-dbr-and-chat-interventions)
-            -   [Theoretical concepts of DBR used in this
-                study](#theoretical-concepts-of-dbr-used-in-this-study)
-    -   [A brief example of Activity Theory concepts within the context
-        of this
-        study](#a-brief-example-of-activity-theory-concepts-within-the-context-of-this-study)
+        -   [Theoretical concepts of DBR used in this
+            study](#theoretical-concepts-of-dbr-used-in-this-study)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Instrumental and relational
@@ -56,9 +52,7 @@ title: 3. Theoretical Framework
         -   [Principle : Researcher take and active interventionist
             approach](#principle-researcher-take-and-active-interventionist-approach)
         -   [Principle: Mutuality](#principle-mutuality)
-        -   [Principle : Utility of research - overcoming the tension
-            between the rich context and generalisation of
-            results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+        -   [On DBR and AT](#on-dbr-and-at)
 
 # Theoretical Framework
 
@@ -239,7 +233,7 @@ The next section explores concepts within two broad strands of activity theory. 
 
 ### 3GAT and Expansive learning
 
-Addressing the first strand, third generation activity theory (3GAT) represents an important development of conceptual tools for applying activity theory to authentic learning settings. Engeström's concept of the activity system model extends Leontiev's work through a triangular representation that highlights key cultural aspects of the activity in question. Engeström adds a new tier to the model to visually represent Leontiev's focus on issues of cultural factors[@engestrom_learning_1987-1]. Specifically, these cultural factors include the wider community, which encompasses those involved in the activity beyond the subjects themselves, the division of labour, which may occur through either the distribution of tasks among community members or a more vertical power structure, and the emergence of rules or norms that guide evolving community behaviours【@sannino_cultural-historical_2018】.
+Addressing the first strand, third generation activity theory (3GAT) represents an important development of conceptual tools for applying activity theory to authentic learning settings. Engeström's concept of the activity system model extends Leontiev's work through a triangular representation that highlights key cultural aspects of the activity in question. Engeström adds a new tier to the model to visually represent Leontiev's focus on issues of cultural factors[@engestrom_learning_1987-1]. Specifically, these cultural factors include the wider community, which encompasses those involved in the activity beyond the subjects themselves, the division of labour, which may occur through either the distribution of tasks among community members or a more vertical power structure, and the emergence of rules or norms that guide evolving community behaviours [@sannino_cultural-historical_2018].
 
 ![](./Pictures/At_dia_5_basic_v1.png){width=90%}
   Figure 3. x - Engeström's representation of community concepts an activity system
@@ -249,7 +243,7 @@ Addressing the first strand, third generation activity theory (3GAT) represents 
 LATER? -->
 
 <!-- #### Expansive learning and expanded object -->
-While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory【@spinuzzi_trying_2020-1】. This shared, or expanded, object being worked on by more than one activity system is illustrated in Figure 3.x below.
+While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory [@spinuzzi_trying_2020-1]. This shared, or expanded, object being worked on by more than one activity system is illustrated in Figure 3.x below.
 
 ![](./Pictures/shared_object_engestrom.png){width=90%}
 
@@ -338,30 +332,29 @@ USE AS A CHANCE TO COMPARE? -->
 
 ## Theoretical concepts used in the Fifth Dimension, a formative intervention drawing on broader sociocultural concepts
 
-A strand of activity theory perhaps best typified by the pioneering work of Michael Cole and colleagues in the Laboratory of Comparative Human Cognition (LCHC). While a full exploration of the themes of this work are beyond the remit of this chapter (see [@cole_mind_1997] for a summary), this section focuses on some of the key concepts with a focus on the development and analysis of culture via a joint activity [@valsiner_cultural-historical_2007].  
+One strand of activity theory is best typified by the pioneering work of Michael Cole and colleagues at the Laboratory of Comparative Human Cognition (LCHC). While a full exploration of the themes in this work is beyond the remit of this chapter (see [@cole_mind_1997] for a summary), this section focuses on key concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007].
 
-Explore of Cole's approach in this area, is often profitably explored using case study of a series of after-school interventions known as the Fifth Dimension. The focus of the programme was on sustainability, mutuality and a utopian ideal of creating a new activity system shielded from some of the more debilitating contexts of mainstream school and wider societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis,  have been created or employed by varied researchers associated with LCHC. These concepts are mutual appropriation, third spaces, idiocultures, funds of knowledge and communities of learners.
+Cole's approach in this area is often examined through the case study of a series of after-school interventions known as the Fifth Dimension. The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis, have been developed or utilised by various researchers associated with LCHC: mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
 
 <!-- Here describing the  approach to culture as hybrid of American anthropological approaches and those of USSR researchers. -->
-#### Mutual appropriation in 5D
+#### Mutual appropriation in 5D settings
 
-The setting of the 5D was in community partners after-school clubs, with guiding direction from university researchers and additional support from undergraduate student volunteers. The main activity was playful tasks with the goal of fun and  building literacy. The concept of mutual appropriation has been used by Cole to explain and explore the process of the development of the practicalities and structure of the research programme. Cole noted that for an activity to be sustainable the goal of researchers, student volunteers, and  funders and those of the local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describes a mutual process of adaptation of joint activities between institutions which server not only to reform actvities to be suitable for ongoing partnership, but also leave a historical trace of evolving activity serve as a profitable base for cultural analysis [@downing-wilson_design_2011]. The authors note here a distinction between the 5D approach and Change Lab is the early stage of the intervention where activity goals are not year formed and are still in a state of evolution. I return to this point later in this chapter.     
+The setting of the Fifth Dimension (5D) interventions predominantly consisted of after-school clubs run by community partners, guided by university researchers and supported by undergraduate student volunteers. The main activities were playful tasks aimed at providing fun, along with additional objectives of building literacy. The concept of mutual appropriation has been utilised by Cole to explain and explore the development of the practicalities and structure of the research programme. Cole noted that for an activity to be sustainable, the goals of researchers, student volunteers, funders, and local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describe a mutual process of adaptation in joint activities between institutions, which not only reforms activities to make them suitable for ongoing partnership but also leaves a historical trace of evolving activities that serve as a valuable basis for cultural analysis [@downing-wilson_design_2011].
+
+A key distinction between the 5D approach and that of Change Laboratories is that, in the early stages of the 5D intervention, activity goals are not fully formed and are still in a state of evolution. I will return to this point later in this chapter.    
 
 #### Third spaces, idiocultures and funds of knowledge
 
-<!-- Cole's approach can be examined using the 5D case study (later?) -->
+Cole describes the value of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. Following Fine [@fine_boys_1987], Cole employs the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures do not emerge from thin air; rather they encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017]. Cole describes the utility of idiocultures as concrete ways of studying the dynamics of cultural variability between different sites, as well as practical means to shape the programme's activities based on participants' previous experiences [@cole_idiocultural_2017].
 
-Cole describes the values of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. Following Fine [@fine_boys_1987], Cole uses the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures are not created from nothing but encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017].  Cole describes the utility of the concepts of idiocultures as a concrete ways of studying the dynamics cultural variability between the different sites and as a practical way to shape the activities of the programme based on the previous experiences of participants [@cole_idiocultural_2017].  
+This interpretation of the practical utility of idiocultures resonates with the concepts of third spaces and funds of knowledge. Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as resources that can be drawn upon by teachers and participants to facilitate learning in school or other environments, thereby achieving more equitable and inclusive learning experiences. This approach is particularly valuable for learners whose home life is culturally distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy. The process of blending the knowledge and discourses of the first space (home life) with the motivations of the second space (school or institution) into a new third space has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
 
-This interpretation of the practical utility of idiocultures resonates with the concept of third spaces and fund of knowledge. Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as a resource that can be drawn on as a resource by teachers and participants to facilitate learning in school or other environments to achieve more equitable and inclusive learning experiences. The approach is particularly valuable for learners whose home life is culturally relatively distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy. The process of blending the knowledge and discourses of first space (home life) with the motivations of the second space (school or institution) into a new _third space_ has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
-
-Rajala and colleagues [@rajala_utopian_2023] problematise the use of FoK in third spaces.  They critiques a superficial use of FoK which may perpetuate cultural stereo types and thus the existing negatively status quo  [@rajala_utopian_2023]. Additionally, the practical issue of gathering enough relevant data on home cultures to inform a more nuanced use of FOK would be very time consuming. To address these issues the advance a concept of funds of identity, which is allows an exploration of home cultures within the scope of the intervention through the creation of _identity artefacts_ with participants [@subero_mediation_2018].
+Rajala and colleagues [@rajala_utopian_2023] problematise the use of FoK in third spaces. They critique the superficial application of FoK, which may perpetuate cultural stereotypes and thus maintain the existing negative status quo [@rajala_utopian_2023]. Additionally, the practical challenge of gathering sufficient relevant data on home cultures to inform a more nuanced use of FoK would be very time-consuming. To address these issues, they advance the concept of funds of identity, which allows for an exploration of home cultures within the scope of the intervention through the creation of identity artefacts with participants [@subero_mediation_2018].
 
 <!-- The work problematises the possible superficial use of FoK and FoI in a ways which may perpetuate status quo negatively [@rajala_utopian_2023] -->
 
 
-The work of Rogoff and Gutiérrez on
-_linguistic and cultural-historical repertoires_ [@rogoff_cultural_2003] also aims to avoid cultural-historical practices of participation being misrepresented as innate practices, a practice they cite as particularly problematic in dimensions of race. They emphasise that both educators and researchers should avoid design based on assumed _traits_ of learners, instead researching and then checking existing repertoires of practice that may be incorporated and then extended within joint work. This work draws on Rogoff's pioneering work addressing analysis of complex group activities using three planes of observation, namely personal, social and community activity.  A key motivation driving analysis of behaviours on a social plane is Rogoff's desire to transcend the dichotomy of learner-led verses teacher-led approaches [@rogoff_childrens_1993; @mascolo_beyond_2009]. The concepts of guided participation and, as a middle ground between instruction and discovery, and the role of emerging repertoires of practice within that process are explored in more detail in Chapter 6.
+The work of Rogoff and Gutiérrez on linguistic and cultural-historical repertoires [@rogoff_cultural_2003] also aims to prevent cultural-historical practices of participation from being misrepresented as innate behaviours, a misrepresentation they identify as particularly problematic in relation to race. They emphasise that both educators and researchers should avoid designing interventions based on assumed traits of learners. Instead, they advocate for researching and verifying existing repertoires of practice that may be incorporated and then extended within joint work. This perspective builds on Rogoff's pioneering approach to analysing complex group activities through three planes of observation: personal, social, and community activity. A key motivation driving the analysis of behaviours on the social plane is Rogoff's desire to transcend the dichotomy between learner-led and teacher-led approaches [@rogoff_childrens_1993; @mascolo_beyond_2009]. Rogoff's concept of guided participation and the role of emerging repertoires of practice within that process, serving as a middle ground between instruction and discovery, are explored in more detail in Chapter 6.
 
 <!-- The development of the cultural repertoires in group work  continues of the work of Gutiérrez on social design
 experiments [@gutierrez_social_2016-1; @gutierrez_social_2020]. -->
@@ -372,105 +365,63 @@ For example, in a primary school setting, Morcom [@morcom_scaffolding_2014] appl
 
 ## Putting AT to work, variations in interventionist CHAT research
 
-Whereas there is broad agreement in the theoretical understandings of concepts of activity theory carried out by differing schools of researchers, there is more disparity in the way they are applied in a research settings.
+While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings. One way to explore the variations and fault lines between these approaches, which are relevant to this thesis, is to compare interpretations of CHAT interventions with variants of design experimentation, design research, or design-based research (which I will henceforth refer to as DBR).
 
 <!-- In line with the overall importance of context above, this section continues to explore the application theoretical partly as a product of geographically separate schools of research, with differing contextual forces operating on them. The intention here is not to create a history of these schools, which I am not qualified to do, it is rather to use the differing contexts as way of exposing synergies and fault lines in their approaches which are relevant to this thesis. -->
 
-One way of exporing variations and fault-lines between approaches which are relevant to this thesis is to compare interpretations of CHAT interventions with variants of design experimentation, design research, or design-based research (which I will henceforth call DBR).
+
 
 <!-- Notable synergies include; the value of interventionist approaches, a focus on utility of research, and  ??
 
 Emerging fault lines include; attitudes towards design based research, variations in initial genesis of interventions and the mutuality of that process,   -->
 
 
-The process of comparing FI and DBR is complicated by DBR's wide application and its diverse interpretations beyond some generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021]. Easterday characterises the core elements of DBR as: research as an form intervention, iteration, involvement of participants in the evolution of designs, and a flexibility of research outcome based on how events unfold [@easterday_design-based_2014]. Cobb and colleagues summarise the characteristics of design based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose 'theories' do real work in practical educational contexts" [@cobb_design_2003, p.13]. For more detailed definitions of DBR see Sandoval [-@sandoval_conjecture_2014] Hay [-@hay_constructivism_2001, p. 3]
+The process of comparing formative intervention (FI) and design-based research (DBR) is complicated by the wide application of DBR and its diverse interpretations, which extend beyond a set of generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021]. Easterday characterises the core elements of DBR as: research as a form of intervention, iteration, involvement of participants in the evolution of designs, and flexibility in research outcomes based on how events unfold [@easterday_design-based_2014]. Cobb and colleagues summarise the characteristics of design-based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose 'theories' do real work in practical educational contexts" [@cobb_design_2003, p.13]. For more detailed definitions of DBR, see Sandoval [-@sandoval_conjecture_2014] and Hay [-@hay_constructivism_2001, p. 3].
 
-While the broad approaches are in alignment with CHAT approaches, Penuel [-@penuel_emerging_2014], in an attempt to summarise differences between DBR and CHAT interventions talks of the focus of DBR by learning scientists and advancing practice and theory related to innovative learning tasks, while CHAT interventions are more focused on transformations in activity and the increasing agency of those involved. Engeström [@engestrom_design_2011] outlined the following criticisms of DBR when compared to CHAT when applied to education: vague in description of systemic elements in analysis, overly focused on a linear approach to refining the researcher's learning design in a way that limits the input and agency of  participants. O'Neill [-@oneill_understanding_2016] echoes some of these concerns and develops them to encourage fellow DBR researchers to applied CHAT methodology to addressed limitations in existing DBR practice in the learning sciences community. He highlights that DBR researchers in this field do not always take time to familiarise themselves with existing learning practices of the contexts in which they study in a way which aligns with CHAT approaches.   
+While this broad approaches are in alignment with CHAT, Penuel [-@penuel_emerging_2014], in an attempt to summarise differences between DBR and CHAT interventions, notes that DBR is more common in the domain of learning sciences, particularly in advancing practice and theory related to innovative learning tasks.
 
-Bakker [@bakker_design_2018] challenges Engeström's critique of the closed goals of DBR as outlined in his critique of the work of Collins and colleagues [@collins_design_2004] as a caricature which misrepresented their work stating they did "not want to fix variables or educational goals upfront" [@bakker_design_2018, p.17]. Bakker echoes the call of a Penuel, Cole, and O’Neill for more dialogue and greater acknowledgement of the shared traditions of CHAT and design research [@cole_cultural-historical_2018]. Penuel [-@penuel_emerging_2014] describes design based researchers as an appropriately eclectic in methodical as a way of flexibly responding to context. Bakker also sees this flexibility as a strength of the discipline, and resists calls for more formalisation of the design process [@ormel_researchpractice_2012; @mckenney_systematic_2013].  
+In contrast, CHAT interventions concentrate more on transformations in activity and the increasing agency of those involved. initially outlined several criticisms of DBR when compared to CHAT in educational contexts: it is vague in its description of systemic elements in analysis, and it tends to be overly focused on a linear approach to refining the researcher's learning design, which limits the input and agency of participants. O'Neill [-@oneill_understanding_2016] echoes these concerns and extends them, urging DBR researchers to apply CHAT methodology to address the limitations of current DBR practices in the learning sciences community. He emphasises that DBR researchers often fail to invest sufficient time in familiarising themselves with the existing learning practices of the contexts they study, an oversight that runs counter to the more contextually focused approaches encouraged by CHAT.  
+
+Bakker [@bakker_design_2018] challenges Engeström's characterisation of DBR as having closed goals, particularly critiquing Engeström's portrayal of the work of Collins and colleagues [@collins_design_2004] as a misrepresentation. Bakker argues that these researchers did "not want to fix variables or educational goals upfront" [@bakker_design_2018, p.17]. He echoes the call of Penuel, Cole, and O’Neill for more dialogue and greater recognition of the shared traditions between CHAT and design research [@cole_cultural-historical_2018]. Penuel [-@penuel_emerging_2014] emphasises the eclectic methodological approach in design-based research as a necessary means of responding flexibly to context. Bakker also views this flexibility as a strength of DBR, resisting calls for greater formalisation of the design process [@ormel_researchpractice_2012; @mckenney_systematic_2013].
 
 
 
-<!-- Penuel [-@penuel_emerging_2014]
-For example, learning scientists today employ design experiments primarily to develop theory related to how children learn disciplinary core ideas by engaging with innovative curricular tasks, often supported by technology (e.g., Cobb, Confrey, diSessa, Lehrer, & Schauble, 2003; Design-Based Research Collective, 2003; Kelly, Lesh, & Baek, 2008; Sandoval, 2013). By contrast, CHAT intervention research focuses on transforming activity and expanding the agency of participants -->
+Engeström's view of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity. O'Neill offers contextual factors which help explain this deficit, including the pressures on researchers using DBR [@oneill_understanding_2016]. The result is a challenge for DBR in producing in-depth analyses of context, which are often required in CHAT-based approaches.
 
-<!-- Penuel [-@penuel_emerging_2014] charts a shared foundations and of AT and wider research intervention in education including DBR and proposes greater dialogue between CHAT and DBR researchers on alignment of processes.
+An additional challenge is the context in which formative interventions are often applied. These interventions are frequently used in stable, institutional work environments, particularly in European contexts, where stakeholder roles and systemic structures are more predictable. In contrast, learning environments associated with DBR, especially in less formal or rapidly evolving contexts, do not share the same stability [@spinuzzi_trying_2020-1]. This difference may limit the utility of formative interventions like the Change Laboratory in more fluid settings.  
 
-This stance was taken in response to Engeström's critique of design experiments and DBR more widely [@engestrom_design_2011]. It is of value to explore this debate to highlight similarities and differences.
-WITH WHAT AIM? -->
-
-<!-- Penuel [-@penuel_emerging_2014] notes a difference in focus with DBR focusing on developing and innovative curricular tasks with technological aspects rather than broader concerns of participant agency. -->
-
-<!-- Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001, p. 3].
-
-Sandoval notes diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches within DBR namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest". -->
-
-<!--
-
-Engeström and Sannino consistently argue for the concepts of double stimulation and rising to the concrete to be applied to research interventions in this domain. These concepts are explored shortly. However, before doing so, t -->
-
-<!-- **This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.** -->
-<!-- For a summary of DBR approaches well aligned to a sociocultural approach see Hoadley and Campos THAT IS NOT THE FOCUS OF THE ARTICLE [@hoadley_design-based_2022] -->
-
-<!-- COMMENT ON UTILITY - NEED TO BE CLEAR AND PERHAPS MOVED.
-Indeed, there is a strength in the flexibility if approach, for the purposes of this study. Allowing me to draw on useful techniques used in relevant context, and to align the process with underlying guiding theory of AT. -->
-<!-- The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014] -->
-
-<!-- The following section explores key similarities and distinctions in the application of principles shared by both design based research and formative interventions using CHAT. To help explore these principles, this section describes some of the fault-lines in the theoretical debates surrounding the methods of DBR and formative interventions. -->
-
-<!-- PERHAPS THESE SECTIONS CAN GO - BE COMPRESSED OR SOMETHING
- Namely:
-
-- iterative and responsive design process
-- the research process creates new forms of activity and associated resources
-- the mutuality of the process: aligned with research ethic of participation rather than extraction
-- generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy -->
-<!-- For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. -->
-
-### Challenges and resolutions in the intersection of DBR and CHAT interventions
-
-Engeström's view of DBR [@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic nature of context with CHAT conceptions of Activity. O'Neill offers contextual factors which help explain this deficit, including the pressures on researchers using DBR [@oneill_understanding_2016]. The depth of analysis of context may provide challenging given the convention time frame for funding windows in the field of learning sciences, and a common focus from funders to demonstrate positive impact of research interventions. It is of note that the formal approach of formative interventions is often used in stable institutional systems of work environments in European contexts where there are more stable understandings of stakeholders involved compared to less formal learning environments [@spinuzzi_trying_2020-1].
-
-<!-- O'Neill [-@oneill_understanding_2016] also outlines The causes of this state of affairs. In particular, he outlines the myth of the heroic researcher/ designer who drives change and updates the proposed learning design in the face of adversity stems from a need to report successes within the time span of research funding awards. -->
-
-Spinuzzi [-@spinuzzi_trying_2020-1] notes an incompatibility with contexts involving unstable stakeholders and rapidly evolving contexts as a critique of 3GAT and formative interventions. Given these factors, we can ask is a formative intervention overly complex and prescriptive for either a narrower focus of a learning design. While there are many theoretical proposals to address these aspects via a 4GAT, there is no corresponding update of FI models like Change Laboratory.
-
-Indeed it seems there in now greater consensus that, there is value to bring more cultural historical and concepts into existing DBR approaches. By way of illustration, Engeström, Sannino and colleagues in recent work [-@cakir_contradictions_2022] appear to take a more collegiate approach position in regards to DBR, rather that critiquing it wholesale.
+Recent work by Engeström, Sannino, and colleagues suggests a shift toward a more collaborative stance on DBR, recognising its value rather than critiquing it outright. In particular, they acknowledge that formative interventions can enrich DBR by offering a robust framework for systemic transformation, collective agency, and expansive learning [@cakir_contradictions_2022]. This shift highlights a growing consensus on the potential benefits of incorporating cultural-historical concepts into DBR approaches.
 
     "Formative interventions can contribute to the new generation of DBR by providing a robust theory and methodology for systemic transformation, collective agency, and expansive learning". [@cakir_contradictions_2022]
 
+The study in this thesis, which applies CHAT principles to a novel and relatively unstable learning context, presents a useful case study in this ongoing endeavour to integrate the strengths of both formative interventions and DBR.
 
-This study, which aims to CHAT principles to a novel learning context of relative instability, is a potentially helpful case study in this endeavour.
+
+<!-- O'Neill [-@oneill_understanding_2016] also outlines The causes of this state of affairs. In particular, he outlines the myth of the heroic researcher/ designer who drives change and updates the proposed learning design in the face of adversity stems from a need to report successes within the time span of research funding awards. -->
 
 <!-- "In CHAT/DBR, innovations for learning are ideally historicized, meaning that the designs leverage recognized practices in partner communities. At the risk of stating the obvious, historicizing design in this way demands a degree of knowledge of and legitimacy within the partner community that design-based researchers in the learning sciences/DBR tradition do not always take time to develop."  [@oneill_understanding_2016, p.499] -->
 
 
 #### Theoretical concepts of DBR used in this study
 
-This section outlines some concepts from DBR which I draw on in later chapters.
+This section outlines key concepts used in DBR which I draw on in later chapters.
 
 **On utility - overcoming the tension between the rich context and generalisation of results**
 
-Barab and Squire [@barab_design-based_2004] describe the messiness of design-based research and that this creates a challenge to the researcher of how to present results in a coherent way which is of use to other practitioners. There is a tension between sticking closely to the context of the research and the concrete specifics or stepping back to generalise and being lost in abstraction.
+Barab and Squire [@barab_design-based_2004] describe the inherent _messiness_ of design-based research  which presents a challenge for researchers when attempting to present results in a coherent manner that is useful for other practitioners. There is an ongoing tension between staying closely aligned with the specific, rich context of the research, and stepping back to generalise findings without becoming lost in abstraction. This balance is crucial to ensure that the research is both contextually meaningful and practically applicable to broader settings.
 
-Hoadley and Campos [@hoadley_design-based_2022] analyse DBR is also through the possible utility and outcomes of the research which the authors synthesise as including: design processes, domain theories, design principles or patterns, onological innovations, new hypothesis, and transformative learning of the researcher.
-
+Hoadley and Campos [@hoadley_design-based_2022] further explore the outcomes of DBR, including the development of design processes, the creation of domain theories, the formulation of design principles or patterns, the introduction of ontological innovations, the generation of new hypotheses, and the transformative learning experienced by researchers themselves. These varied outcomes highlight the broad applicability of DBR and the importance of ensuring that design processes and theoretical insights are communicated clearly to enhance the utility of research findings.
 
 **Design narratives**
 
-To address aspects of utility and replication of research and some of the challenges of representation in research outputs that Bakker cites, may be addresssed via the form of a design narrative [@hoadley_creating_2002-1]. The concept of design narrative emerged within DBR as a way to communicate the important detail of context and detail of the emerging learning design [@hoadley_creating_2002-1; @brase_knowledge_2024; @bell_theoretical_2004].
+One solution to the challenge of balancing utility and generalisation, as well as representing the research process in an accessible format, is through the use of design narratives. Bakker [@bakker_design_2018] notes the difficulties of conveying the richness of the design process within the constraints of traditional journal formats, where space restrictions may hinder detailed explanations. Design narratives, as proposed by Hoadley [@hoadley_creating_2002-1], address these limitations by providing a detailed account of the learning design process. They document the problems encountered during the intervention, the iterative changes made, and the rationale behind those revisions [@hoadley_creating_2002-1; @brase_knowledge_2024; @bell_theoretical_2004].
 
-The features of a design narrative include a rich description of the design of the intervention, which in the context of this study involved primarily the learning design, and which outlines problems and the resulting revisions changes to the design. FINISH THIS ANY MORE?
-
-I propose, that the increasing alignment of DBR and CHAT interventions, may be augmented in part through the use of design narratives [@brase_knowledge_2024] with systemic and analytical concepts provided by activity theory. An example for such a design narrative using CHAT techniques can be found in the case study of in Cole and colleagues book on Fifth Dimension [@cole_fifth_2006].
-
-Bakker [@bakker_design_2018] notes an additional challenge of the journal format   the logistical problems fitting in the description of design process with the restriction. The format of this PhD thesis at least allows for a full exploration in Chapter 5.  
+In this study, a design narrative is particularly valuable in conveying the intricate details of the learning design. This thesis format allows for a fuller exploration of these aspects, notably in Chapter 5. I argue that design narratives could further enhance the alignment between DBR and Cultural-Historical Activity Theory (CHAT) interventions. By incorporating systemic and analytical concepts from activity theory, design narratives can provide a more holistic account of the intervention process. An example of such a narrative, using CHAT techniques, is found in Cole and colleagues’ work on the Fifth Dimension [@cole_fifth_2006].
 
 **Rapid iteration of learning resources**
 
-One of the key motivations of DBR approach is to produce educational research that has a high utility for practitioners through developing theory that is rooted in contextual practice and which can produce new pedagogies and resources [@cobb_design_2003].  
+A key aspect of DBR is its emphasis on the rapid iteration of educational resources based on continuous feedback rooted in practice. This process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003]. This emphasis on rapid iteration aligns with the aims of this thesis, where the ongoing feedback from participants informed the development of a novel learning design via phases of delivery. The iterative nature of DBR, with its focus on refining learning materials in response to feedback, supports the dynamic, practice-based approach explored in the following chapters. By integrating these DBR concepts, this thesis leverages the strengths of design-based approaches while aligning them with the systemic insights offered by CHAT. This flexible approach addresses both the complexities of real-world learning contexts and the need for practical, and ideally replicable outcomes.
 
-The rapid change of learning materials based on quick feedback suits this development of a novel learning design.
 
 <!-- The next sections address this with relevant concepts. -->
 <!-- **Germ cell and analysis**
@@ -742,3 +693,43 @@ Other areas are less aligned with existing models proposed by Engeestrom, CL, et
 The specific drive for participants to identify new tools, -->
 
 <!-- Comparing Engeström's focus of research with that of Cole surrounding the 5th Dimension is a valid approach to shed light on the emergent nature of the experiment and the similar setting of the study in an informal after-school environment. -->
+
+
+### On DBR and AT
+
+
+<!-- Penuel [-@penuel_emerging_2014]
+For example, learning scientists today employ design experiments primarily to develop theory related to how children learn disciplinary core ideas by engaging with innovative curricular tasks, often supported by technology (e.g., Cobb, Confrey, diSessa, Lehrer, & Schauble, 2003; Design-Based Research Collective, 2003; Kelly, Lesh, & Baek, 2008; Sandoval, 2013). By contrast, CHAT intervention research focuses on transforming activity and expanding the agency of participants -->
+
+<!-- Penuel [-@penuel_emerging_2014] charts a shared foundations and of AT and wider research intervention in education including DBR and proposes greater dialogue between CHAT and DBR researchers on alignment of processes.
+
+This stance was taken in response to Engeström's critique of design experiments and DBR more widely [@engestrom_design_2011]. It is of value to explore this debate to highlight similarities and differences.
+WITH WHAT AIM? -->
+
+<!-- Penuel [-@penuel_emerging_2014] notes a difference in focus with DBR focusing on developing and innovative curricular tasks with technological aspects rather than broader concerns of participant agency. -->
+
+<!-- Hay describes DBR thus "learning occurs within a context of use, learning is frequently collaborative, learning as authentic, learning as inquiry-based not transmission-based" [@hay_constructivism_2001, p. 3].
+
+Sandoval notes diverse methods at use [-@sandoval_conjecture_2014], but notes the alignment of approaches within DBR namely, "the joint pursuit of practical improvement and theoretical refinement; cycles of design, enactment, analysis, and revision; and attempts to link processes of enactment to outcomes of interest". -->
+
+<!--
+
+Engeström and Sannino consistently argue for the concepts of double stimulation and rising to the concrete to be applied to research interventions in this domain. These concepts are explored shortly. However, before doing so, t -->
+
+<!-- **This section addresses concepts common to DBR, and interventions of CHAT. The aim is to identify a working definition and terminology suitable for this study.** -->
+<!-- For a summary of DBR approaches well aligned to a sociocultural approach see Hoadley and Campos THAT IS NOT THE FOCUS OF THE ARTICLE [@hoadley_design-based_2022] -->
+
+<!-- COMMENT ON UTILITY - NEED TO BE CLEAR AND PERHAPS MOVED.
+Indeed, there is a strength in the flexibility if approach, for the purposes of this study. Allowing me to draw on useful techniques used in relevant context, and to align the process with underlying guiding theory of AT. -->
+<!-- The broad alignment of DBR and the CHAT in terms of ethos and processes has been explored, including in special editions of journals[-@penuel_emerging_2014] -->
+
+<!-- The following section explores key similarities and distinctions in the application of principles shared by both design based research and formative interventions using CHAT. To help explore these principles, this section describes some of the fault-lines in the theoretical debates surrounding the methods of DBR and formative interventions. -->
+
+<!-- PERHAPS THESE SECTIONS CAN GO - BE COMPRESSED OR SOMETHING
+ Namely:
+
+- iterative and responsive design process
+- the research process creates new forms of activity and associated resources
+- the mutuality of the process: aligned with research ethic of participation rather than extraction
+- generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy -->
+<!-- For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. -->

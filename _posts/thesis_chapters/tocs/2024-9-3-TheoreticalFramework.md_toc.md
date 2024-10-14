@@ -13,19 +13,14 @@
     -   [Theoretical concepts used in the Fifth Dimension, a formative
         intervention drawing on broader sociocultural
         concepts](#theoretical-concepts-used-in-the-fifth-dimension-a-formative-intervention-drawing-on-broader-sociocultural-concepts)
-        -   [Mutual appropriation in 5D](#mutual-appropriation-in-5d)
+        -   [Mutual appropriation in 5D
+            settings](#mutual-appropriation-in-5d-settings)
         -   [Third spaces, idiocultures and funds of
             knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
     -   [Putting AT to work, variations in interventionist CHAT
         research](#putting-at-to-work-variations-in-interventionist-chat-research)
-        -   [Challenges and resolutions in the intersection of DBR and
-            CHAT
-            interventions](#challenges-and-resolutions-in-the-intersection-of-dbr-and-chat-interventions)
-            -   [Theoretical concepts of DBR used in this
-                study](#theoretical-concepts-of-dbr-used-in-this-study)
-    -   [A brief example of Activity Theory concepts within the context
-        of this
-        study](#a-brief-example-of-activity-theory-concepts-within-the-context-of-this-study)
+        -   [Theoretical concepts of DBR used in this
+            study](#theoretical-concepts-of-dbr-used-in-this-study)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Instrumental and relational
@@ -45,6 +40,4 @@
         -   [Principle : Researcher take and active interventionist
             approach](#principle-researcher-take-and-active-interventionist-approach)
         -   [Principle: Mutuality](#principle-mutuality)
-        -   [Principle : Utility of research - overcoming the tension
-            between the rich context and generalisation of
-            results](#principle-utility-of-research---overcoming-the-tension-between-the-rich-context-and-generalisation-of-results)
+        -   [On DBR and AT](#on-dbr-and-at)
