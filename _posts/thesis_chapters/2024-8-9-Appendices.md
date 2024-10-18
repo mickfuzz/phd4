@@ -83,7 +83,28 @@ Appendices are organised mainly by chapter. Thus AP 5.1 is is first mentioned in
 There are some technical appendices as well.
 And some stand alone activities and resources which may link out to online resources when appropriate.
 
+
+
 ## Chapter Five
+
+### 5.X - Contextual Vignette on the conflict experienced by one family
+
+One family in P1 chose not to continue with most other families after the Xmas break.
+
+Members of this family had engaged in planning on paper and in particularly in creating pixel art, however tensions began to emerge when the introduced code framework framework did not support the desired features of one child. The feature they wanted to add to the game was bee design roaming a 3D landscape.  
+
+When the family withdrew, they shared in feedback (see appendix 4.x) that at one point the family looked around and just saw people doing "hardcore coding" and no longer felt that they belonged".
+
+In the end stages of the game production process, due to the dynamic of the larger group, they had been reliant on others to implement code changes for their imagined game, unable to contribute fully at this point and found themselves isolated.
+
+Thus a contributing factor to this families alienation were tensions engendered by the large group size and compounded by frustrations stemming from unfamiliarity with tools and processes.
+
+In participant feedback, the  parent of this family described in the previous section indicated that it took too long before in the planning stage and called for more hands on play and use of the tools of production before being called on to make creative decisions. The parent likened this to an arts studio approach. This feedback contributed to choices outlined in other sections of this chapter. (WHICH ONES)
+
+When the family withdrew, in my journal notes I reflected that the they shared of alienation from the group process occurred in a session where, due to a sense of urgency to complete games, I had omitted drama-based warm up activities. Instead as participant entered I began to support to help some participants debug some pressing code errors.
+
+
+
 
 
 
