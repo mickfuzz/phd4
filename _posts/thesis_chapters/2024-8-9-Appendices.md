@@ -87,9 +87,11 @@ And some stand alone activities and resources which may link out to online resou
 
 ## Chapter Five
 
-### 5.X - Contextual Vignette on the conflict experienced by one family
+### 5.X - Contextual Vignette on the conflict experienced by one family & the 3D Bee
 
 One family in P1 chose not to continue with most other families after the Xmas break.
+
+
 
 Members of this family had engaged in planning on paper and in particularly in creating pixel art, however tensions began to emerge when the introduced code framework framework did not support the desired features of one child. The feature they wanted to add to the game was bee design roaming a 3D landscape.  
 
