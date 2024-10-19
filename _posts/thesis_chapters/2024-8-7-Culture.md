@@ -1161,3 +1161,120 @@ https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/
 We can note tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. This tension is explored more in following chapter.
 
 This chapter has addressed x, the next chapter takes a deeper look at the mechanics of implementing code elements. -->
+
+
+## Added from Chapter 5 to integrates
+
+### Playtesting as a cultural process
+
+HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION?
+
+As explored in the literature review, playtesing is a process common to game making which corresponds to the evaluation phase of design thinking cycles.
+BE SURE TO CHECK THAT IT IS!
+
+In this section, I review data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
+
+#### Local playtesting rather than participation with a wider online community
+
+While there is convincing research on on how online community  can engender feelings of agency and motivation [ROQUE AND ITO AND GEE], I chose not to connect with existing online communities in this learning design. Online communities can serve as a form of authentic feedback as explored in the Scratch and New Grounds community websites. However, the process of being involved in an online community and in addition learning the processes of participation diverts time and focus from other activities including real life playtesting. In addition, given the use in the design of an authentic web technology coding environment, a suitable online community pitched at children or even at novices was not apparent.
+
+In addition, the diversity of creations available on a online community may also have detracted from the more shared experience of the template used. Not offering a choice of starting game helped this shared technical and cultural base.     
+
+
+
+#### Playtesting facilitating peer encouragement
+
+WHAT IS THIS SECTION IN RELATION TO THIS CHAPTER?
+
+Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
+
+Molly in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
+
+
+#### Playtesting and embodied participation in the games of others
+
+<!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
+<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
+
+ <!-- Examples include.... -->
+
+
+Some children added additional playful elements to playtesting. Because these interactions were mobile between workstations is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
+
+WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
+
+    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+
+These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
+
+<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
+<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
+
+
+The process of play testing as a cultural process is explored in more depth in chapter six.
+
+
+#### Community concepts and norming behaviour emerging during playtesting
+
+<!-- THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE -->
+
+
+<!-- The elements of variables controlling player movement, the ability to place hazards in the layout of the platform game were initial changes that all participants made but the end results greatly varied in terms of the challenge of the games. Discussions on game challenge, specifically comments about how 'hard' participant games were the most common forms of interaction during playtesting.
+
+Through this informal feedback participants sought to influence peers to modify the playability and challenge games to increase the enjoyment of peer players. For example, parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. Just before this extract, as a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x). -->
+
+<!-- PERHAPS TURN THIS INTO A TABLE WITH GESTURE?  -->
+
+<!-- Bertie: That looks nice (referring to the graphical look of the game)
+
+Molly invites Bertie: to play as she can't progress due to the difficult game controls.
+
+Bertie: It jumps super high but so slow.  
+Pause
+Molly: He has to go slow because he's an astronaut, you see.    
+Bertie: It's hard.
+(Bertie leaves.)
+Molly: (to peer parent with proud tone.) It's hard. Wow.
+
+(Ed comes to play the game)
+Ed: How much jump speed to you have?
+Ed: Your jump speed is massive.
+
+Molly initially misconstrues feedback from Bertie that her game is hard as a positive thing. A variety of comments nudge Molly to change her game to align with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach. Feedback from Bertie is direct about his player experience as a player.  -->
+
+NOTE THERE IS SOMETHING HERE ABOUT ME STEPPING BACK AND LETTING THE COMMUNITY EVOLVE.
+
+Ed gives a more technical explanation from  involving the naming of the variable _jump speed_.
+
+Other children come and play the game but only for less than a minute before leaving. Towards the end of the playtesting process, as one child leaves, Molly comments "It's so frustrating." This suggests an evolving understanding that her game is frustrating to players rather than pleasantly challenging.
+
+The indirect norming behaviours described in appendix 5.Norm.x mirror observations seen in the work of Rogoff and colleagues [@rogoff_cultural_2003] on learning in  community settings.
+
+There is an apparent tension in play here between encouraging individual agency of expression within the game and an evolving community tendency to norm peoples games to be more _playable_, specifically that player movement should conforming to wider expectations.
+
+What we can draw from the data at this stage is that playtesing provides many leverage points to facilitating learner agency and discuss the limits of designs. IN addition, playtesting is a process that allows participants to demonstrate informed criticality as a player and guide the creations of peers via gameplay feedback.
+
+This process is an example of an emerging process where cultural concepts are mutually constituted by all actors involved in the game making activity system. While the concepts of hardness and challenge that emerge and not concrete examples of GDPS, they are the results of changed GDPs. The next chapter explores similar data on the use of GDP related concepts by participants and the resultant potential impact on participant agency.
+
+
+<!-- #### A game encouraging maker / player types
+
+The drama process work in P3 to develop ways to encourage diverse and playful approaches to making had its roots in a game introduced in P2 where participants took part in an interactive the Bartle test. The Bartle test draws on work which ...
+
+The full process and rationale and initial reactions are detailed in appendix 4.x . In summary,
+
+The process was very engaging, parents responded that the process gave them new insight into the digital identities of their children. As part of the process I then proposed that there different game maker types and asked participants to evaluate and discuss with peers what kind of game maker they were. From the following list.
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+
+DATA REQUIRED FROM VIDEO!?
+
+This self evaluation helped confirm my own observations of different motivations driving different participation behaviours. Fuller discussion follows in chapter six.
+
+The success of activity spurred the creation of the creation of side-missions to be carried out in from of a dramatic process.
+
+AND - link more -->

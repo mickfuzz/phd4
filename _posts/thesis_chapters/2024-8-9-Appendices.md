@@ -107,9 +107,24 @@ When the family withdrew, in my journal notes I reflected that the they shared o
 
 
 
+For some families and individual participants there were conflicts to do with a sense of anxiety and alienation fr
+om the group coding environment and associated peer working dynamics.
+
+One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
+
+The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
+
+I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors.
+
+<!-- The value of playfulness is illustrated
+The freedom of choice and imagination allowed by designing on paper and via pixel art created compounding tensions. -->
+
+<!-- I had not played customary drama games to create an inclusive environment.
+
+That week I had omitted them as I felt a sense of urgency coming from families to solve their problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. -->
 
 
-
+<!-- In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding. -->
 
 
 ### 5.X - Vignette illustrative of Toby's on screen game making activity and social interaction

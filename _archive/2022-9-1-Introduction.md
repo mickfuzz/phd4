@@ -36,7 +36,7 @@ title: Introduction
       - Game playing and making communities
       - Games as funds of knowledge in
     - Visual methods in game making
-      - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their progress/ journey
+      - Maps of learning - From Gee, the process of borrowing from game design guidance on letting learner's chart their prbarriers areas of contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?ogress/ journey
     - Terminology   
       - Code playgrounds
 
@@ -65,11 +65,11 @@ title: Introduction
 
 - Results Chapter - Cultural (inclusive ) Practices
   - Funds of Knowledge as they emerged - not universal, but pervasive
-  - Game Player / Makers Types
+  - Game Player / Makers Typesbarriers areas of contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
 
 - Results Chapter - Game Design Patterns
  - focusing on Design Patterns
- - Use of design patterns as a communicative tool
+ - Use of design patterns as abarriers areas of contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions? communicative tool
  - Design patterns as a "middle level" construct to open door to more concrete and abstract
 
 - Results Chapter - Personal Practices / Maps
@@ -82,7 +82,7 @@ title: Introduction
     - The lack of motivation of ticking of curriculum led to less focus on individual knowledge work - This could be followed up
     - Other Limitation.
     - Interesting areas that have emerged.
-    - Next areas of development.
+    - Next areas of developmenbarriers areas of contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?t.
 
 
 ## Abstract
