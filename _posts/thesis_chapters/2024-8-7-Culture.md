@@ -1278,3 +1278,9 @@ This self evaluation helped confirm my own observations of different motivations
 The success of activity spurred the creation of the creation of side-missions to be carried out in from of a dramatic process.
 
 AND - link more -->
+
+### On Fluency
+
+For example, creating a new graphical element in a separate online pixel-art editor called Piskel, exporting and downloading it to the laptop, and uploading it to the glitch code playground and then making code changes in several parts of the code to initialise and implement new behaviour for this element.
+
+NOTE As a facilitator of a community I aim to notice these transitions as I aim to use the proficiency of participants to help distribute the process of helping peers.
