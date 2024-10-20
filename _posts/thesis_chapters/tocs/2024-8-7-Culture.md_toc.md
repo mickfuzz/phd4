@@ -79,3 +79,17 @@
             activity)](#on-planned-and-emergent-activity)
     -   [Notes - MOVED TO THE END FOR
         REVIEW](#notes---moved-to-the-end-for-review)
+    -   [Added from Chapter 5 to
+        integrates](#added-from-chapter-5-to-integrates)
+        -   [Playtesting as a cultural
+            process](#playtesting-as-a-cultural-process)
+            -   [Local playtesting rather than participation with a
+                wider online
+                community](#local-playtesting-rather-than-participation-with-a-wider-online-community)
+            -   [Playtesting facilitating peer
+                encouragement](#playtesting-facilitating-peer-encouragement)
+            -   [Playtesting and embodied participation in the games of
+                others](#playtesting-and-embodied-participation-in-the-games-of-others)
+            -   [Community concepts and norming behaviour emerging
+                during
+                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)

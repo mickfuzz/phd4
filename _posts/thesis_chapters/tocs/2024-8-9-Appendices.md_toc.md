@@ -1,5 +1,8 @@
 -   [Appendices](#appendices)
     -   [Chapter Five](#chapter-five)
+        -   [5.X - Contextual Vignette on the conflict experienced by
+            one family & the 3D
+            Bee](#x---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
         -   [5.X - Vignette illustrative of Toby's on screen game making
             activity and social
             interaction](#x---vignette-illustrative-of-tobys-on-screen-game-making-activity-and-social-interaction)

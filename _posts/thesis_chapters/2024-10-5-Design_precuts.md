@@ -8,7 +8,7 @@ zotero:
 layout: post
 number-sections: true
 categories: chapter
-title: 5. Exploration of the Formative Learning Design Process
+title: 5. precuts -Exploration of the Formative Learning Design Process
 ---
 -   [Exploration of the Formative Learning Design
     Process](#exploration-of-the-formative-learning-design-process)

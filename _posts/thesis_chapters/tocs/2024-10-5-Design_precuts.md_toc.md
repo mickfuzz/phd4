@@ -3,17 +3,29 @@
     -   [Research Questions - April
         2024](#research-questions---april-2024)
     -   [Chapter Introduction](#chapter-introduction)
+    -   [Analysis of dimensions of game making activity using 3GAT
+        framework](#analysis-of-dimensions-of-game-making-activity-using-3gat-framework)
+        -   [Environmental factors and
+            objectives](#environmental-factors-and-objectives)
+        -   [Activity system 1 - an emerging community of novice game
+            makers community making games as a learning
+            experience](#activity-system-1---an-emerging-community-of-novice-game-makers-community-making-games-as-a-learning-experience)
+        -   [Activity system 2 - Constructing a game feature by
+            feature](#activity-system-2---constructing-a-game-feature-by-feature)
+            -   [LINK - Applying activity theory to surface
+                contradictions and design tensions experienced by
+                participants and
+                facilitator/s](#link---applying-activity-theory-to-surface-contradictions-and-design-tensions-experienced-by-participants-and-facilitators)
     -   [Narrative exploration of
         contradictions](#narrative-exploration-of-contradictions)
     -   [C1 - contradictions involving the use of game programming and
         asset authoring
         tools](#c1---contradictions-involving-the-use-of-game-programming-and-asset-authoring-tools)
-        -   [The 3D flying bee](#the-3d-flying-bee)
-    -   [Detail of Tool Evloutio based on resolving
-        Conflicts](#detail-of-tool-evloutio-based-on-resolving-conflicts)
-        -   [Use of a Code Playground](#use-of-a-code-playground)
-        -   [Using a starter game
-            template](#using-a-starter-game-template)
+        -   [Using a starter game template within a code
+            playground](#using-a-starter-game-template-within-a-code-playground)
+            -   [Code playground.](#code-playground.)
+            -   [Starting template](#starting-template)
+        -   [Creating key affordances](#creating-key-affordances)
             -   [Variable editing for player
                 movement](#variable-editing-for-player-movement)
             -   [Level design and
@@ -21,14 +33,6 @@
             -   [Use of game assets](#use-of-game-assets)
             -   [Distributed approach to asset
                 creation](#distributed-approach-to-asset-creation)
-        -   [Observations and discussion on the game template and core
-            tools](#observations-and-discussion-on-the-game-template-and-core-tools)
-            -   [Developing Digital Literacy
-                skills](#developing-digital-literacy-skills)
-            -   [INTEGRAETE ABOVE Tension of a group remixing from one
-                template rather than feeler community inspiration and
-                interaction](#integraete-above-tension-of-a-group-remixing-from-one-template-rather-than-feeler-community-inspiration-and-interaction)
-            -   [Concluding bit](#concluding-bit)
     -   [C2 - Participant conflict associated with project navigation
         and use of
         documentation](#c2---participant-conflict-associated-with-project-navigation-and-use-of-documentation)
@@ -64,24 +68,37 @@
                 playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
             -   [Use of side missions to encourage varied creative
                 practices](#use-of-side-missions-to-encourage-varied-creative-practices)
+        -   [Observations and discussion on the game template and core
+            tools](#observations-and-discussion-on-the-game-template-and-core-tools)
+            -   [Developing Digital Literacy skills /
+                Fluency](#developing-digital-literacy-skills-fluency)
+            -   [Concluding bit](#concluding-bit)
         -   [Outroduction to this part of exploring Drama process and
             playtesting](#outroduction-to-this-part-of-exploring-drama-process-and-playtesting)
     -   [Chapter Discussion](#chapter-discussion)
-    -   [Observations / Discussions on Dimensions of
-        Authenticity](#observations-discussions-on-dimensions-of-authenticity)
-        -   [Observations on Authenticity in project
-            approaches](#observations-on-authenticity-in-project-approaches)
-        -   [The potentially awesome impact of lifting the lid on
-            authentic
-            technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
-        -   [Different black boxes for different
-            goals](#different-black-boxes-for-different-goals)
-        -   [Increased scaffolding of tools can increase instrumental
-            agency but at what cost? EXPLORE AS TENSION? MOVE TO CH.
-            4?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost-explore-as-tension-move-to-ch.-4)
-        -   [On the emergent and mutual nature of the design and
-            research process (AND link to
-            agency?](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process-and-link-to-agency)
+        -   [Observations and discussion on the game template and core
+            tools](#observations-and-discussion-on-the-game-template-and-core-tools-1)
+            -   [Developing Digital Literacy
+                skills](#developing-digital-literacy-skills)
+            -   [INTEGRAETE ABOVE Tension of a group remixing from one
+                template rather than feeler community inspiration and
+                interaction](#integraete-above-tension-of-a-group-remixing-from-one-template-rather-than-feeler-community-inspiration-and-interaction)
+            -   [Concluding bit](#concluding-bit-1)
+        -   [Observations / Discussions on Dimensions of
+            Authenticity](#observations-discussions-on-dimensions-of-authenticity)
+            -   [The potentially awesome impact of lifting the lid on
+                authentic
+                technologies](#the-potentially-awesome-impact-of-lifting-the-lid-on-authentic-technologies)
+        -   [Discussion on scaffolding, affordences and
+            agency](#discussion-on-scaffolding-affordences-and-agency)
+            -   [Increased scaffolding of tools can increase
+                instrumental agency but at what
+                cost?](#increased-scaffolding-of-tools-can-increase-instrumental-agency-but-at-what-cost)
+            -   [Returning to discussion the emergent and mutual nature
+                of the design and what it has to say about participant
+                agency](#returning-to-discussion-the-emergent-and-mutual-nature-of-the-design-and-what-it-has-to-say-about-participant-agency)
+            -   [The goal of computational fluency as a form of
+                agency](#the-goal-of-computational-fluency-as-a-form-of-agency)
         -   [Summary of barriers and tensions explored in this
             chapter](#summary-of-barriers-and-tensions-explored-in-this-chapter)
             -   [Exploring tensions involving and authentic tool
@@ -90,3 +107,8 @@
             activity](#emergence-of-gdps-as-a-germ-cell-of-activity)
         -   [Link to next chapter](#link-to-next-chapter)
     -   [Removed notes from chapter](#removed-notes-from-chapter)
+    -   [Removed NOTES](#removed-notes)
+        -   [dbr and AT](#dbr-and-at)
+        -   [Use of a Code Playground - Removed - perhaps include as a
+            technical
+            appendix?](#use-of-a-code-playground---removed---perhaps-include-as-a-technical-appendix)
