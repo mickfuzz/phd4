@@ -86,10 +86,11 @@
             -   [Local playtesting rather than participation with a
                 wider online
                 community](#local-playtesting-rather-than-participation-with-a-wider-online-community)
-            -   [Playtesting facilitating peer
-                encouragement](#playtesting-facilitating-peer-encouragement)
+            -   [on alien chat](#on-alien-chat)
+            -   [Reflection on design](#reflection-on-design)
             -   [Playtesting and embodied participation in the games of
                 others](#playtesting-and-embodied-participation-in-the-games-of-others)
             -   [Community concepts and norming behaviour emerging
                 during
                 playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
+        -   [On Fluency](#on-fluency)

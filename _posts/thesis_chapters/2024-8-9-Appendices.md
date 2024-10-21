@@ -116,6 +116,13 @@ The value of playfulness is illustrated with one exit interview with a parent wh
 
 I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors.
 
+
+**Limits of peer support**
+
+In feedback the parent shared they didn't want to bother other families with probems via the email list, and also noted the hesitancy caused by parental involvement compared to the kids ability to jump in and learn from each other less self-consciously.
+
+Thus this surfaced a tension, the value of a peer learning balanced with the need for low pressure. In other words avoiding a negative sense of obligation. 
+
 <!-- The value of playfulness is illustrated
 The freedom of choice and imagination allowed by designing on paper and via pixel art created compounding tensions. -->
 

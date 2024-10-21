@@ -1182,13 +1182,18 @@ In addition, the diversity of creations available on a online community may also
 
 
 
-#### Playtesting facilitating peer encouragement
+#### on alien chat
+Perhaps add back in as an unintended consequence?
+The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter).
 
-WHAT IS THIS SECTION IN RELATION TO THIS CHAPTER?
 
-Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
+#### Reflection on design
 
-Molly in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
+<!-- Thus my role as a responsive facilitator rather than a instructor was key to this process.  -->
+<!-- opens up flexibility in the way learners approach the design processes. -->
+<!-- imagined, often in response to community need, by myself, the following emerged from community use. -->
+
+As an example the quick start activities created by PGCE students were much more directive than I would have proposed. However, the response of participants still engendered a diversity of experience, from these shared beginnings.The implementation of discreet but potentially shared game elements became a shared pattern of activity. In early stages the mutual work to produce resources, techniques and practices to share and evaluate these shared elements became a primary focus of my work, just as the implementation of game elements was the focus of the work of participants.
 
 
 #### Playtesting and embodied participation in the games of others

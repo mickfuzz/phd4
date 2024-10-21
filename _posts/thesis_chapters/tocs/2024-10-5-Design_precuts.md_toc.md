@@ -73,8 +73,6 @@
             -   [Developing Digital Literacy skills /
                 Fluency](#developing-digital-literacy-skills-fluency)
             -   [Concluding bit](#concluding-bit)
-        -   [Outroduction to this part of exploring Drama process and
-            playtesting](#outroduction-to-this-part-of-exploring-drama-process-and-playtesting)
     -   [Chapter Discussion](#chapter-discussion)
         -   [Observations and discussion on the game template and core
             tools](#observations-and-discussion-on-the-game-template-and-core-tools-1)

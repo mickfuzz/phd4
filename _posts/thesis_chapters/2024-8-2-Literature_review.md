@@ -502,7 +502,18 @@ Today, microworlds are used in a variety of educational settings, from primary s
 
 Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
 
+Similarly the concept of  task specific programming language [@kong_providing_2022], in research on Microworlds, has a similar motivation.
 
+    "The task-specific programming language (TSPL) is purposefully limited in the abstractions and concepts needed for the tasks or explorations in the microworld so that programming becomes much easier to learn than a complete programming language.[@kong_providing_2022]"
+
+<!-- Task-specific programming (TSP) aims to provide the same easy-to-
+understand operations for a microworld, but with a language and envi-
+ronment designed for a particular purpose. The task-specific programming
+language (TSPL) is purposefully limited in the abstractions and concepts
+needed for the tasks or explorations in the microworld so that program-
+ming becomes much easier to learn than a complete programming lan-
+guage.
+[@kong_providing_2022] -->
 
 <!-- Constructionist design principles emerge in tandem with the frequent revision of the tools in question in response to the direction and interest of the community. This form of praxis is illustrated in a good level of detail in Papert's extensive pedagogical writings and the community of researchers and educators clustered around development of scratch and associated pedagogies. -->
 

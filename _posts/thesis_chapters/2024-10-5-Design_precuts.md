@@ -10,6 +10,7 @@ number-sections: true
 categories: chapter
 title: 5. precuts -Exploration of the Formative Learning Design Process
 ---
+
 -   [Exploration of the Formative Learning Design
     Process](#exploration-of-the-formative-learning-design-process)
     -   [Research Questions - April
@@ -990,7 +991,7 @@ Some attempts of forming ideoculture to avoid alienation were present from P1 st
 However, the incident and end of P1 evaluation lead me to greater reflection on the area of conflict and tensions involving cultural factors including:
 
 -   A concern for the fragility of learners ongoing positive affect towards the group game making process to avoid the culture shock experienced by A's family.  
--   An awareness of the danger that those more confident in coding create more involved code problems that need more facilitator time, potentially making others feel less valued.
+
 - The value of a peer learning balanced with the need for low pressure (avoiding a negative sense of obligation).
 
 
@@ -1386,15 +1387,7 @@ With the modifications to the template in place, participants still only minimal
 
 
 
-### Outroduction to this part of exploring Drama process and playtesting
 
-Behaviours related to playtesting have been described here with support from data.
-
-The motivations of introducing drama process and social missions were to reinforce social and cultural elements many of which emerged during semi-structured playtesting.
-
-LINKING SECTION HERE PRECEEDING LATER CONCEPTUAL EXPLORATION OF DUAL STIMUATION AND PLAY SPACE THEORY.
-
-Evidence of the potential of those on the drama process are explored in chapter 7. In the next section I collate a summary picture of significant barriers experienced and key responses in design to them.
 
 
 ## Chapter Discussion

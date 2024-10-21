@@ -6,6 +6,8 @@
         -   [5.X - Vignette illustrative of Toby's on screen game making
             activity and social
             interaction](#x---vignette-illustrative-of-tobys-on-screen-game-making-activity-and-social-interaction)
+            -   [Additional commentary and analysis of Toby's
+                vignette](#additional-commentary-and-analysis-of-tobys-vignette)
         -   [Vignette 5.1.a - Transcription of the introducing a drama
             process in
             P3](#vignette-5.1.a---transcription-of-the-introducing-a-drama-process-in-p3)
