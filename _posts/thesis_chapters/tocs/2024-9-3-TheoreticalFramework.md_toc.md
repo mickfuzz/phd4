@@ -2,7 +2,6 @@
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [The social turn](#the-social-turn)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
     -   [Strands of emerging variations of Activity
@@ -10,13 +9,13 @@
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
-    -   [Theoretical concepts used in the Fifth Dimension, a formative
-        intervention drawing on broader sociocultural
-        concepts](#theoretical-concepts-used-in-the-fifth-dimension-a-formative-intervention-drawing-on-broader-sociocultural-concepts)
-        -   [Mutual appropriation in 5D
-            settings](#mutual-appropriation-in-5d-settings)
-        -   [Third spaces, idiocultures and funds of
-            knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
+        -   [Theoretical concepts used emerging from the LCHC and the
+            Fifth Dimension
+            interventions](#theoretical-concepts-used-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
+            -   [Mutual appropriation in 5D
+                settings](#mutual-appropriation-in-5d-settings)
+            -   [Third spaces, idiocultures and funds of
+                knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
     -   [Putting AT to work, variations in interventionist CHAT
         research](#putting-at-to-work-variations-in-interventionist-chat-research)
         -   [Theoretical concepts of DBR used in this
@@ -41,3 +40,4 @@
             approach](#principle-researcher-take-and-active-interventionist-approach)
         -   [Principle: Mutuality](#principle-mutuality)
         -   [On DBR and AT](#on-dbr-and-at)
+    -   [New Parking Lot](#new-parking-lot)

@@ -9,12 +9,10 @@ layout: post
 categories: chapter
 title: 3. Theoretical Framework
 ---
-
 -   [Theoretical Framework](#theoretical-framework)
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [The social turn](#the-social-turn)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
     -   [Strands of emerging variations of Activity
@@ -22,13 +20,13 @@ title: 3. Theoretical Framework
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
-    -   [Theoretical concepts used in the Fifth Dimension, a formative
-        intervention drawing on broader sociocultural
-        concepts](#theoretical-concepts-used-in-the-fifth-dimension-a-formative-intervention-drawing-on-broader-sociocultural-concepts)
-        -   [Mutual appropriation in 5D
-            settings](#mutual-appropriation-in-5d-settings)
-        -   [Third spaces, idiocultures and funds of
-            knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
+        -   [Theoretical concepts used emerging from the LCHC and the
+            Fifth Dimension
+            interventions](#theoretical-concepts-used-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
+            -   [Mutual appropriation in 5D
+                settings](#mutual-appropriation-in-5d-settings)
+            -   [Third spaces, idiocultures and funds of
+                knowledge](#third-spaces-idiocultures-and-funds-of-knowledge)
     -   [Putting AT to work, variations in interventionist CHAT
         research](#putting-at-to-work-variations-in-interventionist-chat-research)
         -   [Theoretical concepts of DBR used in this
@@ -53,6 +51,7 @@ title: 3. Theoretical Framework
             approach](#principle-researcher-take-and-active-interventionist-approach)
         -   [Principle: Mutuality](#principle-mutuality)
         -   [On DBR and AT](#on-dbr-and-at)
+    -   [New Parking Lot](#new-parking-lot)
 
 # Theoretical Framework
 
@@ -92,32 +91,24 @@ Emergent
 
 ## Introduction
 
-The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. As such, the research questions address cultural factors which act as barriers to participation in digital making, and therefore require a method of research which allows the detailed analysis of complex, emergent learning environments. To serve these ends I adopt cultural historical activity theory (CHAT) as a guiding theory, operationalised using a formative intervention approach with adaptations drawn from design based research (DBR). These terms will be  explored ni this chapter which describes the guiding theoretical framework and key concepts relevant to the development of the thesis.
+The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. As such, the research questions address cultural factors which act as barriers to participation in digital making, and therefore require a method of research which allows the detailed analysis of complex, emergent learning environments. To achieve this, I adopt cultural historical activity theory (CHAT) as a guiding framework, which is operationalised through a formative intervention approach, incorporating adaptations from design-based research (DBR). This chapter explores these theoretical frameworks and key concepts relevant to the development of the thesis.
 
-As Activity Theory emerged from a movement known as the social turn in psychology [@sugiman_social_2008], this chapter begins with a brief overview of that movement. The foundational concepts of Activity Theory (AT) are then discussed, followed by an exploration of its evolution into CHAT and third-generation activity theory (3GAT), alongside more recent forms of cultural inquiry. To understand how CHAT is enacted in a research setting, the chapter also examines DBR and various forms of formative interventions. The final section specifically addresses the development of agency within the theoretical framework of Activity Theory.
-
-<!-- The underlying approach of this chapter is closely aligned with the activity theory concept of expansive learning within formative interventions. It also uses methods widely adopted in design based research (DBR) -->
+Activity Theory (AT) emerged as part of a movement known as the social turn in psychology  [@sugiman_social_2008], marking a shift from a purely psychological approach towards a more social understanding of learning and human behaviour. While this shift has influenced various disciplines, the focus here is on its impact on learning. The rationale behind moving away from the assumption that human mental activity should be studied in isolated, context-free settings  [@stetsenko_activity_2005], concerns not only the validity of results [@brown_design_1992], but also the relevance of the research for both designers and participants [@barnett_ecosystem_2019]. This perspective transcends traditional transmission models of learning and embraces the value of group-based, participatory processes. The work of Brown [@brown_design_1992], a prominent psychology researcher advocating the importance of context within experimental design, helped legitimise this focus and facilitated its broad adoption across diverse fields. The growing work in these varied fields, sometimes grouped by the term _learning sciences_, reflects a move away from randomised control trials and their attempt to sever context, shifting from a behaviourist view of learning as an internal psychological process to a more interdisciplinary approach. This new approach draws on cognitive and cultural psychology [@hoadley_learning_2011]. While this fragmentation promotes pluralism and knowledge-sharing across fields as diverse as education, anthropology, and computer science, it has also been criticised for lacking conceptual coherence in understanding learning and human activity on a deeper level [@hoadley_learning_2011].
 
 <!-- My own research in game making is an experimental approach to create a new learning design. I have worked with young learners, local families and undergraduate student helpers to evolve a game making design. A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. -->
 
-## The social turn
+This chapter outlines the theoretical frameworks that shape the methodology and underlying ethos of this study. It begins by introducing the foundational concepts of AT and then explores its evolution into CHAT and third-generation activity theory (3GAT), developed by Engeström and the Helsinki school. In order to enhance the 3GAT approach, several key concepts from the work of the Laboratory of Comparative Human Cognition (LCHC) in San Diego are discussed. To demonstrate how CHAT is applied in research, the chapter also examines DBR and various forms of formative interventions. While AT forms the basis of this study, elements from other theoretical approaches within the learning sciences, particularly DBR, are incorporated to address the utility and practical application of the research [@hoadley_creating_2002-1; @barnett_ecosystem_2019]. To address the study’s focus on designing an intervention aimed at fostering participant agency within the game-making process, the final section of the chapter explores key conceptions of agency within CHAT, specifically in the form of activist and transformative approaches. The chapter concludes by justifying the synthesis of these theoretical choices and provides a brief description of how these concepts are operationalised within the context of this study.
 
 
-This section addresses a shift from a purely psychological approach towards a more social understanding of learning and human behaviour [@sugiman_social_2008]. While this shift has influenced several disciplines, the focus here is on its impact on learning. This "social turn" in psychology involved moving away from the assumption that human mental activity should be studied in isolated, context-free settings [@stetsenko_activity_2005]. The reasoning behind this shift not only concerns the validity of results [@brown_design_1992], but also the relevance of the research for both designers and participants [@barnett_ecosystem_2019]. This perspective transcends traditional transmission models of learning and embraces the value of group-based, participatory processes.
-
-This section addresses a shift from a purely psychological approach towards a more social understanding of learning and human behaviour [@sugiman_social_2008]. While this shift has influenced several disciplines, the focus here is on its impact on learning. This social _turn_ in psychology, involved moving away from assumptions that studying human mental activity should be carried out in isolated, context free settings [@stetsenko_activity_2005].The reasoning behind this shift not only concerns the validity of results [@brown_design_1992], but also the relevance of the research for both designers and participants [@barnett_ecosystem_2019]. This perspective transcends traditional transmission models of learning and embraces the value of group-based, participatory processes.
-
-The work of Brown [@brown_design_1992], a prominent psychology researcher advocating the importance of context within experimental design, helped legitimise this focus and facilitated its broad adoption across diverse fields. The growing work in these varied fields sometimes grouped by the term _learning sciences_, reflects a move away from randomised control trials and their attempt to sever context, shifting from a behaviourist view of learning as an internal psychological process to a more interdisciplinary approach. This new approach draws on cognitive and cultural psychology [@hoadley_learning_2011]. While this fragmentation promotes pluralism and knowledge-sharing across fields as diverse as education, anthropology, and computer science, it has also been criticised for lacking conceptual coherence in understanding learning and human activity on a deeper level [@hoadley_learning_2011].
-
- <!-- <- FIND A BETTER ONE / ENGESTROM?. -->
+<!-- I take a broad approach to applying activity theory, drawing on third-generation activity theory (3GAT) with its focus on systemic analysis and understandings of agency, Cole’s emphasis on institutional mutuality, and Rogoff’s work on linguistic and cultural-historical repertoires [@rogoff_cultural_2003]. -->
 
 
 
-The work of Michael Cole at the Laboratory of Comparative Human Cognition (LCHC) [@cole_comparative_1981] is key to this discussion. In his narrative account of his own shift towards a social understanding of learning in _Cultural Psychology_, Cole [@cole_cultural_1996] critiques the behaviourist and cognitive psychology trends that reduce the mind to an information-processing unit, rather than seeing it as one component in complex cultural activity. While various schools have been influenced by this shift towards studying learning in context, Cole's articulation of activity theory stands out for its coherence and its ability to address both the broader cultural impacts on activity and the specific details of narrower actions.
 
-I take a broad approach to applying activity theory, drawing on third-generation activity theory (3GAT) with its focus on systemic analysis and understandings of agency, Cole’s emphasis on institutional mutuality, and Rogoff’s work on linguistic and cultural-historical repertoires [@rogoff_cultural_2003].
 
-While activity theory forms the foundation of this study, I also incorporate elements from other theoretical approaches within the learning sciences, particularly design-based research (DBR), to address the utility and perceived usefulness of research [@hoadley_creating_2002-1; @barnett_ecosystem_2019]. This chapter explores and justifies these choices, and in a brief section in the conclusion begins to describe how these concepts are operationalised within the context of this study. To do so, I will first outline the history and foundational concepts of activity theory.
+
+
+
 
 
 <!-- The unifying factor in these approaches is the acceptance of unit of analysis being activity, a unit between the learner their objective and their surrounding context [@rogoff_childrens_1993]. -->
@@ -225,11 +216,15 @@ In terms of development, activity theory perceives activity as constantly evolvi
 
 
 
-## Strands of emerging variations of Activity Theory
+## Further developments in activity theory
 
-As part of the growing adoption of activity theory (AT) beyond the USSR, researchers have developed new concepts within its various strands. Terms evolve over time and are used differently in different contexts. The following disambiguation is provided to clarify their meanings within the context of this study.  Activity theory (AT) refers to the underlying principles described earlier. Cultural-historical approach and cultural-historical activity theory (CHAT) represent the broad application of these principles, which sometimes encompass concepts associated with broader sociocultural approaches, including communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian]. The term third generation activity theory (3GAT) is specifically used to refer to Engeström's interpretation of AT when a distinction is necessary.
+As activity theory (AT) has been adopted and developed beyond its Soviet origins, researchers have developed new concepts within varied schools of practice. Given the variation in the use of terms, the following disambiguation aims to clarify their meanings in the context of this study. Activity theory (AT) refers to the core principles of the approach discussed earlier. The cultural-historical approach and cultural-historical activity theory (CHAT) denote the broader application of these principles, which may also integrate related concepts from sociocultural frameworks. These include approaches like communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian]. When a distinction is necessary, the term third generation activity theory (3GAT) will be used to refer specifically to Engeström and the Helsinki school's interpretation of AT. This section begins by exploring key concepts in third generation activity theory (3GAT) and their application through formative interventions. It then examines concepts derived from CHAT, as articulated by Michael Cole and his colleagues, such as funds of knowledge, idiocultures, and legitimate peripheral participation, which are especially relevant to this study.
 
-The next section explores concepts within two broad strands of activity theory. The first strand is centred around third generation activity theory (3GAT), which focuses on the work of Engeström and colleagues in Finland. The second strand comprises a more loosely grouped collection of researchers who draw from both the Soviet tradition of activity theory and American pragmatism, particularly the ideas of John Dewey. This body of work aligns with the principles of cultural-historical activity theory (CHAT) as articulated by Michael Cole and his colleagues. Much of this research has been conducted within the context of funding programmes and publications in the learning sciences, and includes concepts such as funds of knowledge, ideocultures, and legitimate peripheral participation, all of which are relevant to this study.
+<!-- uch of this research has been conducted within the context of funding programmes and publications in the learning sciences, and  -->
+
+<!-- The second strand comprises a more loosely grouped collection of researchers who draw from both the Soviet tradition of activity theory and American pragmatism, particularly the ideas of John Dewey. -->
+
+
 
 ### 3GAT and Expansive learning
 
@@ -330,7 +325,9 @@ USE AS A CHANCE TO COMPARE? -->
 
 <!-- The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process. -->
 
-## Theoretical concepts used in the Fifth Dimension, a formative intervention drawing on broader sociocultural concepts
+### Theoretical concepts used emerging from the LCHC and the Fifth Dimension interventions
+
+<!-- in the Fifth Dimension, a formative intervention drawing on broader sociocultural concepts -->
 
 One strand of activity theory is best typified by the pioneering work of Michael Cole and colleagues at the Laboratory of Comparative Human Cognition (LCHC). While a full exploration of the themes in this work is beyond the remit of this chapter (see [@cole_mind_1997] for a summary), this section focuses on key concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007].
 
@@ -733,3 +730,7 @@ Indeed, there is a strength in the flexibility if approach, for the purposes of 
 - the mutuality of the process: aligned with research ethic of participation rather than extraction
 - generating both theoretical understanding and practical educational interventions suitable for sharing  with other communities, be this via tools, process or a guiding pedagogy -->
 <!-- For example, the context of experiments, particularly viewing the classroom as a controlled environment [@cole_design-based_2016]. -->
+
+## New Parking Lot
+
+The work of Michael Cole at the Laboratory of Comparative Human Cognition (LCHC) [@cole_comparative_1981] is key to this discussion. In his narrative account of his own shift towards a social understanding of learning in _Cultural Psychology_, Cole [@cole_cultural_1996] critiques the behaviourist and cognitive psychology trends that reduce the mind to an information-processing unit, rather than seeing it as one component in complex cultural activity. While various schools have been influenced by this shift towards studying learning in context, Cole's articulation of activity theory stands out for its coherence and its ability to address both the broader cultural impacts on activity and the specific details of narrower actions.
