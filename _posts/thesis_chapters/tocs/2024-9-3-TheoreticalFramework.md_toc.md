@@ -4,8 +4,8 @@
     -   [Introduction](#introduction)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
-    -   [Strands of emerging variations of Activity
-        Theory](#strands-of-emerging-variations-of-activity-theory)
+    -   [Further developments in activity
+        theory](#further-developments-in-activity-theory)
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
