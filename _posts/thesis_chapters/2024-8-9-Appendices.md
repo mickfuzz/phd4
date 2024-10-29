@@ -87,6 +87,221 @@ And some stand alone activities and resources which may link out to online resou
 
 ## Chapter Five
 
+
+### 5.dn - Expanded Design Narrative
+
+
+![Illustration 4.x - Broad Environmental Activity Systems  ](./Pictures/At_dia_3_v2.png){width=95%}
+
+
+The diagram is in line with Engestrom's concept of expansive learning via a shared object (explored in the chapter three) [@engestrom_expansive_2001]. In this research, I take the approach of treating this shared object as an activity system in its own right. Lecusay [@lecusay_telementoring_2015] applies a similar approach when describing an adaption to an after school program. He describes the shared object as an idiocultural hybrid which develops into its own activity system.
+DEVELOP
+
+### Shared object as GDP move to Ch 5
+
+Chapter five contains more detail on the emergence of game design patterns as shared concepts and the implications for activity in more depth.
+
+Game design patterns emerged as a shared object as described by Engestrom in []. The object of activity here is not only the code and game assets which participants are working on. In addition the emerging concept and group understanding of the game design pattern becomes a share understanding on a community level as playtesing, pair work and peer help happens.
+
+![Illustration 4.x - Shared object of implementing GDP  ](./Pictures/At_dia_4_v1.png){width=95%}
+
+
+
+#### Emerging ideas in playtesting
+
+Sharing of ideas and inspiration did happen both on the playtesting (explored later and more extensively Chapter 7) of each others games and via incidental exposure to the online graphical creations of others via a shared account to Piskel.
+
+
+#### Developing a collection of GDPs and code sni
+
+These code examples allow users to see the behaviour in context with the code and output side by side. While code examples existed on the Phaser website and support forums, in line with other support sites like stack exchange, their utility
+
+<!-- The competency to overlook the concrete differences in code structure to abstract the principles away and to then apply those principles to the existing structure of their code project seemed too ambitious for this group of novices. -->
+
+<!-- Creating a bespoke set of code snippets helped address the challenges described above. In P1 I responded by creating one off documents with the relevant code which were both printed, emailed and shared via google drive. In line with the practice of accessing help via code snippets, the code examples could be to be copied and pasted into the game. This process lacked coherent process for participants to navigation to the resource they need. The process also lacked a consistency in signposting how the code listed fit within the existing structure.  -->
+
+<!-- a theory supported by observations of Toby's proficiency in the vignette above. -->
+
+<!-- As these tutorials took as a starting point the code of the starting template and did not attempt to explain that, they did not however resolve the issue of participants wanting resources that explained these core constructs and underlying concepts.
+
+I created opening chapters of the online manual which were more traditional in format and explained underlying concepts that the starting template had initially abstracted away from the participants.  -->
+
+<!-- To describe the relationship between the self-contained chapters described above and the process of backtracking to gain foundational knowledge, I used the term _meeting yourself in the middle_. In the supporting chapters this term represented the value of retracing initial steps as a way to explore the computing concepts present in the design. -->
+
+An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
+Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
+FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION.
+
+
+MOVE THIS TO THE NEXT BIT?
+Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Some trailblazing participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon by other learners and sometimes adopted via peer teaching.
+
+<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+
+
+<!-- While time consuming, the process of aligning documentation, code snippets with more general concepts of game analysis, served to simplify the navigation of documentation.  -->
+
+IS THIS NEEDED?
+The guiding principle is that key affordances of the supporting secondary stimuli are designed to closely align with the objectives of leading activity at the predominant scope of activity.In the language of the theoretical framework, I explore the process of working with GPDs as a germ cell of the overall game making activity.
+
+
+
+#### Themeing GDPs
+
+In grouping the game design patterns into categories for the documentation hub page, I drew on academic and professional interpretations of game elements [@salen_game_2006; @schell_art_2008; @tekinbas_rules_2003]. Schnell's detailed analysis of tens of game elements presented as design lenses was too complex for this audience. Instead, I adapted a simplified introductory framework developed for use in youth-oriented Game Jams to help novice game makers hack/analysis and then adapt key elements of non-digital games [@cornish_game_2018].
+
+- **SPACE:** Where the game takes place.
+- **GOAL:** What is the objective of the game? What are you trying to do?
+- **COMPONENTS:** What are all the objects or actors in the game?
+- **MECHANICS:** What actions take place in the game. What are the verbs involved?
+- **RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
+
+The framework youth game jams and in the Q2L school to help participants develop their implicit knowledge of game design concepts in to explicit share vocabulary before engaging in digital making via collaborative analysis of common games [@cornish_game_2018; @institute_of_play_gamestar_nodate]. Similarly, in early stages of my design participants completed a similar activity after playing retro arcade games [included in appendix].
+
+I related this simple categorisation the emerging list of requests for game features made by my participants. The final categorisation used in P4 is included as a Table 5.x below.
+
+
+| **Game Mechanics**| **Game Polish** | **Game Space** | **Challenge Systems**|         
+|--------|------------|--------------|----------|
+| Add Static Hazard  | Add Graphical Effects | Change Design of Levels | Gain Points when Collecting Food |
+| Add an Animated Enemy  | Add Sound Effects | Add More Levels | Add a Timer |
+| Jump on Enemy to Zap them  | Add a Sound Track (Music) | Change Shape of Levels | Collect all Food before Progressing |
+| Double Jump  | Add a Game Story with Messages | Change the Background Image | Power up - Higher Jump |
+| Moving / Patrolling Enemies  | Add a Game Story with Messages | Change the Background Image | Power up - Player Speed |
+| Moving / Following Enemies  | Animate your Player’s Movements | Key and Door | Random Doubling Enemies |    
+|   | Make Player Immune |  | |    
+
+Table 5.x Categorisation of game design patterns used in P4.
+
+This categorisation, while simplified, is consistent with professional and technical frameworks popular in game making communities including: the MDA framework [@olsson2014conceptual] (which focuses on analysis of games based on the user experience), Elemental Tetrad [@schell_art_2008], and DDE [@korn_design_2017]. The theme of using technical frameworks in an accessible way to facilitate the creations of novice participants is continued in the chapters five and six.  
+I noted that some patterns addressed game aesthetics (simplified to  _game polish_) for example; the graphical representation of game characters; adding sounds; and adding background images. Others could be described as _game mechanics_ including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. Others concerned aspects of _game space_: the size and shape of game world; and adding new levels the game. In P5 I extended the scheme to included  _system and challenge_ patterns. These explore at how different elements in
+ cxteract to create challenge in the game.
+
+I then took the existing list of game elements that have been identified by students and categorised them based on a blend of two frameworks.
+
+I made some simplifications and adaption to increase accessibility for non-professional and young people. For example, the term of aesthetics is very wide and suited simplification _game polish_.
+
+![Game Design Themes](./Pictures/four_gdp_themes.png){width=55%}
+
+
+
+
+
+
+#### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
+
+
+By the end of P2 most of the tools and main processes were in place. But I still felt tensions around introducing reflective processes and wanted to de-centre myself where possible from a teacher position. My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
+
+Molly in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
+
+In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals, taking inspiration from Bartle's game player types [@hamari_player_2014], identifying social makers, planners, magpies and glitchers.  
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game   
+- **Planners:** like to study to build knowledge of the tools before they build up their game step-by-step following instructions
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+I saw potential value here to address the danger internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches [@papert_epistemological_1990]. Thus, in P2 I introduced a starter game in which families moved into different quadrants of the room in answering questions on the Bartle test. This process celebrated different game playing types and allowed a public sharing of previously hidden gaming preferences, although for some non-gaming parents and children I had to ask them to use their imagination. Several parents noted that this process gave them great insight into how their child identified within the cultures of the games they played.
+
+
+
+
+After the process of playing a game I shared my proposition that there different game maker types. I asked participants to evaluate and discuss with peers what kind of game maker they were from the list above. This process was not explicitly used in later reflections however parent Mark made the following comment in post-session P3 interviews.
+
+    We used the instructions, we like to plod.
+
+![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
+
+I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
+
+
+### Operations / fluidity
+
+**on operations / fluidity? Move?**
+
+While this vignette shows that the participant has developed fluid use of both software tools and documentation and support sources, these are areas where significant contradictions emerged which shaped the path of the support given.
+OPERATIONS - WHERE? MOVE
+
+#### Developing Digital Literacy skills / Fluency - OPERATIONS
+
+
+
+- MOVE TO CHAP 7 > AS A TACTIC TO PROMOTE AGENCY - A TENSION?
+
+
+The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
+
+Perhaps play paradox here? Not a tension but something to design for? And thus backgrounding the aspects of computational thinking in favour of a more accessible experience using authentic technology. A reflection as a facilitator.
+
+<!-- This tension can be described as a play paradox. WHERE IS THIS FIRST INTRODUCED I was looking to avoid too much time spent in asset creation at the expense of other processes which would develop coding concepts and practices. It also increased the possibility of peer learning as less tools were being used. -->
+
+
+### Tensions in tool use emerging between agency and authenticity
+
+IF THINGS ARE TO STAY IT MUST BE DIRECTLY RELEVANT TO AGENCY
+IF THIS IS REALLY NEEDED IT WOULD NEED TO BE IN LR
+
+
+The object of the coders
+
+
+In terms of authenticity of audience, participants make a shareable digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
+
+PERHAPS EXPLORE PLAYTESTING HERE AS AUTHENTICITY OF AUDIENCE.
+In addition, playtesting processes are authentic and often informed by existing real experience as game players.
+
+MOVE TO CHAPTER 7?
+These observations on authenticity and playtesting are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
+Playtesting is explored in more detail in relation agency in Chapter 7.
+
+
+There are examples of the authenticity of the audience being used by participants
+
+  - Suzanna uses the imagined audience to norm behaviour.
+  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+
+
+The use of code playgrounds and js? structured along design principles which align with affordance theory.
+
+THEREFORE - WHAT IS THE KEY POINT HERE?
+
+While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
+
+Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
+
+While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
+CROSSREFF -  list the benefits here.
+
+
+
+
+
+### Summary of barriers and tensions explored in this chapter
+
+CHANGE TO BE MORE SPECIFIC
+MOVE THE TABLE TO AN APPENDIX AS A FINDING
+
+This section summarise key barriers and tensions drawn from
+
+the literature review that were significant when reviewing my journal observations, feedback from participants and video data.
+
+The purpose of this summary is to help recap and ground the reader before exploring the experiences of participants in more detail in chapters five and six.
+
+It focuses on use of tools but also signposts some social and cultural elements.
+
+Different areas of contradictions between different elements in activity systems emerged in journal notes and retropective analysis of evolution of the design. Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
+
+I propose that more granular understanding of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+
+*Additional tensions to integrate*
+
+There's a tension of not wanting to jump in to teach CT concepts, or to force reflection on progress. Understandable not to want to interupt flow. It is not needed in terms of testing or curriculum here. This is an adaption where I project into the experience of participants and pick up on reluctance to step away from the ongoing coding and creative or playful tasks at hand. I adapted to end of session reflection on most sessions. I also did not draw attention to extra resources outlining formal frameworks. Although step by step instructions which did outline them in situ were available.
+Here I worked to remove barriers to accessing CT as a framework   via resource creation which aligned to experience. But their agency is expressed through disinterest and reluctance in participation. This transform conceptions of the activity as I give up CT as a framework which guides the objective. Instead using GDPS as one more aligned with their interests and need to develop fluency in non-conceptual coding practices.
+
+Also, the drama frame was able to address of of the tensions which emerge - but these are mention only in summary here as they are explored in more depth in discussion in chater six.
+
+
 ### 5.X - Contextual Vignette on the conflict experienced by one family & the 3D Bee
 
 One family in P1 chose not to continue with most other families after the Xmas break.

@@ -1,5 +1,24 @@
 -   [Appendices](#appendices)
     -   [Chapter Five](#chapter-five)
+        -   [5.dn - Expanded Design
+            Narrative](#dn---expanded-design-narrative)
+        -   [Shared object as GDP move to Ch
+            5](#shared-object-as-gdp-move-to-ch-5)
+            -   [Emerging ideas in
+                playtesting](#emerging-ideas-in-playtesting)
+            -   [Developing a collection of GDPs and code
+                sni](#developing-a-collection-of-gdps-and-code-sni)
+            -   [Themeing GDPs](#themeing-gdps)
+            -   [What kind of Maker are you - Motivations behind social
+                processes (emerging in
+                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
+        -   [Operations / fluidity](#operations-fluidity)
+            -   [Developing Digital Literacy skills / Fluency -
+                OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
+        -   [Tensions in tool use emerging between agency and
+            authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
+        -   [Summary of barriers and tensions explored in this
+            chapter](#summary-of-barriers-and-tensions-explored-in-this-chapter)
         -   [5.X - Contextual Vignette on the conflict experienced by
             one family & the 3D
             Bee](#x---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
@@ -14,7 +33,7 @@
             -   [Vignette 5.makertypes](#vignette-5.makertypes)
             -   [What kind of Maker are you - Motivations behind social
                 processes (emerging in
-                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
+                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting-1)
             -   [Vignette 5.1.b - Session reflections and secret
                 missions in
                 P3](#vignette-5.1.b---session-reflections-and-secret-missions-in-p3)
