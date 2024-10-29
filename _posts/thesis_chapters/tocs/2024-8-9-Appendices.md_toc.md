@@ -4,6 +4,9 @@
             Narrative](#dn---expanded-design-narrative)
         -   [Shared object as GDP move to Ch
             5](#shared-object-as-gdp-move-to-ch-5)
+            -   [P1 narrative](#p1-narrative)
+            -   [Never mind the bees. I need your help
+                too!](#never-mind-the-bees.-i-need-your-help-too)
             -   [Emerging ideas in
                 playtesting](#emerging-ideas-in-playtesting)
             -   [Developing a collection of GDPs and code
@@ -48,10 +51,15 @@
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
         -   [APP 5.x - Learning Dimensions
             Map](#app-5.x---learning-dimensions-map)
-        -   [Appendix 5.x - Summary of the tools and processes used in
-            P1, P2 and
-            P3.](#appendix-5.x---summary-of-the-tools-and-processes-used-in-p1-p2-and-p3.)
+        -   [Appendix 5.tech - Summary of the tools and processes used
+            in P1, P2 and
+            P3.](#appendix-5.tech---summary-of-the-tools-and-processes-used-in-p1-p2-and-p3.)
             -   [Description of tools used](#description-of-tools-used)
+            -   [Evolution of coding decisions
+                made](#evolution-of-coding-decisions-made)
+                -   [Design decisions](#design-decisions)
+                -   [Email on list for P1](#email-on-list-for-p1)
+                -   [](#section)
         -   [Appendix 5.x - Feedback from P1 participants
             (extracts)](#appendix-5.x---feedback-from-p1-participants-extracts)
         -   [Appendix 5.x - Dialogue of use of physical maps at the
