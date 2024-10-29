@@ -11,6 +11,10 @@
         -   [Vignette 5.1.a - Transcription of the introducing a drama
             process in
             P3](#vignette-5.1.a---transcription-of-the-introducing-a-drama-process-in-p3)
+            -   [Vignette 5.makertypes](#vignette-5.makertypes)
+            -   [What kind of Maker are you - Motivations behind social
+                processes (emerging in
+                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
             -   [Vignette 5.1.b - Session reflections and secret
                 missions in
                 P3](#vignette-5.1.b---session-reflections-and-secret-missions-in-p3)
