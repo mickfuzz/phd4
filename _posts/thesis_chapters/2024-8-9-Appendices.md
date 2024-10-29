@@ -106,6 +106,58 @@ Game design patterns emerged as a shared object as described by Engestrom in [].
 ![Illustration 4.x - Shared object of implementing GDP  ](./Pictures/At_dia_4_v1.png){width=95%}
 
 
+#### P1 narrative
+
+There are a million ways to start a conversation and probably just as many to getting the process of designing and making a game using of code underway as well.
+
+The choice of which tensions to address stem form the changes to the learning design, tracing back through design journals and session reflection notes to trace the rationale driving the changes.
+
+But this aspect was promising but lacked a structured exploration in sessions in a way which conveyed the limits of what our projects could achieve technically.
+
+This is partly as I did not want to start with code that might alienate, but also as my own game coding skills were also being tested to their limits at this point also and I was working hard to introduce coding at a suitable level.
+
+While activity theory has a broad definition of the concept of tool which would include the use of language, concepts, supporting resources and production processes, this section focuses on software tools and code framework used to create games in this program.
+
+I had experience of teaching web coding but limited knowledge of how to code games.
+
+Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
+
+
+#### Never mind the bees. I need your help too!
+
+Mick Chesterman<M.Chesterman@mmu.ac.uk>
+Nov 15, 2017, 1:20:31 PM
+to mozilla-html5-gamemaking-mcr@googlegroups.com
+
+Hi there,
+
+Never mind the bees. I need your help too!
+
+I really appreciate all your energy going into the game making club over the last weeks. This is an experimental process and you guys are really going for it.
+
+Also special thanks to J* for doing the Sonic Pi session on Tuesday that was great, and I learned some useful things for doing that one in the future.
+
+It was a bit of a hard session for me on Wednesday as I was a bit low on confidence about how to pull all of your creativity into a finished game! It started to feel like a bit of a fantasy!
+
+So I think I realised something. I said in the past that the idea of the club is for you to follow your interests and I’ll do the job of pulling together that creativity into a game.
+
+But I realised that I can’t do it alone!
+
+So I think part of the work we have to do is to visually map somehow what we have now at the start of every session. Via prints outs, or sheets where we map what we have and what we are missing.
+
+I’m happy to give it a go at the start of next session to try to explore one way of doing it.
+
+But ideas via email would be very useful too.
+
+And let’s also have a break out group at the end to work out a bit more of a team approach as I need your help!
+
+Thanks loads for reading this far…
+Mick
+
+ps: I guess the challenge is to do this so that it’s a map, with different learning directions and possibilities, but that we are all still on the same map in our groups.
+
+So supporting autonomous learning but also team work.
+
 
 #### Emerging ideas in playtesting
 
@@ -608,7 +660,11 @@ Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 
 
-### Appendix 5.x  - Summary of the tools and processes used in P1, P2 and P3.
+### Appendix 5.tech  - Summary of the tools and processes used in P1, P2 and P3.
+
+See this attempt at a map
+https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
+
 
 Table - or short entries with screenshots.
 
@@ -625,6 +681,7 @@ Drama scenario
 Interactive chat page in glitch
 
 
+
 #### Description of tools used
 
 - Piskel - a graphical editor used to create pixel art sprite characters;
@@ -633,6 +690,48 @@ Interactive chat page in glitch
 - Sonic Pi - an education music application allowing the creation of music using text coding;
 - Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
 - Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
+
+#### Evolution of coding decisions made  
+
+##### Design decisions
+
+Removing the use of this where possible, thus making a design error of using global variables.
+
+Not using latest Phaser 3, to the object structure needed.
+Compare the creating a world statement of the two libraries.
+
+Adding in a state based system to allow for a game over screen,
+The experience of S and J - to change the code structure to do this was jarring.
+
+
+##### Email on list for P1
+
+Hi there,
+
+Great session this week!
+
+We didn't get on to phaser this week but here are some games to remix in
+phaser and the tutorials
+
+You could try a similar approach to the one we did in scratch, upload
+our own images from piskel to replace the ones here.
+
+
+Phaser Platform Game Tutorial from Richard and Alvin
+https://thimbleprojects.org/piratepete/334344/
+tutorial
+https://phaser.io/tutorials/making-your-first-phaser-2-game/
+
+
+#####
+
+Original source of grid template
+https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
+
+
+Phaser tutorial
+https://phaser.io/tutorials/making-your-first-phaser-2-game/
+https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
 
 
 ### Appendix 5.x  - Feedback from P1 participants (extracts)
