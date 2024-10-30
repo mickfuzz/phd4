@@ -164,6 +164,16 @@ So supporting autonomous learning but also team work.
 Sharing of ideas and inspiration did happen both on the playtesting (explored later and more extensively Chapter 7) of each others games and via incidental exposure to the online graphical creations of others via a shared account to Piskel.
 
 
+
+#### On Template / Documentation use
+
+Other parents requested additional supporting resources which explained the coding structures used in accessible but detailed ways. A request which hinted at a more structured, instruction based approach.
+
+
+In addition, my own motivations to explore research claims which on the engagement value of prioritising modifications to for quick impact on the game and on allowing participants choose over what they wanted to add to their game next.
+
+
+
 #### Developing a collection of GDPs and code sni
 
 These code examples allow users to see the behaviour in context with the code and output side by side. While code examples existed on the Phaser website and support forums, in line with other support sites like stack exchange, their utility
@@ -702,6 +712,18 @@ Compare the creating a world statement of the two libraries.
 
 Adding in a state based system to allow for a game over screen,
 The experience of S and J - to change the code structure to do this was jarring.
+
+Creating the project from first principles is relatively complex both semantically and practically. In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
+While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
+
+Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
+
+![](./Pictures/overview_of_structure_cropped.png){width=55%}
+
+4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
+
+
+
 
 
 ##### Email on list for P1
