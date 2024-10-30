@@ -183,7 +183,8 @@ In P1 the suggested process of adding game elements was relatively complex which
 
 Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
 
-
+**Grid structure for graphical assets**
+I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
 
 
 #### Developing a collection of GDPs and code sni
