@@ -123,6 +123,10 @@ I had experience of teaching web coding but limited knowledge of how to code gam
 Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
 
 
+In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance.
+
+
+
 #### Never mind the bees. I need your help too!
 
 Mick Chesterman<M.Chesterman@mmu.ac.uk>
@@ -171,6 +175,14 @@ Other parents requested additional supporting resources which explained the codi
 
 
 In addition, my own motivations to explore research claims which on the engagement value of prioritising modifications to for quick impact on the game and on allowing participants choose over what they wanted to add to their game next.
+
+
+##### Template structure and asset placement - Add in Chapter tutorial example extract here too
+
+In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
+
+Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
+
 
 
 
