@@ -89,6 +89,15 @@ Emergent
   - discussing challenge
   - the play around the playtesting -->
 
+
+###  MOVE THESE BITS
+
+<!-- - Affordances outlined in this learning design  double stimulation, give a quick summary, different types of agency   -->
+MOVE THIS TO THEORETICAL FRAMEWORK
+DBR lacks a single argumentative grammar [@brase_knowledge_2024], a set of concepts and approaches which aid in the posing of questions in a way which helps communicate the essence the design and potential for its replication or generalisation. Brase [-@brase_knowledge_2024] notes the inherent tension between flexibility and coherence in approach. However, in outlining an argumentative grammar of an intervention process aligned with 3GAT,  Sannino and Engestrom [@cole_toward_2014] propose the core principles of formative interventions, namely double stimulation and the process of rising to the concrete via a germ cell concept. In addition they note the importance of transformative agency, analysis of contradictions, expansion and evolution of design, and the importance of concept formation.
+
+
+
 ## Introduction
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. As such, the research questions address cultural factors which act as barriers to participation in digital making, and therefore require a method of research which allows the detailed analysis of complex, emergent learning environments. To achieve this, I adopt cultural historical activity theory (CHAT) as a guiding framework, which is operationalised through a formative intervention approach, incorporating adaptations from design-based research (DBR). This chapter explores these theoretical frameworks and key concepts relevant to the development of the thesis.
