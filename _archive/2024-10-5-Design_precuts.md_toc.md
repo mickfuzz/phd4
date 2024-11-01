@@ -31,7 +31,6 @@
             -   [Level design and
                 prototyping](#level-design-and-prototyping)
             -   [Use of game assets](#use-of-game-assets)
-                -   [Simple block graphics](#simple-block-graphics)
             -   [Distributed approach to asset
                 creation](#distributed-approach-to-asset-creation)
     -   [C2 - Participant conflict associated with project navigation

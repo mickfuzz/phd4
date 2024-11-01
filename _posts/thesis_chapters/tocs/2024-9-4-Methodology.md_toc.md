@@ -49,8 +49,6 @@
                 data](#s2-video-analysis---transcriptiondescription-of-data)
             -   [S2 Video analysis - first pass of thematic analysis /
                 coding](#s2-video-analysis---first-pass-of-thematic-analysis-coding)
-                -   [Coding Design Cycle Stages & MDA / GDP
-                    framework](#coding-design-cycle-stages-mda-gdp-framework)
         -   [Final coding scheme (but this is stage
             4)](#final-coding-scheme-but-this-is-stage-4)
             -   [Coding Participant Roles and
@@ -64,11 +62,6 @@
                 analysis](#final-coding-schema-for-thematic-analysis)
             -   [A revised processes of thematic
                 analysis](#a-revised-processes-of-thematic-analysis)
-                -   [Coding use of GDPs as mediational
-                    strategies](#coding-use-of-gdps-as-mediational-strategies)
-                -   [Coding impact on design/ processes on learner
-                    agency - boiled down
-                    -](#coding-impact-on-design-processes-on-learner-agency---boiled-down--)
             -   [On Final Transcription/description of
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)

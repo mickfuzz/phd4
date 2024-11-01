@@ -49,9 +49,6 @@
             -   [How to seed relational practices in the community
                 garden of the program / Growing / Gardening
                 metaphors](#how-to-seed-relational-practices-in-the-community-garden-of-the-program-growing-gardening-metaphors)
-                -   [Relational Agency in response to a series of
-                    stimuli participant
-                    identity](#relational-agency-in-response-to-a-series-of-stimuli-participant-identity)
             -   [The freedoms and restrictions of
                 playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
         -   [Exploring transformative agency using the metaphor of
@@ -62,18 +59,8 @@
         -   [SYNTHESIS - How different forms of agency are developed and
             transform over iterations of this game making
             programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
-            -   [LINKING TO ANCHORS TO
-                AFFORDENCES](#linking-to-anchors-to-affordences)
             -   [Proposal on shifting forms of
                 agency.](#proposal-on-shifting-forms-of-agency.)
-                -   [AN EMERGING QUESTION - Is nurturing agency by
-                    creating space for emergent practices sustainable
-                    for ongoing iterations? How much of the learnign
-                    design can/should be transferred to other
-                    settings.](#an-emerging-question---is-nurturing-agency-by-creating-space-for-emergent-practices-sustainable-for-ongoing-iterations-how-much-of-the-learnign-design-canshould-be-transferred-to-other-settings.)
-                -   [Recommendations for transfer to other settings with
-                    different
-                    requirements](#recommendations-for-transfer-to-other-settings-with-different-requirements)
         -   [Synthesis - The interaction of flexible deign practices,
             the collection of Game Design Patterns, stepwise scaffolding
             of learning environments and new understandings of

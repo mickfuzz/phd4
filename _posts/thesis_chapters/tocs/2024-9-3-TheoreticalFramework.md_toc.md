@@ -1,6 +1,7 @@
 -   [Theoretical Framework](#theoretical-framework)
     -   [Research Questions - July
         2024](#research-questions---july-2024)
+    -   [MOVE THESE BITS](#move-these-bits)
     -   [Introduction](#introduction)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
@@ -35,9 +36,6 @@
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
-        -   [Situating this study using third space and FoK terminology
-            and
-            processes](#situating-this-study-using-third-space-and-fok-terminology-and-processes)
     -   [Sections on DBR and AT](#sections-on-dbr-and-at)
         -   [Principle : Researcher take and active interventionist
             approach](#principle-researcher-take-and-active-interventionist-approach)
