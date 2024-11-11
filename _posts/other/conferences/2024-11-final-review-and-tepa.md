@@ -20,7 +20,32 @@ My research questions have remained relatively stable since the last review and 
 2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
 
+### Degree outcomes / narrative update 
+
 My supervision process over the last year has focused on the process of prioritising and clarifying the writing up of my finding in line with existing research conventions. While the use of video data allowed a broad spectrum of analysis including more personal exploration of concepts, I have retained my original focus on the social and cultural elements of the process. Once the prioritisation process was completed I was able to return to the introduction and start drafting more complete chapters from the beginning.
+
+
+<!-- Percentage completion of each thesis chapter
+- Degree outcomes: Indication of which of the degree outcomes have been met and which
+are outstanding, including details of the work required to meet all outcomes
+- Embargo: Whether a thesis embargo will be requested. Further information can be found
+- Thesis format: Whether the submission is wholly thesis-based or whether a performance or
+artefact will be included as part of the examination. If the latter, this should include the
+percentage which is performance or practice based, how any performance will be captured
+and confirm that the balance of practice and critical text has been discussed with the
+supervisory team and agreed to be appropriate.
+- Viva format: Confirmation of preference for oral examination in-person or by
+videoconference -->
+
+
+
+Not sure on the structure here.
+
+### Embargo, thesis format, viva format
+
+No embargo is requested. The thesis formal is fully in the form of a written report. My viva format preference is for oral examination face to face if possible but via video conference if not for logistical reason.
+
+### Written progress
 
 An outline of the stage of completion of the chapters follows.
 
@@ -35,6 +60,10 @@ An outline of the stage of completion of the chapters follows.
 9. **Appendices - 50% complete:** Drafts of appendices are in place at different stages of completion. Their structure and the scope of needs some careful thought and prioritisation.
 
 To accompany this commentary I will email drafts of Chapters 3 and 5.
+
+### Degree outcomes
+
+
 
 If time allows it, I would welcome an informal discussion on _what I do with the PhD_, or in other words how I leverage the completion process to advance my career aims, as part of the review process. To help frame that line of discussion I have included as the second part of the commentary, a draft blog post for the TPEA website. This blog post aims for a concise and approachable summary of the research landscape, the needs that my thesis addresses and the relevance of my research findings within wider contexts. In response to this blog post, have been asked to resubmit a version for the TEPA journal and given a suggestion to share part of my work with the HM Gov curriculum review.
 
@@ -65,17 +94,8 @@ The term missions became a playful way to represent two key aspects of the emerg
 
 **Main Missions (Game Design Patterns)**
 
-Participants' requests to add new features to their games led me to research and develop support materials, drawing on the educational possibilities of design patterns. While design patterns are typically used in higher education to teach object-oriented programming, they are valuable for learners at all levels. Design patterns are based on real-life instances where common problems are solved in specific ways, offering concrete examples of coding principles in context.
-
-Design patterns can foster coding communities when more experienced coders take the time to document the patterns they use in a way that is accessible to novice coders. For educators, design patterns can support learners in developing coding proficiency by providing scaffolding and modelling good design decisions. However, one challenge for teachers is how to effectively integrate worked examples and design patterns into student-led design challenges, ensuring that they support creativity without becoming overly prescriptive.
-
-In the learning design of this research, responding to participants' requests led me to create resources in the form of code examples and snippets based on different gameplay design patterns (GDPs). Unlike the more complex, structural form of traditional object-oriented code design patterns, gameplay patterns focus on the end user's experience. I drew on the work of Schell [-@schell_art_2008] and Salen-Tekinbas [-@tekinbas_rules_2003] to scaffold the creative process for novice game makers, using a categorisation of design patterns derived from professional game development. After several iterations of the game making programme, the result was an online menu or collection of resources organised by gameplay design pattern, which is now available at https://ggc-examples.glitch.me/.
-
-![Pattern Collection](../../thesis_chapters/Pictures/ggc_examples.png){width=95%}
-
-A selection of the gameplay design patterns themed under the category of Game Mechanics available at https://ggc-examples.glitch.me/,
-
-In addition to being an effective pedagogical approach, the implementation of gameplay design patterns (GDPs), in line with activity theory, emerged as an ideal unit of analysis for understanding the evolving community processes of game making among participants. While some learners carefully used the resources to implement their chosen patterns, others adopted different approaches to game making. I began to observe these varying behaviours and actively sought to encourage them.
+REMOVED TO FIT TARGET WORD COUNT SEE FULL VERSION HERE.
+https://tpea.ac.uk/reflections-on-the-tpea-conference-2024/
 
 <!-- I can remember them being popular and perceived as useful by fellow students when I completed a Computing masters. -->
 
@@ -89,20 +109,8 @@ Some families set clear goals and followed resources methodically to achieve the
 ![Game Maker Types](../../thesis_chapters/Pictures/game_maker_types.png){width=75%}
 A revision of Bartle's game player types based on observations of possible game maker types.
 
-I became intrigued by these emerging styles and began to reflect on my observations. In one iteration, I integrated playful side missions into the programme, which validated and legitimised some of the behaviours and repertoires that participants were engaging with in this space. These side missions encouraged participants to explore different approaches, further enriching the game making experience.  
-
-
-| Your Alien Mission (social)          | Your Secret Alien Mission:              
-|----------------|----------------|
-| Find out the names of 3 games that are being made.  | Change the variables at the start of someone else’s game to make it play in a funny way.    |
-| Make a list of characters in two other games being made.   | Change of the images in someone else’s project to a totally different image and see if they notice.    |
-| Find out the favourite computer games of 4 people.   | Change the level design of the first level of someone else’s project to make it impossible but try to change as little as possible to do that.   |
-
-
-Table -  Examples of playful missions which helped legitimise different making approaches.
-
-In a later phase of my study's learning design, with the support of my school's drama department, I incorporated these playful missions into a drama scenario inspired by the Mantle of the Expert approach. This method of drawing on home styles of interaction, in a way that Gutierrez [@gutierrez2020utopian] would describe as incorporating home and play repertoires of practice, encouraged me to explore additional ways in which *funds of identity* could be integrated into the game making process. My aim was to increase participants' sense of agency through this approach. I briefly explore these ideas in the final section of this post.
-
+REMOVED TO FIT TARGET WORD COUNT SEE FULL VERSION HERE.
+https://tpea.ac.uk/reflections-on-the-tpea-conference-2024/
 
 ### Methods: Inclusive methods to draw on home repertoires of practice and to build participant agency
 
