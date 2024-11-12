@@ -6,20 +6,10 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: other
-title: Final review including  TEPA blogpost - Mick Chesterman
+title: Final review commentary - Mick Chesterman
 ---
 
-
-## Final review commentary
-
-The objectives of this commentary at final review stage is to describe my progress in PhD writing process, to introduce the two draft chapters which are included as appendices, and finally to frame the thesis in a wider discussion of the relevance to communities and my career plans.
-
-My research questions have remained relatively stable since the last review and my supervisors have helped me align them to the chapter structure of the thesis.
-
-1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
-2. How can game design patterns support the development of computational fluency in novices?
-3. How can learners build agency in an evolving community of game makers?
-
+This commentary addresses final review objectives and frame the thesis in a wider discussion of the relevance to communities and my career plans.
 
 
 <!-- Percentage completion of each thesis chapter
@@ -35,15 +25,11 @@ supervisory team and agreed to be appropriate.
 videoconference -->
 
 
-
-
 ### Embargo, thesis format, viva format
 
-No embargo is requested. The thesis formal is fully in the form of a written report. My viva format preference is for oral examination face to face if possible but via video conference if not for logistical reason.
+No embargo is requested. The thesis formal is fully in the form of a written report. My viva format preference is for oral examination face to face if possible but via video conference if not for logistical reason. To accompany this commentary I will email drafts of Chapters 3 and 5.
 
 ### Written progress
-
-An outline of the stage of completion of the chapters follows.
 
 1. **Introduction - 50% complete:** A  structure and key content is in place which requires updating when other chapters are more complete.  
 2. **Literature Review - 75% complete:** A draft is in place which needs some revision currently, and then careful editing to align with other chapters.  
@@ -55,19 +41,20 @@ An outline of the stage of completion of the chapters follows.
 8. **Conclusion - 25% complete:** A rough draft is in place.
 9. **Appendices - 50% complete:** Drafts of appendices are in place at different stages of completion. Their structure and the scope of needs some careful thought and prioritisation.
 
-To accompany this commentary I will email drafts of Chapters 3 and 5.
-
-
 ### Narrative update of degree outcomes
+
+My research questions have remained relatively stable since the last review with some alterations to align with the chapter structure of the thesis.
+
+1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
+2. How can game design patterns support the development of computational fluency in novices?
+3. How can learners build agency in an evolving community of game makers?
 
 My supervision process over the last year has focused on the process of prioritising and clarifying the writing up of my finding in line with existing research conventions. While the use of video data allowed a broad spectrum of analysis including more personal exploration of concepts, I have retained my original focus on the social and cultural elements of the process. Once the prioritisation process was completed I was able to return to the introduction and start drafting more complete chapters from the beginning.
 
-The process of aligning chapter structure into a recognisable similar PhD thesis 
-
-If time allows it, I would welcome an informal discussion on _what I do with the PhD_, or in other words how I leverage the completion process to advance my career aims, as part of the review process. To help frame that line of discussion I have included as the second part of the commentary, a draft blog post for the TPEA website. This blog post aims for a concise and approachable summary of the research landscape, the needs that my thesis addresses and the relevance of my research findings within wider contexts. In response to this blog post, have been asked to resubmit a version for the TEPA journal and given a suggestion to share part of my work with the HM Gov curriculum review.
+I would welcome an informal discussion or advice on how I leverage the completion process to advance my career aims, as part of the review process. To help frame that line of discussion I have included, within this commentary, a draft blog post for the TPEA website. This blog post aims for a concise and approachable summary of the research landscape, the needs that my thesis addresses and the relevance of my research findings within wider contexts. In response to this blog post, I have been asked to resubmit a version for the TEPA Advancing Education journal and given a suggestion to share part of my work with the HM Gov curriculum review.
 
 
-## TPEA blog post -
+## Extracts of TPEA blog post published November 2024
 
 Game making as a computing pedagogy offers an excellent opportunity to develop students' confidence and fluency in digital skills. However, to fully harness this potential, we must further develop and share effective practices. My research with home-educating families has led to the creation of a game-making pedagogy that incorporates patterns of home behaviours alongside the design principles found in retro platform games. This approach not only aligns with the learning styles of home-educated students but also utilises the engaging elements of retro games to enhance creativity and problem-solving skills. I share these strategies in the spirit of advocating for systemic changes that ensure all students can benefit from this innovative approach.
 
@@ -79,37 +66,11 @@ At the TPEA conference, while it was acknowledged that good teachers do find way
 
 ### Summarising my results
 
-The benefits of game making as a process have been well outlined in a book and accompanying papers by Kafai and Burke [@kafai_connected_2016; @kafai_constructionist_2015-1]. The focus of the review draws on a constructionist tradition which includes the work of Papert [-@papert_mindstorms_1980] on LOGO language and the use of drawing robots, and that of Resnick [@resnick_scratch_2009] on block based programming languages. While their work on the diverse benefits of game making is convincing, the review is less thorough concerning pedagogies and approaches that emphasise social and cultural learning. Other reviews and commentaries conclude that more work is needed in this area [@denner_does_2019]. My research contributes to this field by using cultural historical activity theory (CHAT) to examine these areas more systematically.
+The majority of this section has been removed to fit the word count of this commentary see full blog post here.
+https://web.archive.org/web/20241112093419/https://tpea.ac.uk/reflections-on-the-tpea-conference-2024/
 
-I adopted an approach that aligns with the increasing convergence of activity theory interventions and design-based research [@penuel_emerging_2014] to collaboratively create a game making pedagogy, drawing on the experiences and working patterns of families, primarily in parent-child pairings. I was also inspired by Stetsenko [@stetsenko_serious_2015], who advocates resisting artificial objectivist approaches and instead taking a transformative activist stance (TAS) to build participants' agency through active interventions.
-
-Through four iterations of research interventions in the form of short game making courses, a pedagogy and set of tools emerged, which I now present as ready for wider testing.
-
-In the early stages of disseminating my research, I outlined the characteristics of the pedagogy as a game making approach I called 3M, reflecting the use of missions, methods, and maps. The maps dimension helps teachers align skills learned in game making with curricular goals and concepts. I have written a chapter detailing this approach, focusing on its adaptation to the primary classroom [@chesterman_game_2023]. Although the mapping dimension has clear potential for utility, the main focus of my research became the development of fluency in the game making and coding process using a mission-based approach, alongside the incorporation of home interests through inclusive pedagogical methods. Given the limited scope of this blog post, I will focus on those aspects here.
-
-#### Missions: leading activities offering both structure and choice
-
-The term missions became a playful way to represent two key aspects of the emerging pedagogy: first, the setting of short-term coding and asset production goals by participants, and second, the inclusion of social side missions that reinforced collaborative working patterns.
-
-**Main Missions (Game Design Patterns)**
-
-REMOVED TO FIT TARGET WORD COUNT SEE FULL VERSION HERE.
-https://tpea.ac.uk/reflections-on-the-tpea-conference-2024/
 
 <!-- I can remember them being popular and perceived as useful by fellow students when I completed a Computing masters. -->
-
-
-**Playful Missions (Encouraging Social Repertoires)**
-
-The idea to encourage these diverse approaches emerged from a conversation with a colleague interested in playful learning, John Lean, regarding Bartle's game playing styles [@hamari_player_2014]. Bartle's research explored the various motivations and play styles in digital adventure games. I applied a similar framework to investigate and reflect the different game making styles that began to emerge within the community.
-
-Some families set clear goals and followed resources methodically to achieve them. Others took a more social approach, learning from peers and exchanging ideas and encouragement. Still others engaged in more unconventional ways, creating confusing or unusual games or working against some of the suggested creative practices. A summary of these different game making styles is shown in the image below.
-
-![Game Maker Types](../../thesis_chapters/Pictures/game_maker_types.png){width=75%}
-A revision of Bartle's game player types based on observations of possible game maker types.
-
-REMOVED TO FIT TARGET WORD COUNT SEE FULL VERSION HERE.
-https://tpea.ac.uk/reflections-on-the-tpea-conference-2024/
 
 ### Methods: Inclusive methods to draw on home repertoires of practice and to build participant agency
 
@@ -128,12 +89,6 @@ Lastly, **incorporate playful approaches** to build connections with *funds of k
 
 ### Concluding remarks
 
-In summary, the implications of this research highlight the potential for reframing the primary focus of teaching computing through accessible project-based approaches structured around the application of relatable design patterns. I encourage wider testing of these processes to assess the generalisability of the findings based on several motivations.
+In summary, the implications of this research highlight the potential for reframing the primary focus of teaching computing through accessible project-based approaches structured around the application of relatable design patterns. I encourage wider testing of these processes to assess the generalisability of the findings based on several motivations. Firstly, the overall approach is aligned with solid foundations for using funds of identity as an inclusive and transformational practice for young people engaging with digital technology, as explored in a special issue of Mind, Culture and Activity [@kajamaa_young_2019-3]. Secondly, the process of using games as a medium for expressing these funds of identity remains a valid approach. While research on game making may have waned in popularity, interest from young people endures. Thirdly, in light of increased concerns about risky online activity and screen time addiction, family involvement in the digital lives of young people remains an ongoing issue. Game making as a joint family activity offers an accessible and inclusive foundation for exploring further digital issues that impact home lives.
 
-Firstly, the overall approach is aligned with solid foundations for using funds of identity as an inclusive and transformational practice for young people engaging with digital technology, as explored in a special issue of Mind, Culture and Activity [@kajamaa_young_2019-3].
-
-Secondly, the process of using games as a medium for expressing these funds of identity remains a valid approach. While research on game making may have waned in popularity, interest from young people endures.
-
-Thirdly, in light of increased concerns about risky online activity and screen time addiction, family involvement in the digital lives of young people remains an ongoing issue. Game making as a joint family activity offers an accessible and inclusive foundation for exploring further digital issues that impact home lives.
-
-Finally, we can hope that the pendulum of digital education in the UK and beyond may swing back from the conservative stance on the power of abstract knowledge, exemplified by Michael Gove's implementation of the computing curriculum and exam structure, towards a more applied approach. This shift would align with Papert's vision of computational thinking, which is grounded in concrete, hands-on computing experiences involving projects that can motivate personal connections to the underlying content knowledge in context.
+Finally, we can hope that the pendulum of digital education in the UK and beyond may swing back from the conservative stance on the power of abstract knowledge, exemplified by Michael Gove's implementation of the computing curriculum and exam structure, towards a more applied approach [@preston_re-engineering_2013]. This shift would align with Papert's vision of computational thinking, which is grounded in concrete, hands-on computing experiences involving projects that can motivate personal connections to the underlying content knowledge in context.
