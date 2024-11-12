@@ -20,9 +20,6 @@ My research questions have remained relatively stable since the last review and 
 2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
 
-### Degree outcomes / narrative update
-
-My supervision process over the last year has focused on the process of prioritising and clarifying the writing up of my finding in line with existing research conventions. While the use of video data allowed a broad spectrum of analysis including more personal exploration of concepts, I have retained my original focus on the social and cultural elements of the process. Once the prioritisation process was completed I was able to return to the introduction and start drafting more complete chapters from the beginning.
 
 
 <!-- Percentage completion of each thesis chapter
@@ -39,7 +36,6 @@ videoconference -->
 
 
 
-Not sure on the structure here.
 
 ### Embargo, thesis format, viva format
 
@@ -61,9 +57,12 @@ An outline of the stage of completion of the chapters follows.
 
 To accompany this commentary I will email drafts of Chapters 3 and 5.
 
-### Degree outcomes
 
+### Narrative update of degree outcomes
 
+My supervision process over the last year has focused on the process of prioritising and clarifying the writing up of my finding in line with existing research conventions. While the use of video data allowed a broad spectrum of analysis including more personal exploration of concepts, I have retained my original focus on the social and cultural elements of the process. Once the prioritisation process was completed I was able to return to the introduction and start drafting more complete chapters from the beginning.
+
+The process of aligning chapter structure into a recognisable similar PhD thesis 
 
 If time allows it, I would welcome an informal discussion on _what I do with the PhD_, or in other words how I leverage the completion process to advance my career aims, as part of the review process. To help frame that line of discussion I have included as the second part of the commentary, a draft blog post for the TPEA website. This blog post aims for a concise and approachable summary of the research landscape, the needs that my thesis addresses and the relevance of my research findings within wider contexts. In response to this blog post, have been asked to resubmit a version for the TEPA journal and given a suggestion to share part of my work with the HM Gov curriculum review.
 
