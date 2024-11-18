@@ -296,10 +296,23 @@ This a concept is developed later in this discussion.
 
 ### Discussion on making types and side missions
 
+THIS WOULD NEED MORE DISCUSSION OR INTRODUCTION - PLAYER TYPES NOT IN CHAPTER 5 ANY MORE
+
 The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
 MOVE THIS UP?
 As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+
+<!--
+MOVE TO CHAPTER 7
+
+In appendix 5.playertypes, I outline the use of a game to explore different game playing types. I then proposed different making types. I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated.
+
+![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
+
+To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
+ -->
+
 
 
 ### Discussion in relation to other research - beyond design cycle stages

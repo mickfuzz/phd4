@@ -193,6 +193,12 @@ The working draft of this chapter now merges a proposed discussion chapter with 
     - Advantages and limitations of Home Education context
 
 
+## to integrate SOMEWHERE
+
+MOVE to THE CONCLUSION 
+Addressing the replicability of the research process, it is of value here to recap the previous chapters characterision of its nature as as open and risky, and requiring me to rapidly generate new tools in response. Certain factors mitigated against the incomplete design, namely a tenatious group of participants in P1, and my existing relationship with some participants built in previous encounters. The input of families as a responsive testing group and as detailed above, as active inputters to the evolving pedagogical approach was significant. As such, while this aspect is not extensively explored in this study, I propose there is significant potential in the input of home educating families as a consituant part in collaborative design based approaches to  uncover exisiting, situated repetoires in a way that can shape emergent practices in new learning expereiences. Specifically potential to can inform design  to produce tools and pedagogies aims which can help other facilitators seed productive community activity in other learning settings. I return to this subject in the conclusion of this thesis. -->
+
+
 ## Introduction
 
 This chapter synthesises answers to the RQs 1-3 in the following way.

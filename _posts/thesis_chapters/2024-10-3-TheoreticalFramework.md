@@ -64,7 +64,7 @@ chapters/planning/methodology_chapter/methodology_chapter_late_2020.odt.md -->
 1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
 2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
-4.
+
 <!-- ### Coding based on chapter 4 -->
 
 <!-- NOTE  I would say no - too complex -->
@@ -90,11 +90,12 @@ Emergent
   - the play around the playtesting -->
 
 
-###  MOVE THESE BITS
+
 
 <!-- - Affordances outlined in this learning design  double stimulation, give a quick summary, different types of agency   -->
+<!-- ###  MOVE THESE BITS
 MOVE THIS TO THEORETICAL FRAMEWORK
-DBR lacks a single argumentative grammar [@brase_knowledge_2024], a set of concepts and approaches which aid in the posing of questions in a way which helps communicate the essence the design and potential for its replication or generalisation. Brase [-@brase_knowledge_2024] notes the inherent tension between flexibility and coherence in approach. However, in outlining an argumentative grammar of an intervention process aligned with 3GAT,  Sannino and Engestrom [@cole_toward_2014] propose the core principles of formative interventions, namely double stimulation and the process of rising to the concrete via a germ cell concept. In addition they note the importance of transformative agency, analysis of contradictions, expansion and evolution of design, and the importance of concept formation.
+DBR lacks a single argumentative grammar [@brase_knowledge_2024], a set of concepts and approaches which aid in the posing of questions in a way which helps communicate the essence the design and potential for its replication or generalisation. Brase [-@brase_knowledge_2024] notes the inherent tension between flexibility and coherence in approach. However, in outlining an argumentative grammar of an intervention process aligned with 3GAT,  Sannino and Engestrom [@cole_toward_2014] propose the core principles of formative interventions, namely double stimulation and the process of rising to the concrete via a germ cell concept. In addition they note the importance of transformative agency, analysis of contradictions, expansion and evolution of design, and the importance of concept formation. -->
 
 
 
