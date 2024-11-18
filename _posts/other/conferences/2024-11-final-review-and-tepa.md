@@ -27,7 +27,7 @@ videoconference -->
 
 ### Embargo, thesis format, viva format
 
-No embargo is requested. The thesis formal is fully in the form of a written report. My viva format preference is for oral examination face to face if possible but via video conference if not for logistical reason. To accompany this commentary I will email drafts of Chapters 3 and 5.
+No embargo is requested. The thesis formal is fully in the form of a written report. My viva format preference is for oral examination face to face if possible but via video conference if not for logistical reason.
 
 ### Written progress
 
@@ -41,13 +41,24 @@ No embargo is requested. The thesis formal is fully in the form of a written rep
 8. **Conclusion - 25% complete:** A rough draft is in place.
 9. **Appendices - 50% complete:** Drafts of appendices are in place at different stages of completion. Their structure and the scope of needs some careful thought and prioritisation.
 
-### Narrative update of degree outcomes
+### Update of degree outcomes
 
 My research questions have remained relatively stable since the last review with some alterations to align with the chapter structure of the thesis.
 
 1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
 2. How can game design patterns support the development of computational fluency in novices?
 3. How can learners build agency in an evolving community of game makers?
+
+#### Addressing QAA doctoral degree descriptors
+
+To accompany this commentary I will email drafts of Chapters 3 and 5.
+
+- **the creation and interpretation of new knowledge, through original research or other advanced scholarship, of a quality to satisfy peer review, extend the forefront of the discipline, and merit publication:** I have already adapted outputs of the research for publication in an academically reviewed edited collection. 
+- **a systematic acquisition and understanding of a substantial body of knowledge which is at the forefront of an academic discipline or area of professional practice:** This will be demonstrated via the literature review and later discussion, an element of which is present in Chapter 5 submitted for review.
+-  **the general ability to conceptualise, design and implement a project for the generation of new knowledge, applications or understanding at the forefront of the discipline, and to adjust the project design in the light of unforeseen problems:** This will be demonstrated via Chapter 4 which addresses the methodology of the thesis. Elements are also present in Chapters 3 and 5 submitted for review.
+-  **a detailed understanding of applicable techniques for research and advanced academic enquiry:** This is present in Chapter 3 submitted for review.
+
+#### Addressing other areas of progress
 
 My supervision process over the last year has focused on the process of prioritising and clarifying the writing up of my finding in line with existing research conventions. While the use of video data allowed a broad spectrum of analysis including more personal exploration of concepts, I have retained my original focus on the social and cultural elements of the process. Once the prioritisation process was completed I was able to return to the introduction and start drafting more complete chapters from the beginning.
 
