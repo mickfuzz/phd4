@@ -178,7 +178,7 @@ Figure 3. x -  hierarchical structure of activity adapted from  [@daniels_vygots
 
 The concept of fluency is key to this study, making it essential to locate and describe the chains of operations and actions involved in the activity. Kuutti [-@kuutti_activity_1995] articulates the transition from actions to operations as follows:
 
-_Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent._ [@kuuttiactivity1995]
+_Initially each operation is a conscious action, consisting of both the orientation and execution phases, but when the corresponding model is good enough and the action has been practiced long enough, the orientation phase will fade and the action will be collapsed into an operation, which is much more fluent._ [@kuutti_activity_1995]
 
 Additionally, activity systems can be viewed as nested within broader activity systems. For instance, the development and teaching of a series of lessons may occur within the larger activity of a school or university [@lewin_developing_2018-1; @barab_using_2002]. Therefore, the process of selecting which activity system to analyze in depth involves identifying an appropriate unit of analysis [@blunden_germ_2014].
 
