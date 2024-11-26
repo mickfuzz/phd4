@@ -72,8 +72,7 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [SYNTHESIS - How different forms of agency are developed and
             transform over iterations of this game making
             programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
-            -   [Proposal on shifting forms of
-                agency.](#proposal-on-shifting-forms-of-agency.)
+            -   [Proposal on shifting forms of agency.](#proposal-on-shifting-forms-of-agency.)
             -   [SYNTHESIS - Nurturing agency by creating space for
                 emergent
                 practices](#synthesis---nurturing-agency-by-creating-space-for-emergent-practices)
@@ -113,13 +112,12 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
 - Etc -->
 
-## Research Questions - April 2024
+## Research Questions Nov 2024
 
-~1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?~
 
-1. What ~barriers~ contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
-2. How can game design patterns support the development of coding practices with novices?
-3. How can learners build agency in an evolving community of game makers?
+    1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
+    2. How can game design patterns support the development of computational fluency in novices?
+    3. How can learners build agency in an evolving community of game makers?
 
 
 

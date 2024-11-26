@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 1. Introduction - Games for a Read / Write world.
+title: 1. Introduction - Games for a Read-Write world.
 ---
 -   [Introduction - "Games for a Read / Write
     World."](#introduction---games-for-a-read-write-world.)
