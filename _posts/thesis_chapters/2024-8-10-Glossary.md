@@ -12,48 +12,53 @@ title: 10. Glossary
 
 # Glossary
 
-## Glossary
 
-NOTE THIS COULD MAKE UP PART OF THE LITERATURE REVIEW AS A MORE CONCISE WAY TO COVER A LOT OF GROUND - AND BOOKMARKED BY A JUSTIFICATION - THE COMPLEXITY IS IN THE MIX OF CONCEPTS AND IN LATER CHAPTERS.
-
+<!-- NOTE THIS COULD MAKE UP PART OF THE LITERATURE REVIEW AS A MORE CONCISE WAY TO COVER A LOT OF GROUND - AND BOOKMARKED BY A JUSTIFICATION - THE COMPLEXITY IS IN THE MIX OF CONCEPTS AND IN LATER CHAPTERS.
 PERHAPS ORGANISE BY CHAPTER?
 
-Or perhaps group terms by theme, include references in each description with examples and characteristics. Then have a short complex commentary at the end of each section.  
+Or perhaps group terms by theme, include references in each description with examples and characteristics. Then have a short complex commentary at the end of each section.   -->
 
 
-**Code syntax errors:** errors to do with the grammar of the code.
+### Overall terms
 
-### Pedagogies and Design Concepts
-
-Work in progress here -
-
-**Pair programming:** Beyond a more general description of two people coding a task side by side, this terms also describes a  
-
-**Use - Modify - Create:** A computing and digital media creation pedagogy that outlines the advantages of starting with working code examples before progressing to writing code structures from first principles. It has been used in the context of game making[find example], web design[find example] and other educational coding projects.
-
-**Process Drama:** A way of exploring topics using dramatic techniques to explore situations, professional contexts or wider topics. The work of Dorothy Heathcote on process drama is influential in shaping conceptions of what is possible in school contexts particularly in her use of guided role play and cross-circular work.
-
-
-**Bartle's Player Types:** The grouping of different player types.
-
-Killer / Griefer is a concept which is emotive as the process of playing against the rules may be entertaining for those that engage with it. In the context of a multi-player game with people investing time and energy.
-
-### Context / Community
+**Learning design:** The term used for a set of resources and pedagogical techniques introduced by myself as a facilitator of coding sessions.
 
 **Digital making:** A broad field involving the maker community, physical computing and participation in on-line digital making communities.
 
-**Coder Dojo:**
+**Game making:** In the context of this study game making is the overall process of constructing a game which may include coding elements but may also involve creating graphical assets and planning activities.
 
-**Game Jam:**
+**Game coding:** In the context of this study game making refers to the aspect of game making which involved interacting and changing the code aspect of the game object.
+
+### Pedagogies and Design Concepts
+
+**Pair programming:** Beyond a more general description of two people coding a task side by side, this terms also describes a  
+
+**Use - Modify - Create:** A computing and digital media creation pedagogy that outlines the advantages of starting with working code examples before progressing to writing code structures from first principles. The term is explored in more detail in Chapter 2.
+
+**Bartle's Player Types:** The grouping of different player types reflects a design concept that players play games for different motivations. Bartle's proposed types are frequently framed as the following: Achiever, Killer, Explorer, Socialiser. For example, Killer / Griefer refers to a player who often engages in a process of playing against the norms of the game for entertainment value. This can be disruptive in the context of a group game.   
+
+#### perhaps not needed. 
+
+**Process Drama:** A way of exploring topics using dramatic techniques to explore situations, professional contexts or wider topics. The work of Dorothy Heathcote on process drama is influential in shaping conceptions of what is possible in school contexts particularly in her use of guided role play and cross-circular work.
+
+### Context / Community
+
+**Coder Dojo:** A community of volunteers running informal education sessions aimed at young people and their families. The initiative has been taken under the arm of the Raspberry Pi foundation.
+
+**Game Jam:** A term applied to events creating games used in diverse contexts including professional game coders, enthusiasts and at times young learners. The term is explored in more detail in Chapter 2.
 
 
-### Technical Terms
+### General Coding / Technical Terms
 
-Code Playground:
+**Code Playground:** A website allowing the running of code projects within a testing environment, often focusing on web page technologies. They are used initially to share code problems in context to allow specific help from forums. They have developed into communities which allow for the showcasing of new techniques and as educational tools to allow learners to experiment with web coding project without access to a development web server. The term is explored in more detail in Chapter 2.
 
-Javascript library:  
+**Code syntax errors:** Errors to do with the grammar of the code.
 
-Game states: Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017; @kostolny_digital_2017]
+**JavaScript library/framework:** A collection of one or more files of JavaScript code which abstract away specialised abilities which can be reused by other   
 
-Game loop:
+### Technical Game Terms
+
+**Game states:** Game states and functions to create the game loop are included natively in the phaser framework [@faas_introduction_2017; @kostolny_digital_2017]
+
+**Game loop:**
 See **https://mozdevs.github.io/html5-games-workshop/en/guides/platformer/the-game-loop/**
