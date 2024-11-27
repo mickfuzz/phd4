@@ -21,13 +21,19 @@ Or perhaps group terms by theme, include references in each description with exa
 
 ### Overall terms
 
-**Learning design:** The term used for a set of resources and pedagogical techniques introduced by myself as a facilitator of coding sessions.
+**Learning design:** The term used for a set of resources and pedagogical techniques introduced by myself as a facilitator of coding sessions. The following terms are used as synonym at times to avoid a repetitive writing style: learning intervention, game making pedagogy.
 
 **Digital making:** A broad field involving the maker community, physical computing and participation in on-line digital making communities.
 
 **Game making:** In the context of this study game making is the overall process of constructing a game which may include coding elements but may also involve creating graphical assets and planning activities.
 
 **Game coding:** In the context of this study game making refers to the aspect of game making which involved interacting and changing the code aspect of the game object.
+
+### Context / Community
+
+**Coder Dojo:** A community of volunteers running informal education sessions aimed at young people and their families. The initiative has been taken under the arm of the Raspberry Pi foundation.
+
+**Game Jam:** A term applied to events creating games used in diverse contexts including professional game coders, enthusiasts and at times young learners. The term is explored in more detail in Chapter 2.
 
 ### Pedagogies and Design Concepts
 
@@ -37,18 +43,13 @@ Or perhaps group terms by theme, include references in each description with exa
 
 **Bartle's Player Types:** The grouping of different player types reflects a design concept that players play games for different motivations. Bartle's proposed types are frequently framed as the following: Achiever, Killer, Explorer, Socialiser. For example, Killer / Griefer refers to a player who often engages in a process of playing against the norms of the game for entertainment value. This can be disruptive in the context of a group game.   
 
-#### perhaps not needed. 
+#### perhaps not needed.
 
 **Process Drama:** A way of exploring topics using dramatic techniques to explore situations, professional contexts or wider topics. The work of Dorothy Heathcote on process drama is influential in shaping conceptions of what is possible in school contexts particularly in her use of guided role play and cross-circular work.
 
-### Context / Community
-
-**Coder Dojo:** A community of volunteers running informal education sessions aimed at young people and their families. The initiative has been taken under the arm of the Raspberry Pi foundation.
-
-**Game Jam:** A term applied to events creating games used in diverse contexts including professional game coders, enthusiasts and at times young learners. The term is explored in more detail in Chapter 2.
-
-
 ### General Coding / Technical Terms
+
+**Variables / Game variables:** A variable is a coding term used to describe a code value which is often set at the start of a code project. A game variable in the context of this study refers to aspect such as the value of gravity, or player movement speed which the novice coder can alter to impact the behaviour of their game. 
 
 **Code Playground:** A website allowing the running of code projects within a testing environment, often focusing on web page technologies. They are used initially to share code problems in context to allow specific help from forums. They have developed into communities which allow for the showcasing of new techniques and as educational tools to allow learners to experiment with web coding project without access to a development web server. The term is explored in more detail in Chapter 2.
 
