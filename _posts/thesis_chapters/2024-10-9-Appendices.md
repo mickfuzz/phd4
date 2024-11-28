@@ -93,36 +93,27 @@ Unfortunately as some appendices and vignettes contain tables with merged table 
 
 Contain extended transcription of discourse and when possible participant gestures.
 
-- Vignette.toby/1 :
+- Vignette.toby/1 : see separate doc
 - Vignette.s&t/2 :
 - Vignette.f&m/3 :
-- Vignette.map/4 :
-- Vignette.reflection/5 :
-- Vignette.documentation/6 - Introducing documentation in drama frame
+- Vignette.m&n/4 :
+
+
 
 **Technical Appendices**
 
 - App.T.tools - Summary of tool use by stage
 
 **Other Appendices**
+
+- Appendix.map/4 :
+- Appendix.reflection/5 :
+- Appendix.documentation/6 - Introducing documentation in drama frame
+
+
 - App.5.dn - Expanded Design Narrative
-- 5.dn - Expanded Design Narrative
 
 
-## Vignettes
-
-
-### 5.toby - Vignette illustrative of Toby's on screen game making activity and social interaction
-The vignette has been  moved to a open office document - allvignettes.odt
-
-https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
-
-### 5.f&m - Vignette illustrative of S and O activity
-The vignette has been  moved to a open office document - allvignettes.odt
-https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit?tab=t.0
-
-
-### Vignette.fok - Around Molly and Nadine
 
 ## Technical Appendix
 
@@ -203,50 +194,18 @@ Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 ### Design decisions in the technical decisions of the template design in P2
 
-#### Using Phaser 2 not 3
+#### Using a structural template
 
-The process of using JavaScript was challenging. At one stage I contacted a developer of JS who had written a tutorial for Mozilla. Her response was why use JS over scratch, and why not use Phaser 3.
-
-Removing the use of this where possible, thus making a design error of using global variables.
-
-Not using latest Phaser 3, to the object structure needed.
-Compare the creating a world statement of the two libraries.
-
-Adding in a state based system to allow for a game over screen,
-The experience of S and J - to change the code structure to do this was jarring.
+**Not creating from first principles**
 
 Creating the project from first principles is relatively complex both semantically and practically.
 
 In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
 While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
 
-Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
+#### Summary of motivations and sources of P2 template
 
-![](./Pictures/overview_of_structure_cropped.png){width=55%}
-
-4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
-
-
-##### Email on list for P1
-
-Hi there,
-
-Great session this week!
-
-We didn't get on to phaser this week but here are some games to remix in
-phaser and the tutorials
-
-You could try a similar approach to the one we did in scratch, upload
-our own images from piskel to replace the ones here.
-
-
-Phaser Platform Game Tutorial from Richard and Alvin
-https://thimbleprojects.org/piratepete/334344/
-tutorial
-https://phaser.io/tutorials/making-your-first-phaser-2-game/
-
-
-#####
+Chapter 5 gives a summary of the motivations of the structure of the P2 starting template. The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
 
 Original source of grid template
 https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
@@ -255,6 +214,76 @@ https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-p
 Phaser tutorial
 https://phaser.io/tutorials/making-your-first-phaser-2-game/
 https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
+
+
+
+
+#### Using Phaser 2 not 3 & Game States
+
+The process of using JavaScript was challenging. At one stage I contacted a developer of JS who had written a tutorial for Mozilla. Her response was why use JS over scratch, and why not use Phaser 3.
+
+These are fair questions the first of which I address in the introduction of the thesis. The technical question of why to not use Phaser 3, a more recent version, raises a point of interest surrounding the complexity of the code syntax used and the initial appearance of the code project to novices.
+
+**Object structure and use of this keyword**
+A key decision to keep using Phaser 2 in the development period between P1 and P2 was to avoid the use of the object structure needed to initialise a game state.
+
+<!-- DROP? To illustrate this point on a technical code level it is of value to compare the code needed to creating a world statement of the two libraries. -->
+
+The move from Phaser 2 to 3 structure was in part to integrate with other modern JavaScript frameworks but a side effect is to introduce an object structure requiring greater complexity of syntax and the use of this as an object orientated concept.
+
+While a useful programming concept, the this keyword which can refer to a contextual parent object regardless of the context of which function it is called withing, is potentially confusing to explain to novice coders. Instead I judged that referring explicitly to the GameState object was preferable.
+
+To do this, I used global variables in the code in a way which in another context would be problematic, say if interacting with other code libraries.
+
+An alternative would be to use template based on Phaser 3 but use this construct to avoid the use of this via assigning it the name of the state.
+
+https://codepen.io/samme/pen/JjYreex
+    function init() {
+      // You do need to *read* `this`, once:
+      state = this;
+
+**Structure of Game States**
+
+One change that was needed between P1 and P2 was the addition of an initial game state into the starting code.
+
+We can compare the code structure of the Phaser 2 tutorial with the starting template of the P2 starting game.
+
+**Phaser.com Phaser 2 tutorial**
+
+    var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
+
+    function preload() {
+    }
+
+
+**P2 starting game extract**
+
+    // Initialize the game at a certain size
+    var game = new Phaser.Game(550, 400, Phaser.AUTO, "game-div", "", false, false);
+
+    // The following javascript object called playState contains all the active code for this simple game.
+    // You can add other states like, win, lose, start etc
+    var playState = {};
+
+    playState.preload = function () {}
+
+
+The motivation to add game states was driven by the requests of participants to As this was allow the addition of a game over screen, or a starting splash screen to introduce the topic and instructions to play the game.
+
+The decision to introduce this in the starting template was motivated by an experience in P1 of one group who  and J - to change the code structure to do this was jarring and reduced the familiarity that they had built up with the existing code structure. This was borne out in a comment in the end of project interview. "Once we had got over x"
+
+Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
+
+![](./Pictures/overview_of_structure_cropped.png){width=55%}
+
+4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
+
+
+
+
+
+
+
 
 
 
@@ -326,7 +355,56 @@ ps: I guess the challenge is to do this so that it’s a map, with different lea
 So supporting autonomous learning but also team work.
 
 
-### Appendix 5.x  - Feedback from P1 participants (extracts)
+### Appendix.5.bee - Contextual Vignette on the conflict experienced by one family & the 3D Bee
+
+One family in P1 chose not to continue with most other families after the Xmas break.
+
+Members of this family had engaged in planning on paper and in particularly in creating pixel art, however tensions began to emerge when the introduced code framework framework did not support the desired features of one child. The feature they wanted to add to the game was bee design roaming a 3D landscape.  
+
+When the family withdrew, they shared in feedback (see appendix 4.x) that at one point the family looked around and just saw people doing "hardcore coding" and no longer felt that they belonged".
+
+In the end stages of the game production process, due to the dynamic of the larger group, they had been reliant on others to implement code changes for their imagined game, unable to contribute fully at this point and found themselves isolated.
+
+Thus a contributing factor to this families alienation were tensions engendered by the large group size and compounded by frustrations stemming from unfamiliarity with tools and processes.
+
+In participant feedback, the  parent of this family described in the previous section indicated that it took too long before in the planning stage and called for more hands on play and use of the tools of production before being called on to make creative decisions. The parent likened this to an arts studio approach. This feedback contributed to choices outlined in other sections of this chapter. (WHICH ONES)
+
+When the family withdrew, in my journal notes I reflected that the they shared of alienation from the group process occurred in a session where, due to a sense of urgency to complete games, I had omitted drama-based warm up activities. Instead as participant entered I began to support to help some participants debug some pressing code errors.
+
+
+
+For some families and individual participants there were conflicts to do with a sense of anxiety and alienation fr
+om the group coding environment and associated peer working dynamics.
+
+One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
+
+The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
+
+I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors.
+
+
+**Limits of peer support**
+
+In feedback the parent shared they didn't want to bother other families with probems via the email list, and also noted the hesitancy caused by parental involvement compared to the kids ability to jump in and learn from each other less self-consciously.
+
+Thus this surfaced a tension, the value of a peer learning balanced with the need for low pressure. In other words avoiding a negative sense of obligation.
+
+<!-- The value of playfulness is illustrated
+The freedom of choice and imagination allowed by designing on paper and via pixel art created compounding tensions. -->
+
+<!-- I had not played customary drama games to create an inclusive environment.
+
+That week I had omitted them as I felt a sense of urgency coming from families to solve their problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. -->
+
+
+<!-- In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding. -->
+
+
+
+
+
+
+### Appendix.feedback  - Feedback from P1 participants (extracts)
 
 This is included to show evidence of the emergent process and that the direction of the program was influenced by participants input.
 
@@ -495,43 +573,7 @@ What do you want to put in your new game what wasn’t in your old game? Yeah, y
 
 
 
-
-
-#### Developing a collection of GDPs and code sni
-
-These code examples allow users to see the behaviour in context with the code and output side by side. While code examples existed on the Phaser website and support forums, in line with other support sites like stack exchange, their utility
-
-<!-- The competency to overlook the concrete differences in code structure to abstract the principles away and to then apply those principles to the existing structure of their code project seemed too ambitious for this group of novices. -->
-
-<!-- Creating a bespoke set of code snippets helped address the challenges described above. In P1 I responded by creating one off documents with the relevant code which were both printed, emailed and shared via google drive. In line with the practice of accessing help via code snippets, the code examples could be to be copied and pasted into the game. This process lacked coherent process for participants to navigation to the resource they need. The process also lacked a consistency in signposting how the code listed fit within the existing structure.  -->
-
-<!-- a theory supported by observations of Toby's proficiency in the vignette above. -->
-
-<!-- As these tutorials took as a starting point the code of the starting template and did not attempt to explain that, they did not however resolve the issue of participants wanting resources that explained these core constructs and underlying concepts.
-
-I created opening chapters of the online manual which were more traditional in format and explained underlying concepts that the starting template had initially abstracted away from the participants.  -->
-
-<!-- To describe the relationship between the self-contained chapters described above and the process of backtracking to gain foundational knowledge, I used the term _meeting yourself in the middle_. In the supporting chapters this term represented the value of retracing initial steps as a way to explore the computing concepts present in the design. -->
-
-An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
-Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
-FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION.
-
-
-MOVE THIS TO THE NEXT BIT?
-Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Some trailblazing participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon by other learners and sometimes adopted via peer teaching.
-
-<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
-
-
-<!-- While time consuming, the process of aligning documentation, code snippets with more general concepts of game analysis, served to simplify the navigation of documentation.  -->
-
-IS THIS NEEDED?
-The guiding principle is that key affordances of the supporting secondary stimuli are designed to closely align with the objectives of leading activity at the predominant scope of activity.In the language of the theoretical framework, I explore the process of working with GPDs as a germ cell of the overall game making activity.
-
-
-
-#### Themeing GDPs
+### Appendix.themeing -  Themeing GDPs
 
 In grouping the game design patterns into categories for the documentation hub page, I drew on academic and professional interpretations of game elements [@salen_game_2006; @schell_art_2008; @tekinbas_rules_2003]. Schnell's detailed analysis of tens of game elements presented as design lenses was too complex for this audience. Instead, I adapted a simplified introductory framework developed for use in youth-oriented Game Jams to help novice game makers hack/analysis and then adapt key elements of non-digital games [@cornish_game_2018].
 
@@ -569,197 +611,26 @@ I made some simplifications and adaption to increase accessibility for non-profe
 ![Game Design Themes](./Pictures/four_gdp_themes.png){width=55%}
 
 
+#### Appendix 5.R.x - Sketching towards a map to help navigation.
 
+In trying to organise and represent code examples to participants in a logical way, I experimented with different categories and themes to contains the emerging game elements. I also explored the concept of mapping the different challenges by difficulty on a map via structuring via concentric rings. An example of the kind of grouping sketch used is included below as Figure 4.x.  
 
+![Scan of Journal Sketch of early attempt at dividing features by type and difficulty](./Pictures/pattern_types_sketch.png){width=85%}
 
+_Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type and difficulty - Dated 11.3.2019_
 
-#### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
+The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
 
 
-By the end of P2 most of the tools and main processes were in place. But I still felt tensions around introducing reflective processes and wanted to de-centre myself where possible from a teacher position. My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
 
-Molly in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
 
-In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals, taking inspiration from Bartle's game player types [@hamari_player_2014], identifying social makers, planners, magpies and glitchers.  
 
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game   
-- **Planners:** like to study to build knowledge of the tools before they build up their game step-by-step following instructions
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
-I saw potential value here to address the danger internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches [@papert_epistemological_1990]. Thus, in P2 I introduced a starter game in which families moved into different quadrants of the room in answering questions on the Bartle test. This process celebrated different game playing types and allowed a public sharing of previously hidden gaming preferences, although for some non-gaming parents and children I had to ask them to use their imagination. Several parents noted that this process gave them great insight into how their child identified within the cultures of the games they played.
 
 
 
 
-After the process of playing a game I shared my proposition that there different game maker types. I asked participants to evaluate and discuss with peers what kind of game maker they were from the list above. This process was not explicitly used in later reflections however parent Mark made the following comment in post-session P3 interviews.
-
-    We used the instructions, we like to plod.
-
-![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
-
-I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
-
-
-### Operations / fluidity
-
-**on operations / fluidity? Move?**
-
-While this vignette shows that the participant has developed fluid use of both software tools and documentation and support sources, these are areas where significant contradictions emerged which shaped the path of the support given.
-OPERATIONS - WHERE? MOVE
-
-#### Developing Digital Literacy skills / Fluency - OPERATIONS
-
-
-
-- MOVE TO CHAP 7 > AS A TACTIC TO PROMOTE AGENCY - A TENSION?
-
-
-The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
-
-Perhaps play paradox here? Not a tension but something to design for? And thus backgrounding the aspects of computational thinking in favour of a more accessible experience using authentic technology. A reflection as a facilitator.
-
-<!-- This tension can be described as a play paradox. WHERE IS THIS FIRST INTRODUCED I was looking to avoid too much time spent in asset creation at the expense of other processes which would develop coding concepts and practices. It also increased the possibility of peer learning as less tools were being used. -->
-
-
-### Tensions in tool use emerging between agency and authenticity
-
-IF THINGS ARE TO STAY IT MUST BE DIRECTLY RELEVANT TO AGENCY
-IF THIS IS REALLY NEEDED IT WOULD NEED TO BE IN LR
-
-
-The object of the coders
-
-
-In terms of authenticity of audience, participants make a shareable digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
-
-PERHAPS EXPLORE PLAYTESTING HERE AS AUTHENTICITY OF AUDIENCE.
-In addition, playtesting processes are authentic and often informed by existing real experience as game players.
-
-MOVE TO CHAPTER 7?
-These observations on authenticity and playtesting are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
-Playtesting is explored in more detail in relation agency in Chapter 7.
-
-
-There are examples of the authenticity of the audience being used by participants
-
-  - Suzanna uses the imagined audience to norm behaviour.
-  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
-
-
-The use of code playgrounds and js? structured along design principles which align with affordance theory.
-
-THEREFORE - WHAT IS THE KEY POINT HERE?
-
-While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
-
-Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
-
-While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
-CROSSREFF -  list the benefits here.
-
-
-
-
-
-### Summary of barriers and tensions explored in this chapter
-
-CHANGE TO BE MORE SPECIFIC
-MOVE THE TABLE TO AN APPENDIX AS A FINDING
-
-This section summarise key barriers and tensions drawn from
-
-the literature review that were significant when reviewing my journal observations, feedback from participants and video data.
-
-The purpose of this summary is to help recap and ground the reader before exploring the experiences of participants in more detail in chapters five and six.
-
-It focuses on use of tools but also signposts some social and cultural elements.
-
-Different areas of contradictions between different elements in activity systems emerged in journal notes and retropective analysis of evolution of the design. Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
-
-I propose that more granular understanding of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
-
-*Additional tensions to integrate*
-
-There's a tension of not wanting to jump in to teach CT concepts, or to force reflection on progress. Understandable not to want to interupt flow. It is not needed in terms of testing or curriculum here. This is an adaption where I project into the experience of participants and pick up on reluctance to step away from the ongoing coding and creative or playful tasks at hand. I adapted to end of session reflection on most sessions. I also did not draw attention to extra resources outlining formal frameworks. Although step by step instructions which did outline them in situ were available.
-Here I worked to remove barriers to accessing CT as a framework   via resource creation which aligned to experience. But their agency is expressed through disinterest and reluctance in participation. This transform conceptions of the activity as I give up CT as a framework which guides the objective. Instead using GDPS as one more aligned with their interests and need to develop fluency in non-conceptual coding practices.
-
-Also, the drama frame was able to address of of the tensions which emerge - but these are mention only in summary here as they are explored in more depth in discussion in chater six.
-
-
-### 5.X - Contextual Vignette on the conflict experienced by one family & the 3D Bee
-
-One family in P1 chose not to continue with most other families after the Xmas break.
-
-Members of this family had engaged in planning on paper and in particularly in creating pixel art, however tensions began to emerge when the introduced code framework framework did not support the desired features of one child. The feature they wanted to add to the game was bee design roaming a 3D landscape.  
-
-When the family withdrew, they shared in feedback (see appendix 4.x) that at one point the family looked around and just saw people doing "hardcore coding" and no longer felt that they belonged".
-
-In the end stages of the game production process, due to the dynamic of the larger group, they had been reliant on others to implement code changes for their imagined game, unable to contribute fully at this point and found themselves isolated.
-
-Thus a contributing factor to this families alienation were tensions engendered by the large group size and compounded by frustrations stemming from unfamiliarity with tools and processes.
-
-In participant feedback, the  parent of this family described in the previous section indicated that it took too long before in the planning stage and called for more hands on play and use of the tools of production before being called on to make creative decisions. The parent likened this to an arts studio approach. This feedback contributed to choices outlined in other sections of this chapter. (WHICH ONES)
-
-When the family withdrew, in my journal notes I reflected that the they shared of alienation from the group process occurred in a session where, due to a sense of urgency to complete games, I had omitted drama-based warm up activities. Instead as participant entered I began to support to help some participants debug some pressing code errors.
-
-
-
-For some families and individual participants there were conflicts to do with a sense of anxiety and alienation fr
-om the group coding environment and associated peer working dynamics.
-
-One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
-
-The value of playfulness is illustrated with one exit interview with a parent where they shared their reasons for leaving the program. At one stage after a week where they had missed a session, their family looked around and saw other groups involved in 'hardcore coding' and no longer felt at home. They compared this previous sessions which had more fun and group oriented activity.
-
-I was struck that his incident happened during a session where I had not played customary drama games to create an inclusive environment. The games had been omitted as I was responding to a sense of urgency coming from families to solve problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors.
-
-
-**Limits of peer support**
-
-In feedback the parent shared they didn't want to bother other families with probems via the email list, and also noted the hesitancy caused by parental involvement compared to the kids ability to jump in and learn from each other less self-consciously.
-
-Thus this surfaced a tension, the value of a peer learning balanced with the need for low pressure. In other words avoiding a negative sense of obligation.
-
-<!-- The value of playfulness is illustrated
-The freedom of choice and imagination allowed by designing on paper and via pixel art created compounding tensions. -->
-
-<!-- I had not played customary drama games to create an inclusive environment.
-
-That week I had omitted them as I felt a sense of urgency coming from families to solve their problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. -->
-
-
-<!-- In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding. -->
-
-
-
-
-
-#### Additional commentary and analysis of Toby's vignette
-
-
-By this stage, the process of collecting a user generated list of features and trying to respond to all of them as a facilitator had been abandoned as unrealistic. Instead a collection of GDPs had been created.
-
-Other participants were less proficient using this online resources and used printed out versions of documentation.
-
-After inserting the code which adds a moving enemy to the game, Toby spends five minutes altering the variables involved to match his design and to create a level of challenge that he is happy with.
-
-Toby makes quick progress. one factor here is willingness to make mistakes. There is a confidence here in undoing mistakes, commenting out new code to return to previous behaviour.
-
-The trial and error approach also yields benefits, a mistake in the values edited creates an unexpected result of the enemy moving vertically instead of horizontally. Within the objective of adding or altering game features (also referred to as game design patterns here), implementing more complicated patterns involved several stages and varied tools. Using the terminology of Leontiev [-@leontiev_activity_2009], participants undertakes certain chains of processes in a fluid way that shows that actions had become operations (as explored in chapter three). In vignette 4.x, an example of such an operation is Toby's quick navigation between different areas of the game code, the game preview window and other sources of documentation. In contrast, some tasks are new to Toby and are performed more hesitantly. In the vignette's description, it can be observed that at times Toby is careful and hesitant, checking and rechecking the process of copying and pasting new code into his game from the code example of a design pattern he has chosen.y. Toby embraces this mistake and shares his account of this happy accident enthusiastically.
-
-
-<!-- In the example above Toby progresses from playtesting his own game to altering it. The code to change the layout of the platforms of the game is already included in the starting template. Thus is able add a new platform by making simple code changes. Toby retests the game immediately by clicking on the preview element of the code environment.  -->
-
-<!-- However within that wider objective there may be a variety of goals depending on the participant. In this case Toby's goal is addresses the challenge and variety of the game playing experience. -->
-
-<!-- Toby builds his competence in the process of comparing the own code to the code example to work out what code is new and relevant to the desired behaviour. -->
-
-<!-- In the vignette of Toby's activity this wider objective is present in the facilitator orientation at the start which references this audience -  _the Monday after we can play our games and we can share them with students. We can make the students frustrated when they can’t beat our games_. At the end of the vignette text, one of the student helpers also imagines this audience playing the game of Toby.    -->
-
-
-
-### Vignette 5.alien - Transcription of the introducing a drama process in P3
+### Appendix.alien - Transcription of the introducing a drama process in P3
 
 The participants have entered the room and chosen a laptop to work on. Some of the children play web-based games or reviewing the games that they have made previously. The session progresses with a warm-up game which includes many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure. The transcript below picks up at this point.
 
@@ -790,7 +661,9 @@ The participants have entered the room and chosen a laptop to work on. Some of t
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of each session as well. That’s our mission.
 
 
-#### Appendix 7.makertypes
+#### Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT CHAPTER 7
+
+
 
 
 
@@ -849,6 +722,8 @@ Side missions or side quests are also used in open world games are used in part 
     Mark: To find out about other people's favourite games.
     Ed: Alright.
 
+### Appendix.drama - Drama process -
+
 #### Exploring documentation and accessing technical help within the drama frame
 
 
@@ -869,43 +744,6 @@ The process of asking the aliens for technical help within a code project sparke
 This chat began to fulfil a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
-
-
-
-
-
-
-### Appendix 5.R.x - Sketching towards a map to help navigation.
-
-In trying to organise and represent code examples to participants in a logical way, I experimented with different categories and themes to contains the emerging game elements. I also explored the concept of mapping the different challenges by difficulty on a map via structuring via concentric rings. An example of the kind of grouping sketch used is included below as Figure 4.x.  
-
-![Scan of Journal Sketch of early attempt at dividing features by type and difficulty](./Pictures/pattern_types_sketch.png){width=85%}
-
-_Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type and difficulty - Dated 11.3.2019_
-
-The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
-
-
-
-
-
-
-
-
-
-
-## Technical Appendices
-
-### AP-T.x - A technical outline of Game Template structure
-
-Creating the project from first principles is relatively complex both semantically and practically. In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
-
-Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
-
-![](./Pictures/overview_of_structure_cropped.png){width=55%}
-
-4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
-
 
 
 
@@ -958,6 +796,10 @@ in open world games are used in part to appeal to different kinds of players [@b
 
 place here
 
+NOTE HOW MUCH OF THIS SHOULD GO IN CHAPTER 7 ?
+
+
+
 ## Perhaps delete?
 
 place here
@@ -997,3 +839,151 @@ Other parents requested additional supporting resources which explained the codi
 
 
 In addition, my own motivations to explore research claims which on the engagement value of prioritising modifications to for quick impact on the game and on allowing participants choose over what they wanted to add to their game next.
+
+
+#### Email on list for P1 - regarding the use of a template
+
+Hi there,
+
+Great session this week!
+
+We didn't get on to phaser this week but here are some games to remix in
+phaser and the tutorials
+
+You could try a similar approach to the one we did in scratch, upload
+our own images from piskel to replace the ones here.
+
+
+Phaser Platform Game Tutorial from Richard and Alvin
+https://thimbleprojects.org/piratepete/334344/
+tutorial
+https://phaser.io/tutorials/making-your-first-phaser-2-game/
+
+
+
+#### Additional commentary and analysis of Toby's vignette - MOVE TO EXTERNAL DOCUMENT
+
+
+By this stage, the process of collecting a user generated list of features and trying to respond to all of them as a facilitator had been abandoned as unrealistic. Instead a collection of GDPs had been created.
+
+Other participants were less proficient using this online resources and used printed out versions of documentation.
+
+After inserting the code which adds a moving enemy to the game, Toby spends five minutes altering the variables involved to match his design and to create a level of challenge that he is happy with.
+
+Toby makes quick progress. one factor here is willingness to make mistakes. There is a confidence here in undoing mistakes, commenting out new code to return to previous behaviour.
+
+The trial and error approach also yields benefits, a mistake in the values edited creates an unexpected result of the enemy moving vertically instead of horizontally. Within the objective of adding or altering game features (also referred to as game design patterns here), implementing more complicated patterns involved several stages and varied tools. Using the terminology of Leontiev [-@leontiev_activity_2009], participants undertakes certain chains of processes in a fluid way that shows that actions had become operations (as explored in chapter three). In vignette 4.x, an example of such an operation is Toby's quick navigation between different areas of the game code, the game preview window and other sources of documentation. In contrast, some tasks are new to Toby and are performed more hesitantly. In the vignette's description, it can be observed that at times Toby is careful and hesitant, checking and rechecking the process of copying and pasting new code into his game from the code example of a design pattern he has chosen.y. Toby embraces this mistake and shares his account of this happy accident enthusiastically.
+
+
+<!-- In the example above Toby progresses from playtesting his own game to altering it. The code to change the layout of the platforms of the game is already included in the starting template. Thus is able add a new platform by making simple code changes. Toby retests the game immediately by clicking on the preview element of the code environment.  -->
+
+<!-- However within that wider objective there may be a variety of goals depending on the participant. In this case Toby's goal is addresses the challenge and variety of the game playing experience. -->
+
+<!-- Toby builds his competence in the process of comparing the own code to the code example to work out what code is new and relevant to the desired behaviour. -->
+
+<!-- In the vignette of Toby's activity this wider objective is present in the facilitator orientation at the start which references this audience -  _the Monday after we can play our games and we can share them with students. We can make the students frustrated when they can’t beat our games_. At the end of the vignette text, one of the student helpers also imagines this audience playing the game of Toby.    -->
+
+
+
+#### Developing a collection of GDPs and code snippets
+
+These code examples allow users to see the behaviour in context with the code and output side by side. While code examples existed on the Phaser website and support forums, in line with other support sites like stack exchange, their utility
+
+<!-- The competency to overlook the concrete differences in code structure to abstract the principles away and to then apply those principles to the existing structure of their code project seemed too ambitious for this group of novices. -->
+
+<!-- Creating a bespoke set of code snippets helped address the challenges described above. In P1 I responded by creating one off documents with the relevant code which were both printed, emailed and shared via google drive. In line with the practice of accessing help via code snippets, the code examples could be to be copied and pasted into the game. This process lacked coherent process for participants to navigation to the resource they need. The process also lacked a consistency in signposting how the code listed fit within the existing structure.  -->
+
+<!-- a theory supported by observations of Toby's proficiency in the vignette above. -->
+
+<!-- As these tutorials took as a starting point the code of the starting template and did not attempt to explain that, they did not however resolve the issue of participants wanting resources that explained these core constructs and underlying concepts.
+
+I created opening chapters of the online manual which were more traditional in format and explained underlying concepts that the starting template had initially abstracted away from the participants.  -->
+
+<!-- To describe the relationship between the self-contained chapters described above and the process of backtracking to gain foundational knowledge, I used the term _meeting yourself in the middle_. In the supporting chapters this term represented the value of retracing initial steps as a way to explore the computing concepts present in the design. -->
+
+An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
+Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
+FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION.
+
+
+MOVE THIS TO THE NEXT BIT?
+Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Some trailblazing participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon by other learners and sometimes adopted via peer teaching.
+
+<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
+
+
+<!-- While time consuming, the process of aligning documentation, code snippets with more general concepts of game analysis, served to simplify the navigation of documentation.  -->
+
+IS THIS NEEDED?
+The guiding principle is that key affordances of the supporting secondary stimuli are designed to closely align with the objectives of leading activity at the predominant scope of activity.In the language of the theoretical framework, I explore the process of working with GPDs as a germ cell of the overall game making activity.
+
+
+### Not sure if useful
+
+#### Developing Digital Literacy skills / Fluency - OPERATIONS
+
+
+
+- MOVE TO CHAP 7 > AS A TACTIC TO PROMOTE AGENCY - A TENSION?
+
+
+The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
+
+Perhaps play paradox here? Not a tension but something to design for? And thus backgrounding the aspects of computational thinking in favour of a more accessible experience using authentic technology. A reflection as a facilitator.
+
+<!-- This tension can be described as a play paradox. WHERE IS THIS FIRST INTRODUCED I was looking to avoid too much time spent in asset creation at the expense of other processes which would develop coding concepts and practices. It also increased the possibility of peer learning as less tools were being used. -->
+
+
+### Tensions in tool use emerging between agency and authenticity
+
+IF THINGS ARE TO STAY IT MUST BE DIRECTLY RELEVANT TO AGENCY
+IF THIS IS REALLY NEEDED IT WOULD NEED TO BE IN LR
+
+
+The object of the coders
+
+
+In terms of authenticity of audience, participants make a shareable digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
+
+PERHAPS EXPLORE PLAYTESTING HERE AS AUTHENTICITY OF AUDIENCE.
+In addition, playtesting processes are authentic and often informed by existing real experience as game players.
+
+MOVE TO CHAPTER 7?
+These observations on authenticity and playtesting are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
+Playtesting is explored in more detail in relation agency in Chapter 7.
+
+
+There are examples of the authenticity of the audience being used by participants
+
+  - Suzanna uses the imagined audience to norm behaviour.
+  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+
+
+The use of code playgrounds and js? structured along design principles which align with affordance theory.
+
+THEREFORE - WHAT IS THE KEY POINT HERE?
+
+While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
+
+Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
+
+While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
+CROSSREFF -  list the benefits here.
+
+
+### OTHER DESIGN TENSIONS
+
+**Summary of barriers and tensions explored in this chapter**
+
+
+
+Different areas of contradictions between different elements in activity systems emerged in journal notes and retropective analysis of evolution of the design. Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
+
+I propose that more granular understanding of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+
+*Additional tensions to integrate*
+
+There's a tension of not wanting to jump in to teach CT concepts, or to force reflection on progress. Understandable not to want to interupt flow. It is not needed in terms of testing or curriculum here. This is an adaption where I project into the experience of participants and pick up on reluctance to step away from the ongoing coding and creative or playful tasks at hand. I adapted to end of session reflection on most sessions. I also did not draw attention to extra resources outlining formal frameworks. Although step by step instructions which did outline them in situ were available.
+Here I worked to remove barriers to accessing CT as a framework   via resource creation which aligned to experience. But their agency is expressed through disinterest and reluctance in participation. This transform conceptions of the activity as I give up CT as a framework which guides the objective. Instead using GDPS as one more aligned with their interests and need to develop fluency in non-conceptual coding practices.
+
+Also, the drama frame was able to address of of the tensions which emerge - but these are mention only in summary here as they are explored in more depth in discussion in chater six.
