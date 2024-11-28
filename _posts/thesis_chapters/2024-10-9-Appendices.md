@@ -76,55 +76,218 @@ title: 9. Appendices
 
 # Appendices
 
-**On Structure of Appendices**
+**On Structure of Appendices & Vignettes**
 
-Appendices are organised mainly by chapter. Thus AP 5.1 is is first mentioned in Chapter 5.
+Vignette are presented first and given a separate name based on when they appear in the thesis. In the interim before for a final appendix is completed they use descriptive names.
 
-There are some technical appendices as well.
-And some stand alone activities and resources which may link out to online resources when appropriate.
+Technical appendices follow. They contain some overlap with chapter material in order to be self contained. The
 
+Other Appendices will be organised by chapter. Thus AP 5.1 is is the first mentioned in Chapter 5. In the interim before for a final appendix is completed they use descriptive names.
 
+The following summary list of appendices my help orientate the reader.
 
-## Chapter Five
-
-
-### 5.dn - Expanded Design Narrative
+Unfortunately as some appendices and vignettes contain tables with merged table cells (not supported in pandoc) they are being created in a separate open office document.
 
 
-![Illustration 4.x - Broad Environmental Activity Systems  ](./Pictures/At_dia_3_v2.png){width=95%}
+**Vignettes**
+
+Contain extended transcription of discourse and when possible participant gestures.
+
+- Vignette.toby/1 :
+- Vignette.s&t/2 :
+- Vignette.f&m/3 :
+- Vignette.map/4 :
+- Vignette.reflection/5 :
+- Vignette.documentation/6 - Introducing documentation in drama frame
+
+**Technical Appendices**
+
+- App.T.tools - Summary of tool use by stage
+
+**Other Appendices**
+- App.5.dn - Expanded Design Narrative
+- 5.dn - Expanded Design Narrative
 
 
-The diagram is in line with Engestrom's concept of expansive learning via a shared object (explored in the chapter three) [@engestrom_expansive_2001]. In this research, I take the approach of treating this shared object as an activity system in its own right. Lecusay [@lecusay_telementoring_2015] applies a similar approach when describing an adaption to an after school program. He describes the shared object as an idiocultural hybrid which develops into its own activity system.
-DEVELOP
-
-### Shared object as GDP move to Ch 5
-
-Chapter five contains more detail on the emergence of game design patterns as shared concepts and the implications for activity in more depth.
-
-Game design patterns emerged as a shared object as described by Engestrom in []. The object of activity here is not only the code and game assets which participants are working on. In addition the emerging concept and group understanding of the game design pattern becomes a share understanding on a community level as playtesing, pair work and peer help happens.
-
-![Illustration 4.x - Shared object of implementing GDP  ](./Pictures/At_dia_4_v1.png){width=95%}
+## Vignettes
 
 
-#### P1 narrative
+### 5.toby - Vignette illustrative of Toby's on screen game making activity and social interaction
+The vignette has been  moved to a open office document - allvignettes.odt
 
-There are a million ways to start a conversation and probably just as many to getting the process of designing and making a game using of code underway as well.
+https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
 
-The choice of which tensions to address stem form the changes to the learning design, tracing back through design journals and session reflection notes to trace the rationale driving the changes.
-
-But this aspect was promising but lacked a structured exploration in sessions in a way which conveyed the limits of what our projects could achieve technically.
-
-This is partly as I did not want to start with code that might alienate, but also as my own game coding skills were also being tested to their limits at this point also and I was working hard to introduce coding at a suitable level.
-
-While activity theory has a broad definition of the concept of tool which would include the use of language, concepts, supporting resources and production processes, this section focuses on software tools and code framework used to create games in this program.
-
-I had experience of teaching web coding but limited knowledge of how to code games.
-
-Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
+### 5.f&m - Vignette illustrative of S and O activity
+The vignette has been  moved to a open office document - allvignettes.odt
+https://docs.google.com/document/d/1wLx8j9djYqJdZHwKJ09mmIDMYO7YqlMDhuHx2hiqpJI/edit?tab=t.0
 
 
-In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges. To counter this I adapted the starting game template to allow changes in code were relatively easy to perform but which resulted in potentially large changes in game behaviour and appearance.
+### Vignette.fok - Around Molly and Nadine
 
+## Technical Appendix
+
+### Tools used in different phases of activity
+
+### Appendix 5.tech  - Summary of the tools and processes used in P1, P2 and P3.
+
+#### Description of tools used
+
+- Piskel - a graphical editor used to create pixel art sprite characters;
+- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
+- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
+- Sonic Pi - an education music application allowing the creation of music using text coding;
+- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
+- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
+
+#### Description of types of activities involved in game making and the tools used to do them
+Table - or short entries with screenshots.
+
+Phaser 2.6.2 javascript library
+Glitch code playground
+Incomplete game template
+Print out of cards with simple coding missions
+Online graphics editor Piskel.
+Audio editors, audacity,
+Updated incomplete game template
+Piskel online graphics editor
+Step by step tutorials on FLOSS manuals
+Drama scenario
+Interactive chat page in glitch
+
+
+**Mapping skills used.**
+See this attempt at a map of skills used in P1 - very extensive but not the focus of this study.
+
+
+https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
+
+### Appendix.tech.gameframework - Framework to support game analysis via game elements -
+
+Include also the powerpoint sheet or link to it.
+Perhaps a completed one with children's writing on it.
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+---
+
+As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
+
+**GOAL:** What is the objective of the game? What are you trying to do?
+**COMPONENTS:** What are all the objects or actors in the game?
+**MECHANICS:** What actions take place in the game. What are the verbs involved?
+**RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
+
+Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
+
+---
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+
+
+### Appendix.tech.learningmap - Learning Dimensions Map
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Sequences | Systems Elements      | Goal Setting        |
+| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Loops | Balancing Feedback Loops      | Web Navigation    |
+| Arrays |       | Problem Solving        |
+| Creating Functions |       | Version Control    |
+| Change Listener |    | Debugging   |
+| Input Event |   | Reusing and Remixing      |
+
+Table 1.1. Learning Dimensions of the 3M Game Making Model
+
+
+### Design decisions in the technical decisions of the template design in P2
+
+#### Using Phaser 2 not 3
+
+The process of using JavaScript was challenging. At one stage I contacted a developer of JS who had written a tutorial for Mozilla. Her response was why use JS over scratch, and why not use Phaser 3.
+
+Removing the use of this where possible, thus making a design error of using global variables.
+
+Not using latest Phaser 3, to the object structure needed.
+Compare the creating a world statement of the two libraries.
+
+Adding in a state based system to allow for a game over screen,
+The experience of S and J - to change the code structure to do this was jarring.
+
+Creating the project from first principles is relatively complex both semantically and practically.
+
+In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
+While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
+
+Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
+
+![](./Pictures/overview_of_structure_cropped.png){width=55%}
+
+4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
+
+
+##### Email on list for P1
+
+Hi there,
+
+Great session this week!
+
+We didn't get on to phaser this week but here are some games to remix in
+phaser and the tutorials
+
+You could try a similar approach to the one we did in scratch, upload
+our own images from piskel to replace the ones here.
+
+
+Phaser Platform Game Tutorial from Richard and Alvin
+https://thimbleprojects.org/piratepete/334344/
+tutorial
+https://phaser.io/tutorials/making-your-first-phaser-2-game/
+
+
+#####
+
+Original source of grid template
+https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
+
+
+Phaser tutorial
+https://phaser.io/tutorials/making-your-first-phaser-2-game/
+https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
+
+
+
+
+
+##### Template structure and asset placement - Add in Chapter tutorial example extract here too
+
+In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
+
+Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
+
+**Grid structure for graphical assets**
+I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
+
+
+## Other appendices
+
+
+### Additional design narrative for P1
+
+As my ex-neighbour Barry once said to me after hearing someone verbally assault me in a our estate's community garden, _there are a million ways to start a conversation_. There are probably just as many to start the process of designing and making a game using code as well. This section augments the brief narrative of P1 in Chapter 5 outline my motivations and observations driving learning design decisions.  
+
+I did not want to start with coding processes that might alienate, but also as my own game coding skills were also being tested to their limits at this point also and I was working hard to introduce coding at a suitable level.
+I had experience of teaching web coding but limited knowledge of how to code games. Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
+
+Thus for initial weeks I engaged with the following activities.
+
+##  Additional design narrative for P1
+
+
+In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges.
+
+Chapter 5 outlines how this culminated in a crisis which involved me reaching out to parents for help in the organisation of the game making sessions via the  following email.
 
 
 #### Never mind the bees. I need your help too!
@@ -163,28 +326,175 @@ ps: I guess the challenge is to do this so that it’s a map, with different lea
 So supporting autonomous learning but also team work.
 
 
-#### Emerging ideas in playtesting
+### Appendix 5.x  - Feedback from P1 participants (extracts)
 
-Sharing of ideas and inspiration did happen both on the playtesting (explored later and more extensively Chapter 7) of each others games and via incidental exposure to the online graphical creations of others via a shared account to Piskel.
-
-
-
-#### On Template / Documentation use
-
-Other parents requested additional supporting resources which explained the coding structures used in accessible but detailed ways. A request which hinted at a more structured, instruction based approach.
+This is included to show evidence of the emergent process and that the direction of the program was influenced by participants input.
 
 
-In addition, my own motivations to explore research claims which on the engagement value of prioritising modifications to for quick impact on the game and on allowing participants choose over what they wanted to add to their game next.
+**End of course evaluation at show case for  P 1.**
+
+Find extracts from here
+https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
+
+**Journal Notes from P1**
+
+Find extract from my journal notes for P1 period
 
 
-##### Template structure and asset placement - Add in Chapter tutorial example extract here too
 
-In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
 
-Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
+### Appendix.map  - Dialogue of use of physical maps at the start of session X
 
-**Grid structure for graphical assets**
-I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
+MOVE TO APPENDIX  - PULL OUT TWO PERHAPS.
+
+| **Transcript**| **Description**|
+|----------------|------------------|
+|Mick(f): I'm putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I'm going to put that one over there in the corner, if that's one that you're working on.  | Mick cuts a out an image from [^4] representing a GDP of key and doors.   |
+|  Olivia(c): So I've gone really far away on the map. <br/>   |  Olivia(c) quickly places her marker on that image and grins. Other parents and children to the right and left of her look at her marker.  |
+| Mick(f): Yeah.  |  Mick smiles too whilst walking to get and glue another cut out. |
+|  Olivia(c): Heh!  | Olivia walks back to her mother and stretches out her arms to her mother who picks her up. Olivia whispers in her mother's ear  |
+| Mick(f): There should be some blue tack if you are struggling to make your character stand up.   | Mick walks around the back of the group and sticks another GDP pattern on a different pre-drawn island.  Roxanne(p) notices Agnes's(c) falling character and passes the child blue tack to help.  |
+| Rozanne(p): Oh that's something you were wanting to do |  Roxanne points at a cut out that Mick has just stuck down |
+|  Richie(c): I like the idea of making the enemies move |  |
+|Roxanne(p): Ok, there's a worksheet here about that. So you don't want to any any heath meter? |   |   
+|  Richie(c): No. |   |
+|  Roxanne(p): At least not right now. You want to to do this, on a sheet, right here, here you go.  | Roxanne  waves sheet and smiles at Mick and laughs.   |
+|  Mick(f): Great that's good. We've got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move  when it moves around the screen.  | Mick moves hands when saying make your character move, indicating animation.   |
+|  Mick(f): Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that.  | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate "you guys".  
+|
+
+
+#### Vignette.reflection  - Session reflections and secret missions in P3
+
+This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
+
+In my journal notes for phases prior to using the drama process, I documented that the occasional end of session debriefs as _go-rounds_ had limited success in terms of amount and quality of participation compared to these sessions. The video and audio recordings document rich feedback from individuals and pair teams, near complete participation and productive elements of interaction as the feedback progresses.
+
+In previous iterations, my omission of end-reflection in sessions stemmed fomr a lack of time in sessions and reluctance to shift learners away from making activities to reflective activities. I found the need to maintain the drama narrative served as a high motivation factor to complete reflection activities.
+
+To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
+
+The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.
+
+
+> Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
+organiser
+
+<!-- ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%} -->
+
+> Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the Weean have sent us the code we need for basically dropping stuff.
+
+> Mark: The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain time frame or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t look like we’ve got any where but we have. (Mark laughs and others follow). So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
+
+> Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
+
+> Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
+
+> Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean. So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
+
+
+> (Mick reads out the following extract the organiser screen containting a text chat with the fictional alien audience)
+
+> Ed: Weean what’s it like up there?
+
+> Weean: It’s cold and very big but quite tranquil.
+
+> Ed: What is your name?
+
+> Weean: We are are the Weean we have no name, we are all the same.
+
+> Ed:  That must be hard at xmas. (Mark and others laugh and smile.)
+
+> Weean: It is. It sure is.
+
+![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
+
+>Mark: That’s tickled me that.
+
+> Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
+(Laughs from all)
+
+> Nadine: I’ve not really done much today as I was busy doing stuff with Toby’s
+
+> Dan:  We noticed.
+
+> Nadine: We’ll I’ve changed the platform a bit.
+
+> Molly : You had a secret mission though didn’t you?
+
+> Nadine: Oh my secret mission was to change someone’s game, their character  or something and see if they noticed. And I think they did notice.
+
+> Dan: We did. We did notice.
+
+> Molly : You couldn’t not notice.
+
+> Mick: It feels like you took the spirit of the mischievous thing and just turned up the volume.
+(All laugh.)
+
+> Molly: Sprite!
+
+> Mark: We also had a secret mission.
+
+> Mick: What was that?
+
+> Mark: Ours was to change the sound on somebodies game.
+
+> Nadine: Oh was it?
+
+> Mark: Did you notice?
+
+> Molly: Did you notice?
+
+> Nadine: No (laughing)
+(Incomprehensible many people talking or laughing at same time)
+
+> Mark: Play it now!
+
+> Richie: You definitely noticed. (Points to Mark and Ed) You definitely noticed my bit.
+
+> (Nadine  goes to the keyboard and starts to play her game)
+
+> Nadine: I can’t hear anything different
+(Everyone laughs)
+
+> Mark: I thought you were going to go- Aaahgh! But you didn’t say anything.
+
+> Mick: So that’s interesting. some people notice some people didn’t.
+
+
+#### Commentary on Vignette.reflection
+
+### Vignette.documentation - Introducing documentation in drama frame
+
+> Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
+
+> One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
+So what they suggested is. why don’t I put it so there’s a link so right to the chapter for how to do it right next to that image.
+So that makes sense really so I’m going to to do that.
+
+> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+> Molly: So just insert it somewhere.
+
+> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
+
+> Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
+And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
+
+> So, I’m going to now leave it to you guys. What do you want your game to be about? What are your characters going to be?
+What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
+
+
+
+
 
 
 #### Developing a collection of GDPs and code sni
@@ -381,8 +691,6 @@ Also, the drama frame was able to address of of the tensions which emerge - but 
 
 One family in P1 chose not to continue with most other families after the Xmas break.
 
-
-
 Members of this family had engaged in planning on paper and in particularly in creating pixel art, however tensions began to emerge when the introduced code framework framework did not support the desired features of one child. The feature they wanted to add to the game was bee design roaming a 3D landscape.  
 
 When the family withdrew, they shared in feedback (see appendix 4.x) that at one point the family looked around and just saw people doing "hardcore coding" and no longer felt that they belonged".
@@ -424,11 +732,7 @@ That week I had omitted them as I felt a sense of urgency coming from families t
 <!-- In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding. -->
 
 
-### 5.X - Vignette illustrative of Toby's on screen game making activity and social interaction
 
-The vignette is included as a principle appendix.
-
-https://docs.google.com/document/d/1vYeVxYaRMTWPDOHwC4DEGYAkGPRIDX7wLiz0l8b7LWc/edit
 
 
 #### Additional commentary and analysis of Toby's vignette
@@ -486,7 +790,7 @@ The participants have entered the room and chosen a laptop to work on. Some of t
 And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of each session as well. That’s our mission.
 
 
-#### Vignette 5.makertypes
+#### Appendix 7.makertypes
 
 
 
@@ -514,105 +818,6 @@ After the process of playing a game I shared my proposition that there different
 
 I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
 
-#### Vignette 5.1.b - Session reflections and secret missions in P3
-
-This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
-
-In my journal notes for phases prior to using the drama process, I documented that the occasional end of session debriefs as _go-rounds_ had limited success in terms of amount and quality of participation compared to these sessions. The video and audio recordings document rich feedback from individuals and pair teams, near complete participation and productive elements of interaction as the feedback progresses.
-
-In previous iterations, my omission of end-reflection in sessions stemmed fomr a lack of time in sessions and reluctance to shift learners away from making activities to reflective activities. I found the need to maintain the drama narrative served as a high motivation factor to complete reflection activities.
-
-To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
-
-The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.
-
-
-> Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
-organiser
-
-<!-- ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%} -->
-
-> Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the Weean have sent us the code we need for basically dropping stuff.
-
-> Mark: The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain time frame or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t look like we’ve got any where but we have. (Mark laughs and others follow). So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
-
-> Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
-
-> Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
-
-> Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean. So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
-
-
-> (Mick reads out the following extract the organiser screen containting a text chat with the fictional alien audience)
-
-> Ed: Weean what’s it like up there?
-
-> Weean: It’s cold and very big but quite tranquil.
-
-> Ed: What is your name?
-
-> Weean: We are are the Weean we have no name, we are all the same.
-
-> Ed:  That must be hard at xmas. (Mark and others laugh and smile.)
-
-> Weean: It is. It sure is.
-
-![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
-
->Mark: That’s tickled me that.
-
-> Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
-(Laughs from all)
-
-> Nadine: I’ve not really done much today as I was busy doing stuff with Toby’s
-
-> Dan:  We noticed.
-
-> Nadine: We’ll I’ve changed the platform a bit.
-
-> Molly : You had a secret mission though didn’t you?
-
-> Nadine: Oh my secret mission was to change someone’s game, their character  or something and see if they noticed. And I think they did notice.
-
-> Dan: We did. We did notice.
-
-> Molly : You couldn’t not notice.
-
-> Mick: It feels like you took the spirit of the mischievous thing and just turned up the volume.
-(All laugh.)
-
-> Molly: Sprite!
-
-> Mark: We also had a secret mission.
-
-> Mick: What was that?
-
-> Mark: Ours was to change the sound on somebodies game.
-
-> Nadine: Oh was it?
-
-> Mark: Did you notice?
-
-> Molly: Did you notice?
-
-> Nadine: No (laughing)
-(Incomprehensible many people talking or laughing at same time)
-
-> Mark: Play it now!
-
-> Richie: You definitely noticed. (Points to Mark and Ed) You definitely noticed my bit.
-
-> (Nadine  goes to the keyboard and starts to play her game)
-
-> Nadine: I can’t hear anything different
-(Everyone laughs)
-
-> Mark: I thought you were going to go- Aaahgh! But you didn’t say anything.
-
-> Mick: So that’s interesting. some people notice some people didn’t.
-
-
-### Commentary on Vignette 5.1.b
 
 
 #### Commentary on side missions
@@ -666,300 +871,8 @@ This chat began to fulfil a function of building  insider rapport, creating a fu
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
 
 
-### APP 5.x - Learning Dimensions Map
 
-|      Coding Concepts    | Systems Patterns    | Design Practices|
-|--------------|-----------|------------|
-| Sequences | Systems Elements      | Goal Setting        |
-| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
-| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
-| Loops | Balancing Feedback Loops      | Web Navigation    |
-| Arrays |       | Problem Solving        |
-| Creating Functions |       | Version Control    |
-| Change Listener |    | Debugging   |
-| Input Event |   | Reusing and Remixing      |
 
-Table 1.1. Learning Dimensions of the 3M Game Making Model
-
-
-
-### Appendix 5.tech  - Summary of the tools and processes used in P1, P2 and P3.
-
-See this attempt at a map
-https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
-
-
-Table - or short entries with screenshots.
-
-Phaser 2.6.2 javascript library
-Glitch code playground
-Incomplete game template
-Print out of cards with simple coding missions
-Online graphics editor Piskel.
-Audio editors, audacity,
-Updated incomplete game template
-Piskel online graphics editor
-Step by step tutorials on FLOSS manuals
-Drama scenario
-Interactive chat page in glitch
-
-
-
-#### Description of tools used
-
-- Piskel - a graphical editor used to create pixel art sprite characters;
-- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
-- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
-- Sonic Pi - an education music application allowing the creation of music using text coding;
-- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
-- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
-
-#### Evolution of coding decisions made  
-
-##### Design decisions
-
-Removing the use of this where possible, thus making a design error of using global variables.
-
-Not using latest Phaser 3, to the object structure needed.
-Compare the creating a world statement of the two libraries.
-
-Adding in a state based system to allow for a game over screen,
-The experience of S and J - to change the code structure to do this was jarring.
-
-Creating the project from first principles is relatively complex both semantically and practically. In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
-While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
-
-Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
-
-![](./Pictures/overview_of_structure_cropped.png){width=55%}
-
-4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
-
-
-
-
-
-##### Email on list for P1
-
-Hi there,
-
-Great session this week!
-
-We didn't get on to phaser this week but here are some games to remix in
-phaser and the tutorials
-
-You could try a similar approach to the one we did in scratch, upload
-our own images from piskel to replace the ones here.
-
-
-Phaser Platform Game Tutorial from Richard and Alvin
-https://thimbleprojects.org/piratepete/334344/
-tutorial
-https://phaser.io/tutorials/making-your-first-phaser-2-game/
-
-
-#####
-
-Original source of grid template
-https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
-
-
-Phaser tutorial
-https://phaser.io/tutorials/making-your-first-phaser-2-game/
-https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
-
-
-### Appendix 5.x  - Feedback from P1 participants (extracts)
-
-This is included to show evidence of the emergent process and that the direction of the program was influenced by participants input.
-
-
-**End of course evaluation at show case for  P 1.**
-
-Find extracts from here
-https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
-
-**Journal Notes from P1**
-
-Find extract from my journal notes for P1 period
-
-
-### Appendix 5.x  - Dialogue of use of physical maps at the start of session X
-
-MOVE TO APPENDIX  - PULL OUT TWO PERHAPS.
-
-| **Transcript**| **Description**|
-|----------------|------------------|
-|Mick(f): I'm putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I'm going to put that one over there in the corner, if that's one that you're working on.  | Mick cuts a out an image from [^4] representing a GDP of key and doors.   |
-|  Olivia(c): So I've gone really far away on the map. <br/>   |  Olivia(c) quickly places her marker on that image and grins. Other parents and children to the right and left of her look at her marker.  |
-| Mick(f): Yeah.  |  Mick smiles too whilst walking to get and glue another cut out. |
-|  Olivia(c): Heh!  | Olivia walks back to her mother and stretches out her arms to her mother who picks her up. Olivia whispers in her mother's ear  |
-| Mick(f): There should be some blue tack if you are struggling to make your character stand up.   | Mick walks around the back of the group and sticks another GDP pattern on a different pre-drawn island.  Roxanne(p) notices Agnes's(c) falling character and passes the child blue tack to help.  |
-| Rozanne(p): Oh that's something you were wanting to do |  Roxanne points at a cut out that Mick has just stuck down |
-|  Richie(c): I like the idea of making the enemies move |  |
-|Roxanne(p): Ok, there's a worksheet here about that. So you don't want to any any heath meter? |   |   
-|  Richie(c): No. |   |
-|  Roxanne(p): At least not right now. You want to to do this, on a sheet, right here, here you go.  | Roxanne  waves sheet and smiles at Mick and laughs.   |
-|  Mick(f): Great that's good. We've got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move  when it moves around the screen.  | Mick moves hands when saying make your character move, indicating animation.   |
-|  Mick(f): Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that.  | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate "you guys".  
-|
-
-
-### Appendix 5.x - Introducing documentation in drama frame
-
-> Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
-
-> One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
-So what they suggested is. why don’t I put it so there’s a link so right to the chapter for how to do it right next to that image.
-So that makes sense really so I’m going to to do that.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
-So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
-
-> Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
-And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
-
-> So, I’m going to now leave it to you guys. What do you want your game to be about? What are your characters going to be?
-What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
-
-
-
-
-### Appendix 5.x  - Specialism emerging in interaction  between Molly and Nadine
-
-Molly continues to do solo design using the Piskel graphical too. She encounters a design problem. When erasing a part of the design she gets rid of background colour. Mi asks for help from partner but receives misleading advice which does not help her progress.
-
-Molly:  Oh no it’s not done that has it?
-
-Molly calls the name of her child across room with theatrical gesture and loud whisper voice
-Molly: “Nadine!”
-Molly then makes face, wiggles head and shrugs at parent peer. The other parent laughs.
-Nadine arrives to help.
-Molly: I’m trying to delete them but they turn light grey.
-Nadine: So you want to get rid of them?
-Molly: What are you doing? You have to tell me what you are doing so I can do it myself.
-Molly: laughs
-Nadine: laughs.
-Molly: I’ll just have to keep shouting at you if you don’t tell me.  
-Nadine uses the mouse to select the grey background colour with the colour picker tool, then the pen tool to fill in gaps in the design. She then swaps the active colour back from grey to black by clicking the option to swap foreground and background colours.
-Molly: How did you do that so quickly? I’ve got to like, carefully... (makes hand gestures to show a sense of hesitant keyboard use)
-Parent peer laughs
-Nadine bounces up in place and smiles broadly.
-Molly: Thanks
-Molly: So am I like back with the black now?  
-Nadine: Yeah but if you want to delete it just press X (which switches between foreground and background colours) and then do it.
-Molly: Oh X. Alright Bubs. Thanks.
-
-
-### Appendix 5.x  - Extract of interaction between Molly and Sonia - Home interests and Identities
-
-Sonia:  That's Good!
-Molly: Oh do you like it?
-Sonia: Yeah
-Molly: Thank you. I'm very proud of it. Concentrated extremely hard. The thing is, you can get quite consumed doing things like this can't you?
-Sonia: Yeah
-Molly: That's the problem at home I get a bit kind of lost. I can't get the knack of some things. It takes me so long to get it. I'm like  so excited.   
-- Both laugh.
-Sonia: So are you going to do bits at home? When the kids are..
-Molly: I tried and I lost it all. And you know when you just completely... And even Ne didn't know so I just ... what a shame..  hours .... (Laughs)
-
-Molly: Lost time. Never mind.  We live and we learn.   
-
-Molly: We’re finished. Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there don’t I? Without losing it I’ll be very upset.
-Sonia:– Have you saved it?
-Molly:– No I’ve not saved it.
-Sonia:– Save there. (points to relevant button on screen)
-
-
-### Appendix 5.x  - Interview extract -  Mark and Ed working with home interests
-
-Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
-Ma - Oh, definitely. Yeah.
-Mick: Let's ask Fi that as well.
-Mark: Yeah.
-Mick: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
-Ed: Yeah. The Fireman.
-Mark: Yeah, well, tell us about that game. Tell about your interests and stuff?
-Ed: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.
-....
-Mark: What is your aspiration for your life?
-Ed: I wanna be a fireman (on a steam train).
-...
-Ed: I really like trains, since like I was very, very young.
-
-Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
-Mark: I think it excited you to have to build a fireman sprite? Is that right?
-Ed: Yeah.
-Mark: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
-Ed:  Yeah.
-Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
-
-
-
-### Appendix 5.x -  2019-05-08-te-da pt 1 - Transcript of interaction between Dan and Toby
-
-Dan: Have you thought about pushing it a bit further and have a different style of game?
-Toby: What do you mean?
-Da: Well the previous style of game was a platform (makes shape with hands) game wasn’t it? You went along and there was gravity pushing down (points down). There are other types of games aren’t there?
-Te: Pause. I don’t know what to do thought.
-Da: Well quite but what other games are there?
-Te: I don’t know er.
-Da: Well I tell you what .. muffled.
-Te: Erm - (navigates to list of GDP for platform game)
-De: So. You played them before didn’t you (indicating grid of games )
-Te: What do you mean?
-Da: The flying game that’s a different kind of game
-Te: Oh like kind of like moving along kind of thing
-Da: Yeah and those where. There are games where you are in a world and you have to move around the world like pac-man (points down and moves an imaginary character around),
-Te: nod
-Da: There are games where things drop down like Tetris
-Te: … game. You could have a game where every 15 seconds 10 seconds you could add and enemy to such and such a random number between such and such (holds up hands to indicate parameters). You could block it somewhere.
-Da: So instead of.. instead of the world… the world being sideways. We could have the world being looked down on. (reindicates the change of perspective)
-Te: Hmm. How should I do this then?
-Da: That’s a good question. Shall we ask Mick to see if that would mess things up or not?  
-Te: Mick
-Mick: Hi ya.
-Te: Erm. Thinking about what game to do . I was thinking can we make like a pacman game kind of thing (indicates movement of character with hands)
-Da: If we had an on the top game rather than a platform game
-Mick: I think it could work. You could kind of adapt that game by kind of removing gravity.
-Da: and see what happens?
-Mick: and see what happens.
-Da: It’s not a bad starting idea is it?
-Te: I suppose make a new one (begins the process of remixing game from the template)
-
-
-### Appendix 4.R.x - Framework to support game analysis via game elements - IS THIS ALREADY INCLUDED?
-
-Include also the powerpoint sheet or link to it.
-
-Extract from Game Jam Guide [@cornish_game_2018]
-
----
-
-As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
-
-**SPACE:** Where the game takes place.
-**GOAL:** What is the objective of the game? What are you trying to do?
-**COMPONENTS:** What are all the objects or actors in the game?
-**MECHANICS:** What actions take place in the game. What are the verbs involved?
-**RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
-
-Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
-
----
-
-Extract from Game Jam Guide [@cornish_game_2018]
 
 
 ### Appendix 5.R.x - Sketching towards a map to help navigation.
@@ -978,18 +891,7 @@ The process of sketching, revising and re-sketching the elements led me to conne
 
 
 
-### Appendix 5.x  - Community norming in playtesting - DROP THIS ONE PERHAPS
 
-Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-Mick: How are you getting on Mi? It's looking good.
-Mick: (Noting frustrated air of Mi) Have you made it too hard?
-Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-Mick: So it look like you bump your head and fall down.
-Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-Mi: Oh right yeah.direct
-Mick: Yeah.
-Mi: Yeah, actually that's a good idea.
-Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometime
 
 
 ## Technical Appendices
@@ -1004,26 +906,10 @@ Game states and functions to create the game loop (see glossary) are included na
 
 4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
 
-## Holding Zone
-
-### Discussion on Player types - moved from chapter 6
-
-DATA REQUIRED FROM VIDEO!?
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-Below I outline how I designed to encourage this behaviour.
-
-My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990].
-
-I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-Limits of discussion findings - what to put in
 
 
-### ?? Summary of interactive Bartle test - IS THIS NEEDED?
+
+### Appendix.bartle -  Summary of interactive Bartle test
 
 As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
 
@@ -1066,3 +952,48 @@ in open world games are used in part to appeal to different kinds of players [@b
  -->
 
 <!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
+
+
+## Unplaced - but needed.
+
+place here
+
+## Perhaps delete?
+
+place here
+
+### Appendix 5.x  - Community norming in playtesting - DROP THIS ONE PERHAPS
+
+Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
+Mick: How are you getting on Mi? It's looking good.
+Mick: (Noting frustrated air of Mi) Have you made it too hard?
+Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
+Mick: So it look like you bump your head and fall down.
+Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
+Mi: Oh right yeah.direct
+Mick: Yeah.
+Mi: Yeah, actually that's a good idea.
+Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometime
+
+### 5.dn - Expanded Design Narrative
+
+
+![Illustration 4.x - Broad Environmental Activity Systems  ](./Pictures/At_dia_3_v2.png){width=95%}
+The diagram is in line with Engestrom's concept of expansive learning via a shared object (explored in the chapter three) [@engestrom_expansive_2001]. In this research, I take the approach of treating this shared object as an activity system in its own right. Lecusay [@lecusay_telementoring_2015] applies a similar approach when describing an adaption to an after school program. He describes the shared object as an idiocultural hybrid which develops into its own activity system.
+DEVELOP
+
+### Shared object as GDP move to Ch 5
+
+Chapter five contains more detail on the emergence of game design patterns as shared concepts and the implications for activity in more depth.
+
+Game design patterns emerged as a shared object as described by Engestrom in []. The object of activity here is not only the code and game assets which participants are working on. In addition the emerging concept and group understanding of the game design pattern becomes a share understanding on a community level as playtesing, pair work and peer help happens.
+
+![Illustration 4.x - Shared object of implementing GDP  ](./Pictures/At_dia_4_v1.png){width=95%}
+
+
+#### On Template / Documentation use
+
+Other parents requested additional supporting resources which explained the coding structures used in accessible but detailed ways. A request which hinted at a more structured, instruction based approach.
+
+
+In addition, my own motivations to explore research claims which on the engagement value of prioritising modifications to for quick impact on the game and on allowing participants choose over what they wanted to add to their game next.
