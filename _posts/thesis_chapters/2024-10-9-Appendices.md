@@ -10,6 +10,101 @@ categories: chapter
 title: 9. Appendices
 ---
 
+-   [Appendices](#appendices)
+    -   [Appendices with research
+        outputs](#appendices-with-research-outputs)
+        -   [Appendix.tech.learningmap - Learning Dimensions
+            Map](#appendix.tech.learningmap---learning-dimensions-map)
+    -   [Other appendices](#other-appendices)
+        -   [Additional design narrative for
+            P1](#additional-design-narrative-for-p1)
+            -   [Never mind the bees. I need your help
+                too!](#never-mind-the-bees.-i-need-your-help-too)
+        -   [Appendix.5.bee - Contextual Vignette on the conflict
+            experienced by one family & the 3D
+            Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
+        -   [Appendix.feedback - Feedback from P1 participants
+            (extracts)](#appendix.feedback---feedback-from-p1-participants-extracts)
+        -   [Appendix.map - Dialogue of use of physical maps at the
+            start of session
+            X](#appendix.map---dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
+            -   [Vignette.reflection - Session reflections and secret
+                missions in
+                P3](#vignette.reflection---session-reflections-and-secret-missions-in-p3)
+            -   [Commentary on
+                Vignette.reflection](#commentary-on-vignette.reflection)
+        -   [Vignette.documentation - Introducing documentation in drama
+            frame](#vignette.documentation---introducing-documentation-in-drama-frame)
+        -   [Appendix.themeing - Themeing
+            GDPs](#appendix.themeing---themeing-gdps)
+            -   [Appendix 5.R.x - Sketching towards a map to help
+                navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
+        -   [Appendix.alien - Transcription of the introducing a drama
+            process in
+            P3](#appendix.alien---transcription-of-the-introducing-a-drama-process-in-p3)
+            -   [Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT
+                ABOUT CHAPTER
+                7](#appendix-7.makertypes---duplicated-later---also-what-about-chapter-7)
+            -   [What kind of Maker are you - Motivations behind social
+                processes (emerging in
+                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
+            -   [Commentary on side
+                missions](#commentary-on-side-missions)
+        -   [Appendix.drama - Drama process
+            -](#appendix.drama---drama-process--)
+            -   [Exploring documentation and accessing technical help
+                within the drama
+                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
+            -   [Playful dialogue with the aliens unrelated to game
+                making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
+        -   [Appendix.bartle - Summary of interactive Bartle
+            test](#appendix.bartle---summary-of-interactive-bartle-test)
+    -   [Technical Appendix](#technical-appendix)
+        -   [Tools used in different phases of
+            activity](#tools-used-in-different-phases-of-activity)
+        -   [Appendix 5.tech - Summary of the tools and processes used
+            in P1, P2 and
+            P3.](#appendix-5.tech---summary-of-the-tools-and-processes-used-in-p1-p2-and-p3.)
+            -   [Description of tools used](#description-of-tools-used)
+            -   [Description of types of activities involved in game
+                making and the tools used to do
+                them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+        -   [Appendix.tech.gameframework - Framework to support game
+            analysis via game elements
+            -](#appendix.tech.gameframework---framework-to-support-game-analysis-via-game-elements--)
+        -   [Design decisions in the technical decisions of the template
+            design in
+            P2](#design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
+            -   [Using a structural
+                template](#using-a-structural-template)
+            -   [Summary of motivations and sources of P2
+                template](#summary-of-motivations-and-sources-of-p2-template)
+            -   [Using Phaser 2 not 3 & Game
+                States](#using-phaser-2-not-3-game-states)
+    -   [Unplaced - but needed.](#unplaced---but-needed.)
+    -   [Perhaps delete?](#perhaps-delete)
+        -   [Appendix 5.x - Community norming in playtesting - DROP THIS
+            ONE
+            PERHAPS](#appendix-5.x---community-norming-in-playtesting---drop-this-one-perhaps)
+        -   [5.dn - Expanded Design
+            Narrative](#dn---expanded-design-narrative)
+        -   [Shared object as GDP move to Ch
+            5](#shared-object-as-gdp-move-to-ch-5)
+            -   [On Template / Documentation
+                use](#on-template-documentation-use)
+            -   [Email on list for P1 - regarding the use of a
+                template](#email-on-list-for-p1---regarding-the-use-of-a-template)
+            -   [Additional commentary and analysis of Toby's vignette -
+                MOVE TO EXTERNAL
+                DOCUMENT](#additional-commentary-and-analysis-of-tobys-vignette---move-to-external-document)
+            -   [Developing a collection of GDPs and code
+                snippets](#developing-a-collection-of-gdps-and-code-snippets)
+        -   [Not sure if useful](#not-sure-if-useful)
+            -   [Developing Digital Literacy skills / Fluency -
+                OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
+        -   [Tensions in tool use emerging between agency and
+            authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
+        -   [OTHER DESIGN TENSIONS](#other-design-tensions)
 
 
 # Appendices
@@ -71,165 +166,6 @@ Contain extended transcription of discourse and when possible participant gestur
 
 Table 1.1. Learning Dimensions of the 3M Game Making Model
 
-
-## Technical Appendix
-
-### Tools used in different phases of activity
-
-### Appendix 5.tech  - Summary of the tools and processes used in P1, P2 and P3.
-
-#### Description of tools used
-
-- Piskel - a graphical editor used to create pixel art sprite characters;
-- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
-- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
-- Sonic Pi - an education music application allowing the creation of music using text coding;
-- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
-- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
-
-#### Description of types of activities involved in game making and the tools used to do them
-Table - or short entries with screenshots.
-
-Phaser 2.6.2 javascript library
-Glitch code playground
-Incomplete game template
-Print out of cards with simple coding missions
-Online graphics editor Piskel.
-Audio editors, audacity,
-Updated incomplete game template
-Piskel online graphics editor
-Step by step tutorials on FLOSS manuals
-Drama scenario
-Interactive chat page in glitch
-
-
-**Mapping skills used.**
-See this attempt at a map of skills used in P1 - very extensive but not the focus of this study.
-
-
-https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
-
-### Appendix.tech.gameframework - Framework to support game analysis via game elements -
-
-Include also the powerpoint sheet or link to it.
-Perhaps a completed one with children's writing on it.
-
-Extract from Game Jam Guide [@cornish_game_2018]
-
----
-
-As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
-
-**GOAL:** What is the objective of the game? What are you trying to do?
-**COMPONENTS:** What are all the objects or actors in the game?
-**MECHANICS:** What actions take place in the game. What are the verbs involved?
-**RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
-
-Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
-
----
-
-Extract from Game Jam Guide [@cornish_game_2018]
-
-
-
-
-
-### Design decisions in the technical decisions of the template design in P2
-
-#### Using a structural template
-
-**Not creating from first principles**
-
-Creating the project from first principles is relatively complex both semantically and practically.
-
-In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
-While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
-
-#### Summary of motivations and sources of P2 template
-
-Chapter 5 gives a summary of the motivations of the structure of the P2 starting template. The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
-
-Original source of grid template
-https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
-
-
-Phaser tutorial
-https://phaser.io/tutorials/making-your-first-phaser-2-game/
-https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
-
-
-
-
-#### Using Phaser 2 not 3 & Game States
-
-The process of using JavaScript was challenging. At one stage I contacted a developer of JS who had written a tutorial for Mozilla. Her response was why use JS over scratch, and why not use Phaser 3.
-
-These are fair questions the first of which I address in the introduction of the thesis. The technical question of why to not use Phaser 3, a more recent version, raises a point of interest surrounding the complexity of the code syntax used and the initial appearance of the code project to novices.
-
-**Object structure and use of this keyword**
-A key decision to keep using Phaser 2 in the development period between P1 and P2 was to avoid the use of the object structure needed to initialise a game state.
-
-<!-- DROP? To illustrate this point on a technical code level it is of value to compare the code needed to creating a world statement of the two libraries. -->
-
-The move from Phaser 2 to 3 structure was in part to integrate with other modern JavaScript frameworks but a side effect is to introduce an object structure requiring greater complexity of syntax and the use of this as an object orientated concept.
-
-While a useful programming concept, the this keyword which can refer to a contextual parent object regardless of the context of which function it is called withing, is potentially confusing to explain to novice coders. Instead I judged that referring explicitly to the GameState object was preferable.
-
-To do this, I used global variables in the code in a way which in another context would be problematic, say if interacting with other code libraries.
-
-An alternative would be to use template based on Phaser 3 but use this construct to avoid the use of this via assigning it the name of the state.
-
-https://codepen.io/samme/pen/JjYreex
-    function init() {
-      // You do need to *read* `this`, once:
-      state = this;
-
-**Structure of Game States**
-
-One change that was needed between P1 and P2 was the addition of an initial game state into the starting code.
-
-We can compare the code structure of the Phaser 2 tutorial with the starting template of the P2 starting game.
-
-**Phaser.com Phaser 2 tutorial**
-
-    var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
-
-    function preload() {
-    }
-
-
-**P2 starting game extract**
-
-    // Initialize the game at a certain size
-    var game = new Phaser.Game(550, 400, Phaser.AUTO, "game-div", "", false, false);
-
-    // The following javascript object called playState contains all the active code for this simple game.
-    // You can add other states like, win, lose, start etc
-    var playState = {};
-
-    playState.preload = function () {}
-
-
-The motivation to add game states was driven by the requests of participants to As this was allow the addition of a game over screen, or a starting splash screen to introduce the topic and instructions to play the game.
-
-The decision to introduce this in the starting template was motivated by an experience in P1 of one group who  and J - to change the code structure to do this was jarring and reduced the familiarity that they had built up with the existing code structure. This was borne out in a comment in the end of project interview. "Once we had got over x"
-
-Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
-
-![](./Pictures/overview_of_structure_cropped.png){width=55%}
-
-4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
-
-
-##### Template structure and asset placement - Add in Chapter tutorial example extract here too
-
-In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
-
-Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
-
-**Grid structure for graphical assets**
-I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
 
 
 ## Other appendices
@@ -722,6 +658,167 @@ in open world games are used in part to appeal to different kinds of players [@b
  -->
 
 <!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
+
+
+## Technical Appendix
+
+### Tools used in different phases of activity
+
+### Appendix 5.tech  - Summary of the tools and processes used in P1, P2 and P3.
+
+#### Description of tools used
+
+- Piskel - a graphical editor used to create pixel art sprite characters;
+- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
+- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
+- Sonic Pi - an education music application allowing the creation of music using text coding;
+- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
+- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
+
+#### Description of types of activities involved in game making and the tools used to do them
+Table - or short entries with screenshots.
+
+Phaser 2.6.2 javascript library
+Glitch code playground
+Incomplete game template
+Print out of cards with simple coding missions
+Online graphics editor Piskel.
+Audio editors, audacity,
+Updated incomplete game template
+Piskel online graphics editor
+Step by step tutorials on FLOSS manuals
+Drama scenario
+Interactive chat page in glitch
+
+
+**Mapping skills used.**
+See this attempt at a map of skills used in P1 - very extensive but not the focus of this study.
+
+
+https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
+
+### Appendix.tech.gameframework - Framework to support game analysis via game elements -
+
+Include also the powerpoint sheet or link to it.
+Perhaps a completed one with children's writing on it.
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+---
+
+As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
+
+**GOAL:** What is the objective of the game? What are you trying to do?
+**COMPONENTS:** What are all the objects or actors in the game?
+**MECHANICS:** What actions take place in the game. What are the verbs involved?
+**RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
+
+Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
+
+---
+
+Extract from Game Jam Guide [@cornish_game_2018]
+
+
+
+
+
+### Design decisions in the technical decisions of the template design in P2
+
+#### Using a structural template
+
+**Not creating from first principles**
+
+Creating the project from first principles is relatively complex both semantically and practically.
+
+In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
+While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
+
+#### Summary of motivations and sources of P2 template
+
+Chapter 5 gives a summary of the motivations of the structure of the P2 starting template. The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
+
+Original source of grid template
+https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
+
+
+Phaser tutorial
+https://phaser.io/tutorials/making-your-first-phaser-2-game/
+https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
+
+
+
+
+#### Using Phaser 2 not 3 & Game States
+
+The process of using JavaScript was challenging. At one stage I contacted a developer of JS who had written a tutorial for Mozilla. Her response was why use JS over scratch, and why not use Phaser 3.
+
+These are fair questions the first of which I address in the introduction of the thesis. The technical question of why to not use Phaser 3, a more recent version, raises a point of interest surrounding the complexity of the code syntax used and the initial appearance of the code project to novices.
+
+**Object structure and use of this keyword**
+A key decision to keep using Phaser 2 in the development period between P1 and P2 was to avoid the use of the object structure needed to initialise a game state.
+
+<!-- DROP? To illustrate this point on a technical code level it is of value to compare the code needed to creating a world statement of the two libraries. -->
+
+The move from Phaser 2 to 3 structure was in part to integrate with other modern JavaScript frameworks but a side effect is to introduce an object structure requiring greater complexity of syntax and the use of this as an object orientated concept.
+
+While a useful programming concept, the this keyword which can refer to a contextual parent object regardless of the context of which function it is called withing, is potentially confusing to explain to novice coders. Instead I judged that referring explicitly to the GameState object was preferable.
+
+To do this, I used global variables in the code in a way which in another context would be problematic, say if interacting with other code libraries.
+
+An alternative would be to use template based on Phaser 3 but use this construct to avoid the use of this via assigning it the name of the state.
+
+https://codepen.io/samme/pen/JjYreex
+    function init() {
+      // You do need to *read* `this`, once:
+      state = this;
+
+**Structure of Game States**
+
+One change that was needed between P1 and P2 was the addition of an initial game state into the starting code.
+
+We can compare the code structure of the Phaser 2 tutorial with the starting template of the P2 starting game.
+
+**Phaser.com Phaser 2 tutorial**
+
+    var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
+
+    function preload() {
+    }
+
+
+**P2 starting game extract**
+
+    // Initialize the game at a certain size
+    var game = new Phaser.Game(550, 400, Phaser.AUTO, "game-div", "", false, false);
+
+    // The following javascript object called playState contains all the active code for this simple game.
+    // You can add other states like, win, lose, start etc
+    var playState = {};
+
+    playState.preload = function () {}
+
+
+The motivation to add game states was driven by the requests of participants to As this was allow the addition of a game over screen, or a starting splash screen to introduce the topic and instructions to play the game.
+
+The decision to introduce this in the starting template was motivated by an experience in P1 of one group who  and J - to change the code structure to do this was jarring and reduced the familiarity that they had built up with the existing code structure. This was borne out in a comment in the end of project interview. "Once we had got over x"
+
+Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
+
+![](./Pictures/overview_of_structure_cropped.png){width=55%}
+
+4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
+
+
+##### Template structure and asset placement - Add in Chapter tutorial example extract here too
+
+In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
+
+Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
+
+**Grid structure for graphical assets**
+I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
+
 
 
 ## Unplaced - but needed.

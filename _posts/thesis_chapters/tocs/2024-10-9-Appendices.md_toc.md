@@ -1,35 +1,13 @@
 -   [Appendices](#appendices)
-    -   [Technical Appendix](#technical-appendix)
-        -   [Tools used in different phases of
-            activity](#tools-used-in-different-phases-of-activity)
-        -   [Appendix 5.tech - Summary of the tools and processes used
-            in P1, P2 and
-            P3.](#appendix-5.tech---summary-of-the-tools-and-processes-used-in-p1-p2-and-p3.)
-            -   [Description of tools used](#description-of-tools-used)
-            -   [Description of types of activities involved in game
-                making and the tools used to do
-                them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
-        -   [Appendix.tech.gameframework - Framework to support game
-            analysis via game elements
-            -](#appendix.tech.gameframework---framework-to-support-game-analysis-via-game-elements--)
+    -   [Appendices with research
+        outputs](#appendices-with-research-outputs)
         -   [Appendix.tech.learningmap - Learning Dimensions
             Map](#appendix.tech.learningmap---learning-dimensions-map)
-        -   [Design decisions in the technical decisions of the template
-            design in
-            P2](#design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
-            -   [Using a structural
-                template](#using-a-structural-template)
-            -   [Summary of motivations and sources of P2
-                template](#summary-of-motivations-and-sources-of-p2-template)
-            -   [Using Phaser 2 not 3 & Game
-                States](#using-phaser-2-not-3-game-states)
     -   [Other appendices](#other-appendices)
         -   [Additional design narrative for
             P1](#additional-design-narrative-for-p1)
-    -   [Additional design narrative for
-        P1](#additional-design-narrative-for-p1-1)
-        -   [Never mind the bees. I need your help
-            too!](#never-mind-the-bees.-i-need-your-help-too)
+            -   [Never mind the bees. I need your help
+                too!](#never-mind-the-bees.-i-need-your-help-too)
         -   [Appendix.5.bee - Contextual Vignette on the conflict
             experienced by one family & the 3D
             Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
@@ -69,6 +47,28 @@
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
         -   [Appendix.bartle - Summary of interactive Bartle
             test](#appendix.bartle---summary-of-interactive-bartle-test)
+    -   [Technical Appendix](#technical-appendix)
+        -   [Tools used in different phases of
+            activity](#tools-used-in-different-phases-of-activity)
+        -   [Appendix 5.tech - Summary of the tools and processes used
+            in P1, P2 and
+            P3.](#appendix-5.tech---summary-of-the-tools-and-processes-used-in-p1-p2-and-p3.)
+            -   [Description of tools used](#description-of-tools-used)
+            -   [Description of types of activities involved in game
+                making and the tools used to do
+                them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+        -   [Appendix.tech.gameframework - Framework to support game
+            analysis via game elements
+            -](#appendix.tech.gameframework---framework-to-support-game-analysis-via-game-elements--)
+        -   [Design decisions in the technical decisions of the template
+            design in
+            P2](#design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
+            -   [Using a structural
+                template](#using-a-structural-template)
+            -   [Summary of motivations and sources of P2
+                template](#summary-of-motivations-and-sources-of-p2-template)
+            -   [Using Phaser 2 not 3 & Game
+                States](#using-phaser-2-not-3-game-states)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
     -   [Perhaps delete?](#perhaps-delete)
         -   [Appendix 5.x - Community norming in playtesting - DROP THIS
