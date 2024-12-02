@@ -28,7 +28,7 @@ Unfortunately as some appendices and vignettes contain tables with merged table 
 
 
 **Vignettes**
-
+Another document due to tables
 Contain extended transcription of discourse and when possible participant gestures.
 
 - Vignette.toby/1 : see separate doc
@@ -36,21 +36,40 @@ Contain extended transcription of discourse and when possible participant gestur
 - Vignette.f&m/3 :
 - Vignette.m&n/4 :
 
+**Appendices with research outputs / part of learning design**
 
+- Learning outputs
+- Full missions  
 
-**Technical Appendices**
-
-- App.T.tools - Summary of tool use by stage
 
 **Other Appendices**
 
 - Appendix.map/4 :
 - Appendix.reflection/5 :
 - Appendix.documentation/6 - Introducing documentation in drama frame
-
-
 - App.5.dn - Expanded Design Narrative
 
+**Technical Appendices**
+
+- App.T.tools - Summary of tool use by stage
+
+## Appendices with research outputs
+
+
+### Appendix.tech.learningmap - Learning Dimensions Map
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Sequences | Systems Elements      | Goal Setting        |
+| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Loops | Balancing Feedback Loops      | Web Navigation    |
+| Arrays |       | Problem Solving        |
+| Creating Functions |       | Version Control    |
+| Change Listener |    | Debugging   |
+| Input Event |   | Reusing and Remixing      |
+
+Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 
 ## Technical Appendix
