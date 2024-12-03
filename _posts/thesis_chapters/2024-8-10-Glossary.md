@@ -18,10 +18,13 @@ PERHAPS ORGANISE BY CHAPTER?
 
 Or perhaps group terms by theme, include references in each description with examples and characteristics. Then have a short complex commentary at the end of each section.   -->
 
+### Methodology terms
+
+**Contradictions:** A key term in the expansion of the learning activity
 
 ### Overall terms
 
-**Learning design:** The term used for a set of resources and pedagogical techniques introduced by myself as a facilitator of coding sessions. The following terms are used as synonym at times to avoid a repetitive writing style: learning intervention, game making pedagogy.
+**Learning design:** The term used for a set of resources and pedagogical techniques introduced by myself as a facilitator of coding sessions. The following terms are used as synonym at times to avoid a repetitive writing style: _learning intervention_ and _game making pedagogy_. Wider terms are used which encompass non-designed elements for example _learning activity_.
 
 **Digital making:** A broad field involving the maker community, physical computing and participation in on-line digital making communities.
 
@@ -49,7 +52,7 @@ Or perhaps group terms by theme, include references in each description with exa
 
 ### General Coding / Technical Terms
 
-**Variables / Game variables:** A variable is a coding term used to describe a code value which is often set at the start of a code project. A game variable in the context of this study refers to aspect such as the value of gravity, or player movement speed which the novice coder can alter to impact the behaviour of their game. 
+**Variables / Game variables:** A variable is a coding term used to describe a code value which is often set at the start of a code project. A game variable in the context of this study refers to aspect such as the value of gravity, or player movement speed which the novice coder can alter to impact the behaviour of their game.
 
 **Code Playground:** A website allowing the running of code projects within a testing environment, often focusing on web page technologies. They are used initially to share code problems in context to allow specific help from forums. They have developed into communities which allow for the showcasing of new techniques and as educational tools to allow learners to experiment with web coding project without access to a development web server. The term is explored in more detail in Chapter 2.
 
