@@ -38,8 +38,8 @@
                 playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
             -   [Commentary on side
                 missions](#commentary-on-side-missions)
-        -   [Appendix.drama - Drama process
-            -](#appendix.drama---drama-process--)
+        -   [Appendix.drama - Drama
+            process -](#appendix.drama---drama-process--)
             -   [Exploring documentation and accessing technical help
                 within the drama
                 frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
@@ -58,8 +58,8 @@
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
         -   [Appendix.tech.gameframework - Framework to support game
-            analysis via game elements
-            -](#appendix.tech.gameframework---framework-to-support-game-analysis-via-game-elements--)
+            analysis via game
+            elements -](#appendix.tech.gameframework---framework-to-support-game-analysis-via-game-elements--)
         -   [Design decisions in the technical decisions of the template
             design in
             P2](#design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)

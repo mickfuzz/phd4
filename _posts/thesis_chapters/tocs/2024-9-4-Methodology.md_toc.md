@@ -36,8 +36,8 @@
             analysis](#overall-table-and-rational-of-data-analysis)
         -   [Notes to allocate to a
             stage](#notes-to-allocate-to-a-stage)
-            -   [Rational and approach of data analysis
-                -](#rational-and-approach-of-data-analysis--)
+            -   [Rational and approach of data
+                analysis -](#rational-and-approach-of-data-analysis--)
         -   [Data Analysis Stage One](#data-analysis-stage-one)
             -   [Practitioner interviews](#practitioner-interviews)
             -   [S1 Video analysis](#s1-video-analysis)
@@ -49,8 +49,8 @@
                 data](#s2-video-analysis---transcriptiondescription-of-data)
             -   [S2 Video analysis - first pass of thematic analysis /
                 coding](#s2-video-analysis---first-pass-of-thematic-analysis-coding)
-        -   [Final coding scheme (but this is stage
-            4)](#final-coding-scheme-but-this-is-stage-4)
+        -   [Final coding scheme (but this is
+            stage 4)](#final-coding-scheme-but-this-is-stage-4)
             -   [Coding Participant Roles and
                 Interactions.](#coding-participant-roles-and-interactions.)
             -   [Selection of vignettes for deeper

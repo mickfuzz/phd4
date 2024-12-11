@@ -1,4 +1,5 @@
 -   [Glossary](#glossary)
+    -   [Methodology terms](#methodology-terms)
     -   [Overall terms](#overall-terms)
     -   [Context / Community](#context-community)
     -   [Pedagogies and Design
