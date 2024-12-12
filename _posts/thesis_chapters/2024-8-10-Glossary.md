@@ -56,11 +56,17 @@ Or perhaps group terms by theme, include references in each description with exa
 
 **Code Playground:** A website allowing the running of code projects within a testing environment, often focusing on web page technologies. They are used initially to share code problems in context to allow specific help from forums. They have developed into communities which allow for the showcasing of new techniques and as educational tools to allow learners to experiment with web coding project without access to a development web server. The term is explored in more detail in Chapter 2.
 
+**Code snippets:** Extracts of code which may be contained in a code playground project or as part of other documentation. The motivation for sharing is so other coders can copy, paste and then adapt the code into their own projects.
+
 **Code syntax errors:** Errors to do with the grammar of the code.
 
 **JavaScript library/framework:** A collection of one or more files of JavaScript code which abstract away specialised abilities which can be reused by other   
 
 ### Technical Game Terms
+
+**Game Mechanic:** Game mechanics are a form of game design pattern.
+
+**Game Polish / Aesthetics:** The aesthetic or polish of the game is often thought of a surface covering which does not impact the underlying game mechanics, dynamics but does have an impact on the affect of the participant. 
 
 **Game states:** Game states and functions to create the game loop are included natively in the phaser framework [@faas_introduction_2017; @kostolny_digital_2017]
 
