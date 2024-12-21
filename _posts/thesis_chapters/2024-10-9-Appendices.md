@@ -822,9 +822,6 @@ I had previously set the dimensions of the matrix above based on this size to cr
 
 ## Technical Appendix Two - On reaction to tech
 
-
-
-
 #### GDPs used to nurture tactical responses to coding errors
 
 This section highlights different possible errors and notes that responses are helped by the high level of context present in the use of GDP as a structural design framework.
