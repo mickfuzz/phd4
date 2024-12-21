@@ -660,7 +660,7 @@ in open world games are used in part to appeal to different kinds of players [@b
 <!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
 
 
-## Technical Appendix
+## Technical Appendix One - on Learning Design Decisions
 
 ### Tools used in different phases of activity
 
@@ -818,6 +818,66 @@ Complexities included: each element needs to be added separately with code eleme
 
 **Grid structure for graphical assets**
 I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
+
+
+## Technical Appendix Two - On reaction to tech
+
+
+
+
+#### GDPs used to nurture tactical responses to coding errors
+
+This section highlights different possible errors and notes that responses are helped by the high level of context present in the use of GDP as a structural design framework.
+
+In analysis of journal notes and recorded screens I began to identify different kinds of coding problems that blocked participants from progressing.
+
+
+In critique of online tutorials researchers note  few provide common errors[@kim_pedagogical_2017]. This lack of problem solving techniques communicated in online tutorials may addressed through use of GDPs.
+
+Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
+
+More research would be welcome on how to help learners pick up these understandings.
+Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
+
+For example,  on into the detail and types or errors.  These include:
+
+  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+
+
+NOTE - Perhaps explore glitch examples.
+
+
+<!-- #### Examples of Glitch types of errors
+Short examples of different types and the affect implications.
+Glitch errors can be productive.
+**Productive in exploring code / creating new game opportunites**
+An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+**Productive in in**
+- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+
+ The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
+
+
+
+This area show potential but is under explored. However, just surfacing the issue feels valid in terms of useful stream of facilitator practice to explore.
+
+
+
+### Concluding remarks on debugging and revision
+
+Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug JavaScript errors or the process of hovering over red dots in the code playground to explore error messages.
+
+<!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
+
+The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug. As I built proficiency as a facilitator I began to identify different kinds of errors. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern. The following section provides an example of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
+
+<!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
+CAN i FIND ANY KEY EXAMPLES OF THIS?
+-->
+
 
 
 
