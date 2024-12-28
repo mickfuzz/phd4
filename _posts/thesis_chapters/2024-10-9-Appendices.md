@@ -531,10 +531,6 @@ And yeah. That we can work by ourselves but also work as part of a team. So weâ€
 
 #### Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT CHAPTER 7
 
-
-
-
-
 #### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
 
 
@@ -821,6 +817,25 @@ I had previously set the dimensions of the matrix above based on this size to cr
 
 
 ## Technical Appendix Two - On reaction to tech
+
+### Code Patching as a guided technical process
+
+
+Code pathcin is not technically equivalent to modern software patching processes, it contains many appropriate conotations.
+
+A patch is a quick fix to repair or to add new features to already existing code, supplied  to avoid a complete rewrite or more extensive process, and designed to easy for the end user to apply via a guided process. I also like the real world connotations of craft and physical repair of materials in a relatable way.  
+
+During this process of careful documentation I became concerned that over facilitation in this instructional way would remove the possibility for errors and thus reduce the opportunities for learning from resolving failure. However, while each stage of the process of adding game pattern was documented in as complete a fashion as possible, in practice mistakes were still made and additional customisations were made. Thus while the process did reduce dependency on my input as a facilitator there were still opportunities for me to support and resolve coding errors in person.
+
+
+Code patching is a processes which is suggested by the UMC process, not explicitly perhaps, but it is a logical adaptations. This is an under explored area in research and the use of code patching raises some interesting questions.  
+
+- Question - do more useful / less de-motivating errors result from remixing and game patching?
+- Question - what impact does the process of being driven by GDPs have on how users deal with errors?
+- For example does the closely paired code structure and game output help with motivation?
+- How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
+
+
 
 
 
