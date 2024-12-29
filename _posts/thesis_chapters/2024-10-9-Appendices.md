@@ -241,8 +241,7 @@ When the family withdrew, in my journal notes I reflected that the they shared o
 
 
 
-For some families and individual participants there were conflicts to do with a sense of anxiety and alienation fr
-om the group coding environment and associated peer working dynamics.
+For some families and individual participants there were conflicts to do with a sense of anxiety and alienation from the group coding environment and associated peer working dynamics.
 
 One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
 
