@@ -241,8 +241,7 @@ When the family withdrew, in my journal notes I reflected that the they shared o
 
 
 
-For some families and individual participants there were conflicts to do with a sense of anxiety and alienation fr
-om the group coding environment and associated peer working dynamics.
+For some families and individual participants there were conflicts to do with a sense of anxiety and alienation from the group coding environment and associated peer working dynamics.
 
 One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
 
@@ -310,133 +309,8 @@ MOVE TO APPENDIX  - PULL OUT TWO PERHAPS.
 |
 
 
-#### Vignette.reflection  - Session reflections and secret missions in P3
-
-This second extract comes from the following session in phase four. In three of the four session the last 10 minutes of each session involved giving a progress update to the aliens.
-
-In my journal notes for phases prior to using the drama process, I documented that the occasional end of session debriefs as _go-rounds_ had limited success in terms of amount and quality of participation compared to these sessions. The video and audio recordings document rich feedback from individuals and pair teams, near complete participation and productive elements of interaction as the feedback progresses.
-
-In previous iterations, my omission of end-reflection in sessions stemmed fomr a lack of time in sessions and reluctance to shift learners away from making activities to reflective activities. I found the need to maintain the drama narrative served as a high motivation factor to complete reflection activities.
-
-To begin the reflection session I ask participants to gather around a particular computer which the aliens are monitoring which helped moving participants closer to each other and stop their coding activity. It is of value to review the grouping of participants in the still image in the vignette above in Fig 5.x.
-
-The simple clustering of participants so they were side by side and talking to a disembodied audience via a computer seemed to make the feedback process less daunting for students. One of the younger participants Richie is participating on the margins but clearly following proceedings as his facial reactions to ongoing contents of feedback. He later participates more actively when reflecting on his process than in previous sessions. Even participants that were initially reluctant to share back and had never shared back publicly before in sessions, chipped in after other family member had started the process for them.
 
 
-> Mick: Ok are you guys ready to share back if you could come to this side of the room we are going to get Mark and Edward to share back first. Everyone can share back using this computer that the Weean are watching if that’s alright.
-organiser
-
-<!-- ![](./Pictures/2019-05-15-alien_feedback_1.png){width=90%} -->
-
-> Mark: All we’ve done today is just get a background in and then we were just working on the one that the Weean had sent us about  dropping the coins in. Now that the Weean have sent us the code we need for basically dropping stuff.
-
-> Mark: The idea is planting trees. about dropping seeds. So we want to drop those and have some enemies that are tweening randomly around and also taking them away. The idea is to have a timer to drop a certain amount in a certain time frame or you can’t go through to the next level. And the next level would be you go around and water all the trees. And the third one is you have to look after them all making sure they are not getting chopped down again by that tweening enemy. So we’ve got the concept and everything now and we’ve got the code So we should be able to make a bit of a jump forward now this week.  It doesn’t look like we’ve got any where but we have. (Mark laughs and others follow). So we’ve got the the background in and we know what we need to do about scrolling as well because we want to scroll across.
-
-> Mick: That’s great.  Is there anything that you think you definitely want to be able to do for next time that you might want help with?
-
-> Mark: Oh yeah. We’ll we’ve got a bit of space where we can work on it before we next come in so we’d like to ask the Weean some more questions. Is that the best way to do it?
-
-> Mick: Yeah for sure and I can see that you guys have been talking to the Weean, Here this project here in your home page called Talking to the Weean allows you to talk to the Weean. So you can go in there, click on Edit Project and if you click on this bit here that says WEEAN and then Markdown you can actually just ask questions in here.
-
-
-> (Mick reads out the following extract the organiser screen containting a text chat with the fictional alien audience)
-
-> Ed: Weean what’s it like up there?
-
-> Weean: It’s cold and very big but quite tranquil.
-
-> Ed: What is your name?
-
-> Weean: We are are the Weean we have no name, we are all the same.
-
-> Ed:  That must be hard at xmas. (Mark and others laugh and smile.)
-
-> Weean: It is. It sure is.
-
-![](./Pictures/2019-05-15-alien_feedback_3.png){width=90%}
-
->Mark: That’s tickled me that.
-
-> Mick: So there you go. You can have a conversation there with the Weean in there using mark up code you can copy what’s there. Nadine can you talk through what you have added to your game? Is yours called “No Toby Allowed” now.
-(Laughs from all)
-
-> Nadine: I’ve not really done much today as I was busy doing stuff with Toby’s
-
-> Dan:  We noticed.
-
-> Nadine: We’ll I’ve changed the platform a bit.
-
-> Molly : You had a secret mission though didn’t you?
-
-> Nadine: Oh my secret mission was to change someone’s game, their character  or something and see if they noticed. And I think they did notice.
-
-> Dan: We did. We did notice.
-
-> Molly : You couldn’t not notice.
-
-> Mick: It feels like you took the spirit of the mischievous thing and just turned up the volume.
-(All laugh.)
-
-> Molly: Sprite!
-
-> Mark: We also had a secret mission.
-
-> Mick: What was that?
-
-> Mark: Ours was to change the sound on somebodies game.
-
-> Nadine: Oh was it?
-
-> Mark: Did you notice?
-
-> Molly: Did you notice?
-
-> Nadine: No (laughing)
-(Incomprehensible many people talking or laughing at same time)
-
-> Mark: Play it now!
-
-> Richie: You definitely noticed. (Points to Mark and Ed) You definitely noticed my bit.
-
-> (Nadine  goes to the keyboard and starts to play her game)
-
-> Nadine: I can’t hear anything different
-(Everyone laughs)
-
-> Mark: I thought you were going to go- Aaahgh! But you didn’t say anything.
-
-> Mick: So that’s interesting. some people notice some people didn’t.
-
-
-#### Commentary on Vignette.reflection
-
-### Vignette.documentation - Introducing documentation in drama frame
-
-> Do you know what I also wanted to share with you? Last time we were doing different sheets and everything. You were getting good at working through the sheets. And also looking at this page (show splash page on screen of menu of game design patterns)  which is at ggc-examples.glitch.me . And I’ve done some changes to it. There are two different parts. I want to make this better for you guys, I want to make this somewhere you can go so you can click to find out the help that you need. Any ideas you have for making this better would be really good.
-
-> One thing I can think. You see here (points to moving enemies as an example on screen). If you want moving enemies. If you click on it, it opens an example with the code to make moving enemies but it’s not really obvious how you would to put that into your game. So to find that you’d have to click on this here  link to tutorials. (Mick points to the link to tutorials text/link). Which tells you how you put it in the game. And then you’d scroll down this bit (demonstrates navigating the tutorials menu) and select add moving enemies here. So,  I was showing this to some people yesterday and they couldn’t really work that out.
-So what they suggested is. why don’t I put it so there’s a link so right to the chapter for how to do it right next to that image.
-So that makes sense really so I’m going to to do that.
-
-> So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-> Molly: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-> Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-> Molly: So just insert it somewhere.
-
-> Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
-So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
-
-> Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
-And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
-
-> So, I’m going to now leave it to you guys. What do you want your game to be about? What are your characters going to be?
-What do you want to put in your new game what wasn’t in your old game? Yeah, you can start thinking about it.
 
 
 
@@ -498,42 +372,8 @@ The process of sketching, revising and re-sketching the elements led me to conne
 
 
 
-### Appendix.alien - Transcription of the introducing a drama process in P3
-
-The participants have entered the room and chosen a laptop to work on. Some of the children play web-based games or reviewing the games that they have made previously. The session progresses with a warm-up game which includes many false starts, changes of rules, development of tactics, appeals to be serious, full throated laughter and many restarts and which ends in good hearted failure. The transcript below picks up at this point.
-
-<!-- The purpose of the vignette is to situate the reader, give an overview of -->
-
-> Mick: Ok. So I’ve got a surprise. I don’t know if you know but as part of our Home Ed club we did a page of different games. So it’s on glitch.com and it’s called Glitch Game Club and it’s on there, there’s one for Home Ed Winter 2019 and here are all the games that we made. We made a lot of games. 15 games. This has not gone unnoticed because I got a message through this account. This is kind of a story now. We are entering a story. You have to use your imagination. We got a message and it was an audio message. If you guys take your fingers off your keyboards and have a listen to this audio message which is quite unusual as I don’t think it was from anyone on … this ... Earth.
-
-    Greetings Earthlings, we have an important message for the Glitch Game Makers.
-    We are the Weean. You would call us an alien lifeforce. We like to think of ourselves as friendly space cousins.
-    We can see your Internet from space. We are contacting you because we know you are making games on the Internet.
-    We are on our way to the Planet Earth, and we have an important mission for you. We are an Intergalactic Rescue team. We know you have problems on your planet. We can help.
-    But we need to find out one thing first. Are you worth it? After we are gone will you also be able to help yourselves? Or are you already doomed to make the same mistakes again?
-    You must pass this challenge. Make some games showing problems you have on earth. In the games also include ideas for how to solve them.
-
-    We have some guidelines:
-
-      • Make a game about a big or small problem for your planet to solve. If you can let us play it each week as you go along.
-      • Give us an update each week by recording a group update.
-      • Show you can work on your own but also work as part of a team.
-      • We will also send you text messages with some mini-missions sometimes. Be sure to tell us how you do.
-
-    Please now get started and come up with a new game about solving a problem on Earth.
-
-
-> Mick: I couldn’t understand all of it but I tried to write it down as best as I can. So from what I’ve work out they’ve looked at our games and they’ve come up with a challenge for us. They are coming to Earth so they need to find out if we are worth saving. And the way that they are going to decide is by playing the games that we come up with. And they are going to set us little challenges. So. yeah, that’s the story. (with heavy irony) I’m pretty sure it’s true. (Mick and others laugh).
-
-> Mick: So all they’re asking us to do is to come up with a game. We’ve got four sessions. They want a new game because they’ve already played our old games. It’s got to be something about the problems of the world. I’ve got a lot of problems. It could be big problem or a small problem. It could be about your problems. But also ideas on how to solve them.  
-And yeah. That we can work by ourselves but also work as part of a team. So we’ve got to give them a report by the end of each session as well. That’s our mission.
-
 
 #### Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT CHAPTER 7
-
-
-
-
 
 #### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
 
@@ -869,12 +709,16 @@ Many participants spent significant periods of time improving, testing and fixin
 
 <!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
 
-The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug. As I built proficiency as a facilitator I began to identify different kinds of errors. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern. The following section provides an example of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
+The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug.
+
+As I built proficiency as a facilitator I began to identify different kinds of errors. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern.
+
+The following example provides an illustration of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
+FIND EXAMPLE IF POSSIBLE.
 
 <!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 CAN i FIND ANY KEY EXAMPLES OF THIS?
 -->
-
 
 
 
