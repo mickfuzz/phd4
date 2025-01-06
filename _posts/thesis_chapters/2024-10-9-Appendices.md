@@ -9,7 +9,6 @@ layout: post
 categories: chapter
 title: 9. Appendices
 ---
-
 -   [Appendices](#appendices)
     -   [Appendices with research
         outputs](#appendices-with-research-outputs)
@@ -25,23 +24,10 @@ title: 9. Appendices
             Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
         -   [Appendix.feedback - Feedback from P1 participants
             (extracts)](#appendix.feedback---feedback-from-p1-participants-extracts)
-        -   [Appendix.map - Dialogue of use of physical maps at the
-            start of session
-            X](#appendix.map---dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
-            -   [Vignette.reflection - Session reflections and secret
-                missions in
-                P3](#vignette.reflection---session-reflections-and-secret-missions-in-p3)
-            -   [Commentary on
-                Vignette.reflection](#commentary-on-vignette.reflection)
-        -   [Vignette.documentation - Introducing documentation in drama
-            frame](#vignette.documentation---introducing-documentation-in-drama-frame)
         -   [Appendix.themeing - Themeing
             GDPs](#appendix.themeing---themeing-gdps)
             -   [Appendix 5.R.x - Sketching towards a map to help
                 navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
-        -   [Appendix.alien - Transcription of the introducing a drama
-            process in
-            P3](#appendix.alien---transcription-of-the-introducing-a-drama-process-in-p3)
             -   [Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT
                 ABOUT CHAPTER
                 7](#appendix-7.makertypes---duplicated-later---also-what-about-chapter-7)
@@ -59,7 +45,8 @@ title: 9. Appendices
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
         -   [Appendix.bartle - Summary of interactive Bartle
             test](#appendix.bartle---summary-of-interactive-bartle-test)
-    -   [Technical Appendix](#technical-appendix)
+    -   [Technical Appendix One - on Learning Design
+        Decisions](#technical-appendix-one---on-learning-design-decisions)
         -   [Tools used in different phases of
             activity](#tools-used-in-different-phases-of-activity)
         -   [Appendix 5.tech - Summary of the tools and processes used
@@ -81,6 +68,12 @@ title: 9. Appendices
                 template](#summary-of-motivations-and-sources-of-p2-template)
             -   [Using Phaser 2 not 3 & Game
                 States](#using-phaser-2-not-3-game-states)
+    -   [Technical Appendix Two - On reaction to
+        tech](#technical-appendix-two---on-reaction-to-tech)
+        -   [GDPs used to nurture tactical responses to coding
+            errors](#gdps-used-to-nurture-tactical-responses-to-coding-errors)
+        -   [Concluding remarks on debugging and
+            revision](#concluding-remarks-on-debugging-and-revision)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
     -   [Perhaps delete?](#perhaps-delete)
         -   [Appendix 5.x - Community norming in playtesting - DROP THIS
@@ -517,6 +510,76 @@ See this attempt at a map of skills used in P1 - very extensive but not the focu
 
 
 https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
+
+### Appendix.tech.samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
+
+#### Game Space: Keys and Doors
+
+The game mechanic of collecting keys to be able to open doors to enter other spaces is well used in platform games to increase a sense of adventure. Let's look at one way to do this. We draw on the code of a similar tutorial here by Belen Albeza.
+
+Check the code: what we need to know and do
+
+There is some background knowledge in this book that will be useful for us in getting this mechanic to work - adding More levels - Game Mechanic: Adding Levels
+Going over the code:
+
+The code for a minimal example of the Keys and Doors game mechanic is shown here - https://glitch.com/edit/#!/key-and-doors-grid?path=js
+
+Make sure you have or add these variables at the start of our code that are located outside of any one function as they are needed by more than one function.
+
+  var hasKey = false;
+  var key;
+  var door;
+
+In the playState.preload function we will need to load some images for our keys and doors. Here are two lines which you can copy and use while testing. You can replace these images with your own.
+
+  game.load.image("key", "https://cdn.glitch.com/5d318c12-590d-47a1-b471-92a5dc0aae9d%2Fkey.png");
+  game.load.spritesheet("door2, "https://cdn.glitch.com/5d318c12-590d-47a1-b471-92a5dc0aae9d%2Fdoor.png", 42, 66);
+
+Then we will create a key and door for our first level. Add the following code to our if statement in the playState.create function which controls which level is loaded.
+
+  if (!currentLevel || currentLevel === 1) {
+    loadLevel(level1);
+    // add extra code for just level one here
+    key = game.add.sprite(100,25,"key");
+    door = game.add.sprite(20,260,"door");
+    door.animations.add("open", [1, 2], 8); // 8fps
+
+Then when the play is happening. We want to set up overlap conditions in our playState.update function for player and keys and doors.
+
+  game.physics.arcade.overlap(player, key, hitKeys);
+  game.physics.arcade.overlap(player, door, hitDoors);
+
+We then create new functions mentioned in these overlap statements. Create these functions after your update function in your code.
+
+In hitKeys we want to kill off the key and set our hasKey variable to true, ready to open the door.
+
+var hitKeys = function (player, key) {
+    key.kill();
+    hasKey = true;
+};
+
+For the hitDoor function we need to check to see if the player has already picked up the key, as we don't want anything to happen if that is not the case, or if they haven't collected all the coins yet too.
+
+var hitDoors = function (player, door) {
+    if (hasKey === true && coins.total === 0){
+      door.animations.play("open");
+      hasKey = false;
+      player.kill();
+      game.time.events.add(1000, nextLevel, this);
+    }
+};
+
+If the player does have the key then we want to play the animation of the door opening, then reset the value of hasKey as we don't want that to continue to the next level, make the player disappear, and then call the next level function after one second so that we get to see the door opening.
+
+We also need to comment out the code which would allow the player to progress to the next level if they have just collected all the coins.
+
+    // MAKE SURE TO COMMENT OUT OR REMOVE THE FOLLOWING CODE
+    //if the player has collected all the coins move them on to the next level
+    // if (coins.total === 0) {
+    //     nextLevel();
+    // }
+
+That's it. We hope you enjoy adding this game space element to your game to allow the use of keys and doors to encourage exploration.
 
 ### Appendix.tech.gameframework - Framework to support game analysis via game elements -
 

@@ -13,9 +13,6 @@
             Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
         -   [Appendix.feedback - Feedback from P1 participants
             (extracts)](#appendix.feedback---feedback-from-p1-participants-extracts)
-        -   [Appendix.map - Dialogue of use of physical maps at the
-            start of session
-            X](#appendix.map---dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
         -   [Appendix.themeing - Themeing
             GDPs](#appendix.themeing---themeing-gdps)
             -   [Appendix 5.R.x - Sketching towards a map to help
