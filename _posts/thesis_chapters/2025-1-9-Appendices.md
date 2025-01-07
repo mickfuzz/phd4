@@ -112,76 +112,31 @@ Technical appendices follow. They contain some overlap with chapter material in 
 Other Appendices will be organised by chapter. Thus AP 5.1 is is the first mentioned in Chapter 5. In the interim before for a final appendix is completed they use descriptive names.
 
 The following summary list of appendices my help orientate the reader.
-
-Unfortunately as some appendices and vignettes contain tables with merged table cells (not supported in pandoc) they are being created in a separate open office document.
-
-
-**Vignettes**
-Another document due to tables
-Contain extended transcription of discourse and when possible participant gestures.
-
-- Vignette.toby/1 : see separate doc
-- Vignette.s&t/2 :
-- Vignette.f&m/3 :
-- Vignette.m&n/4 :
-
-**Appendices with research outputs / part of learning design**
-
-- Learning outputs
-- Full missions  
+MOVE LIST ABOVE HERE WHEN STABLE ENOUGH  
 
 
-**Other Appendices**
-
-- Appendix.map/4 :
-- Appendix.reflection/5 :
-- Appendix.documentation/6 - Introducing documentation in drama frame
-- App.5.dn - Expanded Design Narrative
-
-**Technical Appendices**
-
-- App.T.tools - Summary of tool use by stage
-
-## Appendices with research outputs
-
-
-### Appendix.tech.learningmap - Learning Dimensions Map
-
-|      Coding Concepts    | Systems Patterns    | Design Practices|
-|--------------|-----------|------------|
-| Sequences | Systems Elements      | Goal Setting        |
-| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
-| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
-| Loops | Balancing Feedback Loops      | Web Navigation    |
-| Arrays |       | Problem Solving        |
-| Creating Functions |       | Version Control    |
-| Change Listener |    | Debugging   |
-| Input Event |   | Reusing and Remixing      |
-
-Table 1.1. Learning Dimensions of the 3M Game Making Model
+**Vignettes:**  Vignettes contain extended transcription of discourse and when possible participant gestures and inline commentary. Vignettes are contained in another chapter / document (due currently to the need for more complicated tables that writing in markdown allows)
 
 
 
-## Other appendices
 
+## Extended design narrative for P1
 
-### Additional design narrative for P1
+As my ex-neighbour Barry once said to me, _there are a million ways to start a conversation_. There are probably just as many to start the process of designing and making a game using code as well. In choosing how to present the appendices of this study I try to do so in an accessible narrative which draws on my extensive facilitation and design journal notes to contextualise the findings from video data. I justify this partial approach in line with Stetsenko's activist stance described in Chapter 4.
 
-As my ex-neighbour Barry once said to me after hearing someone verbally assault me in a our estate's community garden, _there are a million ways to start a conversation_. There are probably just as many to start the process of designing and making a game using code as well. This section augments the brief narrative of P1 in Chapter 5 outline my motivations and observations driving learning design decisions.  
+This section augments the brief narrative of P1 in Chapter 5 outline my motivations and observations driving learning design decisions.  
 
-I did not want to start with coding processes that might alienate, but also as my own game coding skills were also being tested to their limits at this point also and I was working hard to introduce coding at a suitable level.
-I had experience of teaching web coding but limited knowledge of how to code games. Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
+I did not want to start with coding processes that might alienate, but also as my own game coding skills were also being tested to their limits at this point also and I was working hard to introduce coding at a suitable level. I had experience of teaching web coding but limited knowledge of how to code games. Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
 
 Thus for initial weeks I engaged with the following activities.
 
-
-
 In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges.
+
 
 Chapter 5 outlines how this culminated in a crisis which involved me reaching out to parents for help in the organisation of the game making sessions via the  following email.
 
+### Email to participants in mid-P1 -  Never mind the bees. I need your help too!
 
-#### Never mind the bees. I need your help too!
 
 Mick Chesterman<M.Chesterman@mmu.ac.uk>
 Nov 15, 2017, 1:20:31 PM
@@ -256,12 +211,7 @@ The freedom of choice and imagination allowed by designing on paper and via pixe
 <!-- I had not played customary drama games to create an inclusive environment.
 
 That week I had omitted them as I felt a sense of urgency coming from families to solve their problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. -->
-
-
 <!-- In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding. -->
-
-
-
 
 
 
@@ -278,14 +228,6 @@ https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/
 **Journal Notes from P1**
 
 Find extract from my journal notes for P1 period
-
-
-
-
-
-
-
-
 
 
 
@@ -337,15 +279,6 @@ In trying to organise and represent code examples to participants in a logical w
 _Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type and difficulty - Dated 11.3.2019_
 
 The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
-
-
-
-
-
-
-
-
-
 
 
 #### Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT CHAPTER 7
