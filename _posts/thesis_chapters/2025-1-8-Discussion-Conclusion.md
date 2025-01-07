@@ -7,8 +7,10 @@ zotero:
   csl-style: harvard-cite-them-right # pre-fill the style
 layout: post
 categories: chapter
-title: 8. Discursive Conclusion
+title:  Discursive Conclusion
 ---
+
+
 
 -   [Discursive Conclusion](#discursive-conclusion)
     -   [Research Questions - March
