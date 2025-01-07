@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
+
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
@@ -234,9 +235,14 @@ Later we look specifically at side missions (drama) & player types
 
 
 
-### Emerging use of narratives and graphics which drawing on home funds of knowledge
+### Emerging use of narratives and graphics which drawing on home funds of knowledge  - AVOID OVERLAP AND CHANGE FOCUS TO AGENCY FROM START
 
 NOT REALLY ONLY TO DO WITH PLAYTESTING.
+
+RECAP WHAT HAS ALREADY BEEN EXPLORED,
+In the previous chapter,
+
+
 
 **While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.**
 
