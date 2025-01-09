@@ -117,12 +117,12 @@ Also work out what to move to Lit Review - and restructure LT and Methodology ba
 - Intro - 800 - (500)
 - Vignette + Commentary - 600 (1000)
 - Cultural - 2500 (2500)
-- Guided Part - 4,200 (2500)
-- Personal - 650 (750)
-- DISCUSSION - 2300 (2000)
+- Guided Part - 5,800 (2500)
+- Personal - 500 (750)
+- DISCUSSION - 1700 (1500)
 - Conclusion- 400 (500)
 
-500+1000+2500+2500+750+2000+500 = 9750
+500+1000+2500+2500+750+1500+500 = 9250
 
 ## Introduction
 
@@ -574,6 +574,8 @@ As aligned with the learning design principle of rapid feedback, changes in the 
 
 NOTE - ADD IN A SUMMARY OF THE POST INTERVIEW DATA from Mark and Ed TO UNDERLINE THIS POINT.
 
+
+
 **Other examples of GPDs helping the ideation process**
 
 NOTE - TO DEVELOP AFTER MORE ANALYSIS OF VIDEO DATA.
@@ -590,8 +592,7 @@ CHECK FOR OVERLAP-->
 GDPs feature in processes of organisation, prioritisation and division of labour in a variety of ways: working knowledge of different types of GDPs can help participants to divide work by working on different patterns or taking on project elements within patterns, use of GDP concepts as a lingua franca
 
 
-<!-- The implementation of some GDP involved the use of different tools and activities. As learners build the familiarity with the component actions needed to implement design patterns, some start to specialise as they divide labour between pairs or Rather than promising the transfer abstract concepts to other domains, we see learners build competency in participation in replicable processes. These processes which aid future iterations of the GDP implementation design cycle. The process of operationalisation of these sets of actions contributes to the creation of an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
-peers. -->
+<!-- The implementation of some GDP involved the use of different tools and activities. As learners build the familiarity with the component actions needed to implement design patterns, some start to specialise as they divide labour between pairs or peers. -->
 
 **GDPs are used a lingua franca and as shortcuts by participants when organising and prioritising work**
 
@@ -934,13 +935,13 @@ Such an interpretation is adopted by Eriksson and colleagues using gameplay desi
 
 <!-- **In terms of recommendations for researchers / practitioners of an intermediate framework:** -->
 
-Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research. As a challenge these findings, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
+Waite and colleagues propose that abstraction should be explcitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research. As a challenge these findings, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
 
 <!-- As such this research has only more theoretical propositions rather than participant data. -->
 
-Despite this, in terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design. Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it. This chapter has outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture. I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that to further research to would be needed to justify the utility take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum constraints.
+Despite this, in terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design. Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it. This chapter has outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture. I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that the utilty take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum contrainst, would require further research to justify.
 
-On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding. In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021]. The evidence and examples surfaced in this paragraph support a view of GDPs, as an productive intermediate-level framework and contributes a series of grounded pedagogical instances via examples. It also proposes GDPs as potentially more productive and accessible framework in terms of pedagogical uses than that of computational thinking when making games.
+On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding. The evidence and examples surfaced in this paragraph support a view of GDPs, as an productive intermediate-level framework and contributes a series of grounded pedagogical instances via examples. It also proposes GDPs as potentially more productive and accessible framework in terms of pedagogical uses than that of computational thinking when making games.
 
 
 
@@ -949,7 +950,7 @@ On the other hand, my reflections support a proposition that there is utility fo
 
 <!--
 SHIFT LATER?
-As previously explored I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern hinged on the potential disorientation of imposed shifts of focus between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game des, would require ign pattern and the technical actions and operations needed to complete it. -->
+As previously explored I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern hinged on the potential disorientation of imposed shifts of focus between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it. -->
 
 <!-- The varied use of the collection and individuals gameplay patterns and concepts, can be examined using the lenses of the MDA framework.  
 - Home knowledge of mechanics drove many of the requests for GDPs from popular medium of retro games  
@@ -964,11 +965,11 @@ RETURNING TO WHAT IS FOUND IN THE DATA - A CELEBRATION OF THE CONCRETE - AND UTI
 
 Returning to issues of inclusive approaches to pedagogy, the findings of this chapter resonates with  Papert and Turkle's celebration of the process of concrete tinkering. They also suggest that it is potentially augmented, in terms of wider accessibility, with the use of design patterns as a germ cell concept. This approach is flexible and potentially responsive whilst still retaining a unifying pedagogical approach.
 
-
-
 In many of the outlined uses of GDPs in chapter we can see processes at play that help bridge shifts in goals between activity systems and navigation between one sub-goal and the next. Any other analysis on the part of the participant can wait until the process becomes more familiar.
 
 This approach is aligned to inductive research processes. Finding useful abstractions only after immersing ones-self in the detail. Previously abstract concepts or processes become concrete through familiarisation via direct use and indirect observations through community participation.
+
+
 
 
 #### Table of GDP use with supporting evidence
@@ -999,6 +1000,38 @@ PERHAPS REPLACE THIS TABLE WITH THE MORE DESCRIPTIVE ONE LINKED BELOW.
 
 
 
+#### Practitioners can use GDPs to foster of culture, home interests and evolving participation in an idioculture
+
+
+While beyond the remit of this thesis, elements of FoK and FoI, x and y,  align with inclusive processes and ethos behind PBL and UMC.
+
+Turning to another aspect of concrete / relatable experience.
+
+The link to home interests and funds of knowledge is demonstrated in varied ways which enrich the development of a community idioculture which is inclusive and productive in terms of the practicalities of learning how to make games.
+
+The work of Rogoff and Wegner and Lave has guided the surfacing activity in the  such as legitimate peripheral participation, community norming and taking on roles of specialism. More recent work by guitierez describes this as development of repetoires.
+
+At times, activity crosses between cultural and pair guided processes  - DEVELOP HOW
+- the role of playtesting as a medium for cultural exchange and a ground in which culture grows in of note
+- individual requests and implementations can spread via playtesting
+- the immediacy of designing for other is used by parents or children to norm behaviour in inter-personal interactions.  
+
+Recalling that cite one of the challenges of learning coding
+
+The cultural aspects of the learning community are further explored in Chapter 7.
+Is there something that merits mentioning here as a link within Ch.7?
+
+#### GDPs again  
+Both the GDPs and the sub-actions of the wider activity design become short-cuts which stand in for previously tricky to complete set of actions.
+
+Rather than promising the transfer abstract concepts to other domains, we see learners build competency in participation in replicable processes. These processes which aid future iterations of the GDP implementation design cycle. The process of operationalisation of these sets of actions contributes to the creation of an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
+
+Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or _get it in the game_ (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed, to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
+
+IS THIS THE RIGHT PLACE?
+There are challenges of the use of these short cuts and at a more general the design choice to lead with a menu of intermediate-level constructs in the form of a menu of GDPs. There may be confusion over use of terms to new comers and these GPD related terms may hide more complex patterns within the name. For example, the shortcuts in Mark and Ed's interaction hides a large amount of problems solving which seems "overwhelming". GDPs can limit the ideation process through an accelerated approach. Also as the menus themselves are not all used by students, and while GDPs do propagate from student to student, which risk further constraints on the process of asking questions about user experience and exploring ideas before committing to implementation.
+
+
 <!-- NOTE -  REFRAMING WITH A FOCUS ON AGENCY - IDEALLY THE LATER -->
 <!-- Using a choice of patterns when compared to instructional tutorials (previously explored in methods chapter)  -->
 
@@ -1013,6 +1046,28 @@ Examples include;
 - navigation / organisational support - use of a physical map.
 
 For example, the use of CT concepts in a framework, listed as part of the initial design pattern card, which could then be discussed, ticked off or otherwise reflected on. -->
+
+<!-- #### Re-examining the problem of PBL approaches considering the role of the potential of GDP collections -->
+
+**The concept of a restricted activity helps us understand the value a GDP collection for participants**
+&  **Design Pattern collections can help structure a learning design into an inclusive pedagogy**
+
+The process of creating a learning design where students were able to choose from a curated set of game design patterns, evolved from open approach in P1 and can be seen as a form of restricting possible activity. The positive impact of restricted choice of activities are outlined in varied educational concepts including Bruner's reducing degrees of freedom [@wood_role_1976]. In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study. However, in Eriksson's study the authors selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].
+
+Eriksson's study also outlines the utility notes teacher observations that GDPs served to stimulate learner imagination and ideation stages.
+
+The processes described above align with PBL and UDL in a way that merits further investigation in different settings.
+
+MOVE UP?
+As explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices [@barron_doing_1998]. Different types of scaffolding are available to support PBL and the authors highlight a dialectical tension between engagement via tinkering and pushing "principled understanding" [@barron_doing_1998, p.63].
+
+Design patterns have been explored as a form of scaffolding [@ertmer_scaffolding_2019] for project based learning experiences. Research on design online experiences shows value in interrelated scenarios, features and underlying patterns and principles [@mor_assessing_2014; @kali_collaborative_2006].
+
+In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
+
+In its engagement with participant choice over which patterns to implement, and varied approaches to making facilitated by varied uses of GDPs, this chapter has begun a process of exploration of the nature and evolution of agency in the practices of the participants, which is continued in the next chapter.
+
+<!-- NOTE - Lots of work on pedagogy of e learning done - but now seems quite dated? How did it stand up to time?  -->
 
 
 

@@ -471,6 +471,51 @@ THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESE
 
 
 
+### Appendix.recommendations - for practitioners.
+
+#### Additional commentary from chapter 6.
+
+
+#### Practitioners can use GDPs to foster of culture, home interests and evolving participation in an idioculture
+
+
+The link to home interests and funds of knowledge is demonstrated in varied ways which enrich the development of a community idioculture which is inclusive and productive in terms of the practicalities of learning how to make games.
+
+The work of Rogoff and Wegner and Lave has guided the surfacing activity in the such as legitimate peripheral participation, community norming and taking on roles of specialism.
+
+At times, activity crosses between cultural and pair guided processes  - DEVELOP HOW
+- the role of playtesting as a medium for cultural exchange and a ground in which culture grows in of note
+- individual requests and implementations can spread via playtesting
+- the immediacy of designing for other is used by parents or children to norm behaviour in inter-personal interactions.  
+
+Recalling that cite one of the challenges of learning coding
+
+
+#### GDPs again - Move some of this to Chapter 2 if helpful? 
+
+Both the GDPs and the sub-actions of the wider activity design become short-cuts which stand in for previously tricky to complete set of actions.
+
+Rather than promising the transfer abstract concepts to other domains, we see learners build competency in participation in replicable processes. These processes which aid future iterations of the GDP implementation design cycle. The process of operationalisation of these sets of actions contributes to the creation of an informal, complex networked resource of operations which complement the more visible curated catalogue of GDPs.
+
+Game design patterns or their fragments are used as a form of design short cuts. Examples from the above include, _get an enemy in_ , _animate player_ or _get it in the game_ (when referring to transferring an graphical asset from authoring tool to the coding environment). The advantages of such shortcuts are, as discussed, to help with the prioritisation and ideation processes, to facilitate peer propagation of ideas, and potentially to inform debugging and improvements to increase game playability.
+
+There are challenges of the use of these short cuts and at a more general the design choice to lead with a menu of intermediate-level constructs in the form of a menu of GDPs. There may be confusion over use of terms to new comers and these GPD related terms may hide more complex patterns within the name. For example, the shortcuts in Mark and Ed's interaction hides a large amount of problems solving which seems "overwhelming". GDPs can limit the ideation process through an accelerated approach. Also as the menus themselves are not all used by students, and while GDPs do propagate from student to student, which risk further constraints on the process of asking questions about user experience and exploring ideas before committing to implementation.
+
+
+**The concept of a restricted activity helps us understand the value a GDP collection for participants**
+&  **Design Pattern collections can help structure a learning design into an inclusive pedagogy**
+
+The process of creating a learning design where students were able to choose from a curated set of game design patterns, evolved from open approach in P1 and can be seen as a form of restricting possible activity. The positive impact of restricted choice of activities are outlined in varied educational concepts including Bruner's reducing degrees of freedom [@wood_role_1976]. In the 3M design the process of offering a choice of games patterns emerged to counter a previous open design process of which many learners found too challenging. The patterns emerged chiefly in response to requests from learners and partly from facilitator decision making which broadly matched the criteria of the other study. However, in Eriksson's study the authors selected from an extensive, pre-existing pattern collections [@bjork_patterns_2005].
+
+
+Design patterns have been explored as a form of scaffolding [@ertmer_scaffolding_2019] for project based learning experiences. Research on design online experiences shows value in interrelated scenarios, features and underlying patterns and principles [@mor_assessing_2014; @kali_collaborative_2006].
+
+
+In its engagement with participant choice over which patterns to implement, and varied approaches to making facilitated by varied uses of GDPs, this chapter has begun a process of exploration of the nature and evolution of agency in the practices of the participants, which is continued in the next chapter.
+
+
+
+
 ## Technical Appendix One - On technical aspects of the decision regarding the learning design
 
 ### Tools used in different phases of activity
