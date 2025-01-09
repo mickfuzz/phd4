@@ -1416,3 +1416,10 @@ These tensions of allocated roles and dysfunctional group work are mirrored in s
 These tensions were were highlighted in the end of P1 feedback and in some practitioner interviews that I conducted. FIND THIS IF SO
 
 In contrast in P2 and P3 there is flexibility of interaction  which suits informal moments of playtesting.
+
+
+MOVERED HERE FROM CHAPER 5 JAN 2024
+MOVE THIS TO NEXT CHAPTER DISCUSSION?
+**A tension in use of norming practices and participant choice?**
+However, as a seeming counterpoint to this growing agency is the norming effects of concepts that gain community currency in playtesting. The repeated attempts by participants to make the jumping mechanic of Molly less frustrating can be seen as a potential drag on the agency or autonomy of Molly as a designer. However this may be a false dichotomy. Such norming practices can be seen from a different perspective according to Rogoff, as a productive nudge to get real.
+ IS THIS EXPLORED IN THE NEXT CHAPTER?
