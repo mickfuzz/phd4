@@ -1,0 +1,107 @@
+-   [Seeding and Nurturing Community Game Making Practices to Facilitate
+    Learner
+    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
+    -   [Research Questions Nov 2024](#research-questions-nov-2024)
+        -   [Notes on coding for this
+            chapter](#notes-on-coding-for-this-chapter)
+    -   [Introduction](#introduction)
+        -   [Notes on structure of the
+            chapter](#notes-on-structure-of-the-chapter)
+    -   [Observations on emerging idioculture and the role of
+        playtesting in
+        particular](#observations-on-emerging-idioculture-and-the-role-of-playtesting-in-particular)
+        -   [Impact of Design on playtesting behaviours
+            (RECAP)](#impact-of-design-on-playtesting-behaviours-recap)
+        -   [Emerging use of narratives and graphics which drawing on
+            home funds of knowledge - AVOID OVERLAP AND CHANGE FOCUS TO
+            AGENCY FROM
+            START](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge---avoid-overlap-and-change-focus-to-agency-from-start)
+            -   [Summary: Home Funds and
+                RQs](#summary-home-funds-and-rqs)
+            -   [Playtesting and embodied participation in the games of
+                others](#playtesting-and-embodied-participation-in-the-games-of-others)
+            -   [Community concepts and norming behaviour emerging
+                during
+                playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
+            -   [Why prioritise local playtesting rather than
+                participation with a wider online community - and how
+                are they different in character? PERHAPS DROP IF NOT
+                NEEDED OR KEEP REALLY SHORT. AND MERGE
+                UP.](#why-prioritise-local-playtesting-rather-than-participation-with-a-wider-online-community---and-how-are-they-different-in-character-perhaps-drop-if-not-needed-or-keep-really-short.-and-merge-up.)
+    -   [Impact of Side Missions and Maker Types on playtesting
+        behaviours](#impact-of-side-missions-and-maker-types-on-playtesting-behaviours)
+        -   [Reflection on impact on my design
+            process](#reflection-on-impact-on-my-design-process)
+        -   [Observations on making
+            styles](#observations-on-making-styles)
+        -   [A focus on the value of changing roles - especially peer
+            teaching as reinforcing
+            learning](#a-focus-on-the-value-of-changing-roles---especially-peer-teaching-as-reinforcing-learning)
+        -   [Discussion on making types and side
+            missions](#discussion-on-making-types-and-side-missions)
+            -   [MoE](#moe)
+        -   [Limitations of observations and careful statements of
+            potential](#limitations-of-observations-and-careful-statements-of-potential)
+    -   [Observations on emerging flexible design practices (MORE ON
+        INTERPERSONAL
+        LEVEL)](#observations-on-emerging-flexible-design-practices-more-on-interpersonal-level)
+        -   [Observations and evidence on flexible design
+            practice](#observations-and-evidence-on-flexible-design-practice)
+        -   [Discussion on Flexible Design
+            Practices](#discussion-on-flexible-design-practices)
+            -   [The potential of emergent "non-productive"
+                activities](#the-potential-of-emergent-non-productive-activities)
+        -   [Discussion in relation to other
+            research](#discussion-in-relation-to-other-research)
+            -   [- beyond design cycle
+                stages](#beyond-design-cycle-stages)
+            -   [On Game Jamming](#on-game-jamming)
+    -   [Discussion of three dimension of agency using a metaphorical
+        approach](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach)
+        -   [Justifying the use of Metaphors in these
+            FINDINGS](#justifying-the-use-of-metaphors-in-these-findings)
+        -   [The use of concepts of mediation and dual stimulation in
+            this exploration of the development of
+            agency](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency)
+        -   [Affordances as points on a climbing wall to support
+            understandings of instrumental
+            agency](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency)
+        -   [Discussion on agency concerning tools and resources
+            (authenticity in
+            particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
+        -   [Playgrounds and sheltered harbours as a way to explore
+            conceptions of relational agency - INTEGRATE MY
+            FINDINGS](#playgrounds-and-sheltered-harbours-as-a-way-to-explore-conceptions-of-relational-agency---integrate-my-findings)
+            -   [How to seed relational practices in the community
+                garden of the program / Growing / Gardening
+                metaphors](#how-to-seed-relational-practices-in-the-community-garden-of-the-program-growing-gardening-metaphors)
+            -   [The freedoms and restrictions of
+                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+        -   [Exploring transformative agency using the metaphor of
+            Kedging
+            anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
+            -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
+    -   [Synthesis Section](#synthesis-section)
+        -   [SYNTHESIS - How different forms of agency are developed and
+            transform over iterations of this game making
+            programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
+            -   [Proposal on shifting forms of
+                agency.](#proposal-on-shifting-forms-of-agency.)
+        -   [Synthesis - The interaction of flexible deign practices,
+            the collection of Game Design Patterns, stepwise scaffolding
+            of learning environments and new understandings of
+            agency.](#synthesis---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
+            -   [Returning to the concept of computational fluency with
+                a lens of
+                agency](#returning-to-the-concept-of-computational-fluency-with-a-lens-of-agency)
+    -   [Conclusion](#conclusion)
+    -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
+        -   [On planned and emergent
+            activity)](#on-planned-and-emergent-activity)
+    -   [Notes - MOVED TO THE END FOR
+        REVIEW](#notes---moved-to-the-end-for-review)
+        -   [On Fluency](#on-fluency)
+        -   [Discussion on Player types - moved from chapter
+            6](#discussion-on-player-types---moved-from-chapter-6)
+        -   [Removed in December - perhaps
+            rehome](#removed-in-december---perhaps-rehome)
