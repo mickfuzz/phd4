@@ -30,6 +30,8 @@ Or perhaps group terms by theme, include references in each description with exa
 
 **Game making:** In the context of this study game making is the overall process of constructing a game which may include coding elements but may also involve creating graphical assets and planning activities.
 
+**Design process:** Design process in this context can refer to any of the different stages of imagining, planning and constructing and testing the digital game.
+
 **Game coding:** In the context of this study game making refers to the aspect of game making which involved interacting and changing the code aspect of the game object.
 
 ### Context / Community
@@ -66,7 +68,7 @@ Or perhaps group terms by theme, include references in each description with exa
 
 **Game Mechanic:** Game mechanics are a form of game design pattern.
 
-**Game Polish / Aesthetics:** The aesthetic or polish of the game is often thought of a surface covering which does not impact the underlying game mechanics, dynamics but does have an impact on the affect of the participant. 
+**Game Polish / Aesthetics:** The aesthetic or polish of the game is often thought of a surface covering which does not impact the underlying game mechanics, dynamics but does have an impact on the affect of the participant.
 
 **Game states:** Game states and functions to create the game loop are included natively in the phaser framework [@faas_introduction_2017; @kostolny_digital_2017]
 
