@@ -491,7 +491,7 @@ At times, activity crosses between cultural and pair guided processes  - DEVELOP
 Recalling that cite one of the challenges of learning coding
 
 
-#### GDPs again - Move some of this to Chapter 2 if helpful? 
+#### GDPs again - Move some of this to Chapter 2 if helpful?
 
 Both the GDPs and the sub-actions of the wider activity design become short-cuts which stand in for previously tricky to complete set of actions.
 
@@ -554,6 +554,11 @@ See this attempt at a map of skills used in P1 - very extensive but not the focu
 https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
 
 ### Appendix.tech.samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
+
+This chapter, used as an example in Chapter 6 was being accessed online by Suzanna in Vignette 2.
+
+The full manual is available here.
+https://3m.flossmanuals.net/
 
 #### Game Space: Keys and Doors
 
