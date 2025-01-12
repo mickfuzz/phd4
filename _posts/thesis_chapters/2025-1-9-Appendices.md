@@ -118,6 +118,37 @@ MOVE LIST ABOVE HERE WHEN STABLE ENOUGH
 
 **Vignettes:**  Vignettes contain extended transcription of discourse and when possible participant gestures and inline commentary. Vignettes are contained in another chapter / document (due currently to the need for more complicated tables that writing in markdown allows)
 
+## List of Vignettes
+
+    Special Appendix - Participant Vignettes	1
+    Vignette 1: An extract of Toby and Veronica’s coding activity	2
+    Vignette 1 Analysis	7
+    Part Two - Toby and Bertie and propagation of GDPs.	8
+    Vignette 2 – Suzanne and Olivia	9
+    Context	9
+    Transcript and Activity Log	9
+    Commentary on Interaction	14
+    Discussion and Links to other Observations	15
+    Awareness of and disparity between perespectives on designing for otthers	15
+    Home interests	16
+    Game Making Patterns and Systems Concepts	16
+    Vignette 3 Mark and Ed’s use of GDPs within their organisation	1
+    Vignette 4 - Feedback on the dynamics of Molly’s player movement	6
+    Vignette 5 - Molly and Nadine working with graphics and stories as funds of knowledge and identity and emerging specialism	8
+    5.a - Specialism emerging in interaction between Molly and Nadine	8
+    5.b - Extract of interaction between Molly and Sonia	9
+    5.c - Developing shared language	9
+    5.d - Using technical language - DoL and technical processes	10
+    Vignette 6 – Mark and Ed working with home interests	12
+    Use of game graphics and funds of identies in Interview data	12
+    The use of technical language within the application of GDPs	12
+    Vignette 7 Dan and Toby – Home experiences of Gameplay design patterns.	13
+    2019-05-08-te-da pt 1 - Transcript of interaction between Dan and Toby	13
+    Interview extract and observations of technical process of finding documentation	16
+    Vignette 8 - .alien - Transcription of the introducing a drama process in P3	16
+    Vignette 9 - Vignette.documentation - Introducing documentation in drama frame	18
+    Vignette 10 - Session reflections and secret missions in P3	20
+    Vignette 11 - .map - Dialogue of use of physical maps at the start of session X	23
 
 
 
