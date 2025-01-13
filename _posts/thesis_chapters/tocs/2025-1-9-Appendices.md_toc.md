@@ -1,4 +1,5 @@
 -   [Appendices](#appendices)
+    -   [List of Vignettes](#list-of-vignettes)
     -   [Extended design narrative for
         P1](#extended-design-narrative-for-p1)
         -   [Email to participants in mid-P1 - Never mind the bees. I
@@ -68,6 +69,8 @@
                 template](#using-a-structural-template)
             -   [Summary of motivations and sources of P2
                 template](#summary-of-motivations-and-sources-of-p2-template)
+            -   [Appendix.tech.prototyping Use of visual
+                prototyping](#appendix.tech.prototyping-use-of-visual-prototyping)
             -   [Using Phaser 2 not 3 & Game
                 States](#using-phaser-2-not-3-game-states)
     -   [Technical Appendix Two - On reaction to
