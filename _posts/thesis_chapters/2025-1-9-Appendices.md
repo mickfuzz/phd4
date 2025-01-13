@@ -12,15 +12,12 @@ title: 9. Appendices
 ---
 
 -   [Appendices](#appendices)
-    -   [Appendices with research
-        outputs](#appendices-with-research-outputs)
-        -   [Appendix.tech.learningmap - Learning Dimensions
-            Map](#appendix.tech.learningmap---learning-dimensions-map)
-    -   [Other appendices](#other-appendices)
-        -   [Additional design narrative for
-            P1](#additional-design-narrative-for-p1)
-            -   [Never mind the bees. I need your help
-                too!](#never-mind-the-bees.-i-need-your-help-too)
+    -   [List of Vignettes](#list-of-vignettes)
+    -   [Extended design narrative for
+        P1](#extended-design-narrative-for-p1)
+        -   [Email to participants in mid-P1 - Never mind the bees. I
+            need your help
+            too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
         -   [Appendix.5.bee - Contextual Vignette on the conflict
             experienced by one family & the 3D
             Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
@@ -47,8 +44,21 @@ title: 9. Appendices
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
         -   [Appendix.bartle - Summary of interactive Bartle
             test](#appendix.bartle---summary-of-interactive-bartle-test)
-    -   [Technical Appendix One - on Learning Design
-        Decisions](#technical-appendix-one---on-learning-design-decisions)
+        -   [Appendix.learningmap - Tension emerging in the Learning
+            Design regarding Computational Thinking
+            concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
+        -   [Appendix.recommendations - for
+            practitioners.](#appendix.recommendations---for-practitioners.)
+            -   [Additional commentary from chapter
+                6.](#additional-commentary-from-chapter-6.)
+            -   [Practitioners can use GDPs to foster of culture, home
+                interests and evolving participation in an
+                idioculture](#practitioners-can-use-gdps-to-foster-of-culture-home-interests-and-evolving-participation-in-an-idioculture)
+            -   [GDPs again - Move some of this to Chapter 2 if
+                helpful?](#gdps-again---move-some-of-this-to-chapter-2-if-helpful)
+    -   [Technical Appendix One - On technical aspects of the decision
+        regarding the learning
+        design](#technical-appendix-one---on-technical-aspects-of-the-decision-regarding-the-learning-design)
         -   [Tools used in different phases of
             activity](#tools-used-in-different-phases-of-activity)
         -   [Appendix 5.tech - Summary of the tools and processes used
@@ -58,6 +68,10 @@ title: 9. Appendices
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+        -   [Appendix.tech.samplechapter - Extract of supporting
+            resources - Sample chapter on Keys and Doors gameplay design
+            chapter](#appendix.tech.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
+            -   [Game Space: Keys and Doors](#game-space-keys-and-doors)
         -   [Appendix.tech.gameframework - Framework to support game
             analysis via game elements
             -](#appendix.tech.gameframework---framework-to-support-game-analysis-via-game-elements--)
@@ -68,6 +82,8 @@ title: 9. Appendices
                 template](#using-a-structural-template)
             -   [Summary of motivations and sources of P2
                 template](#summary-of-motivations-and-sources-of-p2-template)
+            -   [Appendix.tech.prototyping Use of visual
+                prototyping](#appendix.tech.prototyping-use-of-visual-prototyping)
             -   [Using Phaser 2 not 3 & Game
                 States](#using-phaser-2-not-3-game-states)
     -   [Technical Appendix Two - On reaction to
@@ -99,7 +115,6 @@ title: 9. Appendices
                 OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
         -   [Tensions in tool use emerging between agency and
             authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
-        -   [OTHER DESIGN TENSIONS](#other-design-tensions)
 
 
 # Appendices
