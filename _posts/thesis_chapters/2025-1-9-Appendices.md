@@ -683,8 +683,6 @@ Extract from Game Jam Guide [@cornish_game_2018]
 
 
 
-
-
 ### Design decisions in the technical decisions of the template design in P2
 
 #### Using a structural template
@@ -709,6 +707,39 @@ https://phaser.io/tutorials/making-your-first-phaser-2-game/
 https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
 
 
+#### Use of a visual prototyping grid
+
+
+MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
+
+In Chapter 6 the use of visual prototyping was explored in relation Vignette 7 with Dan and Toby.
+
+
+
+
+By way of contrast, in Vignette 2, the Suzanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
+
+The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the matrix helped the child design with little coding or literacy ability. The way the code is structured has been chosen to allow a graphical analogue between the lines of code in the form of a comma separated array and the appearance of the resulting game output on the screen. The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper. The process of turn the sketched into reality on the screen and sharing with others appears to be transformative in terms of the engagement level of the child.
+
+
+There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their children. When invited to share about their design process in a post session interview, Ed and Mark  also discuss the use of paper to clarify initial GDP ideas in interview data. When asked if they were able to Mark  prompts
+
+    Mick: Tell me a  bit  how you came up with those aims in your game, in terms of coming up with a plan.
+    Mark: What for the things that we need to do to it to finish it?
+    Mick: Yeah. Oh, just even from the beginning point. How did you plan together as well?
+    Mark: Well we started off on paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
+
+Later in the interaction, the parent outlines a different use of prototyping, that of sketching directly into software. For this pair, the child appears to prefer sketching directly into software. The father also appreciates potential problems of translating ideas from paper into a digital format.
+
+    Mark: I was very excited by seeing Ed playing with this because it's interesting that everything doesn't have to be a paper and pen.
+    It's nice to just for the kids to feel that they can sketch on Piskel straight off the bat without taking a tutorial or being told by an adult.  It's really intuitive and you just go straight into it.
+    Mick: That's an interesting thing because in some ways it started off with people working on paper because I thought that would be really accessible. Yeah. And maybe it was through observations of people just going “Do you know what I’m just happy sketching on Piskel”.
+    Mark: (Animatedly) The kids, all the kids I saw not just Ed.
+    Mick: Digital sketching.
+    Mark: Yeah.
+    Mick: It seemed to have value in that you were just doing it in the same format that you would use for the game.
+
+    Mark:   Yeah. I think it's really important. I think the pencil and pen thing just didn't work did it. We sketched... It's got its place. But it's, the kids weren't that interested in using the graph paper to block out Piskel. It didn't translate. It was just easier to block it out straight in software.
 
 
 #### Using Phaser 2 not 3 & Game States
@@ -841,6 +872,18 @@ As I built proficiency as a facilitator I began to identify different kinds of e
 
 The following example provides an illustration of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
 FIND EXAMPLE IF POSSIBLE.
+
+
+This area opens some interesting lines of questioning which are beyond the full remit of this research
+
+
+- Question - do more useful / less de-motivating errors result from remixing and game patching?
+- Question - what impact does the process of being driven by GDPs have on how users deal with errors?
+  - For example does the closely paired code structure and game output help with motivation?
+  - How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
+
+
+
 
 <!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
 CAN i FIND ANY KEY EXAMPLES OF THIS?
