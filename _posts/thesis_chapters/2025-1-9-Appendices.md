@@ -707,14 +707,12 @@ https://phaser.io/tutorials/making-your-first-phaser-2-game/
 https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
 
 
-#### Use of a visual prototyping grid
+#### Appendix.tech.prototyping Use of visual prototyping
 
 
 MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
 
 In Chapter 6 the use of visual prototyping was explored in relation Vignette 7 with Dan and Toby.
-
-
 
 
 By way of contrast, in Vignette 2, the Suzanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
