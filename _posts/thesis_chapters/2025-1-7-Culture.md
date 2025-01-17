@@ -121,7 +121,7 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
 - Etc -->
 
-## Research Questions Nov 2024
+## Research Questions Jan 2025
 
     1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
     2. How does CHAT theory help us understand how game design patterns  can be used in an evolving community of novice game makers?
@@ -162,10 +162,23 @@ This chapter will discuss the use of GDPs outlined in the previous chapter in re
 To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
 
 
+**TADS / sannino vs gutierrez - and the purpose of inclusivity / equity**
+
+As part of this discussion of the role of GDPs not only as self-contained mediational tools, but as part of wider repertoires of practice is also explored. The reason being, that other non-GDP elements of the learning design are mixed together in these emerging repertoires, and thus to neglect to explore them would give an incomplete picture. However, I attempt to do this briefly to avoid overloading the reader.  
+
+Go into the details here (or later?) on mediational, TADS, and incorporation in wider repertoires.
+
+Gutiérrez's focus on repertoires of practice, can be contrasted to  the focus of double stimulation and a form of experimental mediation within TADS [Sannio], to incorporate also a wider cultural focus of the learning process.
+
+    Such a perspective on the relationship between culture and learning is also about attention to the “cultural mediation of thinking” (Moll, 1998) cited in [@digiacomo_seven_2017, p.44]
+
+It is of value to explore Gutiérrez's focus on movement of identity between settings and the role of facilitators to faciltate this via learning design in the context of this design.
+
+This justifies a wider focus on cultural elements, and the evolving medium culture via playtesting. And following that the link to inclusive linguistic element of the pedagogy which can be aligned with other inclusive practices of UDL. In this study the focus is less on aspects of ethnical cultural elements and more the those related to neurodiversity. 
 
 **To drop / change / move**  
 
-- impact of side missions / maker types: keep some elements, importance of identiry.  
+- impact of side missions / maker types: keep some elements, importance of identity given Gutierrez's focus.  
 
 ### Old Notes on structure of the chapter
 
@@ -206,16 +219,9 @@ Chap 6 - zoom out in scale to cultural tools and their impact and appropriation 
 The following elements have emerged from many in the learning design as of merit for sharing in this chapter based on the following criteria: key to the learning experience of participant; novel in terms of lack of existing research; supported by recorded data; and of potential wider interest outside this context.
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
-
-
-
-
 <!--
-
 DROPPED - THIS IS JUST PART OF DBR -
-
  ## Observations on emergent elements of agency within cultural activity
-
 This section describes and discusses some of the emergent, flexible and adaptive design practices that I observed in video data. -->
 
 <!-- I also discuss these findings in line with existing research in relevant areas. -->
@@ -258,9 +264,6 @@ While I address areas for future research in the conclusion, a proposed benefit 
 
 <!-- While understanding the process is more obviously useful for faciliators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects. -->
 
-
-
-
 ### Design patterns as a intermediate-level, pedagogical framework compared to computational thinking
 
 <!-- NOTE - PARTS OF THIS WERE MOVED TO THE LIT REVIEW. -->
@@ -294,22 +297,19 @@ Despite this, in terms of participant experiences, it is clear from this chapter
 
 On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding. In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021]. The evidence and examples surfaced in this paragraph support a view of GDPs, as an productive intermediate-level framework and contributes a series of grounded pedagogical instances via examples. It also proposes GDPs as potentially more productive and accessible framework in terms of pedagogical uses than that of computational thinking when making games.
 
-
-
-
-
 ## Observations on emerging idioculture and the role of playtesting in particular
 
 <!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
 
 HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
 
-
-
 The previous chapters have explored both designed and fortuitous changes to the learning design that become adopted by the community (HOW AND WHERE EXACTLY).
 
-I propose that the role of playtesting and period of activity given over to playtesting is crucial to the development of both planned an emergent activity.
-WHY IS THIS IMPORTANT TO THESIS?
+I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities. As such, the nature and process of this community evolution merits exploration.
+
+
+
+### On playtesting behaviours and interaction with GDP findings
 
 As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018]
 
@@ -318,85 +318,6 @@ In this section, I review data to describe some of the emerging playtesting beha
 Summary of this section on playtesting
 
 - why prioritise it?
-
-### Impact of Design on playtesting behaviours (RECAP)
-
-We have already explored how, x in Ch.5 , and y in Ch.6.
-
-RECAP HERE
-
-Later we look specifically at side missions (drama) & player types
-
-
-
-
-### Emerging use of narratives and graphics which drawing on home funds of knowledge  - AVOID OVERLAP AND CHANGE FOCUS TO AGENCY FROM START
-
-NOT REALLY ONLY TO DO WITH PLAYTESTING.
-
-RECAP WHAT HAS ALREADY BEEN EXPLORED,
-In the previous chapter,
-
-
-
-**While the potential to add graphics was a core affordence of the starting processes of the templated game, the process of designing and sharing and the peer commentary on the process emergered as the sessions evolved.**
-
-The literature review outlined the potential of home interests as funds of knowledge, especially informal learning. This learning design provided participants with different ways to input and explore their home interests in the narrative and graphical elements of their created games. For example the choice of game characters allowed the expression of identity. Other designed elements for example audio and graphical effects or written messages added to the overall aesthetic or polish of the game.
-
-Video evidence indicated that conflicts involved between learner expectations and their technical abilities are helped by the use of the starting template. The
-constraints of provided game elements and implied narrative structure of the template accelerated the initial creative process.
-
-<!-- (like a  musical style from which to jam from, or provided constraints in a drama process which help guide improvisation.) -->
-
-One pair Clive and Pearl, the grandparents of Toby, included a narrative message at the start of their game. This process surfaced the expertise of the family as beekeepers, sparking interesting conversations with other participants.
-
-     var starttext = "This is a game which pits a honey bee against a swarm of Asian hornets,  which are alien invaders attacking bee  hives in the UK and which beekeepers are trying to stop spreading  here. Try to guide the bee to collect all the flowers without being caught by the hornets.
-     Use the arrow keys to move the bee. Press return to START.";
-
-<!-- In a noteworthy exchange a young participant Zi asks one of the grandparents of child if they had done any amazing things in their life. This exchange follows
-
-   zi: Have you done amazing things?
-
-The exchange seems to throw Pa but they draw Zi's attention back to the game. Showing that it demonstrates their interest in bees as they are beekeepers.
-
-The source of Pa's hesitancy to share more is not clear. However her willingness to share that part of her personal story via the narrative of the game is shown here as is the willingness of the young participant to ask about the personal experiences of the older participant during the process of peer testing her game. -->
-
-In another example, Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project. "I know just your eyes lit up when you realised you could expand your interests into gaming." See Appendix 4.x (Mark and Ed working with home interests)
-
-<!-- The process of creating assets builds in Molly the identity of a proficient maker. She wants to build on her achievement of being an "expert pixel".  -->
-
-
-
-<!-- NOTE
-NARRATIVE / drama IN PREVIOUS CHAPTER?
-how do these two sections work together? remove this one?
- -->
-<!-- The incorporation of the graphic was relatively quick and easy change to make the game but had a significant factor in the affect towards the game [erikssonUsingGameplayDesign2019;] BRING ON OTHER LITERATURE HERE ON PERSONAL EXPRESSION, FUNDS OF KNOWLEDGE IN THIS AREA. Roque, Scratch, Kafai, Gee etc. -->
-
-<!-- Ideally look for evidence of sharing in communities, especially developing processes, avoiding traps which sap momentum, -->
-
-<!-- While these aspects are covered in other literature, and are therefore not covered in depth in this chapter, it is important to include their strong presense in the data of study. And to situate them in relation to other chapter contents. HOW EXACTLY. -->
-
-Other participants expressed pride over their graphical creations. In this excerpt parent Molly has spent time creating a pixel art representation of an alien. The full exchange (see appendix 4.x) sees Molly cultivating a sense of ownership over the graphical element that she has created. There is also the development of a growing sense of competency in this area of asset design. She notes she is an "expert pixel".
-
-    Molly: We’re finished.  Right what’s next? Now I’m an expert pixel? Now I have to figure out how to get it in there, don’t I? Without losing it. I’ll be very upset.
-    Sonia: Have you saved it?
-    Molly: No I’ve not saved it.
-    Sonia: Save there. (points to relevant button on screen)
-
-The growing mastery of this area also seems to help drive motivation to complete the next challenge. The sense of ownership spurs the technical process of saving projects. Her pride in her work and concern surrounding losing it provokes a fellow parent to show her how to save her work.
-
-#### Summary: Home Funds and RQs
-
-This research supports findings of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
-
-This research indicates that in particular, allowing participants to incorporate home interests can be highly motivating in early stages of the design process. It can also sustain the coding activity later in the process encouraging participants to overcome problems in order to share the personalised object created.
-
-In addition, the tacit knowledge of children as game players gives them access to varied affordances in the process of feeding back.
-
-There is also evidence here that frictions involved in dealing with participant expectations of the genre and professionalism of the game they will create, are helped by the use of a templated game. Both in terms of the technical platform and the implied narrative and creative frame which scaffolds the initial creative process. This supports existing research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama. The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype].
-HOW TO EXTEND?
-
 
 <!-- #### on alien chat
 Perhaps add back in as an unintended consequence?
@@ -428,31 +349,8 @@ The process of play testing as a cultural process is explored in more depth in c
 
 #### Community concepts and norming behaviour emerging during playtesting
 
-<!-- THERE IS DOUBLICATION WITH NEXT CHAPTER - REEVALUATE / REFACTOR - ESP CONCEPT OF SAFE ZONE -->
+MOVE BACK TO CHAPTER 6 IF SPACE?
 
-
-<!-- The elements of variables controlling player movement, the ability to place hazards in the layout of the platform game were initial changes that all participants made but the end results greatly varied in terms of the challenge of the games. Discussions on game challenge, specifically comments about how 'hard' participant games were the most common forms of interaction during playtesting.
-
-Through this informal feedback participants sought to influence peers to modify the playability and challenge games to increase the enjoyment of peer players. For example, parent Molly had been focused mostly on completing asset design this had created a very frustrating game experience in terms of the player's movement. Just before this extract, as a facilitator, I shared feedback about using quite indirect technical language when giving feedback (See appendix 4.x). -->
-
-<!-- PERHAPS TURN THIS INTO A TABLE WITH GESTURE?  -->
-
-<!-- Bertie: That looks nice (referring to the graphical look of the game)
-
-Molly invites Bertie: to play as she can't progress due to the difficult game controls.
-
-Bertie: It jumps super high but so slow.  
-Pause
-Molly: He has to go slow because he's an astronaut, you see.    
-Bertie: It's hard.
-(Bertie leaves.)
-Molly: (to peer parent with proud tone.) It's hard. Wow.
-
-(Ed comes to play the game)
-Ed: How much jump speed to you have?
-Ed: Your jump speed is massive.
-
-Molly initially misconstrues feedback from Bertie that her game is hard as a positive thing. A variety of comments nudge Molly to change her game to align with an emerging community norm of what a sensible jump behaviour should be. Feedback from Mick attempts to bridge a technical and conversational approach. Feedback from Bertie is direct about his player experience as a player.  -->
 
 NOTE THERE IS SOMETHING HERE ABOUT ME STEPPING BACK AND LETTING THE COMMUNITY EVOLVE.
 
@@ -469,7 +367,7 @@ What we can draw from the data at this stage is that playtesing provides many le
 This process is an example of an emerging process where cultural concepts are mutually constituted by all actors involved in the game making activity system. While the concepts of hardness and challenge that emerge and not concrete examples of GDPS, they are the results of changed GDPs. The next chapter explores similar data on the use of GDP related concepts by participants and the resultant potential impact on participant agency.
 
 
-#### Why prioritise local playtesting rather than participation with a wider online community - and how are they different in character? PERHAPS DROP IF NOT NEEDED OR KEEP REALLY SHORT. AND MERGE UP.
+<!-- #### Why prioritise local playtesting rather than participation with a wider online community - and how are they different in character? PERHAPS DROP IF NOT NEEDED OR KEEP REALLY SHORT. AND MERGE UP.
 
 While a lot of other research has focused on community as an online phenomenon, in this research that aspect has not been explored.
 
@@ -481,8 +379,7 @@ The advantages of this decision is that interactions play out off the screen, th
 
 While there is convincing research on on how online community  can engender feelings of agency and motivation [ROQUE AND ITO AND GEE], I chose not to connect with existing online communities in this learning design. Online communities can serve as a form of authentic feedback as explored in the Scratch and New Grounds community websites. However, the process of being involved in an online community and in addition learning the processes of participation diverts time and focus from other activities including real life playtesting.
 
-
-In addition, the diversity of creations available on a online community may also have detracted from the more shared experience of the template used. Not offering a choice of starting game helped this shared technical and cultural base.     
+In addition, the diversity of creations available on a online community may also have detracted from the more shared experience of the template used. Not offering a choice of starting game helped this shared technical and cultural base.      -->
 
 
 
@@ -836,7 +733,7 @@ The nature of the framework provided by game play design patterns can be explore
 There is choice  - and interaction - contribution to the overall object.
 
 
-#### Returning to the concept of computational fluency with a lens of agency
+#### Returning to the concept of computational fluency with a lens of agency - OR BETTER PARTICIPATION?
 
 IS THERE A NEED FOR A SIMILAR DISCUSSION IN GDP CHAPTER?
 
