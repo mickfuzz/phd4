@@ -174,7 +174,7 @@ Gutiérrez's focus on repertoires of practice, can be contrasted to  the focus o
 
 It is of value to explore Gutiérrez's focus on movement of identity between settings and the role of facilitators to faciltate this via learning design in the context of this design.
 
-This justifies a wider focus on cultural elements, and the evolving medium culture via playtesting. And following that the link to inclusive linguistic element of the pedagogy which can be aligned with other inclusive practices of UDL. In this study the focus is less on aspects of ethnical cultural elements and more the those related to neurodiversity. 
+This justifies a wider focus on cultural elements, and the evolving medium culture via playtesting. And following that the link to inclusive linguistic element of the pedagogy which can be aligned with other inclusive practices of UDL. In this study the focus is less on aspects of ethnical cultural elements and more the those related to neurodiversity.
 
 **To drop / change / move**  
 
@@ -347,43 +347,6 @@ These changes to the form and function of playtesting by young participants is a
 The process of play testing as a cultural process is explored in more depth in chapter six.
 
 
-#### Community concepts and norming behaviour emerging during playtesting
-
-MOVE BACK TO CHAPTER 6 IF SPACE?
-
-
-NOTE THERE IS SOMETHING HERE ABOUT ME STEPPING BACK AND LETTING THE COMMUNITY EVOLVE.
-
-Ed gives a more technical explanation from  involving the naming of the variable _jump speed_.
-
-Other children come and play the game but only for less than a minute before leaving. Towards the end of the playtesting process, as one child leaves, Molly comments "It's so frustrating." This suggests an evolving understanding that her game is frustrating to players rather than pleasantly challenging.
-
-The indirect norming behaviours described in appendix 5.Norm.x mirror observations seen in the work of Rogoff and colleagues [@rogoff_cultural_2003] on learning in  community settings.
-
-There is an apparent tension in play here between encouraging individual agency of expression within the game and an evolving community tendency to norm peoples games to be more _playable_, specifically that player movement should conforming to wider expectations.
-
-What we can draw from the data at this stage is that playtesing provides many leverage points to facilitating learner agency and discuss the limits of designs. IN addition, playtesting is a process that allows participants to demonstrate informed criticality as a player and guide the creations of peers via gameplay feedback.
-
-This process is an example of an emerging process where cultural concepts are mutually constituted by all actors involved in the game making activity system. While the concepts of hardness and challenge that emerge and not concrete examples of GDPS, they are the results of changed GDPs. The next chapter explores similar data on the use of GDP related concepts by participants and the resultant potential impact on participant agency.
-
-
-<!-- #### Why prioritise local playtesting rather than participation with a wider online community - and how are they different in character? PERHAPS DROP IF NOT NEEDED OR KEEP REALLY SHORT. AND MERGE UP.
-
-While a lot of other research has focused on community as an online phenomenon, in this research that aspect has not been explored.
-
-This section explores my decision to prioritise local playtesting rather than participation with a wider online community as well as  how are they different in character.
-
-One reason was practical,  a suitable online community pitched at children or even at novices was not apparent using the chosen tools set.
-
-The advantages of this decision is that interactions play out off the screen, the limited games available increase community interaction, as participants drew only from a small pool of locally created games.
-
-While there is convincing research on on how online community  can engender feelings of agency and motivation [ROQUE AND ITO AND GEE], I chose not to connect with existing online communities in this learning design. Online communities can serve as a form of authentic feedback as explored in the Scratch and New Grounds community websites. However, the process of being involved in an online community and in addition learning the processes of participation diverts time and focus from other activities including real life playtesting.
-
-In addition, the diversity of creations available on a online community may also have detracted from the more shared experience of the template used. Not offering a choice of starting game helped this shared technical and cultural base.      -->
-
-
-
-
 ## Impact of Side Missions and Maker Types on playtesting behaviours
 
 
@@ -428,15 +391,6 @@ Begin discussion with reference to [@gutierrez_cultural_2003] on "Helping Studen
 Thus I am not suggesting that these styles make up a ridgid typology to be replicated in other settings, instead, in line with Gutierrez and Rogoff [-@gutierrez_cultural_2003, p.20] , that the process of co-constructing understanding and communication about learning styles can "support the changing nature of participation and the forms of assistance provided in joint activity."
 
 
-
-####  MoE
-
-One area of research which was explored in this learning design but which has needed to be deprioritise is that of Mantle of the Expert and the permission to play and experiment which the drama process advocates.
-
-While a fuller exploration of how this was put into practice in P3 via a narrative which wrapped around the making activity, it is relevant to the use of side missions, and the possibility for character exploration in terms of a maker type.
-
-NOTE
-Link to other research on permisison structures, confidence, inclusion, permission to play
 
 
 ### Limitations of observations and careful statements of potential
@@ -488,7 +442,7 @@ There is a good tradition of metaphors in this space with Papert's low threshold
 Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]  
 
 
-### The use of concepts of mediation and dual stimulation in this exploration of the development of agency
+### The use of concepts of mediation and dual stimulation in this exploration of the development of agency - THEN REPERTOIRES ALSO?
 
 As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter).
 
@@ -650,7 +604,7 @@ The following section integrates affordance theory into a metaphor to encompass 
 
 
 
-## Synthesis Section
+## Synthesis Section - INCLUDE SOME MORE IMPLICATION FOR PRACTITIONERS?
 
 INTRO SIGNPOSTING Here
 
@@ -1224,12 +1178,6 @@ https://docs.google.com/document/d/1iULJILpLhfaG4q2jPLuyNSnSrk9xXRA6A6GZC5UesOc/
 
 
 
-
-
-
-
-
-
 <!-- This chapter was organised in part around starting processes and practices and tool use which  emerged from this starting point. This distinction is fluid as some tools and processes which emerged in community practice, prove to be successful and which are then adopted as a suggested process for the next iteration of the design.
 
 We can note tension of restricting user choice in order to create more "visible anchor points" to increase potential for increasing the agency of learners. Like swimming in a protected pool rather than in the sea. This tension is explored more in following chapter.
@@ -1297,3 +1245,50 @@ MOVE THIS TO NEXT CHAPTER DISCUSSION?
 **A tension in use of norming practices and participant choice?**
 However, as a seeming counterpoint to this growing agency is the norming effects of concepts that gain community currency in playtesting. The repeated attempts by participants to make the jumping mechanic of Molly less frustrating can be seen as a potential drag on the agency or autonomy of Molly as a designer. However this may be a false dichotomy. Such norming practices can be seen from a different perspective according to Rogoff, as a productive nudge to get real.
  IS THIS EXPLORED IN THE NEXT CHAPTER?
+
+
+## Removed in Jan - find home
+
+#### Community concepts and norming behaviour emerging during playtesting
+
+MOVE BACK TO CHAPTER 6 IF SPACE?
+
+NOTE THERE IS SOMETHING HERE ABOUT ME STEPPING BACK AND LETTING THE COMMUNITY EVOLVE.
+
+Ed gives a more technical explanation from  involving the naming of the variable _jump speed_.
+
+Other children come and play the game but only for less than a minute before leaving. Towards the end of the playtesting process, as one child leaves, Molly comments "It's so frustrating." This suggests an evolving understanding that her game is frustrating to players rather than pleasantly challenging.
+
+The indirect norming behaviours described in appendix 5.Norm.x mirror observations seen in the work of Rogoff and colleagues [@rogoff_cultural_2003] on learning in  community settings.
+
+There is an apparent tension in play here between encouraging individual agency of expression within the game and an evolving community tendency to norm peoples games to be more _playable_, specifically that player movement should conforming to wider expectations.
+
+What we can draw from the data at this stage is that playtesing provides many leverage points to facilitating learner agency and discuss the limits of designs. IN addition, playtesting is a process that allows participants to demonstrate informed criticality as a player and guide the creations of peers via gameplay feedback.
+
+This process is an example of an emerging process where cultural concepts are mutually constituted by all actors involved in the game making activity system. While the concepts of hardness and challenge that emerge and not concrete examples of GDPS, they are the results of changed GDPs. The next chapter explores similar data on the use of GDP related concepts by participants and the resultant potential impact on participant agency.
+
+
+<!-- #### Why prioritise local playtesting rather than participation with a wider online community - and how are they different in character? PERHAPS DROP IF NOT NEEDED OR KEEP REALLY SHORT. AND MERGE UP.
+
+While a lot of other research has focused on community as an online phenomenon, in this research that aspect has not been explored.
+
+This section explores my decision to prioritise local playtesting rather than participation with a wider online community as well as  how are they different in character.
+
+One reason was practical,  a suitable online community pitched at children or even at novices was not apparent using the chosen tools set.
+
+The advantages of this decision is that interactions play out off the screen, the limited games available increase community interaction, as participants drew only from a small pool of locally created games.
+
+While there is convincing research on on how online community  can engender feelings of agency and motivation [ROQUE AND ITO AND GEE], I chose not to connect with existing online communities in this learning design. Online communities can serve as a form of authentic feedback as explored in the Scratch and New Grounds community websites. However, the process of being involved in an online community and in addition learning the processes of participation diverts time and focus from other activities including real life playtesting.
+
+In addition, the diversity of creations available on a online community may also have detracted from the more shared experience of the template used. Not offering a choice of starting game helped this shared technical and cultural base.      -->
+
+
+
+####  MoE
+
+One area of research which was explored in this learning design but which has needed to be deprioritise is that of Mantle of the Expert and the permission to play and experiment which the drama process advocates.
+
+While a fuller exploration of how this was put into practice in P3 via a narrative which wrapped around the making activity, it is relevant to the use of side missions, and the possibility for character exploration in terms of a maker type.
+
+NOTE
+Link to other research on permisison structures, confidence, inclusion, permission to play
