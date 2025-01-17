@@ -2,11 +2,18 @@
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
     -   [Research Questions Nov 2024](#research-questions-nov-2024)
-        -   [Notes on coding for this
-            chapter](#notes-on-coding-for-this-chapter)
     -   [Introduction](#introduction)
-        -   [Notes on structure of the
-            chapter](#notes-on-structure-of-the-chapter)
+        -   [New Notes on structure of the
+            chapter](#new-notes-on-structure-of-the-chapter)
+        -   [Old Notes on structure of the
+            chapter](#old-notes-on-structure-of-the-chapter)
+    -   [Discussion SECTION MOVED FROM PREVIOUS
+        CHAPTER](#discussion-section-moved-from-previous-chapter)
+        -   [Discussion of findings in relation to CHAT conceptions of
+            abstraction](#discussion-of-findings-in-relation-to-chat-conceptions-of-abstraction)
+        -   [Design patterns as a intermediate-level, pedagogical
+            framework compared to computational
+            thinking](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
     -   [Observations on emerging idioculture and the role of
         playtesting in
         particular](#observations-on-emerging-idioculture-and-the-role-of-playtesting-in-particular)
@@ -42,20 +49,6 @@
             -   [MoE](#moe)
         -   [Limitations of observations and careful statements of
             potential](#limitations-of-observations-and-careful-statements-of-potential)
-    -   [Observations on emerging flexible design practices (MORE ON
-        INTERPERSONAL
-        LEVEL)](#observations-on-emerging-flexible-design-practices-more-on-interpersonal-level)
-        -   [Observations and evidence on flexible design
-            practice](#observations-and-evidence-on-flexible-design-practice)
-        -   [Discussion on Flexible Design
-            Practices](#discussion-on-flexible-design-practices)
-            -   [The potential of emergent "non-productive"
-                activities](#the-potential-of-emergent-non-productive-activities)
-        -   [Discussion in relation to other
-            research](#discussion-in-relation-to-other-research)
-            -   [- beyond design cycle
-                stages](#beyond-design-cycle-stages)
-            -   [On Game Jamming](#on-game-jamming)
     -   [Discussion of three dimension of agency using a metaphorical
         approach](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach)
         -   [Justifying the use of Metaphors in these

@@ -9,31 +9,21 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
+
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
     -   [Research Questions Nov 2024](#research-questions-nov-2024)
     -   [Introduction](#introduction)
-        -   [New Notes on structure of the
-            chapter](#new-notes-on-structure-of-the-chapter)
-        -   [Old Notes on structure of the
-            chapter](#old-notes-on-structure-of-the-chapter)
-    -   [Discussion SECTION MOVED FROM PREVIOUS
-        CHAPTER](#discussion-section-moved-from-previous-chapter)
-        -   [Discussion of findings in relation to CHAT conceptions of
-            abstraction](#discussion-of-findings-in-relation-to-chat-conceptions-of-abstraction)
-        -   [Design patterns as a intermediate-level, pedagogical
-            framework compared to computational
-            thinking](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
-    -   [Observations on emerging idioculture and the role of
-        playtesting in
-        particular](#observations-on-emerging-idioculture-and-the-role-of-playtesting-in-particular)
+        -   [Notes on structure of the
+            chapter](#notes-on-structure-of-the-chapter)
+    -   [Observations / Discussion on Playtesting as a cultural
+        process](#observations-discussion-on-playtesting-as-a-cultural-process)
         -   [Impact of Design on playtesting behaviours
             (RECAP)](#impact-of-design-on-playtesting-behaviours-recap)
         -   [Emerging use of narratives and graphics which drawing on
-            home funds of knowledge - AVOID OVERLAP AND CHANGE FOCUS TO
-            AGENCY FROM
-            START](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge---avoid-overlap-and-change-focus-to-agency-from-start)
+            home funds of
+            knowledge](#emerging-use-of-narratives-and-graphics-which-drawing-on-home-funds-of-knowledge)
             -   [Summary: Home Funds and
                 RQs](#summary-home-funds-and-rqs)
             -   [Playtesting and embodied participation in the games of
@@ -60,6 +50,20 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [MoE](#moe)
         -   [Limitations of observations and careful statements of
             potential](#limitations-of-observations-and-careful-statements-of-potential)
+    -   [Observations on emerging flexible design practices (MORE ON
+        INTERPERSONAL
+        LEVEL)](#observations-on-emerging-flexible-design-practices-more-on-interpersonal-level)
+        -   [Observations and evidence on flexible design
+            practice](#observations-and-evidence-on-flexible-design-practice)
+        -   [Discussion on Flexible Design
+            Practices](#discussion-on-flexible-design-practices)
+            -   [The potential of emergent "non-productive"
+                activities](#the-potential-of-emergent-non-productive-activities)
+        -   [Discussion in relation to other
+            research](#discussion-in-relation-to-other-research)
+            -   [- beyond design cycle
+                stages](#beyond-design-cycle-stages)
+            -   [On Game Jamming](#on-game-jamming)
     -   [Discussion of three dimension of agency using a metaphorical
         approach](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach)
         -   [Justifying the use of Metaphors in these
@@ -124,11 +128,11 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 ## Research Questions Nov 2024
 
     1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
-    2. How does CHAT theory help us understand how game design patterns  can be used in an evolving community of novice game makers?
-    3. How can learners build agency in an evolving community of game makers? REVISE
+    2. How can game design patterns support the development of computational fluency in novices?
+    3. How can learners build agency in an evolving community of game makers?
 
 
-<!-- ### Notes on coding for this chapter
+### Notes on coding for this chapter
 See also thematic coding online
 
 - Playtesting and play
@@ -140,58 +144,40 @@ See also thematic coding online
 - Flexible design processes
   - Participant driven design - beyond gdps
   - Design improvisation - beyond design stages
-  - Non productive -->
+  - Non productive
 
-<!-- Really come back to the RQs and the data. -->
+Really come back to the RQs and the data.
 
 ## Introduction
 
-
+This chapter explores emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency.
 
 <!-- The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contrast, the processes explored in this following section emerged more directly from input from the participants in2024-8-7-Culturevolved.   -->
 
 
-### New Notes on structure of the chapter
+### Notes on structure of the chapter
 
-This chapter will discuss the use of GDPs outlined in the previous chapter in relation to
+<!-- COMMENT - While there is an overarching theme of, there is still a fair bit of work to do to make the structure of this chapter coherent. -->
 
-- Socio cultural understandings of mediation and agency via TADS  theory,  particularly in relation to the abstract and concrete.
-- Conceptions of abstract and concrete present in computing and digital making research: ultimately, proposing design patterns as a intermediate-level, pedagogical framework compared to computational thinking.
-- Issues of inclusive pedagogy which underline the entire motivation and design of the study. Returning therefore to a fundamental point of the study to explore how this help diverse learners in a challenging area to learn.
+The guiding direction of this chapter is on how participants use the created and emerging cultural and practical tools of this game making program, particularly in reference to the building of agency?
 
-To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
+Thus mostly addressing RQ3. However to do this, the chapter builds on the work of previous chapters and in doing so discusses aspects of all three research questions.
 
-
-
-**To drop / change / move**  
-
-- impact of side missions / maker types: keep some elements, importance of identiry.  
-
-### Old Notes on structure of the chapter
-
-Following Chapter 6's presentation findings on how participants use GDPs, this chapter contains further discussion on this use GDPs ,
-particularly in reference to the building of agency?
-
-To do so at time the focus is widened to include discussion on the evolving setting of use - in particular playtesting and the design processes involved.  
-
-The chapter contains a discussion on wider concerns of designing for learner agency. Here I synthesise analysis on processes which support learners to develop agency in this game making community
-(and the role of different levels of authenticity?)
-
-The lens of inclusion and the alignment with UDL is also relevant within an analysis of the discussion of concrete and abstract frameworks.
-
-
-Additionally, because of the relevance of x and y  in the process,
-
-The role of the emerging culture and identity of the idioculture  is developed in this chapter in the following ways:
+For example, in the previous chapter explored the use of GDPs in varied ways which combined to provide a useful structure to orient project work. The community themes is developed in this chapter in the following ways:
 
 - playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting
 
-- the impact / if any of the social missions and player types to help the development of learner identities.
+- the impact / if any of the social missions and player types o
 
 - the emergence and nurturing of flexible and complex design behaviours (beyond player types)
 
-Some sections here including discussion on element of the introduced side missions explore how facilitators can encourage emergent processes as part of an introduced design. This discussion chapter uses this conceptual spectrum as a way to explore an analysis of different aspects of agency aand inclusive pedagogies.
 
+The chapter then begins a discussion on the overall design context, tensions and evolution of tool use. Particular attention is given to the implications of design decisions and scaffolding approaches to tool use.
+WHAT RQS DOES THIS ANSWER AND WHY? STEER TO RQ3 ON AGENCY
+
+<!-- It also begins to ask questions about the possible application of this approach to classroom contexts. -->
+
+The chapter ends with a discussion on wider concerns of designing for learner agency. Here I synthesise analysis on processes which support learners to develop agency in this game making community and the role of different levels of authenticity.
 
 <!-- _How does this fit into other findings chapters?_
 
@@ -207,7 +193,7 @@ The following elements have emerged from many in the learning design as of merit
 IS THIS NEEDED OR IS THE CRITERIA ONLY THAT IT ADDRESSES RESEARCH QUESTIONS? -->
 
 
-
+Some sections here including discussion on element of the introduced side missions explore how facilitators can encourage emergent processes as part of an introduced design. This discussion chapter uses this conceptual spectrum as a way to explore an analysis of different aspects of agency aand inclusive pedagogies.
 
 
 <!--
@@ -222,94 +208,13 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 
 
-## Discussion SECTION MOVED FROM PREVIOUS CHAPTER
-
-The majority of this chapter has focused on findings and immediate interpretation of participant and facilitator use of GDPS as a mediational strategy / repertoire. This section takes a step back to explore the wider perspectives of the findings beyond the immediate context to digital making and project based approaches and understandings of design patterns in educational contexts.
-
-In this discussion section, I:
-
-- explore the uses of GDPs in relation to varied conceptions of abstraction, chiefly CHAT and CT
-
-- propose that GDPs provide a suitable way to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures.
-
-- explore potential implications for facilitators and researchers on use of GDP collection as an  intermediate pedagogical construct.
-
-### Discussion of findings in relation to CHAT conceptions of abstraction
-
-The previous section began to explored, through the lens of personal appropriation, to variety of skills suitable for development via this learning design. The final section surfaced a  distinction between curricular contents commonly associated with a more abstract understandings of personal knowledge, including more abstract elements of computation thinking. This section continues an interpretation of this chapters findings and an socio-cultural understanding of learning using activity theory as a framework. This investigation has required a careful investigation of abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. To start, let us consider the nature of the abstraction of gameplay design patterns via Sannino' [-@sannino_activity_2011] distinction between empirical and theoretical abstraction.
-
-    "While observation and categorization are actions at the root of empirical abstraction, practical transformation, change, and experimentation are actions at the root of theoretical abstraction. Theoretical abstraction allows one to generate and project complex, theoretically mastered concrete manifestations and developmental forms of the reality under scrutiny. A theoretical abstraction is based on a functional relationship, also called a germ cell." [@sannino_activity_2011].
-
-<!-- There are two types of abstractions: empirical and theoretical. Empirical abstraction
-is a classification of superficial features of phenomena. Theoretical abstraction refers to the identification of the genetic origins of phenomena that may externally be not alike at all. A theoretical abstraction is based on a functional relationship, also called a germ cell.  While observation and categorization are actions at the root of empirical abstraction, practical transformation, change, and experimentation are actions at the root of theoretical abstraction. Theoretical abstraction allows one to generate and project complex, theoretically mastered concrete manifestations and developmental forms of the reality under scrutiny
-Title: Activity theory as an activist and interventionist theory, Author: Sannino, Date: 10/2011 -->
-<!-- A deeper exploration of other concepts may suit another chapter looking at synthesing observations in relation to broader research.  -->
-
-In this research, the empirical level of abstraction is  present in P1 and in P2 where features to be added to the game were classified gameplay features and categorised according to to the existing MDA framework. Moving beyond the empirical towards the theoretical aspect, is the early positioning of each feature as a gameplay design pattern which can be described and supplemented with a suggested code structures and examples.
-ANY OTHERS
-
-The key, guiding conception here becomes the pedagogical utility of a strong coupled link between a feature of an observable game product (in this case gameplay design patterns) and scaffolding resources available within a community. This concept becomes the root of the varied approaches and forms of support outlined in this chapter. Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start cards, a home menu of GDPs, code snippets, stepped tutorials ). Many other examples, as outlined above were more spontaneous and informal, spreading from peer to peer in the community often during playtesting.  
-
-The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
-
-While the educational use of design patterns and has been explored in other settings via research, the focus has been on professional rather than novice learners.  
-
-While I address areas for future research in the conclusion, a proposed benefit of this research is While understanding the process is more obviously useful for facilitators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects.to underscore the potential and to uncover a starting point for pedagogies that can be transferred to diverse design projects.
-
-<!-- While understanding the process is more obviously useful for faciliators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects. -->
-
-
-
-
-### Design patterns as a intermediate-level, pedagogical framework compared to computational thinking
-
-<!-- NOTE - PARTS OF THIS WERE MOVED TO THE LIT REVIEW. -->
-
-It is productive to ask: how can the use of GDPs as a framework be compared to that of computational thinking given CT's is a dominance in this area?
-
-In chapter two I described the characteristics and limits of computational thinking as a pedagogical framework, specifically concepts include: varied interpretations; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches.
-
-<!-- Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets. -->
-
-Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area. In terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990]. However, if we return to Papert and Turkle's [-@papert_epistemological_1990] challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, such an approach would also challenge Waite rationale of alternating between abstract and concrete poles.
-
-While, none of the author's above are clear about what exactly is meant by the abstract in their explorations, a synthesis of relevant literature supports an spectrum of abstraction, from Wing's take on CT at the most abstract, and specifics coding constructs or even syntax at the most concreted. Such a spectrum is in is broadly in line with LOA interpretation, although the purpose is shown as the higher level of abstraction. ANY DIFFERENCES?
-
-PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
-
-This direction of the findings of this chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
-
-    In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
-
-Such an interpretation is adopted by Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] which drew inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
-
-
-<!-- **In terms of recommendations for researchers / practitioners of an intermediate framework:** -->
-
-Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research. As a challenge these findings, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
-
-<!-- As such this research has only more theoretical propositions rather than participant data. -->
-
-Despite this, in terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design. Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it. This chapter has outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture. I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that to further research to would be needed to justify the utility take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum constraints.
-
-On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding. In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021]. The evidence and examples surfaced in this paragraph support a view of GDPs, as an productive intermediate-level framework and contributes a series of grounded pedagogical instances via examples. It also proposes GDPs as potentially more productive and accessible framework in terms of pedagogical uses than that of computational thinking when making games.
-
-
-
-
-
 ## Observations on emerging idioculture and the role of playtesting in particular
 
 <!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
 
-HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
-
-
-
 The previous chapters have explored both designed and fortuitous changes to the learning design that become adopted by the community (HOW AND WHERE EXACTLY).
 
 I propose that the role of playtesting and period of activity given over to playtesting is crucial to the development of both planned an emergent activity.
-WHY IS THIS IMPORTANT TO THESIS?
 
 As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018]
 
@@ -567,8 +472,126 @@ In appendix 5.playertypes, I outline the use of a game to explore different game
 To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
  -->
 
+
+
+## Observations on emerging flexible design practices (MORE ON INTERPERSONAL LEVEL)
+
+<!-- NOTE To restructure. -->
+
+This section outlines additional video and observational evidence on community and social activity which contributes to the research area on project and design approaches to learning coding. This section outlines and analyses potential useful practices which I characterise as _flexible design practices_ used a counterpoint to a potentially more prescriptive interpretation of design thinking stages.
+
+This characterisation can be seen in some of the entries of the previous chapter which outlined  x, y and z.
+The use of GDPs here can be seen to be quite flexisble
+
+ This includes emerging norms, DoL, and community behaviour.  
+
+This section discusses some of the outcomes stemming from interventions and emergent participant responses in the area of peer and individual working practices.
+
+In Chapter 5, one of area of contractions was the dysfunctional group work which was freed up by allowing greater atomisation and greater scaffolding of tool use.
+
+<!-- Some barriers stemming from alienation from participant group working processes were resolved partly by freeing up some patterns of collaboration and interaction and removing others.
+
+The process of parents getting in the way of children's not minding jumping in and invading social space struck me. Together with the frustrations of complexities of larger group work the restrictions created a tension between the suggested community norm of how division of labour was organised.
+
+Thus in P2, rather than the larger groups of P1, smaller groups, allowing some children to work by themselves and others with parents. Avoiding large group fragmentation and encouraging freedom of participation vs benefiting from parental involvement.
+
+There is a flexibility here which is encouraged by informal moments of  playtesting
+
+These tensions are mirrored in similar research and were highlighted in the practitioner interviews that I conducted.
+ -->
+
+
+
+Chapter five outlined examples of GDPS being used as a lingua franca in playtesting sessions for a variety of collaborative work from feedback to direct requests for help from peers.
+
+ARE THERE ARE OTHER STUDIES WHICH ENCOURAGE THIS?
+
+#### Observations and evidence on flexible design practice
+
+Flexible design practices are often present in recorded data. Younger participants in particular developed impressively fluid practice demonstrating extremely rapids shifts between code editing, game testing, authoring assets in online tools and migrating files often while talking with peers. Older participants also showed rapid, responsive creativity. Clive quickly incorporated a boost to player health after a level after being given feedback during playtesting. In exploring sound making software Ed and Mark start a process of tinkering and messing about with the capability of the tools which spurs creativity. The joint jamming created two different soundtracks. This sparks a new proposal to incorporate different soundtracks for different levels. Pairs often adopted a similar spirit of improvisaion. For example parent Dan makes a suggestion - "Use paper to design?" - to which Toby replies "I'm just going with it."
+
+
+**Describing Design Cycles as a design process for novices**
+
+As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
+
+In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. The following writing discusses the value of flexible approach to design processes observated in my research.
+
+### Discussion on Flexible Design Practices
+
+While the concept of Game Jams are established, the free form flexibility of the Jam process is often left to the skills and evolving practices of the participants.
+
+This section explores the process of jamming in the context of game making. While the processes identified are often improvised, there is a group element of the process where makers pick up techniques from other makers in the group. I propose the value of facilitators noticing and nurturing potentially productive practices.
+
+I propose that this process can have value in other areas of digital making.
+
+
+
+
+
+
+
+
+#### The potential of emergent "non-productive" activities
+
+Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These processes often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
+
+ <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
+ <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
+
+
+Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared. In retrospect, many of the social missions explored above encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_.
+
+The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
+
+In addition, I observed that navigating these essential but non-creative tasks in a collaborative and playful way can reduce learner anxiety and help maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter available in appendix 5.x - an extract of which is included below.
+
+| Participant Dialogue          | Participant Gestures & Activities              
+|----------------|----------------|
+|   |  Nadine has just rapidly demonstrated how to bring a created graphical element into the game |
+|      **Molly:** How did you do that so quickly? I’ve got to like, carefully...  |  Molly makes hand gestures to show a sense of hesitant keyboard use)  |
+|  | A parent peer next toA Molly laughs.      <br/>    Nadine, the child of Molly bounces up in place and smiles broadly.    |
+
+In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants.
+
+The potential impact on agency is as follows; If these tasks can be seen as more than mere barriers to production, and therefore to be designed out to increase instrumental agency, then there is potential to increase relational agency through flexible divisions of labour that allow the incorporation of home roles in to this new learning space. Thus a potential affordance to find identify and specialism here.
+
+This a concept is developed later in this discussion.
+
+
+
+### Discussion in relation to other research
+
+#### - beyond design cycle stages
+
+These observations of the value of flexible design processes, invite discssion on how best to conceptualise and support these flexible approaches. Game Jams are accelerated events encouraging creative collaboration and innovation. While the event's premise is to promote collaboration, these events are inconsistent in their support and scaffolding of collaborative approaches [@goddard_playful_2014].
+
+Other relevant perspectives include rhizomatic design approaches  [@de_freitas_classroom_2012]. Research exists on the promise of rhizomatic approaches design thinking in creative educational programmes [@biffi_chasing_2017-1]. However researcher identify significant competencies required including to "identify and synthesize the body of technical and even complex knowledge into a feasible structure" [@biffi_chasing_2017-1, p. 972], which are not well-aligned with the age group of this context.
+
+However, in this context the link is imiled or ther eare otehr problems with framing as rhizomatic metaphor in terms of communicating the essence of the flexible approach beyond academic audience.  
+
+#### On Game Jamming
+
+So instead of rhizomatic design process, I propose that the tools, process and the community in this study mutually encourage an improvisational approach often referred to as jamming.
+
+NOTE - Explore jamming in relation to lit review concepts and data of the chapter.
+
+There are disparate resources available for game jams but due to the adult centric audience and mix of abilities they are less guided in nature than many supported design processes aimed at school age audiences.
+
+
+Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these). A complementary approach would be to significantly adapt the overall Game Jam format and to add greater scaffolding to the process as in the learning design of this research.
+
+Examples - move examples up?
+
+Within the concept of jamming, activity which is casual seemingly non-productive can still transmit useful information to guide collaborative practices. As per above and examples in Appedix ? Find.
+
+I propose that the concept of jamming can be introduced and supported as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003]
+
+
 <!-- MOVE THIS CLAIM LATER.
 **Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams. -->
+
+
 
 <!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
 
