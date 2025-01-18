@@ -162,20 +162,6 @@ This chapter will discuss the use of GDPs outlined in the previous chapter in re
 To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
 
 
-**TADS / sannino vs gutierrez - and the purpose of inclusivity / equity**
-
-As part of this discussion of the role of GDPs not only as self-contained mediational tools, but as part of wider repertoires of practice is also explored. The reason being, that other non-GDP elements of the learning design are mixed together in these emerging repertoires, and thus to neglect to explore them would give an incomplete picture. However, I attempt to do this briefly to avoid overloading the reader.  
-
-Go into the details here (or later?) on mediational, TADS, and incorporation in wider repertoires.
-
-Gutiérrez's focus on repertoires of practice, can be contrasted to  the focus of double stimulation and a form of experimental mediation within TADS [Sannio], to incorporate also a wider cultural focus of the learning process.
-
-    Such a perspective on the relationship between culture and learning is also about attention to the “cultural mediation of thinking” (Moll, 1998) cited in [@digiacomo_seven_2017, p.44]
-
-It is of value to explore Gutiérrez's focus on movement of identity between settings and the role of facilitators to faciltate this via learning design in the context of this design.
-
-This justifies a wider focus on cultural elements, and the evolving medium culture via playtesting. And following that the link to inclusive linguistic element of the pedagogy which can be aligned with other inclusive practices of UDL. In this study the focus is less on aspects of ethnical cultural elements and more the those related to neurodiversity.
-
 **To drop / change / move**  
 
 - impact of side missions / maker types: keep some elements, importance of identity given Gutierrez's focus.  
