@@ -224,7 +224,7 @@ In this discussion section, I:
 
 - propose that GDPs provide a suitable way to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures.
 
-- metaphors / frameworks to envisage affordences and particpant agency in CHAT framework. and why this is useful for facilitators and as an accessibel way to share findings. 
+- metaphors / frameworks to envisage affordences and particpant agency in CHAT framework. and why this is useful for facilitators and as an accessibel way to share findings.
 
 - explore potential implications for facilitators and researchers on use of GDP collection as an  intermediate pedagogical construct.
 
@@ -415,7 +415,7 @@ To communicate this approach, as well as starting game activity, I incorporated 
 
 
 
-## Discussion of three dimension of agency using a metaphorical approach  
+## Discussion of three dimension of agency (using a metaphorical approach) DOWNPLAY METAPHORS   
 
 An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this I draw on key forms of developmental agency explored in Chapter 3.
 
@@ -423,13 +423,13 @@ This section synthesises findings learner agency in relation to existing concept
 
 This section explores these academic conceptions in a playful way using relatable metaphors from related research. The aim of this playful/relatable approach is to aid the situation of later recommendations for researchers and educators working in this area in an accessible way.
 
-### Justifying the use of Metaphors in these FINDINGS
+<!-- ### Justifying the use of Metaphors in these FINDINGS - CONCLUSION?
 
 A mixed readership for this research is hoped for as relevant to pracitioners and some of the break down of agency is quite academic in tone and potentialy opaque.
 
 There is a good tradition of metaphors in this space with Papert's low thresholds, high ceilings and wide walls concept. INSERT IN LR, PERHAPS IN TRANSITION FROM MICROWORLDS TO SCRATCH AND DESIGN BUILD TEST GAME MAKING.  
 
-Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]  
+Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]   -->
 
 
 ### The use of concepts of mediation and dual stimulation in this exploration of the development of agency - THEN REPERTOIRES ALSO?
@@ -438,7 +438,13 @@ As previously explored, varied conceptions of agency exist including: instrument
 
 This section explores these conceptions using the core AT concepts of mediation and dual stimulation explored in Chapter 3 to illuminate pedagogical development related to the interaction of designed and emergent tools and processes, shedding light on dimensions of participant agency.
 
-To summarise similarities and distinctions between mediation and double stimulation we can say X & Y.  
+To summarise similarities and distinctions between mediation and double stimulation  [@isaac_cultural_2022], it is beyond an instrumental approach to provoke change in the enviroment.
+
+Hopwood [@hopwood_agency_2022] explores varied interpretations between mediation and double stimulation, exposing varied interpretations of mediation and ds's special interpretation by Sannino, and the difficulties of then comparing the models of agency.    
+
+
+In research which addresses transformative agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings, in ways which are not generally explored in Change Labs approaches.  
+
 
 SHIFT SOME OF THE BELOW TO THE THEORETICAL FRAMEWORK CHAPTER.
 
@@ -446,7 +452,13 @@ RECAP KEY ELEMENTS FROM CHAPTER 3. LIke:
 
 - THE DIFFERENCE BETWEEN TOOLS AS MEDIATING TOOLS AND DOUBLE STIMULATION.
 - primary and secondary tools / stimulation
-- that there are many possible stimuli in a modern environment (find source )
+
+
+For this study, one issue of Sannino and Engestroms general approach is that there are many possible stimuli in a modern environment (find source ), and while yes, participant may adapt them for their own use, the focus on just one is potentially limiting. JUST A THOUGHT.
+
+Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication. To explore this thought,  I will engage in some metaphorical analysis, some following many other researchers, and introducing some of my own.
+
+
 
 
 <!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
@@ -465,7 +477,7 @@ Introducing additional tools in the form of documentation to the initial coding 
 <!-- In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However,  -->
 
 The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
-But may remove authroial or relational agency.
+But may remove authorial or relational agency.
 
 As an example take the tensions surrounding  authenticity of coding web development language, coding environment and documentation. my choice of curated collection of docs prevented friction and potential confusion if using real developer documents.  
 
