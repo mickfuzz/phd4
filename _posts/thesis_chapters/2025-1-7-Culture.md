@@ -224,7 +224,11 @@ In this discussion section, I:
 
 - propose that GDPs provide a suitable way to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures.
 
+- metaphors / frameworks to envisage affordences and particpant agency in CHAT framework. and why this is useful for facilitators and as an accessibel way to share findings. 
+
 - explore potential implications for facilitators and researchers on use of GDP collection as an  intermediate pedagogical construct.
+
+- add in a lens of UDL as a helpful framework to design for varied experience, opening in up diverse affordences.
 
 ### Discussion of findings in relation to CHAT conceptions of abstraction
 
