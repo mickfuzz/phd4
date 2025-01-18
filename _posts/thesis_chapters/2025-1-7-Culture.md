@@ -153,7 +153,7 @@ See also thematic coding online
 
 ### New Notes on structure of the chapter
 
-This chapter will discuss the use of GDPs outlined in the previous chapter in relation to
+This chapter will discuss the uses of GDPs outlined in the previous chapter in relation to
 
 - Socio cultural understandings of mediation and agency via TADS  theory,  particularly in relation to the abstract and concrete.
 - Conceptions of abstract and concrete present in computing and digital making research: ultimately, proposing design patterns as a intermediate-level, pedagogical framework compared to computational thinking.
