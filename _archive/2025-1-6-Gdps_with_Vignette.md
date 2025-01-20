@@ -146,7 +146,7 @@ The following table outlines the principle different uses of GDP in the data ana
 INSERT SUMMARY TABLE FROM HERE -
 https://docs.google.com/document/d/1Ce2cYIYnFCd9GM8zRntBd7lrud-dMbbrtgEQMoGNRmE/edit
 
-DEVELOP HOW THIS WILL BE SUPPORTED WITH EVIDENCE IN THIS CHAPTER.
+
 
 <!--
 _extending the use of GDPs beyond the initial use to diverse mediational uses and component parts of emerging making repertoires & Identifying GDPs as a germ cell/ unit of analysis_ -->
@@ -165,6 +165,16 @@ _extending the use of GDPs beyond the initial use to diverse mediational uses an
   <!-- - how design patterns interplay with design principles and how the process relates to design based research  [@linn_science_2006]. -->
 <!-- While this concept of germ cell / unit of analysis a is more typically used in a larger scope of societal activity, the principles apply this smaller scope.  -For a study of this nature, too broad an analysis risks insufficient detail to allow replication, too narrow risks being overly context dependant and limiting the potential for wider application. -->
 
+## Extract and commentary on Vignette 2
+
+In this section, I provide an overview of the specifics of the learning design and participant interactions. Beyond providing the reader with an illustrative example of partner work in game coding, this commentary begins to surfacing uses of GDPs as a meditational strategy, which are then explored using wider data in the rest of the chapter. To achieve this, I use a vignette to capture a snapshot of the interactions within one family, as it includes several aspects of activity that incorporate the use of GDP concepts. A truncated table presents participant dialogue, screenshots and a description of their interactions, including gestures, followed by a summary interpretation of these interactions. A more extended extract of dialogue, activity description and commentary is available in Vignette 2 in the appendices.
+
+
+<!-- INSERT VIGNETTE TABLE HERE
+https://docs.google.com/document/d/1B7kFl5QsGV-oWtFWHLBIJNpa5GeYMlCntq31BnPAQT4/edit -->
+
+Insert or shorter Vignette here
+https://docs.google.com/document/d/1zwV_CLBd2tG0taSclGntJGyC8m9ib39ztHlCg132PMs/edit
 
 
 <!--
@@ -183,6 +193,13 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 
 
 
+| Suzanna: I’ll reload it. Here you go                                                                                                                                                                                                                                                                                  | Suzanna presses refresh key to reload the preview  game view to reflect the changes that have just been made. |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Olivia: Laughs                                                                                                                                                                                                                                                                                                        | Olivia moves laptop to point towards her and takes over using the keyboard                                    |
+| ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbBLx7bPs95968MajDa3VWAUCAp1jPiTcL96iD-YRLMVGf6rCoygDF_c4n4LqZl4Gp_iAu-W17vHpumhkEeway-Uab-0wC_06qE0q9yebGiNVCf2DQlbw5RPbJDc8whRcNS7LLYqTQOLvXZaFe1mzkO24?key=WwYhhFgd0-gHsomX3t0R_g)                                                                            |
+| On the Screen: Olivia is uses the keyboard’s arrow keys to control the game player. She checks the desired behaviour of the player progressing to level 2 after collecting a key and then travelling to a door - is working. It does and Olivia  progresses to level 2 of their game where there is not a door or key. |
+|   |
+
 <!-- ### Short Descriptive Commentary on Vignette 2 -->
 
 <!-- SIGNPOSTING TO DOL & OTHER ASPECTS OF GDP Use -->
@@ -190,11 +207,11 @@ https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/
 <!-- **Challenge and initiative** -->
 <!-- **Lingua franca** -->
 
-<!-- For the preceding ten minutes, the parent and child dyad had been struggling with a tutorial chapter in the online course manual textbook, included as Appendix.tech.samplechapter, which explains how to add the pattern of keys and doors. In this pattern, players must collect a key and then navigate to a door to progress to the next level. The parent, Suzanna, had been making multiple changes to the code while the child, Olivia, expressed boredom. Suzanna then suggested that Olivia ask the facilitator, Mick, for help in resolving the coding issue. Once the bug was resolved, Suzanna handed the keyboard to Olivia to test the now working game. The implementation of a new game design pattern (GDP) involves adding new code to the game. The amount of code and changes required varies depending on its complexity. Larger changes typically require more careful manipulation of code and subsequent debugging. The key and door pattern is relatively technically challenging to implement. Olivia is one of the younger participants, and the parent, Suzanna, has taken on the role of solving harder coding problems and, in doing so, has built important proficiency in coding practice.
+For the preceding ten minutes, the parent and child dyad had been struggling with a tutorial chapter in the online course manual textbook, included as Appendix.tech.samplechapter, which explains how to add the pattern of keys and doors. In this pattern, players must collect a key and then navigate to a door to progress to the next level. The parent, Suzanna, had been making multiple changes to the code while the child, Olivia, expressed boredom. Suzanna then suggested that Olivia ask the facilitator, Mick, for help in resolving the coding issue. Once the bug was resolved, Suzanna handed the keyboard to Olivia to test the now working game. The implementation of a new game design pattern (GDP) involves adding new code to the game. The amount of code and changes required varies depending on its complexity. Larger changes typically require more careful manipulation of code and subsequent debugging. The key and door pattern is relatively technically challenging to implement. Olivia is one of the younger participants, and the parent, Suzanna, has taken on the role of solving harder coding problems and, in doing so, has built important proficiency in coding practice.
 
 The parent takes action to involve her child in the design process when technically possible and to incorporate her child's interests. Suzanna overcomes her own hesitancy about asking for facilitator help by encouraging her child to seek assistance. When the coding problem is resolved, Suzanna signals to Olivia that it is her turn to return to the design process. This indicates that Suzanna recognises the greater potential for effective input from her child at these moments. After the blockage caused by debugging is removed, Suzanna immediately re-engages Olivia, prompting her to play-test the game. Suzanna skilfully navigates the process, eliciting and incorporating her child's interests in a variety of ways.
 
-The child also shows initiative, particularly in relation to level design. There is an awareness of and playfulness surrounding the conventions of a platformer game as a dynamic system, which drives their work on the design and coding mechanics of the game. An understanding of the game as a dynamic system becomes especially evident in the parent’s alarm when, shortly after this interaction, the child deletes all elements of hazard in one level. The pair use the names of the game design patterns they are working on (Adding Levels and Keys and Doors) (Key 44 in Vignette 2). Evidence suggests that Olivia (child) is building a connection to the game-making pattern. In Key 12 in Vignette 2, abbreviations of the GDP names, Key and Door and Levels, are repeated in a sing-song voice. Additionally, my description of the Key and Door pattern as a challenging pattern during the session's starting orientation, outlined in Vignette 11, provokes a strong reaction. The use of GDP terms as a lingua franca, a concept that underpins the broader utility of design patterns [@erickson_lingua_2000], to facilitate designing for others is explored in the next section. More broadly, the use of GDP concepts as an evolving design language for providing feedback, sharing knowledge, making requests and other purposes during community activities, pair interactions and individual work is explored in the following sections. -->
+The child also shows initiative, particularly in relation to level design. There is an awareness of and playfulness surrounding the conventions of a platformer game as a dynamic system, which drives their work on the design and coding mechanics of the game. An understanding of the game as a dynamic system becomes especially evident in the parent’s alarm when, shortly after this interaction, the child deletes all elements of hazard in one level. The pair use the names of the game design patterns they are working on (Adding Levels and Keys and Doors) (Key 44 in Vignette 2). Evidence suggests that Olivia (child) is building a connection to the game-making pattern. In Key 12 in Vignette 2, abbreviations of the GDP names, Key and Door and Levels, are repeated in a sing-song voice. Additionally, my description of the Key and Door pattern as a challenging pattern during the session's starting orientation, outlined in Vignette 11, provokes a strong reaction. The use of GDP terms as a lingua franca, a concept that underpins the broader utility of design patterns [@erickson_lingua_2000], to facilitate designing for others is explored in the next section. More broadly, the use of GDP concepts as an evolving design language for providing feedback, sharing knowledge, making requests and other purposes during community activities, pair interactions and individual work is explored in the following sections.
 
 <!-- **Transition**
 
@@ -520,9 +537,6 @@ The use of GDPs to scaffold the ideation process was a common pattern used by X 
 <!-- NOTE - DIVISION OF LABOUR IS IN THE NEXT CHAPTER TOO - REWRITE BASED ON GDP ONLY CONTENT
 CHECK FOR OVERLAP-->
 
-<!-- NOTE  dol and identities.
-Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists.  -->
-
 
 Addressing division of labour on an interpersonal plane, participants worked mostly as pairs or individuals, alternating between community playtesting and pair/individual design work. Turning to the use of GDPs specifically in DoL as an organisational strategy, structuring work processes through implementing modular sub-projects in the form of GDPs can aid division of labour.
 
@@ -770,6 +784,8 @@ As previously explored I had a reluctance to shift learners away from the practi
 
 ### Intro in relation to mediation and repertoires
 
+
+
 **TADS / sannino vs gutierrez - and the purpose of inclusivity / equity**
 
 As part of this discussion of the role of GDPs not only as self-contained mediational tools, but as part of wider repertoires of practice is also explored. The reason being, that other non-GDP elements of the learning design are mixed together in these emerging repertoires, and thus to neglect to explore them would give an incomplete picture. However, I attempt to do this briefly to avoid overloading the reader.  OR THIS IS ONE IN APPENDIX
@@ -796,15 +812,15 @@ This section discusses findings on community and social activity in a way which 
 
 This chapter thus builds on CHAT concept of mediation and building repertoires.  
 
+
 In previous writing I have identified what I can as _flexible design practices_ used a counterpoint to a potentially more prescriptive interpretation of design thinking stages.
 
-WHAT IS THE LINK BETWEEN STAGED APPROACH AND STEPWISE INSTRUCTION?
 
-The use of GDPs here can be seen to be quite flexible as
-- a mediational STRATEGY
-- in the way it is included into wider repetoires, merged (assemblages)
 
-This includes emerging norms, DoL, and community behaviour.  
+This characterisation can be seen in some of the entries of the previous chapter which outlined  x, y and z.
+The use of GDPs here can be seen to be quite flexisble
+
+ This includes emerging norms, DoL, and community behaviour.  
 
 This section discusses some of the outcomes stemming from interventions and emergent participant responses in the area of peer and individual working practices.
 
@@ -836,7 +852,6 @@ Flexible design practices are often present in recorded data. Younger participan
 
 As explored in the literature review design stages as a conceptual design tool is common in CS education, e.g. Resnick's creative learning spiral [@resnick_all_2007, p. 2]. While I did not ask learners to follow prescribed design stages, in data analysis I created a coding theme based on a design cycle framework: Ask / Imagine, Plan, Create, Test, Improve, Share. When coding I observed that naturalistic practice rarely matched the progression of the design cycle. The stages were instead fragmented and sometimes happened in parallel. In many interactions I observed improvisational approaches which incorporated ideation, planning, implementation and testing in space of a minute or so. If I had encouraged participants to follow prescribed design stages this may have restrict this flexibility in practice. This concern is echoed in research which critiques a similar, staged approach to creative writing in primary education using a writing cycle approach.  [@kuby_rhizomatic_2016]
 
-DROP THIS - NOT CLEAR IF NOT REALLY PROPOSED AS A NAVIGATIONAL STRATEGY FOR YOUNG PEOPLE.
 In a closer review of key literature claims of of the value for participants of following design cycles are implied but not supported. Instead stages is are proposed as a tool to "discusses strategies for designing new technologies" [@resnick_all_2007, p. 2]. The following writing discusses the value of flexible approach to design processes observated in my research.
 
 ### Discussion on Flexible Design Practices
@@ -849,26 +864,27 @@ I propose that this process can have value in other areas of digital making.
 
 
 
-#### The potential of emergent social and cultural activities
+#### The potential of emergent "non-productive" activities - DROP?
 
-**It is of value to create spaces to leverage the potential of in-between moments for participants - playtesting or non-productive**
+Much time in sessions was spent on activities that did not fit nearly into an accepted design stage, for example: opening software tools; navigating to correct locations; and finding past assets. These processes often  involved significant effort and collaboration between participants. For example the  migrating assets between authoring tools, converting to correct formats, evaluating new tools, and finding previously created assets. These are practices that I am personally familiar with. I call them digital laundry or digital housekeeping. Things that at times can be low attention span. Faff time is even less productive switching on the computer and waiting for the internet to connect, waiting for a family member to finish their rushed lunch or navigating to the right location in creative software.
 
-<!--
-Note Dropped Faff time.  -->
-
-
+ <!-- I have been pragmatic and map elements like this these loosely. Where appropriate I make notes on that activity in free form areas of other documents like spreadsheets. -->
+ <!-- This limits claims I can make from the coded data. However it raises interesting points which merit discussion. -->
 
 
-SO IS THIS IN RELATION TO CHALLENGING DESIGN STAGE PARAGDIM
-I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared. In retrospect, many of the social missions explored above encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_.
+Skills to perform these activities were at often distributed between different family members. For some adult re-enforcing their identities as project managers, and for young participants forming identities as digital specialists. I noted in analysis of data that along with frustration there are also moments of creativity, and there are bonding moments which appear to be helped by this activity which is at times quite unfocused but also shared. In retrospect, many of the social missions explored above encouraged activity outside of established design stages. For example the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_.
 
 The process of swapping graphical assets used a shared Piskel gallery and games area which served to keep individuals informed in directly of progress being made, and to spark curiosity in the creations of others.
 
 In addition, I observed that navigating these essential but non-creative tasks in a collaborative and playful way can reduce learner anxiety and help maintain a positive affect to the overall creative digital process. This observation is supported by an example in the next chapter available in appendix 5.x - an extract of which is included below.
 
+| Participant Dialogue          | Participant Gestures & Activities              
+|----------------|----------------|
+|   |  Nadine has just rapidly demonstrated how to bring a created graphical element into the game |
+|      **Molly:** How did you do that so quickly? I’ve got to like, carefully...  |  Molly makes hand gestures to show a sense of hesitant keyboard use)  |
+|  | A parent peer next toA Molly laughs.      <br/>    Nadine, the child of Molly bounces up in place and smiles broadly.    |
 
 In summary, it is of value to create spaces to leverage the potential of these in-between moments for participants.
-ALSO TRUE OF PLAYTESTING
 
 The potential impact on agency is as follows; If these tasks can be seen as more than mere barriers to production, and therefore to be designed out to increase instrumental agency, then there is potential to increase relational agency through flexible divisions of labour that allow the incorporation of home roles in to this new learning space. Thus a potential affordance to find identify and specialism here.
 
@@ -1137,94 +1153,3 @@ In the theoretical underpinning, Aesthetics are the first experience of the user
 Could link between the MDA framework and main areas of GDPs can be used to deepen a possibly profitable connection to professional design lenses theory practices?
 
 This learning design could be a good base to use to answer those questions.
-
-
-## MOVE FROM cH 7 - ANY SPACE HERE?
-
-## Impact of Side Missions and Maker Types on playtesting behaviours
-
-
-#### Reflection on impact on my design process
-
-<!-- Thus my role as a responsive facilitator rather than a instructor was key to this process.  -->
-<!-- opens up flexibility in the way learners approach the design processes. -->
-<!-- imagined, often in response to community need, by myself, the following emerged from community use. -->
-START WITH A NARRATIVE?
-My role as a learning designer under went some significant evolution.
-As an example the quick start activities created by PGCE students were much more directive than I initially proposed in P1. It is not that the structuring was antithetical to my approach, more that the area was unfamiliar in terms of common heuristics, and the interweaving of gameplay features and underlying code structures.
-
-Observations of and reflections on playtesting in p2, showed that participants still engendered a diversity of experience, from these shared beginnings.
-
-An additional reflection on design is that the playtesting of participants revealed evidence of different motivations driving activity in game making sessions.
-
-
-#### Observations on making styles
-This section returns to game making types explored in Chapter 5. TO DEVELOP
-
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
-
-
-Other players created impossible or overly easy game levels. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-
-
-#### A focus on the value of changing roles - especially peer teaching as reinforcing learning
-
-A role or style that is not fully captured is that of peer learning, although it is implied within the socialisers and magpie makers.
-
-CAN THIS BE ADDED INTO THE CODING SCHEMA
-
-### Discussion on making types and side missions
-
-THIS WOULD NEED MORE DISCUSSION OR INTRODUCTION - PLAYER TYPES NOT IN CHAPTER 5 ANY MORE
-
-Begin discussion with reference to [@gutierrez_cultural_2003] on "Helping Students Learn: Having Styles or Participating in Practices", and a careful statement to avoid over generalisation here, but at the same time recognise the value of emerging practices and styles.
-
-Thus I am not suggesting that these styles make up a ridgid typology to be replicated in other settings, instead, in line with Gutierrez and Rogoff [-@gutierrez_cultural_2003, p.20] , that the process of co-constructing understanding and communication about learning styles can "support the changing nature of participation and the forms of assistance provided in joint activity."
-
-
-### Discussion on Player types -
-
-DATA REQUIRED FROM VIDEO!?
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-Below I outline how I designed to encourage this behaviour.
-
-My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990].
-
-I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-Limits of discussion findings - what to put in
-
-### Limitations of observations and careful statements of potential
-
-It is important to highlight several aspects of the limitation of the exploration of maker types and side missions designed to support them.
-
-This work is limited, as are other observations by the limited number of participants,. It is also perhaps guided by my own motivations as a researcher to investigate more messy approaches to learning.
-
-However, given the potential of my observations and the link with existing research in other domains. It is reasonable to propose the processes outlines as a potentially fruitful area for further research. I explore potential dimensions of that research in the concluding chapter.
-
-MoE being one of those directions.
-
-
-
-
-<!-- In early stages the mutual work to produce resources, techniques and practices to share and evaluate these shared elements became a primary focus of my work, just as the implementation of game elements was the focus of the work of participants. -->
-
-<!--
-MOVE TO CHAPTER 7
-
-In appendix 5.playertypes, I outline the use of a game to explore different game playing types. I then proposed different making types. I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated.
-
-![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
-
-To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
- -->
-
-<!-- MOVE THIS CLAIM LATER.
-**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams. -->

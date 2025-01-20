@@ -9,96 +9,88 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
--   [Seeding and Nurturing Community Game Making Practices to Facilitate
-    Learner
-    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
-    -   [Research Questions Jan 2025](#research-questions-jan-2025)
-    -   [Introduction](#introduction)
-        -   [New Notes on structure of the
-            chapter](#new-notes-on-structure-of-the-chapter)
-        -   [Old Notes on structure of the
-            chapter](#old-notes-on-structure-of-the-chapter)
-    -   [Discussion SECTION MOVED FROM PREVIOUS
-        CHAPTER](#discussion-section-moved-from-previous-chapter)
-        -   [Discussion of findings in relation to CHAT conceptions of
-            abstraction](#discussion-of-findings-in-relation-to-chat-conceptions-of-abstraction)
-        -   [Design patterns as a intermediate-level, pedagogical
-            framework compared to computational
-            thinking](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
-    -   [Observations on emerging idioculture and the role of
-        playtesting in
-        particular](#observations-on-emerging-idioculture-and-the-role-of-playtesting-in-particular)
-        -   [On playtesting behaviours and interaction with GDP
-            findings](#on-playtesting-behaviours-and-interaction-with-gdp-findings)
-            -   [Playtesting and embodied participation in the games of
-                others](#playtesting-and-embodied-participation-in-the-games-of-others)
-    -   [Impact of Side Missions and Maker Types on playtesting
-        behaviours](#impact-of-side-missions-and-maker-types-on-playtesting-behaviours)
-        -   [Reflection on impact on my design
-            process](#reflection-on-impact-on-my-design-process)
-        -   [Observations on making
-            styles](#observations-on-making-styles)
-        -   [A focus on the value of changing roles - especially peer
-            teaching as reinforcing
-            learning](#a-focus-on-the-value-of-changing-roles---especially-peer-teaching-as-reinforcing-learning)
-        -   [Discussion on making types and side
-            missions](#discussion-on-making-types-and-side-missions)
-        -   [Limitations of observations and careful statements of
-            potential](#limitations-of-observations-and-careful-statements-of-potential)
-    -   [Discussion of three dimension of agency (using a metaphorical
-        approach) DOWNPLAY
-        METAPHORS](#discussion-of-three-dimension-of-agency-using-a-metaphorical-approach-downplay-metaphors)
-        -   [The use of concepts of mediation and dual stimulation in
-            this exploration of the development of agency - THEN
-            REPERTOIRES
-            ALSO?](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency---then-repertoires-also)
-        -   [Affordances as points on a climbing wall to support
-            understandings of instrumental
-            agency](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency)
-        -   [Discussion on agency concerning tools and resources
-            (authenticity in
-            particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
-        -   [Playgrounds and sheltered harbours as a way to explore
-            conceptions of relational agency - INTEGRATE MY
-            FINDINGS](#playgrounds-and-sheltered-harbours-as-a-way-to-explore-conceptions-of-relational-agency---integrate-my-findings)
-            -   [How to seed relational practices in the community
-                garden of the program / Growing / Gardening
-                metaphors](#how-to-seed-relational-practices-in-the-community-garden-of-the-program-growing-gardening-metaphors)
-            -   [The freedoms and restrictions of
-                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-        -   [Exploring transformative agency using the metaphor of
-            Kedging
-            anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
-            -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
-    -   [Synthesis Section - INCLUDE SOME MORE IMPLICATION FOR
-        PRACTITIONERS?](#synthesis-section---include-some-more-implication-for-practitioners)
-        -   [SYNTHESIS - How different forms of agency are developed and
-            transform over iterations of this game making
-            programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
-            -   [Proposal on shifting forms of
-                agency.](#proposal-on-shifting-forms-of-agency.)
-        -   [Synthesis - The interaction of flexible deign practices,
-            the collection of Game Design Patterns, stepwise scaffolding
-            of learning environments and new understandings of
-            agency.](#synthesis---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
-            -   [Returning to the concept of computational fluency with
-                a lens of agency - OR BETTER
-                PARTICIPATION?](#returning-to-the-concept-of-computational-fluency-with-a-lens-of-agency---or-better-participation)
-    -   [Conclusion](#conclusion)
-    -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
-        -   [On planned and emergent
-            activity)](#on-planned-and-emergent-activity)
-    -   [Notes - MOVED TO THE END FOR
-        REVIEW](#notes---moved-to-the-end-for-review)
-        -   [On Fluency](#on-fluency)
-        -   [Discussion on Player types - moved from chapter
-            6](#discussion-on-player-types---moved-from-chapter-6)
-        -   [Removed in December - perhaps
-            rehome](#removed-in-december---perhaps-rehome)
-    -   [Removed in Jan - find home](#removed-in-jan---find-home)
-        -   [Community concepts and norming behaviour emerging during
-            playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
-        -   [MoE](#moe)
+-   [Research Questions Jan 2025](#research-questions-jan-2025)
+-   [Introduction](#introduction)
+    -   [New Notes on structure of the
+        chapter](#new-notes-on-structure-of-the-chapter)
+    -   [Old Notes on structure of the
+        chapter](#old-notes-on-structure-of-the-chapter)
+-   [Discussion on the Seeding and nurturing of GDP mediational uses and
+    repertoires](#discussion-on-the-seeding-and-nurturing-of-gdp-mediational-uses-and-repertoires)
+    -   [Discussion on the role of playtesting in particular as a
+        suitable medium (third
+        space)](#discussion-on-the-role-of-playtesting-in-particular-as-a-suitable-medium-third-space)
+        -   [Playtesting and embodied participation in the games of
+            others](#playtesting-and-embodied-participation-in-the-games-of-others)
+    -   [Player types and side
+        missions](#player-types-and-side-missions)
+-   [Discussion on CT, concrete abstract
+    frameworks](#discussion-on-ct-concrete-abstract-frameworks)
+    -   [Discussion of findings in relation to CHAT conceptions of
+        abstraction](#discussion-of-findings-in-relation-to-chat-conceptions-of-abstraction)
+    -   [Design patterns as a intermediate-level, pedagogical framework
+        compared to computational
+        thinking](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
+-   [Discussion of dimensions of agency (using a metaphorical approach)
+    DOWNPLAY
+    METAPHORS](#discussion-of-dimensions-of-agency-using-a-metaphorical-approach-downplay-metaphors)
+    -   [TO INTEGRATE - Analysing interpretations of TADS and the
+        process of assembling new
+        repertoires](#to-integrate---analysing-interpretations-of-tads-and-the-process-of-assembling-new-repertoires)
+    -   [The use of concepts of mediation and dual stimulation in this
+        exploration of the development of agency - THEN REPERTOIRES
+        ALSO?](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency---then-repertoires-also)
+    -   [Affordances as points on a climbing wall to support
+        understandings of instrumental
+        agency](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency)
+    -   [Discussion on agency concerning tools and resources
+        (authenticity in
+        particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
+    -   [Playgrounds and sheltered harbours as a way to explore
+        conceptions of relational agency - INTEGRATE MY
+        FINDINGS](#playgrounds-and-sheltered-harbours-as-a-way-to-explore-conceptions-of-relational-agency---integrate-my-findings)
+        -   [How to seed relational practices in the community garden of
+            the program / Growing / Gardening
+            metaphors](#how-to-seed-relational-practices-in-the-community-garden-of-the-program-growing-gardening-metaphors)
+        -   [The freedoms and restrictions of
+            playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+    -   [Exploring transformative agency using the metaphor of Kedging
+        anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
+        -   [Kedging anchor metaphor](#kedging-anchor-metaphor)
+-   [Implicaitions for practioners explored in relation to existing
+    research](#implicaitions-for-practioners-explored-in-relation-to-existing-research)
+    -   [In relation to research on inclusion in computing
+        education.](#in-relation-to-research-on-inclusion-in-computing-education.)
+    -   [Returning to the concept of computational fluency with a lens
+        of agency /
+        participation](#returning-to-the-concept-of-computational-fluency-with-a-lens-of-agency-participation)
+    -   [Potential for transfer to other settings with different
+        requirements](#potential-for-transfer-to-other-settings-with-different-requirements)
+-   [Synthesis Section - More philosophical than practical
+    finally](#synthesis-section---more-philosophical-than-practical-finally)
+    -   [SYNTHESIS - How different forms of agency are developed and
+        transform over iterations of this game making
+        programme](#synthesis---how-different-forms-of-agency-are-developed-and-transform-over-iterations-of-this-game-making-programme)
+        -   [Proposal on shifting forms of
+            agency.](#proposal-on-shifting-forms-of-agency.)
+    -   [Synthesis - The interaction of flexible deign practices, the
+        collection of Game Design Patterns, stepwise scaffolding of
+        learning environments and new understandings of
+        agency.](#synthesis---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
+-   [Conclusion](#conclusion)
+-   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
+    -   [On planned and emergent
+        activity)](#on-planned-and-emergent-activity)
+-   [Notes - MOVED TO THE END FOR
+    REVIEW](#notes---moved-to-the-end-for-review)
+    -   [On Fluency](#on-fluency)
+    -   [Removed in December - perhaps
+        rehome](#removed-in-december---perhaps-rehome)
+-   [Removed in Jan - find home](#removed-in-jan---find-home)
+    -   [Community concepts and norming behaviour emerging during
+        playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
+    -   [MoE](#moe)
+
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
 
@@ -202,13 +194,70 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 <!-- I also discuss these findings in line with existing research in relevant areas. -->
 
+## Discussion on the Seeding and nurturing of GDP mediational uses and repertoires
+
+The majority of chapter has focused on findings and immediate interpretation of participant and facilitator use of GDPS as a mediational strategy / repertoire. This section takes a step back to explore the wider perspectives of the findings beyond the immediate context to digital making and project based approaches and understandings of design patterns in educational contexts.
+
+The previous chapters have explored both designed and fortuitous changes to the learning design that become adopted by the community (HOW AND WHERE EXACTLY).
+
+I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities. As such, the nature and process of this community evolution merits exploration.
 
 
-## Discussion SECTION MOVED FROM PREVIOUS CHAPTER
+### Discussion on the role of playtesting in particular as a suitable medium (third space)
 
-The majority of this chapter has focused on findings and immediate interpretation of participant and facilitator use of GDPS as a mediational strategy / repertoire. This section takes a step back to explore the wider perspectives of the findings beyond the immediate context to digital making and project based approaches and understandings of design patterns in educational contexts.
+<!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
 
-In this discussion section, I:
+HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
+
+
+**On playtesting behaviours and interaction with GDP findings**
+
+As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018]
+
+In this section, I review data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
+
+Summary of this section on playtesting
+
+- why prioritise it?
+
+<!-- #### on alien chat
+Perhaps add back in as an unintended consequence?
+The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
+
+
+#### Playtesting and embodied participation in the games of others
+
+<!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
+<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
+
+ <!-- Examples include.... -->
+
+
+Some children added additional playful elements to playtesting. Because these interactions were mobile between workstations is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
+
+WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
+
+    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+
+These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
+
+<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
+<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
+
+
+The process of play testing as a cultural process is explored in more depth in chapter six.
+
+
+### Player types and side missions
+
+One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the develoment participants to assemble their own repertoires of practice in this new sestting.
+
+In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. This matches research of 5D and in particular that of Gutiérrez in conceptions of processes of inclusion.
+
+## Discussion on CT, concrete abstract frameworks
+
+
+In this (second) discussion section, I:
 
 - explore the uses of GDPs in relation to varied conceptions of abstraction, chiefly CHAT and CT
 
@@ -277,135 +326,11 @@ Despite this, in terms of participant experiences, it is clear from this chapter
 
 On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding. In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021]. The evidence and examples surfaced in this paragraph support a view of GDPs, as an productive intermediate-level framework and contributes a series of grounded pedagogical instances via examples. It also proposes GDPs as potentially more productive and accessible framework in terms of pedagogical uses than that of computational thinking when making games.
 
-## Observations on emerging idioculture and the role of playtesting in particular
 
-<!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
 
-HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
 
-The previous chapters have explored both designed and fortuitous changes to the learning design that become adopted by the community (HOW AND WHERE EXACTLY).
 
-I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities. As such, the nature and process of this community evolution merits exploration.
-
-
-
-### On playtesting behaviours and interaction with GDP findings
-
-As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018]
-
-In this section, I review data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
-
-Summary of this section on playtesting
-
-- why prioritise it?
-
-<!-- #### on alien chat
-Perhaps add back in as an unintended consequence?
-The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
-
-
-#### Playtesting and embodied participation in the games of others
-
-<!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
-<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
-
- <!-- Examples include.... -->
-
-
-Some children added additional playful elements to playtesting. Because these interactions were mobile between workstations is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
-
-WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
-
-    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
-
-These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
-
-<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
-<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
-
-
-The process of play testing as a cultural process is explored in more depth in chapter six.
-
-
-## Impact of Side Missions and Maker Types on playtesting behaviours
-
-
-#### Reflection on impact on my design process
-
-<!-- Thus my role as a responsive facilitator rather than a instructor was key to this process.  -->
-<!-- opens up flexibility in the way learners approach the design processes. -->
-<!-- imagined, often in response to community need, by myself, the following emerged from community use. -->
-START WITH A NARRATIVE?
-My role as a learning designer under went some significant evolution.
-As an example the quick start activities created by PGCE students were much more directive than I initially proposed in P1. It is not that the structuring was antithetical to my approach, more that the area was unfamiliar in terms of common heuristics, and the interweaving of gameplay features and underlying code structures.
-
-Observations of and reflections on playtesting in p2, showed that participants still engendered a diversity of experience, from these shared beginnings.
-
-An additional reflection on design is that the playtesting of participants revealed evidence of different motivations driving activity in game making sessions.
-
-
-#### Observations on making styles
-This section returns to game making types explored in Chapter 5. TO DEVELOP
-
-For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards. My understanding is that she is also aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play.
-
-
-Other players created impossible or overly easy game levels. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-
-
-#### A focus on the value of changing roles - especially peer teaching as reinforcing learning
-
-A role or style that is not fully captured is that of peer learning, although it is implied within the socialisers and magpie makers.
-
-CAN THIS BE ADDED INTO THE CODING SCHEMA
-
-### Discussion on making types and side missions
-
-THIS WOULD NEED MORE DISCUSSION OR INTRODUCTION - PLAYER TYPES NOT IN CHAPTER 5 ANY MORE
-
-Begin discussion with reference to [@gutierrez_cultural_2003] on "Helping Students Learn: Having Styles or Participating in Practices", and a careful statement to avoid over generalisation here, but at the same time recognise the value of emerging practices and styles.
-
-Thus I am not suggesting that these styles make up a ridgid typology to be replicated in other settings, instead, in line with Gutierrez and Rogoff [-@gutierrez_cultural_2003, p.20] , that the process of co-constructing understanding and communication about learning styles can "support the changing nature of participation and the forms of assistance provided in joint activity."
-
-
-
-
-### Limitations of observations and careful statements of potential
-
-It is important to highlight several aspects of the limitation of the exploration of maker types and side missions designed to support them.
-
-This work is limited, as are other observations by the limited number of participants,. It is also perhaps guided by my own motivations as a researcher to investigate more messy approaches to learning.
-
-However, given the potential of my observations and the link with existing research in other domains. It is reasonable to propose the processes outlines as a potentially fruitful area for further research. I explore potential dimensions of that research in the concluding chapter.
-
-MoE being one of those directions.
-
-
-
-
-<!-- In early stages the mutual work to produce resources, techniques and practices to share and evaluate these shared elements became a primary focus of my work, just as the implementation of game elements was the focus of the work of participants. -->
-
-<!--
-MOVE TO CHAPTER 7
-
-In appendix 5.playertypes, I outline the use of a game to explore different game playing types. I then proposed different making types. I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated.
-
-![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
-
-To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
- -->
-
-<!-- MOVE THIS CLAIM LATER.
-**Claim:** The data in this chapter shows the value and further potential of mixing the more mature techniques of MoE and other process drama techniques with the ethos of game jams. -->
-
-<!-- The use of double stimuli by larger groups of participants to break out of contradictions in activity and thus further their agency is conceptualised by Sannino in TADS [@sannino_principle_2015] -->
-
-
-
-## Discussion of three dimension of agency (using a metaphorical approach) DOWNPLAY METAPHORS   
+## Discussion of dimensions of agency (using a metaphorical approach) DOWNPLAY METAPHORS   
 
 An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this I draw on key forms of developmental agency explored in Chapter 3.
 
@@ -420,6 +345,14 @@ A mixed readership for this research is hoped for as relevant to pracitioners an
 There is a good tradition of metaphors in this space with Papert's low thresholds, high ceilings and wide walls concept. INSERT IN LR, PERHAPS IN TRANSITION FROM MICROWORLDS TO SCRATCH AND DESIGN BUILD TEST GAME MAKING.  
 
 Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]   -->
+
+
+### TO INTEGRATE - Analysing interpretations of TADS and the process of assembling new repertoires
+
+The metaphors below help an exploration of the development of cultural and social practice in this community.
+
+It is of value to contrast TADS and the kedging metaphor with that of Gutiérrez in the assembling of new repertoires using the findings of the previous chapter.  
+
 
 
 ### The use of concepts of mediation and dual stimulation in this exploration of the development of agency - THEN REPERTOIRES ALSO?
@@ -514,7 +447,7 @@ While the affordances built into the code playground are valid secondary stimuli
 supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency.
 
 
-DOES SOME OF THIS LIVE IN CHAPTER 5 IN THE DESIGN NARRATIVE?
+DOES SOME OF THIS LIVE IN CHAPTER 5 IN THE DESIGN NARRATIVE? OR IN CH.6 IN REFLECTION ON BRICOLAGE?
 An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
 CHAPT 5
 
@@ -594,9 +527,59 @@ As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a k
 
 The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
 
+## Implicaitions for practioners explored in relation to existing research
+
+### In relation to research on inclusion in computing education.
+
+Incusion as participation.
+
+Issues of interest, rich affordences, & UDL
 
 
-## Synthesis Section - INCLUDE SOME MORE IMPLICATION FOR PRACTITIONERS?
+### Returning to the concept of computational fluency with a lens of agency / participation
+
+<!-- IS THERE A NEED FOR A SIMILAR DISCUSSION IN GDP CHAPTER? -->
+
+**Summary - this research supports ethos of writing on computational fluency - and the role of agency and participation within that**
+
+The term computational fluency (compared to digital literacy or computational thinking) best reflect the focus on development of agency outlined in this research.
+
+It is of merit to return to existing dimension in existing research and suggest additional analyis based on this research.  
+
+Participant voice and expression: scaffolded and restricted in this design but to help development of next factor
+Community participation: The use of playtesting, and other community factors explored in Ch.6 and 7.
+Technical skills: Less a focus here than in CT but still a requirement, the reduced focus allows a different means of appropriation of the skills and concepts through guided participation and cultural participation.  
+
+I propose that the journey by particpants to develop computational fluency involves all three aspects of agency explored in this chapter.
+
+In term of a progression to transformative / athorial agency, it is of value to explore conceptions of authorial creativity (of an everyday variety) rather than the high bar of transformation of fundamental system elements.
+
+
+### Potential for transfer to other settings with different requirements
+
+Does the germ cell identified here (the use of key product characteristics used as a intentional tool to seed and then nurture community practices) suit transfer to other domains and if so how?
+
+I suggest it does, and that this is already recognised in different ways in existing research. As component parts in repertoires, as subjects and mediums for funds of identity work.
+
+
+Other research (5D in particular ) suggests that different ideocultures would emerge given the different contextual settings or requirements. Other settings may suit the introduction of other side missions and guiding narratives based on different motivations of the participants and the settings in which the programme was being run.
+
+Thus, this research does not suggest the learning design is adopted wholesale, instead proposes the following division for future work
+
+**Keep / Start with**
+
+- Template of a game with a distinct and recognisable form & realistic  
+- GDPs used as a germ cell for following step wise activities
+  - analysis of games
+  - quick changes to template
+  - menu of GDPs
+
+**Adapt as needed based on setting**
+
+- overarching narrative / driving motivation
+- side missions, based on emerging patterns of behaviour or needs of setting
+
+## Synthesis Section - More philosophical than practical finally
 
 INTRO SIGNPOSTING Here
 
@@ -639,24 +622,7 @@ To retain this potential for transformation
 it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
 
 
-##### Recommendations for transfer to other settings with different requirements
 
-Other research (5D in particular ) suggests that different ideocultures would emerge given the different contextual settings or requirements. Other settings may suit the introduction of other side missions and guiding narratives based on different motivations of the participants and the settings in which the programme was being run.
-
-Thus, this research does not suggest the learning design is adopted wholesale, instead proposes the following division for future work
-
-**Keep / Start with**
-
-- Template of a game with a distinct and recognisable form & realistic  
-- GDPs used as a germ cell for following step wise activities
-  - analysis of games
-  - quick changes to template
-  - menu of GDPs
-
-**Adapt as needed based on setting**
-
-- overarching narrative / driving motivation
-- side missions, based on emerging patterns of behaviour or needs of setting
 
 
 
@@ -679,21 +645,6 @@ The nature of the framework provided by game play design patterns can be explore
 There is choice  - and interaction - contribution to the overall object.
 
 
-#### Returning to the concept of computational fluency with a lens of agency - OR BETTER PARTICIPATION?
-
-IS THERE A NEED FOR A SIMILAR DISCUSSION IN GDP CHAPTER?
-
-The term computational fluency (compared to digital literacy or computational thinking) best reflect the focus on development of agency outlined in this research.
-
-It is of merit to return to existing dimension in existing research and suggest additional analyis based on this research.  
-
-Participant voice and expression: scaffolded and restricted in this design but to help development of next factor
-Community participation: The use of playtesting, and other community factors explored in Ch.6 and 7.
-Technical skills: Less a focus here than in CT but still a requirement, the reduced focus allows a different means of appropriation of the skills and concepts through guided participation and cultural participation.  
-
-I propose that the journey by particpants to develop computational fluency involves all three aspects of agency explored in this chapter.
-
-In term of a progression to transformative / athorial agency, it is of value to explore conceptions of authorial creativity (of an everyday variety) rather than the high bar of transformation of fundamental system elements.
 
 
 ## Conclusion
@@ -1204,23 +1155,6 @@ AND - link more -->
 For example, creating a new graphical element in a separate online pixel-art editor called Piskel, exporting and downloading it to the laptop, and uploading it to the glitch code playground and then making code changes in several parts of the code to initialise and implement new behaviour for this element.
 
 NOTE As a facilitator of a community I aim to notice these transitions as I aim to use the proficiency of participants to help distribute the process of helping peers.
-
-
-### Discussion on Player types - moved from chapter 6
-
-DATA REQUIRED FROM VIDEO!?
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-Below I outline how I designed to encourage this behaviour.
-
-My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990].
-
-I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-Limits of discussion findings - what to put in
 
 
 ### Removed in December - perhaps rehome
