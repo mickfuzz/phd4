@@ -224,59 +224,151 @@ PULL OUT AN EXAMPLE -->
 
 <!-- ADD IN APPENDIX OF MAPS - AND GDPS FOR NAVIGATIONS AND REFRAME IN THIS CHAPTER. -->
 
-## The role of GDPs in the personal appropriation of concepts and processes (500 - Target 750)
 
-The previous section began to touch on the personal appropriation of coding skill via the debugging process.
+## Use of GDPs in the cultural plane / community level of activity
 
-Rogoff's third plane of analysis, one  which mostly closely aligns with much educational research is that of personal appropriation. Rogoff is careful to underline the bi-directional nature of the appropriation of personal knowledge, emphasising Vygotsky's foundational view of knowledge as being mutually constituted as participants feed their interpretation of knowledge back into the communities of which they are a part.  
+Following Rogoff's [@rogoff_observing_1995] three planes approach to analysis, the following section explores the use of GDPs at the community plane of activity. While Rogoff's earlier analysis of activity on a cultural plane emphasised the metaphor of apprenticeship, focusing on an already existing community, her later work with Gutiérrez [@gutierrez_cultural_2003] places greater emphasis on cultural activity as dynamic. This perspective examines existing and emerging norms and repertoires, adapted from participants’ engagement in other communities and contexts.
 
-As outlined in Chapter 2, the focus on skills and knowledge developed by participants is one of the strongest threads in related research on digital coding and game making, and particulary in that of constructionist school [@kafai_constructionist_2015-1; @papert_mindstorms:_1980]. Papert's research on Microworlds saw one of the roles learning designers to shape the affordances of playful learning environments to steer learners to explore scientific concepts,  mathematical concepts, for example geometry in Turtle computing. In this research, detailed study of young coders evolving code creations and accompanying interview data allowed a close study of the personal appropriation, including elements of understanding, application and sharing back this knowledge via created and shared digital projects. Much subsequent research on the use of coding to develop both concrete and more abstract computational thinking skills, has neglected this social and perspectives [find source], instead focusing on a personal dimension of learning as a curricular skill to be absorbed and tested. By way of contrast, this study is aligned with the development of the constructionist movement towards socio-cultural approaches to transcend individual personal conceptions of knowledge, exemplified by the issues associated with the UK computing curriculum. In this informal learning context, there was scant desire from participants to explore concepts aligned with computing curriculum, instead driven more by practical desire to make a game using the tools provided.
+### The role of GDPs to facilitate learners to design for others
 
-Despite this positioning, given the potential to adapt this learning design to a more formal environment to address needs outlined in the introductory chapter, from P2 onwards I began to augment the learning design to suit curriculum oriented teaching and assessment of computational thinking concepts and skills, a process which resulted in a learning map of curricular concepts included here as Table 6.x .
-
-|      Coding Concepts    | Systems Patterns    | Design Practices|
-|--------------|-----------|------------|
-| Sequences | Systems Elements      | Goal Setting        |
-| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
-| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
-| Loops | Balancing Feedback Loops      | Web Navigation    |
-| Arrays |       | Problem Solving        |
-| Creating Functions |       | Version Control    |
-| Change Listener |    | Debugging   |
-| Input Event |   | Reusing and Remixing      |
-
-Table 6.x. Learning Dimensions of the 3M Game Making Model
-
-Appendix.learningmap explores in more detail the evolution of this map, which acknowledges significant tensions in integration of concepts into a informal context, and draws on the process and rationale of Bevan and Petrich's  [-@bevan_learning_2015; -@petrich_it_2013] work to bring a similar learning map to a seemingly chaotic tinkering and making process in museum contexts. A summary of my book chapter [@chesterman_game_2023] exploring these issues with recommendations for practitioners is included in Appendix.learningmap
-
-This exploration focuses on the potential of the 3M learning design rather than making claims on the suitability to develop CT via game making which is explored extensively in other research. Conceptions of personal appropriation should not be limited to only the curricular concepts included in the learning map, the many of the behaviours explored above show both the appropriation and feeding back of varied understandings of game design patterns and related concepts and skills. While the design of this study does not suit full exploration of the personal plane of activity, the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge and design processes.
+<!-- NOTE - ALSO LINKED TO IDEATION? - is this guided participation? -->
 
 
-<!-- The process of reusing and modify code to create a computer game can surface both abstract and concrete computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. -->
-
-Given that this dimension is not explored in the thesis which has a greater focus on community and social aspects of use of GDPs, examples of personal appropriation are included in Appendix.learning
-
-The ongoing reflection provoked by the process of privileging social and cultural aspects of the game making activity has yielded more philosophical questions in relation to the learning process which are explored in the following discussion section.
+The use of GDPs, particularly during playtesting, can support the process of imagining end-user experiences. This section examines how the concept of, and experience with, implementing GDPs encouraged participants to envision the experience of end users of their games. Chapter two explored the proposition from professional and participatory design processes that design should be informed by end-user experience [@redstrom_towards_2006], as well as the challenges involved in undertaking such an *"operationalization of empathy"* [@surma-aho_conceptualization_2022, p.1]. From a CHAT interpretation, this process involves shifts in perspective by participants as they engage with objectives across different scopes of activity. For instance, in the vignette above, Olivia (child) pursues a quirky design goal during her paired design work, which Suzanna (parent) resists. Imagining a shift in perspective to the intended audience at a community level of interaction, the parent aims to ensure a sense of challenge for the imagined player.  
 
 
-<!-- Here learner agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners. The process of playtesting other games allowed participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly. -->
+Suzanna shares *"Must be quite hard to get through that door."* when Olivia places the exit door high above a platform. She then continues, *“It’s no fun having a game without any hazards to avoid.”* Olivia (child) seems determined to remove all hazards. *"It is for me!"* she counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play.  However, a later interaction with a peer shows that Olivia (child) is indeed imagining the experience of the immediate audience of fellow game makers and supporting students. *"I like making it frustrating. That other people find it frustrating!"* Olivia (child) notes the persistence of a student helper who pushes past her frustration to complete the game. Her remark, *"If people tried hard they would get to my level,"* shows her awareness that not all players will persist in the same way to reach her final level, which has only rewards and no hazards. This being a *"secret, special"* experience, which plays against the norms of platform game design, is thus intended to provoke player surprise.
 
 
 
+<!-- While Suzanna(p) imagine a user experience and make a playable game conforming to her perception of norms, Olivia's(c) playful imagining of the experience of a more immediate audience of fellow game makers and supporting students appears to provide a tangible motivation with rapid rewards.
+wider goal of making an engaging game if it interferes with the engagement of the test users. -->
+<!-- We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience [@ratto_critical_2011].
+AND SO? -->
+<!-- There are different levels of designing for others
+One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward. -->
 
-<!-- As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show  -->
+<!--emonstrates norming behaviour towards Molly(p) who has concentrated on the graphics of her game to the detriment of level of challenges, in particular the controls of the game are frustrating. The vignette shows varied attempts to influence Molly to change  the game variables to make the gameplay less frustrating. They praise the look of the game but offer feedback on the experience of the game mechanic of jumping. While the pl
+NOTE #### GDP concepts and language used in informal feedback for peers to influence modification of games (developing community norms) - -->
+
+
+There are other examples of how concepts of game challenge and other aspects of gameplay experience evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comments about how 'hard' participant games were, was a particularly common interaction during playtesting. Vignette.challenge outlines a key interaction which demonstrates norming behaviour towards Molly(p) who has concentrated on the graphics of her game to the detriment of the level of challenges. In particular, the controls of the game are frustrating. The vignette shows varied attempts to influence Molly to change the game variables to make the gameplay less frustrating. They praise the look of the game but offer feedback on the experience of the game mechanic of jumping. While the players do not tell Molly directly to change the game, these comments appear to direct the direction of the design to comply with an emerging community norm of how a player jumps should feel, stemming from the participants' feedback on the feeling of lack of control over the player's character in the game. These behaviours are some of the informal norming behaviours that are less directive, seen in the work of Rogoff and colleagues, as explored in the literature review [@rogoff_cultural_2003].
+DEVELOP THIS POINT.
+
+In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations. BRIEFLY LIST HERE
+
+INSERT VIDEO DATA SUPPORT
+E.g. The use of GDPs to facilitate learners to design for others was present in 6 of the 12 video capture sessions analysed.
+
+
+<!-- children come and play Molly's game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Molly comments "It's so frustrating."  -->
+
+<!-- **Ending / Transition - Other examples and interpretation on designing for others / shifts of perspective** -->
+
+### GDPs facilitate the use of wider funds of knowledge and interest
+
+
+<!-- [Be sure to explore context further and put in intro]. -->
+
+GDPs can allow participants to share and explore funds of knowledge and interest in the emerging learning community. One premise driving my exploration of the use of gameplay features in pedagogy is that the tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge aligns with Moll's concept of funds of knowledge, and, potentially, funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
+
+Within a CHAT framework, these funds of identity and knowledge can be seen as tools that facilitate the transfer of potentially useful concepts and practices across the boundaries between activity systems, in this case, between home activity and that happening in this game-making community. The associated inclusive benefits of working with participants' home interests are explored by Barron [@barron_conceptualizing_2010; @barron_interest_2006-1] and similar work by Gutiérrez on third spaces [@gutierrez_developing_2008]. Existing research outlines the motivations for social making incorporating gaming cultural elements [@ito_hanging_2010; @gee_what_2003] and the ability to make personalised game assets and narratives, which sustain engagement in digital making projects [@sefton-green_mapping_2013].
+
+In the last chapter I outlined processes facilitating participants could to create and incorporate graphical, audio assets and narratives elements into their games and, referencing Appendix.tech.gameframework  briefly outlined how these elements were themed as _Game Polish_ items within a typology of GDPs which aligned with the MDA (mechanics, dynamics and aesthetics) game element framework explored in Chapter 2. Addressing the aspect of patterns aesthetics, in Vignette 5 Molly and Nadine showing identification with graphical making process and the process of bringing it the game. Beyond their internal family interaction, they share this artistic flair and attention to detail into the emerging learning community.
+
+In the last chapter, I outlined processes facilitating participants in creating and incorporating graphical, audio assets, and narrative elements into their games, and, referencing Appendix.tech.gameframework, briefly outlined how these elements were themed as _Game Polish_ items within a typology of GDPs, which aligned with the MDA (mechanics, dynamics, and aesthetics) game element framework explored in Chapter 2. Addressing the aspect of pattern polish/aesthetics, in Vignette 5, Molly and Nadine show identification with the graphical-making process and the process of bringing it into the game. Beyond their internal family interaction, they share this artistic flair and attention to detail with the emerging learning community.
+
+<!-- EXTEND OR SIGNPOST - ADD TO APPENDIX COMMENTARY  - CHECK WITH NEXT CHAPTER. -->
+
+
+In addition to issues of aesthetics explored in the section above, home knowledge of game mechanics and dynamics, the M and D of the MDA framework also contributed to emerging cultural repertoires. Addressing experiences of game dynamics, as explored in the previous section, Vignette 4 gives several examples of participant feedback on the dynamics of Molly's game during playtesting. Turning to game mechanics, in part two of Vignette 7, Bertie comments on Toby's game, which has a dominant game experience of timed jumping: *"It’s like parkour in Minecraft but timed. It’s like playing the game Wipeout. Have you ever played Wipeout?"* Parkour in Minecraft and Wipeout are both game experiences whose main gameplay mechanic is about judging jumps and landing accurately. Bertie makes links to his existing experience of games, making comparisons between Toby's game, commercial games, and his own. In doing so, Bertie is able to show his knowledge and analysis of gameplay patterns.
+
+
+The different types of GDPs available to participants to choose from in the menu of GDP documentation and code snippets allowed for a choice in participant making paths, enabling alignment with home interests. While this study is exploratory and not designed to be representational, observations from video data in this study support existing research on the use of funds of knowledge and interest in digital projects as motivating factors and as a way to overcome barriers to alien cultures [@gutierrez_learning_2019-1].
+
+SUPPORTING DATA FROM VIDEO ANALYSIS
+
+<!-- A wider exploration of use of FOK in the programme related to art and narrative is explored in chapter six.
+IS THIS NOW REALLY NEED - OR MOVE TO APPENDIX?   -->
+
+<!-- _Summary_
+LINK TO STATS from coding. -->
+
+<!-- _Funds of knowledge from professional communities_
+
+DROP? MENTION IF USEFUL
+A potential similar specialism was evident from Dave's guidance of Toby to access professional documentation, and engage in debugging processes using the developer tools section of the web browser. (See appendix 5.x). As a facilitator, this aligned with my previous work with Mozilla web clubs. The enthusiastic sharing of for messing around with technical web tools for learning and fun.
+
+This could have been picked up on and integrated into the design. While I did not do this, the confidence brought to the process to find resources from outside of teh walled garden of the provided resources prompted a change of game paradigm for another family who also made a top down / maze game in P3. -->
+
+<!-- In addition to the previous chapters observations....
+ADD IF RELEVANT - research on funds of knowledge motives or benefits of this behaviour may include: ... -->
 
 <!--
-SHIFT LATER?
-As previously explored I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern hinged on the potential disorientation of imposed shifts of focus between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game des, would require ign pattern and the technical actions and operations needed to complete it. -->
-
-<!-- The varied use of the collection and individuals gameplay patterns and concepts, can be examined using the lenses of the MDA framework.  
-- Home knowledge of mechanics drove many of the requests for GDPs from popular medium of retro games  
-- The norming practices often focus on the game feel, which relates most directly to the dynamics lens.  
-- Aesthetics and the end user experience motivated some users greatly, while it is not clear if this game code changes in this dimensions fully constitute a gameplay design pattern, they are an important inclusive element of the design. -->
+Article on intangibility of game feel.2025-1-8-DiscussionConclusion
+ https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
 
 
 
+
+#### Summary: Home Funds and RQs - MOVED FROM CH. 7 TO 6
+
+This research supports findings of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
+
+This research indicates that in particular, allowing participants to incorporate home interests can be highly motivating in early stages of the design process. It can also sustain the coding activity later in the process encouraging participants to overcome problems in order to share the personalised object created.
+
+In addition, the tacit knowledge of children as game players gives them access to varied affordances in the process of feeding back.
+
+There is also evidence here that frictions involved in dealing with participant expectations of the genre and professionalism of the game they will create, are helped by the use of a templated game. Both in terms of the technical platform and the implied narrative and creative frame which scaffolds the initial creative process. This supports existing research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama. The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype].
+HOW TO EXTEND?
+
+
+### Evolution and propagation of GDPs concepts during playtesting
+
+<!-- NOTE NOT PLAYTESTING THAT IS IMPORTANT HERE - INSTEAD THE ROLE AND NATURE OF GDPS TO AID PROPAGATION -->
+<!-- NOTE THIS includes NON TEMPLATED GDPs? -->
+
+<!-- While GDPs were often demanded by pairs or individuals, and then in P2 a menu of suggested GDPs introduced by had a role, there is a community dimension in the way participants worked with the concepts and the concrete implementation of GDPs.   -->
+<!-- In addition to the names of patterns as a lingua franca to comment on games during the process of playtesting, participants also    -->
+
+Within the emerging idioculture of the game-making sessions, and during playtesting in particular, the implementation of popular or novel GDPs by participant pairs or individuals is often spread through peer activity. Both documented (those part of provided resources) and novel GDPs (those introduced by participants) were transmitted between participants, enriching the games of participants. At times, participants were influenced by playing the games of others, and at times, they would request the direct help of peers to implement GDPs in their own games. In part two of Vignette 1, Toby's work adding 21 levels to his game is noticed by Bertie.
+
+     Bertie: Why’s that enemy in every level
+     Toby: He’s not.
+     Bertie: Can you show me how you add more levels on to yours?
+     Toby: Yeah sure.
+     Pause
+     Toby: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
+     Pause
+     Bertie: It’s like parkours in Minecraft but timed. It’s like playing the game Wipeout. Have you ever played Wipeout?
+     Toby: Er not really.
+     Bertie: Or seen it?
+     Bertie: That’s like my second level.
+     Toby: Ah so hard (Toby fails at a high level on his game and starts to move off)
+     Toby: (To someone else  calling for attention)  No I’m helping Bertie.
+     _(Toby then follows Bertie to his workstation to help him implement more levels.)_
+
+This exchange shows the propagation of GDPs emerging from the process of community playtesting through a direct request. It is possible that Bertie's request to Toby is prompted by Bertie noticing Toby helping Nadine and Harper add levels to their games. Toby's emerging role as a specialist that the community can draw on for practical help, and similar examples (see also that of Nadine in Vignette 5), were welcomed by me as a way to reduce dependence on myself as a facilitator, or to provide an alternative to the instruction-based support documents. Other examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies and changes to jump dynamics.
+
+
+<!-- EVIDENCE? PRESENCE / FREQUENCY?   -->
+<!-- NOTE ADD MORE EVIDENCE? -->
+
+<!-- ADD IN FREQUENCY IF POSSIBLE - A ROUGH APPROXIMATION OF WORKING PATTERNS IN P2. -->
+
+<!-- A different pattern of propagation was that participants notice and comment on a game element or pattern during during playtesting, and then to use supporting resources or facilitator help to implement it. A less frequent pattern involved participants' diligent and deliberate use of supporting resources to identify and implement features without peer influence. -->
+
+
+
+<!-- **New GDPs emerged from existing patterns through peer activity during playtesting** -->
+<!-- DEVELOP -->
+
+In addition to the propagation of GDPs offered in the menu of supporting documentation, other gameplay patterns and related design concepts emerged organically from the community. For example, Olive's concept of a level that eschews challenge and offers only rewards, a type of bonus stage pattern, emerged through playful experimentation (see Vignette 2). Similarly, the concept of a safe zone in the game of Pearl and Clive arrived as a direct result of adding a moving enemies GDP. The extensive use of that pattern dominated the game challenge to such an extent that it became essential for players to quickly identify and use 'safe zones'. These novel concepts may have emerged spontaneously or have a source in part from participants' funds of gaming knowledge. In either case, once the concept of safe zone or bonus level enters the linguistic and coding repertoire of this community of game makers, they may spread if other participants pick up on them. Even if other participants only noticed the use of GDPs and used approximate terminology to comment on them during playtesting, this form of activity can be seen as legitimate peripheral participation [@lave_situated_1991; @guzdial_imagineering_2006], and thus a helpful practice contributing to the emerging ecosystems of the learning community.
+
+
+<!-- **synthesis of this section** -->
+
+This section has explored the use of GDPs within strategies and processes that occur at a community level in a way that demonstrates the transfer between different activity systems, supporting Gutiérrez's perspective [@gutierrez_developing_2008] regarding the importance of transcending borders and linguistic practices between sites of learning. Playtesting served as a medium for a shared idioculture to emerge and, as such, became a significant part of the pedagogy of the learning design. While the design processes directly linked to implementing GDPs were among the most significant in the video data, others were present. The role of playtesting and other community interactions, including warm-up games and session reflections, are explored in relation to the development of agency in the following chapter.
 
 ## GDPs used in the process of guided participation (Target 2500)
 
@@ -621,154 +713,56 @@ The debugging process at times surfaced and allow the exploration of surfacing o
 
 
 
+## The role of GDPs in the personal appropriation of concepts and processes (500 - Target 750)
+
+The previous section began to touch on the personal appropriation of coding skill via the debugging process.
+
+Rogoff's third plane of analysis, one  which mostly closely aligns with much educational research is that of personal appropriation. Rogoff is careful to underline the bi-directional nature of the appropriation of personal knowledge, emphasising Vygotsky's foundational view of knowledge as being mutually constituted as participants feed their interpretation of knowledge back into the communities of which they are a part.  
+
+As outlined in Chapter 2, the focus on skills and knowledge developed by participants is one of the strongest threads in related research on digital coding and game making, and particulary in that of constructionist school [@kafai_constructionist_2015-1; @papert_mindstorms:_1980]. Papert's research on Microworlds saw one of the roles learning designers to shape the affordances of playful learning environments to steer learners to explore scientific concepts,  mathematical concepts, for example geometry in Turtle computing. In this research, detailed study of young coders evolving code creations and accompanying interview data allowed a close study of the personal appropriation, including elements of understanding, application and sharing back this knowledge via created and shared digital projects. Much subsequent research on the use of coding to develop both concrete and more abstract computational thinking skills, has neglected this social and perspectives [find source], instead focusing on a personal dimension of learning as a curricular skill to be absorbed and tested. By way of contrast, this study is aligned with the development of the constructionist movement towards socio-cultural approaches to transcend individual personal conceptions of knowledge, exemplified by the issues associated with the UK computing curriculum. In this informal learning context, there was scant desire from participants to explore concepts aligned with computing curriculum, instead driven more by practical desire to make a game using the tools provided.
+
+Despite this positioning, given the potential to adapt this learning design to a more formal environment to address needs outlined in the introductory chapter, from P2 onwards I began to augment the learning design to suit curriculum oriented teaching and assessment of computational thinking concepts and skills, a process which resulted in a learning map of curricular concepts included here as Table 6.x .
+
+|      Coding Concepts    | Systems Patterns    | Design Practices|
+|--------------|-----------|------------|
+| Sequences | Systems Elements      | Goal Setting        |
+| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Loops | Balancing Feedback Loops      | Web Navigation    |
+| Arrays |       | Problem Solving        |
+| Creating Functions |       | Version Control    |
+| Change Listener |    | Debugging   |
+| Input Event |   | Reusing and Remixing      |
+
+Table 6.x. Learning Dimensions of the 3M Game Making Model
+
+Appendix.learningmap explores in more detail the evolution of this map, which acknowledges significant tensions in integration of concepts into a informal context, and draws on the process and rationale of Bevan and Petrich's  [-@bevan_learning_2015; -@petrich_it_2013] work to bring a similar learning map to a seemingly chaotic tinkering and making process in museum contexts. A summary of my book chapter [@chesterman_game_2023] exploring these issues with recommendations for practitioners is included in Appendix.learningmap
+
+This exploration focuses on the potential of the 3M learning design rather than making claims on the suitability to develop CT via game making which is explored extensively in other research. Conceptions of personal appropriation should not be limited to only the curricular concepts included in the learning map, the many of the behaviours explored above show both the appropriation and feeding back of varied understandings of game design patterns and related concepts and skills. While the design of this study does not suit full exploration of the personal plane of activity, the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge and design processes.
+
+
+<!-- The process of reusing and modify code to create a computer game can surface both abstract and concrete computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. -->
+
+Given that this dimension is not explored in the thesis which has a greater focus on community and social aspects of use of GDPs, examples of personal appropriation are included in Appendix.learning
+
+The ongoing reflection provoked by the process of privileging social and cultural aspects of the game making activity has yielded more philosophical questions in relation to the learning process which are explored in the following discussion section.
+
+
+<!-- Here learner agency is transformative not only of personal dimensions of learning but also the cultural setting, practices and tools available to learners. The process of playtesting other games allowed participants to share their on emerging interpretations of game making concepts like game feel and challenge without being directly taught. Further, the community sense of what is appropriate of fun evolves as mutually and therefore cannot be taught explicitly. -->
 
 
 
-## Use of GDPs in the cultural plane / community level of activity
 
-Following Rogoff's [@rogoff_observing_1995] three planes approach to analysis, the following section explores the use of GDPs at the community plane of activity. While Rogoff's earlier analysis of activity on a cultural plane emphasised the metaphor of apprenticeship, focusing on an already existing community, her later work with Gutiérrez [@gutierrez_cultural_2003] places greater emphasis on cultural activity as dynamic. This perspective examines existing and emerging norms and repertoires, adapted from participants’ engagement in other communities and contexts.
-
-### The role of GDPs to facilitate learners to design for others
-
-<!-- NOTE - ALSO LINKED TO IDEATION? - is this guided participation? -->
-
-
-The use of GDPs, particularly during playtesting, can support the process of imagining end-user experiences. This section examines how the concept of, and experience with, implementing GDPs encouraged participants to envision the experience of end users of their games. Chapter two explored the proposition from professional and participatory design processes that design should be informed by end-user experience [@redstrom_towards_2006], as well as the challenges involved in undertaking such an *"operationalization of empathy"* [@surma-aho_conceptualization_2022, p.1]. From a CHAT interpretation, this process involves shifts in perspective by participants as they engage with objectives across different scopes of activity. For instance, in the vignette above, Olivia (child) pursues a quirky design goal during her paired design work, which Suzanna (parent) resists. Imagining a shift in perspective to the intended audience at a community level of interaction, the parent aims to ensure a sense of challenge for the imagined player.  
-
-
-Suzanna shares *"Must be quite hard to get through that door."* when Olivia places the exit door high above a platform. She then continues, *“It’s no fun having a game without any hazards to avoid.”* Olivia (child) seems determined to remove all hazards. *"It is for me!"* she counters. She may be aware of the implications for game balance but takes pleasure in this destruction of the key challenge of the game as an act of disruptive play.  However, a later interaction with a peer shows that Olivia (child) is indeed imagining the experience of the immediate audience of fellow game makers and supporting students. *"I like making it frustrating. That other people find it frustrating!"* Olivia (child) notes the persistence of a student helper who pushes past her frustration to complete the game. Her remark, *"If people tried hard they would get to my level,"* shows her awareness that not all players will persist in the same way to reach her final level, which has only rewards and no hazards. This being a *"secret, special"* experience, which plays against the norms of platform game design, is thus intended to provoke player surprise.
-
-
-
-<!-- While Suzanna(p) imagine a user experience and make a playable game conforming to her perception of norms, Olivia's(c) playful imagining of the experience of a more immediate audience of fellow game makers and supporting students appears to provide a tangible motivation with rapid rewards.
-wider goal of making an engaging game if it interferes with the engagement of the test users. -->
-<!-- We have explored in the literature review the value of design as a process, to see surrounding world as a designed experience [@ratto_critical_2011].
-AND SO? -->
-<!-- There are different levels of designing for others
-One is just to make a playable game experience which by design involves an imagined user experience in the abstract. The example above shows a more playful and direct imagining of the experience of other people in the room a more tangible motivation with a more immediate reward. -->
-
-<!--emonstrates norming behaviour towards Molly(p) who has concentrated on the graphics of her game to the detriment of level of challenges, in particular the controls of the game are frustrating. The vignette shows varied attempts to influence Molly to change  the game variables to make the gameplay less frustrating. They praise the look of the game but offer feedback on the experience of the game mechanic of jumping. While the pl
-NOTE #### GDP concepts and language used in informal feedback for peers to influence modification of games (developing community norms) - -->
-
-
-There are other examples of how concepts of game challenge and other aspects of gameplay experience evolved through informal feedback during playtesting and served to influence peers to modify their games to increase the enjoyment of peer players. The discussion of game challenge, specifically comments about how 'hard' participant games were, was a particularly common interaction during playtesting. Vignette.challenge outlines a key interaction which demonstrates norming behaviour towards Molly(p) who has concentrated on the graphics of her game to the detriment of the level of challenges. In particular, the controls of the game are frustrating. The vignette shows varied attempts to influence Molly to change the game variables to make the gameplay less frustrating. They praise the look of the game but offer feedback on the experience of the game mechanic of jumping. While the players do not tell Molly directly to change the game, these comments appear to direct the direction of the design to comply with an emerging community norm of how a player jumps should feel, stemming from the participants' feedback on the feeling of lack of control over the player's character in the game. These behaviours are some of the informal norming behaviours that are less directive, seen in the work of Rogoff and colleagues, as explored in the literature review [@rogoff_cultural_2003].
-DEVELOP THIS POINT.
-
-In interpreting data there were other examples of pair partners and peers either commenting on or suggesting to others that they should imagining others user experience to suggest game design alterations. BRIEFLY LIST HERE
-
-INSERT VIDEO DATA SUPPORT
-E.g. The use of GDPs to facilitate learners to design for others was present in 6 of the 12 video capture sessions analysed.
-
-
-<!-- children come and play Molly's game but only for less than a minute before leaving. While their feedback is non verbal the very short length of time that some of them spend is noticeable.  After the last one leaves Molly comments "It's so frustrating."  -->
-
-<!-- **Ending / Transition - Other examples and interpretation on designing for others / shifts of perspective** -->
-
-### GDPs facilitate the use of wider funds of knowledge and interest
-
-
-<!-- [Be sure to explore context further and put in intro]. -->
-
-GDPs can allow participants to share and explore funds of knowledge and interest in the emerging learning community. One premise driving my exploration of the use of gameplay features in pedagogy is that the tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge aligns with Moll's concept of funds of knowledge, and, potentially, funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
-
-Within a CHAT framework, these funds of identity and knowledge can be seen as tools that facilitate the transfer of potentially useful concepts and practices across the boundaries between activity systems, in this case, between home activity and that happening in this game-making community. The associated inclusive benefits of working with participants' home interests are explored by Barron [@barron_conceptualizing_2010; @barron_interest_2006-1] and similar work by Gutiérrez on third spaces [@gutierrez_developing_2008]. Existing research outlines the motivations for social making incorporating gaming cultural elements [@ito_hanging_2010; @gee_what_2003] and the ability to make personalised game assets and narratives, which sustain engagement in digital making projects [@sefton-green_mapping_2013].
-
-In the last chapter I outlined processes facilitating participants could to create and incorporate graphical, audio assets and narratives elements into their games and, referencing Appendix.tech.gameframework  briefly outlined how these elements were themed as _Game Polish_ items within a typology of GDPs which aligned with the MDA (mechanics, dynamics and aesthetics) game element framework explored in Chapter 2. Addressing the aspect of patterns aesthetics, in Vignette 5 Molly and Nadine showing identification with graphical making process and the process of bringing it the game. Beyond their internal family interaction, they share this artistic flair and attention to detail into the emerging learning community.
-
-In the last chapter, I outlined processes facilitating participants in creating and incorporating graphical, audio assets, and narrative elements into their games, and, referencing Appendix.tech.gameframework, briefly outlined how these elements were themed as _Game Polish_ items within a typology of GDPs, which aligned with the MDA (mechanics, dynamics, and aesthetics) game element framework explored in Chapter 2. Addressing the aspect of pattern polish/aesthetics, in Vignette 5, Molly and Nadine show identification with the graphical-making process and the process of bringing it into the game. Beyond their internal family interaction, they share this artistic flair and attention to detail with the emerging learning community.
-
-<!-- EXTEND OR SIGNPOST - ADD TO APPENDIX COMMENTARY  - CHECK WITH NEXT CHAPTER. -->
-
-
-In addition to issues of aesthetics explored in the section above, home knowledge of game mechanics and dynamics, the M and D of the MDA framework also contributed to emerging cultural repertoires. Addressing experiences of game dynamics, as explored in the previous section, Vignette 4 gives several examples of participant feedback on the dynamics of Molly's game during playtesting. Turning to game mechanics, in part two of Vignette 7, Bertie comments on Toby's game, which has a dominant game experience of timed jumping: *"It’s like parkour in Minecraft but timed. It’s like playing the game Wipeout. Have you ever played Wipeout?"* Parkour in Minecraft and Wipeout are both game experiences whose main gameplay mechanic is about judging jumps and landing accurately. Bertie makes links to his existing experience of games, making comparisons between Toby's game, commercial games, and his own. In doing so, Bertie is able to show his knowledge and analysis of gameplay patterns.
-
-
-The different types of GDPs available to participants to choose from in the menu of GDP documentation and code snippets allowed for a choice in participant making paths, enabling alignment with home interests. While this study is exploratory and not designed to be representational, observations from video data in this study support existing research on the use of funds of knowledge and interest in digital projects as motivating factors and as a way to overcome barriers to alien cultures [@gutierrez_learning_2019-1].
-
-SUPPORTING DATA FROM VIDEO ANALYSIS
-
-<!-- A wider exploration of use of FOK in the programme related to art and narrative is explored in chapter six.
-IS THIS NOW REALLY NEED - OR MOVE TO APPENDIX?   -->
-
-<!-- _Summary_
-LINK TO STATS from coding. -->
-
-<!-- _Funds of knowledge from professional communities_
-
-DROP? MENTION IF USEFUL
-A potential similar specialism was evident from Dave's guidance of Toby to access professional documentation, and engage in debugging processes using the developer tools section of the web browser. (See appendix 5.x). As a facilitator, this aligned with my previous work with Mozilla web clubs. The enthusiastic sharing of for messing around with technical web tools for learning and fun.
-
-This could have been picked up on and integrated into the design. While I did not do this, the confidence brought to the process to find resources from outside of teh walled garden of the provided resources prompted a change of game paradigm for another family who also made a top down / maze game in P3. -->
-
-<!-- In addition to the previous chapters observations....
-ADD IF RELEVANT - research on funds of knowledge motives or benefits of this behaviour may include: ... -->
+<!-- As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show  -->
 
 <!--
-Article on intangibility of game feel.2025-1-8-DiscussionConclusion
- https://www.gamedeveloper.com/design/game-feel-the-secret-ingredient -->
+SHIFT LATER?
+As previously explored I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern hinged on the potential disorientation of imposed shifts of focus between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game des, would require ign pattern and the technical actions and operations needed to complete it. -->
 
-
-
-
-#### Summary: Home Funds and RQs - MOVED FROM CH. 7 TO 6
-
-This research supports findings of other research which highlight value of incorporating home interests in  games, coding and media projects [@resnick_mothers_2012; @papert_mindstorms:_1980]. It also aligns with PBL literature which advocates the personalisation of projects and the value of exploring concepts using home funds of knowledge [@moje_maestro_2001]
-
-This research indicates that in particular, allowing participants to incorporate home interests can be highly motivating in early stages of the design process. It can also sustain the coding activity later in the process encouraging participants to overcome problems in order to share the personalised object created.
-
-In addition, the tacit knowledge of children as game players gives them access to varied affordances in the process of feeding back.
-
-There is also evidence here that frictions involved in dealing with participant expectations of the genre and professionalism of the game they will create, are helped by the use of a templated game. Both in terms of the technical platform and the implied narrative and creative frame which scaffolds the initial creative process. This supports existing research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama. The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype].
-HOW TO EXTEND?
-
-
-### Evolution and propagation of GDPs concepts during playtesting
-
-<!-- NOTE NOT PLAYTESTING THAT IS IMPORTANT HERE - INSTEAD THE ROLE AND NATURE OF GDPS TO AID PROPAGATION -->
-<!-- NOTE THIS includes NON TEMPLATED GDPs? -->
-
-<!-- While GDPs were often demanded by pairs or individuals, and then in P2 a menu of suggested GDPs introduced by had a role, there is a community dimension in the way participants worked with the concepts and the concrete implementation of GDPs.   -->
-<!-- In addition to the names of patterns as a lingua franca to comment on games during the process of playtesting, participants also    -->
-
-Within the emerging idioculture of the game-making sessions, and during playtesting in particular, the implementation of popular or novel GDPs by participant pairs or individuals is often spread through peer activity. Both documented (those part of provided resources) and novel GDPs (those introduced by participants) were transmitted between participants, enriching the games of participants. At times, participants were influenced by playing the games of others, and at times, they would request the direct help of peers to implement GDPs in their own games. In part two of Vignette 1, Toby's work adding 21 levels to his game is noticed by Bertie.
-
-     Bertie: Why’s that enemy in every level
-     Toby: He’s not.
-     Bertie: Can you show me how you add more levels on to yours?
-     Toby: Yeah sure.
-     Pause
-     Toby: I’m just going to have one go of beating this (refering to his own game which he is playtesing). It’s 21 levels in it. So .. Yeeeeah.
-     Pause
-     Bertie: It’s like parkours in Minecraft but timed. It’s like playing the game Wipeout. Have you ever played Wipeout?
-     Toby: Er not really.
-     Bertie: Or seen it?
-     Bertie: That’s like my second level.
-     Toby: Ah so hard (Toby fails at a high level on his game and starts to move off)
-     Toby: (To someone else  calling for attention)  No I’m helping Bertie.
-     _(Toby then follows Bertie to his workstation to help him implement more levels.)_
-
-This exchange shows the propagation of GDPs emerging from the process of community playtesting through a direct request. It is possible that Bertie's request to Toby is prompted by Bertie noticing Toby helping Nadine and Harper add levels to their games. Toby's emerging role as a specialist that the community can draw on for practical help, and similar examples (see also that of Nadine in Vignette 5), were welcomed by me as a way to reduce dependence on myself as a facilitator, or to provide an alternative to the instruction-based support documents. Other examples of propagating patterns include placing hazards in tricky places like a lava pit, the use of moving enemies and changes to jump dynamics.
-
-
-<!-- EVIDENCE? PRESENCE / FREQUENCY?   -->
-<!-- NOTE ADD MORE EVIDENCE? -->
-
-<!-- ADD IN FREQUENCY IF POSSIBLE - A ROUGH APPROXIMATION OF WORKING PATTERNS IN P2. -->
-
-<!-- A different pattern of propagation was that participants notice and comment on a game element or pattern during during playtesting, and then to use supporting resources or facilitator help to implement it. A less frequent pattern involved participants' diligent and deliberate use of supporting resources to identify and implement features without peer influence. -->
-
-
-
-<!-- **New GDPs emerged from existing patterns through peer activity during playtesting** -->
-<!-- DEVELOP -->
-
-In addition to the propagation of GDPs offered in the menu of supporting documentation, other gameplay patterns and related design concepts emerged organically from the community. For example, Olive's concept of a level that eschews challenge and offers only rewards, a type of bonus stage pattern, emerged through playful experimentation (see Vignette 2). Similarly, the concept of a safe zone in the game of Pearl and Clive arrived as a direct result of adding a moving enemies GDP. The extensive use of that pattern dominated the game challenge to such an extent that it became essential for players to quickly identify and use 'safe zones'. These novel concepts may have emerged spontaneously or have a source in part from participants' funds of gaming knowledge. In either case, once the concept of safe zone or bonus level enters the linguistic and coding repertoire of this community of game makers, they may spread if other participants pick up on them. Even if other participants only noticed the use of GDPs and used approximate terminology to comment on them during playtesting, this form of activity can be seen as legitimate peripheral participation [@lave_situated_1991; @guzdial_imagineering_2006], and thus a helpful practice contributing to the emerging ecosystems of the learning community.
-
-
-<!-- **synthesis of this section** -->
-
-This section has explored the use of GDPs within strategies and processes that occur at a community level in a way that demonstrates the transfer between different activity systems, supporting Gutiérrez's perspective [@gutierrez_developing_2008] regarding the importance of transcending borders and linguistic practices between sites of learning. Playtesting served as a medium for a shared idioculture to emerge and, as such, became a significant part of the pedagogy of the learning design. While the design processes directly linked to implementing GDPs were among the most significant in the video data, others were present. The role of playtesting and other community interactions, including warm-up games and session reflections, are explored in relation to the development of agency in the following chapter.
-
+<!-- The varied use of the collection and individuals gameplay patterns and concepts, can be examined using the lenses of the MDA framework.  
+- Home knowledge of mechanics drove many of the requests for GDPs from popular medium of retro games  
+- The norming practices often focus on the game feel, which relates most directly to the dynamics lens.  
+- Aesthetics and the end user experience motivated some users greatly, while it is not clear if this game code changes in this dimensions fully constitute a gameplay design pattern, they are an important inclusive element of the design. -->
 
 
 ## Reduced discussion section
