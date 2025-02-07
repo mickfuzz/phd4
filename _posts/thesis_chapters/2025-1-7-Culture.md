@@ -78,7 +78,7 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         learning environments and new understandings of
         agency.](#synthesis---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
 -   [Conclusion](#conclusion)
--   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
+-   [TO MOVE OR DROP FROM CHAPTER]( Stanton Warriors ‎– Da Virus #to-move-or-drop-from-chapter)
     -   [On planned and emergent
         activity)](#on-planned-and-emergent-activity)
 -   [Notes - MOVED TO THE END FOR
