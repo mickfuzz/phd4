@@ -139,7 +139,7 @@ MOVE LIST ABOVE HERE WHEN STABLE ENOUGH
     Vignette 1: An extract of Toby and Veronica’s coding activity	2
     Vignette 1 Analysis	7
     Part Two - Toby and Bertie and propagation of GDPs.	8
-    Vignette 2 – Suzanne and Olivia	9
+    Vignette 2 – Suzanne and Tehillah	9
     Context	9
     Transcript and Activity Log	9
     Commentary on Interaction	14
@@ -519,7 +519,7 @@ Interview data from s-
 
 Transcript of S and J
 
-Also move some of the above down here. 
+Also move some of the above down here.
 
 ### Appendix.recommendations - for practitioners.
 
@@ -605,7 +605,7 @@ https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruq
 
 ### Appendix.tech.samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
 
-This chapter, used as an example in Chapter 6 was being accessed online by Suzanna in Vignette 2.
+This chapter, used as an example in Chapter 6 was being accessed online by Susanna in Vignette 2.
 
 The full manual is available here.
 https://3m.flossmanuals.net/
@@ -734,7 +734,7 @@ MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
 In Chapter 6 the use of visual prototyping was explored in relation Vignette 7 with Dan and Toby.
 
 
-By way of contrast, in Vignette 2, the Suzanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
+By way of contrast, in Vignette 2, the Susanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
 
 The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the matrix helped the child design with little coding or literacy ability. The way the code is structured has been chosen to allow a graphical analogue between the lines of code in the form of a comma separated array and the appearance of the resulting game output on the screen. The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper. The process of turn the sketched into reality on the screen and sharing with others appears to be transformative in terms of the engagement level of the child.
 
@@ -1071,8 +1071,8 @@ Playtesting is explored in more detail in relation agency in Chapter 7.
 
 There are examples of the authenticity of the audience being used by participants
 
-  - Suzanna uses the imagined audience to norm behaviour.
-  - Olivia (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
+  - Susanna uses the imagined audience to norm behaviour.
+  - Tehillah (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
 
 
 The use of code playgrounds and js? structured along design principles which align with affordance theory.
