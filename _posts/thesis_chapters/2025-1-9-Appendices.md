@@ -328,7 +328,7 @@ _Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type a
 The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
 
 
-#### Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT CHAPTER 7
+### Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT CHAPTER 7
 
 #### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
 
@@ -485,8 +485,6 @@ I also noted my own caution about overloading learners with shifting and competi
 
 The map of learning dimensions created, reflects the tensions explored in this section on which element of personal knowledge to privilege.
 
-
-
 While the contextual factors involved in this learning environment did not require alignment with a particular curriculum or external examination, computing, design and systems concepts have the potential to arise as part of the game making process.
 
 In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from the participants drives to implement particular patterns.   
@@ -515,7 +513,13 @@ Beyond this broad mapping of systems and computing concepts to aid facilitators 
 My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
 THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
 
+#### Reflection on interview data on personal appropriation of Concepts
 
+Interview data from s-
+
+Transcript of S and J
+
+Also move some of the above down here. 
 
 ### Appendix.recommendations - for practitioners.
 
