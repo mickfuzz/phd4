@@ -14,9 +14,9 @@
             GDPs](#appendix.themeing---themeing-gdps)
             -   [Appendix 5.R.x - Sketching towards a map to help
                 navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
-            -   [Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT
-                ABOUT CHAPTER
-                7](#appendix-7.makertypes---duplicated-later---also-what-about-chapter-7)
+        -   [Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT
+            CHAPTER
+            7](#appendix-7.makertypes---duplicated-later---also-what-about-chapter-7)
             -   [What kind of Maker are you - Motivations behind social
                 processes (emerging in
                 playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
@@ -34,6 +34,9 @@
         -   [Appendix.learningmap - Tension emerging in the Learning
             Design regarding Computational Thinking
             concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
+            -   [Reflection on interview data on personal appropriation
+                of
+                Concepts](#reflection-on-interview-data-on-personal-appropriation-of-concepts)
         -   [Appendix.recommendations - for
             practitioners.](#appendix.recommendations---for-practitioners.)
             -   [Additional commentary from chapter
