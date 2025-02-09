@@ -474,12 +474,17 @@ Computational thinking
 
 Table 1.1. Learning Dimensions of the 3M Game Making Model
 
+#### Tensions involving explicit teaching of curricular concepts or not
+
 There's a tension of not wanting to jump in to teach CT concepts, or to force reflection on progress. Understandable not to want to interupt flow. It is not needed in terms of testing or curriculum here. This is an adaption where I project into the experience of participants and pick up on reluctance to step away from the ongoing coding and creative or playful tasks at hand. I adapted to end of session reflection on most sessions. I also did not draw attention to extra resources outlining formal frameworks. Although step by step instructions which did outline them in situ were available.
 
 Here I worked to remove barriers to accessing CT as a framework   via resource creation which aligned to experience. But their agency is expressed through disinterest and reluctance in participation. This transform conceptions of the activity as I give up CT as a framework which guides the objective. Instead using GDPS as one more aligned with their interests and need to develop fluency in non-conceptual coding practices.
 
 Facilitators can use a prepared collection of GDPs to facilitate participants to surface chosen computational, design and systems concepts embedded in games.
 SEE BOOK CHAPTER FOR recommendations FOR TEACHERS - AND INCLUDE HERE.
+DROP?
+
+While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
 
 I also noted my own caution about overloading learners with shifting and competing goals. My concern hinged on the potential disorientation of the learner that imposed shifts of focus may provoke. As learners shift between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern to narrower still of completing one of several actions to complete the implementation of a GDP.
 
@@ -491,15 +496,13 @@ In particular, the facilitator has the ability to surface and to explore more ab
 
 
 Toby to find patterns and to duplicate them in different situations.
- 2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
 
- Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
+2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
 
+Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
 
-, I could trust my instincts as a facilitator to not detract attention from participants following an organic and flexible pattern of implementation, self-testing, improvement and playtesting.
+I could trust my instincts as a facilitator to not detract attention from participants following an organic and flexible pattern of implementation, self-testing, improvement and playtesting.
 In the language of activity theory the change of objective denotes is a shift in scope of the activity system.
-
-
 
 Even, taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
 
@@ -520,6 +523,12 @@ Interview data from s-
 Transcript of S and J
 
 Also move some of the above down here.
+
+
+
+
+
+
 
 ### Appendix.recommendations - for practitioners.
 
@@ -831,14 +840,37 @@ I had previously set the dimensions of the matrix above based on this size to cr
 
 
 
-
-
-
 ## Technical Appendix Two - On reaction to tech
 
-#### GDPs used to nurture tactical responses to coding errors
+
+
+#### Appendix.debugging GDPs used to nurture tactical responses to coding errors
+
+
+COPIED FROM GDP CHAPTER
+
+
+**Solving / Debuggging code problems that responses are helped by the high level of context present in the use of GDP as a structural design framework.**
+
+In critique of online tutorials researchers note few provide common errors [@kim_pedagogical_2017]. While it seems reasonable not to include all possible errors, the challenge of supporting participants to build skills and effective repertoires involving debugging is widely recognised [SUPPORT]. My observations suggest that the close coupling of code implementation and target behaviour aids participants in debugging and also be profitably can be drawn on by facilitators.
+
+In analysis of journal notes and recorded screens I began to identify different kinds of coding problems that blocked participants from progressing and build proficiency and flexibility in addressing them. Reflections on participant experiences of kinds of errors are explored in Appendix.tech.2. In the appendix I reflect on syntax errors which stopped the game from working entirely, bugs where code changes had no effect on the game and glitches which don't crash the game instead creating an unintended effect. Glitches merit a summary here as a particularly interesting site of guided participation. In my reflective notes I propose that glitches are more motivating to correct than other errors.
+
+Aspects of the design, use of a starting template and supporting resources based on code snippets and thus code patching process increased appear to encourage glitch bugs. See Vignette 1 for an example of a glitch bug which provoked further investigation and hand on tinkering. A diversity of helping strategies evolved, my own and those of others, in response to errors. For my part, these altered when I judged when participants to be receptive to different forms of input. Glitch errors were often embraced as curiosities and as a learning opportunity to understand the related code and associated abstract concepts using a concrete example afforded by the mechanics of the game design pattern. Mirroring the proposition of half baked games theory that a incomplete / templated game are motivates initial participation, my observation support a position that glitch bugs, which move game into a broken state also provide motivation. Additionally, as the bug relates to a targeted GDP which is closely coupled with a suggested code solution and tutorial, this process incorporates the benefits of a just-in-time approach to supporting documentation
+
+This area opens some interesting lines of questioning which are beyond the full remit of this research but are included in Appendix.tech.2 as promising areas for future work. When addressing issues of motivation and efficacy a different research methodology would be needed.
+
+----
 
 This section highlights different possible errors and notes that responses are helped by the high level of context present in the use of GDP as a structural design framework.
+
+**On Patching**
+
+More on patching and interaction with debugging.
+
+and interaction with UMC process.
+
+**On different kinds of errors**
 
 In analysis of journal notes and recorded screens I began to identify different kinds of coding problems that blocked participants from progressing.
 

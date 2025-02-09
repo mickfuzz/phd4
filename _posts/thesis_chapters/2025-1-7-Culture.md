@@ -307,6 +307,11 @@ Waite's interpretation of levels of abstraction and semantic waves in a computin
 
 While, none of the author's above are clear about what exactly is meant by the abstract in their explorations, a synthesis of relevant literature supports an spectrum of abstraction, from Wing's take on CT at the most abstract, and specifics coding constructs or even syntax at the most concreted. Such a spectrum is in is broadly in line with LOA interpretation, although the purpose is shown as the higher level of abstraction. ANY DIFFERENCES?
 
+
+MOVE - chapter 2? COMPRESS?
+In Papert's research, detailed study of young coders evolving code creations and accompanying interview data allowed a close study of the personal appropriation, including elements of understanding, application and sharing back this knowledge via created and shared digital projects. Much subsequent research on the use of coding to develop both concrete and more abstract computational thinking skills, has neglected this social and perspectives [find source], instead focusing on a personal dimension of learning as a curricular skill to be absorbed and tested. By way of contrast, this study is aligned with the development of the constructionist movement towards socio-cultural approaches to transcend individual personal conceptions of knowledge, exemplified by the issues associated with the UK computing curriculum. 
+
+
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
 This direction of the findings of this chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
