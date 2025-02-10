@@ -474,6 +474,9 @@ Computational thinking
 
 Table 1.1. Learning Dimensions of the 3M Game Making Model
 
+
+
+
 #### Tensions involving explicit teaching of curricular concepts or not
 
 There's a tension of not wanting to jump in to teach CT concepts, or to force reflection on progress. Understandable not to want to interupt flow. It is not needed in terms of testing or curriculum here. This is an adaption where I project into the experience of participants and pick up on reluctance to step away from the ongoing coding and creative or playful tasks at hand. I adapted to end of session reflection on most sessions. I also did not draw attention to extra resources outlining formal frameworks. Although step by step instructions which did outline them in situ were available.
@@ -526,9 +529,17 @@ Also move some of the above down here.
 
 
 
+### Appendix.digitalliteracy
 
+The process of collating these skill aligned to curricular concepts above or those explored in computing research as desirable in a manageable list involved excluding a large number of relevant skills that were being developed as part of the game making activities. In particular key digital literacy and basic skills associated with using a desktop personal computer which were developed are listed below.
 
-
+- Keyboard use: in particular use of shortcuts including Cntl + C, Cntl + V and the use of Shift and arrow keys to highlight text
+- Mouse use: building proficiency with accurate mouse use and the process of clicking and dragging
+- File management: downloading and locating digital files on a desktop environment
+- Exporting graphical assets: locating the proceedure for exporting files from applications for use on other applications in the correct (interchangeable) format.
+- Using web browser tabs: creating new tabs and navigating between different browser tabs as part of a iterative design process.
+- Use of graphical editing tool sets: for example drawing pencils, fill buckets, eraser tools.
+-  
 
 ### Appendix.recommendations - for practitioners.
 

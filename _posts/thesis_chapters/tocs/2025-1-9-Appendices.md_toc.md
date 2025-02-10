@@ -34,6 +34,9 @@
         -   [Appendix.learningmap - Tension emerging in the Learning
             Design regarding Computational Thinking
             concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
+            -   [Tensions involving explicit teaching of curricular
+                concepts or
+                not](#tensions-involving-explicit-teaching-of-curricular-concepts-or-not)
             -   [Reflection on interview data on personal appropriation
                 of
                 Concepts](#reflection-on-interview-data-on-personal-appropriation-of-concepts)
@@ -78,8 +81,9 @@
                 States](#using-phaser-2-not-3-game-states)
     -   [Technical Appendix Two - On reaction to
         tech](#technical-appendix-two---on-reaction-to-tech)
-        -   [GDPs used to nurture tactical responses to coding
-            errors](#gdps-used-to-nurture-tactical-responses-to-coding-errors)
+        -   [Appendix.debugging GDPs used to nurture tactical responses
+            to coding
+            errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
         -   [Concluding remarks on debugging and
             revision](#concluding-remarks-on-debugging-and-revision)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
