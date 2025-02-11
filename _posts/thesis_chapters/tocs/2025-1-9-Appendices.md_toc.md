@@ -40,6 +40,7 @@
             -   [Reflection on interview data on personal appropriation
                 of
                 Concepts](#reflection-on-interview-data-on-personal-appropriation-of-concepts)
+        -   [Appendix.digitalliteracy](#appendix.digitalliteracy)
         -   [Appendix.recommendations - for
             practitioners.](#appendix.recommendations---for-practitioners.)
             -   [Additional commentary from chapter
