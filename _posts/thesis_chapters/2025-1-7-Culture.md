@@ -142,9 +142,13 @@ See also thematic coding online
 
 This chapter will discuss the uses of GDPs outlined in the previous chapter in relation to
 
-- Socio cultural understandings of mediation and agency via TADS  theory,  particularly in relation to the abstract and concrete.
-- Conceptions of abstract and concrete present in computing and digital making research: ultimately, proposing design patterns as a intermediate-level, pedagogical framework compared to computational thinking.
-- Issues of inclusive pedagogy which underline the entire motivation and design of the study. Returning therefore to a fundamental point of the study to explore how this help diverse learners in a challenging area to learn.
+1. Rising to concrete ; Conceptions of abstract and concrete present in computing and digital making research: ultimately, proposing design patterns as a intermediate-level, pedagogical framework compared to computational thinking.
+
+2. Socio cultural understandings of mediation and agency via TADS  theory,  particularly in relation to the abstract and concrete.
+
+3. TAS, 3rd Spaces, Col, Fok, idiocultures etc. 
+
+4. Synthesis in relation to  Issues of inclusive pedagogy. UDL, UMC, MOE.  This  underline the entire motivation and design of the study. Returning therefore to a fundamental point of the study to explore how this help diverse learners in a challenging area to learn.
 
 To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
 
