@@ -354,7 +354,21 @@ After the process of playing a game I shared my proposition that there different
 
 I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
 
+#### Appendix.playtestingtypes
 
+The maker types listed above were in particular played out in the playtesting process.
+
+
+
+**Playful playtesting**
+
+Some children added additional playful elements to playtesting. Because these interactions were mobile between workstations is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
+
+WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
+
+    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+
+These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
 
 #### Commentary on side missions
 
