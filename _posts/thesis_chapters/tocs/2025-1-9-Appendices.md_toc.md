@@ -20,6 +20,7 @@
             -   [What kind of Maker are you - Motivations behind social
                 processes (emerging in
                 playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
+            -   [Appendix.playtestingtypes](#appendix.playtestingtypes)
             -   [Commentary on side
                 missions](#commentary-on-side-missions)
         -   [Appendix.drama - Drama process
