@@ -540,6 +540,20 @@ it may be advantageous to keep some key areas of the learning design should be m
 
 ## Part Four : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
 
+
+MOVE? START OF INCLUSIVE DESIGN SUMMARY
+
+These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
+- use-modify-create (UMC) approach. [source]
+- stepwise
+- UDL / PBL
+
+Key characteristics of structuring support around quick start activities and a subsequent menu of GDPs which align with existing research include:
+
+The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it.
+
+
+
 ### Discussion on agency concerning tools and resources  (authenticity in particular)
 
 MOVE MUCH OF THIS TO THE AFFORDENCES SECTION ABOVE IF SUITABLE -

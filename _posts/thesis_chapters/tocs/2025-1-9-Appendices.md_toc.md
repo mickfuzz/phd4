@@ -35,12 +35,12 @@
         -   [Appendix.learningmap - Tension emerging in the Learning
             Design regarding Computational Thinking
             concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
+            -   [Evolution of the map](#evolution-of-the-map)
             -   [Tensions involving explicit teaching of curricular
                 concepts or
                 not](#tensions-involving-explicit-teaching-of-curricular-concepts-or-not)
-            -   [Reflection on interview data on personal appropriation
-                of
-                Concepts](#reflection-on-interview-data-on-personal-appropriation-of-concepts)
+            -   [Reflection on personal appropriation of
+                concepts](#reflection-on-personal-appropriation-of-concepts)
         -   [Appendix.digitalliteracy](#appendix.digitalliteracy)
         -   [Appendix.recommendations - for
             practitioners.](#appendix.recommendations---for-practitioners.)
