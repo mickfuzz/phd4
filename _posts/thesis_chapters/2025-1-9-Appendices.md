@@ -471,9 +471,8 @@ in open world games are used in part to appeal to different kinds of players [@b
 
 ### Appendix.learningmap - Tension emerging in the Learning Design regarding Computational Thinking concepts
 
-Chapter 6 explores the aspect of the learning design and curricular approaches to computing.
+This appendix outlines the evolution of a map of learning dimensions which is referenced in Chapter 6. A section section contains reflections on the aspect of the learning design which suit curricular approaches to computing and computational thinking.
 
-Computational thinking
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
@@ -489,7 +488,11 @@ Computational thinking
 Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 
+#### Evolution of the map
 
+The inspiration is that of Bevan and Petrich's  [-@bevan_learning_2015; -@petrich_it_2013] work to bring a similar learning map to a seemingly chaotic tinkering and making process in museum contexts.
+
+IS THIS IN LR?
 
 #### Tensions involving explicit teaching of curricular concepts or not
 
@@ -501,7 +504,7 @@ Facilitators can use a prepared collection of GDPs to facilitate participants to
 SEE BOOK CHAPTER FOR recommendations FOR TEACHERS - AND INCLUDE HERE.
 DROP?
 
-While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
+
 
 I also noted my own caution about overloading learners with shifting and competing goals. My concern hinged on the potential disorientation of the learner that imposed shifts of focus may provoke. As learners shift between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern to narrower still of completing one of several actions to complete the implementation of a GDP.
 
@@ -512,9 +515,11 @@ While the contextual factors involved in this learning environment did not requi
 In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from the participants drives to implement particular patterns.   
 
 
+2019-05-08-te -
+
 Toby to find patterns and to duplicate them in different situations.
 
-2019-05-08-te - With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
+With prompting from parent the child is able to recognise, duplicate and alter the update code for accepting left and right key input to change character x-axis velocity. After update and test iterations they change this to up and down key input to update y-axis velocity. The 3M approach lends itself well to exploring pattern recognition as patterns are readily available to participants in starting code and the extra patches that are added.
 
 Also the knowledge of the GDP helps ability to recognise patterns in the code. Left / right -> Up / Down
 
@@ -533,13 +538,17 @@ Beyond this broad mapping of systems and computing concepts to aid facilitators 
 My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
 THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
 
-#### Reflection on interview data on personal appropriation of Concepts
+#### Reflection on personal appropriation of concepts
 
-Interview data from s-
+**Interview data**
 
 Transcript of S and J
+The testing of the jigsaw activity
+
+While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
 
 Also move some of the above down here.
+
 
 
 

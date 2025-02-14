@@ -226,9 +226,11 @@ This section explores these academic conceptions in a playful way using relatabl
 ## Part one - Exploring concepts of abstract and concrete knowledge frameworks in relation to Game Design Patterns
 
 
-
+This section ends with an proposal of GDPs as a mid-level construct, demonstrating their utility for both educational designers and researchers.
 
 ### Discussion of findings in relation to CHAT conceptions of abstraction
+
+
 
 The previous section began to explored, through the lens of personal appropriation, to variety of skills suitable for development via this learning design. The final section surfaced a  distinction between curricular contents commonly associated with a more abstract understandings of personal knowledge, including more abstract elements of computation thinking. This section continues an interpretation of this chapters findings and an socio-cultural understanding of learning using activity theory as a framework. This investigation has required a careful investigation of abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. To start, let us consider the nature of the abstraction of gameplay design patterns via Sannino' [-@sannino_activity_2011] distinction between empirical and theoretical abstraction.
 
