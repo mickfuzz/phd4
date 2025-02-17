@@ -345,6 +345,18 @@ Here I return to the material of introduction and contextual factors which impac
 - non-formal and third spaces
 
 
+### Addressing inclusion and neurodiversity
+
+A DESIGN FOR MENTALISTS BY A MENTALIST
+
+UDL
+ETC.
+
+
+
+
+
+
 ### Using Concrete / applied frameworks
 
 #### abstact vs applied frameworks -  Comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative

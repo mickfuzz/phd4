@@ -328,10 +328,14 @@ _Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type a
 The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
 
 
-### Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT ABOUT CHAPTER 7
+### Appendix 7.makertypes (and social missions)
+
+
+MOVED HERE
+
+The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
 #### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
-
 
 By the end of P2 most of the tools and main processes were in place. But I still felt tensions around introducing reflective processes and wanted to de-centre myself where possible from a teacher position. My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
 
@@ -398,6 +402,13 @@ Side missions or side quests are also used in open world games are used in part 
     Ed: What's your mission?
     Mark: To find out about other people's favourite games.
     Ed: Alright.
+
+**DISCUSSION**
+
+the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_ - from parents is explored here
+
+ADD IN DETAIL FROM P3 - 
+
 
 ### Appendix.drama - Drama process -
 
@@ -514,8 +525,7 @@ While the contextual factors involved in this learning environment did not requi
 
 In particular, the facilitator has the ability to surface and to explore more abstract concepts present in the concrete application of code that have emerged organically from the participants drives to implement particular patterns.   
 
-
-2019-05-08-te -
+<!-- 2019-05-08-te - -->
 
 Toby to find patterns and to duplicate them in different situations.
 
