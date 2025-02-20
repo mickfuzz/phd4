@@ -536,9 +536,6 @@ The concepts of affective space and magic circle  as a way to encourage particip
 
 
 
-
-
-
 **Turning to gardening metaphors**
 
 We can compare the metaphor of playgrounds and harbours with that of a walled garden.
@@ -568,16 +565,7 @@ It is of value to examine specialisation can be seen through the lens of double 
 1. Shifting forms of agency
 2. Danger of the design being too complete, a concept of sketchy pedagogy
 
-**AN EMERGING QUESTION  - Is nurturing agency by creating space for emergent practices sustainable for ongoing iterations? How much of the learning design can/should be transferred to other settings.**
-
-Is it a negative thinkg that later participants have less opportunity for transformative agency?
-
-Also - A personal refection while I love this aspect, but others can find it stressful. Different strokes.
-
-<!--
-NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
-
-INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON HARBOURS.
+HARBOURS.
 
 ### Shifting forms of Agency
 
@@ -596,6 +584,17 @@ A question arises, is it less valueable in later iterations? Different stokes pr
 
 
 ### Danger of designing away the possibility for transformational agency
+
+**AN EMERGING QUESTION  - Is nurturing agency by creating space for emergent practices sustainable for ongoing iterations? How much of the learning design can/should be transferred to other settings.**
+
+Is it a negative thinkg that later participants have less opportunity for transformative agency?
+
+Also - A personal refection while I love this aspect, but others can find it stressful. Different strokes.
+
+<!--
+NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
+
+INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON
 
 As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
 
@@ -616,7 +615,7 @@ A danger that my interest and focus on messy / sketchy pedagogies would try to a
 ## Part Five : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
 
 - Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
-- Final analysis with UMC, UDL, MOE - bring complexity here 
+- Final analysis with UMC, UDL, MOE - bring complexity here
 - Role of the methodology / DBR . FI to bring this process / analysis out
 -
 
