@@ -302,6 +302,14 @@ On the other hand, my reflections support a proposition that there is utility fo
 
 ## Part Two - Affordances, Mediation, TADS,
 
+1. recap on germ cell as common focus point for mediation (some designed or apporpirated)
+2. When novel forms of mediation present, gdps sometimes used - thus as double stimulation
+3. This is a transformation / expansion in 3GAT terms, recap as a resolution of tensions, and a manifestation of agency
+4. Give a summary of examples of tranformational agency
+5. The kedging metaphor and the climbing wall metaphor - in relation to agency and design -  explore them, kedging is a bit flailing , wall less so
+6. Briefly touch on the job of the learning designer here.
+
+
 
 Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format.
 
@@ -406,7 +414,6 @@ As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a k
 The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
 
 
-
 #####  LINKING TO ANCHORS TO AFFORDENCES
 
 Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
@@ -434,6 +441,12 @@ MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial
 
 
 ## Part three - Emergent activities in emergent cultural context - TAS, 3rd Spaces, Col, Fok, idiocultures etc.
+
+1. Intro and value of different Metaphors - types of spaces, walled garden, habour, playground / sandbox - used for different reaons but all about ecological aspects
+2. Harbour and authenticity in tool use
+3. Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity
+4. Examples in relation to the role of playtesting / playground to dvelop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming
+
 
 In research which addresses transformative agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings, in ways which are not generally explored in Change Labs approaches.  
 
@@ -552,6 +565,8 @@ It is of value to examine specialisation can be seen through the lens of double 
 
 ## Part Four: Synthesis in relation to Agency   
 
+1. Shifting forms of agency
+2. Danger of the design being too complete, a concept of sketchy pedagogy
 
 **AN EMERGING QUESTION  - Is nurturing agency by creating space for emergent practices sustainable for ongoing iterations? How much of the learning design can/should be transferred to other settings.**
 
@@ -600,7 +615,10 @@ A danger that my interest and focus on messy / sketchy pedagogies would try to a
 
 ## Part Five : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
 
-
+- Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
+- Final analysis with UMC, UDL, MOE - bring complexity here 
+- Role of the methodology / DBR . FI to bring this process / analysis out
+-
 
 ### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
 
