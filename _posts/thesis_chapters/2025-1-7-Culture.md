@@ -303,6 +303,13 @@ On the other hand, my reflections support a proposition that there is utility fo
 ## Part Two - Affordances, Mediation, TADS,
 
 
+Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format.
+
+This section  analyse these tensions in more depth,
+
+
+
+
 
 <!-- ### Justifying the use of Metaphors in these FINDINGS - CONCLUSION?
 
@@ -315,14 +322,13 @@ Metaphors are another vehicle to explore concepts, and different means of repres
 Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication. To explore this thought,  I will engage in some metaphorical analysis, some following many other researchers, and introducing some of my own.
 
 
-
 The metaphors below help an exploration of the development of cultural and social practice in this community.
 
 
 
 
 
-### The use of concepts of mediation and dual stimulation in this exploration of the development of agency - THEN REPERTOIRES ALSO?
+### The use of concepts of mediation and dual stimulation in this exploration of the development of agency -
 
 As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter).
 
@@ -333,18 +339,12 @@ To summarise similarities and distinctions between mediation and double stimulat
 Hopwood [@hopwood_agency_2022] explores varied interpretations between mediation and double stimulation, exposing varied interpretations of mediation and ds's special interpretation by Sannino, and the difficulties of then comparing the models of agency.    
 
 
-In research which addresses transformative agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings, in ways which are not generally explored in Change Labs approaches.  
+DROP?
+While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity,
+supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency.
 
 
-SHIFT SOME OF THE BELOW TO THE THEORETICAL FRAMEWORK CHAPTER.
 
-RECAP KEY ELEMENTS FROM CHAPTER 3. LIke:
-
-- THE DIFFERENCE BETWEEN TOOLS AS MEDIATING TOOLS AND DOUBLE STIMULATION.
-- primary and secondary tools / stimulation
-
-
-For this study, one issue of Sannino and Engestroms general approach is that there are many possible stimuli in a modern environment (find source ), and while yes, participant may adapt them for their own use, the focus on just one is potentially limiting. JUST A THOUGHT.
 
 
 
@@ -414,14 +414,34 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
 
+
+**An example of mini TADS - use of secondary resources**
+ <!-- REFLECTION ON BRICOLAGE? -->
+An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
+
+a theme explored in more detail in chapter five
+Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
+CH 5.
+
+vThe careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above as mismatch between primary and secondary stimuli.
+The process aligns with the concept of just-in-time instruction.
+
+### Recap of TADS in context?
+
+MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
+
+
+
 ## Part three - Emergent activities in emergent cultural context - TAS, 3rd Spaces, Col, Fok, idiocultures etc.
 
+In research which addresses transformative agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings, in ways which are not generally explored in Change Labs approaches.  
 
-It is of value to contrast TADS and the kedging metaphor with that of Gutiérrez in the assembling of new repertoires using the findings of the previous chapter.  
 
-In this case metaphors concerning learning spaces and movement between spaces are often found in existing research.  
+**beyond primary and secondary tools / stimulation conception**
 
-I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities. As such, the nature and process of this community evolution merits exploration.
+For this study, one issue of Sannino and Engestroms general approach is that there are many possible stimuli in a modern environment (find source ), and while yes, participant may adapt them for their own use, the focus on just one is potentially limiting. JUST A THOUGHT.
+
 
 ### Discussion on the role of playtesting in particular as a suitable medium (third space)
 
@@ -432,9 +452,19 @@ HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND
 
 As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018]. In this section, I review data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
 
+I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities. As such, the nature and process of this community evolution merits exploration.
+
 <!-- #### on alien chat
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
+
+### Metaphors of space
+
+It is of value to contrast TADS and the kedging metaphor with that of Gutiérrez in the assembling of new repertoires using the findings of the previous chapter.  
+
+In this case metaphors concerning learning spaces and movement between spaces are often found in existing research.  
+
+
 
 #### Playtesting, player types and side missions
 
@@ -462,7 +492,10 @@ The process of play testing as a cultural process is explored in more depth now.
 <!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
 <!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
 
-### Harbours, playgrounds and walled gardens as a way to explore conceptions of (relational) agency - INTEGRATE MY FINDINGS
+### Harbours, playgrounds and walled gardens as a way to explore conceptions of (relational) agency -
+
+The motivations for creating starter templates are similar for both educators and professional template creators. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.  This strong alignment with authentic, professional practice may help learners transition to other forms of web coding projects, due to the similarity of as this element of practice.
+CH.5
 
 My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.
 
@@ -472,9 +505,14 @@ Many design decisions were made to create a supported, simplified coding environ
 
 While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool.
 
+This curated replication of authentic process of finding and incorporating code snippets into the starting template supported the development of skills used in professional coding communities.
+
+
 
 
 #### The freedoms and restrictions of playgrounds
+
+Other affordances of the design would encourage greater authorial (and relational agency), for example those designed to build user's sense of belonging in the game making community.
 
 In this research, similar metaphors have emerged in the pedagogical and technical process surrounding the concept of playgrounds and gardens. In the previous section the use of a curated set of design patterns can be referred to as a walled garden or sandbox. The process of checking the performance of games is called playtesing. The web-based environment which reduce the complexity of web development and provide community and immediate feedback are named code playgrounds. While some of this language is specific to the creation of games, other terms are also prevalent in non-game coding.
 
@@ -511,14 +549,9 @@ Learners who had mastered the skills were asked by others for help, becoming dom
 It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
 
 
-#### Proposal on shifting forms of agency.
-How different forms of  agency are developed and transform over iterations of this game making programme  
 
-Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
+## Part Four: Synthesis in relation to Agency   
 
-Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
-
-A question arises, is it less valueable in later iterations? Different stokes probably.
 
 **AN EMERGING QUESTION  - Is nurturing agency by creating space for emergent practices sustainable for ongoing iterations? How much of the learning design can/should be transferred to other settings.**
 
@@ -531,6 +564,24 @@ NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGEN
 
 INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON HARBOURS.
 
+### Shifting forms of Agency
+
+From TA in P1
+To relational in P2
+Increased support for relational in P3
+
+**Proposal on shifting forms of agency.**
+How different forms of  agency are developed and transform over iterations of this game making programme  
+
+Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
+
+Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
+
+A question arises, is it less valueable in later iterations? Different stokes probably.
+
+
+### Danger of designing away the possibility for transformational agency
+
 As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
 
 Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
@@ -538,14 +589,47 @@ Adopting analysis which aligns authorial agency and transformative agency, there
 To retain this potential for transformation
 it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
 
-## Part Four : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
+And the danger of being too instrumental if the design is too complete.
+
+A danger that my interest and focus on messy / sketchy pedagogies would try to avoid. But which has wider implications in terms of inclusion and levels of stress for participants.
 
 
-MOVE? START OF INCLUSIVE DESIGN SUMMARY
+
+
+
+
+## Part Five : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
+
+
+
+### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
+
+
+
+<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
+
+In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency
+
+This section synthesises the learning design with such interpretations.
+
+And then progresses to recap the potential of this synthesis of these process, framed in other writing as a 3M approach.
+
+Finally it links the the outputs with the research process in terms of the impact of DBR and formative intervention approaches.
+
+#### Synthesis of Characteritics and Analysis
+
+- use-modify-create (UMC) approach. [source] / stepwise
+
+- GDPs as a germ cell, used in different step wise projects which build one upon the other as a flexible but supporting scaffold. balance between structure and choice  -  facilitates a rhizomatic approach / within a structure
+
+- The role of authenticity and the impact on agency
+
+
 
 These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
-- use-modify-create (UMC) approach. [source]
-- stepwise
+
+
+
 - UDL / PBL
 
 Key characteristics of structuring support around quick start activities and a subsequent menu of GDPs which align with existing research include:
@@ -554,71 +638,25 @@ The use of a menu / collection of resources can be considered an inclusive educa
 
 
 
-### Discussion on agency concerning tools and resources  (authenticity in particular)
 
-MOVE MUCH OF THIS TO THE AFFORDENCES SECTION ABOVE IF SUITABLE -
-THEN MOVE SOME ELEMENTS OF DUAL STIMULATION TO THAT SECTION ON AFFORDENCES.
 
 <!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
 
-Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format.
-
-This section  analyse these tensions in more depth,
-CAN THIS JUST BE A SUMMARY OF PREVIOUS CHAPTERS QUICKLY EXPRESSED? TABLE? BEFORE MOVING INTO METAPHOR SECTION?
-
-In particular the intersection of authenticity in tool use and participant agency. DOES THIS HAPPEN? - IF SO WHERE
-
-WHERE IS THIS CLARIFIED? WHY IS IT IMPORTANT?
-While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity,
-supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency.
 
 
-DOES SOME OF THIS LIVE IN CHAPTER 5 IN THE DESIGN NARRATIVE? OR IN CH.6 IN REFLECTION ON BRICOLAGE?
-An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
-CHAPT 5
-
-The motivations for creating starter templates are similar for both educators and professional template creators. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency.  This strong alignment with authentic, professional practice may help learners transition to other forms of web coding projects, due to the similarity of as this element of practice.
-CH.5
 <!-- PIVOT -->
- a theme explored in more detail in chapter five
-Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
-CH 5.
+
 
 <!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
 
-This curated replication of authentic process of finding and incorporating code snippets into the starting template supported the development of skills used in professional coding communities.
-
-The careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above as mismatch between primary and secondary stimuli.
-
-The process aligns with the concept of just-in-time instruction.
-
-While the genesis of processes in P1  authorial agency, if repeated this process of careful alignment would represent instrumental agency.
-DROP?
-
-Other affordances of the design would encourage greater authorial (and relational agency), for example those designed to build user's sense of belonging in the game making community.
-
-MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
 
 
 
-### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
 
-SHOULD THIS GO FIRST IN SYTHESIS SECTION?
 
-<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
 
-In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks.
 
-The nature of the framework provided by game play design patterns can be explored through the lens of agency
-
-- GDPs as a germ cell, used in different step wise projects which build one upon the other as a flexible but supporting scaffold.
-- It's a balance between structure and choice
-- Menu facilitates a rhizomatic approach / within a structure
-- How this can be framed using understandings of agency and metaphors if this is helpful.
-- The role of authenticity.  (is this too much?)
-
-There is choice  - and interaction - contribution to the overall object.
 
 
 ## Conclusion
