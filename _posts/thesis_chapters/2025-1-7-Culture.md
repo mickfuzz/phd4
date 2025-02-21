@@ -22,48 +22,58 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [Discussion of findings in relation to CHAT conceptions of
-            abstraction](#discussion-of-findings-in-relation-to-chat-conceptions-of-abstraction)
+        -   [Recap](#recap)
         -   [Design patterns as a intermediate-level, pedagogical
-            framework compared to computational
-            thinking](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
+            framework (compared to computational
+            thinking)](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
+        -   [Exploration of findings in relation to CHAT conceptions of
+            abstraction](#exploration-of-findings-in-relation-to-chat-conceptions-of-abstraction)
+        -   [Exploration of GDPs as mid-level construct in relation to
+            other conceptions of abstraction in computing education
+            research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
+        -   [Comparing my pedagogical framing with existing
+            research](#comparing-my-pedagogical-framing-with-existing-research)
     -   [Part Two - Affordances, Mediation,
         TADS,](#part-two---affordances-mediation-tads)
         -   [The use of concepts of mediation and dual stimulation in
-            this exploration of the development of agency - THEN
-            REPERTOIRES
-            ALSO?](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency---then-repertoires-also)
+            this exploration of the development of agency
+            -](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency--)
         -   [Affordances as points on a climbing wall to support
             understandings of instrumental
             agency](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency)
         -   [Exploring transformative agency using the metaphor of
             Kedging
             anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
+        -   [Recap of TADS in context?](#recap-of-tads-in-context)
     -   [Part three - Emergent activities in emergent cultural context -
         TAS, 3rd Spaces, Col, Fok, idiocultures
         etc.](#part-three---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
         -   [Discussion on the role of playtesting in particular as a
             suitable medium (third
             space)](#discussion-on-the-role-of-playtesting-in-particular-as-a-suitable-medium-third-space)
+        -   [Metaphors of space](#metaphors-of-space)
             -   [Playtesting, player types and side
                 missions](#playtesting-player-types-and-side-missions)
         -   [Harbours, playgrounds and walled gardens as a way to
-            explore conceptions of (relational) agency - INTEGRATE MY
-            FINDINGS](#harbours-playgrounds-and-walled-gardens-as-a-way-to-explore-conceptions-of-relational-agency---integrate-my-findings)
+            explore conceptions of (relational) agency
+            -](#harbours-playgrounds-and-walled-gardens-as-a-way-to-explore-conceptions-of-relational-agency--)
             -   [The freedoms and restrictions of
                 playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-            -   [Proposal on shifting forms of
-                agency.](#proposal-on-shifting-forms-of-agency.)
-    -   [Part Four : Synthesis in relation to Issues of inclusive
+    -   [Part Four: Synthesis in relation to
+        Agency](#part-four-synthesis-in-relation-to-agency)
+        -   [Shifting forms of Agency](#shifting-forms-of-agency)
+        -   [Danger of designing away the possibility for
+            transformational
+            agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
+    -   [Part Five : Synthesis in relation to Issues of inclusive
         pedagogy UDL, UMC, MOE,
-        PBL.](#part-four-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
-        -   [Discussion on agency concerning tools and resources
-            (authenticity in
-            particular)](#discussion-on-agency-concerning-tools-and-resources-authenticity-in-particular)
+        PBL.](#part-five-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
         -   [The interaction of flexible deign practices, the collection
             of Game Design Patterns, stepwise scaffolding of learning
             environments and new understandings of
             agency.](#the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
+            -   [Synthesis of Characteritics and
+                Analysis](#synthesis-of-characteritics-and-analysis)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
@@ -226,10 +236,36 @@ This section explores these academic conceptions in a playful way using relatabl
 ## Part one - Exploring concepts of abstract and concrete knowledge frameworks in relation to Game Design Patterns
 
 
-This section ends with an proposal of GDPs as a mid-level construct, demonstrating their utility for both educational designers and researchers.
+1. Recap, GDPs as a Germ cell,
+2. Exploring CHAT concepts of abstraction
 
-### Discussion of findings in relation to CHAT conceptions of abstraction
+This section ends/begins with an proposal of GDPs as a mid-level construct, demonstrating their utility for both educational designers and researchers.
 
+
+### Recap
+
+
+
+MOVE?
+In chapter two I described the characteristics and limits of computational thinking as a pedagogical framework, specifically concepts include: varied interpretations; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches.
+
+GDPs as a germ cell,
+
+
+### Design patterns as a intermediate-level, pedagogical framework (compared to computational thinking)
+
+This direction of the findings of the last chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
+
+    In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
+
+Such an interpretation is adopted by Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] which drew inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
+
+An interpretation of the abstract / concrete spectrum here in research on design patterns in computing education is on the practicality of application.
+
+In this research, I conceptualised such less practical abstraction as that represented by Wing's interpretation of computational thinking.
+
+
+### Exploration of findings in relation to CHAT conceptions of abstraction
 
 
 The previous section began to explored, through the lens of personal appropriation, to variety of skills suitable for development via this learning design. The final section surfaced a  distinction between curricular contents commonly associated with a more abstract understandings of personal knowledge, including more abstract elements of computation thinking. This section continues an interpretation of this chapters findings and an socio-cultural understanding of learning using activity theory as a framework. This investigation has required a careful investigation of abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. To start, let us consider the nature of the abstraction of gameplay design patterns via Sannino' [-@sannino_activity_2011] distinction between empirical and theoretical abstraction.
@@ -244,7 +280,8 @@ Title: Activity theory as an activist and interventionist theory, Author: Sannin
 In this research, the empirical level of abstraction is  present in P1 and in P2 where features to be added to the game were classified gameplay features and categorised according to to the existing MDA framework. Moving beyond the empirical towards the theoretical aspect, is the early positioning of each feature as a gameplay design pattern which can be described and supplemented with a suggested code structures and examples.
 ANY OTHERS
 
-The key, guiding conception here becomes the pedagogical utility of a strong coupled link between a feature of an observable game product (in this case gameplay design patterns) and scaffolding resources available within a community. This concept becomes the root of the varied approaches and forms of support outlined in this chapter. Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start cards, a home menu of GDPs, code snippets, stepped tutorials ). Many other examples, as outlined above were more spontaneous and informal, spreading from peer to peer in the community often during playtesting.  
+The key, guiding conception here becomes the pedagogical utility of a strong coupled link between a feature of an observable game product (in this case gameplay design patterns) and scaffolding resources available within a community. This concept becomes the root of the varied approaches and forms of support outlined in this chapter. Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start card### Design patterns as a intermediate-level, pedagogical framework (compared to computational thinking)
+
 
 The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
 
@@ -254,15 +291,12 @@ While I address areas for future research in the conclusion, a proposed benefit 
 
 <!-- While understanding the process is more obviously useful for faciliators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects. -->
 
-### Design patterns as a intermediate-level, pedagogical framework compared to computational thinking
 
-<!-- NOTE - PARTS OF THIS WERE MOVED TO THE LIT REVIEW. -->
 
-It is productive to ask: how can the use of GDPs as a framework be compared to that of computational thinking given CT's is a dominance in this area?
-
-In chapter two I described the characteristics and limits of computational thinking as a pedagogical framework, specifically concepts include: varied interpretations; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches.
 
 <!-- Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets. -->
+
+### Exploration of GDPs as mid-level construct in relation to other conceptions of abstraction in computing education research
 
 Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area. In terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990]. However, if we return to Papert and Turkle's [-@papert_epistemological_1990] challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, such an approach would also challenge Waite rationale of alternating between abstract and concrete poles.
 
@@ -275,18 +309,19 @@ In Papert's research, detailed study of young coders evolving code creations and
 
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
-This direction of the findings of this chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
-
-    In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
-
-Such an interpretation is adopted by Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] which drew inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
 
 
 <!-- **In terms of recommendations for researchers / practitioners of an intermediate framework:** -->
 
-Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research. As a challenge these findings, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
 
 <!-- As such this research has only more theoretical propositions rather than participant data. -->
+
+### Comparing my pedagogical framing with existing research
+
+It is productive to ask: how can the use of GDPs as a framework be compared to that of computational thinking given CT's is a dominance in this area?
+
+Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research. As a challenge these findings, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
+
 
 Despite this, in terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design. Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it. This chapter has outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture. I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that to further research to would be needed to justify the utility take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum constraints.
 
