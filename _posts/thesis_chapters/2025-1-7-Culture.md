@@ -238,18 +238,19 @@ This section explores these academic conceptions in a playful way using relatabl
 
 1. Recap, GDPs as a Germ cell,
 2. Exploring CHAT concepts of abstraction
+3. Locating TADS in this perspective, via 3GAT concept of expansion via double stimulation and TADS
 
 This section ends/begins with an proposal of GDPs as a mid-level construct, demonstrating their utility for both educational designers and researchers.
 
 
 ### Recap
 
-
-
 MOVE?
 In chapter two I described the characteristics and limits of computational thinking as a pedagogical framework, specifically concepts include: varied interpretations; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches.
 
 GDPs as a germ cell,
+
+Move TADs here as recap, as a way to make link to double stimulation.
 
 
 ### Design patterns as a intermediate-level, pedagogical framework (compared to computational thinking)
@@ -335,7 +336,9 @@ On the other hand, my reflections support a proposition that there is utility fo
 
 
 
-## Part Two - Affordances, Mediation, TADS,
+## Part Two - Agency
+
+### 2.a Affordances, Mediation, TADS,
 
 1. recap on germ cell as common focus point for mediation (some designed or apporpirated)
 2. When novel forms of mediation present, gdps sometimes used - thus as double stimulation
@@ -375,16 +378,16 @@ The metaphors below help an exploration of the development of cultural and socia
 
 As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter).
 
-This section explores these conceptions using the core AT concepts of mediation and dual stimulation explored in Chapter 3 to illuminate pedagogical development related to the interaction of designed and emergent tools and processes, shedding light on dimensions of participant agency.
+<!-- This section explores these conceptions using the core AT concepts of mediation and dual stimulation explored in Chapter 3 to illuminate pedagogical development related to the interaction of designed and emergent tools and processes, shedding light on dimensions of participant agency. -->
 
 To summarise similarities and distinctions between mediation and double stimulation  [@isaac_cultural_2022], it is beyond an instrumental approach to provoke change in the enviroment.
 
-Hopwood [@hopwood_agency_2022] explores varied interpretations between mediation and double stimulation, exposing varied interpretations of mediation and ds's special interpretation by Sannino, and the difficulties of then comparing the models of agency.    
+<!-- Hopwood [@hopwood_agency_2022] explores varied interpretations between mediation and double stimulation, exposing varied interpretations of mediation and ds's special interpretation by Sannino, and the difficulties of then comparing the models of agency.     -->
 
 
-DROP?
+<!-- DROP?
 While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity,
-supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency.
+supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency. -->
 
 
 
@@ -400,24 +403,14 @@ Research on  engendering authorial and transformative agency [@engestrom2006deve
 For example in my design:
 Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process. -->
 
-### Affordances as points on a climbing wall to support understandings of instrumental agency
-
-<!-- In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However,  -->
-
-The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
-But may remove authorial or relational agency.
-
-As an example take the tensions surrounding  authenticity of coding web development language, coding environment and documentation. my choice of curated collection of docs prevented friction and potential confusion if using real developer documents.  
 
 
-In this design, participants aim for affordances as visible  points.
+### Recap of TADS in context?
 
-In the design above such  points include: regular play-testing; the use of documentation; and highlighted variables and level structure in the quick start stage.
+MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
-To incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind. Or in a training environment of a climbing wall, attaching colours to a particular route designed to suit a particular skill level.
 
-<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
-
+### Role of the facilitator
 
 The role of the faciliator in this metaphor is to structure the climber journey to the top.
 
@@ -427,48 +420,8 @@ This my be done by
 - signposting issues   
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
 
-LINK TO EXISTING WORK ON AFFORDENCES FROM SOCIAL CULTURAL PERSPECTIVE.
-LINK TO AT theory
-NARDI ON AFFORDENCES AND TECH FOR EXAMPLE
-AND ROUND UP THE CONSTRUCTIONIST UNDERSTANDING OF AFFORDANCES AND BLACK BOXING
 
-
-
-### Exploring transformative agency using the metaphor of Kedging anchors
-
-
-As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a kedging anchors.
-
-The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
-
-
-#####  LINKING TO ANCHORS TO AFFORDENCES
-
-Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
-
-
-**An example of mini TADS - use of secondary resources**
- <!-- REFLECTION ON BRICOLAGE? -->
-An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
-
-a theme explored in more detail in chapter five
-Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
-CH 5.
-
-vThe careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above as mismatch between primary and secondary stimuli.
-The process aligns with the concept of just-in-time instruction.
-
-### Recap of TADS in context?
-
-MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
-
-
-
-
-## Part three - Emergent activities in emergent cultural context - TAS, 3rd Spaces, Col, Fok, idiocultures etc.
+### 2b - Emergent activities in emergent cultural context - TAS, 3rd Spaces, Col, Fok, idiocultures etc.
 
 1. Intro and value of different Metaphors - types of spaces, walled garden, habour, playground / sandbox - used for different reaons but all about ecological aspects
 2. Harbour and authenticity in tool use
@@ -588,7 +541,68 @@ It is of value to examine specialisation can be seen through the lens of double 
 
 
 
-## Part Four: Synthesis in relation to Agency   
+
+
+## Part Three : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
+
+- Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
+- Final analysis with UMC, UDL, MOE - bring complexity here
+- Role of the methodology / DBR . FI to bring this process / analysis out
+- Sketchy pedagogies and issues of transformational agency
+
+### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
+
+
+
+<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
+
+In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency
+
+This section synthesises the learning design with such interpretations.
+
+And then progresses to recap the potential of this synthesis of these process, framed in other writing as a 3M approach.
+
+Finally it links the the outputs with the research process in terms of the impact of DBR and formative intervention approaches.
+
+#### Synthesis of Characteritics and Analysis
+
+- use-modify-create (UMC) approach. [source] / stepwise
+
+- GDPs as a germ cell, used in different step wise projects which build one upon the other as a flexible but supporting scaffold. balance between structure and choice  -  facilitates a rhizomatic approach / within a structure
+
+- The role of authenticity and the impact on agency
+
+
+These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
+
+
+
+- UDL / PBL
+
+Key characteristics of structuring support around quick start activities and a subsequent menu of GDPs which align with existing research include:
+
+The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it.
+
+
+
+
+
+<!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
+
+
+
+<!-- PIVOT -->
+
+
+<!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
+
+
+
+
+
+
+
+## Part 3.b: Synthesis in relation to Agency and Sketchy pedagogies    
 
 1. Shifting forms of agency
 2. Danger of the design being too complete, a concept of sketchy pedagogy
@@ -634,68 +648,6 @@ it may be advantageous to keep some key areas of the learning design should be m
 And the danger of being too instrumental if the design is too complete.
 
 A danger that my interest and focus on messy / sketchy pedagogies would try to avoid. But which has wider implications in terms of inclusion and levels of stress for participants.
-
-
-
-
-
-
-## Part Five : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
-
-- Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
-- Final analysis with UMC, UDL, MOE - bring complexity here
-- Role of the methodology / DBR . FI to bring this process / analysis out
--
-
-### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
-
-
-
-<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
-
-In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency
-
-This section synthesises the learning design with such interpretations.
-
-And then progresses to recap the potential of this synthesis of these process, framed in other writing as a 3M approach.
-
-Finally it links the the outputs with the research process in terms of the impact of DBR and formative intervention approaches.
-
-#### Synthesis of Characteritics and Analysis
-
-- use-modify-create (UMC) approach. [source] / stepwise
-
-- GDPs as a germ cell, used in different step wise projects which build one upon the other as a flexible but supporting scaffold. balance between structure and choice  -  facilitates a rhizomatic approach / within a structure
-
-- The role of authenticity and the impact on agency
-
-
-
-These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
-
-
-
-- UDL / PBL
-
-Key characteristics of structuring support around quick start activities and a subsequent menu of GDPs which align with existing research include:
-
-The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it.
-
-
-
-
-
-<!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
-
-
-
-<!-- PIVOT -->
-
-
-<!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
-
-
-
 
 
 
@@ -1273,3 +1225,62 @@ While a fuller exploration of how this was put into practice in P3 via a narrati
 
 NOTE
 Link to other research on permisison structures, confidence, inclusion, permission to play
+
+### Affordances as points on a climbing wall to support understandings of instrumental agency - MOVE
+
+<!-- In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However,  -->
+
+The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
+But may remove authorial or relational agency.
+
+As an example take the tensions surrounding  authenticity of coding web development language, coding environment and documentation. my choice of curated collection of docs prevented friction and potential confusion if using real developer documents.  
+
+
+In this design, participants aim for affordances as visible  points.
+
+In the design above such  points include: regular play-testing; the use of documentation; and highlighted variables and level structure in the quick start stage.
+
+To incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind. Or in a training environment of a climbing wall, attaching colours to a particular route designed to suit a particular skill level.
+
+<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
+
+
+The role of the faciliator in this metaphor is to structure the climber journey to the top.
+
+This my be done by
+- defining or reducing the use use of specialised terminology  or
+- hiding away un-needed complexity.
+- signposting issues   
+- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
+
+LINK TO EXISTING WORK ON AFFORDENCES FROM SOCIAL CULTURAL PERSPECTIVE.
+LINK TO AT theory
+NARDI ON AFFORDENCES AND TECH FOR EXAMPLE
+AND ROUND UP THE CONSTRUCTIONIST UNDERSTANDING OF AFFORDANCES AND BLACK BOXING
+
+### Exploring transformative agency using the metaphor of Kedging anchors
+
+
+As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a kedging anchors.
+
+The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
+
+
+#####  LINKING TO ANCHORS TO AFFORDENCES
+
+Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
+TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
+
+To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
+
+
+**An example of mini TADS - use of secondary resources**
+ <!-- REFLECTION ON BRICOLAGE? -->
+An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
+
+a theme explored in more detail in chapter five
+Traditional, printed, instruction-based software manuals are in decline partly due online documentation but also due to the increased intuitive nature of their design [@pogue_user_2017].
+CH 5.
+
+vThe careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above as mismatch between primary and secondary stimuli.
+The process aligns with the concept of just-in-time instruction.
