@@ -389,13 +389,6 @@ supporting documentation can be seen as a form of secondary stimulation more ali
 
 
 
-
-
-
-
-
-
-
 <!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
 <!-- Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency) agency.
 In many cases design decisions were driven by the response and interest of the participants.
