@@ -22,21 +22,17 @@
             research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
         -   [Comparing my pedagogical framing with existing
             research](#comparing-my-pedagogical-framing-with-existing-research)
-    -   [Part Two - Affordances, Mediation,
-        TADS,](#part-two---affordances-mediation-tads)
+    -   [Part Two - Agency](#part-two---agency)
+        -   [2.a Affordances, Mediation,
+            TADS,](#a-affordances-mediation-tads)
         -   [The use of concepts of mediation and dual stimulation in
             this exploration of the development of agency
             -](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency--)
-        -   [Affordances as points on a climbing wall to support
-            understandings of instrumental
-            agency](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency)
-        -   [Exploring transformative agency using the metaphor of
-            Kedging
-            anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
         -   [Recap of TADS in context?](#recap-of-tads-in-context)
-    -   [Part three - Emergent activities in emergent cultural context -
-        TAS, 3rd Spaces, Col, Fok, idiocultures
-        etc.](#part-three---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
+        -   [Role of the facilitator](#role-of-the-facilitator)
+        -   [2b - Emergent activities in emergent cultural context -
+            TAS, 3rd Spaces, Col, Fok, idiocultures
+            etc.](#b---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
         -   [Discussion on the role of playtesting in particular as a
             suitable medium (third
             space)](#discussion-on-the-role-of-playtesting-in-particular-as-a-suitable-medium-third-space)
@@ -48,21 +44,21 @@
             -](#harbours-playgrounds-and-walled-gardens-as-a-way-to-explore-conceptions-of-relational-agency--)
             -   [The freedoms and restrictions of
                 playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
-    -   [Part Four: Synthesis in relation to
-        Agency](#part-four-synthesis-in-relation-to-agency)
-        -   [Shifting forms of Agency](#shifting-forms-of-agency)
-        -   [Danger of designing away the possibility for
-            transformational
-            agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
-    -   [Part Five : Synthesis in relation to Issues of inclusive
+    -   [Part Three : Synthesis in relation to Issues of inclusive
         pedagogy UDL, UMC, MOE,
-        PBL.](#part-five-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
+        PBL.](#part-three-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
         -   [The interaction of flexible deign practices, the collection
             of Game Design Patterns, stepwise scaffolding of learning
             environments and new understandings of
             agency.](#the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
             -   [Synthesis of Characteritics and
                 Analysis](#synthesis-of-characteritics-and-analysis)
+    -   [Part 3.b: Synthesis in relation to Agency and Sketchy
+        pedagogies](#part-3.b-synthesis-in-relation-to-agency-and-sketchy-pedagogies)
+        -   [Shifting forms of Agency](#shifting-forms-of-agency)
+        -   [Danger of designing away the possibility for
+            transformational
+            agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
@@ -76,3 +72,9 @@
         -   [Community concepts and norming behaviour emerging during
             playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
         -   [MoE](#moe)
+        -   [Affordances as points on a climbing wall to support
+            understandings of instrumental agency -
+            MOVE](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency---move)
+        -   [Exploring transformative agency using the metaphor of
+            Kedging
+            anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
