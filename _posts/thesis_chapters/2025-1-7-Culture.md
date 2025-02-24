@@ -477,7 +477,7 @@ This my be done by
 
 1. Intro and value of different Metaphors - types of spaces, walled garden, habour, playground / sandbox - used for different reasons but all about ecological aspects
 2. Harbour and authenticity in tool use
-3. Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity - and relational agency [@digiacomo_relational_2016-1] 
+3. Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity - and relational agency [@digiacomo_relational_2016-1]
 4. Examples in relation to the role of playtesting / playground to dvelop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming
 
 
@@ -588,6 +588,10 @@ Some approached objectives in a methodical manner, others socially and others em
 While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation.
 
 Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within it.
+
+Gutierrez and Stone [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
+
+My contribution is that using GDPs as a framework helps this process.
 
 It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
 
