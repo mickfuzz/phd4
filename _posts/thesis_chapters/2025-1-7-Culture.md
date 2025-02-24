@@ -578,6 +578,8 @@ It could be extended to _Rewilding_ metaphor to reflect the importance of leavin
 
 ##### Relational Agency in response to a series of stimuli participant identity
 
+Edwards on relational agency via CHAT [@edwards2009systemic]
+
 Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
 
 <!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
