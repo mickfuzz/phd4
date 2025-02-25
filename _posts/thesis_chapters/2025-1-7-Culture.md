@@ -375,14 +375,22 @@ However this does not detract from the value of learners navigating different LO
 Leading with GDPs as a framework appears to support this  navigation, and at times in this research it is undertaken fluently and joyfully.
 
 
-### Link to next
+### Link to next section and signposting final discussion section
 
 MOVE - chapter 2? COMPRESS?
 In Papert's research, detailed study of young coders evolving code creations and accompanying interview data allowed a close study of the personal appropriation, including elements of understanding, application and sharing back this knowledge via created and shared digital projects.
 
 ADDRESSING THE RECENT SOCIAL / CULTURAL DIRECTION OF CONSTRUCTIONISM
 
-Much subsequent research on the use of coding to develop both concrete and more abstract computational thinking skills, has neglected this social and perspectives [find source], instead focusing on a personal dimension of learning as a curricular skill to be absorbed and tested. By way of contrast, this study is aligned with the development of the constructionist movement towards socio-cultural approaches to transcend individual personal conceptions of knowledge, exemplified by the issues associated with the UK computing curriculum.
+Much subsequent research on the use of coding to develop both concrete and more abstract computational thinking skills, has neglected this social and perspectives [find source], instead focusing on a personal dimension of learning as a curricular skill to be absorbed and tested.
+
+By way of contrast, this study is aligned with the development of the constructionist movement towards socio-cultural approaches to transcend individual personal conceptions of knowledge (exemplified by the problems associated with the UK computing curriculum)
+
+The issue transcends issues of efficacy of how to support the coding process to address the underlying goals of the activity. While I align with the articulation of Resnick of computational fluency, this line of research has focused on toolsets rather than pedagogies. These include physical computing, use of textiles [].
+
+The final section of this chapter returns to a guiding question of pedagogies that can support the development of computational fluency and within that participant agency.
+
+
 
 THE FOLLOWING SECTION ADDRESSES THIS THROUGH THE LENS OF X
 
