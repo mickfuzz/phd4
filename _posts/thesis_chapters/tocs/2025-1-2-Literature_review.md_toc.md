@@ -20,7 +20,13 @@
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Use Modify Create](#use-modify-create)
+        -   [Curricular concepts, semantic
+            waves](#curricular-concepts-semantic-waves)
+            -   [Semantic Profiles and
+                Waves](#semantic-profiles-and-waves)
         -   [PRIMM](#primm)
+        -   [Limits of the Sociocultural ideas in UK computing research
+            (above)](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
         -   [Design patterns](#design-patterns)
@@ -138,7 +144,3 @@
             problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
             -   [Financial challenges](#financial-challenges)
         -   [Removed](#removed)
-        -   [Curricular concepts, semantic waves and
-            PRIMM](#curricular-concepts-semantic-waves-and-primm)
-            -   [Semantic Profiles and
-                Waves](#semantic-profiles-and-waves)

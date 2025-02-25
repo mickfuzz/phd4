@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
+
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
@@ -22,17 +23,21 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [Recap](#recap)
-        -   [Design patterns as a intermediate-level, pedagogical
-            framework (compared to computational
-            thinking)](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
         -   [Exploration of findings in relation to CHAT conceptions of
             abstraction](#exploration-of-findings-in-relation-to-chat-conceptions-of-abstraction)
         -   [Exploration of GDPs as mid-level construct in relation to
             other conceptions of abstraction in computing education
             research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
-        -   [Comparing my pedagogical framing with existing
-            research](#comparing-my-pedagogical-framing-with-existing-research)
+            -   [Design patterns as a intermediate-level, pedagogical
+                framework (compared to computational
+                thinking)](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
+        -   [How my research contributes in this area - particularly in
+            the conception of different
+            pedagogies.](#how-my-research-contributes-in-this-area---particularly-in-the-conception-of-different-pedagogies.)
+            -   [Comparing my pedagogical framing with existing
+                research](#comparing-my-pedagogical-framing-with-existing-research)
+        -   [Link to next section and signposting final discussion
+            section](#link-to-next-section-and-signposting-final-discussion-section)
     -   [Part Two - Agency](#part-two---agency)
         -   [2.a Affordances, Mediation,
             TADS,](#a-affordances-mediation-tads)
@@ -418,11 +423,7 @@ THE FOLLOWING SECTION ADDRESSES THIS THROUGH THE LENS OF X
 
 Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format.
 
-This section  analyse these tensions in more depth,
-
-
-
-
+This section  analyses these tensions in more depth?
 
 <!-- ### Justifying the use of Metaphors in these FINDINGS - CONCLUSION?
 
@@ -431,12 +432,6 @@ A mixed readership for this research is hoped for as relevant to pracitioners an
 There is a good tradition of metaphors in this space with Papert's low thresholds, high ceilings and wide walls concept. INSERT IN LR, PERHAPS IN TRANSITION FROM MICROWORLDS TO SCRATCH AND DESIGN BUILD TEST GAME MAKING.  
 
 Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]   -->
-
-Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication. To explore this thought,  I will engage in some metaphorical analysis, some following many other researchers, and introducing some of my own.
-
-
-The metaphors below help an exploration of the development of cultural and social practice in this community.
-
 
 
 
@@ -618,6 +613,8 @@ It is of value to examine specialisation can be seen through the lens of double 
 
 ## Part Three : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
 
+
+
 - Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
 - Final analysis with UMC, UDL, MOE - bring complexity here
 - Role of the methodology / DBR . FI to bring this process / analysis out
@@ -725,11 +722,13 @@ A danger that my interest and focus on messy / sketchy pedagogies would try to a
 
 
 
-
-
-
-
 ## Conclusion
+
+**Addressing Metaphors**
+
+Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication. To explore this thought,  I will engage in some metaphorical analysis, some following many other researchers, and introducing some of my own. The metaphors below help an exploration of the development of cultural and social practice in this community.
+
+**Wrapping up in narrative?**
 
 In AT terminology, this chapter has in a general sense returned to the concrete (see Marx / Blunden).
 

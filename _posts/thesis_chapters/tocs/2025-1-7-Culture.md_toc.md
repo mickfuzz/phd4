@@ -11,17 +11,21 @@
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [Recap](#recap)
-        -   [Design patterns as a intermediate-level, pedagogical
-            framework (compared to computational
-            thinking)](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
         -   [Exploration of findings in relation to CHAT conceptions of
             abstraction](#exploration-of-findings-in-relation-to-chat-conceptions-of-abstraction)
         -   [Exploration of GDPs as mid-level construct in relation to
             other conceptions of abstraction in computing education
             research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
-        -   [Comparing my pedagogical framing with existing
-            research](#comparing-my-pedagogical-framing-with-existing-research)
+            -   [Design patterns as a intermediate-level, pedagogical
+                framework (compared to computational
+                thinking)](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
+        -   [How my research contributes in this area - particularly in
+            the conception of different
+            pedagogies.](#how-my-research-contributes-in-this-area---particularly-in-the-conception-of-different-pedagogies.)
+            -   [Comparing my pedagogical framing with existing
+                research](#comparing-my-pedagogical-framing-with-existing-research)
+        -   [Link to next section and signposting final discussion
+            section](#link-to-next-section-and-signposting-final-discussion-section)
     -   [Part Two - Agency](#part-two---agency)
         -   [2.a Affordances, Mediation,
             TADS,](#a-affordances-mediation-tads)
