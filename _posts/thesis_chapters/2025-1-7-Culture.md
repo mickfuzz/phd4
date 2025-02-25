@@ -347,7 +347,13 @@ Despite this, in terms of participant experiences, it is clear from this chapter
 
 On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  
 
-Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding. In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
+MOVE?
+Waite et al. [@sentance_teaching_2019] cite the Block Model, [@schulte_block_2008] as potential in helping teacher structure lessons. Within this structure design patterns can be considered as??? Is this useful? 
+
+Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding.
+
+
+In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
 #### Comparing my pedagogical framing with existing research
 
@@ -390,7 +396,7 @@ The issue transcends issues of efficacy of how to support the coding process to 
 
 The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions.
 
-Additionally while the work of Waite and Sentence begins to address sociocultural aspects [@hwang_using_2023], this work integrates the aims of inclusion more closely within the project goals. 
+Additionally while the work of Waite and Sentence begins to address sociocultural aspects [@sentance_teaching_2019; @hwang_using_2023], this work integrates the aims of inclusion more closely within the project goals.
 
 A process explored in the following section.
 
