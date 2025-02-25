@@ -386,7 +386,15 @@ Much subsequent research on the use of coding to develop both concrete and more 
 
 By way of contrast, this study is aligned with the development of the constructionist movement towards socio-cultural approaches to transcend individual personal conceptions of knowledge (exemplified by the problems associated with the UK computing curriculum)
 
-The issue transcends issues of efficacy of how to support the coding process to address the underlying goals of the activity. While I align with the articulation of Resnick of computational fluency, this line of research has focused on toolsets rather than pedagogies. These include physical computing, use of textiles [].
+The issue transcends issues of efficacy of how to support the coding process to address the underlying goals of the activity. While I align with the articulation of Resnick of computational fluency, (reactions to) this line of research has focused on toolsets rather than pedagogies (in a way which also frustrates Resnick [@resnick_seeds_2020]). These include physical computing, use of textiles [].
+
+The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions.
+
+Additionally while the work of Waite and Sentence begins to address sociocultural aspects [@hwang_using_2023], this work integrates the aims of inclusion more closely within the project goals. 
+
+A process explored in the following section.
+
+
 
 The final section of this chapter returns to a guiding question of pedagogies that can support the development of computational fluency and within that participant agency.
 
