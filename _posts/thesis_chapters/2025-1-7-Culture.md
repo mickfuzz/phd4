@@ -415,9 +415,11 @@ THE FOLLOWING SECTION ADDRESSES THIS THROUGH THE LENS OF X
 1. recap on germ cell as common focus point for mediation (some designed or apporpirated)
 2. When novel forms of mediation present, gdps sometimes used - thus as double stimulation
 3. This is a transformation / expansion in 3GAT terms, recap as a resolution of tensions, and a manifestation of agency
-4. Give a summary of examples of tranformational agency
-5. The kedging metaphor and the climbing wall metaphor - in relation to agency and design -  explore them, kedging is a bit flailing , wall less so
-6. Briefly touch on the job of the learning designer here.
+4. Give a summary of examples of transformational agency
+5. Briefly touch on the job of the learning designer within concept of F.I
+6. The dilemma here of transformational happening most for participants in P1, and you can design OUT transformational agency, hence sketchy pedagogies.
+
+<!-- 5. DROP /MOVE TO CH.3? The kedging metaphor and the climbing wall metaphor - in relation to agency and design -  explore them, kedging is a bit flailing , wall less so -->
 
 
 
@@ -483,12 +485,80 @@ This my be done by
 - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
 
 
+### Dilemma / Tension for the facilitator, how sketchy to make the design?
+
+The dilemma here of transformational happening most for participants in P1, and you can design OUT transformational agency, hence sketchy pedagogies
+
+
+
+1. Shifting forms of agency
+2. Danger of the design being too complete, a concept of sketchy pedagogy
+
+From TA in P1
+To relational in P2
+Increased support for relational in P3
+
+
+
+#### Danger of designing away the possibility for transformational agency
+
+One of my drivers in this research was to better understand my love of sketch, chaotic learning environments.
+
+The contrast of mediational based, instrumental agency of a more completed learning design and the more exploratory, experimental process of P1.
+
+<!-- Adopting analysis which aligns authorial agency and transformative agency,  -->
+
+There is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
+
+
+As a learning designer, design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
+
+Later participants have less opportunity for transformative agency in terms of how their input transforms the context and structure of the learning design.  
+
+This invites a question: is nurturing transformative agency by creating space for emergent practices sustainable or desireable for ongoing iterations?
+
+How much of the learning design can/should be transferred to other settings.
+
+In terms of desirability, as a personal refection while I love this aspect, but others can find it stressful. Different strokes.
+
+
+
+<!--
+NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
+
+INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON
+
+A possible 
+
+
+To retain this potential for transformation
+it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
+
+And the danger of being too instrumental if the design is too complete.
+
+A danger that my interest and focus on messy / sketchy pedagogies would try to avoid. But which has wider implications in terms of inclusion and levels of stress for participants.
+
+
+**Shifting forms of agency.**
+How different forms of  agency are developed and transform over iterations of this game making programme  
+
+Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
+
+Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
+
+
+
 ### 2b - Emergent activities in emergent cultural context - TAS, 3rd Spaces, Col, Fok, idiocultures etc.
 
-1. Intro and value of different Metaphors - types of spaces, walled garden, habour, playground / sandbox - used for different reasons but all about ecological aspects
-2. Harbour and authenticity in tool use
+MERGE THIS PLAN WITH ABOVE - NOT 2A AND 2B.
+
+This need restructuring
+
+
+1. Intro and value of different Metaphors - types of spaces,  habour, playground / sandbox - used for different reasons but all about ecological aspects
+2. Harbour, walled garden, restrictions  and authenticity in tool use
 3. Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity - and relational agency [@digiacomo_relational_2016-1]
-4. Examples in relation to the role of playtesting / playground to dvelop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming
+4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming
 
 
 In research which addresses transformative agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings, in ways which are not generally explored in Change Labs approaches.  
@@ -671,53 +741,6 @@ The use of a menu / collection of resources can be considered an inclusive educa
 
 
 
-
-## Part 3.b: Synthesis in relation to Agency and Sketchy pedagogies    
-
-1. Shifting forms of agency
-2. Danger of the design being too complete, a concept of sketchy pedagogy
-
-HARBOURS.
-
-### Shifting forms of Agency
-
-From TA in P1
-To relational in P2
-Increased support for relational in P3
-
-**Proposal on shifting forms of agency.**
-How different forms of  agency are developed and transform over iterations of this game making programme  
-
-Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
-
-Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
-
-A question arises, is it less valueable in later iterations? Different stokes probably.
-
-
-### Danger of designing away the possibility for transformational agency
-
-**AN EMERGING QUESTION  - Is nurturing agency by creating space for emergent practices sustainable for ongoing iterations? How much of the learning design can/should be transferred to other settings.**
-
-Is it a negative thinkg that later participants have less opportunity for transformative agency?
-
-Also - A personal refection while I love this aspect, but others can find it stressful. Different strokes.
-
-<!--
-NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
-
-INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON
-
-As a learning designer, design decisions to create a sheltered harbour, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
-
-Adopting analysis which aligns authorial agency and transformative agency, there is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
-
-To retain this potential for transformation
-it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
-
-And the danger of being too instrumental if the design is too complete.
-
-A danger that my interest and focus on messy / sketchy pedagogies would try to avoid. But which has wider implications in terms of inclusion and levels of stress for participants.
 
 
 
