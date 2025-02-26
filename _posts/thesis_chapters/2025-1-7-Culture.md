@@ -467,22 +467,40 @@ Research on  engendering authorial and transformative agency [@engestrom2006deve
 For example in my design:
 Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process. -->
 
+### Summary of examples of transformational agency and instrumental agency
+
+This takes a conservative view of TA, as something new to the learning design, not just new to teh learner. This is explored later, next section on relational agency.  
 
 
-### Recap of TADS in context?
+**Instrumental**
+Examples of mediation and instrumental agency are shown in varied forms in the use of GDPs aligned often with a personal appropriation.
 
-MOVE - NOT ALIGHED TO THIS SECTION - Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+Straight forward indidual use of documentation by Tony and Susanna in V1 and V2.
+
+**Transformational.**
+
+In P1, (see Chapter 5 (check)) the initial use of GDPs as a planning tool, and as a vehicle for prototypical documentation.
+
+In Vig. Dave, the breaking out of the template to create a different genre.
+
+
+### Designing for increased instrumental agency and then for TA?
+
+Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
 
 ### Role of the facilitator
 
+DOWN PLAY THIS - MOVE LATER. IT'S NOT IDEAL ANYWAY WITH MEDIATION - IT'S MORE THE NEXT SECTION.
+
 The role of the faciliator in this metaphor is to structure the climber journey to the top.
 
+
 This my be done by
-- defining or reducing the use use of specialised terminology  or
-- hiding away un-needed complexity.
+- defining or reducing the use of specialised terminology  or
+<!-- - hiding away un-needed complexity. -->
 - signposting issues   
-- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
+<!-- - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
 
 
 ### Dilemma / Tension for the facilitator, how sketchy to make the design?
@@ -528,7 +546,7 @@ NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGEN
 
 INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON
 
-A possible 
+A possible
 
 
 To retain this potential for transformation
