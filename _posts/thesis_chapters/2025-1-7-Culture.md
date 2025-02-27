@@ -704,17 +704,18 @@ It is of value to examine specialisation can be seen through the lens of double 
 
 
 - Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
-- Final analysis with UMC, UDL, MOE - bring complexity here
-- Role of the methodology / DBR . FI to bring this process / analysis out
-- Sketchy pedagogies and issues of transformational agency
+- Final analysis with UMC, UDL, MOE - bring complexity here - perhaps bring the metaphors here instead.
+- Celebrate the process of bricolage in this research.
+
+<!-- - Role of the methodology / DBR . FI to bring this process / analysis out - MOVE EARLIER.  -->
+
+
 
 ### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
 
-
-
 <!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
 
-In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency
+In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency.
 
 This section synthesises the learning design with such interpretations.
 
@@ -722,11 +723,31 @@ And then progresses to recap the potential of this synthesis of these process, f
 
 Finally it links the the outputs with the research process in terms of the impact of DBR and formative intervention approaches.
 
-#### Synthesis of Characteritics and Analysis
+#### Summary of observations contributions of novel aspect of the learning design (PERHAPS MERGE WITH BELOW)
 
-- use-modify-create (UMC) approach. [source] / stepwise
+While the base structuring of the starting template drew on concepts of UMC and half-baked game design, the use of a menu of GDPs to scaffold the modify and create stage is a novel approach.
 
-- GDPs as a germ cell, used in different step wise projects which build one upon the other as a flexible but supporting scaffold. balance between structure and choice  -  facilitates a rhizomatic approach / within a structure
+The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the developmetn of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+This alignment with a  rhizomatic approach within a structure has been explored in this thesis using a metaphor of a harbour in terms of the conceptualisation of the design from a facilitator / designers point of view. The habour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures participants must understand or create to make progress.
+
+From a participants' perspective I liken their experience to the process of jamming an informal musical practice.
+
+
+
+While The value of playtesting as a practice is surfaced either explicitly in professional game making
+
+Other sections of this research The use of social missions to support the variety of development.
+
+
+
+
+
+#### Synthesis of Characteritics and Analysis in relation to what they contribute to existing frameworks
+
+-
+
+
 
 - The role of authenticity and the impact on agency
 
@@ -741,6 +762,29 @@ Key characteristics of structuring support around quick start activities and a s
 
 The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it.
 
+### Addressing the nature of my contribution to research landscape
+
+The section above outlined contributions to the research landscape intersecting with the development of the learning design of the study.
+
+A critique could be leveled against this contribution that the alignment with existing pedagogical frameworks suggests a more minimal contribution: representing a kind of _tinkering around the edges_ of existing work.
+
+While I hope the framing of the previous section of the novel positioning of those concepts within new context addresses this concern, the challenging of such an interpretation is also an important motivational concern of this work.  
+
+In line with a tradition of other researchers, this work celebrates the creative value of a bricolage approach [], or in other words a "re-mediatation" of the existing forms of pedagogies.
+
+It is from the concrete, practical, collaborative struggle of how to jointly make a game making community and to build fluency in the process of making games that this research emerges. And as such the concrete, re-assembling is a integral characteristic here.  
+
+However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches. 
+
+#### Conceptual challenges to dissenmation
+
+Beyond practical aspects of dissemination, a further challenge associated with the overall goal of bringing a complex, flexible, learner-driven pedagogy to bear, is addressed by Kynigos , in articulating the limitation of
+
+ research and recombine it
+I do brand it , and provide useful contributions in concrete instances of work
+
+
+#### Playground / Sandbox
 
 
 
@@ -756,18 +800,9 @@ The use of a menu / collection of resources can be considered an inclusive educa
 
 
 
-
-
-
-
-
-
-
 ## Conclusion
 
-**Addressing Metaphors**
 
-Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication. To explore this thought,  I will engage in some metaphorical analysis, some following many other researchers, and introducing some of my own. The metaphors below help an exploration of the development of cultural and social practice in this community.
 
 **Wrapping up in narrative?**
 
