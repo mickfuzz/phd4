@@ -774,14 +774,28 @@ In line with a tradition of other researchers, this work celebrates the creative
 
 It is from the concrete, practical, collaborative struggle of how to jointly make a game making community and to build fluency in the process of making games that this research emerges. And as such the concrete, re-assembling is a integral characteristic here.  
 
-However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches. 
+However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches.
 
-#### Conceptual challenges to dissenmation
+#### Questions and  Conceptual challenges to dissenmation
+
+**How broadly can the principles be applied?**
+
+The general use of design patterns to guide digital creation are widely replicable, that of coupling documentation. The UMC methodology applies more broadly to design based education via prototyping. which could take other formats. Thus it is potentially applicable to other domains. And example of such is in PBL work using a campaign template and characteristics ads design patters, and a Poster, and elevator pitch feedback before creating then a stall [blog post].
+
+<!-- I start o. A low concrete level in supporting game making Fluency
+And get wider in application to broader approaches of pbl  and research processes (if found) -->
+
+
+**Complexity of the findings and emerging pedagogy**
 
 Beyond practical aspects of dissemination, a further challenge associated with the overall goal of bringing a complex, flexible, learner-driven pedagogy to bear, is addressed by Kynigos , in articulating the limitation of
 
- research and recombine it
+There are a lot of moving parts in the final pedagogy and while I have put in work to address foundational aspects using relatable metaphors, the target audience in terms of coding enviroment designers, represents challenges in terms of complexity.  
+
+
 I do brand it , and provide useful contributions in concrete instances of work
+
+
 
 
 #### Playground / Sandbox
