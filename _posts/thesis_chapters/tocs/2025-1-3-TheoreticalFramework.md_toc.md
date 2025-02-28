@@ -19,6 +19,8 @@
         CHAT](#concepts-of-agency-within-chat)
         -   [Instrumental and relational
             agency](#instrumental-and-relational-agency)
+            -   [Concepts needed later to
+                develops](#concepts-needed-later-to-develops)
         -   [Dynamically emergent agency](#dynamically-emergent-agency)
         -   [Authorial and transformative
             agency](#authorial-and-transformative-agency)

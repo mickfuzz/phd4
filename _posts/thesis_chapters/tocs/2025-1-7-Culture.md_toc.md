@@ -17,13 +17,24 @@
             other conceptions of abstraction in computing education
             research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
             -   [Design patterns as a intermediate-level, pedagogical
-                framework (compared to computational
-                thinking)](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking)
+                framework (compared to computational thinking) - THE
+                HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking---the-hypothesis)
+            -   [Defining abstraction - recalling
+                definitions.](#defining-abstraction---recalling-definitions.)
+            -   [Computational thinking](#computational-thinking)
+            -   [epistemological pluralism and bricolage &
+                Microworlds](#epistemological-pluralism-and-bricolage-microworlds)
+            -   [Levels of Abstraction](#levels-of-abstraction)
+            -   [Observations on abstract / concrete dimensions in my
+                data - MERGE WITH BELOW - OR BE CLEAR HOW DIFFERENT DATA
+                /
+                ANALYSIS](#observations-on-abstract-concrete-dimensions-in-my-data---merge-with-below---or-be-clear-how-different-data-analysis)
         -   [How my research contributes in this area - particularly in
             the conception of different
             pedagogies.](#how-my-research-contributes-in-this-area---particularly-in-the-conception-of-different-pedagogies.)
-            -   [Comparing my pedagogical framing with existing
-                research](#comparing-my-pedagogical-framing-with-existing-research)
+            -   [Comparing my pedagogical framing regarding dimensions
+                of abstract/ concrete with existing
+                research](#comparing-my-pedagogical-framing-regarding-dimensions-of-abstract-concrete-with-existing-research)
         -   [Link to next section and signposting final discussion
             section](#link-to-next-section-and-signposting-final-discussion-section)
     -   [Part Two - Agency](#part-two---agency)
@@ -37,7 +48,6 @@
             agency](#summary-of-examples-of-transformational-agency-and-instrumental-agency)
         -   [Designing for increased instrumental agency and then for
             TA?](#designing-for-increased-instrumental-agency-and-then-for-ta)
-        -   [Role of the facilitator](#role-of-the-facilitator)
         -   [Dilemma / Tension for the facilitator, how sketchy to make
             the
             design?](#dilemma-tension-for-the-facilitator-how-sketchy-to-make-the-design)
@@ -47,17 +57,30 @@
         -   [2b - Emergent activities in emergent cultural context -
             TAS, 3rd Spaces, Col, Fok, idiocultures
             etc.](#b---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
-        -   [Discussion on the role of playtesting in particular as a
-            suitable medium (third
-            space)](#discussion-on-the-role-of-playtesting-in-particular-as-a-suitable-medium-third-space)
-        -   [Metaphors of space](#metaphors-of-space)
-            -   [Playtesting, player types and side
-                missions](#playtesting-player-types-and-side-missions)
-        -   [Harbours, playgrounds and walled gardens as a way to
-            explore conceptions of (relational) agency
-            -](#harbours-playgrounds-and-walled-gardens-as-a-way-to-explore-conceptions-of-relational-agency--)
-            -   [The freedoms and restrictions of
-                playgrounds](#the-freedoms-and-restrictions-of-playgrounds)
+        -   [Intro / Metaphors of space](#intro-metaphors-of-space)
+        -   [Metaphors of harbours and playgrounds as a way to explore
+            conceptions of (relational)
+            agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
+            -   [Harbours - authentic and
+                restrictive](#harbours---authentic-and-restrictive)
+            -   [Playgrounds, sandboxes and play
+                spaces](#playgrounds-sandboxes-and-play-spaces)
+            -   [Discussion on the role of playtesting in particular as
+                a suitable medium (third
+                space)](#discussion-on-the-role-of-playtesting-in-particular-as-a-suitable-medium-third-space)
+            -   [Use of GDPs in supporting Playtesting (including player
+                types and side
+                missions)](#use-of-gdps-in-supporting-playtesting-including-player-types-and-side-missions)
+        -   [A complex view of agency and repertoires development within
+            Idiocultures / 3rd
+            spaces](#a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces)
+            -   [The importance of identity development in the
+                designs](#the-importance-of-identity-development-in-the-designs)
+            -   [Relational Agency in response to a series of stimuli
+                participant
+                identity](#relational-agency-in-response-to-a-series-of-stimuli-participant-identity)
+        -   [Discussion on designing for emerging
+            Ideoculture](#discussion-on-designing-for-emerging-ideoculture)
     -   [Part Three : Synthesis in relation to Issues of inclusive
         pedagogy UDL, UMC, MOE,
         PBL.](#part-three-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
@@ -68,13 +91,14 @@
             -   [Summary of observations contributions of novel aspect
                 of the learning design (PERHAPS MERGE WITH
                 BELOW)](#summary-of-observations-contributions-of-novel-aspect-of-the-learning-design-perhaps-merge-with-below)
-            -   [Synthesis of Characteritics and Analysis in relation to
-                what they contribute to existing
-                frameworks](#synthesis-of-characteritics-and-analysis-in-relation-to-what-they-contribute-to-existing-frameworks)
+            -   [Synthesis of Characteristics and Analysis in relation
+                to what they contribute to existing
+                frameworks](#synthesis-of-characteristics-and-analysis-in-relation-to-what-they-contribute-to-existing-frameworks)
         -   [Addressing the nature of my contribution to research
             landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
-            -   [Questions and Conceptual challenges to
-                dissenmation](#questions-and-conceptual-challenges-to-dissenmation)
+            -   [Questions and Conceptual challenges to dissemination -
+                MOVE PERHAPS TO NEXT
+                CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
             -   [Playground / Sandbox](#playground-sandbox)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
