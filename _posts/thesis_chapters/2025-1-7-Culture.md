@@ -762,7 +762,7 @@ The sandbox metaphor is used extensively in web development to indicate a safety
 While the play space evokes protection, there is still space for wilder behaviors to emerge as play is responsive and adaptive. In this study playtesting spaces are important as a means to allow learners to evolve their own processes as a form of authorial and transformational agency, albeit within the suggested limitations.
 
 
-#### Discussion on the role of playtesting in particular as a suitable medium (third space)
+#### Discussion on the role of playtesting in particular as a suitable medium (third space) - MOVE THIS UP A BIT?
 
 <!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
 <!--
@@ -813,7 +813,9 @@ In this section, instead of agency as a individualised property, agency is parti
 
 The conception of development of repertoires of practices is key to this interpretation.
 
-This is explored using  concrete examples as a contribution to applied research in this promising field.
+While development of relational agency is a part of the social and cultural aspects of repertoires development, this section moves beyond agency to explore issues of equity and diversity as concrete instances with the learning environment.
+
+As such, I draw on concrete examples in my research as a contribution to applied research in this promising field.
 
 
 #### The importance of identity development in the designs
@@ -828,36 +830,91 @@ Example of how extending with DPs as a framework could be fruitful, developing a
 
 
 
-
-
 #### Relational Agency in response to a series of stimuli participant identity
 
-Edwards on relational agency via CHAT [@edwards2009systemic]
+WHAT IS THE KEY POINT HERE?
 
-Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
+The use of GDPs helped the goal of x in y ways.
+One element of the repertoires.
+Beyond that... social missions?
+The style of making, the type.
 
-<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
-
-MOVE SOMEWHERE? DIVISION OF LABOUR? MORE FINDINGS?
-Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design.
-
-While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation.
-
-Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within it.
 
 Gutierrez and Stone [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
 
+Relational agency in developing expertise is shown in many of the vignettes.
+
+Edwards on relational agency via CHAT [@edwards2009systemic]
+
+<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
+
+
+Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
+
+**Recap on data on  / exploration of maker types**
+Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design.
+
+Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within it.
+
+While the use of social missions is not novel,
+
 My contribution is that using GDPs as a framework helps this process.
 
-It is of value to examine specialisation can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
 
 
-### Discussion on designing for emerging Ideoculture
 
-The end goal is a creative, emerging, inclusive ideoculture, addressing varied forms of agency addresses what that means for individuals, but is that missing the point, is the overall environment what should be designed for?
+### Discussion on what are we really designing for here?
+
+Emerging section.
 
 
-2
+#### Returning to transformational agency here and how it different from conceptions of developing repertoires of practice
+
+**How can we best conceive agency here?**
+
+How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice.
+
+Conceptions of AT are evolving including a 4th generation which responds to increasingly rapid and evolving situations.
+See
+https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455
+
+##### Examining complexity using identity formation and specialisation
+
+It is of value to examine specialisation as a form of agency and identity formation using different lenses.
+
+It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
+
+Or, perhaps more accurately here as a movement between activity systems, to be incorporated as a repertoire.
+
+These repertoires become public, and are in part socially motivated, via the process of playtesting.
+
+Thus the specialisation becomes a kind of relational agency for the learning environment as a whole. It exists as a form of identity within an individuals repertoire and for others to draw on as an affordence of the learning system.
+
+
+
+#### for Transformational agency, fluidity of practice of participants for characteristics of an emerging inclusive, ideoculture
+
+What is the end goal that I have been designing for?
+
+Am I designing for agency, varied forms of agency in individuals
+
+Or  is that missing the point, is the overall environment what should be designed for?
+
+What is my contribution to research based on this questions. Are there different things I am suggesting?
+
+My end goal is a creative, emerging, inclusive ideoculture, and the use of GDPs here is one means to achieve it.
+NOT the only one.
+
+
+**Is it Fluency?**
+
+Is it jamming? A sense of flow?
+
+While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation.
+
+
+Hence the next section. An attempt a synthesis.
+
 
 ## Part Three : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
 
