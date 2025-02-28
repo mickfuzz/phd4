@@ -44,8 +44,18 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [The use of concepts of mediation and dual stimulation in
             this exploration of the development of agency
             -](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency--)
-        -   [Recap of TADS in context?](#recap-of-tads-in-context)
+        -   [Summary of examples of transformational agency and
+            instrumental
+            agency](#summary-of-examples-of-transformational-agency-and-instrumental-agency)
+        -   [Designing for increased instrumental agency and then for
+            TA?](#designing-for-increased-instrumental-agency-and-then-for-ta)
         -   [Role of the facilitator](#role-of-the-facilitator)
+        -   [Dilemma / Tension for the facilitator, how sketchy to make
+            the
+            design?](#dilemma-tension-for-the-facilitator-how-sketchy-to-make-the-design)
+            -   [Danger of designing away the possibility for
+                transformational
+                agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
         -   [2b - Emergent activities in emergent cultural context -
             TAS, 3rd Spaces, Col, Fok, idiocultures
             etc.](#b---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
@@ -67,14 +77,17 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             of Game Design Patterns, stepwise scaffolding of learning
             environments and new understandings of
             agency.](#the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
-            -   [Synthesis of Characteritics and
-                Analysis](#synthesis-of-characteritics-and-analysis)
-    -   [Part 3.b: Synthesis in relation to Agency and Sketchy
-        pedagogies](#part-3.b-synthesis-in-relation-to-agency-and-sketchy-pedagogies)
-        -   [Shifting forms of Agency](#shifting-forms-of-agency)
-        -   [Danger of designing away the possibility for
-            transformational
-            agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
+            -   [Summary of observations contributions of novel aspect
+                of the learning design (PERHAPS MERGE WITH
+                BELOW)](#summary-of-observations-contributions-of-novel-aspect-of-the-learning-design-perhaps-merge-with-below)
+            -   [Synthesis of Characteritics and Analysis in relation to
+                what they contribute to existing
+                frameworks](#synthesis-of-characteritics-and-analysis-in-relation-to-what-they-contribute-to-existing-frameworks)
+        -   [Addressing the nature of my contribution to research
+            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
+            -   [Questions and Conceptual challenges to
+                dissenmation](#questions-and-conceptual-challenges-to-dissenmation)
+            -   [Playground / Sandbox](#playground-sandbox)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
@@ -238,8 +251,8 @@ This section explores these academic conceptions in a playful way using relatabl
 
 1. Recap, GDPs as a Germ cell, Exploring CHAT concepts of abstraction  
 2. Locating TADS in this perspective, via 3GAT concept of expansion via double stimulation and TADS
-3. Levels of abstraction -
-4. Papert then Waite
+3. Papert - pluralism & the concrete
+4. then Waite Levels of abstraction - & observations
 5. Then begin practical use of this take - tinkering pedagogy
 
 In chapter two I described the characteristics and limits of computational thinking as a pedagogical framework, specifically concepts include: varied interpretations; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches.
@@ -276,7 +289,18 @@ The key, guiding conception here becomes the pedagogical utility of a strong cou
 
 The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
 
+
+Rather than Germ Cell for learning designers the concept of strong concepts or intermediate concepts may be more relatable and applicable [@hook_strong_2012; @barendregt_intermediate-level_2018]
+
+And invites this discussion to turn to the domain of designing for learning. 
+
 While the educational use of design patterns and has been explored in other settings via research, the focus has been on professional rather than novice learners.  
+
+
+
+
+
+
 
 LATER?
 While I address areas for future research in the conclusion, a proposed benefit of this research is While understanding the process is more obviously useful for facilitators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects.to underscore the potential and to uncover a starting point for pedagogies that can be transferred to diverse design projects.
@@ -291,6 +315,24 @@ While I address areas for future research in the conclusion, a proposed benefit 
 
 ### Exploration of GDPs as mid-level construct in relation to other conceptions of abstraction in computing education research
 
+
+
+#### Design patterns as a intermediate-level, pedagogical framework (compared to computational thinking) - THE HYPOTHESIS
+
+This direction of the findings of the last chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
+
+    In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
+
+Such an interpretation is adopted by Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] which drew inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
+
+An interpretation of the abstract / concrete spectrum here in research on design patterns in computing education is on the practicality of application.
+
+
+
+#### Defining abstraction - recalling definitions.
+
+In this research, I conceptualised such less practical abstraction as that represented by Wing's interpretation of computational thinking.
+
 Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area.
 
 Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research.
@@ -301,6 +343,7 @@ CHANGE THIS - TURN IT DOWN
 Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of the concrete in computing pedagogy, likening the process  to bricolage, a craft based approach where participants become very familiar with their tools and materials.  Such a challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, seemingly also also challenge Waite's rationale of the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
 
 OR AT AN EARLIER STAGE? DEFINE FIRST THEN INTERPRET?
+
 At this stage it is important to try to clarify, what exactly is meant by the authors abstract in their explorations. Papert's focus on Microworlds as a vehicle to make concrete  of  mathematical concepts, must at some point involve an exposure to this abstract knowledge.
 
 Waite's research contains on limited examples but given the broad alignment with UK curricular context can be safely taken to include   Wing's take on CT at the most abstract, and specifics coding constructs or even syntax at the most concreted.
@@ -310,23 +353,9 @@ A synthesis of relevant literature supports an spectrum of abstraction,
 Such a spectrum is in is broadly in line with LOA interpretation,
 
 
-
-
-
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
 
-#### Design patterns as a intermediate-level, pedagogical framework (compared to computational thinking)
-
-This direction of the findings of the last chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
-
-    In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
-
-Such an interpretation is adopted by Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] which drew inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
-
-An interpretation of the abstract / concrete spectrum here in research on design patterns in computing education is on the practicality of application.
-
-In this research, I conceptualised such less practical abstraction as that represented by Wing's interpretation of computational thinking.
 
 <!-- **In terms of recommendations for researchers / practitioners of an intermediate framework:** -->
 
@@ -338,6 +367,8 @@ In this research, I conceptualised such less practical abstraction as that repre
 
 How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs)
 
+#### Levels of Abstraction
+
 As a challenge Waite's findings on levels of abstraction, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
 
 THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
@@ -346,16 +377,12 @@ Despite this, in terms of participant experiences, it is clear from this chapter
 
 On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  
 
-
-
 Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding.
 
 
 In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
 #### Comparing my pedagogical framing with existing research
-
-
 
 The evidence and examples surfaced in this paragraph support a view of GDPs, as an productive intermediate-level framework and contributes a series of grounded pedagogical instances via examples.
 

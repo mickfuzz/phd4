@@ -32,8 +32,18 @@
         -   [The use of concepts of mediation and dual stimulation in
             this exploration of the development of agency
             -](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency--)
-        -   [Recap of TADS in context?](#recap-of-tads-in-context)
+        -   [Summary of examples of transformational agency and
+            instrumental
+            agency](#summary-of-examples-of-transformational-agency-and-instrumental-agency)
+        -   [Designing for increased instrumental agency and then for
+            TA?](#designing-for-increased-instrumental-agency-and-then-for-ta)
         -   [Role of the facilitator](#role-of-the-facilitator)
+        -   [Dilemma / Tension for the facilitator, how sketchy to make
+            the
+            design?](#dilemma-tension-for-the-facilitator-how-sketchy-to-make-the-design)
+            -   [Danger of designing away the possibility for
+                transformational
+                agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
         -   [2b - Emergent activities in emergent cultural context -
             TAS, 3rd Spaces, Col, Fok, idiocultures
             etc.](#b---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
@@ -55,14 +65,17 @@
             of Game Design Patterns, stepwise scaffolding of learning
             environments and new understandings of
             agency.](#the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
-            -   [Synthesis of Characteritics and
-                Analysis](#synthesis-of-characteritics-and-analysis)
-    -   [Part 3.b: Synthesis in relation to Agency and Sketchy
-        pedagogies](#part-3.b-synthesis-in-relation-to-agency-and-sketchy-pedagogies)
-        -   [Shifting forms of Agency](#shifting-forms-of-agency)
-        -   [Danger of designing away the possibility for
-            transformational
-            agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
+            -   [Summary of observations contributions of novel aspect
+                of the learning design (PERHAPS MERGE WITH
+                BELOW)](#summary-of-observations-contributions-of-novel-aspect-of-the-learning-design-perhaps-merge-with-below)
+            -   [Synthesis of Characteritics and Analysis in relation to
+                what they contribute to existing
+                frameworks](#synthesis-of-characteritics-and-analysis-in-relation-to-what-they-contribute-to-existing-frameworks)
+        -   [Addressing the nature of my contribution to research
+            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
+            -   [Questions and Conceptual challenges to
+                dissenmation](#questions-and-conceptual-challenges-to-dissenmation)
+            -   [Playground / Sandbox](#playground-sandbox)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
