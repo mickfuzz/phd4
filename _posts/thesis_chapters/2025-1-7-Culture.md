@@ -292,7 +292,7 @@ The process of identifying and working with GDPs in this research process can be
 
 Rather than Germ Cell for learning designers the concept of strong concepts or intermediate concepts may be more relatable and applicable [@hook_strong_2012; @barendregt_intermediate-level_2018]
 
-And invites this discussion to turn to the domain of designing for learning. 
+And invites this discussion to turn to the role of conceptions of abstract and concrete in the process of designing for learning, with a particular focus on the concern of this study of participant agency.
 
 While the educational use of design patterns and has been explored in other settings via research, the focus has been on professional rather than novice learners.  
 
@@ -323,9 +323,13 @@ This direction of the findings of the last chapter, support findings on design p
 
     In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
 
-Such an interpretation is adopted by Eriksson and colleagues using gameplay design patterns with young people [-@eriksson_using_2019] which drew inspiration from the value of design patterns as a form of "intermediate-level concept" as advocated by fellow researchers as a way of sharing results of research [@barendregt_intermediate-level_2018].
+A similar interpretation is adopted by Eriksson and colleagues [-@eriksson_using_2019] using gameplay design patterns with young people which drew inspiration from research on [@barendregt_intermediate-level_2018] value of design patterns as a form of "intermediate-level concept", a form of "representation of knowledge in-between  general theories and particular artefacts in terms of abstraction and  generalizability" [@eriksson_using_2019, p.15].  
 
-An interpretation of the abstract / concrete spectrum here in research on design patterns in computing education is on the practicality of application.
+
+
+At this stage it is important to try to clarify / return to, what exactly is meant by the abstract in their explorations. (THUS MOVE TO LR IF POSSIBLE)
+
+
 
 
 
@@ -344,7 +348,9 @@ Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of 
 
 OR AT AN EARLIER STAGE? DEFINE FIRST THEN INTERPRET?
 
-At this stage it is important to try to clarify, what exactly is meant by the authors abstract in their explorations. Papert's focus on Microworlds as a vehicle to make concrete  of  mathematical concepts, must at some point involve an exposure to this abstract knowledge.
+**Papert / Abstract**
+
+Papert's focus on Microworlds as a vehicle to make concrete  of  mathematical concepts, must at some point involve an exposure to this abstract knowledge.
 
 Waite's research contains on limited examples but given the broad alignment with UK curricular context can be safely taken to include   Wing's take on CT at the most abstract, and specifics coding constructs or even syntax at the most concreted.
 
@@ -767,10 +773,7 @@ While The value of playtesting as a practice is surfaced either explicitly in pr
 Other sections of this research The use of social missions to support the variety of development.
 
 
-
-
-
-#### Synthesis of Characteritics and Analysis in relation to what they contribute to existing frameworks
+#### Synthesis of Characteristics and Analysis in relation to what they contribute to existing frameworks
 
 -
 
@@ -799,7 +802,11 @@ While I hope the framing of the previous section of the novel positioning of tho
 
 In line with a tradition of other researchers, this work celebrates the creative value of a bricolage approach [], or in other words a "re-mediatation" of the existing forms of pedagogies.
 
-It is from the concrete, practical, collaborative struggle of how to jointly make a game making community and to build fluency in the process of making games that this research emerges. And as such the concrete, re-assembling is a integral characteristic here.  
+It is from the concrete, practical, collaborative struggle of how to jointly make a game making community and to build fluency in the process of making games that this research emerges. And as such the concrete, responsive, re-assembling of existing pedagogies and elements of the learning activity systems is a integral tactic here aligned with a recent socio-cultural concerns.  
+
+_This shift from “fixing” the individual to re-mediating and transforming the functional system is key to reimagining new
+forms of learning and doing science that are tied to the imaginings of new futures, trajectories, and identities (Gutierrez, Morales, & Martinez, 2009) [@gutierrez_re-mediating_2009-2] in [@gutierrezpossibilities2015-1]_
+
 
 However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches.
 
