@@ -57,20 +57,27 @@
         -   [2b - Emergent activities in emergent cultural context -
             TAS, 3rd Spaces, Col, Fok, idiocultures
             etc.](#b---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
-        -   [Intro / Metaphors of space](#intro-metaphors-of-space)
+        -   [Intro to this section - space / place related conceptions
+            of
+            agency](#intro-to-this-section---space-place-related-conceptions-of-agency)
+            -   [Discussion on the role of playtesting in particular as
+                a suitable medium (third
+                space)](#discussion-on-the-role-of-playtesting-in-particular-as-a-suitable-medium-third-space)
+            -   [Further Observations on repertoires playtesting / space
+                based
+                understandings](#further-observations-on-repertoires-playtesting-space-based-understandings)
+            -   [Use of GDPs in supporting Playtesting (including player
+                types and side
+                missions)](#use-of-gdps-in-supporting-playtesting-including-player-types-and-side-missions)
         -   [Metaphors of harbours and playgrounds as a way to explore
             conceptions of (relational)
             agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
+            -   [Utility of metaphors of
+                space](#utility-of-metaphors-of-space)
             -   [Harbours - authentic and
                 restrictive](#harbours---authentic-and-restrictive)
             -   [Playgrounds, sandboxes and play
                 spaces](#playgrounds-sandboxes-and-play-spaces)
-            -   [Discussion on the role of playtesting in particular as
-                a suitable medium (third
-                space)](#discussion-on-the-role-of-playtesting-in-particular-as-a-suitable-medium-third-space)
-            -   [Use of GDPs in supporting Playtesting (including player
-                types and side
-                missions)](#use-of-gdps-in-supporting-playtesting-including-player-types-and-side-missions)
         -   [A complex view of agency and repertoires development within
             Idiocultures / 3rd
             spaces](#a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces)
@@ -79,8 +86,15 @@
             -   [Relational Agency in response to a series of stimuli
                 participant
                 identity](#relational-agency-in-response-to-a-series-of-stimuli-participant-identity)
-        -   [Discussion on designing for emerging
-            Ideoculture](#discussion-on-designing-for-emerging-ideoculture)
+        -   [Discussion on what are we really designing for
+            here?](#discussion-on-what-are-we-really-designing-for-here)
+            -   [Returning to transformational agency here and how it
+                different from conceptions of developing repertoires of
+                practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
+            -   [for Transformational agency, fluidity of practice of
+                participants for characteristics of an emerging
+                inclusive,
+                ideoculture](#for-transformational-agency-fluidity-of-practice-of-participants-for-characteristics-of-an-emerging-inclusive-ideoculture)
     -   [Part Three : Synthesis in relation to Issues of inclusive
         pedagogy UDL, UMC, MOE,
         PBL.](#part-three-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
