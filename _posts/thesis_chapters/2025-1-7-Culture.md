@@ -655,30 +655,110 @@ Then patterns and tools become established in the community, and agency shifts t
 MERGE THIS PLAN WITH ABOVE - NOT 2A AND 2B.
 
 
-
 This need restructuring
 
 
-1. Intro and value of different Metaphors - types of spaces,  habour, playground / sandbox - used for different reasons but all about ecological aspects
-2. Harbour, walled garden, restrictions  and authenticity in tool use
-3. Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity - and relational agency [@digiacomo_relational_2016-1]
+
+
+1. Intro  Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity - and relational agency [@digiacomo_relational_2016-1]
+2. value of different Metaphors - types of spaces,  habour, playground / sandbox - used for different reasons but all about ecological aspects
+3. Harbour, walled garden, restrictions  and authenticity in tool use
+
 4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming
 
 
 
-**link from transformative to Gutierrez  - IS THIS NEEDED?**
 
-DROP?
+
+
+### Intro to this section - space / place related conceptions of agency
+
+In the last section using TADS and mediation helps analyse findings in personal and guided participation aspects of Chapter 6. This section moves beyond TA to a wider more ecological interpretation of agency helpful in deeper analysis of the cultural plane of activity.
+
+POSSIBLY?
+This helps inform a distinction between FI and SDE,
+Whereas FI do x, SDE do y? <- too much..
+
 In research which addresses transformative agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings, in ways which are not generally explored in Change Labs approaches.  
 
-### Intro / Metaphors of space
+While this framings includes concepts already explored in sociocultural field including CoP, CoL, this section is structured around the previously described concepts of idiocultures [Cole], and repertoires of practice. Specifically positioning the idioculture of the game making program as a sum of emerging repertoires of practice of participants and practitioners.
 
-Given the non-traditional nature of this approach, and bearing in mind previous reflections on the difficulty of communicating approaches to practitioners (e.g Microworld by Kynigos), I draw on metaphors as a supporting tool. One in line with utopian methodology proposed by Cole and Gutierrez.  
+This section begins with a closer look at playtesting as a medium of development of practices, a mini third space
 
-In this case metaphors concerning learning spaces and movement between spaces are often found in existing research including: walled gardens, playgrounds, sandboxes, harbours. This section aims to draw from these metaphors relatable core principles which may help the impact of this research.
+#### Discussion on the role of playtesting in particular as a suitable medium (third space)
+
+<!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
+<!--
+HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
+**On playtesting behaviours and interaction with GDP findings** -->
+
+<!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
+
+As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018].
+
+In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
+
+
+I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities.
+Not only the cultural uses of GDPs, but other processes (DO i ACTUALLY HAVE ANY OF THESE IN EVIDENCE? )
+
+As such, the nature and process of this community evolution merits exploration.
 
 
 
+<!-- #### on alien chat
+Perhaps add back in as an unintended consequence?
+The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
+
+#### Further Observations on repertoires playtesting / space based understandings
+
+
+**More on Funds of Knowledge / repertoires and how they emerge in my research**
+
+Other research by Gutierrez addresses the importance of FoK via the metaphor of movement between sites of activity, aligning with the concept of movement between activity systems in 3GAT [ENGESTROM FROM GUTIERREZ]
+
+The data of this study provides a supporting evidence and detail to this process in the development of a game making idioculture.
+
+This can be analysed in relation to existing, evolving understandings of FoK and repertoires as incorporation of different repertoires.
+
+Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices.
+In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
+
+While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs not all of them directly relate. The follow example of playful playtesting is one not directly involving GDPs.
+
+**Playful playtesting**
+
+I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
+
+Some children added additional playful elements to playtesting.
+Some in particular brought a physicality to the process.
+
+See Appendix.playtestingtypes
+
+The process of play testing as a cultural process is explored in more depth now.
+
+#### Use of GDPs in supporting Playtesting (including player types and side missions)
+
+
+One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
+
+In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. This matches research of 5D and in particular that of Gutiérrez in conceptions of processes of inclusion.
+
+
+<!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
+<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
+
+ <!-- Examples include.... -->
+
+
+
+ If playtesting is an incubator for emerging socio cultural practices, can suitable affordances be added to encourage their growth?
+
+**Maker Types and slide missions**
+
+The use of GDPs in different ways and diverse ways between participants provoke an exploration of maker types, a reflection fed back into the design. (see Appendix .makertypes )
+
+The identification of maker types, and incorporation of those concepts into the design and faciliation  
 
 <!-- **beyond primary and secondary tools / stimulation conception**
 
@@ -689,7 +769,12 @@ For this study, one issue of Sannino and Engestroms general approach is that the
 
 ### Metaphors of harbours and playgrounds as a way to explore conceptions of (relational) agency
 
-How does this fit a flow of this section?
+
+#### Utility of metaphors of space
+
+The use of metaphor here has two functions. The first is to help deepen my analysis via a move to the abstract, to search for communicable generalisations. Secondly, given the non-traditional nature of this approach, and bearing in mind previous reflections on the difficulty of communicating approaches to practitioners (e.g Microworld by Kynigos), I draw on metaphors as a supporting tool. One in line with utopian methodology proposed by Cole and Gutierrez.  
+
+In this case metaphors concerning learning spaces and movement between spaces are often found in existing research including: walled gardens, playgrounds, sandboxes, harbours. This section aims to draw from these metaphors relatable core principles which may help the impact of this research.
 
 #### Harbours - authentic and restrictive
 
@@ -761,48 +846,6 @@ The sandbox metaphor is used extensively in web development to indicate a safety
 
 While the play space evokes protection, there is still space for wilder behaviors to emerge as play is responsive and adaptive. In this study playtesting spaces are important as a means to allow learners to evolve their own processes as a form of authorial and transformational agency, albeit within the suggested limitations.
 
-
-#### Discussion on the role of playtesting in particular as a suitable medium (third space) - MOVE THIS UP A BIT?
-
-<!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
-<!--
-HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
-**On playtesting behaviours and interaction with GDP findings** -->
-
-In this section, I review data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
-DO I? IS THIS NOT PART OF CHAPTER 6?
-
-As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018].
-
-I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities. As such, the nature and process of this community evolution merits exploration.
-
-<!-- #### on alien chat
-Perhaps add back in as an unintended consequence?
-The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
-
-
-#### Use of GDPs in supporting Playtesting (including player types and side missions)
-
-One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
-
-In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. This matches research of 5D and in particular that of Gutiérrez in conceptions of processes of inclusion.
-
-
-<!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
-<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
-
- <!-- Examples include.... -->
-
-**Playful playtesting**
-
-I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
-
-Some children added additional playful elements to playtesting.
-Some in particular brought a physicality to the process.
-
-See Appendix.playtestingtypes
-
-The process of play testing as a cultural process is explored in more depth now.
 
 
 
