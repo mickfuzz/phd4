@@ -178,58 +178,13 @@ See also thematic coding online
 
 <!-- Really come back to the RQs and the data. -->
 
-## Introduction
+## Notes
 
+
+Add any here.
 
 
 <!-- The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contrast, the processes explored in this following section emerged more directly from input from the participants in2024-8-7-Culturevolved.   -->
-
-
-### New Notes on structure of the chapter
-
-This chapter will discuss the uses of GDPs outlined in the previous chapter in relation to
-
-1. Rising to concrete ; Conceptions of abstract and concrete present in computing and digital making research: ultimately, proposing design patterns as a intermediate-level, pedagogical framework compared to computational thinking.
-
-2. Socio cultural understandings of mediation and agency via TADS  theory,  particularly in relation to the abstract and concrete.
-
-3. TAS, 3rd Spaces, Col, Fok, idiocultures etc.
-
-4. Synthesis in relation to  Issues of inclusive pedagogy. UDL, UMC, MOE.  This  underline the entire motivation and design of the study. Returning therefore to a fundamental point of the study to explore how this help diverse learners in a challenging area to learn.
-
-To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
-
-
-**To drop / change / move**  
-
-- impact of side missions / maker types: keep some elements, importance of identity given Gutierrez's focus.  
-
-### Old Notes on structure of the chapter
-
-Following Chapter 6's presentation findings on how participants use GDPs, this chapter contains further discussion on this use GDPs ,
-particularly in reference to the building of agency?
-
-To do so at time the focus is widened to include discussion on the evolving setting of use - in particular playtesting and the design processes involved.  
-
-The chapter contains a discussion on wider concerns of designing for learner agency. Here I synthesise analysis on processes which support learners to develop agency in this game making community
-(and the role of different levels of authenticity?)
-
-The lens of inclusion and the alignment with UDL is also relevant within an analysis of the discussion of concrete and abstract frameworks.
-
-
-Additionally, because of the relevance of x and y  in the process,
-
-The role of the emerging culture and identity of the idioculture  is developed in this chapter in the following ways:
-
-- playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting
-
-- the impact / if any of the social missions and player types to help the development of learner identities.
-
-- the emergence and nurturing of flexible and complex design behaviours (beyond player types)
-
-Some sections here including discussion on element of the introduced side missions explore how facilitators can encourage emergent processes as part of an introduced design. This discussion chapter uses this conceptual spectrum as a way to explore an analysis of different aspects of agency aand inclusive pedagogies.
-
-
 <!-- _How does this fit into other findings chapters?_
 
 Chap 4 - overall design context / evolution - Then in greater detail on personal observations on the evolutions and impact of the templated game approach and scaffolding of the code design. (not GDPs)
@@ -253,24 +208,42 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 The previous chapters have explored both designed and fortuitous changes to the learning design that become adopted by the community.
 
+Following Chapter 6's presentation findings on how participants use GDPs, this chapter contains further discussion on this use GDPs ,
+particularly in reference to the building of agency.
+
+To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
+
+This chapter has three main sections:
+
 1. Rising to concrete ; Conceptions of abstract and concrete present in computing and digital making research: ultimately, proposing design patterns as a intermediate-level, pedagogical framework compared to computational thinking.
 
 <!-- - propose that GDPs provide a suitable way to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures. -->
 
 2. Socio cultural understandings of mediation and agency
 
+Socio cultural understandings of mediation and agency via TADS  theory,  particularly in relation to the abstract and concrete dimension (as a link )
+
 2.a via mediation and agency via TADS theory,  
 
 2.b TAS, 3rd Spaces, Col, Fok, idiocultures etc.
+
+- playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting
+
+DEVELOP CONCISE INTRO.
 
 3. Synthesis in relation to  Issues of inclusive pedagogy. UDL, UMC, MOE.  This  underline the entire motivation and design of the study. Returning therefore to a fundamental point of the study to explore how this help diverse learners in a challenging area to learn. Ending by suggesting UDL as a helpful framework,
 
 - explore potential implications for facilitators and researchers on how to design for inclusion and agency - e.g. use of GDP collection as an  intermediate pedagogical construct.
 
+The lens of inclusion and the alignment with UDL is relevant as a possible resolution to abstract  / concrete tensions as a gateway to access diverse learner pathways and thus avoid an overly complex navigational framework thus reducing cogintive load.
+
 <!-- - MOVE TO CONCLUSION? metaphors / frameworks to envisage affordences and particpant agency in CHAT framework. and why this is useful for facilitators and as an accessibel way to share findings. -->
 
 
-To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
+
+
+The chapter contains a discussion on wider concerns of designing for learner agency. Here I synthesise analysis on processes which support learners to develop agency in this game making community
+(and the role of different levels of authenticity?)
 
 This section takes a step back to explore the wider perspectives of the findings beyond the immediate context to digital making and project based approaches and understandings of design patterns in educational contexts.
 
@@ -981,6 +954,14 @@ Hence the next section. An attempt a synthesis.
 - Celebrate the process of bricolage in this research.
 
 <!-- - Role of the methodology / DBR . FI to bring this process / analysis out - MOVE EARLIER.  -->
+
+TO INTEGRATE?
+
+The role of the emerging culture and identity of the idioculture  is developed in this chapter in the following ways:
+
+- the impact / if any of the social missions and player types to help the development of learner identities.
+
+- the emergence and nurturing of flexible and complex design behaviours (beyond player types)
 
 
 
