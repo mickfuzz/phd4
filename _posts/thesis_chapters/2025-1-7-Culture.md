@@ -330,9 +330,34 @@ A similar interpretation is adopted by Eriksson and colleagues [-@eriksson_using
 
 An alignment in this framing from the design research community with CHAT interpretation of the utility of a germ cell construct can be made in terms of the utility of the process and the process of divining a abstract enough germ cell to merit application in other instances.
 
+
 However, in the research of Eriksson et al on GDPs and young people making games [-@eriksson_using_2019], the grand theories or abstract concepts are not clearly articulated. And as noted, they focus chiefly on the utility of GDP concepts for researcher rather than for participants or facilitators of learning.
 
+
+#### Beyond types of abstraction in frameworks, the purpose of the frameworks being addressed is also relevant.
+
+Before further analysis on semantic waves, and types of abstract / concrete framework
+
+This is the motivational aspect of framework?
+
+a. As a research framework - Eriksson et al.
+b. A facilitator / design framework -
+c. as a participant framework for navigation and goal formation as explored in the previous chapter.
+
+
+Addressing the first aspect, the process of rising the concrete outlined above is helpful not just for analysis (a) but also for ongoing pedagogical design (b).
+
+The third aspect c, can be returned to, but where and when in this chapter? Points follow:
+- the link with the experienced feature of the game / product as a framework increases inclusive nature of process (later?)
+
+PERHAPS MOVE THIS TO NEXT SECTION
+What about semantic waves and movement. How explicit does the understanding of the motion between poles need to be? For example in my design, it is not very explicit of guided towards. However, this may be different in different UK computing settings.
+
+This potential non-alignment with UK non-formal may be a limitation in the take up of this research.  
+
+#### link
 Thus it is of a value to return to, what exactly is meant by the abstract within existing pedagogies in this domain explore this area. To do this we can turn to concepts explored in Chapters 1 and 2: computational thinking, Papert and Turkle's concept of epistemological pluralism and bricolage approach and  the concept of levels of abstraction (LOA)  
+
 
 
 #### Defining abstraction - recalling definitions.
@@ -382,26 +407,7 @@ As a challenge Waite's findings on levels of abstraction, my own notes and refle
 THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
 
 
-### Beyond types of abstraction in frameworks, the purpose of the frameworks being addressed is also relevant.
 
-Before further analysis on semantic waves,
-
-This is the motivational aspect of framework?
-
-a. As a research framework - Eriksson et al.
-b. A facilitator / design framework -
-c. as a participant framework for navigation and goal formation as explored in the previous chapter.
-
-
-Addressing the first aspect, the process of rising the concrete outlined above is helpful not just for analysis (a) but also for ongoing pedagogical design (b).
-
-The third aspect c, can be returned to, but where and when in this chapter? Points follow:
-- the link with the experienced feature of the game / product as a framework increases inclusive nature of process (later?)
-
-PERHAPS MOVE THIS TO NEXT SECTION
-What about semantic waves and movement. How explicit does the understanding of the motion between poles need to be? For example in my design, it is not very explicit of guided towards. However, this may be different in different UK computing settings.
-
-This potential non-alignment with UK non-formal may be a limitation in the take up of this research.    
 
 #### Observations on abstract / concrete dimensions in my data - MERGE WITH BELOW - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
 
