@@ -357,9 +357,6 @@ OR AT AN EARLIER STAGE? DEFINE FIRST THEN INTERPRET?
 
 At first glance, Papert's focus on Microworlds using the LOGO language as a vehicle to make concrete previously abstract mathematical concepts, seems to locate the exploration of abstract knowledge as a learning goal.
 
-
-
-
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
 
@@ -369,11 +366,7 @@ PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSIO
 
 <!-- As such this research has only more theoretical propositions rather than participant data. -->
 
-
-
-
 #### Levels of Abstraction
-
 
 Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area.
 
@@ -384,10 +377,31 @@ A synthesis of relevant literature supports an spectrum of abstraction,
 
 Such a spectrum is in is broadly in line with LOA interpretation,
 
-
 As a challenge Waite's findings on levels of abstraction, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
 
 THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
+
+
+### Beyond types of abstraction in frameworks, the purpose of the frameworks being addressed is also relevant.
+
+Before further analysis on semantic waves,
+
+This is the motivational aspect of framework?
+
+a. As a research framework - Eriksson et al.
+b. A facilitator / design framework -
+c. as a participant framework for navigation and goal formation as explored in the previous chapter.
+
+
+Addressing the first aspect, the process of rising the concrete outlined above is helpful not just for analysis (a) but also for ongoing pedagogical design (b).
+
+The third aspect c, can be returned to, but where and when in this chapter? Points follow:
+- the link with the experienced feature of the game / product as a framework increases inclusive nature of process (later?)
+
+PERHAPS MOVE THIS TO NEXT SECTION
+What about semantic waves and movement. How explicit does the understanding of the motion between poles need to be? For example in my design, it is not very explicit of guided towards. However, this may be different in different UK computing settings.
+
+This potential non-alignment with UK non-formal may be a limitation in the take up of this research.    
 
 #### Observations on abstract / concrete dimensions in my data - MERGE WITH BELOW - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
 
@@ -401,6 +415,8 @@ Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate
 
 
 In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
+
+
 
 ### How my research contributes in this area - particularly in the conception of different pedagogies.
 
