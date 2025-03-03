@@ -319,7 +319,6 @@ While the educational use of design patterns and has been explored in other sett
 ### Exploration of GDPs as mid-level construct in relation to other conceptions of abstraction in computing education research
 
 
-
 #### Design patterns as a intermediate-level, pedagogical framework (compared to computational thinking) - THE HYPOTHESIS
 
 This direction of the findings of the last chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
@@ -330,11 +329,12 @@ A similar interpretation is adopted by Eriksson and colleagues [-@eriksson_using
 
 An alignment in this framing from the design research community with CHAT interpretation of the utility of a germ cell construct can be made in terms of the utility of the process and the process of divining a abstract enough germ cell to merit application in other instances.
 
+Before further analysis in this area, it is value to examine types of abstract / concrete framework and who these frameworks are are useful for.
 
-However, in the research of Eriksson et al on GDPs and young people making games [-@eriksson_using_2019], the grand theories or abstract concepts are not clearly articulated. And as noted, they focus chiefly on the utility of GDP concepts for researcher rather than for participants or facilitators of learning.
+#### Purpose of the frameworks being addressed is also relevant.
 
 
-#### Beyond types of abstraction in frameworks, the purpose of the frameworks being addressed is also relevant.
+in the research of Eriksson et al on GDPs and young people making games [-@eriksson_using_2019], the grand theories or abstract concepts are not clearly articulated. And as noted, they focus chiefly on the utility of GDP concepts for researcher rather than for participants or facilitators of learning.
 
 Before further analysis on semantic waves, and types of abstract / concrete framework
 
@@ -355,15 +355,14 @@ What about semantic waves and movement. How explicit does the understanding of t
 
 This potential non-alignment with UK non-formal may be a limitation in the take up of this research.  
 
-#### link
-Thus it is of a value to return to, what exactly is meant by the abstract within existing pedagogies in this domain explore this area. To do this we can turn to concepts explored in Chapters 1 and 2: computational thinking, Papert and Turkle's concept of epistemological pluralism and bricolage approach and  the concept of levels of abstraction (LOA)  
 
 
+#### Types of abstraction in frameworks - recalling definitions or lack of clear definitions
 
-#### Defining abstraction - recalling definitions.
+It is of a value to return to, what exactly is meant by the abstract within existing pedagogies in this domain explore this area. To do this we can turn to concepts explored in Chapters 1 and 2: computational thinking, Papert and Turkle's concept of epistemological pluralism and bricolage approach and  the concept of levels of abstraction (LOA)  
 
 
-#### Computational thinking
+##### Computational thinking
 
 In this research, I conceptualised such less practical abstraction as that represented by Wing's interpretation of computational thinking.
 
@@ -378,7 +377,7 @@ Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of 
 OR AT AN EARLIER STAGE? DEFINE FIRST THEN INTERPRET?
 
 
-#### epistemological pluralism and bricolage & Microworlds
+##### epistemological pluralism and bricolage & Microworlds
 
 At first glance, Papert's focus on Microworlds using the LOGO language as a vehicle to make concrete previously abstract mathematical concepts, seems to locate the exploration of abstract knowledge as a learning goal.
 
@@ -391,7 +390,7 @@ PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSIO
 
 <!-- As such this research has only more theoretical propositions rather than participant data. -->
 
-#### Levels of Abstraction
+##### Levels of Abstraction
 
 Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area.
 
@@ -407,21 +406,46 @@ As a challenge Waite's findings on levels of abstraction, my own notes and refle
 THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
 
 
-
-
 #### Observations on abstract / concrete dimensions in my data - MERGE WITH BELOW - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
 
-Rapping previous examples... concrete ? my reluctance to design for abstract concepts,
+Rapping previous examples in vignettes. etc.  
 
-Despite this, in terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design. Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it. This chapter has outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture. I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that to further research to would be needed to justify the utility take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum constraints.
 
-On the other hand, my reflections support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with. Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  
 
-Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding.
-
+**Addressing utility for participants**
 
 In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
+Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding.
+
+In terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design.
+
+The last chapter outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective.
+
+Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it.
+
+Reflections in progression of design in P4 showed my reluctance to lead with abstract concepts, and even in integrating them into the learning.map and documentation.
+
+**Addressing utility for designers / teachers**
+
+
+
+My reflections /data support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with.
+
+Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  
+
+In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture.
+
+I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that to further research to would be needed to justify the utility take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum constraints.
+
+This question raises issues of how much CT is actually something that is explicitly taught or something which is picked up an embedded skill through a more bricolage approach.
+As, the summary of the literature review paints a very mixed picture in terms of the value of the more abstract concepts of CT this steers us towards a no to the value of explicit teaching.
+
+
+
+**Addressing utility/ findings for researchers and the field**
+
+It's in the following section
 
 
 ### How my research contributes in this area - particularly in the conception of different pedagogies.
@@ -444,8 +468,6 @@ As such this research contends that as GDPs as potentially more productive and a
 
 It is productive to ask: how can the use of GDPs as a framework be compared to that of computational thinking given CT's is a dominance in this area?
 
-This question raises issues of how much CT is actually something that is explicitly taught or something which is picked up an embedded skill through a more bricolage approach.
-As, the summary of the literature review paints a very mixed picture in terms of the value of the more abstract concepts of CT this steers us towards a no to the value of explicit teaching.
 
 However this does not detract from the value of learners navigating different LOA in following their interests.
 Leading with GDPs as a framework appears to support this  navigation, and at times in this research it is undertaken fluently and joyfully.
