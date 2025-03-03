@@ -358,6 +358,8 @@ This potential non-alignment with UK non-formal may be a limitation in the take 
 
 
 #### Types of abstraction in frameworks - recalling definitions or lack of clear definitions
+**More concrete CT**
+Q: What is abstraction and who useful for?
 
 It is of a value to return to, what exactly is meant by the abstract within existing pedagogies in this domain explore this area. To do this we can turn to concepts explored in Chapters 1 and 2: computational thinking, Papert and Turkle's concept of epistemological pluralism and bricolage approach and  the concept of levels of abstraction (LOA)  
 
@@ -366,24 +368,29 @@ It is of a value to return to, what exactly is meant by the abstract within exis
 
 In this research, I conceptualised such less practical abstraction as that represented by Wing's interpretation of computational thinking.
 
+To recap this more abstract definition can be see as overarching computing principles with cross over to general design tactics.
 
-Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research.
+To ground this in GCSE examples.
 
-In terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
+Iteration and Selection are in the gcse example, tick examples of them. Just recognise.
 
-CHANGE THIS - TURN IT DOWN
-Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of the concrete in computing pedagogy, likening the process  to bricolage, a craft based approach where participants become very familiar with their tools and materials.  Such a challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, seemingly also also challenge Waite's rationale of the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
+In this example, some aspect of CT are heavily structure, i.e. the process of decomposition of the template, and the docs into GDPs,
+AND the abstraction again in template via the graphical design tool.
+However, other behaviour of abstract CT can be observed.
 
-OR AT AN EARLIER STAGE? DEFINE FIRST THEN INTERPRET?
+Begs question how do you learn computation thinking in most abstract?
 
+I would propose that a design pattern approach, with structured reflection is an excellent way to do that. Aligned with LOA and semantic waves.
 
-##### epistemological pluralism and bricolage & Microworlds
+If CT is needed, then P4 developed resources suitable for such reflection. Linking from docs to descriptions. This does need development, an area of promise though.
 
-At first glance, Papert's focus on Microworlds using the LOGO language as a vehicle to make concrete previously abstract mathematical concepts, seems to locate the exploration of abstract knowledge as a learning goal.
+DEVELOP A LEARNING MAP APPENDIX PART TWO
 
-PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
+**More concrete CT**
 
+Returning to the learning map. There are more concrete elements of it readily adopted on Resnick and Brennan's interpretation.
 
+What has this research got to say about the relationship between the two?
 
 <!-- **In terms of recommendations for researchers / practitioners of an intermediate framework:** -->
 
@@ -391,6 +398,8 @@ PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSIO
 <!-- As such this research has only more theoretical propositions rather than participant data. -->
 
 ##### Levels of Abstraction
+
+Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research.
 
 Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area.
 
@@ -406,21 +415,43 @@ As a challenge Waite's findings on levels of abstraction, my own notes and refle
 THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
 
 
+##### epistemological pluralism and bricolage & Microworlds
+
+Recalling Papert and Turkle's celebration of the concrete we can ask if this is a challenge to Waite's advocacy for the the alternation between poles of abstract and concrete in semantic profiles.
+
+However, a careful examination of the literature is needed here to catch the complexities present. The celebration here is of pluralism rather than the culturally prevalent one privileging abstraction. Abstraction is not seen as undesirable. .
+
+Papert's focus on Microworlds using the LOGO language as a vehicle to make concrete previously abstract mathematical concepts, seems to locate the exploration of abstract knowledge as a learning goal.
+
+This, can be perhaps profitably explored using the concept of leading activity, which in this case is play rather than instruction, and is led by the child rather than the teacher.
+
+With this focus, we see a parallel to my learning design where movement between poles of abstract and concrete is happening at least in terms of
+
+In addition, the concept of bricolage encompasses a learning processes oriented to concrete exploration. Framed as  planning styles as bottom up tinkering compared to a top down planning style. A concept explored in the Cathedral and Bazaar.
+
+Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of the concrete in computing pedagogy, likening the process  to bricolage, a craft based approach where participants become very familiar with their tools and materials.  Such a challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, seemingly also also challenge Waite's rationale of the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
+
+Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
+
+PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
+
 #### Observations on abstract / concrete dimensions in my data - MERGE WITH BELOW - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
 
-Rapping previous examples in vignettes. etc.  
-
-
+Recapping previous examples in vignettes. etc.  
 
 **Addressing utility for participants**
 
 In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
-Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding.
-
 In terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design.
 
 The last chapter outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective.
+
+Of particular relevance regarding the utility for learners in this domain of abstract/concrete domain would be in
+
+   1. Goal formation - in ideation, prioritisation.
+   2. Navigation, structuring of resources and docs - and in a holistic sense  
+   3. Division of Labour - at times the more abstract processes are left to the more competent partner
 
 Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it.
 
@@ -428,9 +459,16 @@ Reflections in progression of design in P4 showed my reluctance to lead with abs
 
 **Addressing utility for designers / teachers**
 
+It follows that the concerns above are also relevant for designers who want to design for these aspects.
 
+My reflections /data support a proposition that there is utility for **facilitators** to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with.
 
-My reflections /data support a proposition that there is utility for facilitators to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with.
+BUT WHAT ABOUT LEARNERS? HERE THE PERSPECTIVE IS BLURRED IF TEACHERS ARE STEERING TOWARDS A CURRICULUM.
+
+As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
+
+Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding.
+CAN THIS BE WRAPPED UP A BIT HERE? RESOLVE NEATLY? PRAGMATICALLY.
 
 Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  
 
@@ -451,6 +489,15 @@ It's in the following section
 ### How my research contributes in this area - particularly in the conception of different pedagogies.
 
 How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs)
+
+
+#### Quick Re-framing of My pedagogical approach in a/c dimension
+
+We now return to the question.
+
+Q: What is abstraction and who useful for?
+A: In this study. GDPs are useful as a inclusive, intermediate framework, with alignment between experience and abstractions of product.  
+
 
 #### Comparing my pedagogical framing regarding dimensions of abstract/ concrete with existing research
 
