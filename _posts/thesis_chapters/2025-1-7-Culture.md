@@ -85,7 +85,7 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
             -   [Utility of metaphors of
                 space](#utility-of-metaphors-of-space)
-            -   [Harbours - authentic and
+            -   [Harbours - authentic and1900
                 restrictive](#harbours---authentic-and-restrictive)
             -   [Playgrounds, sandboxes and play
                 spaces](#playgrounds-sandboxes-and-play-spaces)
@@ -184,6 +184,8 @@ See also thematic coding online
 Add any here.
 
 
+
+
 <!-- The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contrast, the processes explored in this following section emerged more directly from input from the participants in2024-8-7-Culturevolved.   -->
 <!-- _How does this fit into other findings chapters?_
 
@@ -207,6 +209,8 @@ This section describes and discusses some of the emergent, flexible and adaptive
 ## Introduction
 
 The previous chapters have explored both designed and fortuitous changes to the learning design that become adopted by the community.
+
+This chapter deepens analysis and discussion on RQ2 on the potential uses of GDPs and concludes with  analysis and discussion on RQ3 addressing reflections on partcipant agency.
 
 Following Chapter 6's presentation findings on how participants use GDPs, this chapter contains further discussion on this use GDPs ,
 particularly in reference to the building of agency.
@@ -325,15 +329,13 @@ This direction of the findings of the last chapter, support findings on design p
 
     In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
 
-A similar interpretation is adopted by Eriksson and colleagues [-@eriksson_using_2019] using gameplay design patterns with young people which drew inspiration from research on [@barendregt_intermediate-level_2018] value of design patterns as a form of "intermediate-level concept", a form of "representation of knowledge in-between  general theories and particular artefacts in terms of abstraction and  generalizability" [@eriksson_using_2019, p.15].  
+A similar interpretation is adopted by Eriksson and colleagues [-@eriksson_using_2019] using gameplay design patterns with young people which drew inspiration from research on  value of design patterns as a form of "intermediate-level concept" [@barendregt_intermediate-level_2018], a form of "representation of knowledge in-between  general theories and particular artefacts in terms of abstraction and  generalizability" [@eriksson_using_2019, p.15].  
 
 An alignment in this framing from the design research community with CHAT interpretation of the utility of a germ cell construct can be made in terms of the utility of the process and the process of divining a abstract enough germ cell to merit application in other instances.
 
-Before further analysis in this area, it is value to examine types of abstract / concrete framework and who these frameworks are are useful for.
+However, given that the area of research in which this is carried out is CCI rather than that of learning computer programming or game making, it is value to examine types of abstract / concrete framework in this area. Additionally, it is important to ask who these frameworks are aimed at.
 
 #### Purpose of the frameworks being addressed is also relevant.
-
-
 
 Before further analysis on semantic waves, and types of abstract / concrete framework
 
@@ -342,7 +344,6 @@ This is the motivational aspect of framework?
 a. As a research framework - Eriksson et al.
 b. A facilitator / design framework -
 c. as a participant framework for navigation and goal formation as explored in the previous chapter.
-
 
 Addressing the first aspect, the process of rising the concrete outlined above is helpful not just for analysis (a) but also for ongoing pedagogical design (b).
 
@@ -379,17 +380,15 @@ In this example, some aspect of CT are heavily structure, i.e. the process of de
 AND the abstraction again in template via the graphical design tool.
 However, other behaviour of abstract CT can be observed.
 
-Begs question how do you learn computation thinking in most abstract?
-
-I would propose that a design pattern approach, with structured reflection is an excellent way to do that. Aligned with LOA and semantic waves.
-
-If CT is needed, then P4 developed resources suitable for such reflection. Linking from docs to descriptions. This does need development, an area of promise though.
+Begs question how do you learn computation thinking in most abstract way via explicit teaching, Grover
 
 While Wing's  emphasis on the importance of the explicity teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribtuion on computational thinking is  more theoretical than applied.
 
 Grover, Guzdial and Merrie Bergmann - offer more explicit techniques.
 
 DEVELOP A LEARNING MAP APPENDIX PART TWO
+
+
 
 **More concrete CT**
 
@@ -404,7 +403,7 @@ What has this research got to say about the relationship between the two?
 
 ##### Levels of Abstraction
 
-Waite and colleagues propose that abstraction should be explicitly taught even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research.
+Waite and colleagues also propose that abstraction should be explicitly taught, even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research.
 
 Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area.
 
@@ -448,14 +447,6 @@ This, can be perhaps profitably explored using the concept of leading activity, 
 
 In addition, the concept of bricolage encompasses a learning processes oriented to concrete exploration. Framed as  planning styles as bottom up tinkering compared to a top down planning style. A concept explored in the Cathedral and Bazaar.
 
-**Turning to my design / analyis**
-
-With this focus, we see a parallel to my learning design where movement between poles of abstract and concrete is happening at least in terms of
-
-Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
-
-PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
-
 #### In SUMMARY
 
 Thus in summary conceptions of abstraction above explored above include:
@@ -466,7 +457,51 @@ Thus in summary conceptions of abstraction above explored above include:
 
 ### Observations on abstract / concrete dimensions in my data related to gameplay design patterns.
 
+**Turning to my design / analyis**
+
+I now returning to the proposal of GDPs as a useful intermediate level framework,  given the framing of abstract in summary above, and explore this proposal using the findings of my research process.  
+
+
+**In terms of CT,  and semantic waves**
+
+While it is problematised in relation to agency development later, While this research doesn't negate the value of explicit teaching of computational thinking,
+
+Thus, I would propose that a design pattern approach, with structured reflection is an excellent way to do that. This was an area of development in P4, with a diagram expressed which drew on the concept of semantic waves.
+
+LINK TO DIAGRAM
+
+Then, Turning to the value of a learning map of learning dimensions, If CT is needed, then P4 developed resources suitable for such reflection. Linking from docs to descriptions. This does need development, an area of promise though.
+
+LINK TO LEARNING Map
+Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
+
+PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
+
+
+**LOA**
+
+Turning  to a synthesis of my finding with those of Waite et al on levels of abstraction, while the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
+
+
+| **Level**            | **Focus** | **Example** |
+|----------------------|----------|-------------|
+| **Conceptual Level**  | Thinking about the GDPs to be added to the game | Goal formation, prioritisation |
+| **Design Level**  | GDP supporting documentation scaffolds this process  | What it should do is to a large extent preset via documentation. |
+| **Code Level**  | Writing the actual code, is supported via code patching  | is supported via code patching, and a structure which encourages modification |
+| **Execution Level**  | Understanding the outputs | A strong correlation between goal and outcome, as playing the game product is very immediate. |
+
+Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
+
+
+With this focus, we can analyse my learning design where movement between layers of abstraction and concrete is happening.
+
+However, this is not a neat semantic sine wave.
+Specifically the flexible nature of the design practices shows shifting rapidly and sometimes chaotically.
+
+
 MERGE WITH BELOW SECTION - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
+
+**On intermediate analysis**
 
 To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns.
 

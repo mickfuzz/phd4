@@ -1330,7 +1330,7 @@ In teaching computing pedagogy the concept of levels of abstraction can be taugh
 | **Conceptual Level**  | Thinking about the problem **without programming** | Task -  what is needed |
 | **Design Level**  | Structuring / designing a solution | What it should do. |
 | **Code Level**  | Writing the actual code  | How it is done |
-| **Execution Level**  | Understanding how the computer processes the code on a low-level (e.g memory use) | What it does. |
+| **Execution Level**  | Understanding how the computer processes the code on a low-level (e.g memory use), or in a k5 context the outputs | What it does. |
 
 Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
 
