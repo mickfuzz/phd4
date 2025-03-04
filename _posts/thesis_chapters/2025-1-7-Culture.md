@@ -334,7 +334,6 @@ Before further analysis in this area, it is value to examine types of abstract /
 #### Purpose of the frameworks being addressed is also relevant.
 
 
-in the research of Eriksson et al on GDPs and young people making games [-@eriksson_using_2019], the grand theories or abstract concepts are not clearly articulated. And as noted, they focus chiefly on the utility of GDP concepts for researcher rather than for participants or facilitators of learning.
 
 Before further analysis on semantic waves, and types of abstract / concrete framework
 
@@ -435,11 +434,23 @@ Turning to alignment with PBL research in digital making, as explored in the lit
 
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
-#### Observations on abstract / concrete dimensions in my data - MERGE WITH BELOW - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
+### Observations on abstract / concrete dimensions in my data related to gameplay design patterns.
+
+MERGE WITH BELOW SECTION - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
+
+To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns.
+
+ANYTHING HERE ON REPENNING?
+
+In the research of Eriksson et al on GDPs and young people codesigning a game with researchers [-@eriksson_using_2019], the positioning as GDPs as an intermediate construct between general theoies and more concrete implementation. While, the nature of the  theories are not clearly articulated, the field in question, that of Child-Computer Interaction (CCI) [@lehnert_childcomputer_2022], has its domain theories which are less accessible to children than the framework of GDPS.
+
+
+In summary, Eriksson et al. note the utility of GDP concepts as a lingua franca, to help framing of analysis, to help the inspiration of participants. It should be noted that much of this analysis of the use of GDPs focused on the researcher perspective rather than that of participants. Thus following section develops this line of research making more explicit the observed and potential uses in participant game making, as tools by facilitator and researchers. It also explores the positioning of GDPs as an intermediate framework between concrete implementation and the more abstract frameworks articulate above.  
+
+
+#### **Addressing utility for participants**
 
 Recapping previous examples in vignettes. etc.  
-
-**Addressing utility for participants**
 
 In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
@@ -457,7 +468,7 @@ Participant perspectives shift between the wider goal of making an engaging game
 
 Reflections in progression of design in P4 showed my reluctance to lead with abstract concepts, and even in integrating them into the learning.map and documentation.
 
-**Addressing utility for designers / teachers**
+#### **Addressing utility for designers / teachers**
 
 It follows that the concerns above are also relevant for designers who want to design for these aspects.
 
@@ -481,7 +492,7 @@ As, the summary of the literature review paints a very mixed picture in terms of
 
 
 
-**Addressing utility/ findings for researchers and the field**
+#### **Addressing utility/ findings for researchers and the field**
 
 It's in the following section
 
