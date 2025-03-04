@@ -20,8 +20,8 @@
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Use Modify Create](#use-modify-create)
-        -   [Curricular concepts, semantic
-            waves](#curricular-concepts-semantic-waves)
+        -   [Curricular concepts, semantic waves,
+            LOA](#curricular-concepts-semantic-waves-loa)
             -   [Semantic Profiles and
                 Waves](#semantic-profiles-and-waves)
         -   [PRIMM](#primm)
@@ -39,8 +39,9 @@
                 Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
         -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
-        -   [Creative Family Learning - Roque (and
-            5d?)](#creative-family-learning---roque-and-5d)
+        -   [Creative Family Learning - Roque (and 5d?) - YES 5D COLE
+            AND
+            GUTIERREZ](#creative-family-learning---roque-and-5d---yes-5d-cole-and-gutierrez)
         -   [A final reflection](#a-final-reflection)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
