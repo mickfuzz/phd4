@@ -462,8 +462,7 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
 
 
-### Curricular concepts, semantic waves
-
+### Curricular concepts, semantic waves, LOA
 
 
 A common pedagogical strategy is to align learning activities with knowledge and competencies outlined by a curriculum. A common line of game making research follows this logic to align game making with curricular contents, in particular computational thinking concepts.  
@@ -734,7 +733,7 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
 
-### Creative Family Learning - Roque (and 5d?)
+### Creative Family Learning - Roque (and 5d?) - YES 5D COLE AND GUTIERREZ
 
 <!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
@@ -1325,6 +1324,15 @@ Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narr
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
 
+
+| **Level**            | **Focus** | **Example** |
+|----------------------|----------|-------------|
+| **Conceptual Level**  | Thinking about the problem **without programming** | Task -  what is needed |
+| **Design Level**  | Structuring / designing a solution | What it should do. |
+| **Code Level**  | Writing the actual code  | How it is done |
+| **Execution Level**  | Understanding how the computer processes the code on a low-level (e.g memory use) | What it does. |
+
+Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
 
 ## To perhaps add to Lit REVIEW
 

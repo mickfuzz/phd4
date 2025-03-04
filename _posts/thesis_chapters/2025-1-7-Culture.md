@@ -360,6 +360,8 @@ This potential non-alignment with UK non-formal may be a limitation in the take 
 **More concrete CT**
 Q: What is abstraction and who useful for?
 
+The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002].
+
 It is of a value to return to, what exactly is meant by the abstract within existing pedagogies in this domain explore this area. To do this we can turn to concepts explored in Chapters 1 and 2: computational thinking, Papert and Turkle's concept of epistemological pluralism and bricolage approach and  the concept of levels of abstraction (LOA)  
 
 
@@ -383,6 +385,10 @@ I would propose that a design pattern approach, with structured reflection is an
 
 If CT is needed, then P4 developed resources suitable for such reflection. Linking from docs to descriptions. This does need development, an area of promise though.
 
+While Wing's  emphasis on the importance of the explicity teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribtuion on computational thinking is  more theoretical than applied.
+
+Grover, Guzdial and Merrie Bergmann - offer more explicit techniques.
+
 DEVELOP A LEARNING MAP APPENDIX PART TWO
 
 **More concrete CT**
@@ -403,12 +409,19 @@ Waite and colleagues propose that abstraction should be explicitly taught even t
 Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area.
 
 REWRITE
-Waite's research contains limited examples but given the broad alignment with UK curricular context would likely include Wing's take on CT at the most abstract, and specifics coding constructs or even syntax at the most concreted.
+Waite's research contains limited examples but given the broad motivation of the research to align with UK curricular context and thus elements of computational thinking, there are some complexities present that bear exploreing.
 
-A synthesis of relevant literature supports an spectrum of abstraction,
+Comparing Wing's take on CT at the most abstract, and LOA model where the problem is the most abstract.
+
+Waite leads with the problem to be solved, and Wing's CT concepts are explored in the design level.
+The specifics of coding constructs or even syntax at the most concrete follow after that.
+
+
+
 
 Such a spectrum is in is broadly in line with LOA interpretation,
 
+LATER?
 As a challenge Waite's findings on levels of abstraction, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
 
 THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
@@ -416,23 +429,40 @@ THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
 
 ##### epistemological pluralism and bricolage & Microworlds
 
-Recalling Papert and Turkle's celebration of the concrete we can ask if this is a challenge to Waite's advocacy for the the alternation between poles of abstract and concrete in semantic profiles.
 
-However, a careful examination of the literature is needed here to catch the complexities present. The celebration here is of pluralism rather than the culturally prevalent one privileging abstraction. Abstraction is not seen as undesirable. .
+Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning".
+
+DEVELOP THIS  - EXAAMPLES OF ABSTRACT HERE. Top-Down Design, planning extensively first,  learning syntax and structure first, coding from first principles. Perhaps following step by step instructions.
+
+Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of the concrete in computing pedagogy, likening the process  to bricolage, a craft based approach where participants become very familiar with their tools and materials.
+
+Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review).
+
+However, Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user. Also, how does this fit with Waite's advocacy for the the alternation between poles of abstract and concrete in semantic profiles.  Such a challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, seemingly also also challenge Waite's rationale of the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
+
+A careful examination of the literature is needed here to catch the complexities present. The celebration here is of pluralism rather than the culturally prevalent one privileging abstraction. Abstraction is not seen as undesirable.
 
 Papert's focus on Microworlds using the LOGO language as a vehicle to make concrete previously abstract mathematical concepts, seems to locate the exploration of abstract knowledge as a learning goal.
 
 This, can be perhaps profitably explored using the concept of leading activity, which in this case is play rather than instruction, and is led by the child rather than the teacher.
 
-With this focus, we see a parallel to my learning design where movement between poles of abstract and concrete is happening at least in terms of
-
 In addition, the concept of bricolage encompasses a learning processes oriented to concrete exploration. Framed as  planning styles as bottom up tinkering compared to a top down planning style. A concept explored in the Cathedral and Bazaar.
 
-Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of the concrete in computing pedagogy, likening the process  to bricolage, a craft based approach where participants become very familiar with their tools and materials.  Such a challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, seemingly also also challenge Waite's rationale of the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
+**Turning to my design / analyis**
+
+With this focus, we see a parallel to my learning design where movement between poles of abstract and concrete is happening at least in terms of
 
 Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
 
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
+
+#### In SUMMARY
+
+Thus in summary conceptions of abstraction above explored above include:
+
+- Wing's take on computational thinking: abstraction, decomposition, generalisation / pattern recognition, implementation via an algorithmic process.
+- A more holistic practice-based definition from Resnick, Brennan -
+- Waite's LOA - abstract here drawing on levels within the problem or product  - navigation between levels, explicit teaching of such navigation.
 
 ### Observations on abstract / concrete dimensions in my data related to gameplay design patterns.
 
@@ -442,10 +472,11 @@ To explore the findings of last chapter in relation to this exploration of the n
 
 ANYTHING HERE ON REPENNING?
 
-In the research of Eriksson et al on GDPs and young people codesigning a game with researchers [-@eriksson_using_2019], the positioning as GDPs as an intermediate construct between general theoies and more concrete implementation. While, the nature of the  theories are not clearly articulated, the field in question, that of Child-Computer Interaction (CCI) [@lehnert_childcomputer_2022], has its domain theories which are less accessible to children than the framework of GDPS.
+In the research of Eriksson et al on GDPs and young people co-revising an existing digital game with researchers [-@eriksson_using_2019], the positioning as GDPs as an intermediate construct between general theories and more concrete implementation. In their research, the nature of the general theories are not clearly articulated. This may in part be due to their decoupling of the problem-solution structure present in convention conceptions of design patterns to focus only on descriptions of patterns rather than any detail of solution. Thus the general theories may relate to the researchers field in practice, that of Child-Computer Interaction (CCI) [@lehnert_childcomputer_2022], as the theories of this domain  would be less accessible to children than their framework of a carefully chosen collection of GDPs.
 
+In summary, Eriksson et al. note the utility of GDP concepts as a lingua franca, to help framing of analysis, to help the inspiration of participants. It should be noted that much of this analysis of the use of GDPs focused on the researcher perspective rather than that of participants.
 
-In summary, Eriksson et al. note the utility of GDP concepts as a lingua franca, to help framing of analysis, to help the inspiration of participants. It should be noted that much of this analysis of the use of GDPs focused on the researcher perspective rather than that of participants. Thus following section develops this line of research making more explicit the observed and potential uses in participant game making, as tools by facilitator and researchers. It also explores the positioning of GDPs as an intermediate framework between concrete implementation and the more abstract frameworks articulate above.  
+Thus following section develops this line of research, making more explicit the observed and potential uses in participant game making, as tools by facilitator and researchers. It also explores more explicitly the positioning of GDPs as an intermediate framework between concrete code implementation and the more abstract frameworks articulated above.  
 
 
 #### **Addressing utility for participants**
