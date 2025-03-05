@@ -596,14 +596,10 @@ Leading with GDPs as a framework appears to support this  navigation, and at tim
 <!-- While I address areas for future research in the conclusion, a proposed benefit of this research is While understanding the process is more obviously useful for facilitators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects. To underscore the potential and to uncover a starting point for pedagogies that can be transferred to diverse design projects. -->
 
 
-
-
 ### Link to next section and signposting final discussion section
 
 
 How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs)
-
-
 
 
 ADDRESSING THE RECENT SOCIAL / CULTURAL DIRECTION OF CONSTRUCTIONISM
@@ -614,7 +610,6 @@ By way of contrast, this study is aligned with the development of the constructi
 
 The issue transcends issues of efficacy of how to support the coding process to address the underlying goals of the activity. While I align with the articulation of Resnick of computational fluency, (reactions to) this line of research has focused on toolsets rather than pedagogies (in a way which also frustrates Resnick [@resnick_seeds_2020]). These include physical computing, use of textiles [].
 
-The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions.
 
 Additionally while the work of Waite and Sentence begins to address sociocultural aspects [@sentance_teaching_2019; @hwang_using_2023], this work integrates the aims of inclusion more closely within the project goals.
 
@@ -695,33 +690,28 @@ Research on  engendering authorial and transformative agency [@engestrom2006deve
 For example in my design:
 Introducing additional tools in the form of documentation to the initial coding environment and template provided in early stages introduced tensions between the opportunities for independent development and the additional complexity of the process. -->
 
-### Summary of examples of transformational agency and instrumental agency
 
-This takes a conservative view of TA, as something new to the learning design, not just new to teh learner. This is explored later, next section on relational agency.  
+### Instrumental Agency
 
+The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
 
-**Instrumental**
 Examples of mediation and instrumental agency are shown in varied forms in the use of GDPs aligned often with a personal appropriation.
 
-Straight forward indidual use of documentation by Tony and Susanna in V1 and V2.
+As an example take the resolution of tensions surrounding  authenticity of coding web development language, coding environment and documentation. my choice of curated collection of docs prevented friction and potential confusion if using real developer documents.  
 
-**Transformational.**
+Straight forward individual use of documentation by Tony and Susanna in V1 and V2.
 
-In P1, (see Chapter 5 (check)) the initial use of GDPs as a planning tool, and as a vehicle for prototypical documentation.
+**Affordances as points on a climbing wall to support understandings of instrumental agency - MOVE**
 
-In Vig. Dave, the breaking out of the template to create a different genre.
-
-
-### Designing for increased instrumental agency and then for TA?
-
-Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+<!-- In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However,  -->
 
 
+In this design, at participants aim for affordances allowing a mediation process as visible points.
+A suitable metaphor may be a climbing wall use for rock-climbing training.
+The job of a facilitator may be to highlight certain affordances, attaching colours to a particular route designed to suit a particular skill level.
+For example the bringing to the top of variable to impact game play in the quick start activities.
 
-DOWN PLAY THIS - MOVE LATER. IT'S NOT IDEAL ANYWAY WITH MEDIATION - IT'S MORE THE NEXT SECTION.
-
-DROP THIS METAPHOR?
-The role of the designer  in this metaphor is to structure the climber journey to the top.
+GDPs were one of the main vehicles of mediation here
 
 This my be done by
 - defining or reducing the use of specialised terminology  or
@@ -730,7 +720,72 @@ This my be done by
 <!-- - imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points. -->
 
 
-### Dilemma / Tension for the facilitator, how sketchy to make the design?
+
+<!-- To incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind.  -->
+
+
+
+<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
+
+
+<!-- The role of the faciliator in this metaphor is to structure the climber journey to the top.
+
+This my be done by
+- defining or reducing the use use of specialised terminology  or
+- hiding away un-needed complexity.
+- signposting issues   
+- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
+
+LINK TO EXISTING WORK ON AFFORDENCES FROM SOCIAL CULTURAL PERSPECTIVE.
+LINK TO AT theory
+NARDI ON AFFORDENCES AND TECH FOR EXAMPLE
+AND ROUND UP THE CONSTRUCTIONIST UNDERSTANDING OF AFFORDANCES AND BLACK BOXING -->
+
+### Transformational Agency
+
+TA can be viewed in different ways, in this design I take a conservative view of TA, as something new to the learning design, not just new to the learner.
+
+<!-- This is explored later, next section on relational agency.   -->
+
+In relation to this design the greatest period of transformation was in P1. The emergence of GDPs as a guiding activity and pedagogical framework can be seen to emerged from expressions of transformational agency from participants and myself as a designer at this times.
+
+<!-- In P1, (see Chapter 5 (check)) the initial use of GDPs as a planning tool, and as a vehicle for prototypical documentation. -->
+
+Beyond P1, there are still spaces for TA once the core pedagogy is in place.
+For examples,
+In Vig. Tody and Dan the break out of the template to create a different genre.
+
+**Exploring transformative agency using the metaphor of Kedging anchors**
+
+As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a kedging anchors.
+
+The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
+
+In this metaphor the act of casting out the anchor is a visible act of volition which aims overcome conflicts blocking activity progress. Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022].
+
+The process may serve to surface perviously unknown forms of mediation and use of tools not only for those undertaking this volitional activity but also others in the learning community.
+
+To aid learners evolving activity, as a designer I noticed these attempts and then tried to add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
+
+This interpretation highlights possible shifts in forms of agency and an emerging dilemma in the evolving learning design.
+
+
+### Shifting forms of agency
+
+**Shifting forms of agency.**
+How different forms of  agency are developed and transform over iterations of this game making programme  
+
+Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
+
+Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
+
+**Designing for increased instrumental agency and then for TA?**
+
+Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
+
+
+#### Dilemma / Tension for the facilitator, how sketchy to make the design?
 
 The dilemma here of transformational happening most for participants in P1, and you can design OUT transformational agency, hence sketchy pedagogies
 
@@ -743,7 +798,7 @@ To relational in P2
 Increased support for relational in P3
 
 
-#### Danger of designing away the possibility for transformational agency
+**Danger of designing away the possibility for transformational agency**
 
 One of my drivers in this research was to better understand my love of sketch, chaotic learning environments.
 
@@ -773,7 +828,6 @@ INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON
 
 A possible
 
-
 To retain this potential for transformation
 it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
 
@@ -782,12 +836,15 @@ And the danger of being too instrumental if the design is too complete.
 A danger that my interest and focus on messy / sketchy pedagogies would try to avoid. But which has wider implications in terms of inclusion and levels of stress for participants.
 
 
-**Shifting forms of agency.**
-How different forms of  agency are developed and transform over iterations of this game making programme  
 
-Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
 
-Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
+<!-- The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour. -->
+
+<!-- Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022].
+
+An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
+TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
+ -->
 
 
 
@@ -806,9 +863,6 @@ This need restructuring
 3. Harbour, walled garden, restrictions  and authenticity in tool use
 
 4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming
-
-
-
 
 
 
@@ -1117,6 +1171,10 @@ The role of the emerging culture and identity of the idioculture  is developed i
 - the impact / if any of the social missions and player types to help the development of learner identities.
 
 - the emergence and nurturing of flexible and complex design behaviours (beyond player types)
+
+
+**Gaps in exising research.**
+The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions.
 
 
 
@@ -1798,55 +1856,8 @@ While a fuller exploration of how this was put into practice in P3 via a narrati
 NOTE
 Link to other research on permisison structures, confidence, inclusion, permission to play
 
-### Affordances as points on a climbing wall to support understandings of instrumental agency - MOVE
 
-<!-- In the original metaphor the casting of the anchor is random, experimental. It is unsure if the anchor will catch on anything under the surface. However,  -->
-
-The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
-But may remove authorial or relational agency.
-
-As an example take the tensions surrounding  authenticity of coding web development language, coding environment and documentation. my choice of curated collection of docs prevented friction and potential confusion if using real developer documents.  
-
-
-In this design, participants aim for affordances as visible  points.
-
-In the design above such  points include: regular play-testing; the use of documentation; and highlighted variables and level structure in the quick start stage.
-
-To incorporate the utility of  previously used affordances within the community,  we can imagine a climbing rock-face metaphor of a lead climber leaving a trail for others behind. Or in a training environment of a climbing wall, attaching colours to a particular route designed to suit a particular skill level.
-
-<!-- Similarly, as the process unfold the faciliator may see learners repeatedly run into the same obstacle and not be able to see the anchor points available to them. Perhaps even catching onto snags or other debris, false anchor points. -->
-
-
-The role of the faciliator in this metaphor is to structure the climber journey to the top.
-
-This my be done by
-- defining or reducing the use use of specialised terminology  or
-- hiding away un-needed complexity.
-- signposting issues   
-- imagining the lines of sight of the learner. try to remove large obstacles to potential anchour points.
-
-LINK TO EXISTING WORK ON AFFORDENCES FROM SOCIAL CULTURAL PERSPECTIVE.
-LINK TO AT theory
-NARDI ON AFFORDENCES AND TECH FOR EXAMPLE
-AND ROUND UP THE CONSTRUCTIONIST UNDERSTANDING OF AFFORDANCES AND BLACK BOXING
-
-### Exploring transformative agency using the metaphor of Kedging anchors
-
-
-As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a kedging anchors.
-
-The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
-
-
-#####  LINKING TO ANCHORS TO AFFORDENCES
-
-Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022]. An effective learning environment provides a sea bed with many rocks (affordances) for warping anchors (volitional acts of participant agency to transform learning) [@aagaard_teacher_2022].
-TADS and the associated metaphor of warping anchors is normally applied in settings of group action.
-
-To aid learners agency, designers notice existing paths of participants and add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points. The job of the designer is in part to identify the causes of turbulence and thus create support in a sheltered space of a harbour.
-
-
-**An example of mini TADS - use of secondary resources**
+#### **An example of mini TADS - use of secondary resources**
  <!-- REFLECTION ON BRICOLAGE? -->
 An illustrative design tension emerged surrounding which kind of documentation to prioritise. After initially steering participants directly to code snippets, I subsequently directed them instead to step by step tutorials which also included a link to the code snippets. I shifted between prioritising instruction-based practices and more piecemeal, bricolage inspired (see LR) developer practices. Whilst the process of instruction is problematic in terms of learner agency this vies with the practicality to establish a common understanding and shared framework for production.
 
