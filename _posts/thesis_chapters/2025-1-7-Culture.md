@@ -494,39 +494,12 @@ This coupling bear examination in relation to the positioning of GDPs as a leadi
 
 **Turning to the utility**
 
-Eriksson et al. note the utility of GDP concepts as a lingua franca, to help framing of analysis, to help the inspiration of participants. It should be noted that much of this analysis of the use of GDPs focused on the researcher perspective rather than that of participants.
+Eriksson et al. note the utility of GDP concepts in several dimensions: as a lingua franca between researchers and participants; to help framing of analysis; and to help the inspiration of participants. ADD MORE. It should be noted that the greater part of this analysis focuses the utility for on the researcher rather than that of participants.
+
+Thus following section develops this line of research, making more explicit the observed and potential uses of GDPS in participant game making by participants, facilitators/teachers and researchers.
 
 
-Thus following section develops this line of research, making more explicit the observed and potential uses in participant game making, as tools by facilitator and researchers. It also explores more explicitly the positioning of GDPs as an intermediate framework between concrete code implementation and the more abstract frameworks articulated above.  
-
-
-**In terms of CT,  and semantic waves**
-
-LATER?
-As a challenge Waite's findings on levels of abstraction, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
-
-However, while it is problematised in relation to agency development later, While this research doesn't negate the value of explicit teaching of computational thinking,
-
-Thus, I would propose that a design pattern approach, with structured reflection is an excellent way to do that. This was an area of development in P4, with a diagram expressed which drew on the concept of semantic waves.
-
-LINK TO DIAGRAM
-
-Then, Turning to the value of a learning map of learning dimensions, If CT is needed, then P4 developed resources suitable for such reflection. Linking from docs to descriptions. This does need development, an area of promise though.
-
-LINK TO LEARNING Map
-Turning to alignment with PBL research in digital making, as explored in the literature review a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
-
-PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
-
-
-
-
-
-MERGE WITH BELOW SECTION - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
-
-
-
-#### **Addressing utility for participants**
+#### Addressing utility for participants
 
 Recapping previous examples in vignettes. etc.  
 
@@ -544,78 +517,79 @@ Of particular relevance regarding the utility for learners in this domain of abs
 
 Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it.
 
-Reflections in progression of design in P4 showed my reluctance to lead with abstract concepts, and even in integrating them into the learning.map and documentation.
+Reflections in progression of design in P4 showed my reluctance to lead with or explicitly teach abstract concepts with CT. Further discussion on the dilemma of how explicit teaching of computational concepts should be in taken up in the following section addressing the perspective for designers / teachers.
 
-#### **Addressing utility for designers / teachers**
 
-It follows that the concerns above are also relevant for designers who want to design for these aspects.
+#### Addressing utility for designers / teachers
+
+It follows that the concerns above are also relevant for designers who want to design for these aspects, and for facilitators and teachers in these fields.
+
+Turning to alignment with PBL research in (but perhaps not limited to) digital making, a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
 
 My reflections /data support a proposition that there is utility for **facilitators** to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with.
 
-BUT WHAT ABOUT LEARNERS? HERE THE PERSPECTIVE IS BLURRED IF TEACHERS ARE STEERING TOWARDS A CURRICULUM.
+As a challenge to Waite's initial statement on the value of explicitly teaching abstraction, my own notes and reflections (see appendix.learning in particular) map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture.
 
-As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
+The close coupling between design and code structure levels in my design may not align with LOA principles given that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels" [@waite_abstraction_2018-1, p.21]. However, given that Waite's subsequent research does not include examples of activity explicitly teaching abstraction [@waite_abstraction_2018-1; @sentance_teachers_2019; @sentance_teaching_2019], what counts as explicit teaching of abstraction is not clear.
 
-Waite and colleagues [@waite_abstraction_2018-1], also identify the intermediate design level of the LOA model as that suitable for supporting grounded abstraction in learner coding.
-CAN THIS BE WRAPPED UP A BIT HERE? RESOLVE NEATLY? PRAGMATICALLY.
 
-Different purposes and contexts of learning may require different interpretations, for example greater awareness of abstract concepts for reasons of assessment. According to [@barendregt_intermediate-level_2018], in their identification of design patterns as intermediate level construct, identifying a suitable the level of abstraction is recommended to best support the goals of learners FIND REASON.  
+This question returns us to issues of how much such abstraction and other elements of abstract CT are concepts that need to be explicitly taught or something which is picked up an embedded skill through a more bricolage approach.
 
-In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture.
+As explored in Chapter 2 the literature review paints a very mixed picture in this regard and while it is problematised in relation to agency development later, this research doesn't negate the value of explicit teaching of computational thinking,
 
-I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that to further research to would be needed to justify the utility take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum constraints.
-
-This question raises issues of how much CT is actually something that is explicitly taught or something which is picked up an embedded skill through a more bricolage approach.
-As, the summary of the literature review paints a very mixed picture in terms of the value of the more abstract concepts of CT this steers us towards a no to the value of explicit teaching.
+However this research contends that GDPs are a more suitable accessible  framework than that of computational thinking when making games and as such should be the leading  and guiding pedagogical framework. If a knowledge of CT is needed by the learning context then it could be profitably explored in other ways. For example, developing resources suitable for such reflection,  for instance a learning map to be used by participants and teachers as explred in P4 . Linking from docs to descriptions of the characteristics. Thus not a leading pedagogical framework but a map of possible skills and concepts made possible by the leading activity.
 
 
 
-#### **Addressing utility/ findings for researchers and the field**
 
-It's in the following section
+
+<!-- Route-based activities with a 1:1 mapping between the design/algorithm and the code may lead to confusion between the levels. -->
+<!-- I had a reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge. My concern also reflected potential disorientation and reduced experiences of agency from imposed shifts of focus rather than self-initiated ones. I also propose that to further research to would be needed to justify the utility take the time to interrupt flow to explicitly teach abstraction, and abstract CT concepts, apart from if understanding of such concepts are required by curriculum constraints. -->
+
+
+<!-- BUT WHAT ABOUT LEARNERS? HERE THE PERSPECTIVE IS BLURRED IF TEACHERS ARE STEERING TOWARDS A CURRICULUM. -->
+
+<!-- As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
+ -->
 
 
 ### How my research contributes in this area - particularly in the conception of different pedagogies.
 
-How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs)
 
 
-#### Quick Re-framing of My pedagogical approach in a/c dimension
+<!-- #### Quick Re-framing of My pedagogical approach in a/c dimension
 
 We now return to the question.
 
 Q: What is abstraction and who useful for?
-A: In this study. GDPs are useful as a inclusive, intermediate framework, with alignment between experience and abstractions of product.  
+
+A: In this study. GDPs are useful as a inclusive, intermediate framework, with alignment between experience and abstractions of product.   -->
 
 
 #### Comparing my pedagogical framing regarding dimensions of abstract/ concrete with existing research
 
-The evidence and examples surfaced in this paragraph support a view of GDPs, as an productive intermediate-level framework and contributes a series of grounded pedagogical instances via examples.
+The evidence and examples surfaced in this paragraph support a view of a collection of GDPs, as an productive research and pedagogical framework. The data of the last chapter contributes a series of grounded pedagogical instances via examples which map a concrete pedagogical process to  theoretical observations.
 
-Thus, one of the primary contributions of this research is as a case study which underlines this perspective and which importantly maps a concrete pedagogical process to support more theoretical observations.
+As concept was originally framed in terms of it's utility for researchers in HCI, the refaming of the last section to explore its utility from the perspective of learners and teachers also requires a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of position within a hierarchy.
 
-Within this line of inquiry the characteristics would be:
+Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a framework would be that it:
 
-- guide learners to use GDPs as their primary leading activity, or object in CHAT terms
+- guides learners to use GDPs as their primary leading activity, or object in CHAT terms
 - provide a documentation supporting structure aligned to these sub-goals
-- if needed by the learning context provided a learning map to be used by participants and teachers
+- is strongly coupled with object output, ideally via rapid responses
 
-As such this research contends that as GDPs as potentially more productive and accessible pedagogical framework than that of computational thinking when making games.
-
-It is productive to ask: how can the use of GDPs as a framework be compared to that of computational thinking given CT's is a dominance in this area?
+This gateway framework driven by strong coupling between levels of abstraction, may also facilitate reflection structured using the learning map. This was an area of development in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research.
 
 
-However this does not detract from the value of learners navigating different LOA in following their interests.
-Leading with GDPs as a framework appears to support this  navigation, and at times in this research it is undertaken fluently and joyfully.
+
+PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
 
-**Applicable beyond this domain / new contributions to research area**
+<!-- However this does not detract from the value of learners navigating different LOA in following their interests.
+Leading with GDPs as a framework appears to support this  navigation, and at times in this research it is undertaken fluently and joyfully. -->
 
-While the search for intermediate design concepts is applicable in other domains, how can this research contribute to this area of research?
 
-- a stronger focus on participants and facilitators in this area.
-- which creates a larger scope of use of GDPs than that imagined by Eriksson et al. which incorporates more social / cultural uses
-- a experimental process led by participants in curating the menu of patterns (within limits set by facilitators)
+
 
 
 
@@ -626,8 +600,11 @@ While the search for intermediate design concepts is applicable in other domains
 
 ### Link to next section and signposting final discussion section
 
-MOVE - chapter 2? COMPRESS?
-In Papert's research, detailed study of young coders evolving code creations and accompanying interview data allowed a close study of the personal appropriation, including elements of understanding, application and sharing back this knowledge via created and shared digital projects.
+
+How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs)
+
+
+
 
 ADDRESSING THE RECENT SOCIAL / CULTURAL DIRECTION OF CONSTRUCTIONISM
 
@@ -644,12 +621,10 @@ Additionally while the work of Waite and Sentence begins to address sociocultura
 A process explored in the following section.
 
 
-
-The final section of this chapter returns to a guiding question of pedagogies that can support the development of computational fluency and within that participant agency.
-
+<!-- The final section of this chapter returns to a guiding question of pedagogies that can support the development of computational fluency and within that participant agency. -->
 
 
-THE FOLLOWING SECTION ADDRESSES THIS THROUGH THE LENS OF X
+
 
 
 

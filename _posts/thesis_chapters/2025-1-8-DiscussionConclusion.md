@@ -336,6 +336,17 @@ PERHAPS ONE FOR FINAL CHAPTER
 
 ## Practical implications and recommendations for practice
 
+### Transfer of collection of Design patterns as a gateway framework to other domains. 
+
+**Applicable beyond this domain / new contributions to research area**
+
+While the search for intermediate design concepts is applicable in other domains, how can this research contribute to this area of research?
+
+- a stronger focus on participants and facilitators in this area.
+- which creates a larger scope of use of GDPs than that imagined by Eriksson et al. which incorporates more social / cultural uses
+- a experimental process led by participants in curating the menu of patterns (within limits set by facilitators)
+
+
 ### Revisiting potential audiences for the research outputs of this study and how contextual factors may impact relevancy
 
 Here I return to the material of introduction and contextual factors which impact utility of this research.

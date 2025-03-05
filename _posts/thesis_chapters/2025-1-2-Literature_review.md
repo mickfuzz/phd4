@@ -1638,3 +1638,7 @@ Corporate funding code.org. (Google)
 - Tinkering -Design-based & Tinkering / Exploratory - Bevan et al
 -hci and affordance theory, technical barriers ,
 solved by design - link with contructionism
+
+
+MOVE - chapter 2? COMPRESS?
+In Papert's research, detailed study of young coders evolving code creations and accompanying interview data allowed a close study of the personal appropriation, including elements of understanding, application and sharing back this knowledge via created and shared digital projects.
