@@ -28,24 +28,16 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Types of abstraction in frameworks - recalling definitions
             or lack of clear
             definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
-            -   [Computational thinking](#computational-thinking)
-            -   [Levels of Abstraction](#levels-of-abstraction)
-            -   [Epistemological pluralism, bricolage &
-                Microworlds](#epistemological-pluralism-bricolage-microworlds)
     -   [Observations on abstract / concrete dimensions in my data
         related to gameplay design
         patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
-        -   [**Addressing utility for
-            participants**](#addressing-utility-for-participants)
-        -   [**Addressing utility for designers /
-            teachers**](#addressing-utility-for-designers-teachers)
-        -   [**Addressing utility/ findings for researchers and the
-            field**](#addressing-utility-findings-for-researchers-and-the-field)
+        -   [Addressing utility for
+            participants](#addressing-utility-for-participants)
+        -   [Addressing utility for designers /
+            teachers](#addressing-utility-for-designers-teachers)
     -   [How my research contributes in this area - particularly in the
         conception of different
         pedagogies.](#how-my-research-contributes-in-this-area---particularly-in-the-conception-of-different-pedagogies.)
-        -   [Quick Re-framing of My pedagogical approach in a/c
-            dimension](#quick-re-framing-of-my-pedagogical-approach-in-ac-dimension)
         -   [Comparing my pedagogical framing regarding dimensions of
             abstract/ concrete with existing
             research](#comparing-my-pedagogical-framing-regarding-dimensions-of-abstract-concrete-with-existing-research)
@@ -57,15 +49,12 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [The use of concepts of mediation and dual stimulation in this
         exploration of the development of agency
         -](#the-use-of-concepts-of-mediation-and-dual-stimulation-in-this-exploration-of-the-development-of-agency--)
-    -   [Summary of examples of transformational agency and instrumental
-        agency](#summary-of-examples-of-transformational-agency-and-instrumental-agency)
-    -   [Designing for increased instrumental agency and then for
-        TA?](#designing-for-increased-instrumental-agency-and-then-for-ta)
-    -   [Dilemma / Tension for the facilitator, how sketchy to make the
-        design?](#dilemma-tension-for-the-facilitator-how-sketchy-to-make-the-design)
-        -   [Danger of designing away the possibility for
-            transformational
-            agency](#danger-of-designing-away-the-possibility-for-transformational-agency)
+    -   [Instrumental Agency](#instrumental-agency)
+    -   [Transformational Agency](#transformational-agency)
+    -   [Shifting forms of agency](#shifting-forms-of-agency)
+        -   [Dilemma / Tension for the facilitator, how sketchy to make
+            the
+            design?](#dilemma-tension-for-the-facilitator-how-sketchy-to-make-the-design)
     -   [2b - Emergent activities in emergent cultural context - TAS,
         3rd Spaces, Col, Fok, idiocultures
         etc.](#b---emergent-activities-in-emergent-cultural-context---tas-3rd-spaces-col-fok-idiocultures-etc.)
@@ -102,8 +91,6 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Returning to transformational agency here and how it
             different from conceptions of developing repertoires of
             practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
-            -   [Examining complexity using identity formation and
-                specialisation](#examining-complexity-using-identity-formation-and-specialisation)
         -   [for Transformational agency, fluidity of practice of
             participants for characteristics of an emerging inclusive,
             ideoculture](#for-transformational-agency-fluidity-of-practice-of-participants-for-characteristics-of-an-emerging-inclusive-ideoculture)
@@ -139,13 +126,10 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Community concepts and norming behaviour emerging during
         playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
     -   [MoE](#moe)
-    -   [Affordances as points on a climbing wall to support
-        understandings of instrumental agency -
-        MOVE](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency---move)
-    -   [Exploring transformative agency using the metaphor of Kedging
-        anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
-        -   [LINKING TO ANCHORS TO
-            AFFORDENCES](#linking-to-anchors-to-affordences)
+    -   [**An example of mini TADS - use of secondary
+        resources**](#an-example-of-mini-tads---use-of-secondary-resources)
+
+
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
 
 <!-- ## Overview in points

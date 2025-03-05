@@ -23,6 +23,9 @@
             frameworks](#divining-authentic-frameworks)
     -   [Practical implications and recommendations for
         practice](#practical-implications-and-recommendations-for-practice)
+        -   [Transfer of collection of Design patterns as a gateway
+            framework to other
+            domains.](#transfer-of-collection-of-design-patterns-as-a-gateway-framework-to-other-domains.)
         -   [Revisiting potential audiences for the research outputs of
             this study and how contextual factors may impact
             relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contextual-factors-may-impact-relevancy)
