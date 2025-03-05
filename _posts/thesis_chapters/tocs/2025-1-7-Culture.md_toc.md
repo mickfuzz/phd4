@@ -17,6 +17,10 @@
         -   [Types of abstraction in frameworks - recalling definitions
             or lack of clear
             definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
+            -   [Computational thinking](#computational-thinking)
+            -   [Levels of Abstraction](#levels-of-abstraction)
+            -   [epistemological pluralism and bricolage &
+                Microworlds](#epistemological-pluralism-and-bricolage-microworlds)
         -   [In SUMMARY](#in-summary)
     -   [Observations on abstract / concrete dimensions in my data
         related to gameplay design
@@ -88,6 +92,8 @@
         -   [Returning to transformational agency here and how it
             different from conceptions of developing repertoires of
             practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
+            -   [Examining complexity using identity formation and
+                specialisation](#examining-complexity-using-identity-formation-and-specialisation)
         -   [for Transformational agency, fluidity of practice of
             participants for characteristics of an emerging inclusive,
             ideoculture](#for-transformational-agency-fluidity-of-practice-of-participants-for-characteristics-of-an-emerging-inclusive-ideoculture)
@@ -128,3 +134,5 @@
         MOVE](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency---move)
     -   [Exploring transformative agency using the metaphor of Kedging
         anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
+        -   [LINKING TO ANCHORS TO
+            AFFORDENCES](#linking-to-anchors-to-affordences)

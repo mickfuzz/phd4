@@ -28,6 +28,10 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Types of abstraction in frameworks - recalling definitions
             or lack of clear
             definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
+            -   [Computational thinking](#computational-thinking)
+            -   [Levels of Abstraction](#levels-of-abstraction)
+            -   [epistemological pluralism and bricolage &
+                Microworlds](#epistemological-pluralism-and-bricolage-microworlds)
         -   [In SUMMARY](#in-summary)
     -   [Observations on abstract / concrete dimensions in my data
         related to gameplay design
@@ -99,6 +103,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Returning to transformational agency here and how it
             different from conceptions of developing repertoires of
             practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
+            -   [Examining complexity using identity formation and
+                specialisation](#examining-complexity-using-identity-formation-and-specialisation)
         -   [for Transformational agency, fluidity of practice of
             participants for characteristics of an emerging inclusive,
             ideoculture](#for-transformational-agency-fluidity-of-practice-of-participants-for-characteristics-of-an-emerging-inclusive-ideoculture)
@@ -139,6 +145,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         MOVE](#affordances-as-points-on-a-climbing-wall-to-support-understandings-of-instrumental-agency---move)
     -   [Exploring transformative agency using the metaphor of Kedging
         anchors](#exploring-transformative-agency-using-the-metaphor-of-kedging-anchors)
+        -   [LINKING TO ANCHORS TO
+            AFFORDENCES](#linking-to-anchors-to-affordences)
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
 
 <!-- ## Overview in points
@@ -318,7 +326,7 @@ While the educational use of design patterns and has been explored in other sett
 ### Exploration of GDPs as mid-level construct in relation to other conceptions of abstraction in computing education research
 
 
-#### Design patterns as a intermediate-level, pedagogical framework (compared to computational thinking) - THE HYPOTHESIS
+#### Design patterns as a intermediate-level, pedagogical framework - THE HYPOTHESIS
 
 This direction of the findings of the last chapter, support findings on design patterns in other contexts as a middle ground between abstract CT concepts and more concrete techniques.
 
@@ -328,7 +336,10 @@ A similar interpretation is adopted by Eriksson and colleagues [-@eriksson_using
 
 An alignment in this framing from the design research community with CHAT interpretation of the utility of a germ cell construct can be made in terms of the utility of the process and the process of divining a abstract enough germ cell to merit application in other instances.
 
-However, given that the area of research in which this is carried out is CCI rather than that of learning computer programming or game making, it is value to examine types of abstract / concrete framework in this area. Additionally, it is important to ask who these frameworks are aimed at.
+However, given that the area of research in which this is carried out is CCI rather than that of learning computer programming or game making, it is value to examine types of abstract / concrete framework in this area.
+
+
+Additionally, it is important to ask who these frameworks are aimed at.
 
 #### Purpose of the frameworks being addressed is also relevant.
 
@@ -367,21 +378,23 @@ In this research, I conceptualised such less practical abstraction as that repre
 
 To recap this more abstract definition can be see as overarching computing principles with cross over to general design tactics.
 
-To ground this in GCSE examples.
+<!-- To ground this in GCSE examples.
 
-Iteration and Selection are in the gcse example, tick examples of them. Just recognise.
+Iteration and Selection are in the gcse example, tick examples of them. Just recognise. -->
 
-In this example, some aspect of CT are heavily structure, i.e. the process of decomposition of the template, and the docs into GDPs,
-AND the abstraction again in template via the graphical design tool.
-However, other behaviour of abstract CT can be observed.
+While Wing's emphasis on the importance of the explicit teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribution on computational thinking is  more theoretical than applied.
 
-Begs question how do you learn computation thinking in most abstract way via explicit teaching, Grover
+Begs question how do you teach computation thinking in most abstract way via explicit teaching,
+Grover, Guzdial and Merrie Bergmann - offer more explicit techniques
 
-While Wing's  emphasis on the importance of the explicity teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribtuion on computational thinking is  more theoretical than applied.
+In this learning design, certain abstract aspects of CT are strongly scaffolded, i.e. the process of code decomposition via the pre-existing functions in the code template, and abstraction again in template via the graphical design tool. The creation of core learning design feature of the the structuring of a collection of GDPs  in menu involves elements of decomposition, pattern recognition.  While the process was collaborative in goal formation the heavy lifting was carried out by myself.  
 
-Grover, Guzdial and Merrie Bergmann - offer more explicit techniques.
+Once established, the  movement between abstract and concrete elements by participants could be readily observed as explored in the next section.
+
 
 DEVELOP A LEARNING MAP APPENDIX PART TWO
+
+Addressing the aspects of
 
 
 
@@ -409,9 +422,6 @@ Comparing Wing's take on CT at the most abstract, and LOA model where the proble
 
 Waite leads with the problem to be solved, and Wing's CT concepts are explored in the design level.
 The specifics of coding constructs or even syntax at the most concrete follow after that.
-
-
-
 
 Such a spectrum is in is broadly in line with LOA interpretation,
 
