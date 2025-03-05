@@ -395,13 +395,12 @@ This learning design takes a fundamentally different approach. Abstract aspects 
 ##### Levels of Abstraction
 
 While Waite and colleagues also propose that abstraction should be explicitly taught, even to younger pupils [@waite_abstraction_2016], their approach to abstraction [@waite_abstraction_2018-1] is distinct from that just tackled in that it is grounded in an operationalised  computational model distinguishing levels of abstract to concrete, specifically, in descending order of abstraction,
-the goal or problem to be solved, the designed structure of the program, the actual coding of that design and at the most concrete level the running of the code and its outputs [@waite_abstraction_2018-1].
+the goal or problem to be solved, the designed structure of the program, the actual coding of that design and at the most concrete level the running of the code and its outputs [@waite_abstraction_2018-1]. Wing's CT concepts within the LOA model would lie in the design level.
 
-Their advocacy for the utility of awareness of levels of abstraction, based on research indicating its efficacy to support learning programming [@cutts2012abstraction; @statter_teaching_2016], states the value of learners knowing at what level of abstraction they are operating and a fluency of movement between the levels. Waite and Sentence's later work synthesised this approach with interpretation of levels of abstraction and semantic waves in a computing education aligned with a UK curricular context [@sentance_primm_2017].
 
+Their advocacy for the utility of awareness of levels of abstraction, based on research indicating its efficacy to support learning programming [@cutts2012abstraction; @statter_teaching_2016], states the value of learners knowing at what level of abstraction they are operating and a fluency of movement between the levels. Waite and Sentence's later work synthesised this approach with interpretation of levels of abstraction and semantic waves in a computing education aligned with a UK curricular context  [@sentance_primm_2017]. The focus of semantic waves aimed at teachers to help them design learning experiences which allow for participant shifts in LOA perspectives.
 <!-- This context frames the following contribution to the debate in this area. -->
 
-Wing's CT concepts within the LOA model would lie in the design level.
 
 Following Waite et al. interpretation, in the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels. Further analysis of my learning design in relation to the concept of LOA follows, after an exploration of abstract and concrete learning approaches in the work of Papert and colleagues in the following section.
 
@@ -410,16 +409,11 @@ Following Waite et al. interpretation, in the Use stage of the UMC model [@lee_c
 
 ##### Epistemological pluralism, bricolage & Microworlds
 
+In Chapter 2 the concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches which the call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal/ abstract approach that "emphasizes control and through structure and planning" [@papert_epistemological_1990, p.134]. This approach which can be characterised by the following: a top-down design processing involving extensively planning prior to coding, explicit teaching of language principles and syntax, coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft based approach where participants become very familiar with their tools and materials. The authors exploration of the types of coders as either Planners or Bricoleurs aligns with two aspects of the making styles explored briefly in Chapter 5. Bricoleur types are describes as preferring to stay in closer contact with the a concrete sense of the outcomes even to the expense of programming efficiency of neatness of code.
 
-Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning".
+This recognition and advocacy for the bricolage approach, seemingly also also challenge Waite's research on the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
 
-DEVELOP THIS  - EXAAMPLES OF ABSTRACT HERE. Top-Down Design, planning extensively first,  learning syntax and structure first, coding from first principles. Perhaps following step by step instructions.
-
-Papert and Turkle [-@papert_epistemological_1990] celebrated the exploration of the concrete in computing pedagogy, likening the process  to bricolage, a craft based approach where participants become very familiar with their tools and materials.
-
-Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review).
-
-However, Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user. Also, how does this fit with Waite's advocacy for the the alternation between poles of abstract and concrete in semantic profiles.  Such a challenge to the legitimacy of the primacy of abstract, top-down approaches to teaching coding, seemingly also also challenge Waite's rationale of the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
+THIS NEEDS WORK - MORE ON MY EXAMPLES? 
 
 A careful examination of the literature is needed here to catch the complexities present. The celebration here is of pluralism rather than the culturally prevalent one privileging abstraction. Abstraction is not seen as undesirable.
 
@@ -427,15 +421,23 @@ Papert's focus on Microworlds using the LOGO language as a vehicle to make concr
 
 This, can be perhaps profitably explored using the concept of leading activity, which in this case is play rather than instruction, and is led by the child rather than the teacher.
 
-In addition, the concept of bricolage encompasses a learning processes oriented to concrete exploration. Framed as  planning styles as bottom up tinkering compared to a top down planning style. A concept explored in the Cathedral and Bazaar.
 
-#### In SUMMARY
+
+<!-- Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). -->
+
+<!--
+
+move to lit review?
+However, Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user. -->
+
+
+<!-- #### In SUMMARY
 
 Thus in summary conceptions of abstraction above explored above include:
 
 - Wing's take on computational thinking: abstraction, decomposition, generalisation / pattern recognition, implementation via an algorithmic process.
 - A more holistic practice-based definition from Resnick, Brennan -
-- Waite's LOA - abstract here drawing on levels within the problem or product  - navigation between levels, explicit teaching of such navigation.
+- Waite's LOA - abstract here drawing on levels within the problem or product  - navigation between levels, explicit teaching of such navigation. -->
 
 ### Observations on abstract / concrete dimensions in my data related to gameplay design patterns.
 
