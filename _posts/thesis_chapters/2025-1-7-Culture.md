@@ -374,64 +374,41 @@ It is of a value to return to, what exactly is meant by the abstract within exis
 
 ##### Computational thinking
 
-In this research, I conceptualised such less practical abstraction as that represented by Wing's interpretation of computational thinking.
-
-To recap this more abstract definition can be see as overarching computing principles with cross over to general design tactics.
+In this research, I conceptualised such less practical abstraction as that represented by Wing's interpretation of computational thinking. Which as explored in Chapter 2 is a more abstract definition can be see as overarching computing principles with cross over to high level structural design approaches.
 
 <!-- To ground this in GCSE examples.
 
 Iteration and Selection are in the gcse example, tick examples of them. Just recognise. -->
 
-While Wing's emphasis on the importance of the explicit teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribution on computational thinking is  more theoretical than applied.
+While Wing's emphasis on the importance of the explicit teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribution on computational thinking is  more theoretical than applied. Begs question how do you teach computation thinking in most abstract way via explicit teaching. Grover [@grover_computational_2017; @grover_computational_2013], Guzdial [@guzdial_learner-centered_2015]- offer explicit techniques linked with computer coding. Bell and colleagues [@bell2019constructing] explore the process of unplugged activities, exploring abstract CT concepts without using computers or coding.
 
-Begs question how do you teach computation thinking in most abstract way via explicit teaching,
-Grover, Guzdial and Merrie Bergmann - offer more explicit techniques
-
-In this learning design, certain abstract aspects of CT are strongly scaffolded, i.e. the process of code decomposition via the pre-existing functions in the code template, and abstraction again in template via the graphical design tool. The creation of core learning design feature of the the structuring of a collection of GDPs  in menu involves elements of decomposition, pattern recognition.  While the process was collaborative in goal formation the heavy lifting was carried out by myself.  
-
-Once established, the  movement between abstract and concrete elements by participants could be readily observed as explored in the next section.
+This learning design takes a fundamentally different approach. Abstract aspects of CT are strongly scaffolded, i.e. the process of code decomposition via the pre-existing functions in the code template, and abstraction again in template via the graphical design tool. The process of abstraction is also present, indeed it is present in the the last section addressing the process of moving from concrete exploration to an abstract germ cell of GDP use. The subsequent structuring of the of core learning design around a collection of GDPs coupling description and implementation also involves the processes of decomposition and pattern recognition. Thus, while the process was collaborative in goal formation the heavy lifting was carried out by myself, a decision justified by focusing on more relational elements of the learning design aligned with the RQ3. In this context, Wing's CT framework describes some of the processes I have undertaken as a learning designer and researcher, but is less relevant to participants.
 
 
-DEVELOP A LEARNING MAP APPENDIX PART TWO
-
-Addressing the aspects of
+**More concrete CT**: As explored in the appendix on learning map, the more concrete elements of CT definition [@brennan_new_2012], which exist on a more applied level, are readily observed in the data as explored in the following section.
 
 
-
-**More concrete CT**
-
-Returning to the learning map. There are more concrete elements of it readily adopted on Resnick and Brennan's interpretation.
-
-What has this research got to say about the relationship between the two?
-
+<!-- What has this research got to say about the relationship between the two? -->
 <!-- **In terms of recommendations for researchers / practitioners of an intermediate framework:** -->
-
-
 <!-- As such this research has only more theoretical propositions rather than participant data. -->
 
 ##### Levels of Abstraction
 
-Waite and colleagues also propose that abstraction should be explicitly taught, even to younger pupils [@waite_abstraction_2016]. Waite and colleagues [@waite_abstraction_2018-1] also propose the utility of awareness of LOA in terms of learners knowing at what level of abstraction they are operating, although the evidence is not representative and authors call for further research.
+While Waite and colleagues also propose that abstraction should be explicitly taught, even to younger pupils [@waite_abstraction_2016], their approach to abstraction [@waite_abstraction_2018-1] is distinct from that just tackled in that it is grounded in an operationalised  computational model distinguishing levels of abstract to concrete, specifically, in descending order of abstraction,
+the goal or problem to be solved, the designed structure of the program, the actual coding of that design and at the most concrete level the running of the code and its outputs [@waite_abstraction_2018-1].
 
-Waite's interpretation of levels of abstraction and semantic waves in a computing education context is potentially relevant as example of how can contribute to the debate in this area.
+Their advocacy for the utility of awareness of levels of abstraction, based on research indicating its efficacy to support learning programming [@cutts2012abstraction; @statter_teaching_2016], states the value of learners knowing at what level of abstraction they are operating and a fluency of movement between the levels. Waite and Sentence's later work synthesised this approach with interpretation of levels of abstraction and semantic waves in a computing education aligned with a UK curricular context [@sentance_primm_2017].
 
-REWRITE
-Waite's research contains limited examples but given the broad motivation of the research to align with UK curricular context and thus elements of computational thinking, there are some complexities present that bear exploreing.
+<!-- This context frames the following contribution to the debate in this area. -->
 
-Comparing Wing's take on CT at the most abstract, and LOA model where the problem is the most abstract.
+Wing's CT concepts within the LOA model would lie in the design level.
 
-Waite leads with the problem to be solved, and Wing's CT concepts are explored in the design level.
-The specifics of coding constructs or even syntax at the most concrete follow after that.
-
-Such a spectrum is in is broadly in line with LOA interpretation,
-
-LATER?
-As a challenge Waite's findings on levels of abstraction, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
-
-THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE
+Following Waite et al. interpretation, in the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels. Further analysis of my learning design in relation to the concept of LOA follows, after an exploration of abstract and concrete learning approaches in the work of Papert and colleagues in the following section.
 
 
-##### epistemological pluralism and bricolage & Microworlds
+<!-- THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE -->
+
+##### Epistemological pluralism, bricolage & Microworlds
 
 
 Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning".
@@ -469,7 +446,10 @@ I now returning to the proposal of GDPs as a useful intermediate level framework
 
 **In terms of CT,  and semantic waves**
 
-While it is problematised in relation to agency development later, While this research doesn't negate the value of explicit teaching of computational thinking,
+LATER?
+As a challenge Waite's findings on levels of abstraction, my own notes and reflections in appendix.learning map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making.
+
+However, while it is problematised in relation to agency development later, While this research doesn't negate the value of explicit teaching of computational thinking,
 
 Thus, I would propose that a design pattern approach, with structured reflection is an excellent way to do that. This was an area of development in P4, with a diagram expressed which drew on the concept of semantic waves.
 

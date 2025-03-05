@@ -407,7 +407,7 @@ Side missions or side quests are also used in open world games are used in part 
 
 the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_ - from parents is explored here
 
-ADD IN DETAIL FROM P3 - 
+ADD IN DETAIL FROM P3 -
 
 
 ### Appendix.drama - Drama process -
@@ -536,12 +536,21 @@ Also the knowledge of the GDP helps ability to recognise patterns in the code. L
 I could trust my instincts as a facilitator to not detract attention from participants following an organic and flexible pattern of implementation, self-testing, improvement and playtesting.
 In the language of activity theory the change of objective denotes is a shift in scope of the activity system.
 
+
+#### The more abstract definiton of CT
+
+In Chapter 7, I outline how design decisions requiring the application of abstract CT concepts based on Wings definition were to a great extent black boxed in the learning design outlined in Chapter 5.
+
+However, the design also allowed people to forge their own path and make diversion from the suggested genre and choice of GDPs. 
+
 Even, taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
 
+_Abstraction_:  identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter. The work of Dan and Toby beyond the template?
 _Decomposition_: example of parents helping children break a larger problems into more manageable steps e.g one parent suggests to his child "Save that for version 1.1".  
 _Generalisation / pattern recognition_ is present in the majority of participants as patterns are readily available to participants in starting code and the extra patches that are added. The process is repeated.
 _Sequencing / algorithms_ are frequently explored in the resolution of errors with participants. This exploration focuses on the potential of the 3M learning design rather than making claims on the suitability to develop CT via game making which is explored extensively in other research. Conceptions of personal appropriation should not be limited to only the curricular concepts included in the learning map, the many of the behaviours explored above show both the appropriation and feeding back of varied understandings of game design patterns and related concepts and skills. The process of reusing and modify code to create a computer game can surface both abstract and concrete computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. While the design of this study does not suit full exploration of the personal plane of activity, the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge and design processes.
-In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?). _Abstraction_, identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter.
+In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?).
+
 
 Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
 
