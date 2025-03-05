@@ -38,6 +38,8 @@
             -   [Tensions involving explicit teaching of curricular
                 concepts or
                 not](#tensions-involving-explicit-teaching-of-curricular-concepts-or-not)
+            -   [The more abstract definiton of
+                CT](#the-more-abstract-definiton-of-ct)
             -   [Reflection on personal appropriation of
                 concepts](#reflection-on-personal-appropriation-of-concepts)
         -   [Appendix.digitalliteracy](#appendix.digitalliteracy)

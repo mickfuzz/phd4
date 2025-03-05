@@ -10,8 +10,8 @@
         conceptions of abstraction in computing education
         research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
         -   [Design patterns as a intermediate-level, pedagogical
-            framework (compared to computational thinking) - THE
-            HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking---the-hypothesis)
+            framework - THE
+            HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework---the-hypothesis)
         -   [Purpose of the frameworks being addressed is also
             relevant.](#purpose-of-the-frameworks-being-addressed-is-also-relevant.)
         -   [Types of abstraction in frameworks - recalling definitions
@@ -19,9 +19,8 @@
             definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
             -   [Computational thinking](#computational-thinking)
             -   [Levels of Abstraction](#levels-of-abstraction)
-            -   [epistemological pluralism and bricolage &
-                Microworlds](#epistemological-pluralism-and-bricolage-microworlds)
-        -   [In SUMMARY](#in-summary)
+            -   [Epistemological pluralism, bricolage &
+                Microworlds](#epistemological-pluralism-bricolage-microworlds)
     -   [Observations on abstract / concrete dimensions in my data
         related to gameplay design
         patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)

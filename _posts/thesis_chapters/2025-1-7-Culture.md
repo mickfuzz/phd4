@@ -21,8 +21,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         conceptions of abstraction in computing education
         research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
         -   [Design patterns as a intermediate-level, pedagogical
-            framework (compared to computational thinking) - THE
-            HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework-compared-to-computational-thinking---the-hypothesis)
+            framework - THE
+            HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework---the-hypothesis)
         -   [Purpose of the frameworks being addressed is also
             relevant.](#purpose-of-the-frameworks-being-addressed-is-also-relevant.)
         -   [Types of abstraction in frameworks - recalling definitions
@@ -30,9 +30,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
             -   [Computational thinking](#computational-thinking)
             -   [Levels of Abstraction](#levels-of-abstraction)
-            -   [epistemological pluralism and bricolage &
-                Microworlds](#epistemological-pluralism-and-bricolage-microworlds)
-        -   [In SUMMARY](#in-summary)
+            -   [Epistemological pluralism, bricolage &
+                Microworlds](#epistemological-pluralism-bricolage-microworlds)
     -   [Observations on abstract / concrete dimensions in my data
         related to gameplay design
         patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
@@ -413,11 +412,15 @@ In Chapter 2 the concepts and legacy of Papert and Turkle's [-@papert_epistemolo
 
 This recognition and advocacy for the bricolage approach, seemingly also also challenge Waite's research on the importance of alternating between abstract and concrete dimensions present in research on semantic waves, and the value of participants being aware of the level of abstraction at which they are working.
 
-THIS NEEDS WORK - MORE ON MY EXAMPLES? 
+My research is relevant here in that my observations show many of my participants operating as bricoleurs, feeling their way through their game making via smaller scale iteration (a process encouraged by the learning design). My findings show that, the shifts in LOA Waite advocate are present in this bricolage process. Shifts between conceptions of goals, implementation in code structures, and observations of results are happening.
+
+What is different is from a Papert, and perhaps Wing's concept of a top down planner, is the level of abstraction present at the design level of the LOA framework. Bricoleurs avoid structures which take them away from the concrete via abstraction processes.
+
+Papert's focus on Microworlds using the LOGO language as a vehicle to make concrete previously abstract mathematical concepts, seems to locate the exploration of abstract knowledge as a learning goal. My design process aligns with the rational of Microworld design, in that I have already undertaken some of that abstraction or blackboxing in the starting template.
+
+THIS NEEDS WORK - MORE ON MY EXAMPLES - CHECK BELOW TO MOVE UP?
 
 A careful examination of the literature is needed here to catch the complexities present. The celebration here is of pluralism rather than the culturally prevalent one privileging abstraction. Abstraction is not seen as undesirable.
-
-Papert's focus on Microworlds using the LOGO language as a vehicle to make concrete previously abstract mathematical concepts, seems to locate the exploration of abstract knowledge as a learning goal.
 
 This, can be perhaps profitably explored using the concept of leading activity, which in this case is play rather than instruction, and is led by the child rather than the teacher.
 
