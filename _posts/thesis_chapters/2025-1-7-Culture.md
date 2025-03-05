@@ -331,7 +331,9 @@ This direction of the findings of the last chapter, support findings on design p
 
     In order to be useful, patterns must present an abstraction of good practice at a meaningful level of granularity. Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios.[@dearden_pattern_2006, p. 20]
 
-A similar interpretation is adopted by Eriksson and colleagues [-@eriksson_using_2019] using gameplay design patterns with young people which drew inspiration from research on  value of design patterns as a form of "intermediate-level concept" [@barendregt_intermediate-level_2018], a form of "representation of knowledge in-between  general theories and particular artefacts in terms of abstraction and  generalizability" [@eriksson_using_2019, p.15].  
+A similar interpretation is adopted by a grouping of HCI researchers exploring the value of "intermediate-level concepts" [@barendregt_intermediate-level_2018; @hook_strong_2012], as a form of "representation of knowledge in-between general theories and particular artefacts in terms of abstraction and generalizability" [@eriksson_using_2019, p.15]. Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010].
+
+The work of Eriksson et al. [-@eriksson_using_2019, p.15] using gameplay design patterns with young people draws inspiration from this research on value of design patterns.  
 
 An alignment in this framing from the design research community with CHAT interpretation of the utility of a germ cell construct can be made in terms of the utility of the process and the process of divining a abstract enough germ cell to merit application in other instances.
 
@@ -404,6 +406,25 @@ Their advocacy for the utility of awareness of levels of abstraction, based on r
 Following Waite et al. interpretation, in the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels. Further analysis of my learning design in relation to the concept of LOA follows, after an exploration of abstract and concrete learning approaches in the work of Papert and colleagues in the following section.
 
 
+Turning  to a synthesis of my finding with those of Waite et al on levels of abstraction, while the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
+
+
+| **Level**            | **Focus** | **Example** |
+|----------------------|----------|-------------|
+| **Conceptual Level**  | Thinking about the GDPs to be added to the game | Goal formation, prioritisation |
+| **Design Level**  | GDP supporting documentation scaffolds this process  | What it should do is to a large extent preset via documentation. |
+| **Code Level**  | Writing the actual code, is supported via code patching  | is supported via code patching, and a structure which encourages modification |
+| **Execution Level**  | Understanding the outputs | A strong correlation between goal and outcome, as playing the game product is very immediate. |
+
+Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
+
+
+With this focus, we can analyse my learning design where movement between layers of abstraction and concrete is happening.
+
+However, this is not a neat semantic sine wave.
+Specifically the flexible nature of the design practices shows shifting rapidly and sometimes chaotically.
+
+
 <!-- THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE -->
 
 ##### Epistemological pluralism, bricolage & Microworlds
@@ -444,9 +465,39 @@ Thus in summary conceptions of abstraction above explored above include:
 
 ### Observations on abstract / concrete dimensions in my data related to gameplay design patterns.
 
-**Turning to my design / analyis**
+1. positioning as intermediate
+2.  looking at distinction in different studies in context
 
-I now returning to the proposal of GDPs as a useful intermediate level framework,  given the framing of abstract in summary above, and explore this proposal using the findings of my research process.  
+
+
+I now returning to the proposal of GDPs as a useful intermediate level framework, given the framing of abstract in summary above, and explore this proposal using the findings of my research process.  
+
+**positioning as intermediate**
+
+Let us first re-examine the utility of term intermediate framework [@eriksson_using_2019]. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction. Whereas the more potentially transferable concepts of Wing's take of CT would form a candidate for a higher generalisable theory which GDPs sit between that and concrete implementation. In the research of Eriksson et al (and the others) on GDPs [-@eriksson_using_2019], the positioning as GDPs as an intermediate construct compared, the nature of the general theories are not clearly articulated. At this stage it is of value to looking past a potentially arbitrary placing of these levels of a hierarchy, to investigate instead the core value of the intermediate nature of the framework in the context of my research.  
+
+<!-- To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns. -->
+
+ANYTHING HERE ON REPENNING?
+
+
+<!-- Thus the general theories may relate to the researchers field in practice, that of Child-Computer Interaction (CCI) [@lehnert_childcomputer_2022], as the theories of this domain  would be less accessible to children than their framework of a carefully chosen collection of GDPs. -->
+
+**The nature of intermediacy in the work of Eriksson et al and my own to framing analysis**
+
+
+One of the more developed work in GDP as such a framework is in Eriksson et al. The context of their GDP study is distinct in that whereas the young people in the Stringforce study are making design suggestions to alter a game they are not making their own games by modifying computer code.
+
+This distinction is important as it drove a modification of their use of design patterns. Instead of a strongly coupled link between motivation, description and implementation articulated as a problem-solution structure which is present in convention conceptions of design patterns to focus only on descriptions of patterns rather than any detail of solution. In my design by contrast there is strong coupling between the role, description and implementation as illustrated by the structure of the supporting resources outlined in Chapter 5.
+
+This coupling bear examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treating the implementation of each GDPs as an activity system in itself. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participant can use the affordances of the design to traverse different LOA as articulated by Waite.
+
+**Turning to the utility**
+
+Eriksson et al. note the utility of GDP concepts as a lingua franca, to help framing of analysis, to help the inspiration of participants. It should be noted that much of this analysis of the use of GDPs focused on the researcher perspective rather than that of participants.
+
+
+Thus following section develops this line of research, making more explicit the observed and potential uses in participant game making, as tools by facilitator and researchers. It also explores more explicitly the positioning of GDPs as an intermediate framework between concrete code implementation and the more abstract frameworks articulated above.  
 
 
 **In terms of CT,  and semantic waves**
@@ -468,40 +519,11 @@ Turning to alignment with PBL research in digital making, as explored in the lit
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
 
-**LOA**
 
-Turning  to a synthesis of my finding with those of Waite et al on levels of abstraction, while the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
-
-
-| **Level**            | **Focus** | **Example** |
-|----------------------|----------|-------------|
-| **Conceptual Level**  | Thinking about the GDPs to be added to the game | Goal formation, prioritisation |
-| **Design Level**  | GDP supporting documentation scaffolds this process  | What it should do is to a large extent preset via documentation. |
-| **Code Level**  | Writing the actual code, is supported via code patching  | is supported via code patching, and a structure which encourages modification |
-| **Execution Level**  | Understanding the outputs | A strong correlation between goal and outcome, as playing the game product is very immediate. |
-
-Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
-
-
-With this focus, we can analyse my learning design where movement between layers of abstraction and concrete is happening.
-
-However, this is not a neat semantic sine wave.
-Specifically the flexible nature of the design practices shows shifting rapidly and sometimes chaotically.
 
 
 MERGE WITH BELOW SECTION - OR BE CLEAR HOW DIFFERENT DATA / ANALYSIS
 
-**On intermediate analysis**
-
-To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns.
-
-ANYTHING HERE ON REPENNING?
-
-In the research of Eriksson et al on GDPs and young people co-revising an existing digital game with researchers [-@eriksson_using_2019], the positioning as GDPs as an intermediate construct between general theories and more concrete implementation. In their research, the nature of the general theories are not clearly articulated. This may in part be due to their decoupling of the problem-solution structure present in convention conceptions of design patterns to focus only on descriptions of patterns rather than any detail of solution. Thus the general theories may relate to the researchers field in practice, that of Child-Computer Interaction (CCI) [@lehnert_childcomputer_2022], as the theories of this domain  would be less accessible to children than their framework of a carefully chosen collection of GDPs.
-
-In summary, Eriksson et al. note the utility of GDP concepts as a lingua franca, to help framing of analysis, to help the inspiration of participants. It should be noted that much of this analysis of the use of GDPs focused on the researcher perspective rather than that of participants.
-
-Thus following section develops this line of research, making more explicit the observed and potential uses in participant game making, as tools by facilitator and researchers. It also explores more explicitly the positioning of GDPs as an intermediate framework between concrete code implementation and the more abstract frameworks articulated above.  
 
 
 #### **Addressing utility for participants**
