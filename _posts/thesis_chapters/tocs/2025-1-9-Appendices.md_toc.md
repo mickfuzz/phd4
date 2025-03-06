@@ -82,6 +82,9 @@
                 prototyping](#appendix.tech.prototyping-use-of-visual-prototyping)
             -   [Using Phaser 2 not 3 & Game
                 States](#using-phaser-2-not-3-game-states)
+                -   [Template structure and asset placement - Add in
+                    Chapter tutorial example extract here
+                    too](#template-structure-and-asset-placement---add-in-chapter-tutorial-example-extract-here-too)
     -   [Technical Appendix Two - On reaction to
         tech](#technical-appendix-two---on-reaction-to-tech)
         -   [Appendix.debugging GDPs used to nurture tactical responses
