@@ -564,8 +564,6 @@ Within this line of inquiry concerning navigation of different levels of abstrac
 
 This gateway framework driven by strong coupling between levels of abstraction, may also facilitate reflection structured using the learning map. This was an area of development in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research.
 
-
-
 PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
 
 
@@ -583,33 +581,18 @@ Leading with GDPs as a framework appears to support this  navigation, and at tim
 ### Link to next section and signposting final discussion section
 
 
-How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs)
-
+<!-- How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs) -->
 
 ADDRESSING THE RECENT SOCIAL / CULTURAL DIRECTION OF CONSTRUCTIONISM
 
-Much subsequent research on the use of coding to develop both concrete and more abstract computational thinking skills, has neglected this social and perspectives [find source], instead focusing on a personal dimension of learning as a curricular skill to be absorbed and tested.
-
-By way of contrast, this study is aligned with the development of the constructionist movement towards socio-cultural approaches to transcend individual personal conceptions of knowledge (exemplified by the problems associated with the UK computing curriculum)
-
-The issue transcends issues of efficacy of how to support the coding process to address the underlying goals of the activity. While I align with the articulation of Resnick of computational fluency, (reactions to) this line of research has focused on toolsets rather than pedagogies (in a way which also frustrates Resnick [@resnick_seeds_2020]). These include physical computing, use of textiles [].
+In the previous analysis of the use of GDPs through the lens of research on the aspect and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. As noted in Chapter 2, much research on the learning to coding has focused chiefly on this aspect of personal knowledge construction,  neglected this social and perspectives typified by socio-cultural approaches [find source]. This trend is exemplified by a comparison of Wing and Papert's conceptions of computational thinking [@lodi_computational_2021], with the latter's additional focus on the community application of created projects forms the motivational basis of much of constructionism in the process of creating objects to share. Thus, the issue at hand transcends concepts of efficacy of how to support the coding process to address the underlying goals of the activity. Following the legacy of constructionism to the present day, the articulation of Resnick of computational fluency, addresses the limitations of research focusing too narrowly on technical approaches rather than their expressive potential (and thus withing a community) [@resnick_coding_2020] and focused on toolsets rather than pedagogies [@resnick_seeds_2020]. We should recall here the parallel call of Kafai and Burke in the field of game making for learning to address social and cultural motivations and aspects of the process [@kafai_constructionist_2015-1].
 
 
-Additionally while the work of Waite and Sentence begins to address sociocultural aspects [@sentance_teaching_2019; @hwang_using_2023], this work integrates the aims of inclusion more closely within the project goals.
-
-A process explored in the following section.
-
+In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects [@sentance_teaching_2019; @hwang_using_2023], this work is limited in scope and merits further attention. The following section addresses discussion on the social and cultural aspects of this study using the development of varied forms of participant agency as an analytical lens.
 
 <!-- The final section of this chapter returns to a guiding question of pedagogies that can support the development of computational fluency and within that participant agency. -->
 
-
-
-
-
-
 ## Part Two - Agency
-
-
 
 
 ### 2.a Affordances, Mediation, TADS,
