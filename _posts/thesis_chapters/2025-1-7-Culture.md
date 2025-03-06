@@ -77,11 +77,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [The importance of, and activities which, supporting
                 identity development in the design /
                 field](#the-importance-of-and-activities-which-supporting-identity-development-in-the-design-field)
-            -   [Returning to transformational agency here and how it
-                different from conceptions of developing repertoires of
-                practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
-                -   [Examining complexity using identity formation and
-                    specialisation](#examining-complexity-using-identity-formation-and-specialisation)
+            -   [Examining complexity using identity formation and
+                specialisation](#examining-complexity-using-identity-formation-and-specialisation)
     -   [Part Three : Synthesis in relation to Issues of inclusive
         pedagogy UDL, UMC, MOE,
         PBL.](#part-three-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
@@ -89,6 +86,9 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             development within Idiocultures / 3rd spaces - PARK FROM A
             BIT AND COME BACK TO
             THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
+            -   [Returning to transformational agency here and how it
+                different from conceptions of developing repertoires of
+                practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
         -   [Metaphors of harbours and playgrounds as a way to explore
             conceptions of (relational)
             agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
