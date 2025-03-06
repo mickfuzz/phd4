@@ -897,7 +897,6 @@ Example of alignment.
 Example of how extending with DPs as a framework could be fruitful, developing and synthesising last chapter arguments.
 
 
-
 In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this.
 
 
@@ -967,8 +966,6 @@ While development of relational agency is a part of the social and cultural aspe
 As such, I draw on concrete examples in my research as a contribution to applied research in this promising field.
 
 
-
-
 #### Relational Agency (and equity) in response to a series of stimuli participant identity
 
 WHAT IS THE KEY POINT HERE?
@@ -977,8 +974,6 @@ The use of GDPs helped the goal of x in y ways.
 One element of the repertoires.
 Beyond that... social missions?
 The style of making, the type.
-
-
 
 
 Relational agency in developing expertise is shown in many of the vignettes.
@@ -1003,6 +998,11 @@ The use of metaphor here has two functions. The first is to help deepen my analy
 In this case metaphors concerning learning spaces and movement between spaces are often found in existing research including: walled gardens, playgrounds, sandboxes, harbours. This section aims to draw from these metaphors relatable core principles which may help the impact of this research.
 
 #### Harbours - authentic and restrictive
+
+
+**Characteristics of a harbour**
+
+Harbours are protective spaces suitable for docking of ships, at times natural or man-made with protection offered by artificially created harbour walls extending out into the sea creating a sheltered space, prevent large waves from entering but also allowing movement out into the open sea, the possibility for refuelling or maintaining sea vessels and infrastructure to connect to rail or road links for transport in-land. The term harbour is used metaphorically to indicate a space of safety, nurturing and a gathering space for like minds.
 
 
 **Design as simplification**
