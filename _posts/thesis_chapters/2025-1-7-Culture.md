@@ -820,7 +820,7 @@ Whereas FI do x, SDE do y? <- too much.. -->
 
 In research which addresses participant agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings. While these concepts build on the foundation of 3GAT in terms of conceptions of interacting activity systems [@engestrom_development_1996], they include concepts distinct from those explored in the Helsinki schools form of formative intervention Change Labs. This section explores the findings of previous chapters using three of these concepts of that or third spaces, idiocultures and repertoires of practice. Specifically positioning the idioculture of the game making program as a sum of emerging repertoires of practice of participants and practitioners happening in a third space.
 
-This section will contend that relational agency is the closest fit to match the development of these three elements but will compexify this via comparative analysis with transformational agency in the final section.
+This section contends that relational agency is the closest fit to match the development of these three elements but will complexify this via comparative analysis with transformational agency in the final section.
 
 
 <!-- While this framings includes concepts already explored in sociocultural field including CoP, CoL,  -->
@@ -842,16 +842,30 @@ This section begins with a closer look at playtesting as a medium of development
 One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces. Most notably this is seen within the sections on divisions of labour and use of funds of knowledge and identity. Examples include: being the identification with graphical art and the development of specialism in Madiha's family, the general use of game playing knowledge, home pedagogies like paper based sketching and more professional knowledge brought by Dan. This blending of the use of GDP concepts, in-template affordence, supporting resources, with such knowledge and practices from other activity systems can be analysed using the concept of repertoires. Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22]. Other research by Gutierrez addresses the importance of participants movement between sites of activity and its impact on learning [@gutierrez_developing_2008; @gutierrez_learning_2019-1].
 
 
+##### Linking repertoires to my study / learning design & designing for agency
 
 The data of this study provides a strong case study, evidence and detail to this process in the use of external repertoires and their remediation into new repertoires.
 
-IS THIS NEEDED.
-Given the social nature of the learning environment with extensive periods of time being spent in playtesting, the sum of these emerging repertoires can be framed as a development of a game making idioculture [].
+The process of developing new repertoires is not a solo process in this new space. The complex relations between participants outlined in the vignettes and data of the last chapter show an interdependence showing characteristics of relational agency.
+
+Edwards  [@edwards2009systemic] explores relational agency within a CHAT framework as transcending individuals capacity to encompass collective problems solving via specialisation and diversity of approaches within activity systems. As a collective participants can overcome systemic contradictions via expansive learning, rearranging working relationships and thus opening new forms of relational agency. This concept is illustrated by the importance of feedback in community making and tinkering activities leading to increased "relational expertise" in partipants [@digiacomo_relational_2016; @digiacomo_relational_2016-1,p.144],
+
+
+In the context of my study the role of forllowing design features of the learning environment bear greater exploration.
+
+- the role playtesting in development of relational agency  
+- analysis of additional activities helping the development of learner identities
+- how the use of GDPs helped the development of repertoires? Not sure
+
+
+
+
+
+The following section explore - HOW REPERTOIRES CAN BE ENCOURAGED.
 
 
 MOVE - NATURE OF TRANSFORMATION .
-Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices.
-In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
+Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
 
 While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs, this chapter widens the focus of data examined to include other element of practices which help participants incorporated home repertoires as an inclusive practice. For example, the role of play as leading activity is explored by Gutierrez [gutierrez_learning_2019-1] to facilitate movement between sites of learning, an analysis on the role of playtesting and an emerging form of playful playtesting follows.
 
@@ -860,6 +874,11 @@ While the data in the last chapter address aspects / elements of repertoires whi
 
 
 As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018].
+
+IS THIS NEEDED.
+Given the social nature of the learning environment with extensive periods of time being spent in playtesting, the sum of these emerging repertoires can be framed as a development of a game making idioculture [].
+
+
 
 In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
 
@@ -872,19 +891,9 @@ See Appendix.playtestingtypes
 
 The process of play testing as a cultural process is explored in more depth now.
 
-#### Use of GDPs in supporting Playtesting  / Discussion on the role of playtesting in particular as a suitable medium (third space)
 
-I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities.
 
-Not only the cultural uses of GDPs, but other processes (DO i ACTUALLY HAVE ANY OF THESE IN EVIDENCE? )
-
-As such, the nature and process of this community evolution merits exploration.
-
-I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
-
-One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
-
-#### The importance of supporting identity development in the design / field
+#### The importance of, and activities which,  supporting identity development in the design / field
 
 Stone and colleagues [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
 
@@ -928,7 +937,17 @@ While the use of social missions is not novel,
 My contribution is that using GDPs as a framework helps this process.
 
 
+#### Use of GDPs in supporting the role of playtesting in particular as a suitable medium (third space)
 
+I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities.
+
+Not only the cultural uses of GDPs, but other processes (DO i ACTUALLY HAVE ANY OF THESE IN EVIDENCE? )
+
+As such, the nature and process of this community evolution merits exploration.
+
+I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
+
+One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
 
 
 <!-- **beyond primary and secondary tools / stimulation conception**
@@ -970,15 +989,7 @@ As such, I draw on concrete examples in my research as a contribution to applied
 
 WHAT IS THE KEY POINT HERE?
 
-The use of GDPs helped the goal of x in y ways.
-One element of the repertoires.
-Beyond that... social missions?
-The style of making, the type.
 
-
-Relational agency in developing expertise is shown in many of the vignettes.
-
-Edwards on relational agency via CHAT [@edwards2009systemic]
 
 <!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
 
