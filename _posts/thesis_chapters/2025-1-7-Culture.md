@@ -583,7 +583,6 @@ Leading with GDPs as a framework appears to support this  navigation, and at tim
 
 <!-- How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs) -->
 
-ADDRESSING THE RECENT SOCIAL / CULTURAL DIRECTION OF CONSTRUCTIONISM
 
 In the previous analysis of the use of GDPs through the lens of research on the aspect and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. As noted in Chapter 2, much research on the learning to coding has focused chiefly on this aspect of personal knowledge construction,  neglected this social and perspectives typified by socio-cultural approaches [find source]. This trend is exemplified by a comparison of Wing and Papert's conceptions of computational thinking [@lodi_computational_2021], with the latter's additional focus on the community application of created projects forms the motivational basis of much of constructionism in the process of creating objects to share. Thus, the issue at hand transcends concepts of efficacy of how to support the coding process to address the underlying goals of the activity. Following the legacy of constructionism to the present day, the articulation of Resnick of computational fluency, addresses the limitations of research focusing too narrowly on technical approaches rather than their expressive potential (and thus withing a community) [@resnick_coding_2020] and focused on toolsets rather than pedagogies [@resnick_seeds_2020]. We should recall here the parallel call of Kafai and Burke in the field of game making for learning to address social and cultural motivations and aspects of the process [@kafai_constructionist_2015-1].
 
@@ -610,12 +609,11 @@ In a UK computing education context, while the work of Waite and Sentence begins
 
 A guiding principle of this section is that given the motivation (either primary or secondary) of participant empowerment in learning to program, and thus the value of designing and facilitating participant agency in the ongoing process, that it is profitable to articulate different types of agency.
 
-Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format.
-
-This section analyses these tensions and presents related finding using varied conceptions of agency aligned to the sociocultural theoretical framework of this study.
+This section analyses the findings of the previous chapters using varied conceptions of agency aligned to the sociocultural theoretical framework of this study.
 
 
 
+<!-- Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format. -->
 
 <!-- ### Justifying the use of Metaphors in these FINDINGS - CONCLUSION?
 
@@ -625,26 +623,13 @@ There is a good tradition of metaphors in this space with Papert's low threshold
 
 Metaphors are another vehicle to explore concepts, and different means of representation are a valid from of inclusive communication [UDL link]   -->
 
-
-
-
-### The use of concepts of mediation and dual stimulation in this exploration of the development of agency -
-
-As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter).
-
 <!-- This section explores these conceptions using the core AT concepts of mediation and dual stimulation explored in Chapter 3 to illuminate pedagogical development related to the interaction of designed and emergent tools and processes, shedding light on dimensions of participant agency. -->
 
-To summarise similarities and distinctions between mediation and double stimulation  [@isaac_cultural_2022], it is beyond an instrumental approach to provoke change in the enviroment.
-
 <!-- Hopwood [@hopwood_agency_2022] explores varied interpretations between mediation and double stimulation, exposing varied interpretations of mediation and ds's special interpretation by Sannino, and the difficulties of then comparing the models of agency.     -->
-
 
 <!-- DROP?
 While the affordances built into the code playground are valid secondary stimuli in initial in helping to seed initial activity,
 supporting documentation can be seen as a form of secondary stimulation more aligned to the process of building agency. -->
-
-
-
 
 <!-- RETURNING TO THE TENSIONS OF AUTHENCITY IN CH.5 AND TABLE AND IMPACT ON AGENCY. -->
 <!-- Other tensions were resolved with more fundamental shifts to the overall structure of the activity which can be said to align more closely with the concept of transformative (authorial agency) agency.
@@ -659,6 +644,11 @@ Introducing additional tools in the form of documentation to the initial coding 
 
 
 ### Instrumental Agency
+
+
+As previously explored, varied conceptions of agency exist including: instrumental, authorial and transformative agency [@matusov_mapping_2016]. (See methodology chapter).
+
+To summarise similarities and distinctions between mediation and a transformative approach  [@isaac_cultural_2022], it is beyond an instrumental approach to provoke change in the environment.
 
 The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
 
@@ -752,7 +742,7 @@ Integrate research on engendering authorial and transformative agency [@engestro
 
 
 
-#### Dilemma / Tension for the facilitator, how sketchy to make the design?
+#### Dilemma / Tension for the facilitator, how sketchy to make the design? PERHAPS MOVE TO END TO ALLOW CF WITH RELATIONAL AGENCY?
 
 The dilemma here of transformational happening most for participants in P1, and you can design OUT transformational agency, hence sketchy pedagogies
 
@@ -780,7 +770,10 @@ As a learning designer, design decisions to reduce practical tensions, increase 
 
 Later participants have less opportunity for transformative agency in terms of how their input transforms the context and structure of the learning design.  
 
-This invites a question: is nurturing transformative agency by creating space for emergent practices sustainable or desireable for ongoing iterations?
+This invites a question: is nurturing transformative agency by creating space for emergent practices sustainable or desirable for ongoing iterations?
+
+To retain this potential for transformation
+it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
 
 How much of the learning design can/should be transferred to other settings.
 
@@ -795,8 +788,7 @@ INTEGRATE SOME OF THIS INTO THE SECTIONS OR THE DISCUSSION ABOVE ON
 
 A possible
 
-To retain this potential for transformation
-it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
+
 
 And the danger of being too instrumental if the design is too complete.
 
@@ -815,82 +807,63 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 
 
-### 2b - Emergent activities in emergent cultural context - TAS, 3rd Spaces, Col, Fok, idiocultures etc.
-
-MERGE THIS PLAN WITH ABOVE - NOT 2A AND 2B.
+### 2c - Relational Agency in emergent activities in emergent cultural context - 3rd Spaces, idiocultures, and repertoires
 
 
-This need restructuring
+<!-- In the last section using TADS and mediation helps analyse findings in personal (and guided participation) aspects of Chapter 6.  -->
+
+This section moves beyond instrumental and transformative agency to a wider more ecological interpretation of agency helpful in deeper analysis of the cultural plane of activity.
+
+<!-- POSSIBLY?
+This helps inform a distinction between FI and SDE,
+Whereas FI do x, SDE do y? <- too much.. -->
+
+In research which addresses participant agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings. While these concepts build on the foundation of 3GAT in terms of conceptions of interacting activity systems [@engestrom_development_1996], they include concepts distinct from those explored in the Helsinki schools form of formative intervention Change Labs. This section explores the findings of previous chapters using three of these concepts of that or third spaces, idiocultures and repertoires of practice. Specifically positioning the idioculture of the game making program as a sum of emerging repertoires of practice of participants and practitioners happening in a third space.
+
+This section will contend that relational agency is the closest fit to match the development of these three elements but will compexify this via comparative analysis with transformational agency in the final section.
 
 
+<!-- While this framings includes concepts already explored in sociocultural field including CoP, CoL,  -->
+
+DROp?
+This section begins with a closer look at playtesting as a medium of development of practices, a mini third space
 
 
-1. Intro  Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity - and relational agency [@digiacomo_relational_2016-1]
+<!-- 1. Intro  Gutierrez - 3rd space and Fok + examples in this research, this view of agency has a greater focus on participant identity - and relational agency [@digiacomo_relational_2016-1]
 2. value of different Metaphors - types of spaces,  habour, playground / sandbox - used for different reasons but all about ecological aspects
 3. Harbour, walled garden, restrictions  and authenticity in tool use
 
-4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming
+4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming -->
+
+####  Observations on repertoires playtesting / space based understandings
+
+**More on Funds of Knowledge / repertoires and how they emerge in my research**
+
+One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces. Most notably this is seen within the sections on divisions of labour and use of funds of knowledge and identity. Examples include: being the identification with graphical art and the development of specialism in Madiha's family, the general use of game playing knowledge, home pedagogies like paper based sketching and more professional knowledge brought by Dan. This blending of the use of GDP concepts, in-template affordence, supporting resources, with such knowledge and practices from other activity systems can be analysed using the concept of repertoires. Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22]. Other research by Gutierrez addresses the importance of participants movement between sites of activity and its impact on learning [@gutierrez_developing_2008; @gutierrez_learning_2019-1].
 
 
 
-### Intro to this section - space / place related conceptions of agency
+The data of this study provides a strong case study, evidence and detail to this process in the use of external repertoires and their remediation into new repertoires.
 
-In the last section using TADS and mediation helps analyse findings in personal and guided participation aspects of Chapter 6. This section moves beyond TA to a wider more ecological interpretation of agency helpful in deeper analysis of the cultural plane of activity.
+IS THIS NEEDED.
+Given the social nature of the learning environment with extensive periods of time being spent in playtesting, the sum of these emerging repertoires can be framed as a development of a game making idioculture [].
 
-POSSIBLY?
-This helps inform a distinction between FI and SDE,
-Whereas FI do x, SDE do y? <- too much..
 
-In research which addresses transformative agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings, in ways which are not generally explored in Change Labs approaches.  
+MOVE - NATURE OF TRANSFORMATION .
+Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices.
+In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
 
-While this framings includes concepts already explored in sociocultural field including CoP, CoL, this section is structured around the previously described concepts of idiocultures [Cole], and repertoires of practice. Specifically positioning the idioculture of the game making program as a sum of emerging repertoires of practice of participants and practitioners.
+While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs, this chapter widens the focus of data examined to include other element of practices which help participants incorporated home repertoires as an inclusive practice. For example, the role of play as leading activity is explored by Gutierrez [gutierrez_learning_2019-1] to facilitate movement between sites of learning, an analysis on the role of playtesting and an emerging form of playful playtesting follows.
 
-This section begins with a closer look at playtesting as a medium of development of practices, a mini third space
 
-#### Discussion on the role of playtesting in particular as a suitable medium (third space)
+#### Playtesting as a suitable medium (third space)
 
-<!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
-<!--
-HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
-**On playtesting behaviours and interaction with GDP findings** -->
-
-<!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
 
 As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018].
 
 In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design.
 
-
-I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities.
-Not only the cultural uses of GDPs, but other processes (DO i ACTUALLY HAVE ANY OF THESE IN EVIDENCE? )
-
-As such, the nature and process of this community evolution merits exploration.
-
-
-
-<!-- #### on alien chat
-Perhaps add back in as an unintended consequence?
-The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
-
-#### Further Observations on repertoires playtesting / space based understandings
-
-
-**More on Funds of Knowledge / repertoires and how they emerge in my research**
-
-Other research by Gutierrez addresses the importance of FoK via the metaphor of movement between sites of activity, aligning with the concept of movement between activity systems in 3GAT [ENGESTROM FROM GUTIERREZ]
-
-The data of this study provides a supporting evidence and detail to this process in the development of a game making idioculture.
-
-This can be analysed in relation to existing, evolving understandings of FoK and repertoires as incorporation of different repertoires.
-
-Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices.
-In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
-
-While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs not all of them directly relate. The follow example of playful playtesting is one not directly involving GDPs.
-
-**Playful playtesting**
-
-I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
+##### Playful playtesting
 
 Some children added additional playful elements to playtesting.
 Some in particular brought a physicality to the process.
@@ -899,12 +872,22 @@ See Appendix.playtestingtypes
 
 The process of play testing as a cultural process is explored in more depth now.
 
-#### Use of GDPs in supporting Playtesting (including player types and side missions)
+#### Use of GDPs in supporting Playtesting  / Discussion on the role of playtesting in particular as a suitable medium (third space)
 
+I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities.
+
+Not only the cultural uses of GDPs, but other processes (DO i ACTUALLY HAVE ANY OF THESE IN EVIDENCE? )
+
+As such, the nature and process of this community evolution merits exploration.
+
+I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
 
 One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
 
-In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. This matches research of 5D and in particular that of Gutiérrez in conceptions of processes of inclusion.
+In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this.
+
+
+This matches research of 5D and in particular that of Gutiérrez in conceptions of processes of inclusion.
 
 
 <!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
@@ -922,12 +905,88 @@ The use of GDPs in different ways and diverse ways between participants provoke 
 
 The identification of maker types, and incorporation of those concepts into the design and faciliation  
 
+**Recap on data on  / exploration of maker types**
+Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design.
+
+Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within it.
+
+While the use of social missions is not novel,
+
+My contribution is that using GDPs as a framework helps this process.
+
+
+#### The importance of identity development in the designs
+
+The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
+
+This aligns with in 5D, Gutierrez, and extends the research in the area of non-formal exploration of tech by providing a guiding framework using design patterns.
+
+Example of alignment.
+
+Example of how extending with DPs as a framework could be fruitful, developing and synthesising last chapter arguments.
+
+
+
 <!-- **beyond primary and secondary tools / stimulation conception**
 
 For this study, one issue of Sannino and Engestroms general approach is that there are many possible stimuli in a modern environment (find source ), and while yes, participant may adapt them for their own use, the focus on just one is potentially limiting. JUST A THOUGHT. -->
 
 <!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
 <!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
+
+
+<!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
+<!--
+HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
+**On playtesting behaviours and interaction with GDP findings** -->
+
+<!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
+
+
+
+
+
+<!-- #### on alien chat
+Perhaps add back in as an unintended consequence?
+The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
+
+
+### Synthesis - A complex view of agency and repertoires development within Idiocultures / 3rd spaces
+
+In this section, instead of agency as a individualised property, agency is participation in a community.
+
+The conception of development of repertoires of practices is key to this interpretation.
+
+While development of relational agency is a part of the social and cultural aspects of repertoires development, this section moves beyond agency to explore issues of equity and diversity as concrete instances with the learning environment.
+
+As such, I draw on concrete examples in my research as a contribution to applied research in this promising field.
+
+
+
+
+#### Relational Agency (and equity) in response to a series of stimuli participant identity
+
+WHAT IS THE KEY POINT HERE?
+
+The use of GDPs helped the goal of x in y ways.
+One element of the repertoires.
+Beyond that... social missions?
+The style of making, the type.
+
+
+Gutierrez and Stone [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
+
+Relational agency in developing expertise is shown in many of the vignettes.
+
+Edwards on relational agency via CHAT [@edwards2009systemic]
+
+<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
+
+
+Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
+
+
+
 
 ### Metaphors of harbours and playgrounds as a way to explore conceptions of (relational) agency
 
@@ -1007,65 +1066,6 @@ The sandbox metaphor is used extensively in web development to indicate a safety
 **Freedom to adapt play and games**
 
 While the play space evokes protection, there is still space for wilder behaviors to emerge as play is responsive and adaptive. In this study playtesting spaces are important as a means to allow learners to evolve their own processes as a form of authorial and transformational agency, albeit within the suggested limitations.
-
-
-
-
-
-### A complex view of agency and repertoires development within Idiocultures / 3rd spaces
-
-In this section, instead of agency as a individualised property, agency is participation in a community.
-
-The conception of development of repertoires of practices is key to this interpretation.
-
-While development of relational agency is a part of the social and cultural aspects of repertoires development, this section moves beyond agency to explore issues of equity and diversity as concrete instances with the learning environment.
-
-As such, I draw on concrete examples in my research as a contribution to applied research in this promising field.
-
-
-#### The importance of identity development in the designs
-
-The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
-
-This aligns with in 5D, Gutierrez, and extends the research in the area of non-formal exploration of tech by providing a guiding framework using design patterns.
-
-Example of alignment.
-
-Example of how extending with DPs as a framework could be fruitful, developing and synthesising last chapter arguments.
-
-
-
-#### Relational Agency in response to a series of stimuli participant identity
-
-WHAT IS THE KEY POINT HERE?
-
-The use of GDPs helped the goal of x in y ways.
-One element of the repertoires.
-Beyond that... social missions?
-The style of making, the type.
-
-
-Gutierrez and Stone [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
-
-Relational agency in developing expertise is shown in many of the vignettes.
-
-Edwards on relational agency via CHAT [@edwards2009systemic]
-
-<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
-
-
-Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
-
-**Recap on data on  / exploration of maker types**
-Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design.
-
-Learners who had mastered the skills were asked by others for help, becoming domain experts, and thus providing additional affordances in the learning community and building an identify as specialist within it.
-
-While the use of social missions is not novel,
-
-My contribution is that using GDPs as a framework helps this process.
-
-
 
 
 ### Discussion on what are we really designing for here?
