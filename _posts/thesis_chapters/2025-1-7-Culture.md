@@ -835,7 +835,7 @@ This section begins with a closer look at playtesting as a medium of development
 
 4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming -->
 
-####  Observations on repertoires playtesting / space based understandings
+####  Observations on repertoires
 
 **More on Funds of Knowledge / repertoires and how they emerge in my research**
 
@@ -884,6 +884,20 @@ I observed an evolution of the form and function of playtesting by young partici
 
 One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
 
+#### The importance of supporting identity development in the design / field
+
+Stone and colleagues [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
+
+The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
+
+This aligns with in 5D, Gutierrez, and extends the research in the area of non-formal exploration of tech by providing a guiding framework using design patterns.
+
+Example of alignment.
+
+Example of how extending with DPs as a framework could be fruitful, developing and synthesising last chapter arguments.
+
+
+
 In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this.
 
 
@@ -915,15 +929,6 @@ While the use of social missions is not novel,
 My contribution is that using GDPs as a framework helps this process.
 
 
-#### The importance of identity development in the designs
-
-The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
-
-This aligns with in 5D, Gutierrez, and extends the research in the area of non-formal exploration of tech by providing a guiding framework using design patterns.
-
-Example of alignment.
-
-Example of how extending with DPs as a framework could be fruitful, developing and synthesising last chapter arguments.
 
 
 
@@ -974,7 +979,7 @@ Beyond that... social missions?
 The style of making, the type.
 
 
-Gutierrez and Stone [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
+
 
 Relational agency in developing expertise is shown in many of the vignettes.
 
