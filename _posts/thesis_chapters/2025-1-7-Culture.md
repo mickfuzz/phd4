@@ -853,9 +853,10 @@ Edwards  [@edwards2009systemic] explores relational agency within a CHAT framewo
 
 In the context of my study the role of forllowing design features of the learning environment bear greater exploration.
 
+- how the use of GDPs helped the development of repertoires? Not sure
 - the role playtesting in development of relational agency  
 - analysis of additional activities helping the development of learner identities
-- how the use of GDPs helped the development of repertoires? Not sure
+
 
 
 
@@ -869,6 +870,19 @@ Thus transformation is happening here but not in a revolutionary way. It is more
 
 While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs, this chapter widens the focus of data examined to include other element of practices which help participants incorporated home repertoires as an inclusive practice. For example, the role of play as leading activity is explored by Gutierrez [gutierrez_learning_2019-1] to facilitate movement between sites of learning, an analysis on the role of playtesting and an emerging form of playful playtesting follows.
 
+
+
+#### Use of GDPs in supporting social and cultural repertoires of practice  
+
+I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities.
+
+Not only the cultural uses of GDPs, but other processes (DO i ACTUALLY HAVE ANY OF THESE IN EVIDENCE? )
+
+As such, the nature and process of this community evolution merits exploration.
+
+I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
+
+One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
 
 #### Playtesting as a suitable medium (third space)
 
@@ -937,17 +951,6 @@ While the use of social missions is not novel,
 My contribution is that using GDPs as a framework helps this process.
 
 
-#### Use of GDPs in supporting the role of playtesting in particular as a suitable medium (third space)
-
-I propose that the evolving idioculture, playtesting in particular, has been crucial to the development of this design. The learning design sprang from emergent activities.
-
-Not only the cultural uses of GDPs, but other processes (DO i ACTUALLY HAVE ANY OF THESE IN EVIDENCE? )
-
-As such, the nature and process of this community evolution merits exploration.
-
-I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
-
-One GDPs are identifies as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
 
 
 <!-- **beyond primary and secondary tools / stimulation conception**
@@ -974,7 +977,66 @@ Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
 
-### Synthesis - A complex view of agency and repertoires development within Idiocultures / 3rd spaces
+
+#### Returning to transformational agency here and how it different from conceptions of developing repertoires of practice
+
+**How can we best conceive agency here?**
+
+How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice.
+
+Conceptions of AT are evolving including a 4th generation which responds to increasingly rapid and evolving situations.
+See
+https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455
+
+##### Examining complexity using identity formation and specialisation
+
+It is of value to examine specialisation as a form of agency and identity formation using different lenses.
+
+It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
+
+Or, perhaps more accurately here as a movement between activity systems, to be incorporated as a repertoire.
+
+These repertoires become public, and are in part socially motivated, via the process of playtesting.
+
+Thus the specialisation becomes a kind of relational agency for the learning environment as a whole. It exists as a form of identity within an individuals repertoire and for others to draw on as an affordence of the learning system.
+
+
+
+
+
+Hence the next section. An attempt a synthesis.
+
+
+## Part Three : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
+
+
+
+- Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
+- Final analysis with UMC, UDL, MOE - bring complexity here - perhaps bring the metaphors here instead.
+- Celebrate the process of bricolage in this research.
+
+<!-- - Role of the methodology / DBR . FI to bring this process / analysis out - MOVE EARLIER.  -->
+
+TO INTEGRATE?
+
+The role of the emerging culture and identity of the idioculture  is developed in this chapter in the following ways:
+
+- the impact / if any of the social missions and player types to help the development of learner identities.
+
+- the emergence and nurturing of flexible and complex design behaviours (beyond player types)
+
+
+**Gaps in exising research.**
+The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions.
+
+
+
+### Synthesis - A complex view of agency and repertoires development within Idiocultures / 3rd spaces - PARK FROM A BIT AND COME BACK TO THIS.
+
+COME BACK TO MY MOTIVATION OF THE STUDY HERE TOO.
+
+Equity in Gutierrez as well, diversity, enacted, concrete, thus towards inclusion
+interaction with sketchy pedagogies.
 
 In this section, instead of agency as a individualised property, agency is participation in a community.
 
@@ -985,7 +1047,7 @@ While development of relational agency is a part of the social and cultural aspe
 As such, I draw on concrete examples in my research as a contribution to applied research in this promising field.
 
 
-#### Relational Agency (and equity) in response to a series of stimuli participant identity
+**Relational Agency (and equity) in response to a series of stimuli participant identity**
 
 WHAT IS THE KEY POINT HERE?
 
@@ -997,6 +1059,25 @@ WHAT IS THE KEY POINT HERE?
 Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
 
 
+**for Transformational agency, fluidity of practice of participants for characteristics of an emerging inclusive, ideoculture**
+
+What is the end goal that I have been designing for?
+
+Am I designing for agency, varied forms of agency in individuals
+
+Or  is that missing the point, is the overall environment what should be designed for?
+
+What is my contribution to research based on this questions. Are there different things I am suggesting?
+
+My end goal is a creative, emerging, inclusive ideoculture, and the use of GDPs here is one means to achieve it.
+NOT the only one.
+
+
+**Is it Fluency?**
+
+Is it jamming? A sense of flow?
+
+While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation.
 
 
 ### Metaphors of harbours and playgrounds as a way to explore conceptions of (relational) agency
@@ -1089,79 +1170,8 @@ While the play space evokes protection, there is still space for wilder behavior
 Emerging section.
 
 
-#### Returning to transformational agency here and how it different from conceptions of developing repertoires of practice
 
-**How can we best conceive agency here?**
-
-How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice.
-
-Conceptions of AT are evolving including a 4th generation which responds to increasingly rapid and evolving situations.
-See
-https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455
-
-##### Examining complexity using identity formation and specialisation
-
-It is of value to examine specialisation as a form of agency and identity formation using different lenses.
-
-It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
-
-Or, perhaps more accurately here as a movement between activity systems, to be incorporated as a repertoire.
-
-These repertoires become public, and are in part socially motivated, via the process of playtesting.
-
-Thus the specialisation becomes a kind of relational agency for the learning environment as a whole. It exists as a form of identity within an individuals repertoire and for others to draw on as an affordence of the learning system.
-
-
-
-#### for Transformational agency, fluidity of practice of participants for characteristics of an emerging inclusive, ideoculture
-
-What is the end goal that I have been designing for?
-
-Am I designing for agency, varied forms of agency in individuals
-
-Or  is that missing the point, is the overall environment what should be designed for?
-
-What is my contribution to research based on this questions. Are there different things I am suggesting?
-
-My end goal is a creative, emerging, inclusive ideoculture, and the use of GDPs here is one means to achieve it.
-NOT the only one.
-
-
-**Is it Fluency?**
-
-Is it jamming? A sense of flow?
-
-While the distributed nature of the toolset, hindered peer learning in P1 as too many tools were introduced, in P2 it helped build authentic digital literacy skills. Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation.
-
-
-Hence the next section. An attempt a synthesis.
-
-
-## Part Three : Synthesis in relation to Issues of inclusive pedagogy UDL, UMC, MOE, PBL.
-
-
-
-- Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
-- Final analysis with UMC, UDL, MOE - bring complexity here - perhaps bring the metaphors here instead.
-- Celebrate the process of bricolage in this research.
-
-<!-- - Role of the methodology / DBR . FI to bring this process / analysis out - MOVE EARLIER.  -->
-
-TO INTEGRATE?
-
-The role of the emerging culture and identity of the idioculture  is developed in this chapter in the following ways:
-
-- the impact / if any of the social missions and player types to help the development of learner identities.
-
-- the emergence and nurturing of flexible and complex design behaviours (beyond player types)
-
-
-**Gaps in exising research.**
-The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions.
-
-
-
-### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
+### MOVE TO CONCL The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
 
 <!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
 
