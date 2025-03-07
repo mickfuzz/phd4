@@ -698,94 +698,36 @@ AND ROUND UP THE CONSTRUCTIONIST UNDERSTANDING OF AFFORDANCES AND BLACK BOXING -
 
 ### Transformational Agency
 
-TA can be viewed in different ways, in this design I take a conservative view of TA, as something new to the learning design, not just new to the learner.
+In line with collective conceptions of agency ecplore in in Chatper to, tranformatioal agency may stem from transcending individual motivation  but also involves a tranformation to systemic contraints. As outlined in chapter 3, Sannino explains TADS using a metaphor of a using a kedging anchors [@hopwood_agency_2022]. In this metaphor the act of casting out the anchor is a visible act of volition which aims overcome conflicts blocking activity progress.
 
-<!-- This is explored later, next section on relational agency.   -->
+While affordances for mediation in conceptions of instrucmental agency may be visible withing the learning community, this metaphor encompasses a sense of the explorary nature of the transformation, and that the leverage or catching point for change may not be immediately visible to activity participants in the activity system. The process may serve to surface perviously unknown forms of mediation and use of tools not only for those undertaking this volitional activity but also others in the learning community.
 
-In relation to this design the greatest period of transformation was in P1. The emergence of GDPs as a guiding activity and pedagogical framework can be seen to emerged from expressions of transformational agency from participants and myself as a designer at this times.
+Understandably, examples of this process in the research process were prevalent in early stages where particpants had access to little in terms of supporting resources. Illustrative attempts of TADA are present in (Appendix.design.p1). For example, email correspondance from myself to participants asking for help in organising project work resulting in the emergence of list of proto-typical GDPs. Additionally the process of leading with exploration of a half-baked template was an experimental response from feedback from participants requesting more hand-on work with the tools before beginning planning.
+Thus emergence, via interaction between participants and myself, of and the use of a half baked template and GDPs as a suggested leading activity and pedagogical framework is a manifestation of transformational agency.
 
-<!-- In P1, (see Chapter 5 (check)) the initial use of GDPs as a planning tool, and as a vehicle for prototypical documentation. -->
+**Engendering authorial and transformative agency**
 
-Beyond P1, there are still spaces for TA once the core pedagogy is in place.
-For examples,
-In Vig. Tody and Dan the break out of the template to create a different genre.
+As a designer I began to noticed acts of volition to adapt the game making process, for example in adapting the game to add sound and characters of interst. In preparation for P2, to aid learners evolving activity,  and then tried to add explicit affordences and make them visible to learners.
 
-**Exploring transformative agency using the metaphor of Kedging anchors**
-
-As outlined in chapter 3, Sannino explains TADS using a  metaphor of a using a kedging anchors.
-
-The following section integrates affordance theory into a metaphor to encompass concerns of a more structured learning design.
-
-In this metaphor the act of casting out the anchor is a visible act of volition which aims overcome conflicts blocking activity progress. Thus affordances in the learning design can be viewed in this frame as a catching point for these anchors [@hopwood_agency_2022].
-
-The process may serve to surface perviously unknown forms of mediation and use of tools not only for those undertaking this volitional activity but also others in the learning community.
-
-To aid learners evolving activity, as a designer I noticed these attempts and then tried to add explicit anchor points and make them visible to learners. The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
-
-This interpretation highlights possible shifts in forms of agency and an emerging dilemma in the evolving learning design.
-
-
-### Shifting forms of agency
-
-**Shifting forms of agency.**
-How different forms of  agency are developed and transform over iterations of this game making programme  
-
-Initial blocks are solved by heroic transformative agency of parents, children and facilitator.
-
-Then patterns and tools become established in the community, and agency shifts to be less authorial and more instrumental and relational.
-
-**Designing for increased instrumental agency and then for TA?**
-
+The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
 Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
 
+**Shifting forms of agency.**
 
-#### Dilemma / Tension for the facilitator, how sketchy to make the design? PERHAPS MOVE TO END TO ALLOW CF WITH RELATIONAL AGENCY?
+This interpretation highlights possible shifts in forms of agency and an emerging dilemma in the evolving learning design. Initial blocks are solved by transformative agency, patterns and tools become established in the community, and agency shifts to and more instrumental.
 
-The dilemma here of transformational happening most for participants in P1, and you can design OUT transformational agency, hence sketchy pedagogies
+In the introduction I outlined that a driving movitation of this research was to better understand chaotic learning environments, of which P1 is an example. Given this draw to conditions of TA, such shifting forms of agency could create a resulting tension. As a learning designer, design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process. However, in adapting designs, and thus increasing affordences and instrucmental agency here is a danger of designing away the possibility for transformational agency.
 
+To retain this potential for transformation it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. Evidence of this exists, beyond P1, there were still spaces for TA once the core pedagogy is in place. For example, in Vig. Tody and Dan the break out of the template to create a different genre.
 
-1. Shifting forms of agency
-2. Danger of the design being too complete, a concept of sketchy pedagogy
-
-From TA in P1
-To relational in P2
-Increased support for relational in P3
-
-
-**Danger of designing away the possibility for transformational agency**
-
-One of my drivers in this research was to better understand my love of sketch, chaotic learning environments.
-
-The contrast of mediational based, instrumental agency of a more completed learning design and the more exploratory, experimental process of P1.
-
-<!-- Adopting analysis which aligns authorial agency and transformative agency,  -->
-
-There is a potential tension between instrumental agency and transformative agency. A design which minimises possible conflicts also reduces the potential for participants to solve them both individually and collective responses.
-
-
-As a learning designer, design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.
-
-Later participants have less opportunity for transformative agency in terms of how their input transforms the context and structure of the learning design.  
-
-This invites a question: is nurturing transformative agency by creating space for emergent practices sustainable or desirable for ongoing iterations?
-
-To retain this potential for transformation
-it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
-
-How much of the learning design can/should be transferred to other settings.
-
-In terms of desirability, as a personal refection while I love this aspect, but others can find it stressful. Different strokes.
-
-
+Also, not everyone like messy / sketchy pedagogies, there is a danger that  levels of stress for participants may reduce the inclusivity. 
 
 <!--
 NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
 
 
-And the danger of being too instrumental if the design is too complete.
 
-A danger that my interest and focus on messy / sketchy pedagogies would try to avoid. But which has wider implications in terms of inclusion and levels of stress for participants.
 
 
 
