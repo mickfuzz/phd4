@@ -57,15 +57,18 @@
                 -   [Linking repertoires to my study / learning design &
                     designing for
                     agency](#linking-repertoires-to-my-study-learning-design-designing-for-agency)
+            -   [Exploring design features which support identity
+                development in the emerging game making
+                community](#exploring-design-features-which-support-identity-development-in-the-emerging-game-making-community)
             -   [Use of GDPs in supporting social and cultural
                 repertoires of
                 practice](#use-of-gdps-in-supporting-social-and-cultural-repertoires-of-practice)
-            -   [Playtesting as a suitable medium (third
-                space)](#playtesting-as-a-suitable-medium-third-space)
-                -   [Playful playtesting](#playful-playtesting)
-            -   [The importance of, and activities which, supporting
-                identity development in the design /
-                field](#the-importance-of-and-activities-which-supporting-identity-development-in-the-design-field)
+            -   [Emergent Activities](#emergent-activities)
+                -   [Playtesting as a suitable medium for emerging
+                    activities creating third
+                    spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
+            -   [Variations in approaches to
+                playtesting](#variations-in-approaches-to-playtesting)
             -   [Examining complexity using identity formation and
                 specialisation](#examining-complexity-using-identity-formation-and-specialisation)
     -   [Part Three : Synthesis in relation to Issues of inclusive
