@@ -167,7 +167,7 @@ MOVE LIST ABOVE HERE WHEN STABLE ENOUGH
 
 
 
-## Extended design narrative for P1
+## Appendix.design.p1
 
 As my ex-neighbour Barry once said to me, _there are a million ways to start a conversation_. There are probably just as many to start the process of designing and making a game using code as well. In choosing how to present the appendices of this study I try to do so in an accessible narrative which draws on my extensive facilitation and design journal notes to contextualise the findings from video data. I justify this partial approach in line with Stetsenko's activist stance described in Chapter 4.
 
@@ -235,8 +235,6 @@ In participant feedback, the  parent of this family described in the previous se
 
 When the family withdrew, in my journal notes I reflected that the they shared of alienation from the group process occurred in a session where, due to a sense of urgency to complete games, I had omitted drama-based warm up activities. Instead as participant entered I began to support to help some participants debug some pressing code errors.
 
-
-
 For some families and individual participants there were conflicts to do with a sense of anxiety and alienation from the group coding environment and associated peer working dynamics.
 
 One family dropped out and in their exit interview they shared that at one point we looked around and just saw people doing hardcore coding and we no longer felt at home in the environment. In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding.
@@ -275,8 +273,6 @@ https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/
 **Journal Notes from P1**
 
 Find extract from my journal notes for P1 period
-
-
 
 
 ### Appendix.themeing -  Themeing GDPs
@@ -541,7 +537,7 @@ In the language of activity theory the change of objective denotes is a shift in
 
 In Chapter 7, I outline how design decisions requiring the application of abstract CT concepts based on Wings definition were to a great extent black boxed in the learning design outlined in Chapter 5.
 
-However, the design also allowed people to forge their own path and make diversion from the suggested genre and choice of GDPs. 
+However, the design also allowed people to forge their own path and make diversion from the suggested genre and choice of GDPs.
 
 Even, taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
 
