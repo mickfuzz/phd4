@@ -9,131 +9,127 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
--   [Seeding and Nurturing Community Game Making Practices to Facilitate
-    Learner
-    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
-    -   [Research Questions Jan 2025](#research-questions-jan-2025)
-    -   [Notes](#notes)
-    -   [Introduction](#introduction)
-    -   [Part one - Exploring concepts of abstract and concrete
-        knowledge frameworks in relation to Game Design
-        Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [Exploration of findings in relation to CHAT conceptions of
-            abstraction](#exploration-of-findings-in-relation-to-chat-conceptions-of-abstraction)
-        -   [Exploration of GDPs as mid-level construct in relation to
-            other conceptions of abstraction in computing education
-            research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
-            -   [Design patterns as a intermediate-level, pedagogical
-                framework - THE
-                HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework---the-hypothesis)
-            -   [Purpose of the frameworks being addressed is also
-                relevant.](#purpose-of-the-frameworks-being-addressed-is-also-relevant.)
-            -   [Types of abstraction in frameworks - recalling
-                definitions or lack of clear
-                definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
-                -   [Computational thinking](#computational-thinking)
-                -   [Levels of Abstraction](#levels-of-abstraction)
-                -   [Epistemological pluralism, bricolage &
-                    Microworlds](#epistemological-pluralism-bricolage-microworlds)
-        -   [Observations on abstract / concrete dimensions in my data
-            related to gameplay design
-            patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
-            -   [Addressing utility for
-                participants](#addressing-utility-for-participants)
-            -   [Addressing utility for designers /
-                teachers](#addressing-utility-for-designers-teachers)
-        -   [How my research contributes in this area - particularly in
-            the conception of different
-            pedagogies.](#how-my-research-contributes-in-this-area---particularly-in-the-conception-of-different-pedagogies.)
-            -   [Comparing my pedagogical framing regarding dimensions
-                of abstract/ concrete with existing
-                research](#comparing-my-pedagogical-framing-regarding-dimensions-of-abstract-concrete-with-existing-research)
-        -   [Link to next section and signposting final discussion
-            section](#link-to-next-section-and-signposting-final-discussion-section)
-    -   [Part Two - Agency](#part-two---agency)
-        -   [2.a Affordances, Mediation,
-            TADS,](#a-affordances-mediation-tads)
-        -   [Instrumental Agency](#instrumental-agency)
-        -   [Transformational Agency](#transformational-agency)
-        -   [Shifting forms of agency](#shifting-forms-of-agency)
-            -   [Dilemma / Tension for the facilitator, how sketchy to
-                make the design? PERHAPS MOVE TO END TO ALLOW CF WITH
-                RELATIONAL
-                AGENCY?](#dilemma-tension-for-the-facilitator-how-sketchy-to-make-the-design-perhaps-move-to-end-to-allow-cf-with-relational-agency)
-        -   [2c - Relational Agency in emergent activities in emergent
-            cultural context - 3rd Spaces, idiocultures, and
-            repertoires](#c---relational-agency-in-emergent-activities-in-emergent-cultural-context---3rd-spaces-idiocultures-and-repertoires)
-            -   [Observations on
-                repertoires](#observations-on-repertoires)
-                -   [Linking repertoires to my study / learning design &
-                    designing for
-                    agency](#linking-repertoires-to-my-study-learning-design-designing-for-agency)
-            -   [Exploring design features which support identity
-                development in the emerging game making
-                community](#exploring-design-features-which-support-identity-development-in-the-emerging-game-making-community)
+-   [Research Questions Jan 2025](#research-questions-jan-2025)
+-   [Notes](#notes)
+-   [Introduction](#introduction)
+-   [Part one - Exploring concepts of abstract and concrete knowledge
+    frameworks in relation to Game Design
+    Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
+    -   [Exploration of findings in relation to CHAT conceptions of
+        abstraction](#exploration-of-findings-in-relation-to-chat-conceptions-of-abstraction)
+    -   [Exploration of GDPs as mid-level construct in relation to other
+        conceptions of abstraction in computing education
+        research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
+        -   [Design patterns as a intermediate-level, pedagogical
+            framework - THE
+            HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework---the-hypothesis)
+        -   [Purpose of the frameworks being addressed is also
+            relevant.](#purpose-of-the-frameworks-being-addressed-is-also-relevant.)
+        -   [Types of abstraction in frameworks - recalling definitions
+            or lack of clear
+            definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
+            -   [Computational thinking](#computational-thinking)
+            -   [Levels of Abstraction](#levels-of-abstraction)
+            -   [Epistemological pluralism, bricolage &
+                Microworlds](#epistemological-pluralism-bricolage-microworlds)
+    -   [Observations on abstract / concrete dimensions in my data
+        related to gameplay design
+        patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
+        -   [Addressing utility for
+            participants](#addressing-utility-for-participants)
+        -   [Addressing utility for designers /
+            teachers](#addressing-utility-for-designers-teachers)
+    -   [How my research contributes in this area - particularly in the
+        conception of different
+        pedagogies.](#how-my-research-contributes-in-this-area---particularly-in-the-conception-of-different-pedagogies.)
+        -   [Comparing my pedagogical framing regarding dimensions of
+            abstract/ concrete with existing
+            research](#comparing-my-pedagogical-framing-regarding-dimensions-of-abstract-concrete-with-existing-research)
+    -   [Link to next section and signposting final discussion
+        section](#link-to-next-section-and-signposting-final-discussion-section)
+-   [Part Two - Agency](#part-two---agency)
+    -   [2.a Affordances, Mediation,
+        TADS,](#a-affordances-mediation-tads)
+    -   [Instrumental Agency](#instrumental-agency)
+    -   [Transformational Agency](#transformational-agency)
+    -   [Shifting forms of agency](#shifting-forms-of-agency)
+        -   [Dilemma / Tension for the facilitator, how sketchy to make
+            the design? PERHAPS MOVE TO END TO ALLOW CF WITH RELATIONAL
+            AGENCY?](#dilemma-tension-for-the-facilitator-how-sketchy-to-make-the-design-perhaps-move-to-end-to-allow-cf-with-relational-agency)
+    -   [2c - Relational Agency in emergent activities in emergent
+        cultural context - 3rd Spaces, idiocultures, and
+        repertoires](#c---relational-agency-in-emergent-activities-in-emergent-cultural-context---3rd-spaces-idiocultures-and-repertoires)
+        -   [Observations on repertoires](#observations-on-repertoires)
+            -   [Linking repertoires to my study / learning design &
+                designing for
+                agency](#linking-repertoires-to-my-study-learning-design-designing-for-agency)
+        -   [Exploring design features which support identity
+            development in the emerging game making
+            community](#exploring-design-features-which-support-identity-development-in-the-emerging-game-making-community)
             -   [Use of GDPs in supporting social and cultural
                 repertoires of
                 practice](#use-of-gdps-in-supporting-social-and-cultural-repertoires-of-practice)
-            -   [Emergent Activities](#emergent-activities)
-                -   [Playtesting as a suitable medium for emerging
-                    activities creating third
-                    spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-            -   [Variations in approaches to
-                playtesting](#variations-in-approaches-to-playtesting)
-            -   [Examining complexity using identity formation and
-                specialisation](#examining-complexity-using-identity-formation-and-specialisation)
-    -   [Part Three : Synthesis in relation to Issues of inclusive
-        pedagogy UDL, UMC, MOE,
-        PBL.](#part-three-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
-        -   [Synthesis - A complex view of agency and repertoires
-            development within Idiocultures / 3rd spaces - PARK FROM A
-            BIT AND COME BACK TO
-            THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
-            -   [Returning to transformational agency here and how it
-                different from conceptions of developing repertoires of
-                practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
-        -   [Metaphors of harbours and playgrounds as a way to explore
-            conceptions of (relational)
-            agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
-            -   [Utility of metaphors of
-                space](#utility-of-metaphors-of-space)
-            -   [Harbours - authentic and
-                restrictive](#harbours---authentic-and-restrictive)
-            -   [Fluency in Jam Session - was Playgrounds, sandboxes and
-                play
-                spaces](#fluency-in-jam-session---was-playgrounds-sandboxes-and-play-spaces)
-        -   [Addressing the nature of my contribution to research
-            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
-    -   [Research output 1 - Applied pedagogy - IN
-        CONCLUSION?](#research-output-1---applied-pedagogy---in-conclusion)
-        -   [The interaction of flexible deign practices, the collection
-            of Game Design Patterns, stepwise scaffolding of learning
-            environments and new understandings of
-            agency.](#the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
-            -   [Summary of observations contributions of novel aspect
-                of the learning design (PERHAPS MERGE WITH
-                BELOW)](#summary-of-observations-contributions-of-novel-aspect-of-the-learning-design-perhaps-merge-with-below)
-            -   [Synthesis of Characteristics and Analysis in relation
-                to what they contribute to existing
-                frameworks](#synthesis-of-characteristics-and-analysis-in-relation-to-what-they-contribute-to-existing-frameworks)
-            -   [Questions and Conceptual challenges to dissemination -
-                MOVE PERHAPS TO NEXT
-                CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
-    -   [Conclusion](#conclusion)
-    -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
-        -   [On planned and emergent
-            activity)](#on-planned-and-emergent-activity)
-    -   [Notes - MOVED TO THE END FOR
-        REVIEW](#notes---moved-to-the-end-for-review)
-        -   [On Fluency](#on-fluency)
-        -   [Removed in December - perhaps
-            rehome](#removed-in-december---perhaps-rehome)
-    -   [Removed in Jan - find home](#removed-in-jan---find-home)
-        -   [Community concepts and norming behaviour emerging during
-            playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
-        -   [MoE](#moe)
-        -   [**An example of mini TADS - use of secondary
-            resources**](#an-example-of-mini-tads---use-of-secondary-resources)
+            -   [Playtesting as a suitable medium for emerging
+                activities creating third
+                spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
+            -   [The introduction of maker types and side missions as
+                affordences of my pedagogy to legitimise
+                diversity](#the-introduction-of-maker-types-and-side-missions-as-affordences-of-my-pedagogy-to-legitimise-diversity)
+        -   [Examining complexity within identity formation and
+            specialisation](#examining-complexity-within-identity-formation-and-specialisation)
+-   [Part Three : Synthesis in relation to Issues of inclusive pedagogy
+    UDL, UMC, MOE,
+    PBL.](#part-three-synthesis-in-relation-to-issues-of-inclusive-pedagogy-udl-umc-moe-pbl.)
+    -   [Synthesis - A complex view of agency and repertoires
+        development within Idiocultures / 3rd spaces - PARK FROM A BIT
+        AND COME BACK TO
+        THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
+        -   [Returning to transformational agency here and how it
+            different from conceptions of developing repertoires of
+            practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
+    -   [Metaphors of harbours and playgrounds as a way to explore
+        conceptions of (relational)
+        agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
+        -   [Utility of metaphors of
+            space](#utility-of-metaphors-of-space)
+        -   [Harbours - authentic and
+            restrictive](#harbours---authentic-and-restrictive)
+        -   [Fluency in Jam Session - was Playgrounds, sandboxes and
+            play
+            spaces](#fluency-in-jam-session---was-playgrounds-sandboxes-and-play-spaces)
+    -   [Addressing the nature of my contribution to research
+        landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
+-   [Conclusion](#conclusion)
+-   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
+    -   [On planned and emergent
+        activity)](#on-planned-and-emergent-activity)
+-   [Notes - MOVED TO THE END FOR
+    REVIEW](#notes---moved-to-the-end-for-review)
+    -   [On Fluency](#on-fluency)
+    -   [Removed in December - perhaps
+        rehome](#removed-in-december---perhaps-rehome)
+-   [Removed in Jan - find home](#removed-in-jan---find-home)
+    -   [Community concepts and norming behaviour emerging during
+        playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
+    -   [MoE](#moe)
+    -   [**An example of mini TADS - use of secondary
+        resources**](#an-example-of-mini-tads---use-of-secondary-resources)
+-   [Research output 1 - Applied pedagogy - IN
+    CONCLUSION?](#research-output-1---applied-pedagogy---in-conclusion)
+    -   [The interaction of flexible deign practices, the collection of
+        Game Design Patterns, stepwise scaffolding of learning
+        environments and new understandings of
+        agency.](#the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-and-new-understandings-of-agency.)
+        -   [Summary of observations contributions of novel aspect of
+            the learning design (PERHAPS MERGE WITH
+            BELOW)](#summary-of-observations-contributions-of-novel-aspect-of-the-learning-design-perhaps-merge-with-below)
+        -   [Synthesis of Characteristics and Analysis in relation to
+            what they contribute to existing
+            frameworks](#synthesis-of-characteristics-and-analysis-in-relation-to-what-they-contribute-to-existing-frameworks)
+        -   [Questions and Conceptual challenges to dissemination - MOVE
+            PERHAPS TO NEXT
+            CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
+
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
 
@@ -841,14 +837,13 @@ The data of this study provides a strong case study, evidence and detail to this
 
 The process of developing new repertoires is not a solo process in this new space. The complex relations between participants outlined in the vignettes and data of the last chapter show an interdependence showing characteristics of relational agency.
 
-Edwards  [@edwards2009systemic] explores relational agency within a CHAT framework as transcending individuals capacity to encompass collective problems solving via specialisation and diversity of approaches within activity systems. As a collective participants can overcome systemic contradictions via expansive learning, rearranging working relationships and thus opening new forms of relational agency. This concept is illustrated by the importance of feedback in community making and tinkering activities leading to increased "relational expertise" in partipants [@digiacomo_relational_2016; @digiacomo_relational_2016-1,p.144],
+Edwards  [@edwards2009systemic] explores relational agency within a CHAT framework as transcending individuals capacity to encompass collective problems solving via specialisation and diversity of approaches within activity systems. As a collective participants can overcome systemic contradictions via expansive learning, rearranging working relationships and thus opening new forms of relational agency. This concept is illustrated by the importance of feedback in community making and tinkering activities leading to increased "relational expertise" in partipants [@digiacomo_relational_2016-1 , p.144],
 
-
-In the context of my study the role of forllowing design features of the learning environment bear greater exploration.
+<!-- In the context of my study the role of forllowing design features of the learning environment bear greater exploration.
 
 - the use of GDPs in the development of new  repertoires?
 - the role playtesting in development of relational agency  
-- analysis of additional activities helping the development of learner identities
+- analysis of additional activities helping the development of learner identities -->
 
 
 While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs, this chapter widens the focus of data examined to include other element of practices which help participants incorporated home repertoires as an inclusive practice.
@@ -884,7 +879,7 @@ In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narra
  <!-- Examples include.... -->
 
 
-#### Use of GDPs in supporting social and cultural repertoires of practice  
+##### Use of GDPs in supporting social and cultural repertoires of practice  
 
 The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incoporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
 
@@ -895,9 +890,6 @@ The nature and process of this community evolution merits exploration. As such, 
 I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
 
 My contribution is that using GDPs as a framework helps this process.
-
-
-#### Emergent Activities
 
 
 ##### Playtesting as a suitable medium for emerging activities creating third spaces
@@ -913,7 +905,7 @@ An analysis on the role of playtesting and an emerging forms of playful playtest
 
 <!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
 
-#### Variations in approaches to playtesting
+**Variations in approaches to playtesting**
 
 
 Some participants refrained from extensive testing of other games, waiting for others to test their games and observing their responses. Others were very social in their playtesting approach. Madiha making very positive comments on design of player characters and building relations in that way. The last chapter showed that some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process.  
@@ -925,7 +917,7 @@ Some in particular brought a physicality to the process, clustring in a particul
 Playtesting acted as a stimulus and incubator for emerging socio-cultural practices promting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
 
 
-#### The introduction of maker types and side missions as affordences of my pedagogy
+##### The introduction of maker types and side missions as affordences of my pedagogy to legitimise diversity
 
 Such diversity in playtesting behaviours drove my reflection on the additional motivations bleeding into this system from other activity systems. Rather than refocusing participants back to more coding-focused activities, I coded playtesting and game making approaches in to a loose typology (see Appendix .makertypes for fuller detail).   
 
@@ -935,7 +927,6 @@ Such diversity in playtesting behaviours drove my reflection on the additional m
 -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users.
 
 While not a conscious link, there is a parallel to the constrast between planners and bricoleurs present in this typology. By way of contrast the wider focus playtesting as well as coding behaviours.
-
 
 Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design.
 
@@ -1196,75 +1187,6 @@ forms of learning and doing science that are tied to the imaginings of new futur
 
 
 However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches.
-
-
-## Research output 1 - Applied pedagogy - IN CONCLUSION?
-
-### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
-
-<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
-
-In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency.
-
-This section synthesises the learning design with such interpretations.
-
-And then progresses to recap the potential of this synthesis of these process, framed in other writing as a 3M approach.
-
-Finally it links the the outputs with the research process in terms of the impact of DBR and formative intervention approaches.
-
-#### Summary of observations contributions of novel aspect of the learning design (PERHAPS MERGE WITH BELOW)
-
-While the base structuring of the starting template drew on concepts of UMC and half-baked game design, the use of a menu of GDPs to scaffold the modify and create stage is a novel approach.
-
-The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the developmetn of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
-
-This alignment with a  rhizomatic approach within a structure has been explored in this thesis using a metaphor of a harbour in terms of the conceptualisation of the design from a facilitator / designers point of view. The habour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures participants must understand or create to make progress.
-
-From a participants' perspective I liken their experience to the process of jamming an informal musical practice.
-
-While The value of playtesting as a practice is surfaced either explicitly in professional game making
-
-Other sections of this research The use of social missions to support the variety of development.
-
-
-#### Synthesis of Characteristics and Analysis in relation to what they contribute to existing frameworks
-
-
-- The role of authenticity and the impact on agency
-
-These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
-
-- UDL / PBL
-
-Key characteristics of structuring support around quick start activities and a subsequent menu of GDPs which align with existing research include:
-
-The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it.
-
-
-
-#### Questions and  Conceptual challenges to dissemination - MOVE PERHAPS TO NEXT CHAPTER?
-
-**How broadly can the principles be applied?**
-
-The general use of design patterns to guide digital creation are widely replicable, that of coupling documentation. The UMC methodology applies more broadly to design based education via prototyping. which could take other formats. Thus it is potentially applicable to other domains. And example of such is in PBL work using a campaign template and characteristics ads design patters, and a Poster, and elevator pitch feedback before creating then a stall [blog post].
-
-<!-- I start o. A low concrete level in supporting game making Fluency
-And get wider in application to broader approaches of pbl  and research processes (if found) -->
-
-
-
-
-
-<!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
-
-
-
-<!-- PIVOT -->
-
-
-<!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
-
-
 
 ## Conclusion
 
@@ -1851,3 +1773,72 @@ CH 5.
 
 vThe careful alignment between navigational documentation and the participants driving objectives of the mid-level activity system of implementing a game element, also helped avoid mismatch between task and tools described above as mismatch between primary and secondary stimuli.
 The process aligns with the concept of just-in-time instruction.
+
+
+
+
+## Research output 1 - Applied pedagogy - IN CONCLUSION?
+
+### The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments and new understandings of agency.
+
+<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
+
+In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency.
+
+This section synthesises the learning design with such interpretations.
+
+And then progresses to recap the potential of this synthesis of these process, framed in other writing as a 3M approach.
+
+Finally it links the the outputs with the research process in terms of the impact of DBR and formative intervention approaches.
+
+#### Summary of observations contributions of novel aspect of the learning design (PERHAPS MERGE WITH BELOW)
+
+While the base structuring of the starting template drew on concepts of UMC and half-baked game design, the use of a menu of GDPs to scaffold the modify and create stage is a novel approach.
+
+The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the developmetn of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+This alignment with a  rhizomatic approach within a structure has been explored in this thesis using a metaphor of a harbour in terms of the conceptualisation of the design from a facilitator / designers point of view. The habour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures participants must understand or create to make progress.
+
+From a participants' perspective I liken their experience to the process of jamming an informal musical practice.
+
+While The value of playtesting as a practice is surfaced either explicitly in professional game making
+
+Other sections of this research The use of social missions to support the variety of development.
+
+
+#### Synthesis of Characteristics and Analysis in relation to what they contribute to existing frameworks
+
+
+- The role of authenticity and the impact on agency
+
+These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
+
+- UDL / PBL
+
+Key characteristics of structuring support around quick start activities and a subsequent menu of GDPs which align with existing research include:
+
+The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it.
+
+
+
+#### Questions and  Conceptual challenges to dissemination - MOVE PERHAPS TO NEXT CHAPTER?
+
+**How broadly can the principles be applied?**
+
+The general use of design patterns to guide digital creation are widely replicable, that of coupling documentation. The UMC methodology applies more broadly to design based education via prototyping. which could take other formats. Thus it is potentially applicable to other domains. And example of such is in PBL work using a campaign template and characteristics ads design patters, and a Poster, and elevator pitch feedback before creating then a stall [blog post].
+
+<!-- I start o. A low concrete level in supporting game making Fluency
+And get wider in application to broader approaches of pbl  and research processes (if found) -->
+
+
+
+
+
+<!-- NOTE- This chapter's coverage of tool use is incomplete and the use of physical arcade consoles is explored in chapter six.  -->
+
+
+
+<!-- PIVOT -->
+
+
+<!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
