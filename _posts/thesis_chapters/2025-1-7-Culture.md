@@ -698,16 +698,16 @@ AND ROUND UP THE CONSTRUCTIONIST UNDERSTANDING OF AFFORDANCES AND BLACK BOXING -
 
 ### Transformational Agency
 
-In line with collective conceptions of agency ecplore in in Chatper to, tranformatioal agency may stem from transcending individual motivation  but also involves a tranformation to systemic contraints. As outlined in chapter 3, Sannino explains TADS using a metaphor of a using a kedging anchors [@hopwood_agency_2022]. In this metaphor the act of casting out the anchor is a visible act of volition which aims overcome conflicts blocking activity progress.
+In line with collective conceptions of agency ecplore in in Chatper to, transformational agency may stem from transcending individual motivation  but also involves a transformation to systemic constraints. As outlined in chapter 3, Sannino explains TADS using a metaphor of a using a kedging anchors [@hopwood_agency_2022]. In this metaphor the act of casting out the anchor is a visible act of volition which aims overcome conflicts blocking activity progress.
 
-While affordances for mediation in conceptions of instrucmental agency may be visible withing the learning community, this metaphor encompasses a sense of the explorary nature of the transformation, and that the leverage or catching point for change may not be immediately visible to activity participants in the activity system. The process may serve to surface perviously unknown forms of mediation and use of tools not only for those undertaking this volitional activity but also others in the learning community.
+While affordances for mediation in conceptions of instrumental agency may be visible within the learning community, this metaphor encompasses a sense of the exploratory nature of the transformation, and that the leverage or catching point for change may not be immediately visible to activity participants in the activity system. The process may serve to surface previously unknown forms of mediation and use of tools not only for those undertaking this volitional activity but also others in the learning community.
 
 Understandably, examples of this process in the research process were prevalent in early stages where particpants had access to little in terms of supporting resources. Illustrative attempts of TADA are present in (Appendix.design.p1). For example, email correspondance from myself to participants asking for help in organising project work resulting in the emergence of list of proto-typical GDPs. Additionally the process of leading with exploration of a half-baked template was an experimental response from feedback from participants requesting more hand-on work with the tools before beginning planning.
 Thus emergence, via interaction between participants and myself, of and the use of a half baked template and GDPs as a suggested leading activity and pedagogical framework is a manifestation of transformational agency.
 
 **Engendering authorial and transformative agency**
 
-As a designer I began to noticed acts of volition to adapt the game making process, for example in adapting the game to add sound and characters of interst. In preparation for P2, to aid learners evolving activity,  and then tried to add explicit affordences and make them visible to learners.
+As a designer I began to noticed acts of volition to adapt the game making process, for example in adapting the game to add sound and characters of interest. In preparation for P2, to aid learners evolving activity,  and then tried to add explicit affordences and make them visible to learners.
 
 The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
 Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
@@ -721,7 +721,7 @@ In the introduction I outlined that a driving movitation of this research was to
 
 To retain this potential for transformation it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. Evidence of this exists, beyond P1, there were still spaces for TA once the core pedagogy is in place. For example, in Vig. Tody and Dan the break out of the template to create a different genre.
 
-Also, not everyone like messy / sketchy pedagogies, there is a danger that  levels of stress for participants may reduce the inclusivity. 
+Also, not everyone like messy / sketchy pedagogies, there is a danger that  levels of stress for participants may reduce the inclusivity.
 
 <!--
 NEEDED: MORE SYNTHESIS / DISCUSSION ON Instrumental agency, TRANFORMATIONAL AGENCY AND AUTHORIAL AGENCY IN LINE WITH PREVIOUS WORK ON METHODOLOGY. -->
