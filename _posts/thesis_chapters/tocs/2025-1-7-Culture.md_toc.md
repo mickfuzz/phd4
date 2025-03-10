@@ -66,16 +66,17 @@
                     diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
             -   [Examining complexity within identity formation and
                 specialisation](#examining-complexity-within-identity-formation-and-specialisation)
-        -   [Metaphors of harbours and playgrounds as a way to explore
-            conceptions of (relational)
-            agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
-            -   [Utility of metaphors of
-                space](#utility-of-metaphors-of-space)
-            -   [Harbours - authentic and
-                restrictive](#harbours---authentic-and-restrictive)
-            -   [Fluency in Jam Session - was Playgrounds, sandboxes and
-                play
-                spaces](#fluency-in-jam-session---was-playgrounds-sandboxes-and-play-spaces)
+        -   [Metaphors as a way to explore conceptions of agency within
+            digital
+            making](#metaphors-as-a-way-to-explore-conceptions-of-agency-within-digital-making)
+            -   [Harbours as both protective and
+                authentic](#harbours-as-both-protective-and-authentic)
+            -   [Spaces to play - playgrounds and jam
+                sessions](#spaces-to-play---playgrounds-and-jam-sessions)
+            -   [Synthesis - A complex view of agency and repertoires
+                development within Idiocultures / 3rd spaces - PARK FROM
+                A BIT AND COME BACK TO
+                THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
     -   [Part Three : Synthesis & contributions to the
         field](#part-three-synthesis-contributions-to-the-field)
         -   [Gaps in existing research.](#gaps-in-existing-research.)
@@ -95,15 +96,6 @@
             scaffolding of learning environments on participant agency
             framed as computational
             fluency](#contribution-4---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-on-participant-agency-framed-as-computational-fluency)
-            -   [Synthesis - A complex view of agency and repertoires
-                development within Idiocultures / 3rd spaces - PARK FROM
-                A BIT AND COME BACK TO
-                THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
-            -   [Returning to transformational agency here and how it
-                different from conceptions of developing repertoires of
-                practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
-        -   [Addressing the nature of my contribution to research
-            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent

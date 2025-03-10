@@ -77,16 +77,17 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                     diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
             -   [Examining complexity within identity formation and
                 specialisation](#examining-complexity-within-identity-formation-and-specialisation)
-        -   [Metaphors of harbours and playgrounds as a way to explore
-            conceptions of (relational)
-            agency](#metaphors-of-harbours-and-playgrounds-as-a-way-to-explore-conceptions-of-relational-agency)
-            -   [Utility of metaphors of
-                space](#utility-of-metaphors-of-space)
-            -   [Harbours - authentic and
-                restrictive](#harbours---authentic-and-restrictive)
-            -   [Fluency in Jam Session - was Playgrounds, sandboxes and
-                play
-                spaces](#fluency-in-jam-session---was-playgrounds-sandboxes-and-play-spaces)
+        -   [Metaphors as a way to explore conceptions of agency within
+            digital
+            making](#metaphors-as-a-way-to-explore-conceptions-of-agency-within-digital-making)
+            -   [Harbours as both protective and
+                authentic](#harbours-as-both-protective-and-authentic)
+            -   [Spaces to play - playgrounds and jam
+                sessions](#spaces-to-play---playgrounds-and-jam-sessions)
+            -   [Synthesis - A complex view of agency and repertoires
+                development within Idiocultures / 3rd spaces - PARK FROM
+                A BIT AND COME BACK TO
+                THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
     -   [Part Three : Synthesis & contributions to the
         field](#part-three-synthesis-contributions-to-the-field)
         -   [Gaps in existing research.](#gaps-in-existing-research.)
@@ -106,15 +107,6 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             scaffolding of learning environments on participant agency
             framed as computational
             fluency](#contribution-4---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-on-participant-agency-framed-as-computational-fluency)
-            -   [Synthesis - A complex view of agency and repertoires
-                development within Idiocultures / 3rd spaces - PARK FROM
-                A BIT AND COME BACK TO
-                THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
-            -   [Returning to transformational agency here and how it
-                different from conceptions of developing repertoires of
-                practice](#returning-to-transformational-agency-here-and-how-it-different-from-conceptions-of-developing-repertoires-of-practice)
-        -   [Addressing the nature of my contribution to research
-            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
@@ -987,7 +979,7 @@ Several parallels to the design and processes in my research exist. The half-bak
 
 ADD MORE HERE IF RELEVANT.
 
-At this stage is relevant to return to issues of underlying  motivation driving partcipation as a way of making a link to existing research on digital making pedagogy. This metaphor serves to illustrate the importance of and possibilities for development of relational agency via participation in the joint process. Additionally, if relational agency is the goal and the means then building fluency of practice is an observable result of this process both in dimensions of technical fluency and in possibilities for expression. In the next section I explore a contribution to pedagogies developing technological or computational fluency [@resnick_coding_2020; @papert_technological_nodate].
+At this stage is relevant to return to issues of underlying  motivation driving partcipation as a way of making a link to existing research on digital making pedagogy. This metaphor serves to illustrate the importance of and possibilities for development of relational agency via participation in the joint process. Additionally, if relational agency is the goal and the means then building fluency of practice is an observable result of this process both in dimensions of technical fluency and in possibilities for expression. In the next section I explore a contribution to pedagogies developing technological or computational fluency [@resnick_coding_2020; @papert_technological_1995].
 
 
 <!-- Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. -->
@@ -1140,23 +1132,7 @@ Intro bringing together elements.
 
 
 
-### Addressing the nature of my contribution to research landscape
 
-The section above outlined contributions to the research landscape intersecting with the development of the learning design of the study.
-
-A critique could be leveled against this contribution that the alignment with existing pedagogical frameworks suggests a more minimal contribution: representing a kind of _tinkering around the edges_ of existing work.
-
-While I hope the framing of the previous section of the novel positioning of those concepts within new context addresses this concern, the challenging of such an interpretation is also an important motivational concern of this work.  
-
-In line with a tradition of other researchers, this work celebrates the creative value of a bricolage approach [], or in other words a "re-mediatation" of the existing forms of pedagogies.
-
-It is from the concrete, practical, collaborative struggle of how to jointly make a game making community and to build fluency in the process of making games that this research emerges. And as such the concrete, responsive, re-assembling of existing pedagogies and elements of the learning activity systems is a integral tactic here aligned with a recent socio-cultural concerns.  
-
-_This shift from “fixing” the individual to re-mediating and transforming the functional system is key to reimagining new
-forms of learning and doing science that are tied to the imaginings of new futures, trajectories, and identities (Gutierrez, Morales, & Martinez, 2009) [@gutierrez_re-mediating_2009-2] in [@gutierrezpossibilities2015-1]_
-
-
-However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches.
 
 ## Conclusion
 

@@ -336,7 +336,7 @@ PERHAPS ONE FOR FINAL CHAPTER
 
 ## Practical implications and recommendations for practice
 
-### Transfer of collection of Design patterns as a gateway framework to other domains. 
+### Transfer of collection of Design patterns as a gateway framework to other domains.
 
 **Applicable beyond this domain / new contributions to research area**
 
@@ -481,6 +481,24 @@ This expression, conveys a perspective that the medium is the message. By engagi
 This raises an additional question.
 How can we help learners build agency in technological environmental without becoming monsters.
 
+
+### Addressing the nature of my contribution to research landscape
+
+The section above outlined contributions to the research landscape intersecting with the development of the learning design of the study.
+
+A critique could be leveled against this contribution that the alignment with existing pedagogical frameworks suggests a more minimal contribution: representing a kind of _tinkering around the edges_ of existing work.
+
+While I hope the framing of the previous section of the novel positioning of those concepts within new context addresses this concern, the challenging of such an interpretation is also an important motivational concern of this work.  
+
+In line with a tradition of other researchers, this work celebrates the creative value of a bricolage approach [], or in other words a "re-mediatation" of the existing forms of pedagogies.
+
+It is from the concrete, practical, collaborative struggle of how to jointly make a game making community and to build fluency in the process of making games that this research emerges. And as such the concrete, responsive, re-assembling of existing pedagogies and elements of the learning activity systems is a integral tactic here aligned with a recent socio-cultural concerns.  
+
+_This shift from “fixing” the individual to re-mediating and transforming the functional system is key to reimagining new
+forms of learning and doing science that are tied to the imaginings of new futures, trajectories, and identities (Gutierrez, Morales, & Martinez, 2009) [@gutierrez_re-mediating_2009-2] in [@gutierrezpossibilities2015-1]_
+
+
+However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches.
 
 
 ## Future directions and promising areas   

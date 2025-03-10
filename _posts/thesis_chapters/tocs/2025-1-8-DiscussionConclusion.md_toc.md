@@ -55,6 +55,8 @@
             context](#advantages-and-limitations-of-home-education-context)
         -   [A larger focus on empowerment impact on
             participants](#a-larger-focus-on-empowerment-impact-on-participants)
+        -   [Addressing the nature of my contribution to research
+            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
     -   [Future directions and promising
         areas](#future-directions-and-promising-areas)
         -   [Design patterns as a teaching
