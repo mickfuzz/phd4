@@ -1111,12 +1111,14 @@ Given the mutuality of the DBR approach of the research process, and the develop
 
 Returning to the dilemma regarding the difficulty of maintaining a learning design requiring heroic levels of transformational agency, and the difficulty of replicating such conditions,
 
-While there is clearly value in TADS as a concept in early stages of design, in particular as analytical tool, I lean more towards Gutiérrez's framing of equity and diversity in learning design overall as a goal to work towards. 
+While there is clearly value in TADS as a concept in early stages of design, in particular as analytical tool, I lean more towards Gutiérrez's framing of equity and diversity in learning design overall as a goal to work towards.
 
 More broadly this research can be developed beyond agency to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
 
 
 **Terms -  designing for agency means developing X.**
+
+There is potentally a gap in communicating the value of this framing of the research to practitioners. In particular he framing of agency as a group process rather than an individual attribute could be confusing.
 
 To follow on from the gap in research concerning the underlying goals of undertaking CGD&P. Let's turn to terminology.  
 
