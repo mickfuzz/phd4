@@ -1,7 +1,6 @@
 -   [Appendices](#appendices)
     -   [List of Vignettes](#list-of-vignettes)
-    -   [Extended design narrative for
-        P1](#extended-design-narrative-for-p1)
+    -   [Appendix.design.p1](#appendix.design.p1)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
