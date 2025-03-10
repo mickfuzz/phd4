@@ -840,9 +840,9 @@ Some participants refrained from extensive testing of other games, waiting for o
 
 Some children added additional playful elements to playtesting (see Appendix.playtestingtypes).  Playtesting surfaced design practices which involved a playing against game design norms of the genre.
 
-Some in particular brought a physicality to the process, clustring in a particular zone of the class, referencing the game play elements, acting them out, attempting to change the games of others and playful tussling as part of resistance to those changes.
+Some in particular brought a physicality to the process, clustering in a particular zone of the class, referencing the game play elements, acting them out, attempting to change the games of others and playful tussling as part of resistance to those changes.
 
-Playtesting acted as a stimulus and incubator for emerging socio-cultural practices promting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
+Playtesting acted as a stimulus and incubator for emerging socio-cultural practices prompting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
 
 
 ##### The introduction of maker types and side missions as affordances of my pedagogy to legitimise diversity
@@ -886,7 +886,6 @@ The awareness of and conversations about maker styles and related side-missions 
 It is of value to examine specialisation as a form of agency and identity formation using different lenses.
 
 It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
-
 
 Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
 
@@ -1032,16 +1031,21 @@ The role of the emerging culture and identity of the idioculture  is developed i
 
 ### Returning to gaps in the research landscape & my motivations
 
-In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming(CGD&P)
+In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming (CGD&P)
 
 Overall, a gap in making games compared to playing them, a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
 
 
-This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies aligns with those gaps.
+In addition there is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
+
+While vague conceptions of collaboration and broader 21st C skills seem broadly applicable, they are unfocused.
 
 While one promising concept, that of computational fluency, exists in broader research, the concept is only explored in broads strokes as both technical competency and an ability to for self-expression within digital code mediums [].
 
 The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
+
+
+This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies aligns with those gaps.
 
 
 ### First area of contribution to the research in the field: An applied pedagogy with detailed analysis of inherent structural components
@@ -1081,26 +1085,44 @@ These varied forms of documentation, and their varied adoption and propagation r
 - More broadly this research can be developed beyond agency to encompass, equity, diversity, enacted, concrete, thus towards inclusion. -->
 
 
-#### Synthesis of the structural and the cultural - IS IT TACTICAL?
+<!-- Given this challenge, the process of presenting the main elements of the learning design as a whole are challenging [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1], and bearing in mind that there are already a good degree of complexity in the pedagogy summarised above, it begs the question is it tactical to attempt such a synthesis in terms of the specifics of the learning design. -->
 
-I attempt a synthesis of these process, in a book chapter as a framework called the 3M approach [@chesterman_game_2023]. Given this challenge, the process of presenting the main elements of the learning design as a whole are challenging [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1], and bearing in mind that there are already a good degree of complexity in the pedagogy summarised above, it begs the question is it tactical to attempt such a synthesis in terms of the specifics of the learning design.
 
-The specifics of the social and cultural elements of the design in the form of additional missions are not unique to this study. And while I have an interest in future research in this area, in particular the use if drama process aligned with Heathcote's Mantle of the Expert methods, such analysis has had to been de-prioritised from this research do to practicalities of space limitations.  
+While I have an interest in future research in the specific social and cultural pedagogical techniques used in this study, in particular the use of side missions linked to participation types within a drama process (see appendix.MOE), such analysis has had to been de-prioritised from this research do to practicalities of space limitations. I have described a synthesis of these socio-cultural process in a book chapter as a framework called the 3M approach [@chesterman_game_2023] a summary of which is included in (see appendix.3M).
 
-Thus instead a greater focus on the shifting nature of agency in my design and the value of designing for it. And the use of metaphors in the advocacy.
+Thus instead in this thesis I focus instead on the value of recognising the shifting nature of agency in this game making process, the value of designing for varied forms of agency, and  the use of metaphors to represent learning spaces and processes that foster agency in game making.
 
 #### Summary of discussion on designing for agency
 
-Agency in the participation in game making community is seen as  complex and multi-dimensional. Agency is seen beyond a individualised property, as participation in a community.
+Agency in this in game making community is seen as multi-dimensional and as a process located in community participation rather than an individualised property.
 
-The concepts of computational fluency is not developed in this  should also be examined as a potentially individualised approach.
+A straight forward manifestation of agency stems from the importance of the collection of GDPS as a guiding activity. The  resulting choice over learner pathway helps transcend  limitations typical in instruction based approaches.
+
+Beyond that element of choice, development of relational agency is a part of the social and cultural aspects of repertoires development, which can be aided by the use of techniques
+
+As indicated above, I make no extra-ordinary claims concerning the processes used to achieve this goal in this design, those of  explicit structuring of playtesting with side missions and implicit pedagogy of supporting maker types and parental helping roles. My proposal is not that these particular techniques are particularly impactful, rather this is a potentially fruitful but under-researched area of design in this field and merits greater attention.  
 
 
-- agency as choice over learner pathway potential is present in the potential of the menu of GDPs
-- But beyond that simplistic element of choice, Development of relational agency is a part of the social and cultural aspects of repertoires development, which can be aided by the use of techniques like the explicit structuring of playtesting with side missions and implicit pedagogy of supporting maker types and parental helping roles.
-- because of the DBR approach, agency here can be conceived  is ideally part of a utopian process, and thus as equity [Gutierrez], where there limitation in my approach, there are the essential conditions present. Thus it is transformational (which may not scale)
-- More broadly this research can be developed beyond agency to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
+**Agency / Equity Terms - utopian concepts**
 
+The discussion above concerning shifting forms of agency can be developed further using the concepts from Gutierrez and Rogoff.
+
+Given the mutuality of the DBR approach of the research process, and the development of relational equity in the process of specialisation [Gutierrez], the process aligns with a utopian approach to design research
+
+Returning to the dilemma regarding the difficulty of maintaining a learning design requiring heroic levels of transformational agency, and the difficulty of replicating such conditions,
+
+While there is clearly value in TADS as a concept in early stages of design, in particular as analytical tool, I lean more towards Gutiérrez's framing of equity and diversity in learning design overall as a goal to work towards. 
+
+More broadly this research can be developed beyond agency to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
+
+
+**Terms -  designing for agency means developing X.**
+
+To follow on from the gap in research concerning the underlying goals of undertaking CGD&P. Let's turn to terminology.  
+
+What goals in the field of CGD&P address the development of agency.
+
+The concepts of computational fluency is can be critiqued as a potentially individualised approach compared to
 Fluidity of practice of participants for characteristics of an emerging inclusive, idioculture
 
 Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it.
@@ -1113,8 +1135,6 @@ As such, I draw on concrete example of repertoire in my research as a case study
 **equity and diversity as concrete instances with the learning environment**
 
 Given the possibilities for participants, in particular children to develop specialism which allow them to share their expertise with adults, this invites further investigation of relational equity as a particular form of relational agency. This potential is explored in the conclusion.
-
-
 
 
 <!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
