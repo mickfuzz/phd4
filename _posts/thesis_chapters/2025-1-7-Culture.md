@@ -228,8 +228,6 @@ The lens of inclusion and the alignment with UDL is relevant as a possible resol
 <!-- - MOVE TO CONCLUSION? metaphors / frameworks to envisage affordences and particpant agency in CHAT framework. and why this is useful for facilitators and as an accessibel way to share findings. -->
 
 
-
-
 The chapter contains a discussion on wider concerns of designing for learner agency. Here I synthesise analysis on processes which support learners to develop agency in this game making community
 (and the role of different levels of authenticity?)
 
@@ -293,13 +291,7 @@ And invites this discussion to turn to the role of conceptions of abstract and c
 
 While the educational use of design patterns and has been explored in other settings via research, the focus has been on professional rather than novice learners.  
 
-
-
-
 <!-- While understanding the process is more obviously useful for faciliators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects. -->
-
-
-
 
 <!-- Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets. -->
 
@@ -792,9 +784,7 @@ While the data in the last chapter address aspects / elements of repertoires whi
 
 The relationship between developing effective repertoires and the affective relationship to the activity relies on the participants being able to identify with the ongoing activity   thus informing a processes of inclusion.
 
-
-
-The concept of hybridity as a way of recognising and deploying diversity of medational tactics and resources in learning contexts [@gutierrez_rethinking_1999] is relevant to this research as a pathway into an exploration of the competing alternate goals within the overall motivation of making a game to share, and component goals of implementing GDPs to do this.  
+The concept of hybridity as a way of recognising and deploying diversity of mediational tactics and resources in learning contexts [@gutierrez_rethinking_1999] is relevant to this research as a pathway into an exploration of the competing alternate goals within the overall motivation of making a game to share, and component goals of implementing GDPs to do this.  
 
 In a similar vein, drawing on Barron's helping roles [@barron_parents_2009], Roque [@roque_family_2016; @roque_im_2016] employed supporting faciliators to highlight and celebrate the helping processes parents used to support children in a making environment.
 
@@ -820,7 +810,7 @@ In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narra
 
 ##### Use of GDPs in supporting social and cultural repertoires of practice  
 
-The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incoporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
+The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incorporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
 
 GDPs are used both as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
 
@@ -845,7 +835,6 @@ An analysis on the role of playtesting and an emerging forms of playful playtest
 <!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
 
 **Variations in approaches to playtesting**
-
 
 Some participants refrained from extensive testing of other games, waiting for others to test their games and observing their responses. Others were very social in their playtesting approach. Madiha making very positive comments on design of player characters and building relations in that way. The last chapter showed that some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process.  
 
@@ -956,7 +945,12 @@ My design decision to build the toolset as structure on top of authentic tools a
 
 The practice of starting from a template mirrors professional practice. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency. This strong alignment with authentic, professional practice may help learners transition from a supported harbour to venture out into into the open seas of less supported research and practice.
 
-An example of this being the Toby and Dan in Vignette x. who in their choice to change game genre from platformer to maze game leave the safety of a set of design patterns and paired support documtation. Instead Toby must develop his code patching skills in choppier waters by accessing more authentic documentation and chart their own patterns in the open sea of internet-based resources. This is made possible by having an experienced navigator with him, in the form of a parent with relevant skills.  I propopse that the curated replication of authentic process of finding and incorporating code snippets into the starting template supported the development of skills used in the authentic waters of professional coding communities.
+An example of this being the Toby and Dan in Vignette x. who in their choice to change game genre from platformer to maze game leave the safety of a set of design patterns and paired support documentation. Instead Toby must develop his code patching skills in choppier waters by accessing more authentic documentation and chart their own patterns in the open sea of internet-based resources. This is made possible by having an experienced navigator with him, in the form of a parent with relevant skills.  I propose that the curated replication of authentic process of finding and incorporating code snippets into the starting template supported the development of skills used in the authentic waters of professional coding communities.
+
+In terms of agency and choice over learner pathway, we can see that the safe nature of the harbour encourages free exploration within its area. There are limits to the rhizomatic nature of this exploration. The boundaries of the harbour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures used. The following section explores restrictions (e.g in genre) from a perspective of the creative potential of such limitations [@rosso_creativity_2014].
+
+
+<!-- This alignment with a rhizomatic approach within a structure has been explored in this thesis using a metaphor of a harbour in terms of the conceptualisation of the design from a facilitator / designers point of view. The habour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures participants must understand or create to make progress. -->
 
 <!-- to other forms of web coding projects, due to the similarity of as this element of practice.
 CH.5 -->
@@ -968,18 +962,35 @@ CH.5 -->
 
 <!-- The freedoms and restrictions of playgrounds -->
 
-A similar metaphorical dimension of protection is present in metaphors of play spaces, a link which is immediately present in this design in the use of a code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space. Similarly, the term _sandbox_ is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes. As with habours, a space of play space evokes protection within designed limitations, but beyond that they provide affordences to encourage learners to evolve their own play processes as a form of transformational and relational agency.  The concept of musical play withing jam sessions is a productive way to explore this tension between freedom and structure.
+A similar metaphorical dimension of protection is present in metaphors of play spaces, a link which is immediately present in this design in the use of a code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space. Similarly, the term _sandbox_ is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes. As with habours, a space of play space evokes protection within designed limitations [@rosso_creativity_2014], but beyond that they provide affordances to encourage learners to evolve their own play processes as a form of transformational and relational agency.  The concept of musical play within jam sessions is a productive way to explore this tension between freedom and structure.
 
 In the previous chapter, I explored the flexible nature of emerging design behaviours and proposed them as a form of
 improvisation or jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. The following section makes a closer parallel in the context of the data of this study.
 
 In a macro-level, at a jam event infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro level is an introduced, familiar framework restricted in that it based on a familiar, popular song (often referred to as _standards_), within a agreed  genres (most often blues and jazz). The shord structure of a song, and the key in which it is performed, forms a base guiding improvisation. Within a jam process, bringing your own style to build on that structure is welcomed. The process is augmented by the group element of the musical jam where music makers pick up techniques from others in the process. Visual and verbal encouragement is often present in sucessful jam nights to encourage new comers. If a jam session is regular, local popular standard songs emerge. This provides opportunities to hear them played regularly, allows potential participant to hear them version before entering, a useful form of peripheral participation.
 
-Several parallels to the design and processes in my research exist. The half-baked game template can be seen a shared song framework that partcicipants build on in idiosyncratic ways. The value of a process that incorporates an authentic audience made up partly of peer makers is important for the development of repertoires of practice in both contexts. The value of the possibility to blend extablished repertoires with those brought by new players is a shared contextual motivation.
+Several parallels to the design and processes in my research exist. The half-baked game template can be seen a shared song framework that participants build on in idiosyncratic ways. The value of a process that incorporates an authentic audience made up partly of peer makers is important for the development of repertoires of practice in both contexts. The value of the possibility to blend established repertoires with those brought by new players is a shared contextual motivation.
 
 ADD MORE HERE IF RELEVANT.
 
-At this stage is relevant to return to issues of underlying  motivation driving partcipation as a way of making a link to existing research on digital making pedagogy. This metaphor serves to illustrate the importance of and possibilities for development of relational agency via participation in the joint process. Additionally, if relational agency is the goal and the means then building fluency of practice is an observable result of this process both in dimensions of technical fluency and in possibilities for expression. In the next section I explore a contribution to pedagogies developing technological or computational fluency [@resnick_coding_2020; @papert_technological_1995].
+The following table serves as a visual summary of some of the relevant space/place based characteristics relevant to the importance of this research.
+
+Perhaps add another analytical dimension?
+
+| **Harbour**            | **Jam Session** |
+|----------------------|----------------------|
+| Protection from complexity  | Restrictions in genre explored |
+| Form   |   |
+
+
+Table 7.2 exploring valuable concepts via metaphor.
+
+
+**Link**
+
+At this stage is relevant to return to issues of underlying  motivation driving participation as a way of making a link to existing research on digital making pedagogy. This metaphor serves to illustrate the importance of and possibilities for development of relational agency via participation in the joint process. Additionally, if relational agency is the goal and the means then building fluency of practice is an observable result of this process both in dimensions of technical fluency and in possibilities for expression. In the next section I explore a contribution to pedagogies developing technological or computational fluency [@resnick_coding_2020; @papert_technological_1995].
+
+
 
 
 <!-- Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. -->
@@ -1007,27 +1018,88 @@ The concepts of affective space and magic circle  as a way to encourage particip
 The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail. -->
 
 
-
-####  Synthesis - A complex view of agency and repertoires development within Idiocultures / 3rd spaces - PARK FROM A BIT AND COME BACK TO THIS.
-
-COME BACK TO MY MOTIVATION OF THE STUDY HERE TOO.
-
-While development of relational agency is a part of the social and cultural aspects of repertoires development,
-
-This section moves beyond agency to explore issues of
-- development of pedagogies to facilitate computational fluency
-- equity and diversity as concrete instances with the learning environment.
+## Part Three : Synthesis & contributions to the field
 
 
+<!-- TO INTEGRATE?
 
-<!-- I favour its enaction via a sketchy pedagogies, an incomplete process inviting participation. -->
+The role of the emerging culture and identity of the idioculture  is developed in this chapter in the following ways:
 
-In summary agency in the participation in game making community is seen as  complex and multi-dimensional
+- the impact / if any of the social missions and player types to help the development of learner identities.
 
-- agency is seen beyond a individualised property, as participation in a community.
-- agency is ideally part of a utopian process, and thus as equity [Gutierrez]
-- as , diversity, enacted, concrete, thus towards inclusion
+- the emergence and nurturing of flexible and complex design behaviours (beyond player types) -->
 
+
+### Returning to gaps in the research landscape & my motivations
+
+In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming(CGD&P)
+
+Overall, a gap in making games compared to playing them, a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
+
+
+This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies aligns with those gaps.
+
+While one promising concept, that of computational fluency, exists in broader research, the concept is only explored in broads strokes as both technical competency and an ability to for self-expression within digital code mediums [].
+
+The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
+
+
+### First area of contribution to the research in the field: An applied pedagogy with detailed analysis of inherent structural components
+
+<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
+
+
+This chapter contend that the underlying structure of the learning design is vital to support the social and cultural processes described above. This technical structure synthesises UMC pedagogy, a half-baked game template and the use of a collection of game design patterns. This section summaries this structural / technical approach.
+
+In terms of the specificity of the last section, this chapter has, in line with underlying Marxist principles, returned to the concrete. Specifically the theoretical generalisation or germ cell that emerged from this research of the use of GDPs is applied in specific concrete instances in a variety of ways. The additional scaffolding provided by GDPs and the  synthesis of UMC and half-baked game, specifically as a boundary object with affordances inviting completion, contributing a more specific, accessible and coherent pedagogy to the the field of game making.
+
+The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section. Thus the structural elements of this design facilitate the kind of relational pedagogies originally advocated by Papert and but which have too often been missing from research in this field.
+
+
+
+
+<!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
+
+
+The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the development of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+
+**Can't quite fit in.**
+
+These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
+
+
+
+
+### Second area of contribution to the research in the field:  A complex view of agency and repertoires development within this research
+
+<!-- - Addressing gaps in the research - The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
+- Also, as agency is seen beyond a individualised property, as participation in a community - as such computational fluency should also be challenged as a individualised approach.
+- agency as choice over learner pathway potential is present in the potential of the menu of GDPs
+- But beyond that simplistic element of choice, Development of relational agency is a part of the social and cultural aspects of repertoires development, which can be aided by the use of techniques like the explicit structuring of playtesting with side missions and implicit pedagogy of supporting maker types and parental helping roles.
+- because of the DBR approach, agency here can be conceived  is ideally part of a utopian process, and thus as equity [Gutierrez], where there limitation in my approach, there are the essential conditions present. Thus it is transformational (which may not scale)
+- More broadly this research can be developed beyond agency to encompass, equity, diversity, enacted, concrete, thus towards inclusion. -->
+
+
+#### Synthesis of the structural and the cultural - IS IT TACTICAL?
+
+I attempt a synthesis of these process, in a book chapter as a framework called the 3M approach [@chesterman_game_2023]. Given this challenge, the process of presenting the main elements of the learning design as a whole are challenging [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1], and bearing in mind that there are already a good degree of complexity in the pedagogy summarised above, it begs the question is it tactical to attempt such a synthesis in terms of the specifics of the learning design.
+
+The specifics of the social and cultural elements of the design in the form of additional missions are not unique to this study. And while I have an interest in future research in this area, in particular the use if drama process aligned with Heathcote's Mantle of the Expert methods, such analysis has had to been de-prioritised from this research do to practicalities of space limitations.  
+
+Thus instead a greater focus on the shifting nature of agency in my design and the value of designing for it. And the use of metaphors in the advocacy.
+
+#### Summary of discussion on designing for agency
+
+Agency in the participation in game making community is seen as  complex and multi-dimensional. Agency is seen beyond a individualised property, as participation in a community.
+
+The concepts of computational fluency is not developed in this  should also be examined as a potentially individualised approach.
+
+
+- agency as choice over learner pathway potential is present in the potential of the menu of GDPs
+- But beyond that simplistic element of choice, Development of relational agency is a part of the social and cultural aspects of repertoires development, which can be aided by the use of techniques like the explicit structuring of playtesting with side missions and implicit pedagogy of supporting maker types and parental helping roles.
+- because of the DBR approach, agency here can be conceived  is ideally part of a utopian process, and thus as equity [Gutierrez], where there limitation in my approach, there are the essential conditions present. Thus it is transformational (which may not scale)
+- More broadly this research can be developed beyond agency to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
 
 Fluidity of practice of participants for characteristics of an emerging inclusive, idioculture
 
@@ -1038,119 +1110,59 @@ The conception of development of repertoires of practices is key to this interpr
 As such, I draw on concrete example of repertoire in my research as a case study contribution to applied research in this promising field.
 
 
+**equity and diversity as concrete instances with the learning environment**
+
+Given the possibilities for participants, in particular children to develop specialism which allow them to share their expertise with adults, this invites further investigation of relational equity as a particular form of relational agency. This potential is explored in the conclusion.
+
+
+
+
 <!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
 
 
-**Returning to transformational agency here and how it different from conceptions of developing repertoires of practice and relational agency**
-
-How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice.
-
-Conceptions of AT are evolving including a 4th generation which responds to increasingly rapid and evolving situations.
-See
-https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455
+### Third area of contribution to the research in the field:  The impact of the DBR / FI  
 
 
+<!-- https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455 -->
+While the core theoretical framework of CHAT has been extremely useful in exposing important element of this research in flexible ways, this research raises important questions which are still in the process of being advanced in terms of suitable methodology.  Conceptions of both CHAT and DBR are still evolving. For example, AT proponents are advancing a 4th generation which responds to increasingly rapid and evolving situations [@engestrom_mediated_2021]. As a early career research and novice I cautiously advance some observations, at times framed as questions which may be fruitful in future interaction with DBR and FI research community.
 
+1. How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice?
 
-## Part Three : Synthesis & contributions to the field
+2. What are the pros and cons of the use of 360 video to capture social / cultural interactions especially in this field.
 
+3. The focus on broad affordances, and an expanded view of motivation and new emerging Zopeds - is needed for socio-cultural theory in this area. Hence the value of an experimental approach and the role of playtesting in advancing that process.
 
-- Synthesis of characteristics; step based / template, Germ cell GDPs, playtesting as medium for develoment of idioculture,
-- Final analysis with UMC, UDL, MOE - bring complexity here - perhaps bring the metaphors here instead.
-
-
-
-<!-- - Celebrate the process of bricolage in this research. -->
-
-<!-- - Role of the methodology / DBR . FI to bring this process / analysis out - MOVE EARLIER.  -->
-
-TO INTEGRATE?
-
-The role of the emerging culture and identity of the idioculture  is developed in this chapter in the following ways:
-
-- the impact / if any of the social missions and player types to help the development of learner identities.
-
-- the emergence and nurturing of flexible and complex design behaviours (beyond player types)
-
-
-### Gaps in existing research.
-The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions.
-
-
-### Contribution 1 - Applied pedagogy - structural components
-
-<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
-
-In the previous chapter we explored the use of GDPs as a possible response to the challenges to project work and the lack of domain specific frameworks. The nature of the framework provided by game play design patterns has been be explored through the lens of agency.
-
-This section synthesises the learning design with such interpretations.
-
-And then progresses to recap the potential of this synthesis of these process, framed in other writing as a 3M approach.
-
-Finally it links the the outputs with the research process in terms of the impact of DBR and formative intervention approaches.
-
-
-These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
-
-- UDL / PBL
-
-Key characteristics of structuring support around quick start activities and a subsequent menu of GDPs which align with existing research include:
-
-The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it.
-
-#### Summary of observations contributions of novel aspect of the learning design (PERHAPS MERGE WITH BELOW)
-
-While the base structuring of the starting template drew on concepts of UMC and half-baked game design, the use of a menu of GDPs to scaffold the modify and create stage is a novel approach.
-
-The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the developmetn of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
-
-This alignment with a  rhizomatic approach within a structure has been explored in this thesis using a metaphor of a harbour in terms of the conceptualisation of the design from a facilitator / designers point of view. The habour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures participants must understand or create to make progress.
-
-From a participants' perspective I liken their experience to the process of jamming an informal musical practice.
-
-While The value of playtesting as a practice is surfaced either explicitly in professional game making
-
-Other sections of this research The use of social missions to support the variety of development.
-
-### Contribution 2 - The focus on the social/ cultural via playtesting, etc
-
-- explicit structuring of playtesting with side missions
-- implicity pedagogy of supporting maker types
-
-
-### Contribution 3 - The impact of the DBR / FI methodology_chapter (PUT FIRST?)
-
-The focus on broad affordances, and an expanded view of motivation and new emerging Zopeds - is needed for socio-cultural theory in this area. Hence the value of an experimental approach and the role of playtesting in advancing that process.
-
-Also the use of 360 video to capture social / cultural interactions.
-
-
-### Contribution 4 - The interaction of flexible deign practices, the collection of Game Design Patterns, stepwise scaffolding of learning environments on participant agency framed as computational fluency
-
-Intro bringing together elements.
-
-
-
+4. How best can socio-cultural approaches be aligned with constructionist legacy. Is my approach of x, fruitful in other areas?
 
 
 
 ## Conclusion
 
 
+As this chapter is ongoing this conclusion is in draft form. Feedback on what to include in this chapter conclusion is welcome.
 
-**Wrapping up in narrative?**
+- the place of this chapter in the narrative of the thesis
+- the limitations or questions arising that may be addressed in the following chapter.
+-
 
-In AT terminology, this chapter has in a general sense returned to the concrete (see Marx / Blunden).
 
-Chapter four outlined a design narrative where tools were chosen and adapted by myself and Participants in response to local context. Chapter five explored the emerging organisational unit of GDPs, and how they were used as meditational strategies.  
+**limitations/ further work**
 
-This chapter has explored emergent cultural and community activity, and deepened discussion on interpersonal activity, and then returned to discuss implications for dimensions of concrete tool use on learner agency.
+This work invites exploration of related issues of
+- inclusion as a lens
 
-It's dialectic innit. We call it praxis.
-
-The methodology chapter outlined some of the challenges of this approach, particularly in the thick description of context, and the challenge of then satisfying the goal of generalisability / and overall utitlity.
 
 The final chapters aims to address this with  recommendations for facilitators and researchers. The scope of the applicability is addressed as the findings of this thesis can inform the wider debate of how to best support project based learning in wider domains. Specifically the use of concrete design frameworks and step-based iterative project in scaffolding PBL.
+
+
+<!-- Chapter four outlined a design narrative where tools were chosen and adapted by myself and Participants in response to local context. Chapter five explored the emerging organisational unit of GDPs, and how they were used as meditational strategies.   -->
+
+<!-- This chapter has explored emergent cultural and community activity, and deepened discussion on interpersonal activity, and then returned to discuss implications for dimensions of concrete tool use on learner agency. -->
+
+<!-- The methodology chapter outlined some of the challenges of this approach, particularly in the thick description of context, and the challenge of then satisfying the goal of generalisability / and overall utitlity. -->
+
+
+
 
 
 
