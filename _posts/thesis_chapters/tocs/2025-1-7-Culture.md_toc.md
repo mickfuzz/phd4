@@ -4,19 +4,16 @@
     -   [Research Questions Jan 2025](#research-questions-jan-2025)
     -   [Notes](#notes)
     -   [Introduction](#introduction)
+    -   [The following summary is currently under developed and will be
+        revised
+        later.](#the-following-summary-is-currently-under-developed-and-will-be-revised-later.)
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [Exploration of findings in relation to CHAT conceptions of
-            abstraction](#exploration-of-findings-in-relation-to-chat-conceptions-of-abstraction)
-        -   [Exploration of GDPs as mid-level construct in relation to
-            other conceptions of abstraction in computing education
-            research](#exploration-of-gdps-as-mid-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
-            -   [Design patterns as a intermediate-level, pedagogical
-                framework - THE
-                HYPOTHESIS](#design-patterns-as-a-intermediate-level-pedagogical-framework---the-hypothesis)
-            -   [Purpose of the frameworks being addressed is also
-                relevant.](#purpose-of-the-frameworks-being-addressed-is-also-relevant.)
+        -   [Exploration of GDPs as an intermediate-level construct in
+            relation to other conceptions of abstraction in computing
+            education
+            research](#exploration-of-gdps-as-an-intermediate-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
             -   [Types of abstraction in frameworks - recalling
                 definitions or lack of clear
                 definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
@@ -27,6 +24,8 @@
         -   [Observations on abstract / concrete dimensions in my data
             related to gameplay design
             patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
+            -   [Purpose of the frameworks being addressed is also
+                relevant.](#purpose-of-the-frameworks-being-addressed-is-also-relevant.)
             -   [Addressing utility for
                 participants](#addressing-utility-for-participants)
             -   [Addressing utility for designers /
@@ -73,29 +72,23 @@
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Spaces to play - playgrounds and jam
                 sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-            -   [Synthesis - A complex view of agency and repertoires
-                development within Idiocultures / 3rd spaces - PARK FROM
-                A BIT AND COME BACK TO
-                THIS.](#synthesis---a-complex-view-of-agency-and-repertoires-development-within-idiocultures-3rd-spaces---park-from-a-bit-and-come-back-to-this.)
     -   [Part Three : Synthesis & contributions to the
         field](#part-three-synthesis-contributions-to-the-field)
-        -   [Gaps in existing research.](#gaps-in-existing-research.)
-        -   [Contribution 1 - Applied pedagogy - structural
-            components](#contribution-1---applied-pedagogy---structural-components)
-            -   [Summary of observations contributions of novel aspect
-                of the learning design (PERHAPS MERGE WITH
-                BELOW)](#summary-of-observations-contributions-of-novel-aspect-of-the-learning-design-perhaps-merge-with-below)
-        -   [Contribution 2 - The focus on the social/ cultural via
-            playtesting,
-            etc](#contribution-2---the-focus-on-the-social-cultural-via-playtesting-etc)
-        -   [Contribution 3 - The impact of the DBR / FI
-            methodology_chapter (PUT
-            FIRST?)](#contribution-3---the-impact-of-the-dbr-fi-methodology_chapter-put-first)
-        -   [Contribution 4 - The interaction of flexible deign
-            practices, the collection of Game Design Patterns, stepwise
-            scaffolding of learning environments on participant agency
-            framed as computational
-            fluency](#contribution-4---the-interaction-of-flexible-deign-practices-the-collection-of-game-design-patterns-stepwise-scaffolding-of-learning-environments-on-participant-agency-framed-as-computational-fluency)
+        -   [Returning to gaps in the research landscape & my
+            motivations](#returning-to-gaps-in-the-research-landscape-my-motivations)
+        -   [First area of contribution to the research in the field: An
+            applied pedagogy with detailed analysis of inherent
+            structural
+            components](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components)
+        -   [Second area of contribution to the research in the field: A
+            complex view of agency and repertoires development within
+            this
+            research](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-within-this-research)
+            -   [Summary of discussion on designing for
+                agency](#summary-of-discussion-on-designing-for-agency)
+        -   [Third area of contribution to the research in the field:
+            The impact of the DBR /
+            FI](#third-area-of-contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent

@@ -14,6 +14,9 @@
         -   [Research Output - Toolsets of template and Code playground
             (RQ1 and impact on
             RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3)
+        -   [Research Output - A pedagogy aligned with inclusive
+            approaches and promising for neurodiversity in
+            particular](#research-output---a-pedagogy-aligned-with-inclusive-approaches-and-promising-for-neurodiversity-in-particular)
         -   [Evidence of evolution on design/ processes and learner
             agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
     -   [Theoretical Contributions](#theoretical-contributions)

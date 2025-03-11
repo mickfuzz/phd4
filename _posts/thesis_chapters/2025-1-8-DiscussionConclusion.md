@@ -271,6 +271,13 @@ P5.js perhaps provides a better base which is more aligned with learners needs.
 Recreating resources in P5.js is a strong possibility to make this approach more familiar and less porous / daunting.
 
 
+### Research Output - A pedagogy aligned with inclusive approaches and promising for neurodiversity in particular
+
+The lens of inclusion and the alignment with UDL is relevant as a possible resolution to abstract  / concrete tensions as a gateway to access diverse learner pathways and thus avoid an overly complex navigational framework thus reducing cogintive load.
+
+Synthesis in relation to  Issues of inclusive pedagogy. UDL, UMC, MOE.  This  underline the entire motivation and design of the study. Returning therefore to a fundamental point of the study to explore how this help diverse learners in a challenging area to learn. Ending by suggesting UDL as a helpful framework,
+
+
 ### Evidence of  evolution on design/ processes and learner agency
 <!-- NOTE  I would say  too complex for coding -->
 
