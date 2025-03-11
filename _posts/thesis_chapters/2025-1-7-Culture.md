@@ -254,15 +254,17 @@ This section explores these academic conceptions in a playful way using relatabl
 4. then Waite Levels of abstraction - & observations
 5. Then begin practical use of this take - tinkering pedagogy -->
 
-In chapter two I described the characteristics and limits of existing pedagogies in the domain of computer game design and programming (CGD&P) addressing conceptions of abstraction including computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches. The research process, in particular attempts in later stages to align with UK computing curricular concerns, provoked careful reflection of abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. The previous chapter began to explore, through the lens of personal appropriation, a variety of concepts and practices suitable for development via this learning design in the form of a map of learning dimensions.
+In chapter two I described the characteristics and limits of existing pedagogies in the domain of computer game design and programming (CGD&P) addressing conceptions of abstraction including computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches. The research process, in particular attempts in later stages to align with UK computing curricular concerns, provoked careful reflection on abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. The previous chapter began to explore, through the lens of personal appropriation, a variety of concepts and practices suitable for development via this learning design in the form of a map of learning dimensions.
 
-This chapter section develops this line of thinking in two broad streams. Firstly, the research process and the evolving design involve a process of _rising to the concrete_, an analytical process involving identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it. Secondly, the tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of this domain. This section ends by unifying these threads with an proposal of GDPs as an intermediate-level construct located between these poles, demonstrating their utility for educational designers, researchers and for participants.
+This chapter section develops this line of thinking in two broad streams. Firstly, the research process and the evolving design involve a process of _rising to the concrete_, an analytical process involving identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it. Secondly, the tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of this domain. This section ends by unifying these threads with a proposal of GDPs as an intermediate-level construct located between these poles, demonstrating their utility for educational designers, researchers and for participants.
+
 
 
 <!-- surfacing a distinction between curricular contents commonly associated with a more abstract understandings of personal knowledge, including more abstract elements of computation thinking.  -->
 
 
-To start, however, let us consider the nature of the utility of abstraction using this study's theoretical framework of activity theory. For  Sannino' [-@sannino_activity_2011] distinction between empirical abstraction, described as "observation and categorization",  and theoretical abstraction, characterises as  "practical transformation, change, and experimentation".  The utility of such theoretical abstraction lies in its ability to generate "concrete manifestations and developmental forms of the reality under scrutiny", hence the use of the term _germ cell_. [@sannino_activity_2011, p.590]. In this research, the empirical level of abstraction was most prevalent present in P1, D1 and P2 where features to be added to the game were classified gameplay features and categorised. The nature of abstraction becomes more theoretical as I position each feature as a gameplay design pattern. The guiding conception is the pedagogical utility of a strong coupled link between a feature of an observable game product (in this case gameplay design patterns) and scaffolding resources available within a community. This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter 6. The following section make a parallel between the utility of germ cell concepts and so-called strong concepts or intermediate knowledge in design theory [@hook_strong_2012; @barendregt_intermediate-level_2018].
+To start, however, let us consider the nature of the utility of abstraction using this study's theoretical framework of activity theory. For Sannino' [-@sannino_activity_2011] distinction between empirical abstraction, described as "observation and categorization", and theoretical abstraction, characterised as "practical transformation, change, and experimentation". The utility of such theoretical abstraction lies in its ability to generate "concrete manifestations and developmental forms of the reality under scrutiny", hence the use of the term _germ cell_ [@sannino_activity_2011, p.590]. In this research, the empirical level of abstraction was most prevalent present in P1, D1 and P2 where features to be added to the game were classified as gameplay features and categorised. The nature of abstraction becomes more theoretical as I position each feature as a gameplay design pattern. The guiding conception is the pedagogical utility of a strongly coupled link between a feature of an observable game product (in this case gameplay design patterns) and scaffolding resources available within a community. This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter 6. The following section makes a parallel between the utility of germ cell concepts and so-called strong concepts or intermediate knowledge in design theory [@hook_strong_2012; @barendregt_intermediate-level_2018].
+
 
 <!-- Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start card -->
 
@@ -622,6 +624,8 @@ This section moves beyond instrumental and transformative agency to a wider more
 This helps inform a distinction between FI and SDE,
 Whereas FI do x, SDE do y? <- too much.. -->
 
+
+
 In research which addresses participant agency, Gutiérrez et al. [@gutierrez_youth_2019-1] incorporate broader cultural factors including issues of participant identity and movement of practices between learning settings. While these concepts build on the foundation of 3GAT in terms of conceptions of interacting activity systems [@engestrom_development_1996], they include concepts distinct from those explored in the Helsinki schools form of formative intervention Change Labs. This section explores the findings of previous chapters using three of these concepts of that or third spaces, idiocultures and repertoires of practice. Specifically positioning the idioculture of the game making program as a sum of emerging repertoires of practice of participants and practitioners happening in a third space.
 
 This section contends that relational agency is the closest fit to match the development of these three elements but will complexify this via comparative analysis with transformational agency in the final section.
@@ -635,14 +639,24 @@ This section contends that relational agency is the closest fit to match the dev
 
 4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming -->
 
-####  Observations on repertoires
+### Repertoires and relational agency
 
-**More on Funds of Knowledge / repertoires and how they emerge in my research**
+The data of this study provides a strong case study, evidence and detail to this process in the use of external repertoires and their remediation into new repertoires.
 
-One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces. Most notably this is seen within the sections on divisions of labour and use of funds of knowledge and identity. Examples include: being the identification with graphical art and the development of specialism in Madiha's family, the general use of game playing knowledge, home pedagogies like paper based sketching and more professional knowledge brought by Dan. This blending of the use of GDP concepts, in-template affordence, supporting resources, with such knowledge and practices from other activity systems can be analysed using the concept of repertoires. Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22]. Other research by Gutierrez addresses the importance of participants movement between sites of activity and its impact on learning [@gutierrez_developing_2008; @gutierrez_learning_2019-1].
+The process of developing new repertoires is not a solo process in this new space. The complex relations between participants outlined in the vignettes and data of the last chapter show an interdependence showing characteristics of relational agency.
+
+Edwards  [@edwards2009systemic] explores relational agency within a CHAT framework as transcending individuals capacity to encompass collective problems solving via specialisation and diversity of approaches within activity systems. As a collective participants can overcome systemic contradictions via expansive learning, rearranging working relationships and thus opening new forms of relational agency. This concept is illustrated by the importance of feedback in community making and tinkering activities leading to increased "relational expertise" in partipants [@digiacomo_relational_2016-1 , p.144],
+
+<!-- In the context of my study the role of forllowing design features of the learning environment bear greater exploration.
+
+- the use of GDPs in the development of new  repertoires?
+- the role playtesting in development of relational agency  
+- analysis of additional activities helping the development of learner identities -->
 
 
-##### Linking repertoires to my study / learning design & designing for agency
+While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs, this chapter widens the focus of data examined to include other element of practices which help participants incorporated home repertoires as an inclusive practice.
+
+### Repertoires and relational agency
 
 The data of this study provides a strong case study, evidence and detail to this process in the use of external repertoires and their remediation into new repertoires.
 
@@ -660,7 +674,8 @@ Edwards  [@edwards2009systemic] explores relational agency within a CHAT framewo
 While the data in the last chapter address aspects / elements of repertoires which incorporated GDPs, this chapter widens the focus of data examined to include other element of practices which help participants incorporated home repertoires as an inclusive practice.
 
 
-#### Exploring design features which support identity development in the emerging game making community
+
+#### Exploring design features which support identity development in the emerging game making community - TO INTEGRATE
 
 The relationship between developing effective repertoires and the affective relationship to the activity relies on the participants being able to identify with the ongoing activity   thus informing a processes of inclusion.
 
@@ -668,6 +683,7 @@ The concept of hybridity as a way of recognising and deploying diversity of medi
 
 In a similar vein, drawing on Barron's helping roles [@barron_parents_2009], Roque [@roque_family_2016; @roque_im_2016] employed supporting faciliators to highlight and celebrate the helping processes parents used to support children in a making environment.
 
+<!-- ---
 The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
 
 and extends the research in the area of non-formal exploration of tech by providing a guiding framework using design patterns.
@@ -675,34 +691,54 @@ and extends the research in the area of non-formal exploration of tech by provid
 Example of alignment.
 
 Example of how extending with DPs as a framework could be fruitful, developing and synthesising last chapter arguments.
+---
+
+In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. -->
 
 
-In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this.
+#### Use of GDPs as a gateway framework to support the development of social and cultural repertoires of practice  
+
+The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incorporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
+
+I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
+
+<!-- GDPs are used both as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting. -->
+
+The nature and process of this community evolution merits exploration. As such, this section steps back to discuss the emergence of these practices.  
+
+
+
+
+
+#### Funds of Knowledge / repertoires and how they emerge in my research
+
+One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces. Most notably this is seen within the sections on divisions of labour and use of funds of knowledge and identity. Examples include: being the identification with graphical art and the development of specialism in Madiha's family, the general use of game playing knowledge, home pedagogies like paper based sketching and more professional knowledge brought by Dan. This blending of the use of GDP concepts, in-template affordence, supporting resources, with such knowledge and practices from other activity systems can be analysed using the concept of repertoires. Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22]. Other research by Gutierrez addresses the importance of participants movement between sites of activity and its impact on learning [@gutierrez_developing_2008; @gutierrez_learning_2019-1].
+
+
+
 
 
 
 
 <!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
-<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
+<!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young---
+The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
+
+and extends the research in the area of non-formal exploration of tech by providing a guiding framework using design patterns.
+
+Example of alignment.
+
+Example of how extending with DPs as a framework could be fruitful, developing and synthesising last chapter arguments.
+---
+
+In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
 
  <!-- Examples include.... -->
 
 
-##### Use of GDPs in supporting social and cultural repertoires of practice  
-
-The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incorporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
-
-GDPs are used both as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting.
-
-The nature and process of this community evolution merits exploration. As such, this section steps back to discuss the emergence of these practices.  
-
-I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants. The link to maker types here exists especially in social makers, glitchers and magpies.
-
-My contribution is that using GDPs as a framework helps this process.
 
 
-##### Playtesting as a suitable medium for emerging activities creating third spaces
-
+#### Playtesting as a suitable medium for emerging activities creating third spaces
 
 Playtesting as an incubator for emerging cultural activities, has been crucial to the development of later stages of this learning design. The sum of introdued and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
 
@@ -724,8 +760,12 @@ Some in particular brought a physicality to the process, clustering in a particu
 
 Playtesting acted as a stimulus and incubator for emerging socio-cultural practices prompting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
 
+I observed an evolution of the form and function of playtesting by young participants as an expression of agency by participants.
 
-##### The introduction of maker types and side missions as affordances of my pedagogy to legitimise diversity
+COMMENT  - This evolution maker types here exists especially in social makers, glitchers and magpies.
+
+
+#### The introduction of maker types and side missions as affordances of my pedagogy to legitimise diversity
 
 Such diversity in playtesting behaviours drove my reflection on the additional motivations bleeding into this system from other activity systems. Rather than refocusing participants back to more coding-focused activities, I coded playtesting and game making approaches in to a loose typology (see Appendix .makertypes for fuller detail).   
 
@@ -771,22 +811,13 @@ Thus transformation is happening here but not in a revolutionary way. It is more
 
 
 
-<!-- **beyond primary and secondary tools / stimulation conception**
 
-For this study, one issue of Sannino and Engestroms general approach is that there are many possible stimuli in a modern environment (find source ), and while yes, participant may adapt them for their own use, the focus on just one is potentially limiting. JUST A THOUGHT. -->
-
-<!-- There may have been a response to draw in one of the younger participants who had on parent partner and who was brought along by another parent. -->
-<!-- NOTE - Nadine's play on secret missions mirrors some of her more spontaneous play in the previous phase - thus one informs other -->
-
-
-<!-- HOW MUCH OF THIS COULD LIVE IN CHAPTER 7 AS A AGENCY / PLAYTESTING SECTION? -->
-<!--
-HOW TO KEEP THE MOST VALUABLE PART OF THIS SECTION - IMPLICATIONS FOR AGENCY AND FOR IDENTITY - AND INCLUSION / PARTICIPATION
-**On playtesting behaviours and interaction with GDP findings** -->
 
 <!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
 
-<!-- #### on alien chat
+<!-- #### on alien chatmes shared and celebrated by the group.
+
+Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
@@ -795,8 +826,8 @@ The live chat process started unintentionally as one child was left to their own
 
 ### Metaphors as a way to explore conceptions of agency within digital making
 
+The previous sections have explored a complex and multi-faceted view of participant agency in this learning design. Before undertaking a fuller summary in the final section of this chapter, this section reinterprets some of these aspects using a metaphorical approach. The use of metaphor here has two functions. The first is to help deepen my analysis via a move to the abstract, searching for communicable generalisations. Secondly, given the multi-faceted nature of the pedagogy, and bearing in mind previous reflections on the value of a utopian approach to communicating the future possibilities of findings [@rajala_utopian_2023; @gutierrez2020utopian] paired with the conceptual difficulties of communicating complex pedagogical affordances of adaptable media-making toolsets (e.g., Logo and Microworlds [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1]), I draw on metaphors as a framing tool to present an initially simplified viewpoint for further discussion. The discussion will draw from these metaphors' relatable core principles to aid the accessibility of this research for an audience of practitioners as well as researchers.
 
-The use of metaphor here has two functions. The first is to help deepen my analysis via a move to the abstract, to search for communicable generalisations. Secondly, given the multi-faceted nature of the pedagogy, and bearing in mind previous reflections on the value of a utopian approach to communicating the future possibilities of findings [@rajala_utopian_2023; @gutierrez2020utopian] paired with the conceptual difficulties of  communicating complex pedagogical affordances of adaptable media making toolsets approaches (e.g Logo and Microworlds [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1]), I draw on metaphors as a framing tool to present an initially simplified viewpoint for further discussion. The discussion will draw from these metaphors relatable core principles to aid the accessibility of this research for audience of practitioners as well as researchers.
 
 <!-- In this case metaphors concerning learning spaces and movement between spaces are often found in existing research including: walled gardens, playgrounds, sandboxes, harbours. -->
 
@@ -811,22 +842,26 @@ The use of metaphor here has two functions. The first is to help deepen my analy
 
 #### Harbours as both protective and authentic
 
-The intrigue of opening up previously mysterious areas and seeing or experimenting with what makes them tick, often referred to as looking under the hood applies here in early stages of the learning experience. The process of clicking remix to fix a broken, half baked game involves entering unfamiliar and potentially exciting waters. However, the motivational impact of an authentic process and set of tools must be balanced by possible accompanying complexity [@nachtigall_authenticity_2024].
+The intrigue of opening up previously mysterious areas and seeing or experimenting with what makes them tick, often referred to as looking under the hood, applies here in the early stages of the learning experience. The process of clicking remix to fix a broken, half-baked game involves entering unfamiliar and potentially exciting waters. However, the motivational impact of an authentic process and set of tools must be balanced by possible accompanying complexity [@nachtigall_authenticity_2024].
 
-Harbours are protective spaces suitable for docking of ships. The may be natural or designed. If designed, protection is offered by artificially created harbour walls extending out into the sea creating a sheltered space, prevent large waves from entering but also allowing movement out into the open sea. Harbours provide the possibility for refuelling or maintaining sea vessels and infrastructure to connect to rail or road links for transport in-land. The term harbour is used metaphorically to indicate a space of safety, nurturing and a gathering space for like minds.
+Harbours are protective spaces suitable for docking ships. They may be natural or designed. If designed, protection is offered by artificially created harbour walls extending out into the sea, creating a sheltered space, preventing large waves from entering but also allowing movement out into the open sea. Harbours provide the possibility for refuelling or maintaining sea vessels and infrastructure to connect to rail or road links for transport inland. The term harbour is used metaphorically to indicate a space of safety, nurturing, and a gathering space f
+
 
 <!-- SUMMARISE - MOVE EXTRA / EXAMPLES UP TO THE FIRST SECTION - FIND A GOOD PLACE FOR IT. -->
 
 
-While this design uses an authentic, professional text-coding language with its inherent challenges, many other design decisions in this study were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; shielding learners from the underlying configuration of interrelated web-technologies; removing or obscuring structural code complexity in the code template.
+While this design uses an authentic, professional text-coding language with its inherent challenges, many other design decisions in this study were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; shielding learners from the underlying configuration of interrelated web technologies; removing or obscuring structural code complexity in the code template.
+
 <!--
 My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency. -->
 
-The practice of starting from a template mirrors professional practice. The goal being to want to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency. This strong alignment with authentic, professional practice may help learners transition from a supported harbour to venture out into into the open seas of less supported research and practice.
+The practice of starting from a template mirrors professional practice. The goal being to shield new users from the complexity of the underlying configuration of interrelated web technologies and instead highlight design affordances that facilitate creative agency. This strong alignment with authentic, professional practice may help learners transition from a supported harbour to venture out into the open seas of less supported research and practice.
 
-An example of this being the Toby and Dan in Vignette x. who in their choice to change game genre from platformer to maze game leave the safety of a set of design patterns and paired support documentation. Instead Toby must develop his code patching skills in choppier waters by accessing more authentic documentation and chart their own patterns in the open sea of internet-based resources. This is made possible by having an experienced navigator with him, in the form of a parent with relevant skills.  I propose that the curated replication of authentic process of finding and incorporating code snippets into the starting template supported the development of skills used in the authentic waters of professional coding communities.
+An example of this being Toby and Dan in Vignette X. who, in their choice to change the game genre from platformer to maze game, leave the safety of a set of design patterns and paired support documentation. Instead, Toby must develop his code patching skills in choppier waters by accessing more authentic documentation and charting their own patterns in the open sea of internet-based resources. This is made possible by having an experienced navigator with him, in the form of a parent with relevant skills. I propose that the curated replication of authentic processes of finding and incorporating code snippets into the starting template supported the development of skills used in the authentic waters of professional coding communities.
 
-In terms of agency and choice over learner pathway, we can see that the safe nature of the harbour encourages free exploration within its area. There are limits to the rhizomatic nature of this exploration. The boundaries of the harbour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures used. The following section explores restrictions (e.g in genre) from a perspective of the creative potential of such limitations [@rosso_creativity_2014].
+
+In terms of agency and choice over learner pathway, we can see that the safe nature of the harbour encourages free exploration within its area. There are limits to the rhizomatic nature of this exploration. The boundaries of the harbour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures used. The following section explores the restrictions (e.g. in genre) from a perspective of the creative potential of such limitations [@rosso_creativity_2014].
+
 
 
 <!-- This alignment with a rhizomatic approach within a structure has been explored in this thesis using a metaphor of a harbour in terms of the conceptualisation of the design from a facilitator / designers point of view. The habour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures participants must understand or create to make progress. -->
@@ -841,19 +876,22 @@ CH.5 -->
 
 <!-- The freedoms and restrictions of playgrounds -->
 
-A similar metaphorical dimension of protection is present in metaphors of play spaces, a link which is immediately present in this design in the use of a code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space. Similarly, the term _sandbox_ is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes. As with habours, a space of play space evokes protection within designed limitations [@rosso_creativity_2014], but beyond that they provide affordances to encourage learners to evolve their own play processes as a form of transformational and relational agency.  The concept of musical play within jam sessions is a productive way to explore this tension between freedom and structure.
+A similar metaphorical dimension of protection is present in metaphors of play spaces, a link which is immediately present in this design in the use of code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space. Similarly, the term sandbox is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes. As with harbours, a space of play space evokes protection within designed limitations [@rosso_creativity_2014], but beyond that they provide affordances to encourage learners to evolve their own play processes as a form of transformational and relational agency. The concept of musical play within jam sessions is a productive way to explore this tension between freedom and structure.
 
-In the previous chapter, I explored the flexible nature of emerging design behaviours and proposed them as a form of
-improvisation or jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. The following section makes a closer parallel in the context of the data of this study.
 
-In a macro-level, at a jam event infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro level is an introduced, familiar framework restricted in that it based on a familiar, popular song (often referred to as _standards_), within a agreed  genres (most often blues and jazz). The shord structure of a song, and the key in which it is performed, forms a base guiding improvisation. Within a jam process, bringing your own style to build on that structure is welcomed. The process is augmented by the group element of the musical jam where music makers pick up techniques from others in the process. Visual and verbal encouragement is often present in sucessful jam nights to encourage new comers. If a jam session is regular, local popular standard songs emerge. This provides opportunities to hear them played regularly, allows potential participant to hear them version before entering, a useful form of peripheral participation.
+In the previous chapter, I explored the flexible nature of emerging design behaviours and proposed them as a form of improvisation or jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators' ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. The area of improvisation is underexplored in the game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. The following section makes a closer parallel in the context of the data of this study.
 
-Several parallels to the design and processes in my research exist. The half-baked game template can be seen a shared song framework that participants build on in idiosyncratic ways. The value of a process that incorporates an authentic audience made up partly of peer makers is important for the development of repertoires of practice in both contexts. The value of the possibility to blend established repertoires with those brought by new players is a shared contextual motivation.
+On a macro-level, at a jam event, infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro-level is an introduced, familiar framework, restricted in that it is based on a familiar, popular song (often referred to as standards), within agreed genres (most often blues and jazz). The short structure of a song and the key in which it is performed form a base guiding improvisation. Within a jam process, bringing your own style to build on that structure is welcomed. The process is augmented by the group element of the musical jam, where music makers pick up techniques from others in the process. Visual and verbal encouragement is often present in successful jam nights to encourage newcomers. If a jam session is regular, local popular standard songs emerge. This provides opportunities to hear them played regularly, allows potential participants to hear them versioned before entering, a useful form of peripheral participation.
+
+
+Several parallels to the design and processes in my research exist. The half-baked game template can be seen as a shared song framework that participants build on in idiosyncratic ways. The value of a process that incorporates an authentic audience made up partly of peer makers is important for the development of repertoires of practice in both contexts. The value of the possibility to blend established repertoires with those brought by new players is a shared contextual motivation.
+
 
 ADD MORE HERE IF RELEVANT.
 
 The following table serves as a visual summary of some of the relevant space/place based characteristics relevant to the importance of this research.
 
+THIS TABLE NEEDS TO BE COMPLETED - FEEDBACK IS APPRECIATED AS TO HOE USEFUL IT WILL /MAY BE
 Perhaps add another analytical dimension?
 
 | **Harbour**            | **Jam Session** |
@@ -865,7 +903,6 @@ Perhaps add another analytical dimension?
 Table 7.2 exploring valuable concepts via metaphor.
 
 
-**Link**
 
 At this stage is relevant to return to issues of underlying  motivation driving participation as a way of making a link to existing research on digital making pedagogy. This metaphor serves to illustrate the importance of and possibilities for development of relational agency via participation in the joint process. Additionally, if relational agency is the goal and the means then building fluency of practice is an observable result of this process both in dimensions of technical fluency and in possibilities for expression. In the next section I explore a contribution to pedagogies developing technological or computational fluency [@resnick_coding_2020; @papert_technological_1995].
 
@@ -914,7 +951,6 @@ The role of the emerging culture and identity of the idioculture  is developed i
 In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming (CGD&P)
 
 Overall, a gap in making games compared to playing them, a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
-
 
 In addition there is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
 
