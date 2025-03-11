@@ -367,53 +367,28 @@ Thus in summary conceptions of abstraction above explored above include:
 
 ### Observations on abstract / concrete dimensions in my data related to gameplay design patterns.
 
-1. positioning as intermediate
-2.  looking at distinction in different studies in context
+<!-- 1. positioning as intermediate
+2.  looking at distinction in different studies in context -->
 
 
+I now return to the proposal of GDPs as a useful intermediate-level framework, given the framing of abstraction summarized above, and explore this proposal using the findings of my research process. To do this, it is useful to re-examine the utility of the term "intermediate framework" [@eriksson_using_2019], given the exploration of LOA, semantic waves, and Papert's work. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation as given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction, whereas the more potentially transferable nature of Wing's abstract CT conceptions would form a candidate for a more generalisable theory. As such, GDPs would be situated between those and concrete implementation. To illuminate this positioning, we can examine the above-cited research in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated.
 
-I now returning to the proposal of GDPs as a useful intermediate level framework, given the framing of abstract in summary above, and explore this proposal using the findings of my research process.  
+At this stage, it is valuable to look past a potentially arbitrary placing of these levels within a hierarchy to investigate instead the core value of the relational nature of the framework to other concepts in the context of my research. To help with this analysis of utility, the following section develops this line of research, making more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for participants and facilitators/researchers.
 
-**positioning as intermediate**
 
-Let us first re-examine the utility of term intermediate framework [@eriksson_using_2019]. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction. Whereas the more potentially transferable concepts of Wing's take of CT would form a candidate for a higher generalisable theory which GDPs sit between that and concrete implementation. In the research of Eriksson et al (and the others) on GDPs [-@eriksson_using_2019], the positioning as GDPs as an intermediate construct compared, the nature of the general theories are not clearly articulated. At this stage it is of value to looking past a potentially arbitrary placing of these levels of a hierarchy, to investigate instead the core value of the intermediate nature of the framework in the context of my research.  
 
 <!-- To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns. -->
 
-ANYTHING HERE ON REPENNING?
-
-
-<!-- Thus the general theories may relate to the researchers field in practice, that of Child-Computer Interaction (CCI) [@lehnert_childcomputer_2022], as the theories of this domain  would be less accessible to children than their framework of a carefully chosen collection of GDPs. -->
-
-**The nature of intermediacy in the work of Eriksson et al and my own to framing analysis**
-
-
-One of the more developed work in GDP as such a framework is in Eriksson et al. The context of their GDP study is distinct in that whereas the young people in the Stringforce study are making design suggestions to alter a game they are not making their own games by modifying computer code.
-
-This distinction is important as it drove a modification of their use of design patterns. Instead of a strongly coupled link between motivation, description and implementation articulated as a problem-solution structure which is present in convention conceptions of design patterns to focus only on descriptions of patterns rather than any detail of solution. In my design by contrast there is strong coupling between the role, description and implementation as illustrated by the structure of the supporting resources outlined in Chapter 5.
-
-This coupling bear examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treating the implementation of each GDPs as an activity system in itself. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participant can use the affordances of the design to traverse different LOA as articulated by Waite.
-
-
-
-
-#### Purpose of the frameworks being addressed is also relevant.
-
-
-**Turning to the utility**
-
-Eriksson et al. note the utility of GDP concepts in several dimensions: as a lingua franca between researchers and participants; to help framing of analysis; and to help the inspiration of participants. ADD MORE. It should be noted that the greater part of this analysis focuses the utility for on the researcher rather than that of participants.
-
-Thus following section develops this line of research, making more explicit the observed and potential uses of GDPS in participant game making by participants, facilitators/teachers and researchers.
+<!-- Thus
 
 
 This is the motivational aspect of framework?
 
 a. As a research framework - Eriksson et al.
 b. A facilitator / design framework -
-c. as a participant framework for navigation and goal formation as explored in the previous chapter.
+c. as a participant framework for navigation and goal formation as explored in the previous chapter. -->
 
-Addressing the first aspect, the process of rising the concrete outlined above is helpful not just for analysis (a) but also for ongoing pedagogical design (b).
+<!-- Addressing the first aspect, the process of rising the concrete outlined above is helpful not just for analysis (a) but also for ongoing pedagogical design (b).
 
 The third aspect c, can be returned to, but where and when in this chapter? Points follow:
 - the link with the experienced feature of the game / product as a framework increases inclusive nature of process (later?)
@@ -421,49 +396,34 @@ The third aspect c, can be returned to, but where and when in this chapter? Poin
 PERHAPS MOVE THIS TO NEXT SECTION
 What about semantic waves and movement. How explicit does the understanding of the motion between poles need to be? For example in my design, it is not very explicit of guided towards. However, this may be different in different UK computing settings.
 
-This potential non-alignment with UK non-formal may be a limitation in the take up of this research.  
+This potential non-alignment with UK non-formal may be a limitation in the take up of this research.   -->
 
 
-#### Addressing utility for participants
+<!-- #### Addressing utility for participants -->
 
-Recapping previous examples in vignettes. etc.  
+<!-- One of the more developed work in GDP as such a framework is in Eriksson et al. The context of their GDP study is distinct in that whereas the young people in the Stringforce study are making design suggestions to alter a game they are not making their own games by modifying computer code. -->
+<!-- In my design by contrast there is strong coupling between the role, description and implementation as illustrated by the structure of the supporting resources outlined in Chapter 5. -->
 
-In computing eduction pattern based instruction has benefits of making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
+Addressing utility for participants, in computing education, design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021]. In the work of Eriksson et al., the young people make design suggestions to alter a game but do not modify computer code. This distinction is important because it removes the strongly coupled link (present in this design) between motivation, description, and implementation, articulated as a problem-solution structure that is present in conventional conceptions of design patterns. This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.  
 
-In terms of participant experiences, it is clear from this chapters findings that learners _are_ shifting between LOA without explicit in the process of the use of and contribution to this learning design.
+Firstly, GDPs are particularly helpful in participant goal formation, as explored in Chapter 6 in the sections on ideation and prioritisation. Secondly, the close coupling in patterns strongly supports the navigation between different project stages (explored in this chapter as LOA) via careful structuring of resources and documentation. Thirdly, GDPs help with the division of labour between collaborators, which is relevant here. For example, when tackling more abstract processes, concepts, and terminology. These roles are often taken on by a more competent partner. Thus, participant perspectives shift between the wider goal of making an engaging game for a real or imagined audience and a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it.  
 
-The last chapter outlined the potential of GDP concepts, especially used within playtesting, to support these participant shifts in perspective.
+<!-- Reflections in progression of design in P4 showed my reluctance to lead with or explicitly teach abstract concepts with CT. Further discussion on the dilemma of how explicit teaching of computational concepts should be in taken up in the following section addressing the perspective for designers / teachers. -->
+<!-- #### Turning to the utility for designers, reearcher and facilitators,  -->
 
-Of particular relevance regarding the utility for learners in this domain of abstract/concrete domain would be in
+Turning to the utility for designers, researchers and facilitators, it follows that the concerns above are also relevant for this group of stakeholders in terms of supporting learners. GDPs can also be useful for wider pedagogical and analytical motivations. One such motivation is the ability for a solid understanding of GDPs to open up exploration of other concepts. This potential is expressed as a challenge by Barron, in research on project-based approaches to digital making, a key challenge to project based learning: specifically the challenge of is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
 
-   1. Goal formation - in ideation, prioritisation.
-   2. Navigation, structuring of resources and docs - and in a holistic sense  
-   3. Division of Labour - at times the more abstract processes are left to the more competent partner
+My reflections on research data support a proposition that there is utility for facilitators to be aware of the level of abstraction present in different elements of project learning design. This value encompasses both the concepts that learners are working with and those which are potentially accessible via explicit teaching. The close coupling between design and code structure levels in my design may not align with LOA principles given that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels" [@waite_abstraction_2018-1, p.21]. However, given that Waite's subsequent research does not include examples of activity explicitly teaching abstraction [@waite_abstraction_2018-1; @sentance_teachers_2019; @sentance_teaching_2019], what counts as explicit teaching of abstraction is not clear. This question invites discussion on the value of explicit teaching CT of compared to development as as an embedded skill through bricolage approaches. As explored in Chapter 2 the literature review paints a very mixed picture in this regard and while it is problematised in relation to agency development later, this research doesn't negate the value of explicit teaching of computational thinking, Additionally, this research contends that GDPs are a more suitable accessible leading pedagogical framework than computational thinking, a proposal explored in the following section.
 
-Participant perspectives shift between the wider goal of making an engaging game for a real and imagined audience to a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it.
-
-Reflections in progression of design in P4 showed my reluctance to lead with or explicitly teach abstract concepts with CT. Further discussion on the dilemma of how explicit teaching of computational concepts should be in taken up in the following section addressing the perspective for designers / teachers.
+<!-- If a knowledge of CT is needed by the learning context then it could be profitably explored in other ways. For example, developing resources suitable for such reflection,  for instance a learning map to be used by participants and teachers as explred in P4 . Linking from docs to descriptions of the characteristics. Thus not a leading pedagogical framework but a map of possible skills and concepts made possible by the leading activity. -->
 
 
-#### Addressing utility for designers / teachers
 
-It follows that the concerns above are also relevant for designers who want to design for these aspects, and for facilitators and teachers in these fields.
+<!--
+My own notes and reflections (see appendix.learning in particular) map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture.
 
-Turning to alignment with PBL research in (but perhaps not limited to) digital making, a key challenge to project based learning is finding appropriate conceptual and practical frameworks to scaffold domain specific working practices to ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
-
-My reflections /data support a proposition that there is utility for **facilitators** to be aware of the level of abstraction both that present in different elements of project learning design and that of the concepts that learners are working with.
-
-As a challenge to Waite's initial statement on the value of explicitly teaching abstraction, my own notes and reflections (see appendix.learning in particular) map cautioned me against explicit teaching of abstraction and imposing shifts in perspectives for fear of interrupting the flow of participant making. In this context I judged the imposition of an additional goal of understanding abstract curricular concepts as potentially counter productive to the overall aim of acculturation to game making tools and processes and developing an inclusive idioculture.
-
-The close coupling between design and code structure levels in my design may not align with LOA principles given that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels" [@waite_abstraction_2018-1, p.21]. However, given that Waite's subsequent research does not include examples of activity explicitly teaching abstraction [@waite_abstraction_2018-1; @sentance_teachers_2019; @sentance_teaching_2019], what counts as explicit teaching of abstraction is not clear.
-
-
-This question returns us to issues of how much such abstraction and other elements of abstract CT are concepts that need to be explicitly taught or something which is picked up an embedded skill through a more bricolage approach.
-
-As explored in Chapter 2 the literature review paints a very mixed picture in this regard and while it is problematised in relation to agency development later, this research doesn't negate the value of explicit teaching of computational thinking,
-
-However this research contends that GDPs are a more suitable accessible  framework than that of computational thinking when making games and as such should be the leading  and guiding pedagogical framework. If a knowledge of CT is needed by the learning context then it could be profitably explored in other ways. For example, developing resources suitable for such reflection,  for instance a learning map to be used by participants and teachers as explred in P4 . Linking from docs to descriptions of the characteristics. Thus not a leading pedagogical framework but a map of possible skills and concepts made possible by the leading activity.
-
+IS THIS DOUBLED / DUPLICATED?
+However this research contends that GDPs are a more suitable accessible  framework than that of computational thinking when making games and as such should be the leading  and guiding pedagogical framework. If a knowledge of CT is needed by the learning context then it could be profitably explored in other ways. For example, developing resources suitable for such reflection,  for instance a learning map to be used by participants and teachers as explred in P4 . Linking from docs to descriptions of the characteristics. Thus not a leading pedagogical framework but a map of possible skills and concepts made possible by the leading activity. -->
 
 
 
@@ -478,79 +438,48 @@ However this research contends that GDPs are a more suitable accessible  framewo
  -->
 
 
-### How my research contributes in this area - particularly in the conception of different pedagogies.
+### How my research contributes to discussions regarding dimensions of abstraction within existing research
+
+The evidence and examples surfaced in this paragraph support a view of a collection of GDPs as a productive research and pedagogical framework. The data from the last chapter contributes a series of grounded pedagogical instances via examples that map a concrete pedagogical process to theoretical observations. Eriksson et al. note the utility of GDP concepts in several dimensions: as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, given that the focus of this analysis addresses the utility for the researcher rather than that of participants, this research significantly advances these contributions. Additionally, given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of its position within a hierarchy.
 
 
+Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements. Firstly, the process guides learners to use GDPs as their primary leading activity or object of activity (using CHAT terminology). Secondly, a working code framework or template is provided with affordances strongly coupled with object output, providing immediate feedback. Thirdly, just-in-time supporting resources are provided, closely aligned to the sub-goals of GDPs. Finally, this gateway framework may also facilitate reflection on its use, and reinforcement of this process can be structured using supporting tools, such as a learning map (see appendix.learningmap for an example in P4).
 
-<!-- #### Quick Re-framing of My pedagogical approach in a/c dimension
-
-We now return to the question.
-
-Q: What is abstraction and who useful for?
-
-A: In this study. GDPs are useful as a inclusive, intermediate framework, with alignment between experience and abstractions of product.   -->
+In the previous analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting. The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
 
 
-#### Comparing my pedagogical framing regarding dimensions of abstract/ concrete with existing research
+<!-- in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research. -->
 
-The evidence and examples surfaced in this paragraph support a view of a collection of GDPs, as an productive research and pedagogical framework. The data of the last chapter contributes a series of grounded pedagogical instances via examples which map a concrete pedagogical process to  theoretical observations.
-
-As concept was originally framed in terms of it's utility for researchers in HCI, the refaming of the last section to explore its utility from the perspective of learners and teachers also requires a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of position within a hierarchy.
-
-Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a framework would be that it:
-
-- guides learners to use GDPs as their primary leading activity, or object in CHAT terms
-- provide a documentation supporting structure aligned to these sub-goals
-- is strongly coupled with object output, ideally via rapid responses
-
-This gateway framework driven by strong coupling between levels of abstraction, may also facilitate reflection structured using the learning map. This was an area of development in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research.
-
-PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020]
-
+<!-- PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020] -->
 
 <!-- However this does not detract from the value of learners navigating different LOA in following their interests.
 Leading with GDPs as a framework appears to support this  navigation, and at times in this research it is undertaken fluently and joyfully. -->
 
-
-
-
-
-
 <!-- While I address areas for future research in the conclusion, a proposed benefit of this research is While understanding the process is more obviously useful for facilitators - it may be helpful to participants as well as they build familiarity with frameworks of features of multimedia projects. To underscore the potential and to uncover a starting point for pedagogies that can be transferred to diverse design projects. -->
 
-
-### Link to next section and signposting final discussion section
-
-
 <!-- How then does this impact on conceptions of valuable pedagogies to help the development of coding fluency (NOTE THIS IS NOW MISSING FROM THE RQs) -->
-
-
-In the previous analysis of the use of GDPs through the lens of research on the aspect and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. As noted in Chapter 2, much research on the learning to coding has focused chiefly on this aspect of personal knowledge construction,  neglected this social and perspectives typified by socio-cultural approaches [find source]. This trend is exemplified by a comparison of Wing and Papert's conceptions of computational thinking [@lodi_computational_2021], with the latter's additional focus on the community application of created projects forms the motivational basis of much of constructionism in the process of creating objects to share. Thus, the issue at hand transcends concepts of efficacy of how to support the coding process to address the underlying goals of the activity. Following the legacy of constructionism to the present day, the articulation of Resnick of computational fluency, addresses the limitations of research focusing too narrowly on technical approaches rather than their expressive potential (and thus withing a community) [@resnick_coding_2020] and focused on toolsets rather than pedagogies [@resnick_seeds_2020]. We should recall here the parallel call of Kafai and Burke in the field of game making for learning to address social and cultural motivations and aspects of the process [@kafai_constructionist_2015-1].
-
-
-In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects [@sentance_teaching_2019; @hwang_using_2023], this work is limited in scope and merits further attention. The following section addresses discussion on the social and cultural aspects of this study using the development of varied forms of participant agency as an analytical lens.
-
 <!-- The final section of this chapter returns to a guiding question of pedagogies that can support the development of computational fluency and within that participant agency. -->
 
 ## Part Two - Agency
 
 
-### 2.a Affordances, Mediation, TADS,
+<!-- ### 2.a Affordances, Mediation, TADS,
 
 1. recap on germ cell as common focus point for mediation (some designed or apporpirated)
 2. When novel forms of mediation present, gdps sometimes used - thus as double stimulation
 3. This is a transformation / expansion in 3GAT terms, recap as a resolution of tensions, and a manifestation of agency
 4. Give a summary of examples of transformational agency
 5. Briefly touch on the job of the learning designer within concept of F.I
-6. The dilemma here of transformational happening most for participants in P1, and you can design OUT transformational agency, hence sketchy pedagogies.
+6. The dilemma here of transformational happening most for participants in P1, and you can design OUT transformational agency, hence sketchy pedagogies. -->
 
 <!-- 5. DROP /MOVE TO CH.3? The kedging metaphor and the climbing wall metaphor - in relation to agency and design -  explore them, kedging is a bit flailing , wall less so -->
 
+As noted in Chapter 2, much research on the learning to coding has focused chiefly on this aspect of personal knowledge construction,  neglected this social and perspectives typified by socio-cultural approaches [find source]. This trend is exemplified by a comparison of Wing and Papert's conceptions of computational thinking [@lodi_computational_2021], with the latter's additional focus on the community application of created projects forms the motivational basis of much of constructionism in the process of creating objects to share. Thus, the issue at hand transcends concepts of efficacy of how to support the coding process to address the underlying goals of the activity. Following the legacy of constructionism to the present day, the articulation of Resnick of computational fluency, addresses the limitations of research focusing too narrowly on technical approaches rather than their expressive potential (and thus withing a community) [@resnick_coding_2020] and focused on toolsets rather than pedagogies [@resnick_seeds_2020]. We should recall here the parallel call of Kafai and Burke in the field of game making for learning to address social and cultural motivations and aspects of the process [@kafai_constructionist_2015-1].
 
 
-A guiding principle of this section is that given the motivation (either primary or secondary) of participant empowerment in learning to program, and thus the value of designing and facilitating participant agency in the ongoing process, that it is profitable to articulate different types of agency.
+In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects [@sentance_teaching_2019; @hwang_using_2023], this work is limited in scope and merits further attention. Given that a guiding motivation of this study to explore the process of designing and facilitating for participant empowerment learning to program, it is valuable to articulate different types of agency.
 
-This section analyses the findings of the previous chapters using varied conceptions of agency aligned to the sociocultural theoretical framework of this study.
+<!-- This section analyses the findings of the previous chapters using varied conceptions of agency aligned to the sociocultural theoretical framework of this study. -->
 
 
 
