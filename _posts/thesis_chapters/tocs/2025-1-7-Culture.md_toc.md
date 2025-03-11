@@ -14,55 +14,36 @@
             relation to other conceptions of abstraction in computing
             education
             research](#exploration-of-gdps-as-an-intermediate-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
-            -   [Types of abstraction in frameworks - recalling
-                definitions or lack of clear
-                definitions](#types-of-abstraction-in-frameworks---recalling-definitions-or-lack-of-clear-definitions)
-                -   [Computational thinking](#computational-thinking)
-                -   [Levels of Abstraction](#levels-of-abstraction)
-                -   [Epistemological pluralism, bricolage &
-                    Microworlds](#epistemological-pluralism-bricolage-microworlds)
+            -   [Computational thinking](#computational-thinking)
+            -   [Levels of Abstraction](#levels-of-abstraction)
+            -   [Epistemological pluralism, bricolage &
+                Microworlds](#epistemological-pluralism-bricolage-microworlds)
         -   [Observations on abstract / concrete dimensions in my data
             related to gameplay design
             patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
-            -   [Purpose of the frameworks being addressed is also
-                relevant.](#purpose-of-the-frameworks-being-addressed-is-also-relevant.)
-            -   [Addressing utility for
-                participants](#addressing-utility-for-participants)
-            -   [Addressing utility for designers /
-                teachers](#addressing-utility-for-designers-teachers)
-        -   [How my research contributes in this area - particularly in
-            the conception of different
-            pedagogies.](#how-my-research-contributes-in-this-area---particularly-in-the-conception-of-different-pedagogies.)
-            -   [Comparing my pedagogical framing regarding dimensions
-                of abstract/ concrete with existing
-                research](#comparing-my-pedagogical-framing-regarding-dimensions-of-abstract-concrete-with-existing-research)
-        -   [Link to next section and signposting final discussion
-            section](#link-to-next-section-and-signposting-final-discussion-section)
+        -   [How my research contributes to discussions regarding
+            dimensions of abstraction within existing
+            research](#how-my-research-contributes-to-discussions-regarding-dimensions-of-abstraction-within-existing-research)
     -   [Part Two - Agency](#part-two---agency)
-        -   [2.a Affordances, Mediation,
-            TADS,](#a-affordances-mediation-tads)
-        -   [Instrumental Agency](#instrumental-agency)
-        -   [Transformational Agency](#transformational-agency)
+        -   [Instrumental and transformational
+            agency](#instrumental-and-transformational-agency)
         -   [2c - Relational Agency in emergent activities in emergent
             cultural context - 3rd Spaces, idiocultures, and
             repertoires](#c---relational-agency-in-emergent-activities-in-emergent-cultural-context---3rd-spaces-idiocultures-and-repertoires)
-            -   [Observations on
-                repertoires](#observations-on-repertoires)
-                -   [Linking repertoires to my study / learning design &
-                    designing for
-                    agency](#linking-repertoires-to-my-study-learning-design-designing-for-agency)
-            -   [Exploring design features which support identity
-                development in the emerging game making
-                community](#exploring-design-features-which-support-identity-development-in-the-emerging-game-making-community)
-                -   [Use of GDPs in supporting social and cultural
-                    repertoires of
-                    practice](#use-of-gdps-in-supporting-social-and-cultural-repertoires-of-practice)
-                -   [Playtesting as a suitable medium for emerging
-                    activities creating third
-                    spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-                -   [The introduction of maker types and side missions
-                    as affordances of my pedagogy to legitimise
-                    diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+            -   [Repertoires and relational
+                agency](#repertoires-and-relational-agency)
+            -   [Use of GDPs as a gateway framework to support the
+                development of social and cultural repertoires of
+                practice](#use-of-gdps-as-a-gateway-framework-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
+            -   [Funds of Knowledge / repertoires and how they emerge in
+                my
+                research](#funds-of-knowledge-repertoires-and-how-they-emerge-in-my-research)
+            -   [Playtesting as a suitable medium for emerging
+                activities creating third
+                spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
+            -   [The introduction of maker types and side missions as
+                affordances of my pedagogy to legitimise
+                diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
             -   [Examining complexity within identity formation and
                 specialisation](#examining-complexity-within-identity-formation-and-specialisation)
         -   [Metaphors as a way to explore conceptions of agency within
