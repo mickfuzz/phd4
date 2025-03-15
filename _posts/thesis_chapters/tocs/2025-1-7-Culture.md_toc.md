@@ -4,9 +4,6 @@
     -   [Research Questions Jan 2025](#research-questions-jan-2025)
     -   [Notes](#notes)
     -   [Introduction](#introduction)
-    -   [The following summary is currently under developed and will be
-        revised
-        later.](#the-following-summary-is-currently-under-developed-and-will-be-revised-later.)
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)

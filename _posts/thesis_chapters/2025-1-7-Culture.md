@@ -15,9 +15,6 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Research Questions Jan 2025](#research-questions-jan-2025)
     -   [Notes](#notes)
     -   [Introduction](#introduction)
-    -   [The following summary is currently under developed and will be
-        revised
-        later.](#the-following-summary-is-currently-under-developed-and-will-be-revised-later.)
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
@@ -164,65 +161,46 @@ DROPPED - THIS IS JUST PART OF DBR -
 This section describes and discusses some of the emergent, flexible and adaptive design practices that I observed in video data. -->
 
 <!-- I also discuss these findings in line with existing research in relevant areas. -->
+
 ## Introduction
 
+This chapter deepens the analysis and discussion on RQ2 regarding the potential uses of gameplay design patterns (GDP) and concludes with an analysis and discussion on RQ3, addressing reflections on participant agency. Chapter 6 presented findings on the different uses of gameplay design patterns (GDP) using three foci of analysis: personal, social, and cultural activity. To begin, this chapter discusses these findings in relation to existing relevant research. Part one specifically addresses the complexities of the abstract and concrete dimensions of computing education using a concept from design research that explores the value of gameplay design patterns as an intermediate-level, pedagogical framework.  
 
-This chapter deepens analysis and discussion on RQ2 on the potential uses of GDPs and concludes with  analysis and discussion on RQ3 addressing reflections on participant agency.
+Part two shifts focus away from individual conceptions of knowledge and skill to examine the broader empowerment-related motivations driving this study within socio-cultural conceptions of agency. The purpose here is to ground this discussion of the study's emergent cultural and interpersonal activity within the context of ongoing explorations into theoretical and practical applications of agency in socio-cultural research circles. To achieve this, I begin with an exploration of the study’s findings in relation to instrumental and transformative agency and the concept of mediation in CHAT. As a way to address cultural development in more depth, particularly the development of learner identities within the research activities, I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires. To present a holistic picture of the complex cultural activity recorded in the research data, this discussion briefly addresses the wider aspects of the learning design.  However, it concludes with a proposed contribution suggesting that a collection of GDPs can help participants and facilitators as both as component features of emerging game making repertoires and as a orienting framework to increase the inclusive characteristics of the learning environment. Part two ends with an exploration of metaphors that synthesise significant features of the learning design which influence dimensions of agency.  
 
-The following summary is currently under developed and will be revised later.
----
-
-The previous chapters have explored both designed and fortuitous changes to the learning design that become adopted by the community.
-
-
-Following Chapter 6's presentation findings on how participants use GDPs, this chapter contains further discussion on this use GDPs ,
-particularly in reference to the building of agency.
-
-To do this chapter continues to explore the context of the study's emergent cultural and community activity, deepens discussion on interpersonal activity and implications for dimensions of tool use on learner agency in a way which at times addresses wider aspects of the learning design than GDPs.
+The final part of this chapter returns to gaps in the research landscape and outlines two key areas of contribution to the field. Firstly, it presents an applied computing pedagogy structured around the use of GDPs. Secondly, it offers a complex interpretation of shifting forms of agency grounded in this case study. This second, more philosophical, contribution is also grounded in a utilitarian approach to design-based research and formative interventions. As such, it communicates practical concerns to inform future recommendations for practice.  
 
 
 
-This chapter has three main sections:
+
+<!-- This chapter has three main sections:
 
 1. Rising to concrete ; Conceptions of abstract and concrete present in computing and digital making research: ultimately, proposing design patterns as a intermediate-level, pedagogical framework compared to computational thinking.
 
-- explore potential implications for facilitators and researchers on how to design for inclusion and agency - e.g. use of GDP collection as an  intermediate pedagogical construct.
+- explore potential implications for facilitators and researchers on how to design for inclusion and agency - e.g. use of GDP collection as an  intermediate pedagogical construct. -->
+
+<!-- further discussion on this use GDPs ,
+particularly in reference to the building of agency. -->
 
 <!-- - propose that GDPs provide a suitable way to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures. -->
 
-2. Socio cultural understandings of mediation and agency
-
-Socio cultural understandings of mediation and agency via TADS  theory,  particularly in relation to the abstract and concrete dimension (as a link )
-
-2. Exploration of agency in varied forms.
-
-via Instrumental agency
-
-TA and  TADS theory,  
-
-Relational Agency
-
-- playtesting as a social process; play testing and embodied participation in the games of others - community concepts and norming behaviour emerging during playtesting
-
-- explore potential implications for facilitators and researchers on how to design for inclusion and agency - e.g. use of GDP collection as an  intermediate pedagogical construct.
-
-
-
 <!-- - MOVE TO CONCLUSION? metaphors / frameworks to envisage affordences and particpant agency in CHAT framework. and why this is useful for facilitators and as an accessibel way to share findings. -->
 
+
+
+
+<!-- **more intro material**
 
 The chapter contains a discussion on wider concerns of designing for learner agency. Here I synthesise analysis on processes which support learners to develop agency in this game making community
 (and the role of different levels of authenticity?)
 
 This section takes a step back to explore the wider perspectives of the findings beyond the immediate context to digital making and project based approaches and understandings of design patterns in educational contexts.
 
-**more intro material**
-
 An underlying proposal of this thesis is the development of  learner agency can be facilitated by designing effective learning environments. To do this I draw on key forms of developmental agency explored in Chapter 3.
 
 This section synthesises findings learner agency in relation to existing conceptions of agency in other research.
 
-This section explores these academic conceptions in a playful way using relatable metaphors from related research. The aim of this playful/relatable approach is to aid the situation of later recommendations for researchers and educators working in this area in an accessible way.
+This section explores these academic conceptions in a playful way using relatable metaphors from related research. The aim of this playful/relatable approach is to aid the situation of later recommendations for researchers and educators working in this area in an accessible way. -->
 
 ---
 
