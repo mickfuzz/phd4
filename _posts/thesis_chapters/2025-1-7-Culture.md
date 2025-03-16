@@ -278,7 +278,7 @@ Turning to a synthesis of my finding with those of Waite et al on levels of abst
 
 
 | **Level**            | **Focus** | **Example** |
-|----------------------|----------|-------------|
+|---------------|--------------|---------------|
 | **Conceptual Level**  | Thinking about the GDPs to be added to the game | Goal formation, prioritisation |
 | **Design Level**  | GDP supporting documentation scaffolds this process  | What it should do is to a large extent preset via documentation. |
 | **Code Level**  | Writing the actual code, is supported via code patching  | is supported via code patching, and a structure which encourages modification |
@@ -558,6 +558,14 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 ### 2c - Relational Agency in emergent activities in emergent cultural context - 3rd Spaces, idiocultures, and repertoires
 
+**Structuring this section:**
+
+1. Overview / recap of relational agency and repertoires, equity and diversity
+2. Playtesting as the medium (perhaps swap with 2. )
+3. Examples, Fok in v.6. DOL, and more in the data (not all playtesting)
+4. Variations in playtesting styles
+5. Intervention to encourage player styles
+
 
 <!-- In the last section using TADS and mediation helps analyse findings in personal (and guided participation) aspects of Chapter 6.  -->
 <!-- POSSIBLY?
@@ -577,7 +585,7 @@ This section contends that relational agency is the closest fit to match the dev
 
 4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming -->
 
-#### Repertoires and relational agency
+#### 1. Repertoires and relational agency
 
 The data of this study provides a strong case study, evidence and detail to this process in the use of external repertoires and their remediation into new repertoires.
 
@@ -616,19 +624,22 @@ Example of how extending with DPs as a framework could be fruitful, developing a
 --
 In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. -->
 
+#### 2. Playtesting as a suitable medium for emerging activities creating third spaces
 
-#### Use of GDPs as a gateway framework to support the development of social and cultural repertoires of practice  
+Playtesting as an incubator for emerging cultural activities, has been crucial to the development of later stages of this learning design. The sum of introdued and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
 
-The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incorporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
+As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018].
 
-I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
+The role of play as leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning
 
-<!-- GDPs are used both as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting. -->
+An analysis on the role of playtesting and an emerging forms of playful playtesting follows.
 
-The nature and process of this community evolution merits exploration. As such, this section steps back to discuss the emergence of these practices.  
+<!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
+c
 
 
-#### Funds of Knowledge / repertoires and how they emerge in my research
+
+#### 3. Examples: Funds of Knowledge / DoL repertoires and how they emerge in my research
 
 One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces. Most notably this is seen within the sections on divisions of labour and use of funds of knowledge and identity. Examples include: being the identification with graphical art and the development of specialism in Madiha's family, the general use of game playing knowledge, home pedagogies like paper based sketching and more professional knowledge brought by Dan. This blending of the use of GDP concepts, in-template affordence, supporting resources, with such knowledge and practices from other activity systems can be analysed using the concept of repertoires. Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22]. Other research by Gutierrez addresses the importance of participants movement between sites of activity and its impact on learning [@gutierrez_developing_2008; @gutierrez_learning_2019-1].
 
@@ -649,10 +660,7 @@ In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narra
 
  <!-- Examples include.... -->
 
-
-
-
-#### Playtesting as a suitable medium for emerging activities creating third spaces
+#### 2. Playtesting as a suitable medium for emerging activities creating third spaces
 
 Playtesting as an incubator for emerging cultural activities, has been crucial to the development of later stages of this learning design. The sum of introdued and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
 
@@ -664,7 +672,7 @@ An analysis on the role of playtesting and an emerging forms of playful playtest
 
 <!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
 
-**Variations in approaches to playtesting**
+#### 4. Variations in approaches to playtesting
 
 Some participants refrained from extensive testing of other games, waiting for others to test their games and observing their responses. Others were very social in their playtesting approach. Madiha making very positive comments on design of player characters and building relations in that way. The last chapter showed that some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process.  
 
@@ -679,7 +687,14 @@ I observed an evolution of the form and function of playtesting by young partici
 COMMENT  - This evolution maker types here exists especially in social makers, glitchers and magpies.
 
 
-#### The introduction of maker types and side missions as affordances of my pedagogy to legitimise diversity
+Within more narrowly defined game making activities centred around altering code and assets of their products, learners who had mastered certain specialist skills were asked by others for help. Their developing roles as domain experts provided additional affordances in the learning community and building an identify as specialist within it.
+
+
+The introduction of these terms and missions
+Stone and colleagues [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development). The work of 5D research in different settings further explores the process of supporting learner identies in context []  Gutierrez, Cole
+
+
+#### 5. The introduction of maker types and side missions as affordances of my pedagogy to legitimise diversity
 
 Such diversity in playtesting behaviours drove my reflection on the additional motivations bleeding into this system from other activity systems. Rather than refocusing participants back to more coding-focused activities, I coded playtesting and game making approaches in to a loose typology (see Appendix .makertypes for fuller detail).   
 
@@ -696,13 +711,23 @@ This process extends the work of Barron and Roque [@roque_family_2016; @roque_im
 
 The process contextualises and legitimises the previously peripheral activities with the groups conceptions of the idioculture of the wider activity. This recognition of the hybridity of possible modes of participation increases conceptions of enacted diversity of the community. This strand of thought also invites a deeper theoretical examination of the value of identify formation.
 
-#### Examining complexity within identity formation and specialisation
-
-Within more narrowly defined game making activities centred around altering code and assets of their products, learners who had mastered certain specialist skills were asked by others for help. Their developing roles as domain experts provided additional affordances in the learning community and building an identify as specialist within it.
 
 
-The introduction of these terms and missions
-Stone and colleagues [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development). The work of 5D research in different settings further explores the process of supporting learner identies in context []  Gutierrez, Cole
+
+<!-- Hence the next section. An attempt a synthesis of diverse pedagogical elements  - DOES IT? -->
+
+#### 6. Synthesis, potential of explicit structuring of identity formation / spaces for blending of repertoires
+
+
+It is of value to examine specialisation as a form of agency and identity formation using different lenses.
+
+It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
+
+Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
+
+##### Examining complexity within identity formation and specialisation
+
+
 
 Or, perhaps more accurately here as a movement between activity systems, to be incorporated as a repertoire.
 
@@ -712,16 +737,26 @@ The process of feedback, recognising and valuing the merging areas of specialisa
 
 The awareness of and conversations about maker styles and related side-missions created in this research are potential powerful tool to support this process in novice game making communities.
 
+##### Returning to shifting forms of agency
 
-<!-- Hence the next section. An attempt a synthesis of diverse pedagogical elements  - DOES IT? -->
 
-**LINK - NATURE OF TRANSFORMATION / LINK TO AGENCY**
+| Instrumental Agency | Transformational Agency  | Relational Agency  |
+|---------------|--------------|---------------|
+| Example one Vx etc.  | Example one Vx etc. | Example one Vx etc. |
 
-It is of value to examine specialisation as a form of agency and identity formation using different lenses.
+Table. 7.x Examples of forms of agency in the research data
 
-It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
 
-Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
+##### Use of GDPs as a gateway framework to support the development of social and cultural repertoires of practice  
+
+The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incorporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
+
+I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
+
+<!-- GDPs are used both as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting. -->
+
+The nature and process of this community evolution merits exploration. As such, this section steps back to discuss the emergence of these practices.  
+
 
 
 <!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
