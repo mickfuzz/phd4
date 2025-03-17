@@ -27,22 +27,27 @@
         -   [2c - Relational Agency in emergent activities in emergent
             cultural context - 3rd Spaces, idiocultures, and
             repertoires](#c---relational-agency-in-emergent-activities-in-emergent-cultural-context---3rd-spaces-idiocultures-and-repertoires)
-            -   [Repertoires and relational
+            -   [1. Repertoires and relational
                 agency](#repertoires-and-relational-agency)
-            -   [Use of GDPs as a gateway framework to support the
-                development of social and cultural repertoires of
-                practice](#use-of-gdps-as-a-gateway-framework-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
-            -   [Funds of Knowledge / repertoires and how they emerge in
-                my
-                research](#funds-of-knowledge-repertoires-and-how-they-emerge-in-my-research)
-            -   [Playtesting as a suitable medium for emerging
+            -   [2. Playtesting as a suitable medium for emerging
                 activities creating third
                 spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-            -   [The introduction of maker types and side missions as
+            -   [3. Examples: Funds of Knowledge / DoL repertoires and
+                how they emerge (in playtesting practices in
+                particular)](#examples-funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
+            -   [4. Variations in approaches to
+                playtesting](#variations-in-approaches-to-playtesting)
+            -   [5. The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
-            -   [Examining complexity within identity formation and
-                specialisation](#examining-complexity-within-identity-formation-and-specialisation)
+            -   [6. Synthesis, potential of explicit structuring of
+                identity formation / spaces for blending of
+                repertoires](#synthesis-potential-of-explicit-structuring-of-identity-formation-spaces-for-blending-of-repertoires)
+                -   [Examining complexity within identity formation and
+                    specialisation](#examining-complexity-within-identity-formation-and-specialisation)
+                -   [Use of GDPs as a gateway framework to support the
+                    development of social and cultural repertoires of
+                    practice](#use-of-gdps-as-a-gateway-framework-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
         -   [Metaphors as a way to explore conceptions of agency within
             digital
             making](#metaphors-as-a-way-to-explore-conceptions-of-agency-within-digital-making)
@@ -59,14 +64,16 @@
             structural
             components](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components)
         -   [Second area of contribution to the research in the field: A
-            complex view of agency and repertoires development within
-            this
-            research](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-within-this-research)
+            complex view of agency and repertoires development AND the
+            value of that to contribute to research on DBR / FI
+            etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
+            -   [Returning to shifting forms of
+                agency](#returning-to-shifting-forms-of-agency)
             -   [Summary of discussion on designing for
                 agency](#summary-of-discussion-on-designing-for-agency)
-        -   [Third area of contribution to the research in the field:
-            The impact of the DBR /
-            FI](#third-area-of-contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
+            -   [Contribution to the research in the field: The impact
+                of the DBR /
+                FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
