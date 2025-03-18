@@ -151,7 +151,9 @@ Add any here.
 <!-- The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contrast, the processes explored in this following section emerged more directly from input from the participants in2024-8-7-Culturevolved.   -->
 <!-- _How does this fit into other findings chapters?_
 
-Chap 4 - overall design context / evolution - Then in greater detail on personal observations on the evolutions and impact of the templated game approach and scaffolding of the code design. (not GDPs)
+Chap 4 - overall design context / evolution - Then in greater detail on personal observations1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
+2. How does CHAT theory help us understand how game design patterns x  can be used in an evolving community of novice game makers?
+3. How can learners build agency in an evolving community of game makers? on the evolutions and impact of the templated game approach and scaffolding of the code design. (not GDPs)
 
 Chap 5 - zoom out in scale to main focus of the activity as communicated between participants and their impact and appropriation by participants. It
 
@@ -598,6 +600,7 @@ This section moves beyond instrumental and transformative agency to a wider more
 #### 1. Repertoires and relational agency
 
 <!-- What are repertoires and why are they so important to this study?: -->
+1. Stare
 
 As explored in Chapter 3 Rogoff and Gutiérrez contribute to discussion of expansive learning in CHAT with the concepts of repertoire formation to both, a< provide recognition of the way learners bring home practices into learning spaces, and as a positive enacted demonstration of diversity in learning practices. The associated concept of hybridity as a way of recognising and deploying diversity of mediational tactics and resources in learning contexts [@gutierrez_rethinking_1999] is relevant to this research as a pathway into an exploration of the competing alternate goals within the overall motivation of making a game to share, and component goals of implementing GDPs to do this.
 
