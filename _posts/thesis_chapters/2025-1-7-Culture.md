@@ -117,6 +117,27 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
 - Etc -->
 
+
+## Research Questions March 2025
+
+Principle question: How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
+
+
+1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
+
+2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to conceptions of abstract and concrete dimensions of existing pedagogies?
+
+3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design) 
+
+<!-- Subsequent questions and where they are answered:
+
+1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
+
+2. How does CHAT theory help us understand how game design patterns can be used in an evolving community of novice game makers?
+
+3. How can learners build agency in an evolving community of game makers, and what subsequent implications does this have on understandings of pedagogy design?  -->
+
+
 ## Research Questions Jan 2025
 
     1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
