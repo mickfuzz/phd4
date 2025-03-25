@@ -120,14 +120,14 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 
 ## Research Questions March 2025
 
-Principle question: How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
+**Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
 
 
 1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
 
-2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to conceptions of abstract and concrete dimensions of existing pedagogies?
+2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 
-3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design) 
+3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design)
 
 <!-- Subsequent questions and where they are answered:
 
@@ -165,8 +165,6 @@ See also thematic coding online
 
 
 Add any here.
-
-
 
 
 <!-- The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contrast, the processes explored in this following section emerged more directly from input from the participants in2024-8-7-Culturevolved.   -->

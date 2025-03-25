@@ -17,33 +17,32 @@ title: 2. Literature Review
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
-        -   [Home eduction contextual factors relevant to this
-            study](#home-eduction-contextual-factors-relevant-to-this-study)
-        -   [Defining informal education](#defining-informal-education)
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Barriers (and tensions) related to participation in game
-            making](#barriers-and-tensions-related-to-participation-in-game-making)
-        -   [Technical barriers](#technical-barriers)
-        -   [Barriers linked to identity and
-            values](#barriers-linked-to-identity-and-values)
-    -   [Deconstructing the concept of constructionist gaming AND for
-        the aim of (HOW DOES THIS HELP THE PROBLEM
-        STATEMENT?)](#deconstructing-the-concept-of-constructionist-gaming-and-for-the-aim-of-how-does-this-help-the-problem-statement)
+        -   [Barriers to participation in game
+            making](#barriers-to-participation-in-game-making)
+        -   [Exploring pedagogies of constructionist
+            gaming](#exploring-pedagogies-of-constructionist-gaming)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
+        -   [Design frameworks using
+            stages](#design-frameworks-using-stages)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
-        -   [Design steps frameworks via stages - COMPRESS AS A
-            SUBSECTION OF
-            PBL?](#design-steps-frameworks-via-stages---compress-as-a-subsection-of-pbl)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Use Modify Create](#use-modify-create)
+        -   [Curricular concepts, semantic waves,
+            LOA](#curricular-concepts-semantic-waves-loa)
+            -   [Semantic Profiles and
+                Waves](#semantic-profiles-and-waves)
         -   [PRIMM](#primm)
+        -   [Limits of the Sociocultural ideas in UK computing research
+            (above)](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above)
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
-            -   [Game(play) design patterns](#gameplay-design-patterns)
+        -   [Design patterns](#design-patterns)
+        -   [Game(play) design patterns](#gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Coding club(houses) & Grass Roots community
@@ -52,8 +51,9 @@ title: 2. Literature Review
                 Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
         -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
-        -   [Creative Family Learning -
-            Roque](#creative-family-learning---roque)
+        -   [Creative Family Learning - Roque (and 5d?) - YES 5D COLE
+            AND
+            GUTIERREZ](#creative-family-learning---roque-and-5d---yes-5d-cole-and-gutierrez)
         -   [A final reflection](#a-final-reflection)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
@@ -157,10 +157,6 @@ title: 2. Literature Review
             problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
             -   [Financial challenges](#financial-challenges)
         -   [Removed](#removed)
-        -   [Curricular concepts, semantic waves and
-            PRIMM](#curricular-concepts-semantic-waves-and-primm)
-            -   [Semantic Profiles and
-                Waves](#semantic-profiles-and-waves)
 
 # Literature Review
 
@@ -581,8 +577,6 @@ The work of Papert and the concept of microworlds continue to be influential in 
 ### Design patterns
 
 <!-- onal Sophicistication - using game patterns as a higher level which learners construct from scratch. -->
-
-
 
 
 Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
