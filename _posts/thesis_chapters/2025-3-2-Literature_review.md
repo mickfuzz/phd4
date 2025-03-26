@@ -756,14 +756,32 @@ A case study from a socio-cultural perspective is exemplified by the 5th Dimensi
 
 The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
 
+
+
 In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
 
 In addition to important similarities of context, the goal of the 5th D in terms of diversity and inclusion is significant. It is also significant that different formulations and local cultures with settings (described as idiocultures [@valsiner_cultural-historical_2007]), in a way which is responsive to the interests and needs of different settings.
 
-The ability for a
+Originally to address reading deficits [@cole2014designing], also addressing alienation of women and girls from STEM subjects [@cole1987contextual], the importance of designing intervention to nurture participants formation of identities in evolving idiocultures became an important aspect of the work.
 
-This case study also highlight important elements of the theoretical framework to be treated in the following chapter.  
-Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the compexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way. 
+This strand on culture formation was continued by Gutiérrez  who led a 5D interventions called Las Redes[@scott_nixon_digital_2012], and  El Pueblo Mágico [@gutierrez_learning_2019-1] contributed in the line of understandings of idioculture. In Las Redes, the multi-lingual cultrual environment was important.
+
+Play as a leading activity in El Pueblo Mágico [@gutierrez_learning_2019-1]
+
+Horizontal expertise [@gutierrez2014integrative]
+
+Reconnecting to connected learning alliance in intro. See case study  [@ito2013connected]
+
+The 5D approach  also highlight important elements of the theoretical framework to be treated in the following chapter.  
+Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the compexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
+
+However, while this line of research was rich in case studies, but general in nature. 
+A wider questions, how to operationalise this broader approach of connected learning and movement between learning spaces as a specific pedagogy in a code club, non-formal environment.  
+
+This line of thought invites a turn to address to gaps in research / problem statement.
+
+
+
 
 ### A final reflection
 
