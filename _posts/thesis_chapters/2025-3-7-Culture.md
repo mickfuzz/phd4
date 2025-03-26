@@ -645,7 +645,7 @@ This section moves beyond instrumental and transformative agency to a wider more
 #### 1. Repertoires and relational agency
 
 <!-- What are repertoires and why are they so important to this study?: -->
-1. Stare
+
 
 As explored in Chapter 3 Rogoff and Gutiérrez contribute to discussion of expansive learning in CHAT with the concepts of repertoire formation to both, a< provide recognition of the way learners bring home practices into learning spaces, and as a positive enacted demonstration of diversity in learning practices. The associated concept of hybridity as a way of recognising and deploying diversity of mediational tactics and resources in learning contexts [@gutierrez_rethinking_1999] is relevant to this research as a pathway into an exploration of the competing alternate goals within the overall motivation of making a game to share, and component goals of implementing GDPs to do this.
 
