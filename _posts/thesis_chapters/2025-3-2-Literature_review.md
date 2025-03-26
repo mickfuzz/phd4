@@ -306,6 +306,23 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 <!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1] -->
 
+### Creative Family Learning - A constructionist case study in non-formal learning environment
+
+MOVED UP TO CONSTRUCTIONIST ABOVE?
+
+
+
+<!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
+
+Correa (2015), explores the role of children as brokers of technology in family environments.
+
+The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017].
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
+
+To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts.
+
+
 
 ## Pedagogies to support game making via coding
 
@@ -727,18 +744,26 @@ The Moveable Game Jam [@games_for_change_get_2017], a process created a collecti
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
 
-### Creative Family Learning - Roque (and 5d?) - YES 5D COLE AND GUTIERREZ
 
-<!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
-Correa (2015), explores the role of children as brokers of technology in family environments.
+### The Fifth Dimension
 
-The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017].
+<!-- COLE AND GUTIERREZ -->
 
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
+The work of Cole and Gutiérrez bears investigation due to its similarity in context and aim to this study. Specifically the grouping of similar 5D interventions were focused on addressing equity in a technology rich environment in a non-formal setting.
 
-To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts.
+A case study from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
 
+The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
+
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
+
+In addition to important similarities of context, the goal of the 5th D in terms of diversity and inclusion is significant. It is also significant that different formulations and local cultures with settings (described as idiocultures [@valsiner_cultural-historical_2007]), in a way which is responsive to the interests and needs of different settings.
+
+The ability for a
+
+This case study also highlight important elements of the theoretical framework to be treated in the following chapter.  
+Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the compexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way. 
 
 ### A final reflection
 
@@ -1377,17 +1402,7 @@ Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_lear
 **Other Non-dominant identities**
 
 Shift to other tactics like Family Connect
-### 5th Dimension Case Study
 
-Insert a summary of context, motivation and some of the processes to address cultural issues in 5th dimension project
-
-A case studey from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
-
-The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
-
-In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
-
-This technique emerged in this study as one of value and is explored in chapters x and y.
 
 
 ##  Project Based Learning (PBL)
