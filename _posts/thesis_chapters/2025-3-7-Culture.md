@@ -519,17 +519,45 @@ As a designer I began to noticed acts of volition to adapt the game making proce
 The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
 Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
 
+### Relational agency
 
-**Shifting forms of agency.**
+The process of developing new repertoires is not a solo process. The complex relations between participants outlined in the vignettes and data of the last chapter, in particular that in guided participation and cultural activity, demonstrate  interdependence characteristic of relational agency.
+
+Edwards  [@edwards2009systemic] explores relational agency within a CHAT framework as transcending individuals capacity to encompass collective problems solving via specialisation and diversity of approaches within activity systems. As a collective participants can overcome systemic contradictions via expansive learning, rearranging working relationships and thus opening new forms of relational agency. This concept is illustrated by the importance of feedback in community making and tinkering activities leading to increased "relational expertise" in partipants [@digiacomo_relational_2016-1 , p.144],
+
+### Shifting forms of agency
 
 This interpretation highlights possible shifts in forms of agency and an emerging dilemma in the evolving learning design. Initial blocks are solved by transformative agency, patterns and tools become established in the community, and agency shifts to and more instrumental.
 
-In the introduction I outlined that a driving motivation of this research was to better understand chaotic learning environments, of which P1 is an example. Given this draw to conditions of TA, such shifting forms of agency could create a resulting tension. As a learning designer, design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process. However, in adapting designs, and thus increasing affordances and instrumental agency here is a danger of designing away the possibility for transformational agency.
+| **Name** | Transformative Agency | Instrumental Agency | Relational Agency |
+|----|-------------|----------------|---------------|
+|**Characteristics:**|  When participants are blocked from progressing or what to move their work in an new direction | Instrumental agency is present in the straight-forward mediational use of existing written instructions and in-template affordances. | Relational agency is present in the interactions between participants asking for help, sharing developing expertise, and via incorporation of home interests in new repertoires of practice  |
+| **When shown:** |  In P1 before written instructions were available. Also in P3 when diverting from the existing template paradigm (V?). | Present from P2 onwards.  | Relational agency is present in P2 where forms of it emerge organically during playtesting and in P3 where it is also structured by introduced activities  |
+| **Examples:** | In P1 participants suggest the use of lists of features as a key organising tool, a process culminating in a collection of GDPs.  In P3 Toby and Dan make a maze game instead of a platformer game (V?). | Examples: in use of quick start activities, and in V2 Toby use of written instructions | In the following vignettes  |
+
+
+Table. 2.x Characterisation of types of agency in the design
+
+
+### Implications for design & a contribution proposal
+
+In the introduction I outlined that a driving motivation of this research was to better understand chaotic learning environments, of which P1 is an example. Given this draw to conditions of TA, such shifting forms of agency could create a resulting tension.
+
+As a learning designer, design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process. However, in adapting designs, and thus increasing affordances and instrumental agency here is a danger of designing away the possibility for transformational agency.
 
 To retain this potential for transformation it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. Evidence of this exists, beyond P1, there were still spaces for TA once the core pedagogy is in place. For example, in Vig. Tody and Dan the break out of the template to create a different genre.
 
 Also, not everyone like messy / sketchy pedagogies, there is a danger that  levels of stress for participants may reduce the inclusivity.
 
+**Gap in research:** At this point we can readdress one of the gaps addressed by the problem statement of the thesis: The importance of designing for agency and lack of studies which do that using socio-cultural perspectives.  
+
+The following discussion section reframes and analyses data in relation to existing research, drawing on concepts of FOK, third spaces and repertoires of practice.
+
+It concludes by proposing that understandings of CGD&P pedagogies can be enriched in two dimensions, firstly in design and secondly in a deeper theoretical understanding of concepts of agency development.  
+
+### LINK
+
+The following section examines
 
 <!-- Straight forward individual use of documentation by Tony and Susanna in V1 and V2. -->
 
@@ -621,11 +649,14 @@ This section moves beyond instrumental and transformative agency to a wider more
 
 As explored in Chapter 3 Rogoff and Gutiérrez contribute to discussion of expansive learning in CHAT with the concepts of repertoire formation to both, a< provide recognition of the way learners bring home practices into learning spaces, and as a positive enacted demonstration of diversity in learning practices. The associated concept of hybridity as a way of recognising and deploying diversity of mediational tactics and resources in learning contexts [@gutierrez_rethinking_1999] is relevant to this research as a pathway into an exploration of the competing alternate goals within the overall motivation of making a game to share, and component goals of implementing GDPs to do this.
 
+Gutiérrez's [@gutierrez_developing_2008] focus on the movement of identity between settings' repertoires of practice draws on the importance of a wider cultural focus of the learning process, or the “cultural mediation of thinking” (Moll, 1998), cited in [@digiacomo_seven_2017] p.44. Gutiérrez sees a role for facilitators to facilitate this via learning design.
+
+In the last chapter, data on activity on the cultural plane exposed elements of transfer between different activity systems, supporting Gutiérrez's [@gutierrez_developing_2008] perspective regarding the importance of transcending borders and linguistic practices between sites of learning. SO WHAT?
+
 The data of this study provides a strong case study, evidence and detail to this process in the use of external repertoires and their remediation into new repertoires.
+WHAT AM I TRYING TO SAY HERE IS THIS IT? IS THIS A GAP ? ARE MORE CASE STUDIES NEEDED?
 
-The process of developing new repertoires is not a solo process in this new space. The complex relations between participants outlined in the vignettes and data of the last chapter show an interdependence showing characteristics of relational agency.
 
-Edwards  [@edwards2009systemic] explores relational agency within a CHAT framework as transcending individuals capacity to encompass collective problems solving via specialisation and diversity of approaches within activity systems. As a collective participants can overcome systemic contradictions via expansive learning, rearranging working relationships and thus opening new forms of relational agency. This concept is illustrated by the importance of feedback in community making and tinkering activities leading to increased "relational expertise" in partipants [@digiacomo_relational_2016-1 , p.144],
 
 <!-- In the context of my study the role of forllowing design features of the learning environment bear greater exploration.
 

@@ -22,6 +22,12 @@ Or perhaps group terms by theme, include references in each description with exa
 
 **Contradictions:** A key term in the expansion of the learning activity
 
+### Other theoretical terms
+
+**Flow:**
+<!-- is this needed to complement computational fluidity. -->
+
+
 ### Overall terms
 
 **Learning design:** The term used for a set of resources and pedagogical techniques introduced by myself as a facilitator of coding sessions. The following terms are used as synonym at times to avoid a repetitive writing style: _learning intervention_ and _game making pedagogy_. Wider terms are used which encompass non-designed elements for example _learning activity_.
@@ -48,9 +54,13 @@ Or perhaps group terms by theme, include references in each description with exa
 
 **Bartle's Player Types:** The grouping of different player types reflects a design concept that players play games for different motivations. Bartle's proposed types are frequently framed as the following: Achiever, Killer, Explorer, Socialiser. For example, Killer / Griefer refers to a player who often engages in a process of playing against the norms of the game for entertainment value. This can be disruptive in the context of a group game.   
 
+**Computational Fluidity:** Relates both to flow experience (see above) and Resnick's interpretation which emphasises the importance of participants self-expression in computer coding project.
+
 #### perhaps not needed.
 
 **Process Drama:** A way of exploring topics using dramatic techniques to explore situations, professional contexts or wider topics. The work of Dorothy Heathcote on process drama is influential in shaping conceptions of what is possible in school contexts particularly in her use of guided role play and cross-circular work.
+
+
 
 ### General Coding / Technical Terms
 
