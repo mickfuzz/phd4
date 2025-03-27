@@ -775,12 +775,12 @@ Reconnecting to connected learning alliance in intro. See case study  [@ito2013c
 The 5D approach  also highlight important elements of the theoretical framework to be treated in the following chapter.  
 Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the compexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
 
-However, while this line of research was rich in case studies, but general in nature. 
+However, while this line of research was rich in case studies, but general in nature.
 A wider questions, how to operationalise this broader approach of connected learning and movement between learning spaces as a specific pedagogy in a code club, non-formal environment.  
 
 This line of thought invites a turn to address to gaps in research / problem statement.
 
-
+Also explored in SDBEs 
 
 
 ### A final reflection
