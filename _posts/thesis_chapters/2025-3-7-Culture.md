@@ -434,6 +434,35 @@ Within this line of inquiry concerning navigation of different levels of abstrac
 In the previous analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting. The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
 
 
+
+#### First area of contribution to the research in the field: An applied pedagogy with detailed analysis of inherent structural components  - MOVED HERE
+
+<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
+
+
+This chapter contend that the underlying structure of the learning design is vital to support the social and cultural processes described above. This technical structure synthesises UMC pedagogy, a half-baked game template and the use of a collection of game design patterns. This section summaries this structural / technical approach.
+
+In terms of the specificity of the last section, this chapter has, in line with underlying Marxist principles, returned to the concrete. Specifically the theoretical generalisation or germ cell that emerged from this research of the use of GDPs is applied in specific concrete instances in a variety of ways. The additional scaffolding provided by GDPs and the  synthesis of UMC and half-baked game, specifically as a boundary object with affordances inviting completion, contributing a more specific, accessible and coherent pedagogy to the the field of game making.
+
+The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section. Thus the structural elements of this design facilitate the kind of relational pedagogies originally advocated by Papert and but which have too often been missing from research in this field.
+
+
+
+
+<!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
+
+
+Returning to the modification of the C stage of UMC from create to choose advocated by Lytle [@lytle_use_2019] as a strategy to reduce facilitator stress, this design extends this concept in a flexible way using GDPs as a structural and navigational framework.
+
+The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the development of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
+
+
+
+
+
+
 <!-- in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research. -->
 
 <!-- PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020] -->
@@ -929,11 +958,11 @@ In this research, similar metaphors have emerged in the pedagogical and technica
 These metaphors invite a connection to play theories concept of as the magic circle. Play theorist outline the value of stepping into a more controlled area of voluntary experimentation where the fear of failure is reduced. Game rules are norms which seed participation in community processes.
 
 The concepts of affective space and magic circle  as a way to encourage participants to improvise from a starting structure are of value to provide guidance to practitioners in the domain of informal digital design.
-
+or examples see the book , a
 The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail. -->
 
 
-## Part Three : Synthesis & contributions to the field
+## Part Three : Synthesis & contributions to the field = EDITING DOWN OR MOVING
 
 
 <!-- TO INTEGRATE?
@@ -945,47 +974,6 @@ The role of the emerging culture and identity of the idioculture  is developed i
 - the emergence and nurturing of flexible and complex design behaviours (beyond player types) -->
 
 
-### Returning to gaps in the research landscape & my motivations
-
-In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming (CGD&P)
-
-Overall, a gap in making games compared to playing them, a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
-
-In addition there is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
-
-While vague conceptions of collaboration and broader 21st C skills seem broadly applicable, they are unfocused.
-
-While one promising concept, that of computational fluency, exists in broader research, the concept is only explored in broads strokes as both technical competency and an ability to for self-expression within digital code mediums [].
-
-The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
-
-
-This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies aligns with those gaps.
-
-
-### First area of contribution to the research in the field: An applied pedagogy with detailed analysis of inherent structural components
-
-<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
-
-
-This chapter contend that the underlying structure of the learning design is vital to support the social and cultural processes described above. This technical structure synthesises UMC pedagogy, a half-baked game template and the use of a collection of game design patterns. This section summaries this structural / technical approach.
-
-In terms of the specificity of the last section, this chapter has, in line with underlying Marxist principles, returned to the concrete. Specifically the theoretical generalisation or germ cell that emerged from this research of the use of GDPs is applied in specific concrete instances in a variety of ways. The additional scaffolding provided by GDPs and the  synthesis of UMC and half-baked game, specifically as a boundary object with affordances inviting completion, contributing a more specific, accessible and coherent pedagogy to the the field of game making.
-
-The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section. Thus the structural elements of this design facilitate the kind of relational pedagogies originally advocated by Papert and but which have too often been missing from research in this field.
-
-
-
-
-<!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
-
-
-The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the development of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
-
-
-**Can't quite fit in.**
-
-These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways inline with the stages and ethos of a
 
 
 

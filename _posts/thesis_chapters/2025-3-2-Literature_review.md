@@ -306,16 +306,20 @@ Given the importance of more intentional pedagogical approaches in this area and
 
 #### Socio-cultural approaches within constructionism and their limits
 
-Look the potential of at constructopedia samplers
-[@papert_technological_1995], an attempt using the computer clubhouse to make this happen using the potential of the internet [@chapman_pearls_2006].
+One concept advanced but not fully developed in constructionist research is that of a Constructopedia [@papert_technological_1995], imagines an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] the concept lives on in a different format, remixing potential in the Scratch community.
 
-Finally the remix element of Scratch serves this purpose, but in an embedded way distinct from the original purpose of the  constructopedia.
+An important distinction exists however in the that remixing of  Scratch projects is complicated by the an embedded nature of the features. The process of extracting them and implementing them is neither straightforward or guided.
 
-This is missing from the reviews of CGD&P
+
+<!-- Look the potential of at constructopedia samplers
+[@papert_technological_1995], an attempt using the computer clubhouse to make this happen using the potential of the internet [@chapman_pearls_2006]. -->
+
 
 Roque in Family Creative Learning, addressed learning types, but limited in conceptual approaches.
 
-Computational Fluency,
+Computational Fluency, as a concept while not explicitly included in the reviews of CGD&P is inherently valued as personal expression and participation within a community.
+
+
 
 #### (Why not use constructionism)
 
@@ -936,6 +940,33 @@ Including some of the following elements
 
 Regarding game design patters, in the  work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  My research instead asks how the similar packaging up of components into GDPs can be used as a navigational and content delivery mechanism.
 
+
+### Returning to gaps in the research landscape & my motivations - MOVED HERE EDIT INTO SURROUNDINGS
+
+<!-- In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming (CGD&P) -->
+
+Overall, a gap in making games compared to playing them, a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
+
+In addition there is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
+
+While vague conceptions of collaboration and broader 21st C skills seem broadly applicable, they are unfocused.
+
+While one promising concept, that of  fluency in the digital domain. this concept is explored in several relevant strands of reserach.
+
+In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1]
+
+In digital making / constructionst focus it is described in broad strokes as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009] or computational fluency [@resnick_computational_2018].
+
+The latest iteration compuational fluency, is described in broad strokes as both technical competency and an ability to for self-expression within digital code mediums [@resnick_computational_2018].
+
+If viewed from a wider socio-cultural perspective what potential does games making have in increasing this fluency, what in particular about games is relevant to this potential, how can the characteristics of such fluency in more depth using socio-cultural concepts. Finally, what is the potential role of a open ended, socio-cultural research process help develop a pedagogy which encourages this fluency.   
+
+The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
+
+
+
+
+This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies aligns with those gaps.
 
 ### The problem statement of the thesis
 
