@@ -1,6 +1,7 @@
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
+    -   [Research Questions March 2025](#research-questions-march-2025)
     -   [Research Questions Jan 2025](#research-questions-jan-2025)
     -   [Notes](#notes)
     -   [Introduction](#introduction)
@@ -24,6 +25,11 @@
     -   [Part Two - Agency](#part-two---agency)
         -   [Instrumental and transformational
             agency](#instrumental-and-transformational-agency)
+        -   [Relational agency](#relational-agency)
+        -   [Shifting forms of agency](#shifting-forms-of-agency)
+        -   [Implications for design & a contribution
+            proposal](#implications-for-design-a-contribution-proposal)
+        -   [LINK](#link)
         -   [2c - Relational Agency in emergent activities in emergent
             cultural context - 3rd Spaces, idiocultures, and
             repertoires](#c---relational-agency-in-emergent-activities-in-emergent-cultural-context---3rd-spaces-idiocultures-and-repertoires)

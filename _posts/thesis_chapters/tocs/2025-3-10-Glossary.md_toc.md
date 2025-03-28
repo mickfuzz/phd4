@@ -1,5 +1,6 @@
 -   [Glossary](#glossary)
     -   [Methodology terms](#methodology-terms)
+    -   [Other theoretical terms](#other-theoretical-terms)
     -   [Overall terms](#overall-terms)
     -   [Context / Community](#context-community)
     -   [Pedagogies and Design

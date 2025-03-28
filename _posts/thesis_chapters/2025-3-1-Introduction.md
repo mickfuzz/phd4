@@ -253,30 +253,10 @@ TOO DETAILED TO EARLY - SUMMARISE BASED ON THE ABOVE MOTIVATIONS.
 Choosing a theoretical framework which aligns with the goals of the research questions is an important decision in undertaking a PhD study. In my role as both a practitioner and a researcher, it was vital to select a framework that could incorporate potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
 
 
-### Removed - why not constructionism?
 
 <!-- For a sociocultural critique of constructionism see Vossoughi et al [-@vossoughi_making_2016]. -->
 
-### Papert, Resnick & Constructionism in a socio-cultural approach
 
-#### Socio-cultural approaches
-
-Look the potential of at constructopedia samplers
-[@papert_technological_1995], an attempt using the computer clubhouse to make this happen using the potential of the internet [@chapman_pearls_2006].
-
-Finally the remix element of Scratch serves this purpose, but in an embedded way distinct from the original purpose of the  constructopedia.
-
-Roque in Family Creative Learning, addressed learning types, but limited in conceptual approaches.
-
-Computational Fluency,
-
-#### (Why not use constructionism)
-
-Constructionism is a popular guiding theory in game making studies, illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, this section explains why I have chosen activity theory as a better fit for the aims of this thesis. I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
-
-While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.  
-
-Instead, Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency. Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012].
 
 
 ### On agency and cultural historical activity theory / socio-cultural approach
@@ -298,6 +278,9 @@ CHAT is optimistic but realistic in its focus on change. It approaches activity 
 
 <!-- DEVELOP HOW?
 instrumental agency, relational agency and authorial agency. - use quick examples like, overcoming technical barriers could be instrumenatl agency, etc  -->
+
+**High level overview of why not constructionism?:** Given that Papert, etc why not constructionism as a theoretical framework?
+I contend that there are useful tools in socio-cultural CHAT approaches that can enrich studies in this area. Additionally, in Chapter x I explore important limitations in constructionism that activity theory approaches can address.  
 
 In addition, due to value of and importance of participants home use of technologies and experiences of learning, it is useful to adopt a research process in which involves participants in the evolving learning design then are engaging with and in turn the overall direction of the research process. This study outlines ways in which working with participants has yielded important contributions of novel ideas. To achieve this, I have supplemented the use of activity theory with the use of design based research (DBR) techniques.
 
