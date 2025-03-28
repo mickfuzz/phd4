@@ -333,10 +333,9 @@ USE AS A CHANCE TO COMPARE? -->
 
 <!-- The focus there, as with Cole's work is on the emergence of culture, tracing the historicity of it, and on equity in the process. -->
 
-### Theoretical concepts used emerging from the LCHC and the Fifth Dimension interventions
+### SDBEs and theoretical concepts emerging from the LCHC and the Fifth Dimension interventions
 
 <!-- in the Fifth Dimension, a formative intervention drawing on broader sociocultural concepts -->
-
 
 
 The work of Michael Cole and colleagues at the Laboratory of Comparative Human Cognition (LCHC), in particular the previously mentioned after-school intervention Fifth Dimension (5D) [@cole_mind_1997], provides useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007] which are explored in this section. Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis, have been developed or utilised by various researchers associated with LCHC: mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
@@ -349,7 +348,10 @@ Turning first to mutual appropriation, the concept has been utilised by Cole to 
 
 Cole describes the value of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. Following Fine [@fine_boys_1987], Cole employs the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures do not emerge from thin air; rather they encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017]. Cole describes the utility of idiocultures as concrete ways of studying the dynamics of cultural variability between different sites, as well as practical means to shape the programme's activities based on participants' previous experiences [@cole_idiocultural_2017].
 
-INSTEAD HERE INSERT Repertoires AS BUILDING IN idiocultureS
+
+INSERT Repertoires AS A MORE APPLIED CONCEPTS OF USE IN THE OBSERVATION OF AND DESIGNING FOR BUILD OF idiocultureS
+
+
 
 This interpretation of the practical utility of idiocultures resonates with the concepts of third spaces and funds of knowledge. Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as resources that can be drawn upon by teachers and participants to facilitate learning in school or other environments, thereby achieving more equitable and inclusive learning experiences. This approach is particularly valuable for learners whose home life is culturally distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy. The process of blending the knowledge and discourses of the first space (home life) with the motivations of the second space (school or institution) into a new third space has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009]. Rajala and colleagues [-@rajala_utopian_2023] problematise the use of FoK in third spaces. They critique the superficial application of FoK, which may perpetuate cultural stereotypes and thus maintain the existing negative status quo [@rajala_utopian_2023]. Additionally, the practical challenge of gathering sufficient relevant data on home cultures to inform a more nuanced use of FoK would be very time-consuming. To address these issues, they advance the concept of funds of identity, which allows for an exploration of home cultures within the scope of the intervention through the creation of identity artefacts with participants [@subero_mediation_2018].
 
@@ -365,7 +367,22 @@ experiments [@gutierrez_social_2016-1; @gutierrez_social_2020]. -->
 
 For example, in a primary school setting, Morcom [@morcom_scaffolding_2014] applies Rogoff's  [-@rogoff_observing_1995] three planes of activity to help understand the development of classroom activity. In this interpretation, teachers design learning environments and interventions to support learners to enter into a pattern of activity, in this case focusing on those beneficial to student's positive affect. -->
 
-## Putting AT to work, variations in interventionist CHAT research
+
+#### Social design-based experiments (SDBEs)
+
+THE ORDER MAY NEED TO BE DIFFERENT - PUT DBR BEFORE SDBEs
+
+The work of 5D has led Gutiérrez to develop a methodology called Social design-based experiments (SDBEs). SDBEs draw on FI and DBR and extend it with several useful techniques and perspectives.
+
+- A focus on equality
+- diversity
+- historical actors and movement between spaces
+- linked with transformative agency [guti and jurow, p3]
+- non hierarchical - horizontal concepts of institutional and everyday knowledge [guti and jurow, p4]
+
+For shadows work on abstract and concrete in the future. 
+
+## Putting AT to work, variations and synthesis in interventionist CHAT research
 
 While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings. One way to explore the variations and fault lines between these approaches, which are relevant to this thesis, is to compare interpretations of CHAT interventions with variants of design experimentation, design research, or design-based research (which I will henceforth refer to as DBR).
 
@@ -450,7 +467,7 @@ The distinct focus of equity, rather than agency of Gutierrez should be noted he
 
 ### Dynamically emergent agency
 
-CAN THIS BE LINKED WITH RELATIONAL AGENCY - 
+CAN THIS BE LINKED WITH RELATIONAL AGENCY -
 
 Matusov and colleagues' interpretation of a dynamically emergent dimension of agency is complex and diverse allowing agency to be recognised in distributed forms such as 'emerging collective agency, agency of bureaucracy, non-human agency of animals, agency of distributed machine-human network, agency of Internet, and so on' [@matusov_mapping_2016, p. 432]. The authors recognise the value of this framing of agency to explore and address constraints and designing support in the form of affordances in the learning environment. As this study involves the use of computer systems to learn computer coding, there is value in exploring agency in this context. Work by Bærentsen and Trettvik [-@ba_erentsen_activity_2002] linking the use of affordances in human computer interaction (HCI) to a foundation in activity theory highlights, following Gibson [-@gibson2014theory], that affordances exist as opportunities provided by the environment and objects within it, either natural or culturally created, to organisms within that environment. The authors also note that the distinction between the intended (designed) use of affordances and their possible use, an important distinction in the field of HCI, is one best explored via activity theory's study of the interaction of humans and artefacts as joint activity, thus preventing the view that that affordances have magical powers outside of a cultural context.
 
