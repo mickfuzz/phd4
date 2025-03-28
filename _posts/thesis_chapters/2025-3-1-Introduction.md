@@ -270,6 +270,14 @@ Roque in Family Creative Learning, addressed learning types, but limited in conc
 
 Computational Fluency,
 
+#### (Why not use constructionism)
+
+Constructionism is a popular guiding theory in game making studies, illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, this section explains why I have chosen activity theory as a better fit for the aims of this thesis. I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
+
+While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.  
+
+Instead, Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency. Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012].
+
 
 ### On agency and cultural historical activity theory / socio-cultural approach
 
@@ -305,7 +313,7 @@ Design based research is not a uniform practice with set methodology but there i
 
 
 
-## 3. Research objectives and questions (Swapped) - MAYBE MOVE UP EVEN? 
+## 3. Research objectives and questions (Swapped) - MAYBE MOVE UP EVEN?
 
 ### Research objectives & Recap of motivation
 
