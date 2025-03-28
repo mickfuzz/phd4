@@ -212,6 +212,8 @@ Coding, new for many teachers, a great response from those involved.
 
 
 
+
+
 ### Open source, online responses to the challenge
 
 The promise of Connected Learning -
@@ -235,14 +237,38 @@ There were limits to the take up of the curriclum but the Thimble community was 
 <!-- NOTE SEE THIS SUMMARY - WHICH MUST BE IN HERE SOMEWHERE TOO - https://docs.google.com/document/d/1grMat_sXRLdlRSDtR17Lyxf1OAg3ZpOxTWfnDZ3kkIU/edit -->
 
 
-## 4. Introduction to theoretical framework / agency
+## 4. Introduction to theoretical framework & agency
+
+Given the overall concerns and motivations of the study this section addresses the following in terms of the current state of research.
+
+- why not constructionism? given dominance in CDG&P? (intro followed in Ch2. )
+- what are we designing for in the context of this study
+- what is agency in the context of this study
+
+
+### Theoretical framework
+
+TOO DETAILED TO EARLY - SUMMARISE BASED ON THE ABOVE MOTIVATIONS.
 
 Choosing a theoretical framework which aligns with the goals of the research questions is an important decision in undertaking a PhD study. In my role as both a practitioner and a researcher, it was vital to select a framework that could incorporate potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). The following sections give a short overview of these frameworks in relation to these needs. They are explored in depth in Chapter 3.
 
 
-
+### Removed - why not constructionism?
 
 <!-- For a sociocultural critique of constructionism see Vossoughi et al [-@vossoughi_making_2016]. -->
+
+### Papert, Resnick & Constructionism in a socio-cultural approach
+
+#### Socio-cultural approaches
+
+Look the potential of at constructopedia samplers
+[@papert_technological_1995], an attempt using the computer clubhouse to make this happen using the potential of the internet [@chapman_pearls_2006].
+
+Finally the remix element of Scratch serves this purpose, but in an embedded way distinct from the original purpose of the  constructopedia.
+
+Roque in Family Creative Learning, addressed learning types, but limited in conceptual approaches.
+
+Computational Fluency,
 
 
 ### On agency and cultural historical activity theory / socio-cultural approach
@@ -279,7 +305,7 @@ Design based research is not a uniform practice with set methodology but there i
 
 
 
-## 3. Research objectives and questions (Swapped)
+## 3. Research objectives and questions (Swapped) - MAYBE MOVE UP EVEN? 
 
 ### Research objectives & Recap of motivation
 
