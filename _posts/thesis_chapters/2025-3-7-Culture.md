@@ -462,7 +462,6 @@ These varied forms of documentation, and their varied adoption and propagation r
 
 
 
-
 <!-- in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research. -->
 
 <!-- PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020] -->
@@ -796,6 +795,15 @@ This process extends the work of Barron and Roque [@roque_family_2016; @roque_im
 The process contextualises and legitimises the previously peripheral activities with the groups conceptions of the idioculture of the wider activity. This recognition of the hybridity of possible modes of participation increases conceptions of enacted diversity of the community. This strand of thought also invites a deeper theoretical examination of the value of identify formation.
 
 
+#### 6. The impact of constraints in design on agency
+
+CONSTRAINTS IN DESIGN?
+While supporting a flexible learner pathway is vital to this approach, the value of restrictions to creativity are also important here. The restricted genre, pixel art format and templated approach act not only as technical  scaffolds but also aligns with research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama.
+
+The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype]. Thus, I now explore the tools, process and the community in this study mutually encourage an flexible approach often referred to as _jamming_. As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),
+
+MOVE LATER / CONCLUSION
+The characteristics described above offer a contribution to the literature on Game Jam pedagogy and learning design of this study offers greater scaffolding to the process to facilitate the process of jamming as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003]. This strand is developed in the following chapter.
 
 
 <!-- Hence the next section. An attempt a synthesis of diverse pedagogical elements  - DOES IT? -->
