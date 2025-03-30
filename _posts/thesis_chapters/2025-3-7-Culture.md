@@ -232,6 +232,10 @@ This section explores these academic conceptions in a playful way using relatabl
 
 ## Part one - Exploring concepts of abstract and concrete knowledge frameworks in relation to Game Design Patterns
 
+1. Recap  concepts of abstraction  
+2. Link to data
+3. Then begin practical use of this take - tinkering pedagogy
+
 
 <!-- 1. Recap, GDPs as a Germ cell, Exploring CHAT concepts of abstraction  
 2. Locating TADS in this perspective, via 3GAT concept of expansion via double stimulation and TADS
@@ -239,16 +243,22 @@ This section explores these academic conceptions in a playful way using relatabl
 4. then Waite Levels of abstraction - & observations
 5. Then begin practical use of this take - tinkering pedagogy -->
 
-In chapter two I described the characteristics and limits of existing pedagogies in the domain of computer game design and programming (CGD&P) addressing conceptions of abstraction including computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches. The research process, in particular attempts in later stages to align with UK computing curricular concerns, provoked careful reflection on abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. The previous chapter began to explore, through the lens of personal appropriation, a variety of concepts and practices suitable for development via this learning design in the form of a map of learning dimensions.
+Secondly, the tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of the domain of computer game design and programming (CGD&P). In chapter two I described the characteristics and limits of existing pedagogies in the domain of CGD&P addressing conceptions of abstraction including computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches.
 
-This chapter section develops this line of thinking in two broad streams. Firstly, the research process and the evolving design involve a process of _rising to the concrete_, an analytical process involving identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it. Secondly, the tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of this domain. This section ends by unifying these threads with a proposal of GDPs as an intermediate-level construct located between these poles, demonstrating their utility for educational designers, researchers and for participants.
+The research process, in particular attempts in later stages to align with UK computing curricular concerns, provoked careful reflection on abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally.
+
+Chapter 2 began to explore, through the lens of personal appropriation, a variety of concepts and practices suitable for development via this learning design in the form of a map of learning dimensions.
+
+The research process and the evolving design involve a process of _rising to the concrete_, an analytical process involving identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it.
+
+This section ends with a proposal of GDPs as an gateway construct located to access abstract and concrete dimensions of the learning experience, demonstrating their utility for educational designers, researchers and for participants.
 
 
 
 <!-- surfacing a distinction between curricular contents commonly associated with a more abstract understandings of personal knowledge, including more abstract elements of computation thinking.  -->
 
 
-To start, however, let us consider the nature of the utility of abstraction using this study's theoretical framework of activity theory. For Sannino' [-@sannino_activity_2011] distinction between empirical abstraction, described as "observation and categorization", and theoretical abstraction, characterised as "practical transformation, change, and experimentation". The utility of such theoretical abstraction lies in its ability to generate "concrete manifestations and developmental forms of the reality under scrutiny", hence the use of the term _germ cell_ [@sannino_activity_2011, p.590]. In this research, the empirical level of abstraction was most prevalent present in P1, D1 and P2 where features to be added to the game were classified as gameplay features and categorised. The nature of abstraction becomes more theoretical as I position each feature as a gameplay design pattern. The guiding conception is the pedagogical utility of a strongly coupled link between a feature of an observable game product (in this case gameplay design patterns) and scaffolding resources available within a community. This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter 6. The following section makes a parallel between the utility of germ cell concepts and so-called strong concepts or intermediate knowledge in design theory [@hook_strong_2012; @barendregt_intermediate-level_2018].
+To start, let us consider abstraction using this study's theoretical framework of activity theory. For Sannino' [-@sannino_activity_2011] distinction between empirical abstraction, described as "observation and categorization", and theoretical abstraction, characterised as "practical transformation, change, and experimentation". The utility of such theoretical abstraction lies in its ability to generate "concrete manifestations and developmental forms of the reality under scrutiny", hence the use of the term _germ cell_ [@sannino_activity_2011, p.590]. In this research, the empirical level of abstraction was most prevalent present in P1, D1 and P2 where features to be added to the game were classified as gameplay features and categorised. The nature of abstraction becomes more theoretical as I position each feature as a gameplay design pattern. The guiding conception is the pedagogical utility of a strongly coupled link between a feature of an observable game product (in this case gameplay design patterns) and scaffolding resources available within a community. This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter 6. The following section makes a parallel between the utility of germ cell concepts and so-called strong concepts or intermediate knowledge in design theory [@hook_strong_2012; @barendregt_intermediate-level_2018].
 
 
 <!-- Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start card -->
