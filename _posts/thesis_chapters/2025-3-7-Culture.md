@@ -280,7 +280,7 @@ In addition,
 
 
 As explored in Chapter 2, the work of Eriksson et al. [-@eriksson_using_2019, p.15], drawing on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign.
-This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. Therefore, before exploring this aspect in relation to data on use of GDPs, of value to articulate this in the context of computing education by revisiting LR material. 
+This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. Therefore, before exploring this aspect in relation to data on use of GDPs, of value to articulate this in the context of computing education by revisiting LR material.
 
 #### in computing education research
 
@@ -470,19 +470,25 @@ The scaffolding provided by the template and the close coupling of the purpose, 
 
 
 
+
 <!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
 
 
 Returning to the modification of the C stage of UMC from create to choose advocated by Lytle [@lytle_use_2019] as a strategy to reduce facilitator stress, this design extends this concept in a flexible way using GDPs as a structural and navigational framework.
 
+EARLIER - AS DIFFERENT MANIFESTATIONS OF GERM CELL
 The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the development of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
 
+WHY RELEVANT? PATHWAYS?
 These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
 
+#### Resulting pedagogical model - remix enabled elective pattern patching model (REEPP)
 
+To communicate the essence of this structural, technical model I propose an acronym remix enabled pattern patching (REPP).
 
+The remix enabled elective pattern patching model -
 
-
+If applies collaboratively, it becomes CREEPP,
 <!-- in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research. -->
 
 <!-- PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020] -->
@@ -1001,7 +1007,6 @@ The role of the emerging culture and identity of the idioculture  is developed i
 - the impact / if any of the social missions and player types to help the development of learner identities.
 
 - the emergence and nurturing of flexible and complex design behaviours (beyond player types) -->
-
 
 
 
