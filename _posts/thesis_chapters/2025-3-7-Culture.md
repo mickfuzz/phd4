@@ -265,8 +265,9 @@ Chapter 2 began to explore, through the lens of personal appropriation, a variet
 
 <!-- surfacing a distinction between curricular contents commonly associated with a more abstract understandings of personal knowledge, including more abstract elements of computation thinking.  -->
 
-### Conceptions of abstraction in the research field
+### 1. Conceptions of abstraction in the research field
 
+#### 1.a in chat
 
 To start, let us consider abstraction using this study's theoretical framework of activity theory.
 The research process and the evolving design involve a process of _rising to the concrete_, an analytical process involving identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it.
@@ -283,7 +284,19 @@ Chapter 2 exposed a gap in the research in this area in terms of specific implem
 
 To address this gap, the following section makes a parallel between the utility of germ cell concepts and so-called strong concepts or intermediate knowledge in design theory [@hook_strong_2012; @barendregt_intermediate-level_2018].
 
+#### 1.a.ii. intermediate construct
 
+MOVE MUCH OF THIS TO CHAPTER 2. FOCUS ON THE GAP
+
+Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20].
+Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010].
+
+The work of Eriksson et al. [-@eriksson_using_2019, p.15], drawing on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for the young people make design suggestions to alter a game, In this study they do not modify computer code.
+As such, there is still much work to be undertaken addressing the utility of GDPs to support novice programmers.
+In addition,
+
+As explored in Chapter 2, the work of Eriksson et al. [-@eriksson_using_2019, p.15], drawing on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign.
+This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. Therefore, before exploring this aspect in relation to data on use of GDPs, of value to articulate this in the context of computing education by revisiting LR material.
 
 
 <!-- Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start card -->
@@ -294,21 +307,13 @@ To address this gap, the following section makes a parallel between the utility 
 
 <!-- Through this lens the most abstract activity system is the larger one who's objective, to make an engaging game that tells an environmental story, aligns with the problem level of LOA. The level between abstract and concrete is that of choosing, implementing and testing game design patterns, which aligns with design. The most concrete in this interpretation is then the implementation of different lines of code or creation and migration of digital assets. -->
 
-MOVE
-Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20].
-Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010].
+#### 1.b In computing education pedagogies
 
-The work of Eriksson et al. [-@eriksson_using_2019, p.15], drawing on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for the young people make design suggestions to alter a game, In this study they do not modify computer code.
-As such, there is still much work to be undertaken addressing the utility of GDPs to support novice programmers.
-In addition,
-
-
-As explored in Chapter 2, the work of Eriksson et al. [-@eriksson_using_2019, p.15], drawing on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign.
-This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. Therefore, before exploring this aspect in relation to data on use of GDPs, of value to articulate this in the context of computing education by revisiting LR material.
-
-#### In computing education research
+THIS SHOULD JUST BE A SUMMARY - OTHER MATERIAL MOVED TO CH. 2.
 
 The use of design patterns to support learning coding and has been explored chiefly on professional rather than novice learners. While work on design patterns to support novice game programmer exists, it focused main on transfer to science simulation [@repenning_scalable_2015] or analysis and assessment of code complexity [@werner_children_2014; @bienkowski2015assessment]. Before fully exploring my research using this framing of intermediate-level concept I address the role of conceptions of abstract and concrete in research within the domain of learning programming: specifically I address computational thinking, levels of abstraction (LOA), and epistemological pluralism including succinct analysis the findings of this research using those concepts.
+
+
 
 
 <!-- An alignment in this framing from the design research community with CHAT interpretation of the utility of a germ cell construct can be made in terms of the utility of the process and the process of divining a abstract enough germ cell to merit application in other instances. -->
@@ -316,34 +321,44 @@ The use of design patterns to support learning coding and has been explored chie
 <!-- A similar interpretation is adopted by a grouping of HCI researchers exploring the value of "intermediate-level concepts" [@barendregt_intermediate-level_2018; @hook_strong_2012], as a form of "representation of knowledge in-between general theories and particular artefacts in terms of abstraction and generalizability" [@eriksson_using_2019, p.15].  -->
 
 
-
-
-##### Computational thinking
+##### Comparing to pedagogies explicitly teaching abstraction, computational thinking and LOA
 
 <!-- The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. -->
 
 <!-- To ground this in GCSE examples.
 Iteration and Selection are in the gcse example, tick examples of them. Just recognise. -->
 
-Chapter 2 explores definitions of computational thinking varying in degrees of abstraction or application. Two notably interpretations include Wing's [wing_computational_2006] focus on abstraction encompassing as overarching computing principles and high level structural design approaches, and Resnick and Brennan's [@brennan_new_2012] more applied approach including _computational practices_ and perspectives. Wing's emphasis on the importance of the explicit teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribution on computational thinking is  more theoretical than applied and invites discussion on how best to teach this abstract approach to computation thinking. Grover [@grover_computational_2017; @grover_computational_2013] and Guzdial [@guzdial_learner-centered_2015] offer explicit techniques linked using computer code as the driving mechanism. Bell and colleagues [@bell2019constructing] explore the process of unplugged activities, exploring abstract CT concepts without using computers or coding.
+Chapter 2 explores definitions of computational thinking varying in degrees of abstraction or application. Two notably interpretations include Wing's [wing_computational_2006] focus on abstraction encompassing as overarching computing principles and high level structural design approaches, and Resnick and Brennan's [@brennan_new_2012] more applied approach including _computational practices_ and perspectives. In addition, the concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches
+to counter this dominance of dominant formal, abstract approaches, highlighted the value concrete bricolage approaches, a proximity to the code and strong links between function and form. Bricoleur types are described as preferring to stay in closer contact with a concrete sense of the outcomes even at the expense of programming efficiency or neatness of code. The authors' exploration of the types of coders as either Planners or Bricoleurs can be used to begin analysis of aspects of the making styles explored briefly in Chapter 5. The author's perspective, aligns with my own which is that abstraction is clearly useful in computing projects but can be a barrier to participation.
 
-This learning design takes a fundamentally different approach by avoiding the explicit teaching of these more abstract dimensions of CT. Abstract aspects of CT are strongly scaffolded: for example the process of code decomposition via the pre-existing functions in the code template, and abstraction again in template via the graphical design tool. The subsequent structuring of the of core learning design around a collection of GDPs coupling description and implementation also involves the processes of decomposition and pattern recognition. Thus, while the process was collaborative in goal formation the heavy lifting was carried out by myself, a decision justified by focusing on more relational elements of the learning design aligned with agency addressed by RQ3. Thus in the context of this study, Wing's CT framework is applicable some of the code creation processes I have undertaken as a learning designer, but is less relevant to participants.
+Chapter 5 detailed how the process of concrete exploration and rapid feedback was supported by design decisions. In line with constructionist design heuristics [@resnick_reflections_2005], My structural pedagogical design helps a concrete approach for participants  by abstracting away, or black-boxing more complex and abstract element of the starting template. Specifically this involved, The process of code decomposition via the pre-existing functions in the code template, the structuring of the template with key variables moved to the start of the code, and abstraction again in template via the graphical design tool in the form of a grid matrix in an array data structure. Processes of decomposition and pattern recognition were present in the structuring of the collection of GDPs.
+
+This decision to undertake some of the potentially valuable (as a learning experience) abstraction was justified by supporting concrete coder styles and also allowing greater focus on more relational elements of the learning design (explored later). Turning to impact (which is limited), in terms of data,  observations show many of my participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation. The following
 
 
+ <!-- and invites discussion on how best to teach this abstract approach to computation thinking. Grover [@grover_computational_2017; @grover_computational_2013] and Guzdial [@guzdial_learner-centered_2015] offer explicit techniques linked using the application of computer programming as the driving mechanism. Bell and colleagues [@bell2019constructing] explore the process of unplugged activities, exploring abstract CT concepts without using computers or coding. -->
 
 
 <!-- The more concrete elements of CT definition [@brennan_new_2012], which exist on a more applied level, are readily observed in the data are explored in the appendix on learning map, -->
-
-
 <!-- What has this research got to say about the relationship between the two? -->
 <!-- **In terms of recommendations for researchers / practitioners of an intermediate framework:** -->
 <!-- As such this research has only more theoretical propositions rather than participant data. -->
 
-##### Levels of Abstraction
+<!-- MOVED
+The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials.  -->
 
-While Waite and colleagues also propose that abstraction should be explicitly taught, even to younger pupils [@waite_abstraction_2016], their approach to abstraction [@waite_abstraction_2018-1] is distinct from Wing's in that it is grounded in an operationalised computational model distinguishing levels of abstraction: specifically, in descending order of abstraction, the goal or problem to be solved, the designed structure of the program, the actual coding of that design, and at the most concrete level, the running of the code and its outputs [@waite_abstraction_2018-1] (see Table 7.1). Wing's CT concepts within the LOA model would lie at the design level. This advocacy for the utility of awareness of levels of abstraction, based on research indicating its efficacy in supporting learning programming [@cutts2012abstraction; @statter_teaching_2016], cites the value of learners knowing at what level of abstraction they are operating and their fluency in movement between the levels. Waite and Sentance's later work [@sentance_primm_2017] synthesises this interpretation of levels of abstraction with the concept of semantic profiles to create an applied pedagogy for computing education aligned with a UK curricular context. This work highlights the potential role of alternating between abstract and concrete concepts in semantic waves aimed at helping teachers design learning experiences which in part allow for participant shifts in LOA perspectives. In their PRIMM pedagogy the researchers also incorporate the UMC model and draw parallels with LOA. In the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels.
 
-Turning to a synthesis of my finding with those of Waite et al on levels of abstraction, while the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
+
+<!-- Wing's CT framework is applicable some of the code creation processes I have undertaken as a learning designer, but is less relevant to participants. -->
+
+
+##### Exploring data using concepts of Levels of Abstraction (LOA) & PRIMM
+
+In Chapter 2. concepts of LOA and PRIMM were explained as pedagogies advocating the potential role of alternating between abstract and concrete concepts in semantic waves. Specifically to deepening knowledge by packing and unpacking abstracted concepts via concrete experiences, a process similar to praxis via dialectical movement explored in Chapter 3. The pedagogies are advances to helping teachers design learning experiences which in part allow for participant shifts in LOA perspectives. Turning to a synthesis of my finding with those of Waite et al on levels of abstraction, while the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
+
+<!-- In their PRIMM pedagogy the researchers also incorporate the UMC model and draw parallels with LOA. In the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels. -->
+
+
 
 
 | **Level**            | **Focus** | **Example** |
@@ -363,18 +378,40 @@ THIS AREA MAY NEED MORE DEVELOPMENT VIA EXAMPLES
 
 <!-- THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE -->
 
-##### Epistemological pluralism, bricolage & Microworlds
 
-In Chapter 2, the concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials. The authors' exploration of the types of coders as either Planners or Bricoleurs aligns with two aspects of the making styles explored briefly in Chapter 5. Bricoleur types are described as preferring to stay in closer contact with a concrete sense of the outcomes even at the expense of programming efficiency or neatness of code. This advocacy for the bricolage approach which remains anchored in concrete construction, appears at odds with Waite and Curzon's [@curzon_using_2020] research on the importance of alternating between abstract and concrete dimensions, present in research on semantic waves.
+**Is Bricolage at odds with Semantic Waves / LOA**
 
-My research is relevant here in that my observations show many of my participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation. It should be recalled, however, that this process is encouraged by the structuring of the learning design. Returning to semantic waves, while exploration of abstract CT concepts may be lacking in the process, an interpretation of video data findings shows that the shifts in LOA that Waite and colleagues advocate are present, with frequent shifts between conceptions of goals, implementation in code structures, and observations of results happening. It is relevant then to distinguish the levels of abstraction present in this process: namely, perhaps, Wing's and Papert's conceptions of abstraction, present in top-down planning processes, and the goal-results hierarchy present in the LOA framework. It is within the design level of LOA that such distinctions persist, as Bricoleurs would avoid abstract design structures which detract from a close relationship between the code and the desired results. It can be seen at this point that such a coupling matches the structure of design patterns, indicating a suitability for their use to support this more concrete approach to developing programming.
+It is of value to explore if an approach of concrete bricolage is odds with Waite and Curzon's [@curzon_using_2020] advocacy for alternating between abstract and concrete dimensions, present in research on semantic waves, and LOA research. I do this using the implementation of GDPs as a lens.
 
-The celebration here is of pluralism rather than the culturally prevalent perspective privileging abstraction. Abstraction is not seen as undesirable, and indeed, is present in much of Papert's work. For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. Papert's focus on reducing barriers to participation is present in his focus on child-play as a leading activity rather than teacher-led instruction. This simple but radical perspective also drives some of the foundational work on Microworlds, using the LOGO language as a vehicle to make previously abstract mathematical concepts concrete through exploratory play [@papert_mindstorms_1980]. This perspective continues to drive constructionist design approaches supporting creative computing [@resnick_design_2005; @resnick_scratch_2009; @kafai_constructionism_1996; @kafai_constructionism_1996; @kafai_minds_1994; @lee_playing_2014; @peppler_makeology:_2016]. A component aspect within this approach is the careful consideration of the process of abstraction or black-boxing in learning design and tools [@resnick_reflections_2005], which is of direct relevance to my research. Specifically, these concerns are present in my design of the use of a code playground as a supporting tool, the use of a starting template with pre-created code functions in place, the structuring of the template with key variables moved to the start of the code, and a grid matrix in an array data structure.
+To do this, it is relevant to distinguish the interpretations of different dimension abstraction described above: specifically Wing's and Papert's conceptions of abstraction, which can be described as present in top-down planning processes, and generalisable beyond context. The LOA framework is be characterised instead as a goal-design-code-results hierarchy, with the goal being the most abstract.  
+
+Addressing CT abstraction in observations of video data, as explained previously exploration of abstract CT concepts are not present. More concrete aspects of CT code concepts and processes are present in data, when adults with relevant knowledge facilitator, either myself or parents, do point them out and during the process of code implementation. Coming back to the maker styles of planner and bricoleur, while in theory, it is within the design level of LOA that such distinctions persist, as Bricoleurs would avoid abstract design structures which detract from a close relationship between the code and the desired results, in practice this research, due to the pre-baked abstraction present the template provides little in terms of data to explore this potential difference in approach. Given this, observations of semantic profiles in this dimension of abstraction are not present and thus no judgement can be made in terms of their characteristics or utility, which is a justifiable limitation of this research.   
+
+However, interpretation of video data findings shows that the shifts in LOA that Waite and colleagues advocate are present, with frequent shifts between conceptions of goals, implementation in code structures, and observations of results happening.
+
+Each time the participants imagine and choose a design pattern, implement it and then test it shifts in LOA occur. Even on a micro level when using the affordances within the template, variations in LOA are present.
+
+MORE DATA NEEDED HERE ON THE SHIFTS
+
+Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 7 in part stem from the fluid shifts in these levels. The level of detail in Vignette 2 for example is a good indication of rapid shifts. In addition the observations in the discussion section of Chapter 6, which reject design stages, in favour of more chaotic improvisational approach.
 
 
-<!-- THIS NEEDS WORK - MORE ON MY EXAMPLES - CHECK BELOW TO MOVE UP? -->
+When to revisit close coupling?
+  
+It can be seen at this point that such a coupling matches the structure of design patterns, indicating a suitability for their use to support this more concrete approach to developing programming.
 
-While this abstraction in my design is important to the experience of participants and the practicality of tackling a game-making project with novices, in the following section I return to address the utility of framing the design element of the use of GDPs as intermediate-level frameworks.
+AT THIS POINT - >
+It is of value to address the utility of framing the design element of the use of GDPs as intermediate-level frameworks [@eriksson_using_2019].
+
+
+
+
+Given the exploration of LOA, semantic waves, and Papert's work. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation as given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction, whereas the more potentially transferable nature of Wing's abstract CT conceptions would form a candidate for a more generalisable theory. As such, GDPs would be situated between those and concrete implementation.
+
+<!-- MOVE OR DROP..
+At this stage, it is valuable to look past a potentially arbitrary placing of these levels within a hierarchy to investigate instead the core value of the relational nature of the framework to other concepts in the context of my research. To help with this analysis of utility,  -->
+
+The following section develops this line of research, making more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for participants and facilitators/researchers.
 
 
 
@@ -394,15 +431,13 @@ Thus in summary conceptions of abstraction above explored above include:
 - A more holistic practice-based definition from Resnick, Brennan -
 - Waite's LOA - abstract here drawing on levels within the problem or product  - navigation between levels, explicit teaching of such navigation. -->
 
-### Observations on abstract / concrete dimensions in my data related to gameplay design patterns.
+### Summary of the potential utility for several stakeholders
 
 <!-- 1. positioning as intermediate
 2.  looking at distinction in different studies in context -->
 
 
-I now return to the proposal of GDPs as a useful intermediate-level framework, given the framing of abstraction summarized above, and explore this proposal using the findings of my research process. To do this, it is useful to re-examine the utility of the term "intermediate framework" [@eriksson_using_2019], given the exploration of LOA, semantic waves, and Papert's work. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation as given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction, whereas the more potentially transferable nature of Wing's abstract CT conceptions would form a candidate for a more generalisable theory. As such, GDPs would be situated between those and concrete implementation.
 
-At this stage, it is valuable to look past a potentially arbitrary placing of these levels within a hierarchy to investigate instead the core value of the relational nature of the framework to other concepts in the context of my research. To help with this analysis of utility, the following section develops this line of research, making more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for participants and facilitators/researchers.
 
 
 

@@ -269,6 +269,12 @@ Regarding access to CGD&P, one significant barrier is the inequality of access t
 
 Addressing barriers linked to identity and values, a key theme in CGD&P is the potential for games to increase inclusivity for those traditionally excluded from computing cultures [@kafai_beyond_2014]. There is significant potential to leverage home interests in computer games to bridge into more structured computing activities. The widespread appeal of casual and retro gaming, alongside the proliferation of retro games in popular culture, offers a rich repository of knowledge that can be utilised in various educational contexts [@moje_working_2004]. However, Kafai and Burke balance this potential with complex issues of the gender representation associated with gaming culture [@kafai_diversifying_2017].
 
+The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials.
+
+MOVED HERE - OVERALL philosophical APPROACH
+The celebration here is of pluralism rather than the culturally prevalent perspective privileging abstraction. Abstraction is not seen as undesirable, and indeed, is present in much of Papert's work. For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. Papert's focus on reducing barriers to participation is present in his focus on child-play as a leading activity rather than teacher-led instruction. This simple but radical perspective also drives some of the foundational work on Microworlds, using the LOGO language as a vehicle to make previously abstract mathematical concepts concrete through exploratory play [@papert_mindstorms_1980]. This perspective continues to drive constructionist design approaches supporting creative computing [@resnick_design_2005; @resnick_scratch_2009; @kafai_constructionism_1996; @kafai_constructionism_1996; @kafai_minds_1994; @lee_playing_2014; @peppler_makeology:_2016].
+
+
 Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation from abstract computing approaches. They emphasised the need for diverse teaching and learning styles to address issues surrounding the early socialisation of women and girls, advocating for the inclusion of personal and concrete working styles. Denner and colleagues [@denner_what_2008; @angelides_beyond_2014] highlighted that inclusive gender practice in game making involve allowing participants choice over both the content of their games and the dominant mode of play (game mechanics). Their findings present a nuanced view of girls' interests in game genres and support research cautioning against gender stereotyping and rigid identities in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address gender identities within game design by advocating for the creation of new communities and learning environments that align with participants' values, rather than attempting to draw girls into existing, male-dominated spaces. Similarly, Buechley et al. [@buechley_lilypad_2008, p. 431]question, “How can we integrate computer science with activities and communities that girls and women are already engaged in?”
 
 Margolis et al. [@margolis_stuck_2008;] outlined barriers contributing to a racial gap in computing participation and achievement in the US, including feelings of isolation, limited access to computing opportunities, and a lack of social support. DiSalvo and colleagues investigated these barriers within a game testers programme, examining how an interest in computer games could motivate access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. Their findings indicated that activities should not only be engaging but also align with the underlying values of the programme’s young, African American male participants. Vossoughi et al. [-@vossoughi_making_2016] critique digital making cultures, stressing the need to integrate not only the values but also the cultural experiences of working-class students and students of colour into the making process.
@@ -518,7 +524,48 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
 
 
-### Curricular concepts, semantic waves, LOA
+### Explicit teaching of computational thinking
+
+
+The promotion of computational thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016]. We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of computational thinking (CT). The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instan#ces, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
+
+Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". The researchers took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map they created includes computational concepts, computational practices and computational perspectives.
+
+
+This interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules.
+
+This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curiculum may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
+
+In summary, Wing's emphasis on the importance of the explicit teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribution on computational thinking is  more theoretical than applied and invites discussion on how best to teach this abstract approach to computation thinking. Grover [@grover_computational_2017; @grover_computational_2013] and Guzdial [@guzdial_learner-centered_2015] offer explicit techniques linked using the application of computer programming as the driving mechanism. Bell and colleagues [@bell2019constructing] explore the process of unplugged activities, exploring abstract CT concepts without using computers or coding.
+
+#### Studies exploring CT as an pedagogical framework to support learning computer coding (INCREASE ANALYSIS OF ABSTRACT CONCRETE)
+
+The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
+
+Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
+
+#### Levels of Abstraction
+
+In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
+
+
+
+| **Level**            | **Focus** | **Example** |
+|----------------------|----------|-------------|
+| **Conceptual Level**  | Thinking about the problem **without programming** | Task -  what is needed |
+| **Design Level**  | Structuring / designing a solution | What it should do. |
+| **Code Level**  | Writing the actual code  | How it is done |
+| **Execution Level**  | Understanding how the computer processes the code on a low-level (e.g memory use), or in a k5 context the outputs | What it does. |
+
+Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
+
+
+
+While Waite and colleagues also propose that abstraction should be explicitly taught, even to younger pupils [@waite_abstraction_2016], their approach to abstraction [@waite_abstraction_2018-1] is distinct from Wing's in that it is grounded in an operationalised computational model distinguishing levels of abstraction: specifically, in descending order of abstraction, the goal or problem to be solved, the designed structure of the program, the actual coding of that design, and at the most concrete level, the running of the code and its outputs [@waite_abstraction_2018-1] (see Table 7.1). Wing's CT concepts within the LOA model would lie at the design level. This advocacy for the utility of awareness of levels of abstraction, based on research indicating its efficacy in supporting learning programming [@cutts2012abstraction; @statter_teaching_2016], cites the value of learners knowing at what level of abstraction they are operating and their fluency in movement between the levels. Waite and Sentance's later work [@sentance_primm_2017] synthesises this interpretation of levels of abstraction with the concept of semantic profiles to create an applied pedagogy for computing education aligned with a UK curricular context.
+
+This work highlights the potential role of alternating between abstract and concrete concepts in semantic waves aimed at helping teachers design learning experiences which in part allow for participant shifts in LOA perspectives.
+
+### Curricular concepts, semantic waves, LOA - INTEGRATE UP? DOWN?
 
 
 A common pedagogical strategy is to align learning activities with knowledge and competencies outlined by a curriculum. A common line of game making research follows this logic to align game making with curricular contents, in particular computational thinking concepts.  
@@ -1499,38 +1546,6 @@ My own work with Manchester Met University drama education department explored t
 
 
 
-### Situating Computational thinking within curricular concerns
-
-
-The promotion of Computational Thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016]. We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of Computational Thinking (CT). The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instan#ces, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
-
-Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". The researchers took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map they created includes computational concepts, computational practices and computational perspectives.
-
-
-
-This interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules.
-
-This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curiculum may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
-
-
-### Studies exploring CT as an pedagogical framework to support learning computer coding
-
-The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
-
-Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
-
-In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
-
-
-
-| **Level**            | **Focus** | **Example** |
-|----------------------|----------|-------------|
-| **Conceptual Level**  | Thinking about the problem **without programming** | Task -  what is needed |
-| **Design Level**  | Structuring / designing a solution | What it should do. |
-| **Code Level**  | Writing the actual code  | How it is done |
-| **Execution Level**  | Understanding how the computer processes the code on a low-level (e.g memory use), or in a k5 context the outputs | What it does. |
-
-Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
 
 ## To perhaps add to Lit REVIEW
 
