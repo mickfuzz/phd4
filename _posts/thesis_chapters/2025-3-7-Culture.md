@@ -397,13 +397,11 @@ Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 7
 
 
 When to revisit close coupling?
-  
+
 It can be seen at this point that such a coupling matches the structure of design patterns, indicating a suitability for their use to support this more concrete approach to developing programming.
 
 AT THIS POINT - >
 It is of value to address the utility of framing the design element of the use of GDPs as intermediate-level frameworks [@eriksson_using_2019].
-
-
 
 
 Given the exploration of LOA, semantic waves, and Papert's work. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation as given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction, whereas the more potentially transferable nature of Wing's abstract CT conceptions would form a candidate for a more generalisable theory. As such, GDPs would be situated between those and concrete implementation.
