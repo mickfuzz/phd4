@@ -248,7 +248,23 @@ Table 1.2.  Key Features of 3M Game Making Model
 Some of these element and their impact have been discussed in previous chapters. This conclusion synthesises reflections on these elements and brings additional analysis in relation to similar research. To do this in a way which highlights utility of the process, firstly  key research outputs are examined in turn.
 
 
-### Research Output - Toolsets of template and Code playground (RQ1 and impact on RQ3)
+### Research Output - REEPP as a technical pedagogy
+
+
+To recap REEPP
+
+Technical flexibility / extendability of REEPP
+
+While REEP in this context used the following tools: glitch.com as a code playground, phaser.js as a game library, a half-baked game template,  and a collection of game design patterns based on a classic retro platformer, other configurations are possible.
+
+In terms of the specificity of the last section, this chapter has, in line with underlying Marxist principles, returned to the concrete.
+
+
+The theoretical generalisation or germ cell that emerged from this research of the use of GDPs is applied in specific concrete instances in a variety of ways. The additional scaffolding provided by GDPs and the  synthesis of UMC and half-baked game, specifically as a boundary object with affordances inviting completion, contributing a more specific, accessible and coherent pedagogy to the the field of game making.
+
+
+
+**Changes in context? A LATER SECTION?**
 
 Some of the recommendations that this research makes have already been implemented over the lifespan of the research which were not in place at the start of the process.
 

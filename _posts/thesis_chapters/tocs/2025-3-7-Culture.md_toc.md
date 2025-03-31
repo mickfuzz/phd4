@@ -8,20 +8,27 @@
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [Exploration of GDPs as an intermediate-level construct in
-            relation to other conceptions of abstraction in computing
-            education
-            research](#exploration-of-gdps-as-an-intermediate-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
-            -   [Computational thinking](#computational-thinking)
-            -   [Levels of Abstraction](#levels-of-abstraction)
-            -   [Epistemological pluralism, bricolage &
-                Microworlds](#epistemological-pluralism-bricolage-microworlds)
+        -   [conceptions of abstraction in
+            research](#conceptions-of-abstraction-in-research)
+            -   [in computing education
+                research](#in-computing-education-research)
+                -   [Computational thinking](#computational-thinking)
+                -   [Levels of Abstraction](#levels-of-abstraction)
+                -   [Epistemological pluralism, bricolage &
+                    Microworlds](#epistemological-pluralism-bricolage-microworlds)
         -   [Observations on abstract / concrete dimensions in my data
             related to gameplay design
             patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
         -   [How my research contributes to discussions regarding
             dimensions of abstraction within existing
             research](#how-my-research-contributes-to-discussions-regarding-dimensions-of-abstraction-within-existing-research)
+            -   [First area of contribution to the research in the
+                field: An applied pedagogy with detailed analysis of
+                inherent structural components - MOVED
+                HERE](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components---moved-here)
+            -   [Resulting pedagogical model - remix enabled elective
+                pattern patching model
+                (REEPP)](#resulting-pedagogical-model---remix-enabled-elective-pattern-patching-model-reepp)
     -   [Part Two - Agency](#part-two---agency)
         -   [Instrumental and transformational
             agency](#instrumental-and-transformational-agency)
@@ -46,6 +53,8 @@
             -   [5. The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+            -   [6. The impact of constraints in design on
+                agency](#the-impact-of-constraints-in-design-on-agency)
             -   [6. Synthesis, potential of explicit structuring of
                 identity formation / spaces for blending of
                 repertoires](#synthesis-potential-of-explicit-structuring-of-identity-formation-spaces-for-blending-of-repertoires)
@@ -61,14 +70,9 @@
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Spaces to play - playgrounds and jam
                 sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-    -   [Part Three : Synthesis & contributions to the
-        field](#part-three-synthesis-contributions-to-the-field)
-        -   [Returning to gaps in the research landscape & my
-            motivations](#returning-to-gaps-in-the-research-landscape-my-motivations)
-        -   [First area of contribution to the research in the field: An
-            applied pedagogy with detailed analysis of inherent
-            structural
-            components](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components)
+    -   [Part Three : Synthesis & contributions to the field = EDITING
+        DOWN OR
+        MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
         -   [Second area of contribution to the research in the field: A
             complex view of agency and repertoires development AND the
             value of that to contribute to research on DBR / FI

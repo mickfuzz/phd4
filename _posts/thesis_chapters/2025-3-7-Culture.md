@@ -12,29 +12,42 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
+    -   [Research Questions March 2025](#research-questions-march-2025)
     -   [Research Questions Jan 2025](#research-questions-jan-2025)
     -   [Notes](#notes)
     -   [Introduction](#introduction)
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [Exploration of GDPs as an intermediate-level construct in
-            relation to other conceptions of abstraction in computing
-            education
-            research](#exploration-of-gdps-as-an-intermediate-level-construct-in-relation-to-other-conceptions-of-abstraction-in-computing-education-research)
-            -   [Computational thinking](#computational-thinking)
-            -   [Levels of Abstraction](#levels-of-abstraction)
-            -   [Epistemological pluralism, bricolage &
-                Microworlds](#epistemological-pluralism-bricolage-microworlds)
+        -   [conceptions of abstraction in
+            research](#conceptions-of-abstraction-in-research)
+            -   [in computing education
+                research](#in-computing-education-research)
+                -   [Computational thinking](#computational-thinking)
+                -   [Levels of Abstraction](#levels-of-abstraction)
+                -   [Epistemological pluralism, bricolage &
+                    Microworlds](#epistemological-pluralism-bricolage-microworlds)
         -   [Observations on abstract / concrete dimensions in my data
             related to gameplay design
             patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
         -   [How my research contributes to discussions regarding
             dimensions of abstraction within existing
             research](#how-my-research-contributes-to-discussions-regarding-dimensions-of-abstraction-within-existing-research)
+            -   [First area of contribution to the research in the
+                field: An applied pedagogy with detailed analysis of
+                inherent structural components - MOVED
+                HERE](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components---moved-here)
+            -   [Resulting pedagogical model - remix enabled elective
+                pattern patching model
+                (REEPP)](#resulting-pedagogical-model---remix-enabled-elective-pattern-patching-model-reepp)
     -   [Part Two - Agency](#part-two---agency)
         -   [Instrumental and transformational
             agency](#instrumental-and-transformational-agency)
+        -   [Relational agency](#relational-agency)
+        -   [Shifting forms of agency](#shifting-forms-of-agency)
+        -   [Implications for design & a contribution
+            proposal](#implications-for-design-a-contribution-proposal)
+        -   [LINK](#link)
         -   [2c - Relational Agency in emergent activities in emergent
             cultural context - 3rd Spaces, idiocultures, and
             repertoires](#c---relational-agency-in-emergent-activities-in-emergent-cultural-context---3rd-spaces-idiocultures-and-repertoires)
@@ -51,6 +64,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [5. The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+            -   [6. The impact of constraints in design on
+                agency](#the-impact-of-constraints-in-design-on-agency)
             -   [6. Synthesis, potential of explicit structuring of
                 identity formation / spaces for blending of
                 repertoires](#synthesis-potential-of-explicit-structuring-of-identity-formation-spaces-for-blending-of-repertoires)
@@ -66,14 +81,9 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Spaces to play - playgrounds and jam
                 sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-    -   [Part Three : Synthesis & contributions to the
-        field](#part-three-synthesis-contributions-to-the-field)
-        -   [Returning to gaps in the research landscape & my
-            motivations](#returning-to-gaps-in-the-research-landscape-my-motivations)
-        -   [First area of contribution to the research in the field: An
-            applied pedagogy with detailed analysis of inherent
-            structural
-            components](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components)
+    -   [Part Three : Synthesis & contributions to the field = EDITING
+        DOWN OR
+        MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
         -   [Second area of contribution to the research in the field: A
             complex view of agency and repertoires development AND the
             value of that to contribute to research on DBR / FI
@@ -456,39 +466,55 @@ In the previous analysis of the use of GDPs through the lens of research on the 
 
 
 
-#### First area of contribution to the research in the field: An applied pedagogy with detailed analysis of inherent structural components  - MOVED HERE
+#### First area of contribution to the research in the field: An applied pedagogy with detailed analysis of inherent structural components  
 
 <!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
 
 
-This chapter contend that the underlying structure of the learning design is vital to support the social and cultural processes described above. This technical structure synthesises UMC pedagogy, a half-baked game template and the use of a collection of game design patterns. This section summaries this structural / technical approach.
+This chapter contend that the underlying structure of the learning design in addition to support the social and cultural processes described above, is a valid contribution to the field as a technical pedagogical structure. This technical structure synthesises use of a code playground, game library, a half-baked game template, UMC pedagogy, and the use of a collection of game design patterns. While similar approaches exist this pedagogical structure is innovative in the way systemic tensions have been resolved and congruencies introduced.
 
-In terms of the specificity of the last section, this chapter has, in line with underlying Marxist principles, returned to the concrete. Specifically the theoretical generalisation or germ cell that emerged from this research of the use of GDPs is applied in specific concrete instances in a variety of ways. The additional scaffolding provided by GDPs and the  synthesis of UMC and half-baked game, specifically as a boundary object with affordances inviting completion, contributing a more specific, accessible and coherent pedagogy to the the field of game making.
+This section summaries the utility an innovative elements of this structural / technical approach
 
-The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section. Thus the structural elements of this design facilitate the kind of relational pedagogies originally advocated by Papert and but which have too often been missing from research in this field.
+<!-- NOTE - THERE'S ANOTHER SECTION IN CH.8. -->
+
+
+The judicial process of abstraction, referred to in design domain as black-boxing is present in several aspects of this technical approach (see Appendix.tech for fuller details). Examples include: use of code playground and existing template to simplify the use of the interacting web technologies; structural and syntactical template design decisions,     
+
+Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+The structure synthesises element of scalable game design (SGD) and Use Modify Create (UMC) pedagogies.
+
+While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
+
+While concrete, I propose that the instance constitutes a replicable pedagogy which is a valuable contribution to pedagogies in this area. To communicate the essence of this structural, technical model I propose an acronym remix enabled elective pattern patching (REEPP).
 
 
 
+
+<!-- NOTE (If applies collaboratively, it becomes CREEPP) -->
+<!--
+NOTE DROPPED -
+this break through facilitated the development of different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?) -->
+
+My research data shows the value of the REEPP approach to facilitate a socio-cultural approach to game making. The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section.
+
+Thus the structural elements of this design facilitate the kind of relational pedagogies originally advocated by Papert and but which have too often been missing from research in this field.
+LINK
 
 
 <!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
 
 
-Returning to the modification of the C stage of UMC from create to choose advocated by Lytle [@lytle_use_2019] as a strategy to reduce facilitator stress, this design extends this concept in a flexible way using GDPs as a structural and navigational framework.
 
-EARLIER - AS DIFFERENT MANIFESTATIONS OF GERM CELL
-The potential of this innovation is significant in scope. Firstly, the surfacing of GDPs as a germ cell concept, facilitated the development of in different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?), in a way which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+
 
 WHY RELEVANT? PATHWAYS?
 These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
 
-#### Resulting pedagogical model - remix enabled elective pattern patching model (REEPP)
 
-To communicate the essence of this structural, technical model I propose an acronym remix enabled pattern patching (REPP).
 
-The remix enabled elective pattern patching model -
 
-If applies collaboratively, it becomes CREEPP,
 <!-- in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research. -->
 
 <!-- PERHAPS BRING UP UP TO DATE ISSUE OF TRANSFER. - BUT PERHAPS LEAVE FOR CONCLUSION. NOTE ALSO THE BALANCE BETWEEN CT CONCRETE SKILLS AND TRANSFER IN [@kynigos_modifying_2020] -->
@@ -1645,32 +1671,10 @@ These tensions were were highlighted in the end of P1 feedback and in some pract
 In contrast in P2 and P3 there is flexibility of interaction  which suits informal moments of playtesting.
 
 
-MOVERED HERE FROM CHAPER 5 JAN 2024
-MOVE THIS TO NEXT CHAPTER DISCUSSION?
-**A tension in use of norming practices and participant choice?**
-However, as a seeming counterpoint to this growing agency is the norming effects of concepts that gain community currency in playtesting. The repeated attempts by participants to make the jumping mechanic of Molly less frustrating can be seen as a potential drag on the agency or autonomy of Molly as a designer. However this may be a false dichotomy. Such norming practices can be seen from a different perspective according to Rogoff, as a productive nudge to get real.
- IS THIS EXPLORED IN THE NEXT CHAPTER?
+
 
 
 ## Removed in Jan - find home
-
-#### Community concepts and norming behaviour emerging during playtesting
-
-MOVE BACK TO CHAPTER 6 IF SPACE?
-
-NOTE THERE IS SOMETHING HERE ABOUT ME STEPPING BACK AND LETTING THE COMMUNITY EVOLVE.
-
-Ed gives a more technical explanation from  involving the naming of the variable _jump speed_.
-
-Other children come and play the game but only for less than a minute before leaving. Towards the end of the playtesting process, as one child leaves, Molly comments "It's so frustrating." This suggests an evolving understanding that her game is frustrating to players rather than pleasantly challenging.
-
-The indirect norming behaviours described in appendix 5.Norm.x mirror observations seen in the work of Rogoff and colleagues [@rogoff_cultural_2003] on learning in  community settings.
-
-There is an apparent tension in play here between encouraging individual agency of expression within the game and an evolving community tendency to norm peoples games to be more _playable_, specifically that player movement should conforming to wider expectations.
-
-What we can draw from the data at this stage is that playtesing provides many leverage points to facilitating learner agency and discuss the limits of designs. IN addition, playtesting is a process that allows participants to demonstrate informed criticality as a player and guide the creations of peers via gameplay feedback.
-
-This process is an example of an emerging process where cultural concepts are mutually constituted by all actors involved in the game making activity system. While the concepts of hardness and challenge that emerge and not concrete examples of GDPS, they are the results of changed GDPs. The next chapter explores similar data on the use of GDP related concepts by participants and the resultant potential impact on participant agency.
 
 
 <!-- #### Why prioritise local playtesting rather than participation with a wider online community - and how are they different in character? PERHAPS DROP IF NOT NEEDED OR KEEP REALLY SHORT. AND MERGE UP.

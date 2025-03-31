@@ -12,9 +12,9 @@
             making](#barriers-to-participation-in-game-making)
         -   [Exploring pedagogies of constructionist
             gaming](#exploring-pedagogies-of-constructionist-gaming)
-        -   [Papert, Resnick & Constructionism and overlaps with in a
-            socio-cultural approaches to
-            pedagogy](#papert-resnick-constructionism-and-overlaps-with-in-a-socio-cultural-approaches-to-pedagogy)
+        -   [INTEGRATE ABOVE - Papert, Resnick & Constructionism and
+            overlaps with in a socio-cultural approaches to
+            pedagogy](#integrate-above---papert-resnick-constructionism-and-overlaps-with-in-a-socio-cultural-approaches-to-pedagogy)
             -   [Socio-cultural approaches within constructionism and
                 their
                 limits](#socio-cultural-approaches-within-constructionism-and-their-limits)
@@ -41,7 +41,12 @@
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
         -   [Design patterns](#design-patterns)
-        -   [Game(play) design patterns](#gameplay-design-patterns)
+        -   [Using design patterns](#using-design-patterns)
+            -   [Scalable game design](#scalable-game-design)
+            -   [Using collections of
+                patterns](#using-collections-of-patterns)
+            -   [Using collections of Game(play) design
+                patterns](#using-collections-of-gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Coding club(houses) & Grass Roots community
@@ -54,6 +59,9 @@
         -   [A final reflection](#a-final-reflection)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
+        -   [Returning to gaps in the research landscape & my
+            motivations - MOVED HERE EDIT INTO
+            SURROUNDINGS](#returning-to-gaps-in-the-research-landscape-my-motivations---moved-here-edit-into-surroundings)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
             -   [pedagogies exist but more are
