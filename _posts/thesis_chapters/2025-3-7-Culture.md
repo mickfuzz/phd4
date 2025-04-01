@@ -46,7 +46,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 field: An applied pedagogy with detailed analysis of
                 inherent structural components -
                 REEPP](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components---reepp)
-    -   [Part Two - Agency](#part-two---agency)
+    -   [Part Two - Agency, and re-mediation of repertoires in third
+        spaces](#part-two---agency-and-re-mediation-of-repertoires-in-third-spaces)
         -   [Instrumental and transformational
             agency](#instrumental-and-transformational-agency)
         -   [Relational agency](#relational-agency)
@@ -57,30 +58,29 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Reframing research findings using socio-cultural concetps of
         3rd Spaces, idiocultures, and
         repertoires](#reframing-research-findings-using-socio-cultural-concetps-of-3rd-spaces-idiocultures-and-repertoires)
+        -   [Use of GDPs (as a gateway framework and components) to
+            support the development of social and cultural repertoires
+            of
+            practice](#use-of-gdps-as-a-gateway-framework-and-components-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
         -   [Playtesting as a suitable medium for emerging activities
             creating third
             spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-            -   [Identity formation within third
-                spaces](#identity-formation-within-third-spaces)
+        -   [Identity formation (within third
+            spaces)](#identity-formation-within-third-spaces)
+            -   [Funds of Knowledge / DoL repertoires and how they
+                emerge (in playtesting practices in
+                particular)](#funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
             -   [Expressions of identity in variations in approaches to
                 playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise diversity -
                 MERGE
                 UP](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity---merge-up)
-            -   [Funds of Knowledge / DoL repertoires and how they
-                emerge (in playtesting practices in
-                particular)](#funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
-            -   [6. The impact of constraints in design on
-                agency](#the-impact-of-constraints-in-design-on-agency)
             -   [6. Synthesis, potential of explicit structuring of
                 identity formation / spaces for blending of
                 repertoires](#synthesis-potential-of-explicit-structuring-of-identity-formation-spaces-for-blending-of-repertoires)
                 -   [Examining complexity within identity formation and
                     specialisation](#examining-complexity-within-identity-formation-and-specialisation)
-                -   [Use of GDPs as a gateway framework to support the
-                    development of social and cultural repertoires of
-                    practice](#use-of-gdps-as-a-gateway-framework-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
         -   [Metaphors as a way to explore conceptions of agency within
             digital
             making](#metaphors-as-a-way-to-explore-conceptions-of-agency-within-digital-making)
@@ -120,6 +120,9 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Questions and Conceptual challenges to dissemination - MOVE
             PERHAPS TO NEXT
             CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
+        -   [6. The impact of constraints in design on agency - NOT SURE
+            -MOVE to
+            concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
 
@@ -958,9 +961,29 @@ In the last chapter, data on activity on the cultural plane exposed elements of 
 - analysis of additional activities helping the development of learner identities -->
 
 
+### Use of GDPs (as a gateway framework and components) to support the development of social and cultural repertoires of practice  
 
+The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incorporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
+
+The nature and process of this community evolution merits exploration. As such, this section steps back to discuss the emergence of these practices.  
+
+EXAMPLES ?
+
+
+EXAMPLES?
+
+
+
+<!-- GDPs are used both as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting. -->
+
+
+Later  propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
 
 ### Playtesting as a suitable medium for emerging activities creating third spaces
+
+Previous observations highlighted an emerging idioculture.
+
+Gutiérrez develops this idea with a space for such emerging cultural activities. Third space theory.
 
 Playtesting as an incubator for emerging cultural activities, has been crucial to the development of later stages of this learning design. The sum of introdued and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
 
@@ -974,7 +997,7 @@ An analysis on the role of playtesting and an emerging forms of playful playtest
 
 
 
-#### Identity formation within third spaces
+### Identity formation (within third spaces)
 
 The relationship between developing effective repertoires and the affective relationship to the activity relies on the participants being able to identify with the ongoing activity   thus informing a processes of inclusion.
 
@@ -984,14 +1007,24 @@ Thus while under explored in existing research in CGD&P, it is of value to explo
 
 The following sections are an exploratory mapping of some possible design features which may represent component repertoire elements or facilitate the process of identity development within the design in other ways.
 
+EXAMPLES
+EXAMPLES
 
-Inspired by the work of Barron and Roque [@roque_family_2016; @roque_im_2016] to begin to surface and nurture making and helping styles.
+####  Funds of Knowledge / DoL repertoires and how they emerge (in playtesting practices in particular)
 
-Such diversity in playtesting behaviours drove my reflection on the additional motivations bleeding into this system from other activity systems.
+Other research by Gutierrez addresses the importance of participants movement between sites of activity and its impact on learning [@gutierrez_developing_2008; @gutierrez_learning_2019-1].
+
+One way this happens in my research is via FoK as explored in Chapter 6.
+
+One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces. Most notably this is seen within the sections on divisions of labour and use of funds of knowledge and identity.
+
+Examples include: being the identification with graphical art and the development of specialism in Madiha's family, the general use of game playing knowledge, home pedagogies like paper based sketching and more professional knowledge brought by Dan. This blending of the use of GDP concepts, in-template affordence, supporting resources, with such knowledge and practices from other activity systems can be analysed using the concept of repertoires.
+
+
+
+
 
 #### Expressions of identity in variations in approaches to playtesting
-
-
 
 Some participants refrained from extensive testing of other games, waiting for others to test their games and observing their responses. Others were very social in their playtesting approach. Madiha making very positive comments on design of player characters and building relations in that way. The last chapter showed that some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process.  
 
@@ -1005,17 +1038,21 @@ I observed an evolution of the form and function of playtesting by young partici
 
 COMMENT  - This evolution maker types here exists especially in social makers, glitchers and magpies.
 
-
 Within more narrowly defined game making activities centred around altering code and assets of their products, learners who had mastered certain specialist skills were asked by others for help. Their developing roles as domain experts provided additional affordances in the learning community and building an identify as specialist within it.
 
 
-The introduction of these terms and missions
-Stone and colleagues [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development). The work of 5D research in different settings further explores the process of supporting learner identies in context []  Gutierrez, Cole
+The diversity in playtesting behaviours drove my reflection on the additional motivations bleeding into this system from other activity systems.
+
+The work of  Stone and colleagues [@stone_problem_2007-2] underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
+
+
+
+Inspired by the work of Barron and Roque [@roque_family_2016; @roque_im_2016] to begin to surface and nurture making and helping styles. The use of these roles by facilitators reinforce a existing competence in a new space.
+
+I extend this beyond parent roles and identity to include all participants, via design as well as feedback,  with a similar aim to engender a feeling of domain competency.
 
 
 #### The introduction of maker types and side missions as affordances of my pedagogy to legitimise diversity - MERGE UP
-
-
 
 
 Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
@@ -1046,19 +1083,6 @@ Example of how extending with DPs as a framework could be fruitful, developing a
 In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. -->
 
 
-
-####  Funds of Knowledge / DoL repertoires and how they emerge (in playtesting practices in particular)
-
-One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces. Most notably this is seen within the sections on divisions of labour and use of funds of knowledge and identity.
-
-Examples include: being the identification with graphical art and the development of specialism in Madiha's family, the general use of game playing knowledge, home pedagogies like paper based sketching and more professional knowledge brought by Dan. This blending of the use of GDP concepts, in-template affordence, supporting resources, with such knowledge and practices from other activity systems can be analysed using the concept of repertoires.
-
-
-
-Other research by Gutierrez addresses the importance of participants movement between sites of activity and its impact on learning [@gutierrez_developing_2008; @gutierrez_learning_2019-1].
-
-
-
 <!-- By the time phase three and video capture of data was underway, the process of playtesting began to take on interesting characteristics for some younger participants who were working more independently. -->
 <!-- Because these interactions were mobile between works is it hard to transcribe interactions. However, description of the physical movement and gestures of the young---
 The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
@@ -1072,23 +1096,9 @@ Example of how extending with DPs as a framework could be fruitful, developing a
 
 In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
 
- <!-- Examples include.... -->
 
 
 
-<!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
-
-
-
-#### 6. The impact of constraints in design on agency
-
-CONSTRAINTS IN DESIGN?
-While supporting a flexible learner pathway is vital to this approach, the value of restrictions to creativity are also important here. The restricted genre, pixel art format and templated approach act not only as technical  scaffolds but also aligns with research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama.
-
-The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype]. Thus, I now explore the tools, process and the community in this study mutually encourage an flexible approach often referred to as _jamming_. As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),
-
-MOVE LATER / CONCLUSION
-The characteristics described above offer a contribution to the literature on Game Jam pedagogy and learning design of this study offers greater scaffolding to the process to facilitate the process of jamming as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003]. This strand is developed in the following chapter.
 
 
 <!-- Hence the next section. An attempt a synthesis of diverse pedagogical elements  - DOES IT? -->
@@ -1123,15 +1133,7 @@ The awareness of and conversations about maker styles and related side-missions 
 
 
 
-##### Use of GDPs as a gateway framework to support the development of social and cultural repertoires of practice  
 
-The examples of cultural uses of GDPs in the last chapter included for use in helping design for others, as a way of incorporating home funds of knowledge and to encourage the propagation of existing and emerging design elements and practices through the community.
-
-I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
-
-<!-- GDPs are used both as a useful tactic of navigation and as a bridging strategy to wider repertoires, then this can inform process of supporting the development participants to assemble their own repertoires of practice in this new setting. -->
-
-The nature and process of this community evolution merits exploration. As such, this section steps back to discuss the emergence of these practices.  
 
 
 
@@ -1974,3 +1976,13 @@ And get wider in application to broader approaches of pbl  and research processe
 
 
 <!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
+
+### 6. The impact of constraints in design on agency - NOT SURE  -MOVE to concluson?
+
+CONSTRAINTS IN DESIGN?
+While supporting a flexible learner pathway is vital to this approach, the value of restrictions to creativity are also important here. The restricted genre, pixel art format and templated approach act not only as technical  scaffolds but also aligns with research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama.
+
+The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype]. Thus, I now explore the tools, process and the community in this study mutually encourage an flexible approach often referred to as _jamming_. As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),
+
+MOVE LATER / CONCLUSION
+The characteristics described above offer a contribution to the literature on Game Jam pedagogy and learning design of this study offers greater scaffolding to the process to facilitate the process of jamming as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003]. This strand is developed in the following chapter.

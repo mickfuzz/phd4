@@ -35,7 +35,8 @@
                 field: An applied pedagogy with detailed analysis of
                 inherent structural components -
                 REEPP](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components---reepp)
-    -   [Part Two - Agency](#part-two---agency)
+    -   [Part Two - Agency, and re-mediation of repertoires in third
+        spaces](#part-two---agency-and-re-mediation-of-repertoires-in-third-spaces)
         -   [Instrumental and transformational
             agency](#instrumental-and-transformational-agency)
         -   [Relational agency](#relational-agency)
@@ -46,30 +47,29 @@
     -   [Reframing research findings using socio-cultural concetps of
         3rd Spaces, idiocultures, and
         repertoires](#reframing-research-findings-using-socio-cultural-concetps-of-3rd-spaces-idiocultures-and-repertoires)
+        -   [Use of GDPs (as a gateway framework and components) to
+            support the development of social and cultural repertoires
+            of
+            practice](#use-of-gdps-as-a-gateway-framework-and-components-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
         -   [Playtesting as a suitable medium for emerging activities
             creating third
             spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-            -   [Identity formation within third
-                spaces](#identity-formation-within-third-spaces)
+        -   [Identity formation (within third
+            spaces)](#identity-formation-within-third-spaces)
+            -   [Funds of Knowledge / DoL repertoires and how they
+                emerge (in playtesting practices in
+                particular)](#funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
             -   [Expressions of identity in variations in approaches to
                 playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise diversity -
                 MERGE
                 UP](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity---merge-up)
-            -   [Funds of Knowledge / DoL repertoires and how they
-                emerge (in playtesting practices in
-                particular)](#funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
-            -   [6. The impact of constraints in design on
-                agency](#the-impact-of-constraints-in-design-on-agency)
             -   [6. Synthesis, potential of explicit structuring of
                 identity formation / spaces for blending of
                 repertoires](#synthesis-potential-of-explicit-structuring-of-identity-formation-spaces-for-blending-of-repertoires)
                 -   [Examining complexity within identity formation and
                     specialisation](#examining-complexity-within-identity-formation-and-specialisation)
-                -   [Use of GDPs as a gateway framework to support the
-                    development of social and cultural repertoires of
-                    practice](#use-of-gdps-as-a-gateway-framework-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
         -   [Metaphors as a way to explore conceptions of agency within
             digital
             making](#metaphors-as-a-way-to-explore-conceptions-of-agency-within-digital-making)
@@ -109,3 +109,6 @@
         -   [Questions and Conceptual challenges to dissemination - MOVE
             PERHAPS TO NEXT
             CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
+        -   [6. The impact of constraints in design on agency - NOT SURE
+            -MOVE to
+            concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
