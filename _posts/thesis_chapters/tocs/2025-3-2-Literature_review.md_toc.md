@@ -31,8 +31,15 @@
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Use Modify Create](#use-modify-create)
-        -   [Curricular concepts, semantic waves,
-            LOA](#curricular-concepts-semantic-waves-loa)
+        -   [Explicit teaching of computational
+            thinking](#explicit-teaching-of-computational-thinking)
+            -   [Studies exploring CT as an pedagogical framework to
+                support learning computer coding (INCREASE ANALYSIS OF
+                ABSTRACT
+                CONCRETE)](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding-increase-analysis-of-abstract-concrete)
+            -   [Levels of Abstraction](#levels-of-abstraction)
+        -   [Curricular concepts, semantic waves, LOA - INTEGRATE UP?
+            DOWN?](#curricular-concepts-semantic-waves-loa---integrate-up-down)
             -   [Semantic Profiles and
                 Waves](#semantic-profiles-and-waves)
         -   [PRIMM](#primm)
@@ -120,11 +127,6 @@
                 UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
         -   [Mantle of the Expert - processes drama used in teaching
             technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
-        -   [Situating Computational thinking within curricular
-            concerns](#situating-computational-thinking-within-curricular-concerns)
-        -   [Studies exploring CT as an pedagogical framework to support
-            learning computer
-            coding](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
         -   [Game making studies addressing gender and
             race](#game-making-studies-addressing-gender-and-race)

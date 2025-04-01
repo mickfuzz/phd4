@@ -747,10 +747,11 @@ The authors refer to a project first rather than principles  first approach to i
 In SGD the concept of proximal flow links flow theory and the vital importance of engagement, via scaffolding to the ZPD and the social and environmental nature of that support [@basawapatna_zones_2013].
 
 This proximal flow theory developed into a particular tutorial format [@basawapatna_zones_2019].
+The concept of just in time instruction aims to reduce boredom and increase engagement with strong linking between the instruction needed and the goal to achieve a tangible goal linked a game.
+
+Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work. This characteristic may negatively impact engagement, due to danger of limited engagement with rote instructions explored above [@resnick_coding_2020]
 
 While there are links with socio-cultural concept of ZPD, there are limits in the approach and in the framing of the results.
-
-The concept of just in time instruction aims to reduce boredom and increase engagement with strong linking between the instruction needed and the goal to achieve a tangible goal linked a game. However there design elements that may negatively impact engagement, the pedagogy remain instruction based and follows, to a great extent, one route. Thus the danger of limited engagement with rote instructions explored above [@resnick_coding_2020]
 
 Beyond the following of instructions, the process by which students return to flow are not discussed. Given the social nature of the process this seems to neglect the possible uses of design pattern in peer learning.  
 

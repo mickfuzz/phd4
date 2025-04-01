@@ -8,27 +8,30 @@
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [conceptions of abstraction in
-            research](#conceptions-of-abstraction-in-research)
-            -   [in computing education
-                research](#in-computing-education-research)
-                -   [Computational thinking](#computational-thinking)
-                -   [Levels of Abstraction](#levels-of-abstraction)
-                -   [Epistemological pluralism, bricolage &
-                    Microworlds](#epistemological-pluralism-bricolage-microworlds)
-        -   [Observations on abstract / concrete dimensions in my data
-            related to gameplay design
-            patterns.](#observations-on-abstract-concrete-dimensions-in-my-data-related-to-gameplay-design-patterns.)
-        -   [How my research contributes to discussions regarding
-            dimensions of abstraction within existing
-            research](#how-my-research-contributes-to-discussions-regarding-dimensions-of-abstraction-within-existing-research)
+        -   [1. Conceptions of abstraction in the research
+            field](#conceptions-of-abstraction-in-the-research-field)
+            -   [1.a in chat](#a-in-chat)
+            -   [1.a.ii. intermediate
+                construct](#a.ii.-intermediate-construct)
+            -   [1.b In computing education
+                pedagogies](#b-in-computing-education-pedagogies)
+                -   [Comparing to pedagogies explicitly teaching
+                    abstraction, computational thinking and
+                    LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
+                -   [Exploring data using concepts of Levels of
+                    Abstraction (LOA) &
+                    PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+        -   [Summary of the potential utility for several
+            stakeholders](#summary-of-the-potential-utility-for-several-stakeholders)
+            -   [Recap is GDPS a good framework or what? - PERHAPS MOVE
+                TO CHAPTER
+                END?](#recap-is-gdps-a-good-framework-or-what---perhaps-move-to-chapter-end)
+        -   [This feels like a different section
+            now.](#this-feels-like-a-different-section-now.)
             -   [First area of contribution to the research in the
                 field: An applied pedagogy with detailed analysis of
-                inherent structural components - MOVED
-                HERE](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components---moved-here)
-            -   [Resulting pedagogical model - remix enabled elective
-                pattern patching model
-                (REEPP)](#resulting-pedagogical-model---remix-enabled-elective-pattern-patching-model-reepp)
+                inherent structural components -
+                REEPP](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components---reepp)
     -   [Part Two - Agency](#part-two---agency)
         -   [Instrumental and transformational
             agency](#instrumental-and-transformational-agency)
@@ -94,8 +97,6 @@
         -   [Removed in December - perhaps
             rehome](#removed-in-december---perhaps-rehome)
     -   [Removed in Jan - find home](#removed-in-jan---find-home)
-        -   [Community concepts and norming behaviour emerging during
-            playtesting](#community-concepts-and-norming-behaviour-emerging-during-playtesting)
         -   [MoE](#moe)
         -   [**An example of mini TADS - use of secondary
             resources**](#an-example-of-mini-tads---use-of-secondary-resources)

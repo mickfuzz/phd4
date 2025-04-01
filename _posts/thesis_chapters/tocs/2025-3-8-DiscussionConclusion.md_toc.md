@@ -11,9 +11,8 @@
         -   [Research output: 3M game making (Meta) model of pedagogical
             elements of the learning
             design](#research-output-3m-game-making-meta-model-of-pedagogical-elements-of-the-learning-design)
-        -   [Research Output - Toolsets of template and Code playground
-            (RQ1 and impact on
-            RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3)
+        -   [Research Output - REEPP as a technical
+            pedagogy](#research-output---reepp-as-a-technical-pedagogy)
         -   [Research Output - A pedagogy aligned with inclusive
             approaches and promising for neurodiversity in
             particular](#research-output---a-pedagogy-aligned-with-inclusive-approaches-and-promising-for-neurodiversity-in-particular)
