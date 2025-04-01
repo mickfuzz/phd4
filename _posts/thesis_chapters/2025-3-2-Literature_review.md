@@ -848,9 +848,11 @@ The study involved learner analysis of games, the ability to change level design
 
 The process of curating patterns involve selected only 14 from a list of over 100? [CHECK]. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
 
-Results
+**Results:**
 
-They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving.
+The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to  researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI). As such the potential for participants  was under explored and the potential for teachers not explored at all.
+
+<!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. -->
 
 
 

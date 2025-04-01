@@ -447,7 +447,8 @@ Thus in summary conceptions of abstraction above explored above include:
 
 ### Summary of the potential utility for several stakeholders
 
-The evidence and examples surfaced in Chapter 6 and the previous sectoin support a view that the GDPs can form the basis of productive research and pedagogical frameworks. The following section makes more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for researchers, participants and facilitators/ learning designers.
+
+The evidence and examples surfaced in Chapter 6 and the previous section support a view that the GDPs can form the basis of productive research and pedagogical frameworks. While the work of Eriksson et al. explored the utility of GDP concepts in several dimensions the focus was on utility for the research community. Thus the following section makes more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for researchers, participants and facilitators/ learning designers.
 
 <!-- To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns. -->
 
@@ -475,19 +476,11 @@ This potential non-alignment with UK non-formal may be a limitation in the take 
 
 **for researchers**
 
-The data from the last chapter contributes a series of grounded pedagogical instances via examples that map a concrete pedagogical process to theoretical observations. Eriksson et al. note the utility of GDP concepts in several dimensions: as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, given that the focus of this analysis addresses the utility for the researcher rather than that of participants, this research significantly advances these contributions.
+MOVE TO A CONCLUSION / CONTRIBUTION
+Given that the focus of this analysis addresses the utility for the researcher rather than that of participants, this research significantly advances these contributions.
 
+In the framing of CHAT, the implementation of GDPS can be treated as a distinct activity systems (see Fig in last chapter)
 
-**for participants**
-
-Addressing utility for participants, in computing education, design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
-
-The strongly coupled link (present in this design) between  description, and implementation, articulated as a problem-solution structure that is present in conventional conceptions of design patterns.
-
-This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.  
-
-
-Firstly, GDPs are particularly helpful in participant goal formation, as explored in Chapter 6 in the sections on ideation and prioritisation. Secondly, the close coupling in patterns strongly supports the navigation between different project stages (explored in this chapter as LOA) via careful structuring of resources and documentation. Thirdly, GDPs help with the division of labour between collaborators, which is relevant here. For example, when tackling more abstract processes, concepts, and terminology. These roles are often taken on by a more competent partner. Thus, participant perspectives shift between the wider goal of making an engaging game for a real or imagined audience and a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it.  
 
 <!-- Reflections in progression of design in P4 showed my reluctance to lead with or explicitly teach abstract concepts with CT. Further discussion on the dilemma of how explicit teaching of computational concepts should be in taken up in the following section addressing the perspective for designers / teachers. -->
 <!-- #### Turning to the utility for designers, reearcher and facilitators,  -->
@@ -496,7 +489,6 @@ Firstly, GDPs are particularly helpful in participant goal formation, as explore
 **For facilitators / teachers**
 
 While this research doesn't negate or preclude the value of explicit teaching of more abstract dimension of computational thinking, it suggests that GDPs are a more suitable accessible leading pedagogical framework than computational thinking.
-
 
 MOVE? OR REFRAME AS ON-GOING GAP / TENSION.
 A tension exists in research on project-based approaches to digital making, in finding appropriate level of scaffolding [@waite_teaching_2021; @quintana_scaffolding_2004]. The use of conceptual and practical frameworks to scaffold domain specific working practices can help ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
@@ -512,6 +504,17 @@ NOTE SURE OF THIS
 My reflections on research data support a proposition that there is utility for facilitators to be aware of the level of abstraction present in different elements of project learning design. This value encompasses both the concepts that learners are working with and those which are potentially accessible via explicit teaching.
 
 The close coupling between design and code structure levels in my design may not align with LOA principles given that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels" [@waite_abstraction_2018-1, p.21]. However, given that Waite's subsequent research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019], what counts as explicit teaching of abstraction is not clear.
+
+
+**For participants**
+Addressing utility for participants, in computing education, design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
+
+The strongly coupled link (present in this design) between  description, and implementation, articulated as a problem-solution structure that is present in conventional conceptions of design patterns.
+
+This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.  
+
+
+Firstly, GDPs are particularly helpful in participant goal formation, as explored in Chapter 6 in the sections on ideation and prioritisation. Secondly, the close coupling in patterns strongly supports the navigation between different project stages (explored in this chapter as LOA) via careful structuring of resources and documentation. Thirdly, GDPs help with the division of labour between collaborators, which is relevant here. For example, when tackling more abstract processes, concepts, and terminology. These roles are often taken on by a more competent partner. Thus, participant perspectives shift between the wider goal of making an engaging game for a real or imagined audience and a narrower goal of implementing a game design pattern and the technical actions and operations needed to complete it.  
 
 
 <!-- If a knowledge of CT is needed by the learning context then it could be profitably explored in other ways. For example, developing resources suitable for such reflection,  for instance a learning map to be used by participants and teachers as explred in P4 . Linking from docs to descriptions of the characteristics. Thus not a leading pedagogical framework but a map of possible skills and concepts made possible by the leading activity. -->
@@ -536,7 +539,9 @@ However this research contends that GDPs are a more suitable accessible  framewo
 ### Reframing use of GDPs from intermediate-level knowledge to a gateway framework
 
 MOVE LATER? AND DEVELOP WITH REFERENCE TO SOCIAL AIMS TOO?
-Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of its position within a hierarchy. ,Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements.
+Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of its position within a hierarchy.
+
+Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements.
 
 Firstly, the process guides learners to use GDPs as their primary leading activity or object of activity (using CHAT terminology).
 
