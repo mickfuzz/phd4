@@ -354,11 +354,34 @@ The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] e
 
 ##### Exploring data using concepts of Levels of Abstraction (LOA) & PRIMM
 
-In Chapter 2. concepts of LOA and PRIMM were explained as pedagogies advocating the potential role of alternating between abstract and concrete concepts in semantic waves. Specifically to deepening knowledge by packing and unpacking abstracted concepts via concrete experiences, a process similar to praxis via dialectical movement explored in Chapter 3. The pedagogies are advances to helping teachers design learning experiences which in part allow for participant shifts in LOA perspectives. Turning to a synthesis of my finding with those of Waite et al on levels of abstraction, while the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
+In Chapter 2. concepts of LOA and PRIMM were explained as pedagogies advocating the potential role of alternating between abstract and concrete concepts in semantic waves. Specifically to deepening knowledge by packing and unpacking abstracted concepts via concrete experiences, a process similar to praxis via dialectical movement explored in Chapter 3. The pedagogies are advanced to help teachers design learning experiences which in part allow for participant shifts in perspectives.
+
 
 <!-- In their PRIMM pedagogy the researchers also incorporate the UMC model and draw parallels with LOA. In the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels. -->
 
 
+
+<!-- Further analysis of my learning design in relation to the concept of LOA follows, after an exploration of abstract and concrete learning approaches in the work of Papert and colleagues in the following section. -->
+
+<!-- THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE -->
+
+
+
+It is relevant to distinguish the interpretations of different dimension abstraction described above: specifically Wing's and Papert's conceptions of abstraction, which can be described as present in top-down planning processes, and generalisable beyond context and abstraction present in the LOA framework is be characterised instead as a goal-design-code-results hierarchy, with the goal being the most abstract.  
+
+Addressing CT abstraction in observations of video data, as explained previously (where? if not move down) exploration of abstract CT concepts are rarely present. Given this, observations of semantic profiles in this dimension of abstraction are limited in terms of semantic density. However, following an interpretations of GDPs as an intermediate construct [@eriksson_using_2019] between abstract concepts and concrete implementation shifts do occur between participants goal formation and the concrete implementation using design practices and specific code structures.  The following diagram is an approximate representation of this relatively movement between poles using the time period covered in Vignette 2.
+
+![Illustration 7.x - Semantic profile in Vignette 2  ](./Pictures/ch_7_sw_dia_1.png){width=95%}
+
+More concrete aspects of CT code concepts and processes are present in data, but only when adults with relevant knowledge facilitator, either myself or parents, do point them out and during the process of code implementation. Thus, while the scope of movement here is relatively shallow, given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible. A possible alternative profile is represented in the illustration below.  
+
+![Illustration 7.x - Possible alternative semantic profile  ](./Pictures/ch_7_sw_dia_2.png){width=95%}
+
+In different contexts, the process of supporting students to follow the dotted path into areas of more abstract concepts could have been scaffolded further through guided reflective processes. As explored in Chapter 5, I explored modifications to the documentation to include candidate of the map of learning map dimensions in the initial descriptions of GDPS ( see Appendix.learningDimensions.)
+
+A process to encourage this would be a gamification of the process of reflection, perhaps by attributing badges or points to the a successful reflection of different elements of learning dimension. The extrinsic nature of the process of gamification matches here the extrinsic contextual factors of examination-driven education. While this is a potentially fruitful area for future work, given the core context of non-formal learning of this study it was de-prioritised in this thesis.
+
+Turning to interpretation of LOA [@waite_abstraction_2018] in video data we can map the levels of abstraction to shifts between conceptions of goals, implementation in code structures, and observations of results in my findings. While the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
 
 
 | **Level**            | **Focus** | **Example** |
@@ -372,31 +395,33 @@ Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018
 
 With this focus, we can analyse my learning design where movement between layers of abstraction and concrete is happening. However, rather than a neat semantic sine wave as depicted in Fig 2.x in Chapter 2, for my participants, such shift are often rapidly and  chaotically structured.
 
-THIS AREA MAY NEED MORE DEVELOPMENT VIA EXAMPLES
-
-<!-- Further analysis of my learning design in relation to the concept of LOA follows, after an exploration of abstract and concrete learning approaches in the work of Papert and colleagues in the following section. -->
-
-<!-- THIS DEPENDS ON WHAT THE CONCEPTION OF ABSTRACTION IS HERE -->
-
-
-**Is Bricolage at odds with Semantic Waves / LOA**
-
-It is of value to explore if an approach of concrete bricolage is odds with Waite and Curzon's [@curzon_using_2020] advocacy for alternating between abstract and concrete dimensions, present in research on semantic waves, and LOA research. I do this using the implementation of GDPs as a lens.
-
-To do this, it is relevant to distinguish the interpretations of different dimension abstraction described above: specifically Wing's and Papert's conceptions of abstraction, which can be described as present in top-down planning processes, and generalisable beyond context. The LOA framework is be characterised instead as a goal-design-code-results hierarchy, with the goal being the most abstract.  
-
-Addressing CT abstraction in observations of video data, as explained previously exploration of abstract CT concepts are not present. More concrete aspects of CT code concepts and processes are present in data, when adults with relevant knowledge facilitator, either myself or parents, do point them out and during the process of code implementation. Coming back to the maker styles of planner and bricoleur, while in theory, it is within the design level of LOA that such distinctions persist, as Bricoleurs would avoid abstract design structures which detract from a close relationship between the code and the desired results, in practice this research, due to the pre-baked abstraction present the template provides little in terms of data to explore this potential difference in approach. Given this, observations of semantic profiles in this dimension of abstraction are not present and thus no judgement can be made in terms of their characteristics or utility, which is a justifiable limitation of this research.   
-
-However, interpretation of video data findings shows that the shifts in LOA that Waite and colleagues advocate are present, with frequent shifts between conceptions of goals, implementation in code structures, and observations of results happening.
-
 Each time the participants imagine and choose a design pattern, implement it and then test it shifts in LOA occur. Even on a micro level when using the affordances within the template, variations in LOA are present.
 
-MORE DATA NEEDED HERE ON THE SHIFTS
+THIS AREA MAY NEED MORE DEVELOPMENT VIA EXAMPLES
 
 Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 7 in part stem from the fluid shifts in these levels. The level of detail in Vignette 2 for example is a good indication of rapid shifts. In addition the observations in the discussion section of Chapter 6, which reject design stages, in favour of more chaotic improvisational approach.
 
 
-When to revisit close coupling?
+**Is Bricolage at odds with Semantic Waves / LOA- MOVE LATER?**
+
+Given that the semantic profile of work in Vignette 2, typical both participants in this study aligns with the description of a bricoleur's approach. It is of value to return to analyse  the Papert and Turkle's [@papert_epistemological_1990] maker styles of planner and bricoleur, and explore if  if an approach of concrete bricolage is odds with advocacy for alternating between abstract and concrete dimensions, present in research on semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018].
+
+For while alternations within LOA exist as show above distinctions exist
+within the design level of LOA. A bricolage approach in at that level would avoid abstract design structures which detract from a close relationship between the code and the desired results.
+
+One of the reason for a shallower semantic profile in data is the black-boxing of needed abstract elements of the design.
+
+The role of GDP structure is important here.
+NOTE revisit close coupling?
+
+In this research, due to the pre-baked abstraction present the template provides little in terms of data to explore this potential difference in approach.
+
+<!-- NOTE MORE ON HOW DOES THIS RELATE TO THE FINDINGS OF THE END OF CHAPTER 6? -->
+<!-- Addressing this question involves returning to foundational theory of socio-cultural approaches, the shift in praxis. -->
+
+Given the barriers present in abstract approaches explored in Chapter 2, the  restriction in semantic density in terms of abstraction is clearly appropriate here in order to prioritise accessibility and flow experience.
+
+
 
 It can be seen at this point that such a coupling matches the structure of design patterns, indicating a suitability for their use to support this more concrete approach to developing programming.
 
@@ -433,11 +458,6 @@ Thus in summary conceptions of abstraction above explored above include:
 
 <!-- 1. positioning as intermediate
 2.  looking at distinction in different studies in context -->
-
-
-
-
-
 
 <!-- To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns. -->
 
