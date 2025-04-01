@@ -23,6 +23,9 @@
                     PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
         -   [Summary of the potential utility for several
             stakeholders](#summary-of-the-potential-utility-for-several-stakeholders)
+        -   [Reframing use of GDPs from intermediate-level knowledge to
+            a gateway
+            framework](#reframing-use-of-gdps-from-intermediate-level-knowledge-to-a-gateway-framework)
             -   [Recap is GDPS a good framework or what? - PERHAPS MOVE
                 TO CHAPTER
                 END?](#recap-is-gdps-a-good-framework-or-what---perhaps-move-to-chapter-end)
@@ -40,22 +43,23 @@
         -   [Implications for design & a contribution
             proposal](#implications-for-design-a-contribution-proposal)
         -   [LINK](#link)
-        -   [2c - Relational Agency in emergent activities in emergent
-            cultural context - 3rd Spaces, idiocultures, and
-            repertoires](#c---relational-agency-in-emergent-activities-in-emergent-cultural-context---3rd-spaces-idiocultures-and-repertoires)
-            -   [1. Repertoires and relational
-                agency](#repertoires-and-relational-agency)
-            -   [2. Playtesting as a suitable medium for emerging
-                activities creating third
-                spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-            -   [3. Examples: Funds of Knowledge / DoL repertoires and
-                how they emerge (in playtesting practices in
-                particular)](#examples-funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
-            -   [4. Variations in approaches to
-                playtesting](#variations-in-approaches-to-playtesting)
-            -   [5. The introduction of maker types and side missions as
-                affordances of my pedagogy to legitimise
-                diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+    -   [Reframing research findings using socio-cultural concetps of
+        3rd Spaces, idiocultures, and
+        repertoires](#reframing-research-findings-using-socio-cultural-concetps-of-3rd-spaces-idiocultures-and-repertoires)
+        -   [Playtesting as a suitable medium for emerging activities
+            creating third
+            spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
+            -   [Identity formation within third
+                spaces](#identity-formation-within-third-spaces)
+            -   [Expressions of identity in variations in approaches to
+                playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
+            -   [The introduction of maker types and side missions as
+                affordances of my pedagogy to legitimise diversity -
+                MERGE
+                UP](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity---merge-up)
+            -   [Funds of Knowledge / DoL repertoires and how they
+                emerge (in playtesting practices in
+                particular)](#funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
             -   [6. The impact of constraints in design on
                 agency](#the-impact-of-constraints-in-design-on-agency)
             -   [6. Synthesis, potential of explicit structuring of
