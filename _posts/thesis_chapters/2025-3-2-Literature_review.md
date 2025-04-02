@@ -207,6 +207,43 @@ title: 2. Literature Review
 
 This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions. The review then delves into key pedagogies of game making and digital making. A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. Additionally this chapter examines the learning characteristics of informal settings for game making such as, code clubs, competitions and game jams. Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
 
+
+This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions. The review then delves into key pedagogies of game making and digital making. A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. Additionally this chapter examines the learning characteristics of informal settings for game making such as, code clubs, competitions and game jams. Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
+
+
+### Addressing terms used
+
+
+#### Pedagogy - a working definition of pedagogy.
+
+
+
+Given that this literature review aims to explore exising relevant pedagogies within the research field, a working definition of pedagogy is appropriate given the socio-cultural focus of this study.
+
+**There is an overall differential in specificity.**
+Used in broad terms pedagogy encompasses both the domain of teaching and broad theoretical understandings instruction.
+https://www.iosrjournals.org/iosr-jrme/papers/Vol-11%20Issue-1/Ser-2/B1101020629.pdf
+
+In more specific terms it can a pedagogy, a more particular approach or technique.
+
+- Specific as well as theoretical - involving praxis.
+
+Resisting an dichotomy it can be understool from a practitioner perspective as a dialectical process alternating beteen experiecne and theory .
+
+
+Related to context as well as instructive teaching.
+
+Siraj-Blatchford, I., Sylva, K., Muttock, S., Gilden, R. and Bell, D. (2002) Researching Effective Pedagogy in the Early Years. University of London, Institute of Education, Department of Educational Studies, Norwich.
+
+Thus the following definition suits.
+
+"Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context."
+
+More specifically within a guiding ethos and overarching techniques, the use of the term pedagogical strategies is applicable to this review.
+
+Thus this encompasses, tools, context and cultural factors in a way in line with socio-cultural approach.
+
+
 ## Context of game making and digital projects at home and other informal settings
 
 The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. These motivations are often categorized into two broad streams: pedagogy and ideology [@galen_home_1991; @rothermel_can_2003]. Addressing ideology, some families choose home education to limit their children’s exposure to mainstream values, such as religious beliefs or consumerist ideals. In terms of pedagogy, popular concepts within home education circles include unschooling and deschooling. Holt’s concept of unschooling [@gray_challenges_2013] emphasises facilitating learning by drawing out children's interests through everyday activities. Illich’s work on deschooling promotes the idea of _webs of learning_ [@illich_deschooling_1971], where learners access educational experiences in varied contexts based on their interests and needs, rather than relying on a single educational institution as the sole source of knowledge. Many home-educating families actively seek and establish networks, using friendships, social networking groups, and email lists to share opportunities and collaborate on learning activities [@doroudi_relevance_2023]. The game-making club that forms the basis of this research can be viewed as one node within the complex web of learning that participating families engage with.

@@ -910,11 +910,20 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 **Structuring this section:**
 
-1. Overview / recap of relational agency and repertoires, equity and diversity
+1. Overview / recap of relational agency and repertoires in theory
+ 2. 3rd space, as a space and Playtesting a space  
+3. Movement between spaces, repertoires in practice (FOk) practices, Dol and helping styles  
+4. Identity formation
+  - via specialism
+  - via variations in playtesting, playful example
+  - Intervention to encourage player styles,
+5. Summary of Blending as a process, playtesting as a process -
+
+<!-- 1. Overview / recap of relational agency and repertoires, equity and diversity
 2. Playtesting as the medium (perhaps swap with 2. )
 3. Examples, Fok in v.6. DOL, and more in the data (not all playtesting)
 4. Variations in playtesting styles
-5. Intervention to encourage player styles
+5. Intervention to encourage player styles -->
 
 
 <!-- In the last section using TADS and mediation helps analyse findings in personal (and guided participation) aspects of Chapter 6.  -->
@@ -946,13 +955,7 @@ In the last chapter, data on activity on the cultural plane exposed elements of 
 
 4. Examples in relation to the role of playtesting / playground to develop identity in a safe space, reduced stress, but with an important aspect of social interaction and norming -->
 
-
 <!-- What are repertoires and why are they so important to this study?: -->
-
-
-
-
-
 
 <!-- In the context of my study the role of forllowing design features of the learning environment bear greater exploration.
 
