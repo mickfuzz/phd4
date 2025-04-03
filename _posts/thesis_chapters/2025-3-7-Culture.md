@@ -52,38 +52,38 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             agency](#instrumental-and-transformational-agency)
         -   [Relational agency](#relational-agency)
         -   [Shifting forms of agency](#shifting-forms-of-agency)
-        -   [Implications for design & a contribution
-            proposal](#implications-for-design-a-contribution-proposal)
-        -   [LINK](#link)
     -   [Reframing research findings using socio-cultural concetps of
         3rd Spaces, idiocultures, and
         repertoires](#reframing-research-findings-using-socio-cultural-concetps-of-3rd-spaces-idiocultures-and-repertoires)
-        -   [Use of GDPs (as a gateway framework and components) to
-            support the development of social and cultural repertoires
-            of
-            practice](#use-of-gdps-as-a-gateway-framework-and-components-to-support-the-development-of-social-and-cultural-repertoires-of-practice)
-        -   [Playtesting as a suitable medium for emerging activities
-            creating third
-            spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-        -   [Identity formation (within third
-            spaces)](#identity-formation-within-third-spaces)
-            -   [Funds of Knowledge / DoL repertoires and how they
-                emerge (in playtesting practices in
-                particular)](#funds-of-knowledge-dol-repertoires-and-how-they-emerge-in-playtesting-practices-in-particular)
+        -   [Overview / recap of relational agency and repertoires in
+            theory - KEEP
+            SHORT](#overview-recap-of-relational-agency-and-repertoires-in-theory---keep-short)
+            -   [Playtesting as a suitable medium for emerging
+                activities creating third
+                spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
+        -   [Repertoire movement between spaces, repertoires in practice
+            (FOk) practices, Dol and helping
+            styles](#repertoire-movement-between-spaces-repertoires-in-practice-fok-practices-dol-and-helping-styles)
+        -   [Emerging identity formation via
+            specialisation](#emerging-identity-formation-via-specialisation)
+            -   [Specialism (in making / not playtesting this can be
+                brief?
+                )](#specialism-in-making-not-playtesting-this-can-be-brief)
             -   [Expressions of identity in variations in approaches to
                 playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
+        -   [Interventions to accelerate and facilitate the process of
+            repertoire
+            blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
             -   [The introduction of maker types and side missions as
-                affordances of my pedagogy to legitimise diversity -
-                MERGE
-                UP](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity---merge-up)
-            -   [6. Synthesis, potential of explicit structuring of
-                identity formation / spaces for blending of
-                repertoires](#synthesis-potential-of-explicit-structuring-of-identity-formation-spaces-for-blending-of-repertoires)
-                -   [Examining complexity within identity formation and
-                    specialisation](#examining-complexity-within-identity-formation-and-specialisation)
-        -   [Metaphors as a way to explore conceptions of agency within
-            digital
-            making](#metaphors-as-a-way-to-explore-conceptions-of-agency-within-digital-making)
+                affordances of my pedagogy to legitimise
+                diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+    -   [Implications for design & a contribution
+        proposal](#implications-for-design-a-contribution-proposal)
+        -   [Designing for shifting forms of
+            agency](#designing-for-shifting-forms-of-agency)
+        -   [Metaphors as a way to communication dimensions of agency
+            design
+            concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
             -   [Harbours as both protective and
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Spaces to play - playgrounds and jam
@@ -91,12 +91,17 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Part Three : Synthesis & contributions to the field = EDITING
         DOWN OR
         MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
+        -   [GDPs as a gateway pedagogical
+            framework](#gdps-as-a-gateway-pedagogical-framework)
         -   [Second area of contribution to the research in the field: A
             complex view of agency and repertoires development AND the
             value of that to contribute to research on DBR / FI
             etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
-            -   [Returning to shifting forms of
-                agency](#returning-to-shifting-forms-of-agency)
+            -   [The value of designing for shifting forms agency as a
+                transferrable
+                concepts.](#the-value-of-designing-for-shifting-forms-agency-as-a-transferrable-concepts.)
+            -   [Types of agency?
+                Specialism](#types-of-agency-specialism)
             -   [Summary of discussion on designing for
                 agency](#summary-of-discussion-on-designing-for-agency)
             -   [Contribution to the research in the field: The impact
@@ -982,7 +987,7 @@ The process contextualises and legitimises the previously peripheral activities 
 
 This strand of thought also invites an theoretical examination of the value of identify formation via the blending of repertoires of play and design approaches.
 
-The invitation to play, can be seen as a familiar  affordance leading to more unfamiliar territory. A helping process in blending through opening a door to a new collaborative zone of proximal development. 
+The invitation to play, can be seen as a familiar  affordance leading to more unfamiliar territory. A helping process in blending through opening a door to a new collaborative zone of proximal development.
 
 
 **Maker types**

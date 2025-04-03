@@ -2,6 +2,9 @@
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
+        -   [Addressing terms used](#addressing-terms-used)
+            -   [Pedagogy - a working definition of
+                pedagogy.](#pedagogy---a-working-definition-of-pedagogy.)
     -   [Context of game making and digital projects at home and other
         informal
         settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
@@ -114,6 +117,8 @@
             space](#funds-of-knowledge-and-third-space)
         -   [Third spaces and the context of this
             study](#third-spaces-and-the-context-of-this-study)
+            -   [Third space concepts in culturally responsive
+                programming](#third-space-concepts-in-culturally-responsive-programming)
         -   [Game making as a fund of
             knowledge](#game-making-as-a-fund-of-knowledge)
             -   [Play circles and MOE as a third

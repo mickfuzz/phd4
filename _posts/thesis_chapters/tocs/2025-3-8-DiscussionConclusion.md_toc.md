@@ -33,6 +33,8 @@
             relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contextual-factors-may-impact-relevancy)
         -   [Addressing inclusion and
             neurodiversity](#addressing-inclusion-and-neurodiversity)
+        -   [Limitations in exploring drama elements and participation
+            types](#limitations-in-exploring-drama-elements-and-participation-types)
         -   [Using Concrete / applied
             frameworks](#using-concrete-applied-frameworks)
             -   [abstact vs applied frameworks - Comparing aims of
