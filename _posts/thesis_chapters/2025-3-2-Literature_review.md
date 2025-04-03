@@ -1001,6 +1001,8 @@ Reconnecting to connected learning alliance in intro. See case study  [@ito2013c
 The 5D approach  also highlight important elements of the theoretical framework to be treated in the following chapter.  
 Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the compexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
 
+Gutiérrez [@gutierrez_developing_2008] identifies the vital role of learning designers to facilitate th  the movement of identity between settings' repertoires of practice  the “cultural mediation of thinking” (Moll, 1998), cited in [@digiacomo_seven_2017] p.44. is via responsive learning design.
+
 However, while this line of research was rich in case studies, but general in nature.
 A wider questions, how to operationalise this broader approach of connected learning and movement between learning spaces as a specific pedagogy in a code club, non-formal environment.  
 
@@ -1465,9 +1467,35 @@ The term addresses the use of knowledge and skills from participation in activit
 
 ### Third spaces and the context of this study
 
-The concept of third space is helpful in the context of this study in particular as a space between home life and formal education.
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning.
 
-It also is rooted in a sociocultural understanding of learning that is challenging to traditional classroom environments.
+
+
+<!--
+
+REVISE
+
+Characteristics of Kris Gutiérrez’s Third Space in Theory
+Hybrid Learning Spaces – The Third Space is where students’ home/community knowledge and school-based academic knowledge come together, creating new ways of learning.
+
+Syncretic Knowledge – Rather than replacing one form of knowledge with another, the Third Space allows for the blending of different cultural and linguistic resources.
+
+Expansive Learning – Learners are not just absorbing information but actively transforming their understanding by integrating multiple perspectives.
+
+Disrupting Traditional Power Dynamics – It challenges the dominant educational norms that often marginalize non-mainstream cultural and linguistic practices.
+
+Mediated Learning – Tools, artifacts, and interactions within the Third Space serve as bridges between students’ lived experiences and formal educational content.
+
+Socially Situated Learning – Learning is deeply tied to social and cultural contexts, and the Third Space recognizes the value of students' diverse backgrounds. -->
+
+
+#### Third space concepts in culturally responsive programming
+
+include a brief summary
+https://www.tandfonline.com/doi/full/10.1080/17439884.2014.924966
+
+And from Waite review 2021
+
 
 ### Game making as a fund of knowledge
 
