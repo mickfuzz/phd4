@@ -47,9 +47,6 @@
         -   [Overview / recap of relational agency and repertoires in
             theory - KEEP
             SHORT](#overview-recap-of-relational-agency-and-repertoires-in-theory---keep-short)
-            -   [Playtesting as a suitable medium for emerging
-                activities creating third
-                spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
         -   [Repertoire movement between spaces, repertoires in practice
             (FOk) practices, Dol and helping
             styles](#repertoire-movement-between-spaces-repertoires-in-practice-fok-practices-dol-and-helping-styles)
@@ -60,16 +57,16 @@
                 )](#specialism-in-making-not-playtesting-this-can-be-brief)
             -   [Expressions of identity in variations in approaches to
                 playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
-        -   [Interventions to accelerate and facilitate the process of
-            repertoire
-            blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
-    -   [Implications for design & a contribution
-        proposal](#implications-for-design-a-contribution-proposal)
-        -   [Designing for shifting forms of
-            agency](#designing-for-shifting-forms-of-agency)
+    -   [Part Three : Synthesis & contributions to the field = EDITING
+        DOWN OR
+        MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
+        -   [Implications for design & a contribution
+            proposal](#implications-for-design-a-contribution-proposal)
+            -   [Designing for shifting forms of
+                agency](#designing-for-shifting-forms-of-agency)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
@@ -77,11 +74,8 @@
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Spaces to play - playgrounds and jam
                 sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-    -   [Part Three : Synthesis & contributions to the field = EDITING
-        DOWN OR
-        MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
-        -   [GDPs as a gateway pedagogical
-            framework](#gdps-as-a-gateway-pedagogical-framework)
+            -   [GDPs as a gateway pedagogical
+                framework](#gdps-as-a-gateway-pedagogical-framework)
         -   [Second area of contribution to the research in the field: A
             complex view of agency and repertoires development AND the
             value of that to contribute to research on DBR / FI
