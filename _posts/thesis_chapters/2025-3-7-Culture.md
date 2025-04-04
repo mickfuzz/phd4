@@ -1012,6 +1012,19 @@ In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narra
 
 
 
+#### LINK? Issues of cultural inclusion via design
+
+There are aspects of inclusion here inherrent in the design.
+
+What is the relation ship with this approach and  culturally responsive computing?
+
+In terms of overall approach, in line wiht Gutiérrez's framing of utopian methods, the concept of equity and diversity here is present not as an aspiration, but as a concrete process and mechanism via the explicity design for repertoire blending described above.
+
+As such there are parallels with the UDL's approach to designing for inclusion. Inclusion is not active in the design, it is baked into the affordances and possibility for diverse forms of expression and x and y. 
+
+
+
+
 
 ## Part Three : Synthesis & contributions to the field = EDITING DOWN OR MOVING
 
@@ -1087,10 +1100,6 @@ It is of value to examine specialisation as a form of agency and new identity fo
 It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
 
 Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
-
-
-
-
 
 
 
@@ -1238,6 +1247,14 @@ The playful context of the game's magic circle can facilitate participants to ad
 
 ### Summary of this section
 
+
+#### CCRREEPP pedagogy as a synthesis of the strands explored in this research.
+
+There is a value of attempting to integrate the holistic approach outlined in this research by unifying the strands of part one and part two of this chapter. To do this the structural element of the REEPP framework would need to be augmented with the socio-cultural elements explored in part two. To do this, I propose the complex but logical acronym: collaborative, culturally responsive remix enabled elective pattern patching (CCRREEPP). In this cultural context the process of patching also references the process of repertoire blending outlined above.
+
+
+
+
 #### Summary on discussion on designing for agency
 
 Agency in this in game making community is seen as multi-dimensional and as a process located in community participation rather than an individualised property.
@@ -1251,8 +1268,6 @@ Beyond that element of choice, development of relational agency is a part of the
 
 
 My proposal is that this research supports a view that the above techniques align with x and thus an excellent candidate to address gaps in reseach in the field of CGD&P
-
-
 
 
 ### Theoretical / research based area of contribution to the research in the field:  MOVE TO CONLCUSION
