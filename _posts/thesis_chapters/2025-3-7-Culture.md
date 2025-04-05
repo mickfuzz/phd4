@@ -71,6 +71,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+            -   [Maker types - FROM LAST CHAPTER
+                INTEGRATE](#maker-types---from-last-chapter-integrate)
             -   [LINK? Issues of cultural inclusion via
                 design](#link-issues-of-cultural-inclusion-via-design)
     -   [Part Three : Synthesis & contributions to the field = EDITING
@@ -91,6 +93,10 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [CCRREEPP pedagogy as a synthesis of the strands
                 explored in this
                 research.](#ccrreepp-pedagogy-as-a-synthesis-of-the-strands-explored-in-this-research.)
+        -   [Table representation of characteristics and examples of
+            agency development potential in the learning design - MOVE
+            UP TO END FOR PART
+            ONE?](#table-representation-of-characteristics-and-examples-of-agency-development-potential-in-the-learning-design---move-up-to-end-for-part-one)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
@@ -996,7 +1002,22 @@ The diversity in playtesting behaviours drove my reflection on the relationship 
 
 One dimension of instances of blending of repertoires emerged in different approaches to making that I observed and recorded in journal notes.
 
-To  
+To  #### Maker types Move?
+
+The process of emergence of novel repertoires which drew on GDP concepts, and wider, existing practice aligned with the motivations of this study. Therefore to try to support their development I introduced some additional social missions described in Chapter 5 and described in more detail in Appendix.makertypes. Paralleling Bartle's player types [@schneider_analysis_2016], the concept of maker types addressed observations of the varied sub-goals which emerged in playtesting. Recalling the barriers to participation explored in Chapter 2, my rationale for exploring maker types with participants was to promote awareness of pluralistic programming process [@papert_epistemological_1990], and a message that when you are learning something novel and challenging, there is value in incorporating your existing working preferences and techniques in the process. Rather than proposing that these styles make up a rigid typology to be replicated in other settings, instead, in line with Gutierrez and Rogoff [-@gutierrez_cultural_2003, p.20] , that the process of co-constructing understanding and communication about learning styles can "support the changing nature of participation and the forms of assistance provided in joint activity."
+
+
+<!-- Begin discussion with reference to [@gutierrez_cultural_2003] on "Helping Students Learn: Having Styles or Participating in Practices", and a careful statement to avoid over generalisation here, but at the same time recognise the value of emerging practices and styles. -->
+
+
+<!-- In this chapter's discussion this wider focus on cultural elements is addressed via an exploration of flexible approaches to the design practice. -->
+
+<!-- And following that the link to inclusive linguistic element of the pedagogy which can be aligned with other inclusive practices of UDL. In this study the focus is less on aspects of ethnical cultural elements and more the those related to neurodiversity.
+IS THERE SPACE FOR THIS here - IF SO WHERE? - NEXT CHAPTER PROBABLY  -->
+
+
+Thus, similar to the way tools were modified to provide new affordances for participants, in P3 I began to encourage these processes by introducing a drama process incorporating _social side-missions_ to augment the affordances of the playtesting environment. The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. Many of the social missions encouraged activity outside of strictly productive design activities: for example, the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_. In observations of video data, I was struck by the high degree of flexibility and variation present in participant behaviour. In the following section I begin an analysis of other emerging characteristics.
+
 
 **Maker types**
 
@@ -1024,11 +1045,31 @@ Some approached objectives in a methodical manner, others socially and others em
 
 Side missions exlored in Chapter.5 and Appendix. x?
 
+Thus, similar to the way tools were modified to provide new affordances for participants, in P3 I began to encourage these processes by introducing a drama process incorporating _social side-missions_ to augment the affordances of the playtesting environment. The process of exploring identity via side missions in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. Many of the social missions encouraged activity outside of strictly productive design activities: for example, the lively discussion about game playing in response to the mission to _find out the favourite games of 3 other people_.
+
 The process contextualises and legitimises the previously peripheral activities with the groups conceptions of the idioculture of the wider activity. This recognition of the hybridity of possible modes of participation increases conceptions of enacted diversity of the community.
 
 This strand of thought also invites an theoretical examination of the value of identify formation via the blending of repertoires of play and design approaches.
 
 The invitation to play, can be seen as a familiar  affordance leading to more unfamiliar territory. A helping process in blending through opening a door to a new collaborative zone of proximal development.
+
+
+
+#### Maker types - FROM LAST CHAPTER INTEGRATE
+
+The process of emergence of novel repertoires which drew on GDP concepts, and wider, existing practice aligned with the motivations of this study. Therefore to try to support their development I introduced some additional social missions described in Chapter 5 and described in more detail in Appendix.makertypes. Paralleling Bartle's player types [@schneider_analysis_2016], the concept of maker types addressed observations of the varied sub-goals which emerged in playtesting. Recalling the barriers to participation explored in Chapter 2, my rationale for exploring maker types with participants was to promote awareness of pluralistic programming process [@papert_epistemological_1990], and a message that when you are learning something novel and challenging, there is value in incorporating your existing working preferences and techniques in the process.
+
+<!-- Rather than proposing that these styles make up a rigid typology to be replicated in other settings, instead, in line with Gutierrez and Rogoff [-@gutierrez_cultural_2003, p.20] , that the process of co-constructing understanding and communication about learning styles can "support the changing nature of participation and the forms of assistance provided in joint activity." -->
+
+
+<!-- Begin discussion with reference to [@gutierrez_cultural_2003] on "Helping Students Learn: Having Styles or Participating in Practices", and a careful statement to avoid over generalisation here, but at the same time recognise the value of emerging practices and styles. -->
+
+
+<!-- In this chapter's discussion this wider focus on cultural elements is addressed via an exploration of flexible approaches to the design practice. -->
+
+<!-- And following that the link to inclusive linguistic element of the pedagogy which can be aligned with other inclusive practices of UDL. In this study the focus is less on aspects of ethnical cultural elements and more the those related to neurodiversity.
+IS THERE SPACE FOR THIS here - IF SO WHERE? - NEXT CHAPTER PROBABLY  -->
+
 
 
 

@@ -60,6 +60,8 @@
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+            -   [Maker types - FROM LAST CHAPTER
+                INTEGRATE](#maker-types---from-last-chapter-integrate)
             -   [LINK? Issues of cultural inclusion via
                 design](#link-issues-of-cultural-inclusion-via-design)
     -   [Part Three : Synthesis & contributions to the field = EDITING
@@ -80,6 +82,10 @@
             -   [CCRREEPP pedagogy as a synthesis of the strands
                 explored in this
                 research.](#ccrreepp-pedagogy-as-a-synthesis-of-the-strands-explored-in-this-research.)
+        -   [Table representation of characteristics and examples of
+            agency development potential in the learning design - MOVE
+            UP TO END FOR PART
+            ONE?](#table-representation-of-characteristics-and-examples-of-agency-development-potential-in-the-learning-design---move-up-to-end-for-part-one)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
