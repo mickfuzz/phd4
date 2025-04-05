@@ -58,11 +58,11 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Overview / recap of relational agency and repertoires in
             theory - KEEP
             SHORT](#overview-recap-of-relational-agency-and-repertoires-in-theory---keep-short)
-        -   [Repertoire movement between spaces, repertoires in practice
-            (FOk) practices, Dol and helping
-            styles](#repertoire-movement-between-spaces-repertoires-in-practice-fok-practices-dol-and-helping-styles)
-        -   [Emerging identity formation via
-            specialisation](#emerging-identity-formation-via-specialisation)
+        -   [Movement of repertoires between spaces, via integration of
+            funds of knowledge and division of labour
+            practices](#movement-of-repertoires-between-spaces-via-integration-of-funds-of-knowledge-and-division-of-labour-practices)
+        -   [Emerging identity formation (via specialisation &
+            ?)](#emerging-identity-formation-via-specialisation)
             -   [Specialism (in making / not playtesting this can be
                 brief?
                 )](#specialism-in-making-not-playtesting-this-can-be-brief)
@@ -71,38 +71,46 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+            -   [LINK? Issues of cultural inclusion via
+                design](#link-issues-of-cultural-inclusion-via-design)
     -   [Part Three : Synthesis & contributions to the field = EDITING
         DOWN OR
         MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
-        -   [Implications for design & a contribution
-            proposal](#implications-for-design-a-contribution-proposal)
-            -   [Designing for shifting forms of
-                agency](#designing-for-shifting-forms-of-agency)
+        -   [Gaps in research](#gaps-in-research)
+        -   [Designing for shifting forms of
+            agency](#designing-for-shifting-forms-of-agency)
+            -   [The value of designing for shifting forms agency as a
+                transferable
+                concepts.](#the-value-of-designing-for-shifting-forms-agency-as-a-transferable-concepts.)
+            -   [Types of agency?
+                Specialism](#types-of-agency-specialism)
+        -   [Structural elements of
+            pedagogy](#structural-elements-of-pedagogy)
+            -   [REEPP recap & GDPs as a gateway
+                framework](#reepp-recap-gdps-as-a-gateway-framework)
+            -   [CCRREEPP pedagogy as a synthesis of the strands
+                explored in this
+                research.](#ccrreepp-pedagogy-as-a-synthesis-of-the-strands-explored-in-this-research.)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
-            -   [Harbours as both protective and
-                authentic](#harbours-as-both-protective-and-authentic)
-            -   [Spaces to play - playgrounds and jam
-                sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-            -   [GDPs as a gateway pedagogical
-                framework](#gdps-as-a-gateway-pedagogical-framework)
-        -   [Second area of contribution to the research in the field: A
-            complex view of agency and repertoires development AND the
-            value of that to contribute to research on DBR / FI
-            etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
-            -   [The value of designing for shifting forms agency as a
-                transferrable
-                concepts.](#the-value-of-designing-for-shifting-forms-agency-as-a-transferrable-concepts.)
-            -   [Types of agency?
-                Specialism](#types-of-agency-specialism)
-            -   [Summary of discussion on designing for
-                agency](#summary-of-discussion-on-designing-for-agency)
-            -   [Contribution to the research in the field: The impact
-                of the DBR /
-                FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
+            -   [Harbours as structures and staging posts facilitating
+                transformational
+                movement](#harbours-as-structures-and-staging-posts-facilitating-transformational-movement)
+            -   [Jamming in music sessions](#jamming-in-music-sessions)
+        -   [Summary of this section](#summary-of-this-section)
+            -   [Summary on discussion on designing for
+                agency](#summary-on-discussion-on-designing-for-agency)
+        -   [Theoretical / research based area of contribution to the
+            research in the field: A complex view of agency and
+            repertoires development AND the value of that to contribute
+            to research on DBR / FI etc. MOVED BELOW / NEXT
+            CHAPTER](#theoretical-research-based-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.-moved-below-next-chapter)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
+        -   [Contribution to the research in the field: The impact of
+            the DBR /
+            FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
     -   [Notes - MOVED TO THE END FOR
@@ -922,7 +930,7 @@ Knowledge to support literacy and attention management from S & T
 
 Bearing in mind a distinction between integration and inclusion, where integration sees practices remain relatively unchanged [@rodriguez_inclusion_2015], in these examples a distinction between the importation of existing competencies and interests as repertoires and the emergence of new ones can easily be blurred. In the next section the formation of distinctly novel repertoires are explored.
 
-### Emerging identity formation via specialisation
+### Emerging identity formation (via specialisation &  ?)
 
 
 The process of new identity formation via repertoire blending is explored in this section via the concept of specialism. The emergence of new forms of identity within the idioculture is particularly significant to this research given the barriers participation in programming communities explored in Chapter 2. This focus is present in the work of Stone and colleagues [@stone_problem_2007-2] who underline the importance of "opportunities to transform learner identities needed for zones of competency" as something that can and should be designed into inclusive learning environments (focusing on goal development).
@@ -1153,6 +1161,36 @@ I propose that providing a menu of GDPs can, as with accessing more abstract con
 
 There is a value of attempting to integrate the holistic approach outlined in this research by unifying the strands of part one and part two of this chapter. To do this the structural element of the REEPP framework would need to be augmented with the socio-cultural elements explored in part two. To do this, I propose the complex but logical acronym: collaborative, culturally responsive remix enabled elective pattern patching (CCRREEPP). In this cultural context the process of patching also references the process of repertoire blending outlined above.
 
+
+### Table representation of characteristics and examples of agency development potential in the learning design  - MOVE UP TO END FOR PART ONE?
+
+**Structural**
+
+| Characteristics | Design Example |
+|-----------------|----------------|
+|  Protection from code complexity via technical limitations  |  Example: choice of use of phaser a game library,</br> use of a code playground programming environment,</br> another?  |
+| Restrictions in genre of template used to recognisable ones to access tacit structural knowledge | Use of a 2d platformer as game genre.  |
+| Choice from a selection of possible learner pathways to reduce participant stress and limit the scope of resources creation | Use of a collection of GDPs  |
+| Close coupling between goal formation and  | GDPs documentation contains a suggested code implementation aligned to the existing structure of the starting template  |
+
+
+Table 7.x Non - Metaphors to explore characteristics of designing for participant agency
+
+
+**Procedural**
+
+| <div style="width:200px">Characteristics</div> | Design Example |
+|-----------------|-------|
+| Flexibility in design stages  | See vignette of Ed and Mark in particular  |
+| Improvisation? (in what way? ) | Just going for it in design </br>    |
+| Expression of existing home interests in game content  | Ed in use of train design, use of hornet and bee work  |
+| Identity formation via playtesting styles | Playful playtesting, social approaches, more passive / planning based approaches. |
+| Incorporation of home helping repertoires   | Use of paper prototypes, addressing frustrations, practicalities and resources management  |
+| Emerging specialisms  | Madiha and Nasrin's expression of art and character interests in pixel format, Toby in level design and process of adding more, Ging and Thelia in the glitching practice of playing against conventional design practices, Ed in adding soundtracks,    |
+
+
+
+Table 7.x Non - Metaphors to explore characteristics of designing for participant agency
 
 
 ### Metaphors as a way to communication dimensions of agency design concerns

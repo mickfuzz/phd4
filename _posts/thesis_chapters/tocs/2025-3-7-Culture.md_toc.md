@@ -47,11 +47,11 @@
         -   [Overview / recap of relational agency and repertoires in
             theory - KEEP
             SHORT](#overview-recap-of-relational-agency-and-repertoires-in-theory---keep-short)
-        -   [Repertoire movement between spaces, repertoires in practice
-            (FOk) practices, Dol and helping
-            styles](#repertoire-movement-between-spaces-repertoires-in-practice-fok-practices-dol-and-helping-styles)
-        -   [Emerging identity formation via
-            specialisation](#emerging-identity-formation-via-specialisation)
+        -   [Movement of repertoires between spaces, via integration of
+            funds of knowledge and division of labour
+            practices](#movement-of-repertoires-between-spaces-via-integration-of-funds-of-knowledge-and-division-of-labour-practices)
+        -   [Emerging identity formation (via specialisation &
+            ?)](#emerging-identity-formation-via-specialisation)
             -   [Specialism (in making / not playtesting this can be
                 brief?
                 )](#specialism-in-making-not-playtesting-this-can-be-brief)
@@ -60,38 +60,46 @@
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+            -   [LINK? Issues of cultural inclusion via
+                design](#link-issues-of-cultural-inclusion-via-design)
     -   [Part Three : Synthesis & contributions to the field = EDITING
         DOWN OR
         MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
-        -   [Implications for design & a contribution
-            proposal](#implications-for-design-a-contribution-proposal)
-            -   [Designing for shifting forms of
-                agency](#designing-for-shifting-forms-of-agency)
+        -   [Gaps in research](#gaps-in-research)
+        -   [Designing for shifting forms of
+            agency](#designing-for-shifting-forms-of-agency)
+            -   [The value of designing for shifting forms agency as a
+                transferable
+                concepts.](#the-value-of-designing-for-shifting-forms-agency-as-a-transferable-concepts.)
+            -   [Types of agency?
+                Specialism](#types-of-agency-specialism)
+        -   [Structural elements of
+            pedagogy](#structural-elements-of-pedagogy)
+            -   [REEPP recap & GDPs as a gateway
+                framework](#reepp-recap-gdps-as-a-gateway-framework)
+            -   [CCRREEPP pedagogy as a synthesis of the strands
+                explored in this
+                research.](#ccrreepp-pedagogy-as-a-synthesis-of-the-strands-explored-in-this-research.)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
-            -   [Harbours as both protective and
-                authentic](#harbours-as-both-protective-and-authentic)
-            -   [Spaces to play - playgrounds and jam
-                sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-            -   [GDPs as a gateway pedagogical
-                framework](#gdps-as-a-gateway-pedagogical-framework)
-        -   [Second area of contribution to the research in the field: A
-            complex view of agency and repertoires development AND the
-            value of that to contribute to research on DBR / FI
-            etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
-            -   [The value of designing for shifting forms agency as a
-                transferrable
-                concepts.](#the-value-of-designing-for-shifting-forms-agency-as-a-transferrable-concepts.)
-            -   [Types of agency?
-                Specialism](#types-of-agency-specialism)
-            -   [Summary of discussion on designing for
-                agency](#summary-of-discussion-on-designing-for-agency)
-            -   [Contribution to the research in the field: The impact
-                of the DBR /
-                FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
+            -   [Harbours as structures and staging posts facilitating
+                transformational
+                movement](#harbours-as-structures-and-staging-posts-facilitating-transformational-movement)
+            -   [Jamming in music sessions](#jamming-in-music-sessions)
+        -   [Summary of this section](#summary-of-this-section)
+            -   [Summary on discussion on designing for
+                agency](#summary-on-discussion-on-designing-for-agency)
+        -   [Theoretical / research based area of contribution to the
+            research in the field: A complex view of agency and
+            repertoires development AND the value of that to contribute
+            to research on DBR / FI etc. MOVED BELOW / NEXT
+            CHAPTER](#theoretical-research-based-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.-moved-below-next-chapter)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
+        -   [Contribution to the research in the field: The impact of
+            the DBR /
+            FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
     -   [Notes - MOVED TO THE END FOR
