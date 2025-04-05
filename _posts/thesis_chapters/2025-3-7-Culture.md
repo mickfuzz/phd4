@@ -556,20 +556,7 @@ However this research contends that GDPs are a more suitable accessible  framewo
 <!-- As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
  -->
 
-### Reframing use of GDPs from intermediate-level knowledge to a gateway framework
 
-MOVE LATER? AND DEVELOP WITH REFERENCE TO SOCIAL AIMS TOO?
-Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of its position within a hierarchy.
-
-Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements.
-
-Firstly, the process guides learners to use GDPs as their primary leading activity or object of activity (using CHAT terminology).
-
-Secondly, a working code framework or template is provided with affordances strongly coupled with object output, providing immediate feedback.
-
-Thirdly, just-in-time supporting resources are provided, closely aligned to the sub-goals of GDPs. Finally, this gateway framework may also facilitate reflection on its use, and reinforcement of this process can be structured using supporting tools, such as a learning map (see appendix.learningmap for an example in P4).
-
-In the previous analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting. The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
 
 #### Recap is GDPS a good framework or what? - PERHAPS MOVE TO CHAPTER END?
 
@@ -1205,12 +1192,32 @@ The live chat process started unintentionally as one child was left to their own
 Recalling the structural elements REEPP
 
 THEN
+
+About choice for facilitator?
+
 **GDPs as a gateway pedagogical framework**
 
 I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
 
 ![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/gateway_fr.png){width=95%}
 
+
+**Reframing use of GDPs from intermediate-level knowledge to a gateway framework**
+
+MOVE LATER? AND DEVELOP WITH REFERENCE TO SOCIAL AIMS TOO?
+Given the shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of its position within a hierarchy.
+
+Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements.
+
+MOVE OR REFRAME THE FOLLOWING -
+
+Firstly, the process guides learners to use GDPs as their primary leading activity or object of activity (using CHAT terminology).
+
+Secondly, a working code framework or template is provided with affordances strongly coupled with object output, providing immediate feedback.
+
+Thirdly, just-in-time supporting resources are provided, closely aligned to the sub-goals of GDPs. Finally, this gateway framework may also facilitate reflection on its use, and reinforcement of this process can be structured using supporting tools, such as a learning map (see appendix.learningmap for an example in P4).
+
+In the previous analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting. The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
 
 #### CCRREEPP pedagogy as a synthesis of the strands explored in this research.
 
