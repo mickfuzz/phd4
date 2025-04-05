@@ -1171,11 +1171,13 @@ The previous sections have explored a complex and multi-faceted view of particip
 <!-- I do brand it , and provide useful contributions in concrete instances of work -->
 
 
-#### Harbours as both protective and authentic
+#### Harbours as structures and staging posts facilitating transformational movement  
 
-The intrigue of opening up previously mysterious areas and seeing or experimenting with what makes them tick, often referred to as looking under the hood, applies here in the early stages of the learning experience. The process of clicking remix to fix a broken, half-baked game involves entering unfamiliar and potentially exciting waters. However, the motivational impact of an authentic process and set of tools must be balanced by possible accompanying complexity [@nachtigall_authenticity_2024].
+**both protective and authentic**
 
 Harbours are protective spaces suitable for docking ships. They may be natural or designed. If designed, protection is offered by artificially created harbour walls extending out into the sea, creating a sheltered space, preventing large waves from entering but also allowing movement out into the open sea. Harbours provide the possibility for refuelling or maintaining sea vessels and infrastructure to connect to rail or road links for transport inland. The term harbour is used metaphorically to indicate a space of safety, nurturing, and a gathering space f
+
+The intrigue of opening up previously mysterious areas and seeing or experimenting with what makes them tick, often referred to as looking under the hood, applies here in the early stages of the learning experience. The process involves entering unfamiliar and potentially exciting waters. However, the motivational impact of an authentic process and set of tools must be balanced by possible accompanying complexity [@nachtigall_authenticity_2024].
 
 
 <!-- SUMMARISE - MOVE EXTRA / EXAMPLES UP TO THE FIRST SECTION - FIND A GOOD PLACE FOR IT. -->
@@ -1203,14 +1205,19 @@ CH.5 -->
 
 
 
-#### Spaces to play - playgrounds and jam sessions
+#### Jamming in music sessions
 
 <!-- The freedoms and restrictions of playgrounds -->
 
-A similar metaphorical dimension of protection is present in metaphors of play spaces, a link which is immediately present in this design in the use of code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space. Similarly, the term sandbox is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes. As with harbours, a space of play space evokes protection within designed limitations [@rosso_creativity_2014], but beyond that they provide affordances to encourage learners to evolve their own play processes as a form of transformational and relational agency. The concept of musical play within jam sessions is a productive way to explore this tension between freedom and structure.
+A similar metaphorical dimension of protection is present in metaphor of the process of improvised elements of music playing (jamming).
 
+The link to play a link which is immediately present in this design in the use of code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Similarly, the term sandbox is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes.
+Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space.  
 
-In the previous chapter, I explored the flexible nature of emerging design behaviours and proposed them as a form of improvisation or jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators' ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. The area of improvisation is underexplored in the game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. The following section makes a closer parallel in the context of the data of this study.
+The jam process also evokes protection within designed limitations [@rosso_creativity_2014], but beyond that they provide affordances to encourage learners to evolve their own play processes as a form of transformational and relational agency. The concept of musical play within jam sessions is a productive way to explore this tension between freedom and structure.
+
+In the previous chapter/LR , I explored the flexible nature of emerging design behaviours and proposed them as a form of improvisation or jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators' ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
+
 
 On a macro-level, at a jam event, infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro-level is an introduced, familiar framework, restricted in that it is based on a familiar, popular song (often referred to as standards), within agreed genres (most often blues and jazz). The short structure of a song and the key in which it is performed form a base guiding improvisation. Within a jam process, bringing your own style to build on that structure is welcomed. The process is augmented by the group element of the musical jam, where music makers pick up techniques from others in the process. Visual and verbal encouragement is often present in successful jam nights to encourage newcomers. If a jam session is regular, local popular standard songs emerge. This provides opportunities to hear them played regularly, allows potential participants to hear them versioned before entering, a useful form of peripheral participation.
 
@@ -1221,6 +1228,9 @@ Several parallels to the design and processes in my research exist. The half-bak
 ADD MORE HERE IF RELEVANT.
 
 The following table serves as a visual summary of some of the relevant space/place based characteristics relevant to the importance of this research.
+
+
+
 
 <!-- THIS TABLE NEEDS TO BE COMPLETED - FEEDBACK IS APPRECIATED AS TO HOE USEFUL IT WILL /MAY BE -->
 
