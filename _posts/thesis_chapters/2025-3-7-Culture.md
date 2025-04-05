@@ -734,6 +734,29 @@ At this point we can readdress one of the gaps addressed by the problem statemen
 
 It concludes by proposing that understandings of CGD&P pedagogies can be enriched in two dimensions, firstly in design and secondly in a deeper theoretical understanding of concepts of agency development.  
 
+
+_Shifting forms of agency_
+Returning to the dilemma regarding the difficulty of maintaining a learning design requiring heroic levels of transformational agency, and the difficulty of replicating such conditions,
+While there is clearly value in TADS as a concept in early stages of design, in particular as analytical tool, I lean more towards Gutiérrez's framing of equity and diversity in learning design overall as a goal to work towards.
+
+The discussion above concerning shifting forms of agency can be developed further using the concepts from Gutierrez and Rogoff.
+
+Specifically,  to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
+
+Given the mutuality of the DBR approach of the research process, and the development of relational equity in the process of specialisation [Gutierrez], the process aligns with a utopian approach to design research
+
+
+**Gap in research in designing for agency**
+
+Existing concepts of computational, technological, and gaming fluency within constructionism are contain limitations.
+
+Firstly, the fracturing of varied forms of fluency dependant of different domains, shift focus to the domain specific context, and use of tools involved rather than the underlying commonalities of the evolving community experience. Thus I propose a socio-cultural view of participant agency as a  candidate to design for than domain fluency.
+
+Secondly, the potentially individualised approach as surfaced by Vossoughi []. This research frames agency as a group process rather than an individual attribute. It has surfaced dimensions of agency including fluidity of technical practice, and expressive, relational characteristics of an emerging inclusive, idioculture.
+
+There is a challenge in communicating the value of this framing of the research to practitioners.
+
+
 <!-- It concludes by proposing that understandings of CGD&P pedagogies can be enriched in two dimensions, firstly in design and secondly in a deeper theoretical understanding of concepts of agency development.   -->
 
 
@@ -985,6 +1008,9 @@ This strand of thought also invites an theoretical examination of the value of i
 
 The invitation to play, can be seen as a familiar  affordance leading to more unfamiliar territory. A helping process in blending through opening a door to a new collaborative zone of proximal development.
 
+
+
+
 <!-- ---
 The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
 and extends the research in the area of non-formal exploration of tech by providing a guiding framework using design patterns.
@@ -1014,13 +1040,19 @@ In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narra
 
 #### LINK? Issues of cultural inclusion via design
 
+**Concluding remarks on identity formation**
+
+Given the possibilities for participants, in particular children to develop specialism which allow them to share their expertise with adults, can be interpreted as demonstrations of concrete instances of diversity and  equity within the overall relational agency present in the learning environment.
+AND as evolving norms of the activity system idioculture.
+
+**on inclusion**
 There are aspects of inclusion here inherrent in the design.
 
 What is the relation ship with this approach and  culturally responsive computing?
 
 In terms of overall approach, in line wiht Gutiérrez's framing of utopian methods, the concept of equity and diversity here is present not as an aspiration, but as a concrete process and mechanism via the explicity design for repertoire blending described above.
 
-As such there are parallels with the UDL's approach to designing for inclusion. Inclusion is not active in the design, it is baked into the affordances and possibility for diverse forms of expression and x and y. 
+As such there are parallels with the UDL's approach to designing for inclusion. Inclusion is not active in the design, it is baked into the affordances and possibility for diverse forms of expression and x and y.
 
 
 
@@ -1074,15 +1106,6 @@ This metaphor serves to illustrate the importance of and possibilities for devel
 In this section, I propose a contribution to pedagogies developing  concepts technological or computational fluency [@resnick_coding_2020; @papert_technological_1995].
 
 
-**Gap in research in designing for agency**
-
-Existing concepts of computational, technological, and gaming fluency within constructionism are contain limitations.
-
-Firstly, the fracturing of varied forms of fluency dependant of different domains, shift focus to the domain specific context, and use of tools involved rather than the underlying commonalities of the evolving community experience. Thus I propose a socio-cultural view of participant agency as a  candidate to design for than domain fluency.
-
-Secondly, the potentially individualised approach as surfaced by Vossoughi []. This research frames agency as a group process rather than an individual attribute. It has surfaced dimensions of agency including fluidity of technical practice, and expressive, relational characteristics of an emerging inclusive, idioculture.
-
-There is a challenge in communicating the value of this framing of the research to practitioners.
 
 <!-- Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it. -->
 
@@ -1318,7 +1341,7 @@ The final chapters aims to address this with  recommendations for facilitators a
 
 
 
-While the core theoretical framework of CHAT has been extremely useful in exposing important element of this research in flexible ways, this research raises important questions which are still in the process of being advanced in terms of suitable methodology.  Conceptions of both CHAT and DBR are still evolving. For example, AT proponents are advancing a 4th generation which responds to increasingly rapid and evolving situations [@engestrom_mediated_2021]. As a early career research and novice I cautiously advance some observations, at times framed as questions which may be fruitful in future interaction with DBR and FI research community.
+While the core theoretical framework of CHAT has been extremely useful in exposing important element of this research in flexible ways, this research raises important questions which are still in the process of being advanced in terms of suitable methodology.  Cgap in onceptions of both CHAT and DBR are still evolving. For example, AT proponents are advancing a 4th generation which responds to increasingly rapid and evolving situations [@engestrom_mediated_2021]. As a early career research and novice I cautiously advance some observations, at times framed as questions which may be fruitful in future interaction with DBR and FI research community.
 
 1. How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice?
 
@@ -1333,22 +1356,10 @@ TO INTEGRATE
 The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
 
 
-**Agency / Equity Terms - utopian concepts**
-
-_Shifting forms of agency_
-Returning to the dilemma regarding the difficulty of maintaining a learning design requiring heroic levels of transformational agency, and the difficulty of replicating such conditions,
-While there is clearly value in TADS as a concept in early stages of design, in particular as analytical tool, I lean more towards Gutiérrez's framing of equity and diversity in learning design overall as a goal to work towards.
-
-The discussion above concerning shifting forms of agency can be developed further using the concepts from Gutierrez and Rogoff.
-
-Specifically,  to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
-
-Given the mutuality of the DBR approach of the research process, and the development of relational equity in the process of specialisation [Gutierrez], the process aligns with a utopian approach to design research
 
 
-**equity and diversity as concrete instances with the learning environment**
 
-Given the possibilities for participants, in particular children to develop specialism which allow them to share their expertise with adults, this invites further investigation of relational equity as a particular form of relational agency. This potential is explored in the conclusion.
+gap in
 
 
 <!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
