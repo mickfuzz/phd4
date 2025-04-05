@@ -914,6 +914,8 @@ and more professional knowledge brought by Dan.
 
 One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces.
 
+HOW WAS THIS ASPECT NURTHERED IN STRUCTURAL DESIGN?
+
 **Helping styles and other forms of division of labour**
 
 Barron's helping roles [@barron_parents_2009], Roque [@roque_family_2016; @roque_im_2016] employed supporting facilitators to highlight and celebrate the helping processes parents used to support children in a making environment.
@@ -928,7 +930,19 @@ home pedagogies like paper based sketching
 Knowledge to support literacy and attention management from S & T
 
 
+Addressing reflection as a practice, in P2, I guided supporting student facilitators to ask what patterns participants were currently working on or had recently completed as a way of provoking informal reflection on project progress (see Vignette 2 & ?). Additionally in P3, a drama process was used to structure end of session reflections (see Vignette 10)
+
+
+RECAP.
+This process of accessing existing reportoirs in a new space is a good example of relational agency, in that ...
+
+Back to RQ3, they can be identified through close observation, and then nurtured.
+
+RECAP ON HOW THEY WERE NURTURED?
+
 Bearing in mind a distinction between integration and inclusion, where integration sees practices remain relatively unchanged [@rodriguez_inclusion_2015], in these examples a distinction between the importation of existing competencies and interests as repertoires and the emergence of new ones can easily be blurred. In the next section the formation of distinctly novel repertoires are explored.
+
+
 
 ### Emerging identity formation (via specialisation &  ?)
 
