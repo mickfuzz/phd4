@@ -885,11 +885,11 @@ One key observation of this research is the role of playtesting activity in this
 
 <!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
 
-### Movement of repertoires between spaces, via integration
+### Movement of repertoires between spaces, via integration of funds of knowledge and division of labour practices
 
 This section examines examples of integration of existing practices within the emerging  culture of the game making programme.
 
-**repertoires in practice (FOk) practices, Dol and helping styles**
+**of (FOk) practices, Dol and helping styles**
 
 Following Gutiérrez's [-@gutierrez_developing_2008; -@gutierrez_learning_2019-1] concept of learning as movement between spaces, key observation from the data of the previous chapter can be reframed as repertoires that existed on other activity systems and its impact on learning activity in .
 
@@ -1079,9 +1079,6 @@ The role of the emerging culture and identity of the idioculture  is developed i
 ### Gaps in research
 
 
-
-
-
 ### Designing for shifting forms of  agency
 
 In the introduction I outlined that a driving motivation of this research was to better understand chaotic learning environments, of which P1 is an example. Given this draw to conditions of TA, such shifting forms of agency could create a resulting tension.
@@ -1094,7 +1091,7 @@ Also, not everyone like messy / sketchy pedagogies, there is a danger that  leve
 
 
 
-##### The value of designing for shifting forms agency as a transferrable concepts.
+##### The value of designing for shifting forms agency as a transferable concepts.
 
 <!--
 At this stage is relevant to return to issues of underlying  motivation driving participation as a way of making a link to existing research on digital making pedagogy.
@@ -1124,7 +1121,8 @@ It can be seen through the lens of double stimulation. The choice to specialise,
 
 Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
 
-
+Given the interpretation her that TA is more structural in Nature? can this be framed as RADS relational agency via double stimulation.
+OR IS THIS DAFT  / DROP THE THREAD OF COMPARING.
 
 
 <!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
@@ -1148,10 +1146,12 @@ THEN
 
 I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
 
-
-
 ![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/gateway_fr.png){width=95%}
 
+
+#### CCRREEPP pedagogy as a synthesis of the strands explored in this research.
+
+There is a value of attempting to integrate the holistic approach outlined in this research by unifying the strands of part one and part two of this chapter. To do this the structural element of the REEPP framework would need to be augmented with the socio-cultural elements explored in part two. To do this, I propose the complex but logical acronym: collaborative, culturally responsive remix enabled elective pattern patching (CCRREEPP). In this cultural context the process of patching also references the process of repertoire blending outlined above.
 
 
 
@@ -1264,18 +1264,7 @@ The concepts of affective space and magic circle  as a way to encourage particip
 or examples see the book , a
 The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail. -->
 
-
-
-
-
 ### Summary of this section
-
-
-#### CCRREEPP pedagogy as a synthesis of the strands explored in this research.
-
-There is a value of attempting to integrate the holistic approach outlined in this research by unifying the strands of part one and part two of this chapter. To do this the structural element of the REEPP framework would need to be augmented with the socio-cultural elements explored in part two. To do this, I propose the complex but logical acronym: collaborative, culturally responsive remix enabled elective pattern patching (CCRREEPP). In this cultural context the process of patching also references the process of repertoire blending outlined above.
-
-
 
 
 #### Summary on discussion on designing for agency
@@ -1293,9 +1282,7 @@ Beyond that element of choice, development of relational agency is a part of the
 My proposal is that this research supports a view that the above techniques align with x and thus an excellent candidate to address gaps in reseach in the field of CGD&P
 
 
-### Theoretical / research based area of contribution to the research in the field:  MOVE TO CONLCUSION
-
-##### A complex view of agency and repertoires development AND the value of that to contribute to research on DBR / FI etc.
+### Theoretical / research based area of contribution to the research in the field:  A complex view of agency and repertoires development AND the value of that to contribute to research on DBR / FI etc. MOVED BELOW / NEXT CHAPTER
 
 <!-- - Addressing gaps in the research - The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
 - Also, as agency is seen beyond a individualised property, as participation in a community - as such computational fluency should also be challenged as a individualised approach.
@@ -1340,8 +1327,11 @@ The final chapters aims to address this with  recommendations for facilitators a
 <!-- https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455 -->
 
 
+TO INTEGRATE
+The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
 
-While the core theoretical framework of CHAT has been extremely useful in exposing important element of this research in flexible ways, this research raises important questions which are still in the process of being advanced in terms of suitable methodology.  Cgap in onceptions of both CHAT and DBR are still evolving. For example, AT proponents are advancing a 4th generation which responds to increasingly rapid and evolving situations [@engestrom_mediated_2021]. As a early career research and novice I cautiously advance some observations, at times framed as questions which may be fruitful in future interaction with DBR and FI research community.
+
+While the core theoretical framework of CHAT has been extremely useful in exposing important element of this research in flexible ways, this research raises important questions which are still in the process of being advanced in terms of suitable methodology.  Conceptions of both CHAT and DBR are still evolving. For example, AT proponents are advancing a 4th generation which responds to increasingly rapid and evolving situations [@engestrom_mediated_2021]. As a early career research and novice I cautiously advance some observations, at times framed as questions which may be fruitful in future interaction with DBR and FI research community.
 
 1. How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice?
 
@@ -1351,9 +1341,6 @@ While the core theoretical framework of CHAT has been extremely useful in exposi
 
 4. How best can socio-cultural approaches be aligned with constructionist legacy. Is my approach of x, fruitful in other areas?
 
-
-TO INTEGRATE
-The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
 
 
 
