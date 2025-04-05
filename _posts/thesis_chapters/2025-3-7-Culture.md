@@ -1166,7 +1166,7 @@ There is a value of attempting to integrate the holistic approach outlined in th
 
 **Structural**
 
-| Characteristics | Design Example |
+| <div style="width:200px">Characteristics</div>  | Design Example |
 |-----------------|----------------|
 |  Protection from code complexity via technical limitations  |  Example: choice of use of phaser a game library,</br> use of a code playground programming environment,</br> another?  |
 | Restrictions in genre of template used to recognisable ones to access tacit structural knowledge | Use of a 2d platformer as game genre.  |
