@@ -1230,6 +1230,7 @@ There is a value of attempting to integrate the holistic approach outlined in th
 
 | <div style="width:200px">Characteristics</div>  | Design Example |
 |-----------------|----------------|
+| Use of an authentic tool set and code language allows practices to be imported from professional communities  | Use of the  console for debugging by Dan and Toby  |
 |  Protection from code complexity via technical limitations  |  Example: choice of use of phaser a game library,</br> use of a code playground programming environment,</br> another?  |
 | Restrictions in genre of template used to recognisable ones to access tacit structural knowledge | Use of a 2d platformer as game genre.  |
 | Choice from a selection of possible learner pathways to reduce participant stress and limit the scope of resources creation | Use of a collection of GDPs  |
@@ -1257,7 +1258,14 @@ Table 7.x Non - Metaphors to explore characteristics of designing for participan
 
 ### Metaphors as a way to communication dimensions of agency design concerns
 
-The previous sections have explored a complex and multi-faceted view of participant agency in this learning design. Before undertaking a fuller summary in the final section of this chapter, this section reinterprets some of these aspects using a metaphorical approach. The use of metaphor here has two functions. The first is to help deepen my analysis via a move to the abstract, searching for communicable generalisations. Secondly, given the multi-faceted nature of the pedagogy, and bearing in mind previous reflections on the value of an utopian approach to communicating the future possibilities of findings [@rajala_utopian_2023; @gutierrez2020utopian] paired with the conceptual difficulties of communicating complex pedagogical affordances of adaptable media-making toolsets (e.g., Logo and Microworlds [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1]), I draw on metaphors as a framing tool to present an initially simplified viewpoint for further discussion. The discussion will draw from these metaphors' relatable core principles to aid the accessibility of this research for an audience of practitioners as well as researchers.
+The previous sections have explored a complex and multi-faceted view of participant agency in this learning design. Before undertaking a fuller summary in the final section of this chapter, this section reinterprets some of these aspects using a metaphorical approach. The use of metaphor here has two functions. The first is to help deepen my analysis via a move to the abstract, searching for communicable generalisations. Secondly, given the multi-faceted nature of the pedagogy, and bearing in mind previous reflections on the value of an utopian approach to communicating the future possibilities of findings [@rajala_utopian_2023; @gutierrez2020utopian] paired with the conceptual difficulties of communicating complex pedagogical affordances of adaptable media-making toolsets (e.g., Logo and Microworlds [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1]),
+
+Metaphors can be rich, memorable and easier to communicate ideas that exist at the intermediate level explored in parts of this chapter [@hook_strong_2012]. This is bore in out in the success of the design heuristics of Resnick and Papert of wide walls low floors.
+
+THIS HAS CHANGED ? DROP? TABLE IS ABOVE
+I draw on metaphors as a framing tool to present an initially simplified viewpoint for further discussion. The discussion will draw from these metaphors' relatable core principles to aid the accessibility of this research for an audience of practitioners as well as researchers.
+
+
 
 
 <!-- In this case metaphors concerning learning spaces and movement between spaces are often found in existing research including: walled gardens, playgrounds, sandboxes, harbours. -->
@@ -1275,25 +1283,28 @@ The previous sections have explored a complex and multi-faceted view of particip
 
 **both protective and authentic**
 
-Harbours are protective spaces suitable for docking ships. They may be natural or designed. If designed, protection is offered by artificially created harbour walls extending out into the sea, creating a sheltered space, preventing large waves from entering but also allowing movement out into the open sea. Harbours provide the possibility for refuelling or maintaining sea vessels and infrastructure to connect to rail or road links for transport inland. The term harbour is used metaphorically to indicate a space of safety, nurturing, and a gathering space f
+Harbours are protective spaces suitable for docking ships. They may be natural or designed. If designed, protection is offered by artificially created harbour walls extending out into the sea, creating a sheltered space, preventing large waves from entering but also allowing movement out into the open sea. Harbours provide the possibility for refuelling or maintaining sea vessels and infrastructure to connect to rail or road links for transport inland. The term harbour is used metaphorically to indicate a space of safety, nurturing, and a gathering space for marginal or specialist communities.
 
-The intrigue of opening up previously mysterious areas and seeing or experimenting with what makes them tick, often referred to as looking under the hood, applies here in the early stages of the learning experience. The process involves entering unfamiliar and potentially exciting waters. However, the motivational impact of an authentic process and set of tools must be balanced by possible accompanying complexity [@nachtigall_authenticity_2024].
-
-
-<!-- SUMMARISE - MOVE EXTRA / EXAMPLES UP TO THE FIRST SECTION - FIND A GOOD PLACE FOR IT. -->
+In terms of agency and choice over learner pathway, we can see that the safe nature of the harbour encourages free exploration within its area. There are limits to the rhizomatic nature of this exploration. The boundaries of the harbour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures used. Restrictions (e.g. in genre) can facilitate creative potential [@rosso_creativity_2014].
 
 
-While this design uses an authentic, professional text-coding language with its inherent challenges, many other design decisions in this study were made to create a supported, simplified coding environment. Relevant examples from the previous chapter include: using an online code playground; shielding learners from the underlying configuration of interrelated web technologies; removing or obscuring structural code complexity in the code template.
+While this design uses an authentic, professional text-coding language with its inherent challenges, many other design decisions in this study were made to create a supported, simplified coding environment.
+
+MOVE TO TABLE
+Relevant examples from the previous chapter include: using an online code playground; shielding learners from the underlying configuration of interrelated web technologies; removing or obscuring structural code complexity in the code template.
 
 <!--
 My design decision to build the toolset as structure on top of authentic tools and languages can be likened to creating a protective harbour to shield new users from the complexity of the underlying configuration of interrelated web-technologies and instead highlight design affordances that facilitate creative agency. -->
 
+MOVE SOME OF THIS UP TO TABLE
+
 The practice of starting from a template mirrors professional practice. The goal being to shield new users from the complexity of the underlying configuration of interrelated web technologies and instead highlight design affordances that facilitate creative agency. This strong alignment with authentic, professional practice may help learners transition from a supported harbour to venture out into the open seas of less supported research and practice.
 
+Learning to sail in a harbour, while protected still holds  a motivational excitement of being on the open seas.
+The intrigue of opening up previously mysterious areas and seeing or experimenting with what makes them tick, often referred to as looking under the hood, applies here in the early stages of the learning experience. However, the motivational impact of an authentic process and set of tools must be balanced by possible accompanying complexity [@nachtigall_authenticity_2024].
+
+
 An example of this being Toby and Dan in Vignette X. who, in their choice to change the game genre from platformer to maze game, leave the safety of a set of design patterns and paired support documentation. Instead, Toby must develop his code patching skills in choppier waters by accessing more authentic documentation and charting their own patterns in the open sea of internet-based resources. This is made possible by having an experienced navigator with him, in the form of a parent with relevant skills. I propose that the curated replication of authentic processes of finding and incorporating code snippets into the starting template supported the development of skills used in the authentic waters of professional coding communities.
-
-
-In terms of agency and choice over learner pathway, we can see that the safe nature of the harbour encourages free exploration within its area. There are limits to the rhizomatic nature of this exploration. The boundaries of the harbour walls represent the restrictive decisions in terms of the genre of end product, and simplifications in code structures used. The following section explores the restrictions (e.g. in genre) from a perspective of the creative potential of such limitations [@rosso_creativity_2014].
 
 
 
@@ -1309,20 +1320,25 @@ CH.5 -->
 
 <!-- The freedoms and restrictions of playgrounds -->
 
-A similar metaphorical dimension of protection is present in metaphor of the process of improvised elements of music playing (jamming).
 
-The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype]. Thus, I now explore the tools, process and the community in this study mutually encourage an flexible approach often referred to as _jamming_. As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),
+
+Elements of protection and restriction exist the process of learning to play music collaboratively (jamming) within community music jams. Jamming, a term common in music and theatre, describes responsive, improvised, and fluid responses to collaborators' ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. These spaces can be seen as supportive and relatively safe for novice musicians looking to develop collaborative and improvisational skills desirable in being a musician
+
+**Structural elements scaffolding jamming as a process**
+
+On a macro-level, at a jam event, infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro-level is an introduced, familiar framework, restricted in that it is based on a familiar, popular song (often referred to as standards), within agreed genres (most often blues and jazz). The short structure of a song and the key in which it is performed form a base guiding improvisation.
+
+The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype].
+
+MOVE - CHECK ?
+As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),
+
+I now summarise relevant community processes that represent or facilitate agency development within in this study using the procedural metaphor of jamming.
 
 The link to play a link which is immediately present in this design in the use of code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Similarly, the term sandbox is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes.
 Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space.  
 
 The jam process also evokes protection within designed limitations [@rosso_creativity_2014], but beyond that they provide affordances to encourage learners to evolve their own play processes as a form of transformational and relational agency. The concept of musical play within jam sessions is a productive way to explore this tension between freedom and structure.
-
-In the previous chapter/LR , I explored the flexible nature of emerging design behaviours and proposed them as a form of improvisation or jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators' ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
-
-**Structural elements scaffolding jamming as a process**
-
-On a macro-level, at a jam event, infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro-level is an introduced, familiar framework, restricted in that it is based on a familiar, popular song (often referred to as standards), within agreed genres (most often blues and jazz). The short structure of a song and the key in which it is performed form a base guiding improvisation.
 
 
 CONSTRAINTS IN DESIGN?
@@ -1341,9 +1357,9 @@ Within a jam process, bringing your own style to build on that structure is welc
 Several parallels to the design and processes in my research exist. The half-baked game template can be seen as a shared song framework that participants build on in idiosyncratic ways. The value of a process that incorporates an authentic audience made up partly of peer makers is important for the development of repertoires of practice in both contexts. The value of the possibility to blend established repertoires with those brought by new players is a shared contextual motivation.
 
 
-ADD MORE HERE IF RELEVANT.
+<!-- ADD MORE HERE IF RELEVANT.
 
-The following table serves as a visual summary of some of the relevant space/place based characteristics relevant to the importance of this research.
+The following table serves as a visual summary of some of the relevant space/place based characteristics relevant to the importance of this research. -->
 
 
 
@@ -1358,13 +1374,13 @@ The following table serves as a visual summary of some of the relevant space/pla
 Table 7.x Metaphors to explore characteristics of designing for participant agency -->
 
 
-|  | Characteristics | Design Example |
+<!-- |  | Characteristics | Design Example |
 |----|-------------|----------------|
 |Harbour|  Protection from complexity via technical limitations  |  Example: choice of use of phaser a game library.  |
 | Jamming |  Restrictions in genres to recognisable ones | Use of a 2d platformer as game genre.  |
 | Jamming & Harbour |  Example characteritic | Example two.  |
 
-Table 7.x Metaphors to explore characteristics of designing for participant agency
+Table 7.x Metaphors to explore characteristics of designing for participant agency -->
 
 <!-- Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. -->
 
@@ -1408,7 +1424,6 @@ Beyond that element of choice, development of relational agency is a part of the
 My proposal is that this research supports a view that the above techniques align with x and thus an excellent candidate to address gaps in reseach in the field of CGD&P
 
 
-### Theoretical / research based area of contribution to the research in the field:  A complex view of agency and repertoires development AND the value of that to contribute to research on DBR / FI etc. MOVED BELOW / NEXT CHAPTER
 
 <!-- - Addressing gaps in the research - The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
 - Also, as agency is seen beyond a individualised property, as participation in a community - as such computational fluency should also be challenged as a individualised approach.
@@ -1430,6 +1445,9 @@ As this chapter is ongoing this conclusion is in draft form. Feedback on what to
 - the place of this chapter in the narrative of the thesis
 - the limitations or questions arising that may be addressed in the following chapter.
 -
+
+Additionally, a theoretical / research based area of contribution to the research in the field:  A complex view of agency and repertoires development AND the value of that to contribute to research on DBR / FI etc. MOVED BELOW / NEXT CHAPTER
+
 
 
 **limitations/ further work**
