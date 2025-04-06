@@ -1311,6 +1311,8 @@ CH.5 -->
 
 A similar metaphorical dimension of protection is present in metaphor of the process of improvised elements of music playing (jamming).
 
+The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype]. Thus, I now explore the tools, process and the community in this study mutually encourage an flexible approach often referred to as _jamming_. As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),
+
 The link to play a link which is immediately present in this design in the use of code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Similarly, the term sandbox is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes.
 Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space.  
 
@@ -1318,8 +1320,22 @@ The jam process also evokes protection within designed limitations [@rosso_creat
 
 In the previous chapter/LR , I explored the flexible nature of emerging design behaviours and proposed them as a form of improvisation or jamming. Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators' ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003].
 
+**Structural elements scaffolding jamming as a process**
 
-On a macro-level, at a jam event, infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro-level is an introduced, familiar framework, restricted in that it is based on a familiar, popular song (often referred to as standards), within agreed genres (most often blues and jazz). The short structure of a song and the key in which it is performed form a base guiding improvisation. Within a jam process, bringing your own style to build on that structure is welcomed. The process is augmented by the group element of the musical jam, where music makers pick up techniques from others in the process. Visual and verbal encouragement is often present in successful jam nights to encourage newcomers. If a jam session is regular, local popular standard songs emerge. This provides opportunities to hear them played regularly, allows potential participants to hear them versioned before entering, a useful form of peripheral participation.
+On a macro-level, at a jam event, infrastructure in terms of drums, microphones and amps are provided often by established regulars of the process. A jam on a micro-level is an introduced, familiar framework, restricted in that it is based on a familiar, popular song (often referred to as standards), within agreed genres (most often blues and jazz). The short structure of a song and the key in which it is performed form a base guiding improvisation.
+
+
+CONSTRAINTS IN DESIGN?
+While supporting a flexible learner pathway is vital to this approach, the value of restrictions to creativity are also important here. The restricted genre, pixel art format and templated approach act not only as technical  scaffolds but also aligns with research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama.
+
+
+
+MOVE LATER / CONCLUSION
+The characteristics described above offer a contribution to the literature on Game Jam pedagogy and learning design of this study offers greater scaffolding to the process to facilitate the process of jamming as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003].
+
+**Bring your own style.**
+
+Within a jam process, bringing your own style to build on that structure is welcomed. The process is augmented by the group element of the musical jam, where music makers pick up techniques from others in the process. Visual and verbal encouragement is often present in successful jam nights to encourage newcomers. If a jam session is regular, local popular standard songs emerge. This provides opportunities to hear them played regularly, allows potential participants to hear them versioned before entering, a useful form of peripheral participation.
 
 
 Several parallels to the design and processes in my research exist. The half-baked game template can be seen as a shared song framework that participants build on in idiosyncratic ways. The value of a process that incorporates an authentic audience made up partly of peer makers is important for the development of repertoires of practice in both contexts. The value of the possibility to blend established repertoires with those brought by new players is a shared contextual motivation.
@@ -2042,13 +2058,3 @@ And get wider in application to broader approaches of pbl  and research processe
 
 
 <!-- This decreased need for secondary documentation minimises the possibility for task / tool mismatch.  As outlined above, to avoid the barriers experienced when searching authentic, developer-focused documentation and the support forums, I created  bespoke code examples in an online collection. -->
-
-### 6. The impact of constraints in design on agency - NOT SURE  -MOVE to concluson?
-
-CONSTRAINTS IN DESIGN?
-While supporting a flexible learner pathway is vital to this approach, the value of restrictions to creativity are also important here. The restricted genre, pixel art format and templated approach act not only as technical  scaffolds but also aligns with research on the value of constraints in facilitating rapid creative improvisation in the areas of music and drama.
-
-The domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype]. Thus, I now explore the tools, process and the community in this study mutually encourage an flexible approach often referred to as _jamming_. As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),
-
-MOVE LATER / CONCLUSION
-The characteristics described above offer a contribution to the literature on Game Jam pedagogy and learning design of this study offers greater scaffolding to the process to facilitate the process of jamming as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003]. This strand is developed in the following chapter.
