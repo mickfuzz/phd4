@@ -901,7 +901,7 @@ HOW WAS THIS ASPECT NURTHERED IN STRUCTURAL DESIGN?
 
 **Helping styles and other forms of division of labour**
 
-Barron's helping roles [@barron_parents_2009], Roque [@roque_family_2016; @roque_im_2016] employed supporting facilitators to highlight and celebrate the helping processes parents used to support children in a making environment.
+Barron's helping roles [@barron_parents_2009], Roque [@roque_family_2016; @roque_im_2016] employed supporting facilitators to highlight and celebrate the helping processes parThe domains of programming, game jams and hackathons also use constraints in a similar way [@gabler2005prototype]. Thus, I now explore the tools, process and the community in this study mutually encourage an flexible approach often referred to as _jamming_. As explored in Chapter 2 existing research suggests that Game Jams can be profitably used in education contexts [@aurava_game_2021], although there is no agreement on the characteristics game jam pedagogy, and scant guidance on how to address potentially problematic issues (list these),ents used to support children in a making environment.
 
 All of these these roles are illustrated in varied forms in the data.
 WHERE IS THIS SHOWN? HOW RELEVANT? JUSTIFY LEVEL IT IS EXPLORED.
@@ -954,13 +954,20 @@ Playtesting played a role in the surfacing and opportunities for this specialism
 Playtesting acted as a stimulus and incubator for emerging socio-cultural practices prompting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
 
 
-Addressing issues of motivation and positive affect, the role of play as leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning.
 
-Thus in the following section playtesting is explored  not only as a productive, evaluative design stage, but as a space to host other playful activities.
 
-I observed bother initial styles and evolutions of the form and function of playtesting by  participants.
+
+Addressing issues of motivation and positive affect, the role of play as leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning. I observed bother initial styles and evolutions of the form and function of playtesting by  participants. Thus in the following section playtesting is explored  not only as a productive, evaluative design stage, but as a space to host other playful activities.
+
+
+Playtesing provides many leverage points to facilitating learner agency and discuss the limits of designs.
+
+
 
 Some participants refrained from extensive testing of other games, waiting for others to test their games and observing their responses. Others were very social in their playtesting approach. Madiha making very positive comments on design of player characters and building relations in that way. The last chapter showed that some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process.  
+
+Playtesting is a process that allows participants to demonstrate informed criticality as a player and guide the creations of peers via gameplay feedback.
+The process of norming was explored in Chapter 6 where participants familiar with conventions of the target game genre would nudge other participants to follow them in diverse ways. This marks a form of identity development which while perhaps not a specialism is a role of informed feedback.
 
 Some children added additional playful elements to playtesting (see Appendix.playtestingtypes).  Playtesting surfaced design practices which involved a playing against game design norms of the genre.
 

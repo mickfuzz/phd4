@@ -957,7 +957,7 @@ Educational Game Jams share share similar motivations to game competitions. Game
 The Moveable Game Jam [@games_for_change_get_2017], a process created a collective of New York educators, can be situated on the playful side of the spectrum. To address some of the inclusivity concerns with the format adaptations have been made. MGJ can be applied in a shorter time-frame, emphasises low-cost and both digital and analogue offline game production. It uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals.  The motivation is to communicate fundamentals concepts of game design process to participants, in particular, the following interrelated game elements; space, goal, components, mechanics and rules.  [LOCATE THIS SOURCE],  To achieve this there is periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
 
 
-The area of improvisation is underexplored in the game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. 
+The area of improvisation is underexplored in the game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
 
 
 
@@ -1073,6 +1073,9 @@ This research aims in part to explore to what extent my own interest in chaotic,
 - Description on  how the RQs frame the problem to help an investigation via the data gathered. -->
 
 This section gives a further overall synthesis of the problems of the area based on Lit review that this study aims to address via the RQs.
+
+One premise driving my exploration of the use of gameplay features in pedagogy is that the tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014]. 
+
 
 From the reviews of the field above, it is clear that game making processes in informal settings can benefit from more research involving novel pedagogies designed to develop learner agency and identity as game makers.
 
