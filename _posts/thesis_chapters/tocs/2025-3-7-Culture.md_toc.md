@@ -23,9 +23,6 @@
                     PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
         -   [Summary of the potential utility for several
             stakeholders](#summary-of-the-potential-utility-for-several-stakeholders)
-        -   [Reframing use of GDPs from intermediate-level knowledge to
-            a gateway
-            framework](#reframing-use-of-gdps-from-intermediate-level-knowledge-to-a-gateway-framework)
             -   [Recap is GDPS a good framework or what? - PERHAPS MOVE
                 TO CHAPTER
                 END?](#recap-is-gdps-a-good-framework-or-what---perhaps-move-to-chapter-end)
@@ -96,11 +93,6 @@
         -   [Summary of this section](#summary-of-this-section)
             -   [Summary on discussion on designing for
                 agency](#summary-on-discussion-on-designing-for-agency)
-        -   [Theoretical / research based area of contribution to the
-            research in the field: A complex view of agency and
-            repertoires development AND the value of that to contribute
-            to research on DBR / FI etc. MOVED BELOW / NEXT
-            CHAPTER](#theoretical-research-based-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.-moved-below-next-chapter)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [Contribution to the research in the field: The impact of
@@ -122,6 +114,3 @@
         -   [Questions and Conceptual challenges to dissemination - MOVE
             PERHAPS TO NEXT
             CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
-        -   [6. The impact of constraints in design on agency - NOT SURE
-            -MOVE to
-            concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
