@@ -137,13 +137,17 @@ Communities of practice - legitimate peripheral participation boundaries and bar
 <!-- While there are a range of valid theoretical approaches suited to this study. These include participatory design Muller, 2007), ethnography and guided participation,  communities of practice , Activity Theory .
  [@lave_situated_1991] -->
 
-#### (Why not use constructionism) - MOVEd FROM  CHAPTER 1 SO INTEGRATE
+
+#### (Why not use constructionism) - REMOVEd SO INTEGRATE ideas
+
+
+<!-- #### (Why not use constructionism) - MOVEd FROM  CHAPTER 1 SO INTEGRATE
 
 Constructionism is a popular guiding theory in game making studies, illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, this section explains why I have chosen activity theory as a better fit for the aims of this thesis. I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
 
 While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.  
 
-Instead, Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency. Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012].
+Instead, Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency. Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012]. -->
 
 ## The foundational concepts of activity theory
 
@@ -380,7 +384,7 @@ The work of 5D has led Gutiérrez to develop a methodology called Social design-
 - linked with transformative agency [guti and jurow, p3]
 - non hierarchical - horizontal concepts of institutional and everyday knowledge [guti and jurow, p4]
 
-For shadows work on abstract and concrete in the future. 
+For shadows work on abstract and concrete in the future.
 
 ## Putting AT to work, variations and synthesis in interventionist CHAT research
 
