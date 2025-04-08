@@ -1069,6 +1069,8 @@ Given my particular interest in empowerment within technology education, one pro
 
 In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 
+
+
 This research locates particular potential in the use of is a socio cultural intepreational of agency. In RQ3 and tackled in more detail in Chapter 3.
 
 The next section addresses gaps specific to CGD&P
@@ -1089,8 +1091,11 @@ If viewed from a wider socio-cultural perspective what potential does games maki
 Overall, Kafai and Burke identify a gap in research on making games compared to playing them.
 Even with in CGD&P research there is a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
 
+**abstract/concrete elements**
+While research from Waite and Sentance on LOA and PRIMM pedagogies addresses alternation between concrete and abstract dimentions, its focus on curricular concerns in classroom context limits its applicability. The motivation of fluency as a target skill or behaviour in contructionism aligns with its early advocacy for more concrete learning approaches driven by personal projects.
 
-- **Lack of specific pedagogies aligned with socio-cultural approaches**
+
+**Lack of specific pedagogies aligned with socio-cultural approaches**
 While some suitable and inclusive pedagogies exists, pair programming [@werner2014using], UMC [@lee_computational_2011] and remixing approaches in their potential to leverage social sharing, what else?,
 given Rogoff's and PBL research's advocacy of guided participation, frameworks existing between instruction and pure discoverary processes, more are useful. In particular domain specific ones.
 
@@ -1130,6 +1135,8 @@ ADD IN SOME THING ABOUT CONCRETE APPROACHES
 **Focusing on Agency is valid because**  it is a way to address relevant concepts of fluency in this domain with greater theoretical rigour.
 
 As outline in Chapter one, these elements are address using the following research questions.
+
+#### Research Questions
 
 **Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
 

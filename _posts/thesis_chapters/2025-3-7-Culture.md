@@ -144,12 +144,11 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 - Etc -->
 
 
-## Research Questions March 2025
+## Research Questions April 2025
 
 **Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
 
-
-1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
+1. What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
 
 2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 
@@ -216,21 +215,21 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 ## Introduction
 
+PURPOSE & GAPS - ADD IN EACH SECTION.
+
 This chapter deepens the analysis and discussion on RQ2 regarding the potential uses of gameplay design patterns (GDP) and concludes with an analysis and discussion on RQ3, addressing reflections on participant agency. Chapter 6 presented findings on the different uses of gameplay design patterns (GDP) using three foci of analysis: personal, social, and cultural activity. To begin, this chapter discusses these findings in relation to existing relevant research. Part one specifically addresses the complexities of the abstract and concrete dimensions of computing education using a concept from design research that explores the value of gameplay design patterns as an intermediate-level, pedagogical framework.  
 
-Part two shifts focus away from individual conceptions of knowledge and skill to examine the broader empowerment-related motivations driving this study within socio-cultural conceptions of agency.
+Part two shifts focus away from individual conceptions of knowledge and skill to examine the broader empowerment-related motivations driving this study. The goal here is to address gaps in the existing landscape of CGD&P research via an application of socio-cultural conceptions of agency. To begin this process, I undertake an interpretation of shifting forms of agency grounded in the data explored in the last chapter.
 
-It offers an interpretation of shifting forms of agency grounded in this case study.
-PURPOSE & GAPS - ADD IN EACH SECTION.
 <!-- The purpose here is to ground this discussion of the study's emergent cultural and interpersonal activity within the context of ongoing explorations into theoretical and practical applications of agency in socio-cultural research circles.  -->
 
 To achieve this, I begin with an exploration of the study’s findings in relation to instrumental and transformative agency and the concept of mediation in CHAT. As a way to address cultural development in more depth, particularly the development of learner identities within the research activities, I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires. To present a holistic picture of the complex cultural activity recorded in the research data, this discussion briefly addresses the wider aspects of the learning design.  However, it concludes with a proposed contribution suggesting that a collection of GDPs can help participants and facilitators as both as component features of emerging game making repertoires and as a orienting framework to increase the inclusive characteristics of the learning environment.  
 
-The final part of this chapter returns to gaps in the research landscape and outlines two key areas of contribution to the field. Firstly, it presents an applied computing pedagogy structured around the use of GDPs. An exploration of metaphors that synthesise significant features of the learning design which influence dimensions of agency.
+The final part of this chapter returns to gaps in the research landscape and outlines an applied computing pedagogy structured around the use of GDPs.
 
- This second, more philosophical, contribution is also grounded in a utilitarian approach to design-based research and formative interventions. As such, it communicates practical concerns to inform future recommendations for practice.  
+An exploration of metaphors that synthesise significant features of the learning design which influence dimensions of agency.
 
-
+As framework is developed via a utopian and utilitarian approach to design-based research and formative interventions. As such, it communicates insights  for equity and diversity via practical concerns to inform future recommendations for practice.  
 
 
 <!-- This chapter has three main sections:
@@ -279,9 +278,7 @@ This section explores these academic conceptions in a playful way using relatabl
 
 <!-- **Intro to section** -->
 
-The tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of the domain of computer game design and programming (CGD&P). Yet, the field is still lacking in depth in terms of
-
-This section recaps the characteristics and limits of existing pedagogies in the domain of CGD&P addressing conceptions of abstraction including computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches. It then explores these characteristics in relation to the data of this thesis. The section concludes with a proposal of GDPs as an gateway construct located to access abstract and concrete dimensions of the learning experience, demonstrating their utility for educational designers, researchers and for participants. In addition a technical pedagogical structure is advanced and given an term of remix enabled elective pattern patching (REEPP)
+The tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of the domain of computer game design and programming (CGD&P) (see Chapter 2). Yet, the field is still lacking in depth in terms of specific pedagogies which explore the complexities of conceptions of abstraction including computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches. To address this this chapter explores these characteristics in relation to the data surfaced in Chapters 5 and 6 of this thesis. The section concludes with a proposal of GDPs as pedagogical constructs located between abstract and concrete poles of the learning experience and an exploration of their utility for educational designers, researchers and for participants. Finally, a technical pedagogical structure is advanced and given an term of _remix enabled elective pattern patching_ (REEPP)
 
 
 <!-- omputing curricular concerns, provoked careful reflection on abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. -->
@@ -298,32 +295,27 @@ Chapter 2 began to explore, through the lens of personal appropriation, a variet
 To start, let us consider abstraction using this study's theoretical framework of activity theory.
 The research process and the evolving design involve a process of _rising to the concrete_, an analytical process involving identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it.
 
-For Sannino' [-@sannino_activity_2011] distinction between empirical abstraction, described as "observation and categorization", and theoretical abstraction, characterised as "practical transformation, change, and experimentation". The utility of such theoretical abstraction lies in its ability to generate "concrete manifestations and developmental forms of the reality under scrutiny", hence the use of the term _germ cell_ [@sannino_activity_2011, p.590]. An empirical categorisation of   occurred in early stages of the research where features to be added to the game were classified as varied forms of gameplay features (see Chapter.5 and Appendix.x). The theoretical abstraction that emerged from the process of facilitation the implementation and observing the varied use of these gameplay features as socio-cultural concepts was a guiding conception is the pedagogical utility of conceiving of such game features as gameplay design patterns.
+MAKE MORE SIMPLE - MOVE SOME TO END OF CHAPTER 5 - GERM CELL
+For Sannino' [-@sannino_activity_2011] distinction between empirical abstraction, described as "observation and categorization", and theoretical abstraction, characterised as "practical transformation, change, and experimentation". The utility of such theoretical abstraction lies in its ability to generate "concrete manifestations and developmental forms" of the , hence the use of the term _germ cell_ [@sannino_activity_2011, p.590]. An empirical categorisation of   occurred in early stages of the research where features to be added to the game were classified as varied forms of gameplay features (see Chapter.5 and Appendix.x). The theoretical abstraction that emerged from the process of facilitation the implementation and observing the varied use of these gameplay features as socio-cultural concepts was a guiding conception is the pedagogical utility of conceiving of such game features as gameplay design patterns.
 
-Most specifically relevant to this section, is a structural feature (from research on design patterns), of the utility of a strongly coupled link between observable game features, a description of the design structure and resources to facilitate implementation in the target code environment.
 
 This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter 6.
+
+
 IS THIS NOT ELSE WHERE FIRST? Chapter 5 for example? YES - RETURN TO CHAPTER 5 TO OUTLINE THIS MORE CLEARLY.
 CHECK THE TRAJECTORY OF THIS CONCEPT IN THESIS.
 
 Chapter 2 exposed a gap in the research in this area in terms of specific implementations designed to improve programming skills. MOVE THIS OR SET OUT PATHWAY?
 
-To address this gap, the following section makes a parallel between the utility of germ cell concepts and so-called strong concepts or intermediate knowledge in design theory [@hook_strong_2012; @barendregt_intermediate-level_2018].
+
 
 #### 1.a.ii. intermediate construct
 
-MOVE MUCH OF THIS TO CHAPTER 2. FOCUS ON THE GAP
-
-Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20].
-Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010].
 
 The work of Eriksson et al. [-@eriksson_using_2019, p.15], drawing on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for the young people make design suggestions to alter a game, In this study they do not modify computer code.
 As such, there is still much work to be undertaken addressing the utility of GDPs to support novice programmers.
-In addition,
 
-As explored in Chapter 2, the work of Eriksson et al. [-@eriksson_using_2019, p.15], drawing on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign.
-This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. Therefore, before exploring this aspect in relation to data on use of GDPs, of value to articulate this in the context of computing education by revisiting LR material.
-
+Therefore, before exploring this aspect in relation to data on use of GDPs, of value to articulate this in the context of computing education by revisiting LR material.
 
 <!-- Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start card -->
 
