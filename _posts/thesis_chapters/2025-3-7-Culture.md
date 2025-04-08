@@ -110,6 +110,11 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Contribution to the research in the field: The impact of
             the DBR /
             FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
+
+
+
+
+
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
     -   [Notes - MOVED TO THE END FOR
@@ -881,6 +886,7 @@ One key observation of this research is the role of playtesting activity in this
 - the use of GDPs in the development of new  repertoires?
 - the role playtesting in development of relational agency  
 - analysis of additional activities helping the development of learner identities -->
+
 
 
 

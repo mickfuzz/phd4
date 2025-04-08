@@ -1047,9 +1047,6 @@ In the following section, I summarise the chapters findings and clarify the prob
 
 
 
-
-
-
 **Short problem statement PLANNING SECTION**
 
 - Motivation: Given the context explored in Chapter 1, it is essential that we understand how to support empowerment and inclusion in the field of CGD&P. Despite the extensive and broad scope of existing research limitations remain.
@@ -1065,11 +1062,10 @@ This motivation aligns with structural challenges faced by practitioners in scho
 
 **Addressing issues of motivation in existing research**
 
-
 There is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
 
+MOVE LATER? A GAP?
 Given my particular interest in empowerment within technology education, one promising concept within relevant research is that of  fluency in constructionst reseach on digital making.
-
 
 In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 
@@ -1129,11 +1125,19 @@ Stress of facilitators, technical barriers, lack of frameworks to chart agency d
 Given that few studies communicate pedagogical detail in a way which allows replication, in this study I leverage my own commitment to and experience in documenting learning processes and facilitation materials via openly-licenced, accessible documenation and description to address this deficit.  
 
 **Gdps in particular** are promising which is not explored in terms of what it can offer in particular to participants and facilitators in a learning design orientated to a socio cultural approach.  
+ADD IN SOME THING ABOUT CONCRETE APPROACHES
 
 **Focusing on Agency is valid because**  it is a way to address relevant concepts of fluency in this domain with greater theoretical rigour.
 
 As outline in Chapter one, these elements are address using the following research questions.
 
+**Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
+
+1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
+
+2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
+
+3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design)
 
 
 
