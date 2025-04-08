@@ -340,6 +340,15 @@ Research on constructionism as an educational approach has increasingly centred 
 Vossoughi and other researchers also highlight political and social concerns associated with constructionism
 [@thumlert2018learning; @vossoughi_making_2016]. They argue that a constructionist approach can implicitly favour coding as a pathway to joining the computer programming industry and developing employability skills in young people. Thumlert and colleagues caution against the appropriation of skills such as creativity and 'design thinking', which they argue are increasingly co-opted by market-driven agendas rather than being used for critical and emancipatory purposes [@thumlert2018learning, p.4]. They also warn that this positioning could lead to the integration of constructionist approaches into instruction-based models that are narrowly focused on curricular concerns, rather than fostering the development of computational fluency, which supports learners’ expression within a community [@thumlert2018learning].
 
+
+An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work.
+
+One concept of promise, aligned with is that of fluency
+which is described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. However there has been no review of these varied terms and how they differ or contain underlying similarities.
+
+In the next chapter I propose that this aim of fluency can be profitably augmented using socio-cultural concepts of agency.
+
+
 Given the importance of more intentional pedagogical approaches in this area and the lack of detail in the reviews of CGD&P described above, the following sections will detail several key pedagogies used in this area.
 
 
@@ -1018,9 +1027,7 @@ This line of thought invites a turn to address to gaps in research / problem sta
 Also explored in SDBEs
 
 
-### A final reflection
 
-In the following section, I summarise the chapters findings and clarify the problem statement of this thesis.
 
 
 
@@ -1030,10 +1037,8 @@ In the following section, I summarise the chapters findings and clarify the prob
 ## Synthesis of chapter / discussion / problem statement
 
 
+In the following section, I summarise the chapters findings and clarify the problem statement of this thesis.
 
-A shorter summary leading up to the detailed problem statement of the thesis.  
-
-Including some of the following elements
 
 <!-- - **Guided participation:** There is a stream in the research which critiques not-only instruction-based approaches but also child-led discovery within magically designed  tools and communities. Rogoff's take on guided participation as between these poles informs this study.
 - **Tensions surrounding authenticity of tool use:** my desire to link with developer communities and the world of open sources introduces tensions.
@@ -1059,22 +1064,18 @@ This research aims in part to explore to what extent my own interest in chaotic,
 This motivation aligns with structural challenges faced by practitioners in schools and volunteer-supported settings regarding curriculum, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
 
 **Addressing issues of motivation in existing research**
+
+
 There is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
 
-Given my particular interest in empowerment within technology education, one promising concept within relevant research is that of  fluency in constructionst reseach on digital making. 
+Given my particular interest in empowerment within technology education, one promising concept within relevant research is that of  fluency in constructionst reseach on digital making.
 
-THIS NEEDS TO BE EXPLORED BEFORE AND REFERENCED BACK.
-focus it is described in broad strokes as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009] or computational fluency [@resnick_computational_2018].
 
-In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations and design heuristics with  more contemporary socio-cultural concepts.
+In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 
-In particular the lens of agency. My final research questions involves the development of agency. This focus guides both the way in which I review current research on game making pedagogies, and how I describe current responses to current limits to the potential of game making in the final part of the chapter.
+This research locates particular potential in the use of is a socio cultural intepreational of agency. In RQ3 and tackled in more detail in Chapter 3.
 
 The next section addresses gaps specific to CGD&P
-
-
-
-
 
 
 <!-- The latest iteration compuational fluency, is described in broad strokes as both technical competency and an ability to for self-expression within digital code mediums [@resnick_computational_2018].
@@ -1093,13 +1094,12 @@ Overall, Kafai and Burke identify a gap in research on making games compared to 
 Even with in CGD&P research there is a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
 
 
-
-
 - **Lack of specific pedagogies aligned with socio-cultural approaches**
 While some suitable and inclusive pedagogies exists, pair programming [@werner2014using], UMC [@lee_computational_2011] and remixing approaches in their potential to leverage social sharing, what else?,
 given Rogoff's and PBL research's advocacy of guided participation, frameworks existing between instruction and pure discoverary processes, more are useful. In particular domain specific ones.
 
-The use of design patterns in K12 age students is promising, however it is currently limited to the use of game mechanics use in assessing computational sophistication [@werner2014using], of computational design patterns to help motivation and structure documentation [@repenning_scalable_2015], the use of gameplay design patterns to structure feedback process in a non-coding co-design process [@eriksson_using_2019].
+The use of design patterns in K12 age students is promising, however it is currently limited to the use of game mechanics use in assessing computational sophistication [@werner2014using], of computational design patterns to help motivation and structure documentation [@repenning_scalable_2015], the use of gameplay design patterns to structure feedback process in a non-coding co-design process [@eriksson_using_2019] and has a focus on benefits for researchers.
+
 
 One premise driving my exploration of the use of gameplay features in pedagogy is that the tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
 
@@ -1112,29 +1112,27 @@ One premise driving my exploration of the use of gameplay features in pedagogy i
 
 This section gives a further overall synthesis of the problems of the area based on Lit review that this study aims to address via the RQs.
 
+From the reviews of the field above, it is clear that game making processes in informal settings can benefit from more research involving novel pedagogies designed to develop learner agency and identity as game makers.
 
 #### Pedagogies exist but more are needed that are specific, aligned with non-formal spaces, x and y.
 
 **Lack of specific pedagogies (for informal spaces) - via a case study / research ?**
 
-From the reviews of the field above, it is clear that game making processes in informal settings can benefit from more research involving novel pedagogies designed to develop learner agency and identity as game makers.
+Specifically the lack of pedagogies for non-formal spaces should be addressed.
 
-The lack of pedagogies for informal spaces should be addressed.
+While open ended approaches responding to participants interests have potential to address barriers of x and y  [see Denner], challenges exist.
 
-While the very open ended approach of build a space and response to the interests of people that come is attractive [see Denner], it presents challenges.
-
-Similarly vehicle like competitions come with some support but also with issues []
-
-
-My final research questions involves the development of agency. This focus guides both the way in which I review current research on game making pedagogies, and how I describe current responses to current limits to the potential of game making in the final part of the chapter.
-
+Stress of facilitators, technical barriers, lack of frameworks to chart agency development, confusion over what the goal is.  
 
 
 **A specific and replicable pedagogy**
 Given that few studies communicate pedagogical detail in a way which allows replication, in this study I leverage my own commitment to and experience in documenting learning processes and facilitation materials via openly-licenced, accessible documenation and description to address this deficit.  
 
+**Gdps in particular** are promising which is not explored in terms of what it can offer in particular to participants and facilitators in a learning design orientated to a socio cultural approach.  
 
-<!-- This need aligns with my own commitment to and experience in documenting learning processes and facilitation materials in an open source way. -->
+**Focusing on Agency is valid because**  it is a way to address relevant concepts of fluency in this domain with greater theoretical rigour.
+
+As outline in Chapter one, these elements are address using the following research questions.
 
 
 
