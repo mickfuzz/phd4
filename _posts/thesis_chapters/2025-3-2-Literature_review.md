@@ -316,6 +316,11 @@ Addressing gender-based barriers to participation, Papert and Turkle [@papert_ep
 
 Margolis et al. [@margolis_stuck_2008;] outlined barriers contributing to a racial gap in computing participation and achievement in the US, including feelings of isolation, limited access to computing opportunities, and a lack of social support. DiSalvo and colleagues investigated these barriers within a game testers programme, examining how an interest in computer games could motivate access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. Their findings indicated that activities should not only be engaging but also align with the underlying values of the programme’s young, African American male participants. Vossoughi et al. [-@vossoughi_making_2016] critique digital making cultures, stressing the need to integrate not only the values but also the cultural experiences of working-class students and students of colour into the making process.
 
+There are limits and gaps in CGD&P research in terms of overcoming barriers to participation.
+One is the lack of specific pedagogical approaches to address issues of inequality of participation.
+RETURN TO [@kafai_constructionist_2015] to review.
+OTHER REVIEWS? UK IN Waite?
+
 <!-- To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents. -->
 
 ### Exploring pedagogies of constructionist gaming
@@ -328,7 +333,7 @@ Kafai and Burke
 
 also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity. -->
 
-This section explores Kafai and Burke’s framing of constructionist gaming as a dominant voice in the field, situating the concerns of this thesis within the existing body of research. To achieve this, I will examine criticisms of constructionism, particularly its perceived lack of a specific pedagogical approach.
+This section explores Kafai and Burke’s framing of constructionist gaming as a dominant voice in the field, situating the concerns of this thesis within the existing body of research. To achieve this, I will examine analysis of constructionism, particularly as a pedagogical approach.
 
 Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
 
