@@ -395,7 +395,7 @@ Given the previously explored advocacy for alternating between abstract and conc
 Some points now.
 
 
--  there is alternation between perpectives, and concepts but here it is not explicitly taught.
+-  there is alternation between perspectives, and concepts but here it is not explicitly taught.
 -  it could be taught.
 -  I contend that overall, that facilitators can make use this mapping to make inform choices.
 
