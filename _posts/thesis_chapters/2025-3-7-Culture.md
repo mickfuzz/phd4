@@ -457,8 +457,83 @@ Thus in summary conceptions of abstraction above explored above include:
 - A more holistic practice-based definition from Resnick, Brennan -
 - Waite's LOA - abstract here drawing on levels within the problem or product  - navigation between levels, explicit teaching of such navigation. -->
 
-### Summary of the potential utility for several stakeholders
 
+### Gaps in research
+
+Gaps in research back to Ch. 2.
+I.E. why is the next sections relevant to RQs
+
+
+
+The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
+
+MOVE LATER?
+Given the exploration of LOA, semantic waves, and Papert's work. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation as given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction, whereas the more potentially transferable nature of Wing's abstract CT conceptions would form a candidate for a more generalisable theory. As such, GDPs would be situated between those and concrete implementation.
+
+
+
+
+#### Summary of structural components of applied pedagogy   - REEPP & A gateway view of learning dimensions.
+
+MOVE UTILITY DOWN?
+
+
+While concrete, I propose that the instance constitutes a replicable pedagogy which is a valuable contribution to pedagogies in this area. To communicate the essence of this structural, technical model I propose an acronym remix enabled elective pattern patching (REEPP).
+
+
+This technical structure synthesises use of a code playground, game library, a half-baked game template, UMC pedagogy, and the use of a collection of game design patterns. While similar approaches exist this pedagogical structure is innovative in the way systemic tensions have been resolved and congruencies introduced.
+
+This section summaries the innovative elements of this structural / technical approach,
+
+<!-- NOTE - THERE'S ANOTHER SECTION IN CH.8. -->
+
+
+The judicial process of abstraction, referred to in design domain as black-boxing is present in several aspects of this technical approach (see Appendix.tech for fuller details). Examples include: use of code playground and existing template to simplify the use of the interacting web technologies; structural and syntactical template design decisions,     
+
+Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+The structure synthesises element of scalable game design (SGD) and Use Modify Create (UMC) pedagogies.
+
+While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
+
+<!-- NOTE (If applies collaboratively, it becomes CREEPP) -->
+<!--
+NOTE DROPPED -
+this break through facilitated the development of different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?) -->
+
+
+
+### Reframing use of GDPs from intermediate-level knowledge to a gateway framework
+
+MOVE LATER? AND DEVELOP WITH REFERENCE TO SOCIAL AIMS TOO?
+NO - KEEP HERE AND FOCUS ON PERSONAL AIMS FIRST.
+
+
+![Illustration 7.x - GDPs as a gateway framework  ](./Pictures/ch_7_gateway_dia_1.png){width=50%}
+
+<!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
+
+I suggest  a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to communicate potential utility in opening up exploration of different dimensions of learning.
+
+
+MOVE SOME OF THIS UP TO THE REEEPP SECTION - KEEP FOCUSED ON ABSTRACT / CONCRETE.
+
+Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements.
+
+The process guides learners to use GDPs as their primary leading activity or object of activity (using CHAT terminology).
+
+Secondly, a working code framework or template is provided with affordances strongly coupled with object output, providing immediate feedback.
+
+Thirdly, just-in-time supporting resources are provided, closely aligned to the sub-goals of GDPs. Finally, this gateway framework may also facilitate reflection on its use, and reinforcement of this process can be structured using supporting tools, such as a learning map (see appendix.learningmap for an example in P4).
+
+NOT SURE WHERE THIS FITS?
+In the previous analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting. The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
+
+<!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
+
+
+
+### Summary of the potential utility for several stakeholders
 
 The evidence and examples surfaced in Chapter 6 and the previous section support a view that the GDPs can form the basis of productive research and pedagogical frameworks. While the work of Eriksson et al. explored the utility of GDP concepts in several dimensions the focus was on utility for the research community. Thus the following section makes more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for researchers, participants and facilitators/ learning designers.
 
@@ -548,76 +623,23 @@ However this research contends that GDPs are a more suitable accessible  framewo
 <!-- As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
  -->
 
-### Reframing use of GDPs from intermediate-level knowledge to a gateway framework
+### Link to next section - limits of this personal dimension approach
 
-MOVE LATER? AND DEVELOP WITH REFERENCE TO SOCIAL AIMS TOO?
-Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to avoid the confusion explored earlier in terms of its position within a hierarchy.
+LINK - SO MOVE LATER
 
-Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements.
-
-Firstly, the process guides learners to use GDPs as their primary leading activity or object of activity (using CHAT terminology).
-
-Secondly, a working code framework or template is provided with affordances strongly coupled with object output, providing immediate feedback.
-
-Thirdly, just-in-time supporting resources are provided, closely aligned to the sub-goals of GDPs. Finally, this gateway framework may also facilitate reflection on its use, and reinforcement of this process can be structured using supporting tools, such as a learning map (see appendix.learningmap for an example in P4).
-
-In the previous analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting. The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
-
-#### Recap is GDPS a good framework or what? - PERHAPS MOVE TO CHAPTER END?
-
-The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
-
-MOVE LATER?
-Given the exploration of LOA, semantic waves, and Papert's work. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation as given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction, whereas the more potentially transferable nature of Wing's abstract CT conceptions would form a candidate for a more generalisable theory. As such, GDPs would be situated between those and concrete implementation.
-
-
-### This feels like a different section now.
-
-#### First area of contribution to the research in the field: An applied pedagogy with detailed analysis of inherent structural components  - REEPP
-
-<!-- BRING IN A SUMMARY OF LEARNING FROM THE PREVIOUS CHAPTER ON GDPS. -->
-
-
-This chapter contend that the underlying structure of the learning design in addition to support the social and cultural processes described above, is a valid contribution to the field as a technical pedagogical structure. This technical structure synthesises use of a code playground, game library, a half-baked game template, UMC pedagogy, and the use of a collection of game design patterns. While similar approaches exist this pedagogical structure is innovative in the way systemic tensions have been resolved and congruencies introduced.
-
-This section summaries the utility an innovative elements of this structural / technical approach
-
-<!-- NOTE - THERE'S ANOTHER SECTION IN CH.8. -->
-
-
-The judicial process of abstraction, referred to in design domain as black-boxing is present in several aspects of this technical approach (see Appendix.tech for fuller details). Examples include: use of code playground and existing template to simplify the use of the interacting web technologies; structural and syntactical template design decisions,     
-
-Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
-
-The structure synthesises element of scalable game design (SGD) and Use Modify Create (UMC) pedagogies.
-
-While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
-
-While concrete, I propose that the instance constitutes a replicable pedagogy which is a valuable contribution to pedagogies in this area. To communicate the essence of this structural, technical model I propose an acronym remix enabled elective pattern patching (REEPP).
-
-
-
-
-<!-- NOTE (If applies collaboratively, it becomes CREEPP) -->
-<!--
-NOTE DROPPED -
-this break through facilitated the development of different "stepped" progressively graded project briefs which build one upon the other as a flexible scaffold (HOW?) -->
+This chapter contend that the underlying structure of the learning design in addition to support the social and cultural processes described above, is a valid contribution to the field as a technical pedagogical structure.
 
 My research data shows the value of the REEPP approach to facilitate a socio-cultural approach to game making. The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section.
 
 Thus the structural elements of this design facilitate the kind of relational pedagogies originally advocated by Papert and but which have too often been missing from research in this field.
 LINK
 
-
-<!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
-
-
-
-
-
-
 WHY RELEVANT? PATHWAYS?
 These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
+
+
+
+
 
 
 
