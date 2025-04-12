@@ -590,7 +590,10 @@ Turning to the utility for designers and and facilitators, it follows that the c
 NOTE SURE OF THIS
 My reflections on research data support a proposition that there is utility for facilitators to be aware of the level of abstraction present in different elements of project learning design. This value encompasses both the concepts that learners are working with and those which are potentially accessible via explicit teaching.
 
+
 The close coupling between design and code structure levels in my design may not align with LOA principles given that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels" [@waite_abstraction_2018-1, p.21]. However, given that Waite's subsequent research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019], what counts as explicit teaching of abstraction is not clear.
+
+MORE ON EXPLCIT TEACHIGN SEE [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008] rather than implicit teaching of abstraction [@kramer_abstraction_2003]  
 
 
 **For participants**
