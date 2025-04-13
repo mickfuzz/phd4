@@ -517,11 +517,16 @@ In the previous analysis of the use of GDPs through the lens of research on the 
 
 <!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
 
+### Summary of - OR IS IT REFLECTIONS ON? the potential utility of GDPs? of abstract / concrete exploration?  for several stakeholders
 
+HOW DOES THIS RELATE TO ABSTRACT / CONCRETE THING OF PT 1.
+AND TO THE SUMMARY TABLE OF CH. 6.
 
-### Summary of the potential utility for several stakeholders
+The evidence and examples surfaced in Chapter 6 and the previous section support a view that the GDPs can form the basis of productive research and pedagogical frameworks.
 
-The evidence and examples surfaced in Chapter 6 and the previous section support a view that the GDPs can form the basis of productive research and pedagogical frameworks. While the work of Eriksson et al. explored the utility of GDP concepts in several dimensions the focus was on utility for the research community. Thus the following section makes more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for researchers, participants and facilitators/ learning designers.
+While the work of Eriksson et al. explored the utility of GDP concepts in several dimensions the focus was on utility for the research community.
+
+Thus the following section makes more explicit the observed and potential uses of GDPs for different stakeholders in this context: specifically, comparing their utility for researchers, participants and facilitators/ learning designers.
 
 <!-- To explore the findings of last chapter in relation to this exploration of the nature and purpose of abstraction in guiding frameworks in learning programming, I return to research on the use of gameplay design patterns. -->
 
@@ -544,16 +549,6 @@ This potential non-alignment with UK non-formal may be a limitation in the take 
 <!-- #### Addressing utility for participants -->
 <!-- One of the more developed work in GDP as such a framework is in Eriksson et al. The context of their GDP study is distinct in that whereas the young people in the Stringforce study are making design suggestions to alter a game they are not making their own games by modifying computer code. -->
 <!-- In my design by contrast there is strong coupling between the role, description and implementation as illustrated by the structure of the supporting resources outlined in Chapter 5. -->
-
-
-
-**for researchers**
-
-MOVE TO A CONCLUSION / CONTRIBUTION
-Given that the focus of this analysis addresses the utility for the researcher rather than that of participants, this research significantly advances these contributions.
-
-In the framing of CHAT, the implementation of GDPS can be treated as a distinct activity systems (see Fig in last chapter)
-
 
 <!-- Reflections in progression of design in P4 showed my reluctance to lead with or explicitly teach abstract concepts with CT. Further discussion on the dilemma of how explicit teaching of computational concepts should be in taken up in the following section addressing the perspective for designers / teachers. -->
 <!-- #### Turning to the utility for designers, reearcher and facilitators,  -->
@@ -578,12 +573,14 @@ LINK TO NEXT SECTION.
 
 POINT THAT THE STRUCTURAL ABSTRACTION OF DESIGN FREES UP SPACE TO EXPLORE OTHER ELEMENTS OF MAKING PROCESS.
 
-**For facilitators / teachers**
+**Value for facilitators / teachers of GDPs**
 
-this research advocats the use of GDPs as a more suitable accessible leading pedagogical framework than computational thinking.
+While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings.
 
-This question invites discussion on the value of explicit teaching CT of compared to development as as an embedded skill through bricolage approaches.
-As explored in Chapter 2 the literature review paints a very mixed picture in this regard and while it is problematised in relation to agency development later,
+In either settings, this research advocats the use of GDPs as a more suitable accessible leading pedagogical framework than computational thinking.
+
+THIS SEEMS LIKE A DIFFERENT SECTION
+This question invites discussion on the value of explicit teaching CT of compared to development as as an embedded skill through bricolage approaches. As explored in Chapter 2 the literature review paints a very mixed picture in this regard and while it is problematised in relation to agency development later,
 
 IS THIS FOR CH. 2?
 While explicit awareness of LOA, and the model of PRIMM imply explicit teaching of abstract concepts.
@@ -602,6 +599,17 @@ While this research doesn't negate or preclude the value of explicit teaching of
 
 MOVE? OR REFRAME AS ON-GOING GAP / TENSION.
 A tension exists in research on project-based approaches to digital making, in finding appropriate level of scaffolding [@waite_teaching_2021; @quintana_scaffolding_2004]. The use of conceptual and practical frameworks to scaffold domain specific working practices can help ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
+
+
+
+**Value for researchers of the intermediate framing & b & c**
+
+Quick summary of value
+
+
+In the framing of CHAT, the implementation of GDPS can be treated as a distinct activity systems (see Fig in last chapter)
+
+
 
 <!-- If a knowledge of CT is needed by the learning context then it could be profitably explored in other ways. For example, developing resources suitable for such reflection,  for instance a learning map to be used by participants and teachers as explred in P4 . Linking from docs to descriptions of the characteristics. Thus not a leading pedagogical framework but a map of possible skills and concepts made possible by the leading activity. -->
 

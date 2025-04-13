@@ -196,11 +196,6 @@ The working draft of this chapter now merges a proposed discussion chapter with 
     - Advantages and limitations of Home Education context
 
 
-## to integrate SOMEWHERE
-
-MOVE to THE CONCLUSION
-Addressing the replicability of the research process, it is of value here to recap the previous chapters characterision of its nature as as open and risky, and requiring me to rapidly generate new tools in response. Certain factors mitigated against the incomplete design, namely a tenatious group of participants in P1, and my existing relationship with some participants built in previous encounters. The input of families as a responsive testing group and as detailed above, as active inputters to the evolving pedagogical approach was significant. As such, while this aspect is not extensively explored in this study, I propose there is significant potential in the input of home educating families as a consituant part in collaborative design based approaches to  uncover exisiting, situated repetoires in a way that can shape emergent practices in new learning expereiences. Specifically potential to can inform design  to produce tools and pedagogies aims which can help other facilitators seed productive community activity in other learning settings. I return to this subject in the conclusion of this thesis. -->
-
 
 ## Introduction
 
@@ -217,6 +212,14 @@ Firstly by examining the research outputs of the study and discussion how they e
 
 
 ## Key Findings and research outputs
+
+### Significant advances in understanding of how GDPs can be used in the field of CGD&P and beyond
+
+Existing work by Eriksson exists focussed on  the utility for the researcher rather than that of participants and facilitator. Thus this research, summarised by table in Chapter 6, significantly advances these contributions.
+
+In addition, great analysis of the process using CHAT terms which contributed by...
+
+
 
 ### Research output: 3M game making (Meta) model of pedagogical elements of the learning design
 
@@ -287,14 +290,18 @@ P5.js perhaps provides a better base which is more aligned with learners needs.
 Recreating resources in P5.js is a strong possibility to make this approach more familiar and less porous / daunting.
 
 
-### Research Output - A pedagogy aligned with inclusive approaches and promising for neurodiversity in particular
+
+
+### Highlighting value of socio-cultural approach to contribute to the field of CGD&P pedagogy (and beyond)
+
+#### Research Output - A pedagogy aligned with inclusive approaches and promising for neurodiversity in particular
 
 The lens of inclusion and the alignment with UDL is relevant as a possible resolution to abstract  / concrete tensions as a gateway to access diverse learner pathways and thus avoid an overly complex navigational framework thus reducing cogintive load.
 
 Synthesis in relation to  Issues of inclusive pedagogy. UDL, UMC, MOE.  This  underline the entire motivation and design of the study. Returning therefore to a fundamental point of the study to explore how this help diverse learners in a challenging area to learn. Ending by suggesting UDL as a helpful framework,
 
 
-### Evidence of  evolution on design/ processes and learner agency
+#### Evidence of  evolution on design/ processes and learner agency
 <!-- NOTE  I would say  too complex for coding -->
 
 Answering RQ - on pedagogical resources / agency / use of GDPs
@@ -314,19 +321,20 @@ This summary can be explored using conceptions of agency explored in previous ch
 
 
 
-## Theoretical Contributions
+## Theoretical Contributions - MERGE UP ITS' ALL THE SAME SECTION
 
-### Research Output - Conceptualisations of forms of agency
+### Research Output - Conceptualisations of forms of agency - in context
 
 THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
 
-This thesis has explored agency through the following concepts: instrumental agency, authorial agency, and transformative agency through double stimulation.
+This thesis has explored agency through the following concepts: instrumental agency, transformative agency and relational agency.
 
 This section contributes observations from this research process with the following aims.
 
  - to serve other researchers undertaking similar work using activity theory and design based approach
  - to help practitioners be research informed
 
+MOVE THIS BIT? IS THIS ALREADY IN A SUMMARY TABLE SOMEWHERE?
 There is alignment with other research in terms of how
  - authenticity of tools can be problematic and needs design adaptation, often black boxing
  - this process merits attention and alignment with overall project aims of the designer
@@ -334,19 +342,24 @@ There is alignment with other research in terms of how
  - ideally emergent and producing a culture series of
 
 
- #### Specific 3M  techniques through the lens of agency (RQ3)
+#### Specific 3M  techniques through the lens of agency (RQ3)
 
  In this section I summarises the potential for learners  the concepts and techniques of achieving agency in the 3M design.
 
- In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
+THE FOLLOWING SHOULD BE EDITED OUT / MOVED
 
- In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
+In PBL, UDL and other models - learner choice and building agency is shown to be of value in increasing engagement and ownership over learning. However, building the relevant knowledge to identify, agree on and implement game patterns from scratch takes time and without relevant scaffolding too so long that it negatively impacted motivation.
+
+In a similar way to the play paradox [hoyles_pedagogy_1992], there is a tension between structure and freedom. However, the issue here relates to tensions between different forms of agency, instrumental, authorial and transformative.
 
 
 
-### Divining authentic frameworks
+### DBR / FI / SDBE processes to divining authentic frameworks
 
 The process of discovering the framework of GDPs explored in chapter five merits exploration from the perspective of replicability.
+
+#### Finding intermediate knowledge in the form of learner focused, guiding pedagogical frameworks
+
 
 Is there is something particular about the format of the game product to be designed that particularly suits this process. What other products does it suit?
 
@@ -354,6 +367,11 @@ What are the broad implication for the use of this frameworks in other domains.
 
 PERHAPS ONE FOR FINAL CHAPTER
 
+
+#### Home Ed families and the research process
+
+MOVE to THE CONCLUSION
+Addressing the replicability of the research process, it is of value here to recap the previous chapters characterision of its nature as as open and risky, and requiring me to rapidly generate new tools in response. Certain factors mitigated against the incomplete design, namely a tenatious group of participants in P1, and my existing relationship with some participants built in previous encounters. The input of families as a responsive testing group and as detailed above, as active inputters to the evolving pedagogical approach was significant. As such, while this aspect is not extensively explored in this study, I propose there is significant potential in the input of home educating families as a consituant part in collaborative design based approaches to  uncover exisiting, situated repetoires in a way that can shape emergent practices in new learning expereiences. Specifically potential to can inform design  to produce tools and pedagogies aims which can help other facilitators seed productive community activity in other learning settings.
 
 
 
@@ -410,7 +428,7 @@ The use of that germ cell to develop mid level / concrete / applied frameworks h
 
 Media tropes for example, something which practitioners instinctively do but which is under-explored in research as a guiding pedagogy for inclusive learning approaches.
 
-#### Guided iterative (step-wise) project frames.
+#### Guided iterative (stepped) project frames.
 
 In addition, the value and potenial of the use of what Denner et al call a step-wise approach is advocated in this thesis.
 
