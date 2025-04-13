@@ -766,6 +766,16 @@ Werner and Denner built an ambitious assessment elements into a two year program
 The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
 
 
+#### Design patterns as intermediate constructs
+
+
+Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20]. Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010].
+
+Eriksson et al. [-@eriksson_using_2019, p.15], draw on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign rather than as a base for computer coding.
+
+This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated.
+
+MOVED HERE SO CLARIFY THE POINT OF THE ABOVE. SOMETHING TO DO WITH PLAY PARADOX?
 
 
 #### Scalable game design
@@ -828,9 +838,6 @@ https://wiki.computationalthinkingfoundation.org/wiki/images/5/5b/ACO_Frogger_St
 
 Teacher plan
 https://wiki.computationalthinkingfoundation.org/wiki/images/f/f9/T3_5_ACO_Pacman_Master_v3.0.pdf
-
-
-
 
 
 <!-- NOTE - follow this up - can email - why was this not adopted?
@@ -899,24 +906,16 @@ In a design education intervention working with 11-12 year olds Eriksson and col
 The principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019]
 The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
 
+
+
 The process of curating patterns involve selected only 14 from a list of over 100? [CHECK]. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
 
 **Results:**
 
-The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to  researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI). As such the potential for participants  was under explored and the potential for teachers not explored at all.
+The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to  researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI).
+As such the potential for participants  was under explored and the potential for teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
 
 <!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. -->
-
-#### Design patterns as intermediate constructs
-
-MOVE START OF THIS UP. 
-
-Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20]. Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010].
-
-Eriksson et al. [-@eriksson_using_2019, p.15], draw on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign rather than as a base for computer coding.
-
-This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated.
-
 
 
 ## Programmes working to address challenge

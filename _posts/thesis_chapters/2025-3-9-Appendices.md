@@ -148,10 +148,10 @@ MOVE LIST ABOVE HERE WHEN STABLE ENOUGH
     Home interests	16
     Game Making Patterns and Systems Concepts	16
     Vignette 3 Mark and Ed’s use of GDPs within their organisation	1
-    Vignette 4 - Feedback on the dynamics of Molly’s player movement	6
-    Vignette 5 - Molly and Nadine working with graphics and stories as funds of knowledge and identity and emerging specialism	8
-    5.a - Specialism emerging in interaction between Molly and Nadine	8
-    5.b - Extract of interaction between Molly and Sonia	9
+    Vignette 4 - Feedback on the dynamics of Madiha’s player movement	6
+    Vignette 5 - Madiha and Nadine working with graphics and stories as funds of knowledge and identity and emerging specialism	8
+    5.a - Specialism emerging in interaction between Madiha and Nadine	8
+    5.b - Extract of interaction between Madiha and Sonia	9
     5.c - Developing shared language	9
     5.d - Using technical language - DoL and technical processes	10
     Vignette 6 – Mark and Ed working with home interests	12
@@ -335,7 +335,7 @@ The process of exploring identity in this way surfaced the cheekiness of some yo
 
 By the end of P2 most of the tools and main processes were in place. But I still felt tensions around introducing reflective processes and wanted to de-centre myself where possible from a teacher position. My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
 
-Molly in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
+Madiha in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
 
 In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals, taking inspiration from Bartle's game player types [@hamari_player_2014], identifying social makers, planners, magpies and glitchers.  
 
@@ -385,10 +385,10 @@ Full table of side missions.
 | Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
 
 
-In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Molly, Nadine shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
+In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Madiha, Nasrin shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
 
-Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Molly and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children.
+Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Madiha and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children.
 
 
 
@@ -891,6 +891,26 @@ I had previously set the dimensions of the matrix above based on this size to cr
 
 ## Technical Appendix Two - On reaction to tech
 
+#### Appendix.patching
+
+So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+Madiha: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+Madiha: So just insert it somewhere.
+
+Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+
+So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
+
+Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
+And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
 
 
 #### Appendix.debugging GDPs used to nurture tactical responses to coding errors
