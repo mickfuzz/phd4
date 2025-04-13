@@ -1,8 +1,8 @@
 -   [Theoretical Framework](#theoretical-framework)
     -   [Research Questions - Nov 2024](#research-questions---nov-2024)
     -   [Introduction](#introduction)
-        -   [(Why not use constructionism) - MOVEd FROM CHAPTER 1 SO
-            INTEGRATE](#why-not-use-constructionism---moved-from-chapter-1-so-integrate)
+        -   [(Why not use constructionism) - REMOVEd SO INTEGRATE
+            ideas](#why-not-use-constructionism---removed-so-integrate-ideas)
     -   [The foundational concepts of activity
         theory](#the-foundational-concepts-of-activity-theory)
     -   [Further developments in activity

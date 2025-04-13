@@ -907,6 +907,16 @@ The work explored the utility of GDP concepts in several dimensions the focus as
 
 <!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. -->
 
+#### Design patterns as intermediate constructs
+
+MOVE START OF THIS UP. 
+
+Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20]. Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010].
+
+Eriksson et al. [-@eriksson_using_2019, p.15], draw on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign rather than as a base for computer coding.
+
+This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated.
+
 
 
 ## Programmes working to address challenge

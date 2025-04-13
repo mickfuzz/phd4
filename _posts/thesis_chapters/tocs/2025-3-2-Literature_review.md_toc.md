@@ -57,6 +57,8 @@
                 patterns](#using-collections-of-patterns)
             -   [Using collections of Game(play) design
                 patterns](#using-collections-of-gameplay-design-patterns)
+            -   [Design patterns as intermediate
+                constructs](#design-patterns-as-intermediate-constructs)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Coding club(houses) & Grass Roots community
@@ -66,16 +68,18 @@
         -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
         -   [The Fifth Dimension](#the-fifth-dimension)
-        -   [A final reflection](#a-final-reflection)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
-        -   [Returning to gaps in the research landscape & my
-            motivations - MOVED HERE EDIT INTO
-            SURROUNDINGS](#returning-to-gaps-in-the-research-landscape-my-motivations---moved-here-edit-into-surroundings)
+        -   [Recapping this study's motivations - both broad and my
+            motivations](#recapping-this-studys-motivations---both-broad-and-my-motivations)
+        -   [Returning to gaps in the CGD&P research
+            landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
-            -   [pedagogies exist but more are
-                needed](#pedagogies-exist-but-more-are-needed)
+            -   [Pedagogies exist but more are needed that are specific,
+                aligned with non-formal spaces, x and
+                y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.)
+            -   [Research Questions](#research-questions)
         -   [Link to the next chapter](#link-to-the-next-chapter)
     -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
     -   [Barriers to participation in game making practices (explored in
