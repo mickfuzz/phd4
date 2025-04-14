@@ -1,5 +1,4 @@
 -   [Appendices](#appendices)
-    -   [List of Vignettes](#list-of-vignettes)
     -   [Appendix.design.p1](#appendix.design.p1)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
@@ -34,6 +33,13 @@
             Design regarding Computational Thinking
             concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
             -   [Evolution of the map](#evolution-of-the-map)
+            -   [Evolution of the Learning dimensions map - COPIED HERE
+                FROM CHAPTER
+                8](#evolution-of-the-learning-dimensions-map---copied-here-from-chapter-8)
+            -   [Background on learning Dimensions Map - -
+                COMPRESS?](#background-on-learning-dimensions-map-----compress)
+            -   [The potential of learning and navigational
+                maps](#the-potential-of-learning-and-navigational-maps)
             -   [Tensions involving explicit teaching of curricular
                 concepts or
                 not](#tensions-involving-explicit-teaching-of-curricular-concepts-or-not)
@@ -86,6 +92,7 @@
                     too](#template-structure-and-asset-placement---add-in-chapter-tutorial-example-extract-here-too)
     -   [Technical Appendix Two - On reaction to
         tech](#technical-appendix-two---on-reaction-to-tech)
+        -   [Appendix.patching](#appendix.patching)
         -   [Appendix.debugging GDPs used to nurture tactical responses
             to coding
             errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)

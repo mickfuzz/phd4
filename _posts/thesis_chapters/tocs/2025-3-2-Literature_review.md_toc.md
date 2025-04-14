@@ -52,13 +52,13 @@
             Microworlds](#half-baked-games-as-microworlds)
         -   [Design patterns](#design-patterns)
         -   [Using design patterns](#using-design-patterns)
+            -   [Design patterns as intermediate
+                constructs](#design-patterns-as-intermediate-constructs)
             -   [Scalable game design](#scalable-game-design)
             -   [Using collections of
                 patterns](#using-collections-of-patterns)
             -   [Using collections of Game(play) design
                 patterns](#using-collections-of-gameplay-design-patterns)
-            -   [Design patterns as intermediate
-                constructs](#design-patterns-as-intermediate-constructs)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Coding club(houses) & Grass Roots community

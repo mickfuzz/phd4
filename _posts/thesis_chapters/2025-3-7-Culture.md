@@ -9,11 +9,10 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
-
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
     Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
-    -   [Research Questions March 2025](#research-questions-march-2025)
+    -   [Research Questions April 2025](#research-questions-april-2025)
     -   [Research Questions Jan 2025](#research-questions-jan-2025)
     -   [Notes](#notes)
     -   [Introduction](#introduction)
@@ -22,28 +21,34 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
         -   [1. Conceptions of abstraction in the research
             field](#conceptions-of-abstraction-in-the-research-field)
-            -   [1.a in chat](#a-in-chat)
-            -   [1.a.ii. intermediate
-                construct](#a.ii.-intermediate-construct)
-            -   [1.b In computing education
-                pedagogies](#b-in-computing-education-pedagogies)
-                -   [Comparing to pedagogies explicitly teaching
-                    abstraction, computational thinking and
-                    LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
-                -   [Exploring data using concepts of Levels of
-                    Abstraction (LOA) &
-                    PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
-        -   [Summary of the potential utility for several
-            stakeholders](#summary-of-the-potential-utility-for-several-stakeholders)
-            -   [Recap is GDPS a good framework or what? - PERHAPS MOVE
-                TO CHAPTER
-                END?](#recap-is-gdps-a-good-framework-or-what---perhaps-move-to-chapter-end)
-        -   [This feels like a different section
-            now.](#this-feels-like-a-different-section-now.)
-            -   [First area of contribution to the research in the
-                field: An applied pedagogy with detailed analysis of
-                inherent structural components -
-                REEPP](#first-area-of-contribution-to-the-research-in-the-field-an-applied-pedagogy-with-detailed-analysis-of-inherent-structural-components---reepp)
+        -   [Comparing to pedagogies explicitly teaching abstraction,
+            computational thinking and
+            LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
+            -   [**Exploring the concrete with
+                bricolage**](#exploring-the-concrete-with-bricolage)
+            -   [**Blackboxing inline with constructionism (again),
+                interpreted with abs/conct
+                lens**](#blackboxing-inline-with-constructionism-again-interpreted-with-absconct-lens)
+            -   [Exploring data using concepts of Levels of Abstraction
+                (LOA) &
+                PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+            -   [Reflections on design in relation to other research -
+                PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS
+                FIT INTO THIS PICTURE - SGD & DENNER (AS FORM OF
+                ANALYSIS)](#reflections-on-design-in-relation-to-other-research---perhaps-via-primm-and-umc-and-how-do-design-patterns-fit-into-this-picture---sgd-denner-as-form-of-analysis)
+        -   [Gaps in research](#gaps-in-research)
+        -   [Summary of - OR IS IT REFLECTIONS ON? the potential utility
+            of GDPs? of abstract / concrete exploration? for several
+            stakeholders](#summary-of---or-is-it-reflections-on-the-potential-utility-of-gdps-of-abstract-concrete-exploration-for-several-stakeholders)
+            -   [Summary of structural components of applied pedagogy -
+                REEPP & A gateway view of learning dimensions. MOVE
+                DISCUSSION
+                UP](#summary-of-structural-components-of-applied-pedagogy---reepp-a-gateway-view-of-learning-dimensions.-move-discussion-up)
+        -   [Reexaming the use of GDPs from intermediate-level knowledge
+            (to a gateway
+            framework)](#reexaming-the-use-of-gdps-from-intermediate-level-knowledge-to-a-gateway-framework)
+        -   [Link to next section - limits of this personal dimension
+            approach](#link-to-next-section---limits-of-this-personal-dimension-approach)
     -   [Part Two - Agency, and re-mediation of repertoires in third
         spaces](#part-two---agency-and-re-mediation-of-repertoires-in-third-spaces)
         -   [Instrumental and transformational
@@ -56,60 +61,55 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Overview / recap of relational agency and repertoires in
             theory - KEEP
             SHORT](#overview-recap-of-relational-agency-and-repertoires-in-theory---keep-short)
-        -   [Movement of repertoires between spaces, via integration of
-            funds of knowledge and division of labour
-            practices](#movement-of-repertoires-between-spaces-via-integration-of-funds-of-knowledge-and-division-of-labour-practices)
-        -   [Emerging identity formation (via specialisation &
-            ?)](#emerging-identity-formation-via-specialisation)
+            -   [Playtesting as a suitable medium for emerging
+                activities creating third
+                spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
+        -   [Repertoire movement between spaces, repertoires in practice
+            (FOk) practices, Dol and helping
+            styles](#repertoire-movement-between-spaces-repertoires-in-practice-fok-practices-dol-and-helping-styles)
+        -   [Emerging identity formation via
+            specialisation](#emerging-identity-formation-via-specialisation)
             -   [Specialism (in making / not playtesting this can be
                 brief?
                 )](#specialism-in-making-not-playtesting-this-can-be-brief)
             -   [Expressions of identity in variations in approaches to
                 playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
+        -   [Interventions to accelerate and facilitate the process of
+            repertoire
+            blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
             -   [The introduction of maker types and side missions as
                 affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
-            -   [Maker types - FROM LAST CHAPTER
-                INTEGRATE](#maker-types---from-last-chapter-integrate)
-            -   [LINK? Issues of cultural inclusion via
-                design](#link-issues-of-cultural-inclusion-via-design)
-    -   [Part Three : Synthesis & contributions to the field = EDITING
-        DOWN OR
-        MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
-        -   [Gaps in research](#gaps-in-research)
+    -   [Implications for design & a contribution
+        proposal](#implications-for-design-a-contribution-proposal)
         -   [Designing for shifting forms of
             agency](#designing-for-shifting-forms-of-agency)
-            -   [The value of designing for shifting forms agency as a
-                transferable
-                concepts.](#the-value-of-designing-for-shifting-forms-agency-as-a-transferable-concepts.)
-            -   [Types of agency?
-                Specialism](#types-of-agency-specialism)
-        -   [Structural elements of
-            pedagogy](#structural-elements-of-pedagogy)
-            -   [REEPP recap & GDPs as a gateway
-                framework](#reepp-recap-gdps-as-a-gateway-framework)
-            -   [CCRREEPP pedagogy as a synthesis of the strands
-                explored in this
-                research.](#ccrreepp-pedagogy-as-a-synthesis-of-the-strands-explored-in-this-research.)
-        -   [Table representation of characteristics and examples of
-            agency development potential in the learning design - MOVE
-            UP TO END FOR PART
-            ONE?](#table-representation-of-characteristics-and-examples-of-agency-development-potential-in-the-learning-design---move-up-to-end-for-part-one)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
-            -   [Harbours as structures and staging posts facilitating
-                transformational
-                movement](#harbours-as-structures-and-staging-posts-facilitating-transformational-movement)
-            -   [Jamming in music sessions](#jamming-in-music-sessions)
-        -   [Summary of this section](#summary-of-this-section)
-            -   [Summary on discussion on designing for
-                agency](#summary-on-discussion-on-designing-for-agency)
+            -   [Harbours as both protective and
+                authentic](#harbours-as-both-protective-and-authentic)
+            -   [Spaces to play - playgrounds and jam
+                sessions](#spaces-to-play---playgrounds-and-jam-sessions)
+    -   [Part Three : Synthesis & contributions to the field = EDITING
+        DOWN OR MOVING TO CHAP
+        8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
+        -   [CCRREEPP & GDPs as a gateway pedagogical
+            framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
+        -   [GDPs as a gateway pedagogical
+            framework](#gdps-as-a-gateway-pedagogical-framework)
+            -   [Table of utility of dimensions of GDP use for different
+                stakeholders](#table-of-utility-of-dimensions-of-gdp-use-for-different-stakeholders)
+        -   [Second area of contribution to the research in the field: A
+            complex view of agency and repertoires development AND the
+            value of that to contribute to research on DBR / FI
+            etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
+            -   [Types of agency?
+                Specialism](#types-of-agency-specialism)
+            -   [Summary of discussion on designing for
+                agency](#summary-of-discussion-on-designing-for-agency)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
-        -   [Contribution to the research in the field: The impact of
-            the DBR /
-            FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
     -   [Notes - MOVED TO THE END FOR
@@ -126,6 +126,9 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Questions and Conceptual challenges to dissemination - MOVE
             PERHAPS TO NEXT
             CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
+        -   [6. The impact of constraints in design on agency - NOT SURE
+            -MOVE to
+            concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
 
@@ -298,7 +301,7 @@ While not needed as a product of formative interventions, this research had a ca
 
 **1.a.ii. intermediate construct**
 
-Eriksson et al. [-@eriksson_using_2019], used gameplay design patterns with young people and used a curated collection of GDPs as a base for the young people make design suggestions to alter a game. Following Hook [-@hook_strong_2012], the authors frame design patterns as "intermediate-level concepts", between the detail of concrete implementation and more general theories. Before exploring this aspect in relation the findings of this study  on use of GDPs, of value to articulate dimentions of abstraction and concreteness in the context of computing education by revisiting relevant pedagogies outlined in Chapter 2 from this perspective.
+Eriksson et al. [-@eriksson_using_2019], used gameplay design patterns with young people and used a curated collection of GDPs as a base for the young people make design suggestions to alter a game. Following Hook [-@hook_strong_2012], the authors frame design patterns as "intermediate-level concepts", between the detail of concrete implementation and more general theories. Before exploring this aspect in relation the findings of this study  on use of GDPs, of value to articulate dimensions of abstraction and concreteness in the context of computing education by revisiting relevant pedagogies outlined in Chapter 2 from this perspective.
 
 <!-- Some instances based on this kernel concept were created by myself in response to user requests in varied forms of support documentation outlined in Chapter 5 ( e.g. quick start card -->
 
@@ -314,11 +317,11 @@ Eriksson et al. [-@eriksson_using_2019], used gameplay design patterns with youn
 <!-- To ground this in GCSE examples.
 Iteration and Selection are in the gcse example, tick examples of them. Just recognise. -->
 
-**Exploring the concrete with bricolage**
+#### **Exploring the concrete with bricolage**
 
 Chapter 2 explores definitions of computational thinking varying in degrees of abstraction or application. Two notably interpretations include Wing's [wing_computational_2006] focus on abstraction encompassing as overarching computing principles and high level structural design approaches, and Resnick and Brennan's [@brennan_new_2012] more applied approach including _computational practices_ and perspectives. This applied approach draws on the legacy of Papert and Turkle's [-@papert_epistemological_1990] research on diversity in coding approaches to counter potentially alienating abstract approaches. Framed as bricolage, concrete coding approaches included an iterative approach, proximity to the code and strong links between function and form, and maintaining closer contact with a concrete sense of the outcomes even at the expense of programming efficiency or neatness of code.
 
-**Blackboxing inline with constructionism (again), interpreted with abs/conct lens**
+#### **Blackboxing inline with constructionism (again), interpreted with abs/conct lens**
 
 The data of Chapter 5 details the development of a learning pedagogy which aligns primarily to the more concrete applied approach as a way of ameliorating barriers of conceptual complexity. Observations show many of my participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation. Responsive design decisions in line with constructionist design heuristics [@resnick_reflections_2005] facilitated concrete exploration and rapid feedback through by abstracting (or black-boxing) more complex and abstract element of the starting template. As a facilitator I undertook some code template design and implementation that would have been a potentially valuable learning experience requiring more generalisable computational thinking skills. Specifically this involved, the process of code decomposition via the pre-existing functions in the code template, abstraction via the structuring of the template with key variables moved to the start of the code, and abstraction again in template via the graphical design tool in the form of a grid matrix in an array data structure. Processes of decomposition and pattern recognition were present in the structuring of the collection of GDPs. The process of scaffolding this abstraction allowed greater focus on more relational and affective elements of the learning design, processes which are described in more depth later. Despite these scaffolded elements, many participants still navigated between poles of more abstract and concrete elements of design and programming processes as explored in the following section.  
 
@@ -420,6 +423,21 @@ It is of value to address the utility of framing the design element of the use o
 
 
 
+#### Reflections on design in relation to other research - PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS FIT INTO THIS PICTURE - SGD & DENNER (AS FORM OF ANALYSIS)
+
+The judicial process of abstraction, referred to in design domain as black-boxing is present in several aspects of this technical approach (see Appendix.tech for fuller details). Examples include: use of code playground and existing template to simplify the use of the interacting web technologies; structural and syntactical template design decisions,     
+
+Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+The structure synthesises element of scalable game design (SGD) and Use Modify Create (UMC) pedagogies.
+
+Similar to SGD a progressively stepped approach is taken here.
+These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
+
+While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
+
+
+
 <!-- MOVE OR DROP..
 At this stage, it is valuable to look past a potentially arbitrary placing of these levels within a hierarchy to investigate instead the core value of the relational nature of the framework to other concepts in the context of my research. To help with this analysis of utility,  -->
 
@@ -455,8 +473,6 @@ The work of Quintana et al contains useful guidelines for checking the suitabili
 
 MOVE LATER?
 Given the exploration of LOA, semantic waves, and Papert's work. Does the framework provided by GDPs sit between a more abstract theory and concrete implementation as given? Waite's conception of LOA would place the implementation of each GDP at the highest level of abstraction, whereas the more potentially transferable nature of Wing's abstract CT conceptions would form a candidate for a more generalisable theory. As such, GDPs would be situated between those and concrete implementation.
-
-
 
 
 ### Summary of - OR IS IT REFLECTIONS ON? the potential utility of GDPs? of abstract / concrete exploration?  for several stakeholders
@@ -553,6 +569,8 @@ In the framing of CHAT, the implementation of GDPS can be treated as a distinct 
 
 
 
+
+
 <!-- If a knowledge of CT is needed by the learning context then it could be profitably explored in other ways. For example, developing resources suitable for such reflection,  for instance a learning map to be used by participants and teachers as explred in P4 . Linking from docs to descriptions of the characteristics. Thus not a leading pedagogical framework but a map of possible skills and concepts made possible by the leading activity. -->
 
 
@@ -575,26 +593,22 @@ However this research contends that GDPs are a more suitable accessible  framewo
 
 #### Summary of structural components of applied pedagogy   - REEPP & A gateway view of learning dimensions. MOVE DISCUSSION UP
 
-MOVE UTILITY DOWN?
+
+This technical structure synthesises use of a code playground, game library, a half-baked game template, UMC pedagogy, and the use of a collection of game design patterns. While similar approaches exist this pedagogical structure is innovative in the way systemic tensions have been resolved and congruencies introduced. I propose that key elements of this pedagogy constitute a replicable approach which is a valuable contribution to coding education. To communicate the essence of this structural, technical model I propose an acronym remix enabled, elective, progressive, pattern patching (REEPPP).
 
 
-While concrete, I propose that the instance constitutes a replicable pedagogy which is a valuable contribution to pedagogies in this area. To communicate the essence of this structural, technical model I propose an acronym remix enabled elective pattern patching (REEPP).
+| REEPPP Letter            | REEPPP Term  | Description |
+|---------------|--------------|---------------|
+| **RE**  | **R**emix **E**nabled | Project formation is accelerated, limited and scaffolded through the use of a structural starting template in a recognisable project genre. |
+| **E**  | **E**lective | Participants have choices over their learning pathways in dimensions of content and design patterns to be added. |
+| **P**  | **P**rogressive | The processes involves progressive steps. In this case pattern recognition through exploration/play, quick start activities involving minimal changes with high impact on the project outcomes, using progressively more challenging documented patterns, finally implementing patterns without support |
+| **P**  | **P**attern | The process has at its core the use of recognisable design patterns which are presented together with suggested design solutions and concrete code snippets. |
+| **P**  | **P**atching | The authentic technical process of code patching accelerates production and creates errors suitable for debugging at a novice level. |
 
+The above summary has been written to be applicable to projects beyond the use of games.
 
-This technical structure synthesises use of a code playground, game library, a half-baked game template, UMC pedagogy, and the use of a collection of game design patterns. While similar approaches exist this pedagogical structure is innovative in the way systemic tensions have been resolved and congruencies introduced.
-
-This section summaries the innovative elements of this structural / technical approach,
 
 <!-- NOTE - THERE'S ANOTHER SECTION IN CH.8. -->
-
-
-The judicial process of abstraction, referred to in design domain as black-boxing is present in several aspects of this technical approach (see Appendix.tech for fuller details). Examples include: use of code playground and existing template to simplify the use of the interacting web technologies; structural and syntactical template design decisions,     
-
-Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
-
-The structure synthesises element of scalable game design (SGD) and Use Modify Create (UMC) pedagogies.
-
-While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
 
 <!-- NOTE (If applies collaboratively, it becomes CREEPP) -->
 <!--
@@ -603,17 +617,17 @@ this break through facilitated the development of different "stepped" progressiv
 
 
 
-### Reframing use of GDPs from intermediate-level knowledge to a gateway framework
+### Reexaming the use of GDPs from intermediate-level knowledge (to a gateway framework)
 
 MOVE LATER? AND DEVELOP WITH REFERENCE TO SOCIAL AIMS TOO?
 NO - KEEP HERE AND FOCUS ON PERSONAL AIMS FIRST.
 
 
-![Illustration 7.x - GDPs as a gateway framework  ](./Pictures/ch_7_gateway_dia_1.png){width=50%}
+![Illustration 7.x - GDPs as a gateway framework  ](./Pictures/ch_7_gateway_dia_4.png){width=50%}
 
 <!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
 
-I suggest  a change in terminology. Instead of an _intermediate framework_, I propose the term _gateway framework_ to communicate potential utility in opening up exploration of different dimensions of learning.
+
 
 
 MOVE SOME OF THIS UP TO THE REEEPP SECTION - KEEP FOCUSED ON ABSTRACT / CONCRETE.
@@ -626,26 +640,28 @@ Secondly, a working code framework or template is provided with affordances stro
 
 Thirdly, just-in-time supporting resources are provided, closely aligned to the sub-goals of GDPs. Finally, this gateway framework may also facilitate reflection on its use, and reinforcement of this process can be structured using supporting tools, such as a learning map (see appendix.learningmap for an example in P4).
 
-NOT SURE WHERE THIS FITS?
-In the previous analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter. For participants, the framework of GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting. The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
-
 <!-- The use of a menu / collection of resources can be considered an inclusive educational practice and offer a rich description of a concrete example which aims to align to inclusive, practice-based frameworks like UDL and PBL. While this may involve more work in advance, the benefits to inclusive practice merit it. -->
 
 
 
 ### Link to next section - limits of this personal dimension approach
 
-LINK - SO MOVE LATER
 
-This chapter contend that the underlying structure of the learning design in addition to support the social and cultural processes described above, is a valid contribution to the field as a technical pedagogical structure.
 
-My research data shows the value of the REEPP approach to facilitate a socio-cultural approach to game making. The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section.
+My research data shows the value of the REEPPP approach, structured around the use of GDPs, to access and facilitate dimensions of game making associated with both concrete and abstract knowledge and practices.
+
+Broad descripton - SUMMARY OF UTILITY - DOES THIS LIVE HERE?
+For participants, the GDPs facilitates goal formation. Once engaged with this goal, participants can use the affordances of the design to traverse different LOA without explicit instruction in the process of playtesting.
+
+This analysis of the use of GDPs through the lens of research on the abstract and concrete dimensions in computing education, there is an alignment with the personal dimension of knowledge highlighted in the previous chapter.
+This line of research also opens up other dimensions
+
+The scaffolding provided by the template and the close coupling of the purpose, description and implementation of each GDP accelerates and supports the making process which in turn allows for greater possibilities of social and cultural making via playtesting outlined in the following section.
 
 Thus the structural elements of this design facilitate the kind of relational pedagogies originally advocated by Papert and but which have too often been missing from research in this field.
-LINK
 
-WHY RELEVANT? PATHWAYS?
-These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
+The following section develops an analysis of the findings from the last chapter, outlining the potential of GDP concepts, especially within playtesting, to support these participant shifts in perspective. The following section addresses the social and cultural aspects of this study, using the development of varied forms of participant agency as an analytical lens.
+
 
 
 <!-- in P4, with a diagram expressed which drew on the concept of semantic waves DROP OR REVISE?. This is an strong candidate for further research. -->
@@ -1200,7 +1216,7 @@ or examples see the book , a
 The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail. -->
 
 
-## Part Three : Synthesis & contributions to the field = EDITING DOWN OR MOVING
+## Part Three : Synthesis & contributions to the field = EDITING DOWN OR MOVING TO CHAP 8
 
 
 <!-- TO INTEGRATE?
@@ -1211,15 +1227,34 @@ The role of the emerging culture and identity of the idioculture  is developed i
 
 - the emergence and nurturing of flexible and complex design behaviours (beyond player types) -->
 
+### CCRREEPP &  GDPs as a gateway pedagogical framework
 
-#### GDPs as a gateway pedagogical framework
-
-I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a gateway framework to facilitate to process of development of social and cultural repertoires of practice.
-
+This chapter contend that the underlying structure of the learning design in addition to support the social and cultural processes described above, is a valid contribution to the field as a technical pedagogical structure.
 
 
-![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/gateway_fr.png){width=95%}
+There is a value of attempting to integrate the holistic approach outlined in this research by unifying the strands of part one and part two of this chapter. To do this the structural element of the REEPP framework would need to be augmented with the socio-cultural elements explored in part two. To do this, I propose the lengthy but logical acronym: collaborative, culturally responsive, remix enabled, elective, progressive pattern patching (CCRREEPPP).
 
+<!-- In this cultural context the process of patching also references the process of repertoire blending outlined above. -->
+
+### GDPs as a gateway pedagogical framework
+
+I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a  framework to facilitate to process of development of social and cultural repertoires of practice.
+
+I suggest  a change in terminology. Instead of interpreting design patterns here as _intermediate_ constructs, I propose the term _gateway pedagogical framework_ to communicate potential utility in opening up exploration of different dimensions of learning.
+
+![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_gateway_dia_3.png){width=95%}
+
+
+The shift from intermediate to gateway also addresses the issue of how to present the dimensions of abstract and concrete. Abstract concepts are often positioned as higher in a spacial representation. This is present in semantic profiling diagrams above, in y example, and even the phrase top-down planning from Papert and Turkle in their challenging of this privileging of abstract approaches communicates an implied superiority of approach. By way of contrast, the Mark's phrase _rising to the concrete_ reverses this polarity. Similarly, as a small attempt to challenge this convention I reverse the polarity placing concrete dimension at the top of the illustration.
+
+
+#### Table of utility of dimensions of GDP use for different stakeholders
+
+| **Participants**            | **Facilitators** | **Researchers** |
+|---------------|--------------|---------------|
+| Goal Formation | Assisting goal formation | Assessing motivation |
+| Goal Formation | Assisting goal formation | Assessing motivation |
+| Goal Formation | Assisting goal formation | Assessing motivation |
 
 ### Second area of contribution to the research in the field:  A complex view of agency and repertoires development AND the value of that to contribute to research on DBR / FI etc.
 
@@ -1235,35 +1270,6 @@ I propose that providing a menu of GDPs can, as with accessing more abstract con
 
 
 
-##### The value of designing for shifting forms agency as a transferrable concepts.
-
-<!--
-At this stage is relevant to return to issues of underlying  motivation driving participation as a way of making a link to existing research on digital making pedagogy.
-
-This metaphor serves to illustrate the importance of and possibilities for development of relational agency via participation in the joint process.  -->
-
-<!-- As relational agency is the goal and the means then building fluency of practice is an observable result of this process both in dimensions of technical fluency and in possibilities for expression.  -->
-
-In this section, I propose a contribution to pedagogies developing  concepts technological or computational fluency [@resnick_coding_2020; @papert_technological_1995].
-
-
-**Gap in research in designing for agency**
-
-Existing concepts of computational, technological, and gaming fluency within constructionism are contain limitations.
-
-Firstly, the fracturing of varied forms of fluency dependant of different domains, shift focus to the domain specific context, and use of tools involved rather than the underlying commonalities of the evolving community experience. Thus I propose a socio-cultural view of participant agency as a  candidate to design for than domain fluency.
-
-Secondly, the potentially individualised approach as surfaced by Vossoughi []. This research frames agency as a group process rather than an individual attribute. It has surfaced dimensions of agency including fluidity of technical practice, and expressive, relational characteristics of an emerging inclusive, idioculture.
-
-There is a challenge in communicating the value of this framing of the research to practitioners.
-
-<!-- Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it. -->
-
-
-REFRAME AS CONTRIBUTION
-In this thesis I highlight the value of recognising the shifting nature of agency in this game making process, the value of designing for varied forms of agency, and  the use of metaphors to represent learning spaces and processes that foster agency in game making.
-
-The conception of development of repertoires of practices is key to this interpretation.
 
 
 #### Types of agency? Specialism
@@ -1277,6 +1283,8 @@ Thus transformation is happening here but not in a revolutionary way. It is more
 
 
 #### Summary of discussion on designing for agency
+
+IS THIS LINKED TO THE TABLE OF DESIGN TENSIONS AND RESOLUTIONS?
 
 Agency in this in game making community is seen as multi-dimensional and as a process located in community participation rather than an individualised property.
 
@@ -1294,50 +1302,6 @@ My proposal is that this research supports a view that the above techniques alig
 
 
 
-#### Contribution to the research in the field:  The impact of the DBR / FI  
-
-
-<!-- https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455 -->
-
-
-
-While the core theoretical framework of CHAT has been extremely useful in exposing important element of this research in flexible ways, this research raises important questions which are still in the process of being advanced in terms of suitable methodology.  Conceptions of both CHAT and DBR are still evolving. For example, AT proponents are advancing a 4th generation which responds to increasingly rapid and evolving situations [@engestrom_mediated_2021]. As a early career research and novice I cautiously advance some observations, at times framed as questions which may be fruitful in future interaction with DBR and FI research community.
-
-1. How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice?
-
-2. What are the pros and cons of the use of 360 video to capture social / cultural interactions especially in this field.
-
-3. The focus on broad affordances, and an expanded view of motivation and new emerging Zopeds - is needed for socio-cultural theory in this area. Hence the value of an experimental approach and the role of playtesting in advancing that process.
-
-4. How best can socio-cultural approaches be aligned with constructionist legacy. Is my approach of x, fruitful in other areas?
-
-
-TO INTEGRATE
-The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
-
-
-**Agency / Equity Terms - utopian concepts**
-
-_Shifting forms of agency_
-Returning to the dilemma regarding the difficulty of maintaining a learning design requiring heroic levels of transformational agency, and the difficulty of replicating such conditions,
-While there is clearly value in TADS as a concept in early stages of design, in particular as analytical tool, I lean more towards Gutiérrez's framing of equity and diversity in learning design overall as a goal to work towards.
-
-The discussion above concerning shifting forms of agency can be developed further using the concepts from Gutierrez and Rogoff.
-
-Specifically,  to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
-
-Given the mutuality of the DBR approach of the research process, and the development of relational equity in the process of specialisation [Gutierrez], the process aligns with a utopian approach to design research
-
-
-**equity and diversity as concrete instances with the learning environment**
-
-Given the possibilities for participants, in particular children to develop specialism which allow them to share their expertise with adults, this invites further investigation of relational equity as a particular form of relational agency. This potential is explored in the conclusion.
-
-
-<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
-
-
-
 ## Conclusion
 
 
@@ -1345,14 +1309,11 @@ As this chapter is ongoing this conclusion is in draft form. Feedback on what to
 
 - the place of this chapter in the narrative of the thesis
 - the limitations or questions arising that may be addressed in the following chapter.
--
-
 
 **limitations/ further work**
 
 This work invites exploration of related issues of
 - inclusion as a lens
-
 
 The final chapters aims to address this with  recommendations for facilitators and researchers. The scope of the applicability is addressed as the findings of this thesis can inform the wider debate of how to best support project based learning in wider domains. Specifically the use of concrete design frameworks and step-based iterative project in scaffolding PBL.
 

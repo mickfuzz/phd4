@@ -10,24 +10,32 @@
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
         -   [1. Conceptions of abstraction in the research
             field](#conceptions-of-abstraction-in-the-research-field)
-            -   [1.a in chat](#a-in-chat)
-            -   [1.a.ii. intermediate
-                construct](#a.ii.-intermediate-construct)
-                -   [Comparing to pedagogies explicitly teaching
-                    abstraction, computational thinking and
-                    LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
-                -   [Exploring data using concepts of Levels of
-                    Abstraction (LOA) &
-                    PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+        -   [Comparing to pedagogies explicitly teaching abstraction,
+            computational thinking and
+            LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
+            -   [**Exploring the concrete with
+                bricolage**](#exploring-the-concrete-with-bricolage)
+            -   [**Blackboxing inline with constructionism (again),
+                interpreted with abs/conct
+                lens**](#blackboxing-inline-with-constructionism-again-interpreted-with-absconct-lens)
+            -   [Exploring data using concepts of Levels of Abstraction
+                (LOA) &
+                PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+            -   [Reflections on design in relation to other research -
+                PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS
+                FIT INTO THIS PICTURE - SGD & DENNER (AS FORM OF
+                ANALYSIS)](#reflections-on-design-in-relation-to-other-research---perhaps-via-primm-and-umc-and-how-do-design-patterns-fit-into-this-picture---sgd-denner-as-form-of-analysis)
         -   [Gaps in research](#gaps-in-research)
+        -   [Summary of - OR IS IT REFLECTIONS ON? the potential utility
+            of GDPs? of abstract / concrete exploration? for several
+            stakeholders](#summary-of---or-is-it-reflections-on-the-potential-utility-of-gdps-of-abstract-concrete-exploration-for-several-stakeholders)
             -   [Summary of structural components of applied pedagogy -
-                REEPP & A gateway view of learning
-                dimensions.](#summary-of-structural-components-of-applied-pedagogy---reepp-a-gateway-view-of-learning-dimensions.)
-        -   [Reframing use of GDPs from intermediate-level knowledge to
-            a gateway
-            framework](#reframing-use-of-gdps-from-intermediate-level-knowledge-to-a-gateway-framework)
-        -   [Summary of the potential utility for several
-            stakeholders](#summary-of-the-potential-utility-for-several-stakeholders)
+                REEPP & A gateway view of learning dimensions. MOVE
+                DISCUSSION
+                UP](#summary-of-structural-components-of-applied-pedagogy---reepp-a-gateway-view-of-learning-dimensions.-move-discussion-up)
+        -   [Reexaming the use of GDPs from intermediate-level knowledge
+            (to a gateway
+            framework)](#reexaming-the-use-of-gdps-from-intermediate-level-knowledge-to-a-gateway-framework)
         -   [Link to next section - limits of this personal dimension
             approach](#link-to-next-section---limits-of-this-personal-dimension-approach)
     -   [Part Two - Agency, and re-mediation of repertoires in third
@@ -73,24 +81,22 @@
             -   [Spaces to play - playgrounds and jam
                 sessions](#spaces-to-play---playgrounds-and-jam-sessions)
     -   [Part Three : Synthesis & contributions to the field = EDITING
-        DOWN OR
-        MOVING](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving)
+        DOWN OR MOVING TO CHAP
+        8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
+        -   [CCRREEPP & GDPs as a gateway pedagogical
+            framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
         -   [GDPs as a gateway pedagogical
             framework](#gdps-as-a-gateway-pedagogical-framework)
+            -   [Table of utility of dimensions of GDP use for different
+                stakeholders](#table-of-utility-of-dimensions-of-gdp-use-for-different-stakeholders)
         -   [Second area of contribution to the research in the field: A
             complex view of agency and repertoires development AND the
             value of that to contribute to research on DBR / FI
             etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
-            -   [The value of designing for shifting forms agency as a
-                transferrable
-                concepts.](#the-value-of-designing-for-shifting-forms-agency-as-a-transferrable-concepts.)
             -   [Types of agency?
                 Specialism](#types-of-agency-specialism)
             -   [Summary of discussion on designing for
                 agency](#summary-of-discussion-on-designing-for-agency)
-            -   [Contribution to the research in the field: The impact
-                of the DBR /
-                FI](#contribution-to-the-research-in-the-field-the-impact-of-the-dbr-fi)
     -   [Conclusion](#conclusion)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent

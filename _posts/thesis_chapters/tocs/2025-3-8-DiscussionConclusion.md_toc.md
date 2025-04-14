@@ -4,25 +4,40 @@
     -   [Outline notes](#outline-notes)
         -   [Initial Discussion Outline](#initial-discussion-outline)
         -   [Initial Conclusion Outline](#initial-conclusion-outline)
-    -   [to integrate SOMEWHERE](#to-integrate-somewhere)
     -   [Introduction](#introduction)
     -   [Key Findings and research
         outputs](#key-findings-and-research-outputs)
+        -   [Significant advances in understanding of how GDPs can be
+            used in the field of CGD&P and
+            beyond](#significant-advances-in-understanding-of-how-gdps-can-be-used-in-the-field-of-cgdp-and-beyond)
         -   [Research output: 3M game making (Meta) model of pedagogical
             elements of the learning
             design](#research-output-3m-game-making-meta-model-of-pedagogical-elements-of-the-learning-design)
         -   [Research Output - REEPP as a technical
             pedagogy](#research-output---reepp-as-a-technical-pedagogy)
-        -   [Research Output - A pedagogy aligned with inclusive
-            approaches and promising for neurodiversity in
-            particular](#research-output---a-pedagogy-aligned-with-inclusive-approaches-and-promising-for-neurodiversity-in-particular)
-        -   [Evidence of evolution on design/ processes and learner
-            agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
-    -   [Theoretical Contributions](#theoretical-contributions)
-        -   [Research Output - Conceptualisations of forms of
-            agency](#research-output---conceptualisations-of-forms-of-agency)
-        -   [Divining authentic
-            frameworks](#divining-authentic-frameworks)
+        -   [Highlighting value of socio-cultural approach to contribute
+            to the field of CGD&P pedagogy (and
+            beyond)](#highlighting-value-of-socio-cultural-approach-to-contribute-to-the-field-of-cgdp-pedagogy-and-beyond)
+            -   [Research Output - A pedagogy aligned with inclusive
+                approaches and promising for neurodiversity in
+                particular](#research-output---a-pedagogy-aligned-with-inclusive-approaches-and-promising-for-neurodiversity-in-particular)
+            -   [Evidence of evolution on design/ processes and learner
+                agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
+            -   [Research Output - Conceptualisations of forms of
+                agency - in
+                context](#research-output---conceptualisations-of-forms-of-agency---in-context)
+            -   [Specific 3M techniques through the lens of agency
+                (RQ3)](#specific-3m-techniques-through-the-lens-of-agency-rq3)
+        -   [DBR / FI / SDBE processes to divining authentic
+            frameworks](#dbr-fi-sdbe-processes-to-divining-authentic-frameworks)
+            -   [Finding intermediate knowledge in the form of learner
+                focused, guiding pedagogical
+                frameworks](#finding-intermediate-knowledge-in-the-form-of-learner-focused-guiding-pedagogical-frameworks)
+            -   [Home Ed families and the research
+                process](#home-ed-families-and-the-research-process)
+        -   [Contribution to the research in the field: DBR / FI & 4TH
+            GENERATION CHAT / UTOPIAN
+            METHODOLOGIES](#contribution-to-the-research-in-the-field-dbr-fi-4th-generation-chat-utopian-methodologies)
     -   [Practical implications and recommendations for
         practice](#practical-implications-and-recommendations-for-practice)
         -   [Transfer of collection of Design patterns as a gateway
@@ -41,8 +56,8 @@
                 coding for empowerment/ learner agency with STEM
                 pipeline
                 narrative](#abstact-vs-applied-frameworks---comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
-            -   [Guided iterative (step-wise) project
-                frames.](#guided-iterative-step-wise-project-frames.)
+            -   [Guided iterative (stepped) project
+                frames.](#guided-iterative-stepped-project-frames.)
         -   [The value and processes of creating space for emergent
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
         -   [Summary of implications for practice to encourage

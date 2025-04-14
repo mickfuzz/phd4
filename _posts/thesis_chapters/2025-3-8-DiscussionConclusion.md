@@ -294,6 +294,11 @@ Recreating resources in P5.js is a strong possibility to make this approach more
 
 ### Highlighting value of socio-cultural approach to contribute to the field of CGD&P pedagogy (and beyond)
 
+RETURNING TO THE PRINCIPLE QUESTION
+
+How best can socio-cultural approaches be aligned with constructionist legacy. Is my approach of x, fruitful in other areas?
+
+
 #### Research Output - A pedagogy aligned with inclusive approaches and promising for neurodiversity in particular
 
 The lens of inclusion and the alignment with UDL is relevant as a possible resolution to abstract  / concrete tensions as a gateway to access diverse learner pathways and thus avoid an overly complex navigational framework thus reducing cogintive load.
@@ -318,12 +323,7 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
 
 
-
-
-
-## Theoretical Contributions - MERGE UP ITS' ALL THE SAME SECTION
-
-### Research Output - Conceptualisations of forms of agency - in context
+#### Research Output - Conceptualisations of forms of agency - in context
 
 THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
 
@@ -340,6 +340,38 @@ There is alignment with other research in terms of how
  - this process merits attention and alignment with overall project aims of the designer
  - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
  - ideally emergent and producing a culture series of
+
+ ##### The value of designing for shifting forms agency as a transferrable concepts.
+
+ <!--
+ At this stage is relevant to return to issues of underlying  motivation driving participation as a way of making a link to existing research on digital making pedagogy.
+
+ This metaphor serves to illustrate the importance of and possibilities for development of relational agency via participation in the joint process.  -->
+
+ <!-- As relational agency is the goal and the means then building fluency of practice is an observable result of this process both in dimensions of technical fluency and in possibilities for expression.  -->
+
+ In this section, I propose a contribution to pedagogies developing  concepts technological or computational fluency [@resnick_coding_2020; @papert_technological_1995].
+
+
+ **Gap in research in designing for agency - THIS SHOULD BE MOVED UP?**
+
+ Existing concepts of computational, technological, and gaming fluency within constructionism are contain limitations.
+
+ Firstly, the fracturing of varied forms of fluency dependant of different domains, shift focus to the domain specific context, and use of tools involved rather than the underlying commonalities of the evolving community experience. Thus I propose a socio-cultural view of participant agency as a  candidate to design for than domain fluency.
+ EARLIER?
+
+ Secondly, the potentially individualised approach as surfaced by Vossoughi []. This research frames agency as a group process rather than an individual attribute. It has surfaced dimensions of agency including fluidity of technical practice, and expressive, relational characteristics of an emerging inclusive, idioculture.
+
+ There is a challenge in communicating the value of this framing of the research to practitioners.
+
+ <!-- Learner agency in the form of choice over the  chosen activity is present not only in the dimensions of the difficulty and theme of the game features they wished to add, but also in their approach to undertaking it. -->
+
+
+ REFRAME AS CONTRIBUTION
+ In this thesis I highlight the value of recognising the shifting nature of agency in this game making process, the value of designing for varied forms of agency, and  the use of metaphors to represent learning spaces and processes that foster agency in game making.
+
+ The conception of development of repertoires of practices is key to this interpretation.
+
 
 
 #### Specific 3M  techniques through the lens of agency (RQ3)
@@ -372,6 +404,49 @@ PERHAPS ONE FOR FINAL CHAPTER
 
 MOVE to THE CONCLUSION
 Addressing the replicability of the research process, it is of value here to recap the previous chapters characterision of its nature as as open and risky, and requiring me to rapidly generate new tools in response. Certain factors mitigated against the incomplete design, namely a tenatious group of participants in P1, and my existing relationship with some participants built in previous encounters. The input of families as a responsive testing group and as detailed above, as active inputters to the evolving pedagogical approach was significant. As such, while this aspect is not extensively explored in this study, I propose there is significant potential in the input of home educating families as a consituant part in collaborative design based approaches to  uncover exisiting, situated repetoires in a way that can shape emergent practices in new learning expereiences. Specifically potential to can inform design  to produce tools and pedagogies aims which can help other facilitators seed productive community activity in other learning settings.
+
+
+
+### Contribution to the research in the field:  DBR / FI & 4TH GENERATION CHAT / UTOPIAN METHODOLOGIES
+
+<!--
+ON 4TH GENERATIN AT - FOCUSING MOSTLY ON SOCIETAL LEVEL ON A LOCAL LEVEL - WITH DIFFERENT TEMPORARY STAKEHOLDERS.
+https://www.tandfonline.com/doi/full/10.1080/10749039.2020.1806328#d1e455 -->
+
+While the core theoretical framework of CHAT has been extremely useful in exposing important element of this research in flexible ways, this research raises important questions which are still in the process of being advanced in terms of suitable methodology.  Conceptions of both CHAT and DBR are still evolving. For example, AT proponents are advancing a 4th generation which responds to increasingly rapid and evolving situations [@engestrom_mediated_2021]. As a early career research and novice I cautiously advance some observations, at times framed as questions which may be fruitful in future interaction with DBR and FI research community.
+
+1. How structural and permanent does transformational agency needs to be before it becomes transformational compared to a more blended view of emerging repertoires of practice?
+
+2. What are the pros and cons of the use of 360 video to capture social / cultural interactions especially in this field.
+
+3. The focus on broad affordances, and an expanded view of motivation and new emerging Zopeds - is needed for socio-cultural theory in this area. Hence the value of an experimental approach and the role of playtesting in advancing that process.
+
+
+
+TO INTEGRATE
+The process of identifying and working with GDPs in this research process can be mapped as a dialectical process of moving (rising) to the concrete [@sannino_activity_2011]. It is this movement from a kernel idea into varied concrete instances that is the root of the power of the approach according to CHAT scholars.  While, the varied uses as meditational strategies and their integration into varied concrete forms of creative cultural and interpersonal repertoires many be particular to this setting, the germ cell concept described above is a theoretical and generalisable abstraction not particular to this context.
+
+
+**Agency / Equity Terms - utopian concepts**
+
+_Shifting forms of agency_
+Returning to the dilemma regarding the difficulty of maintaining a learning design requiring heroic levels of transformational agency, and the difficulty of replicating such conditions,
+While there is clearly value in TADS as a concept in early stages of design, in particular as analytical tool, I lean more towards Gutiérrez's framing of equity and diversity in learning design overall as a goal to work towards.
+
+The discussion above concerning shifting forms of agency can be developed further using the concepts from Gutierrez and Rogoff.
+
+Specifically,  to encompass, equity, diversity, enacted, concrete, thus towards inclusion.
+
+Given the mutuality of the DBR approach of the research process, and the development of relational equity in the process of specialisation [Gutierrez], the process aligns with a utopian approach to design research
+
+
+**equity and diversity as concrete instances with the learning environment**
+
+Given the possibilities for participants, in particular children to develop specialism which allow them to share their expertise with adults, this invites further investigation of relational equity as a particular form of relational agency. This potential is explored in the conclusion.
+
+
+<!-- ORIGINAL NOTE : KEEP THE FOCUS ON TOOLS HERE - SIGNPOST TO OTHER SECTIONS IF NEEDED. -->
+
 
 
 
