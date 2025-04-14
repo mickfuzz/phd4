@@ -392,8 +392,6 @@ This pattern is due the black-boxing of more complex and abstract element of the
 This is explored via rationale and the process.   REMOVE THIS LATER MAKE  BETTER LINK.
 
 
-
-
 #### Processes of blackboxing
 
 
@@ -459,6 +457,8 @@ Such a possibility returns to a tension in research on project-based approaches 
 
 
 
+
+
 #### Alternative/s in approaches are possible
 
 Thus, while the scope of movement here is relatively shallow, given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible. A possible alternative profile is represented in the illustration below.  
@@ -476,18 +476,7 @@ A process to encourage this would be a gamification of the process of reflection
 
 
 
-#### Reflections on design in relation to other research - PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS FIT INTO THIS PICTURE - SGD & DENNER (AS FORM OF ANALYSIS)
 
-
-
-Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
-
-The structure synthesises element of scalable game design (SGD) and Use Modify Create (UMC) pedagogies.
-
-Similar to SGD a progressively stepped approach is taken here.
-These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
-
-While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
 
 
 
@@ -570,6 +559,20 @@ However this research contends that GDPs are a more suitable accessible  framewo
 
 <!-- As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
  -->
+
+
+#### Reflections on design in relation to other research - PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS FIT INTO THIS PICTURE - SGD & DENNER (AS FORM OF ANALYSIS)
+
+
+
+Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+The structure synthesises element of scalable game design (SGD) and Use Modify Create (UMC) pedagogies.
+
+Similar to SGD a progressively stepped approach is taken here.
+These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
+
+While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
 
 
 #### Summary of structural components of applied pedagogy   - REEPP & A gateway view of learning dimensions. MOVE DISCUSSION UP
