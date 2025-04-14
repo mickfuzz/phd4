@@ -440,12 +440,7 @@ Turning instead to the value for designers and facilitators, my reflections on r
 
 While this research doesn't negate or preclude the value of explicit teaching of more abstract dimension of computational thinking, it suggests that GDPs are a more suitable accessible leading pedagogical framework than computational thinking.
 
-While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings.
 
-
-Turning to the utility for designers and and facilitators, it follows that the concerns above are also relevant for this group of stakeholders in terms of supporting learners. GDPs can also be useful for wider pedagogical and analytical motivations. One such motivation is the ability for a solid understanding of GDPs to open up exploration of other concepts.
-
-Such a possibility returns to a tension in research on project-based approaches to digital making, in finding appropriate level of scaffolding [@waite_teaching_2021; @quintana_scaffolding_2004]. The use of conceptual and practical frameworks to scaffold domain specific working practices can help ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
 
 
 
@@ -463,20 +458,12 @@ Such a possibility returns to a tension in research on project-based approaches 
 
 Thus, while the scope of movement here is relatively shallow, given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible. A possible alternative profile is represented in the illustration below.  
 
-MOVE THIS LOWER.
 
 ![Illustration 7.x - Possible alternative semantic profile  ](./Pictures/ch_7_sw_dia_2.png){width=95%}
 
 In different contexts, the process of supporting students to follow the dotted path into areas of more abstract concepts could have been scaffolded further through guided reflective processes. As explored in Chapter 5, I explored modifications to the documentation to include candidate of the map of learning map dimensions in the initial descriptions of GDPS ( see Appendix.learningDimensions.)
 
 A process to encourage this would be a gamification of the process of reflection, perhaps by attributing badges or points to the a successful reflection of different elements of learning dimension. The extrinsic nature of the process of gamification matches here the extrinsic contextual factors of examination-driven education. While this is a potentially fruitful area for future work, given the core context of non-formal learning of this study it was de-prioritised in this thesis.
-
-
-
-
-
-
-
 
 
 
@@ -502,11 +489,6 @@ Thus in summary conceptions of abstraction above explored above include:
 - Wing's take on computational thinking: abstraction, decomposition, generalisation / pattern recognition, implementation via an algorithmic process.
 - A more holistic practice-based definition from Resnick, Brennan -
 - Waite's LOA - abstract here drawing on levels within the problem or product  - navigation between levels, explicit teaching of such navigation. -->
-
-
-
-
-
 
 
 
@@ -564,6 +546,11 @@ However this research contends that GDPs are a more suitable accessible  framewo
 #### Reflections on design in relation to other research - PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS FIT INTO THIS PICTURE - SGD & DENNER (AS FORM OF ANALYSIS)
 
 
+While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings.
+
+Turning to the utility for designers and and facilitators, it follows that the concerns above are also relevant for this group of stakeholders in terms of supporting learners. GDPs can also be useful for wider pedagogical and analytical motivations. One such motivation is the ability for a solid understanding of GDPs to open up exploration of other concepts.
+
+Such a possibility returns to a tension in research on project-based approaches to digital making, in finding appropriate level of scaffolding [@waite_teaching_2021; @quintana_scaffolding_2004]. The use of conceptual and practical frameworks to scaffold domain specific working practices can help ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63].
 
 Turning more specifically to the utility of the identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
 
@@ -674,21 +661,35 @@ Leading with GDPs as a framework appears to support this  navigation, and at tim
 
 <!-- 5. DROP /MOVE TO CH.3? The kedging metaphor and the climbing wall metaphor - in relation to agency and design -  explore them, kedging is a bit flailing , wall less so -->
 
-The motivation of this study transcends concepts of efficacy of how to support the technical aspects of coding process. As such, the heavy scaffolding of the REEPP framework facilitates a more socio cultural approach as a way to address gaps in current CGD&P research in soci-cultural approaches, as noted in Chapter 2 [@kafai_constructionist_2015]. Despite Papert's [@lodi_computational_2021] foundational focus on the community application of created projects continues in legacy of constructionism. For example, the articulation of Resnick on computational fluency, addresses the limitations of research focusing too narrowly on technical approaches and toolsets rather than their expressive potential (and thus within a community)  and focused on toolsets rather than pedagogies [@resnick_seeds_2020; @resnick_coding_2020].
+**Revisiting - Motivation and gaps in research:**
 
-Given that a guiding motivation of this study to explore the process of designing and facilitating for participant empowerment learning to program, it is valuable to articulate different types of agency. The following sections are structured in the following way:
+The motivation of this study transcends concepts of efficacy of how to support the technical aspects of coding process.
+
+At this point we can readdress one of the gaps addressed by the problem statement of the thesis: The lack of studies using socio-cultural perspectives to facilitate an agency based approach.
+
+As noted in Chapter 2 [@kafai_constructionist_2015]. Despite Papert's [@lodi_computational_2021] foundational focus on the community application of created projects continues in legacy of constructionism. For example, the articulation of Resnick on computational fluency, addresses the limitations of research focusing too narrowly on technical approaches and toolsets rather than their expressive potential (and thus within a community)  and focused on toolsets rather than pedagogies [@resnick_seeds_2020; @resnick_coding_2020].
+
+In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], but as explored in Chatper 2 this work is limited in scope and invites further exploration.
+
+
+**Why agency in particular revisit / gaps**
+
+Given that a guiding motivation of this study to explore the process of designing and facilitating for participant empowerment in learning to program, it is valuable to explore terms.
+
+Chapter 2 examined varied concepts and characteristics of fluency in constructionist research, and concepts of flow. Chapter 6 explored these concepts in relation to the data of this study and found agency to be better aligned to a socio-cultural approach.
+
+**Setting out pathway - & thread for reader**
 
 Firstly, an exploration of evolving expressions of agency emerging from the research data, specifically instrumental, transformational and relational agency, is undertaken.  
 
-The second section is an exploration of the key characteristics of  participants agency using concepts emerging from the Fifth Dimension (5D) strand of research, which while not specifically concerning computer programming, is aligned with the socio-cultural ethos of this thesis. Specifically, I take inspiration from the work of Gutiérrez to re-examine the evolution of participant agency as a process of blending or even patching of repertoires of different types and sources.
+The second section is an exploration of the key characteristics of  participants agency using concepts from the work of Rogoff, Cole and Gutiérrez to re-examine the evolution of participant agency as a utopian process of blending or even patching of repertoires of different types and sources.
 
+CHANGE THIS
+It concludes by proposing that understandings of CGD&P pedagogies can be enriched in two dimensions, firstly in design and secondly in a deeper theoretical understanding of concepts of agency development.  
 
-<!-- In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], this work focuses on the PRIMM  and thus invites further exploration. -->
-
-
+<!-- emerging from the Fifth Dimension (5D) strand of research, which while not specifically concerning computer programming, is aligned with the socio-cultural ethos of this thesis.
+  -->
 <!-- This section analyses the findings of the previous chapters using varied conceptions of agency aligned to the sociocultural theoretical framework of this study. -->
-
-
 
 <!-- Chapter 5  exposed the tensions that developed in the activity systems and subsequent evolution the tools used include code authoring environment, supporting resources of printed and digital format. -->
 
@@ -758,13 +759,9 @@ This interpretation highlights possible shifts in forms of agency and an emergin
 
 Table. 2.x Characterisation of types of agency in the design
 
+NOT SURE ABOUT THIS TABLE - I'VE KEPT IT IN AS A POSSIBILITY IF SUPERVISORS THINK IT COULD BE USEFUL
 
 
-**Link - revisiting - Gap in research:**
-
-At this point we can readdress one of the gaps addressed by the problem statement of the thesis: The importance of designing for agency and lack of studies which do that using socio-cultural perspectives. The following section reframes and analyses data in relation to existing research, drawing on concepts of FOK, third spaces and repertoires of practice.
-
-It concludes by proposing that understandings of CGD&P pedagogies can be enriched in two dimensions, firstly in design and secondly in a deeper theoretical understanding of concepts of agency development.  
 
 <!-- It concludes by proposing that understandings of CGD&P pedagogies can be enriched in two dimensions, firstly in design and secondly in a deeper theoretical understanding of concepts of agency development.   -->
 
