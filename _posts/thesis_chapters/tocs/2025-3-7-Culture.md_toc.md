@@ -50,23 +50,29 @@
         -   [A - Repertoire importation into the the game making
             community (as a third
             space)](#a---repertoire-importation-into-the-the-game-making-community-as-a-third-space)
-            -   [B - Playtesting as a suitable medium for emerging
-                activities creating third spaces via blending of
-                repertoires](#b---playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
-            -   [C - Blending of repertoires: emerging identity
-                formation via
-                specialisation](#c---blending-of-repertoires-emerging-identity-formation-via-specialisation)
+            -   [Importing repertoires involving funds of
+                knowledge](#importing-repertoires-involving-funds-of-knowledge)
+            -   [Importing repertoires involving divisions of
+                labour](#importing-repertoires-involving-divisions-of-labour)
+            -   [Table of imported
+                repertoires](#table-of-imported-repertoires)
+        -   [B - Playtesting as a suitable medium for emerging
+            activities creating third spaces via blending of
+            repertoires](#b---playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
+            -   [Interventions to accelerate and facilitate the process
+                of repertoire
+                blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
+            -   [The introduction of side missions and surfacing helping
+                styles as affordances of my pedagogy to legitimise
+                diversity](#the-introduction-of-side-missions-and-surfacing-helping-styles-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+        -   [C - Blending of repertoires](#c---blending-of-repertoires)
+            -   [Emerging identity formation and specialisation via
+                blending](#emerging-identity-formation-and-specialisation-via-blending)
             -   [Specialism (in making / not playtesting this can be
                 brief?
                 )](#specialism-in-making-not-playtesting-this-can-be-brief)
             -   [Expressions of identity in variations in approaches to
                 playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
-        -   [Interventions to accelerate and facilitate the process of
-            repertoire
-            blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
-            -   [The introduction of maker types and side missions as
-                affordances of my pedagogy to legitimise
-                diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
     -   [Implications for design & a contribution
         proposal](#implications-for-design-a-contribution-proposal)
         -   [Designing for shifting forms of

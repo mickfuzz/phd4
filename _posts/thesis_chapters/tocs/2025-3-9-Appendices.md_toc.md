@@ -121,3 +121,10 @@
                 OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
         -   [Tensions in tool use emerging between agency and
             authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
+    -   [Participants Interview questions - semi structured
+        -](#participants-interview-questions---semi-structured--)
+        -   [Introductory Questions](#introductory-questions)
+        -   [Personal Dimensions](#personal-dimensions)
+        -   [Material Dimensions](#material-dimensions)
+        -   [Social Dimensions](#social-dimensions)
+        -   [Cultural Dimensions](#cultural-dimensions)

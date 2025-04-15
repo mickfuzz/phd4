@@ -19,27 +19,24 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Part one - Exploring concepts of abstract and concrete
         knowledge frameworks in relation to Game Design
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-        -   [1. Conceptions of abstraction in the research
+        -   [Conceptions of abstraction in the research
             field](#conceptions-of-abstraction-in-the-research-field)
         -   [Comparing to pedagogies explicitly teaching abstraction,
             computational thinking and
             LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
-            -   [**Exploring the concrete with
-                bricolage**](#exploring-the-concrete-with-bricolage)
-            -   [**Blackboxing inline with constructionism (again),
-                interpreted with abs/conct
-                lens**](#blackboxing-inline-with-constructionism-again-interpreted-with-absconct-lens)
             -   [Exploring data using concepts of Levels of Abstraction
                 (LOA) &
                 PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+            -   [Description](#description)
+            -   [Processes of blackboxing](#processes-of-blackboxing)
+            -   [Rationale for black
+                boxing](#rationale-for-black-boxing)
+            -   [Alternative/s in approaches are
+                possible](#alternatives-in-approaches-are-possible)
             -   [Reflections on design in relation to other research -
                 PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS
                 FIT INTO THIS PICTURE - SGD & DENNER (AS FORM OF
                 ANALYSIS)](#reflections-on-design-in-relation-to-other-research---perhaps-via-primm-and-umc-and-how-do-design-patterns-fit-into-this-picture---sgd-denner-as-form-of-analysis)
-        -   [Gaps in research](#gaps-in-research)
-        -   [Summary of - OR IS IT REFLECTIONS ON? the potential utility
-            of GDPs? of abstract / concrete exploration? for several
-            stakeholders](#summary-of---or-is-it-reflections-on-the-potential-utility-of-gdps-of-abstract-concrete-exploration-for-several-stakeholders)
             -   [Summary of structural components of applied pedagogy -
                 REEPP & A gateway view of learning dimensions. MOVE
                 DISCUSSION
@@ -61,25 +58,32 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Overview / recap of relational agency and repertoires in
             theory - KEEP
             SHORT](#overview-recap-of-relational-agency-and-repertoires-in-theory---keep-short)
-            -   [Playtesting as a suitable medium for emerging
-                activities creating third
-                spaces](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces)
-        -   [Repertoire movement between spaces, repertoires in practice
-            (FOk) practices, Dol and helping
-            styles](#repertoire-movement-between-spaces-repertoires-in-practice-fok-practices-dol-and-helping-styles)
-        -   [Emerging identity formation via
-            specialisation](#emerging-identity-formation-via-specialisation)
+        -   [A - Repertoire importation into the the game making
+            community (as a third
+            space)](#a---repertoire-importation-into-the-the-game-making-community-as-a-third-space)
+            -   [Importing repertoires involving funds of
+                knowledge](#importing-repertoires-involving-funds-of-knowledge)
+            -   [Importing repertoires involving divisions of
+                labour](#importing-repertoires-involving-divisions-of-labour)
+            -   [Table of imported
+                repertoires](#table-of-imported-repertoires)
+        -   [B - Playtesting as a suitable medium for emerging
+            activities creating third spaces via blending of
+            repertoires](#b---playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
+            -   [Interventions to accelerate and facilitate the process
+                of repertoire
+                blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
+            -   [The introduction of side missions and surfacing helping
+                styles as affordances of my pedagogy to legitimise
+                diversity](#the-introduction-of-side-missions-and-surfacing-helping-styles-as-affordances-of-my-pedagogy-to-legitimise-diversity)
+        -   [C - Blending of repertoires](#c---blending-of-repertoires)
+            -   [Emerging identity formation and specialisation via
+                blending](#emerging-identity-formation-and-specialisation-via-blending)
             -   [Specialism (in making / not playtesting this can be
                 brief?
                 )](#specialism-in-making-not-playtesting-this-can-be-brief)
             -   [Expressions of identity in variations in approaches to
                 playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
-        -   [Interventions to accelerate and facilitate the process of
-            repertoire
-            blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
-            -   [The introduction of maker types and side missions as
-                affordances of my pedagogy to legitimise
-                diversity](#the-introduction-of-maker-types-and-side-missions-as-affordances-of-my-pedagogy-to-legitimise-diversity)
     -   [Implications for design & a contribution
         proposal](#implications-for-design-a-contribution-proposal)
         -   [Designing for shifting forms of
@@ -109,6 +113,9 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [Summary of discussion on designing for
                 agency](#summary-of-discussion-on-designing-for-agency)
     -   [Conclusion](#conclusion)
+        -   [Summary of the potential utility of GDPs? of abstract /
+            concrete exploration? for several
+            stakeholders](#summary-of-the-potential-utility-of-gdps-of-abstract-concrete-exploration-for-several-stakeholders)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
