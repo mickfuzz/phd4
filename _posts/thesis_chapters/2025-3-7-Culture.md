@@ -952,8 +952,6 @@ Barron's helping roles [@barron_parents_2009] in technology use (teacher, projec
 
 <!-- WHERE IS THIS SHOWN? HOW RELEVANT? JUSTIFY LEVEL IT IS EXPLORED. -->
 
-
-
 In addition, other divisions of labour which highlight the emerging roles of young people are present the data.
 
 Examples include:
@@ -987,19 +985,16 @@ For example Mark comments on Ed's use of the Piskel.
 
 #### Playtesting as a suitable medium for emerging activities creating third spaces via blending of repertoires
 
-Playtesting as an incubator for emerging cultural activities, has been crucial to the development of later stages of this learning design. The sum of introdued and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
 
 As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018].
 
-UPDATE THIS SIGNPOSTING
-An analysis on the role of playtesting and an emerging forms of playful playtesting follows. WHERE
+However, beyond this evaluative design stage, playtesting also served as an incubator for emerging cultural activities. This playful space was crucial to the development of later stages of this learning design.
 
-The following sections are an exploratory mapping of some possible design features which may represent component repertoire elements or facilitate the process of identity development within the design in other ways.
+The sum of introduced and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
 
-Thus in the following section playtesting is explored  not only as a productive, evaluative design stage, but as a space to host other playful activities.
+
 
 <!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
-
 
 #### Interventions to accelerate and facilitate the process of repertoire blending
 
@@ -1007,37 +1002,23 @@ Drawing on the concept of zones of proximal development, Stone and Gutiérrez [@
 
 One intervention already described in Chapter 6 was the structuring of GDP collection around the MDA game framework as a way to allow choice of different approaches drawing on aesthetics, dynamics and mechanics of the game.
 
-
-**Helping styles and helpers**
-
-Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
-
-Inspired by the work of Barron and Roque
-[@roque_family_2016; @roque_im_2016] to begin to surface and nurture making and helping styles. The use of these roles by facilitators reinforce a existing competence in a new space.
-
-I extended this beyond parent roles and identity to include all participants, via design as well as feedback,  with a similar aim to engender a feeling of domain competency.
-
-Roque [@roque_family_2016; @roque_im_2016] employed Barron's helping roles [@barron_parents_2009] in guidance for supporting facilitators to highlight and celebrate the helping processes parents used to support children in a making environment.
-
-
-
-MOVE EARLIER CHAPTER AND SUMMARISE?
-it is of value to briefly examine the role of student helpers in P2.
-One of their remits was to support the work of participants and to guide reflection by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game. Beyond this, students also gave feedback between playtestings sessions, connected different participants, supported parental behaviours,   into the design process via debriefing sessions.
-Especially in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
-
-**Supporting identity development in playtesting**
+**Supporting identity development via playtesting processes**
 
 Turning to supporting varied identities in playtesting,
+
 The diversity in playtesting behaviours drove my reflection on the relationship between developing effective repertoires and an affective relationship to the activity relies on the participants being able to identify with the ongoing activity (thus informing a processes of inclusion)
 
 As, the area of explicit cultural creation of spaces is under explored in existing research in CGD&P, it is of value to explore the process of explicit learning design for identity development within via repertoire blending.
 
-<!-- NOTE AND the additional motivations flowing into this system from other activity systems.
-HOW AND WHY? MOTIVATIONS IN PARTICULAR? -->
+<!-- NOTE AND the additional motivations flowing into this system from other activity systems. HOW AND WHY? MOTIVATIONS IN PARTICULAR? -->
 
 Playtesting acted as a stimulus and incubator for emerging socio-cultural practices prompting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
 Addressing issues of motivation and positive affect, the role of play as leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning.
+
+One of their remits of student helpers in P2 and P3 was to support the work of participants and to guide reflection during making and playtesting by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game.
+MOVE? Beyond this, students also gave feedback between playtestings sessions, connected different participants, and input into the design process via debriefing sessions.
+MOVE LATER?
+Especially in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
 
 
 #### The introduction of side missions and surfacing helping styles as affordances of my pedagogy to legitimise diversity
@@ -1094,10 +1075,27 @@ Madiha making very positive comments on design of player characters and building
 
 Some children added additional playful elements to playtesting (see Appendix.playtestingtypes). Some in particular brought a physicality to the process, clustering in a particular zone of the class, referencing the game play elements, acting them out, attempting to change the games of others and playful tussling as part of resistance to those changes.
 
-
 **Maker types**
 
 As explored in Chapter 5, to aid group reflection on, I grouped and shared a loose typology of participant approaches to  playtesting and game making approaches in to  social makers, planners, magpie makers and glitchers (see Appendix .makertypes for fuller detail). This typology extends the styles of planners and bricoleurs [@papert_epistemological_1990] and broadens the focus to include playtesting as well as coding behaviours.
+
+
+#### More general roles and practices resulting from repertoire blending
+
+Perhaps playful playtesting here.
+
+Barron's technical roles are blended practices.
+
+**Helping styles and helpers**
+
+Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
+
+Inspired by the work of Barron and Roque
+[@roque_family_2016; @roque_im_2016] to begin to surface and nurture making and helping styles. The use of these roles by facilitators reinforce a existing competence in a new space.
+
+I extended this beyond parent roles and identity to include all participants, via design as well as feedback,  with a similar aim to engender a feeling of domain competency.
+
+Roque [@roque_family_2016; @roque_im_2016] employed Barron's helping roles [@barron_parents_2009] in guidance for supporting facilitators to highlight and celebrate the helping processes parents used to support children in a making environment.
 
 
 
@@ -1131,12 +1129,7 @@ Example of how extending with DPs as a framework could be fruitful, developing a
 In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
 
 
-
-
-
-## Implications for design & a contribution proposal
-
-
+## Implications for design and summative design frameworks
 
 
 <!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
@@ -1147,24 +1140,33 @@ Thus transformation is happening here but not in a revolutionary way. It is more
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
-### Narrative summary of and characteristics of designing for relational agency via repertoire blending.
+### Designing for relational agency by repertoire blending (RARB)
+
+#### What is RARB
+
+Relational agency by repertoire blending (RARB) is a term that I advance to describe a process happening in this study. I advance it as there is no real equivalent to TADS (transformative agency by double stimulation) as a concept in the work of Rogoff and Gutiérrez upon which the second half of this chapter is based.
+
+RARB is a process which in this study can be best described via three stages.
 
 - Stage One - Facilitating participants to import existing repertoires of practice
 - Stage Two - Engendering blending of repertoires
 - Stage Three - Recognising and encouraging emerging specialism and identity behaviours
 
-WHAT IS RELATIONSHIP OF NARRATIVE AND TABLE?
+#### Narrative description of designing for relational agency via repertoire blending in this study
+
+In stage one the motivation is to create an inclusive learning environment 
 
 
-**Perhaps use this format and table**
 
 <!-- some existing material here
 https://docs.google.com/document/d/1gouCAV1krGeR1zVBJ2FgHH1YqatK4GndaZWXKWaVHgE/edit?tab=t.0 -->
 
+#### Summative table illustrating stages of facilitating RARB in this study
 
+In Chapter 5 a summary table outlined tensions and congruencies.
+In Chapter 6 a summary table of the varied uses of GDPs
 
-Recalling / reframing data from previous chapters' tables.
-Ch. 5 -
+The purpose of this table is geared more towards synthesis of approach in relation to creating relational agency through repertoire blending. As such characteristics and descriptions are more decontextualised.
 
 | Characteristics of design   | Design example and description    |
 | ------------| --------- |
@@ -1174,10 +1176,12 @@ Ch. 5 -
 |   |   |
 | **Stage Two - Engendering blending of repertoires**  |   |
 | Protection from complexity via technical limitations | Participants benefit from more relaxed making environment as key design complexities are baked into template design |
+| Try to create a level playing field between generations  | The use of an unfamiliar text coding process for both YP and adults created a more horizontal power relationship  |
 |  example 1 |   example 2 |  
 | **Stage Three - Recognising and encouraging emerging specialism and identity behaviours**  |
 |  example 1 |   example 2 |
 
+_Table 7.x - Summative table illustrating stages of facilitating RARB in this study_
 
 
 ### Metaphors as a way to communication dimensions of agency design concerns
@@ -1313,7 +1317,7 @@ I propose that providing a menu of GDPs can, as with accessing more abstract con
 
 I suggest  a change in terminology. Instead of interpreting design patterns here as _intermediate_ constructs, I propose the term _gateway pedagogical framework_ to communicate potential utility in opening up exploration of different dimensions of learning.
 
-![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_gateway_dia_3.png){width=95%}
+![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_repertoires_dia_1.png){width=95%}
 
 
 The shift from intermediate to gateway also addresses the issue of how to present the dimensions of abstract and concrete. Abstract concepts are often positioned as higher in a spacial representation. This is present in semantic profiling diagrams above, in y example, and even the phrase top-down planning from Papert and Turkle in their challenging of this privileging of abstract approaches communicates an implied superiority of approach. By way of contrast, the Mark's phrase _rising to the concrete_ reverses this polarity. Similarly, as a small attempt to challenge this convention I reverse the polarity placing concrete dimension at the top of the illustration.
