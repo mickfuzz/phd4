@@ -1217,3 +1217,57 @@ CROSSREFF -  list the benefits here.
 Different areas of contradictions between different elements in activity systems emerged in journal notes and retropective analysis of evolution of the design. Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
 
 I propose that more granular understanding of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
+
+
+## Participants Interview questions - semi structured -
+
+**Background & Purpose of Interview**
+
+The interview will support my studies of **family game making** through an exploration of the aims, issues faced and types of learning you promote in your program/s.
+
+There’s more info here - [https://docs.google.com/document/d/1qSpeVjLi2CMs2HCWL\_In1WAM-egPXpCLQl3F6wdxNJ8/edit](https://docs.google.com/document/d/1qSpeVjLi2CMs2HCWL_In1WAM-egPXpCLQl3F6wdxNJ8/edit)
+
+### Introductory Questions
+
+-   In a nutshell, can you tell me about what you have done on the game making activities?
+-   What are some of the background factors that motivate you taking part in these activities?
+-   Is there anything that jumped out as successful
+-   Was anything unexpected?
+
+### Personal Dimensions
+
+-   What knowledge or skills are you trying to build by taking part?
+-   What about personal attributes / qualities
+-   Can you tell me more about any specific activities that did built knowledge or attributes?
+-   Tell me about any  times you felt you could bring your own identities or interests into your making processes?
+-   Tell me more about how that happened and any impact it had on you.
+-   Tell me any times you felt you could choose your next steps or your own path of progression in your activities
+-   Tell me more about how that happened and any impact it had on you.
+
+### Material Dimensions
+
+-   Tell me about the software or hardware tools or materials you used
+-   How did they impact on how or how much you were able to collaborate?
+-   Did they make some of your goals easier or harder?
+-   What was your general thinking around these tools or materials, any other reactions?
+-   What about the resources used, printed or online? Similar questions to the above.
+
+### Social Dimensions
+
+-   What are your recollections of any  social dimensions of learning you recall from the game making programme? Either Unstructured interaction or more structured, directed interaction
+-   Tell me about any specific activities or resources that you think may have supported this social approach to learning?
+-   What challenges do you think existed in this area?
+-   What are the pros and cons of working with families?
+-   What are the pros and cons of working with other families?
+-   Do you think the family nature of the programme impacted on how activities evolved?
+-   What observations about intergenerational interaction did you made?
+-   Are there particular any emerging patterns or roles of collaborative interaction that started to happen? Have barron ones ready to prompt.
+-   Is there any other impact that the family learning environment have on the overall programme?
+
+### Cultural Dimensions
+
+-   Were you able to bring in interests of identities from family life to the programme
+-   Could you draw on any other activities or groups you are a part of?
+-   Did you make any links to any real life groups of people or communities outside the game making programme
+-   Are there tensions or challenges or advantages about concerning linking with outside communities?
+-   Are there other cultural factors which interacted with the game making programme?
