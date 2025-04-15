@@ -956,11 +956,18 @@ Big issue interests
 https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit?gid=1243995712#gid=1243995712 -->
 
 
-### B - Playtesting as a suitable medium for emerging activities creating third spaces via blending of repertoires
+### B - The process of blending of repertoires in a third space
 
 Previous observations highlighted an emerging idioculture.
 
 Gutiérrez develops this idea with a space for such emerging cultural activities. Third space theory.
+
+#### Tools based Blending
+
+For some participants the process of blending their interests with those of the game making program began intuitively.
+For example Mark comments on Ed's use of the Piskel. 
+
+#### Playtesting as a suitable medium for emerging activities creating third spaces via blending of repertoires
 
 Playtesting as an incubator for emerging cultural activities, has been crucial to the development of later stages of this learning design. The sum of introdued and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
 
@@ -982,13 +989,26 @@ Drawing on the concept of zones of proximal development, Stone and Gutiérrez [@
 
 One intervention already described in Chapter 6 was the structuring of GDP collection around the MDA game framework as a way to allow choice of different approaches drawing on aesthetics, dynamics and mechanics of the game.
 
+
+**Helping styles and helpers**
+
+Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
+
+Inspired by the work of Barron and Roque
+[@roque_family_2016; @roque_im_2016] to begin to surface and nurture making and helping styles. The use of these roles by facilitators reinforce a existing competence in a new space.
+
+I extended this beyond parent roles and identity to include all participants, via design as well as feedback,  with a similar aim to engender a feeling of domain competency.
+
 Roque [@roque_family_2016; @roque_im_2016] employed Barron's helping roles [@barron_parents_2009] in guidance for supporting facilitators to highlight and celebrate the helping processes parents used to support children in a making environment.
+
+
 
 MOVE EARLIER CHAPTER AND SUMMARISE?
 it is of value to briefly examine the role of student helpers in P2.
 One of their remits was to support the work of participants and to guide reflection by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game. Beyond this, students also gave feedback between playtestings sessions, connected different participants, supported parental behaviours,   into the design process via debriefing sessions.
 Especially in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making.
 
+**Supporting identity development in playtesting**
 
 Turning to supporting varied identities in playtesting,
 The diversity in playtesting behaviours drove my reflection on the relationship between developing effective repertoires and an affective relationship to the activity relies on the participants being able to identify with the ongoing activity (thus informing a processes of inclusion)
@@ -1016,17 +1036,10 @@ This strand of thought also invites an theoretical examination of the value of i
 The invitation to play, can be seen as a familiar  affordance leading to more unfamiliar territory. A helping process in blending through opening a door to a new collaborative zone of proximal development.
 
 
-**Helping styles and helpers**
-
-Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
-
-Inspired by the work of Barron and Roque
-[@roque_family_2016; @roque_im_2016] to begin to surface and nurture making and helping styles. The use of these roles by facilitators reinforce a existing competence in a new space.
-
-I extended this beyond parent roles and identity to include all participants, via design as well as feedback,  with a similar aim to engender a feeling of domain competency.
 
 
-### C - Blending of repertoires
+
+### C - Analysis of resulting blended repertoires
 
 #### Emerging identity formation and specialisation via blending
 
