@@ -740,12 +740,27 @@ While affordances for mediation in conceptions of instrumental agency may be vis
 
 Understandably, examples of this process in the research process were prevalent in early stages where participants had access to little in terms of supporting resources. Illustrative attempts of TADS are present in (Appendix.design.p1). For example, email correspondence from myself to participants asking for help in organising project work resulting in the emergence of list of proto-typical GDPs. Additionally the process of leading with exploration of a half-baked template was an experimental response from feedback from participants requesting more hand-on work with the tools before beginning planning. Thus emergence, via interaction between participants and myself, of and the use of a half baked template and GDPs as a suggested leading activity and pedagogical framework is a manifestation of transformational agency.
 
-**Engendering transformative agency**
 
-As a designer I began to noticed acts of volition to adapt the game making process, for example in adapting the game to add sound and characters of interest. In preparation for P2, to aid learners evolving activity, and then tried to add explicit affordances and make them visible to learners.
 
-The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
-Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016].
+
+<!-- **Engendering transformative agency**
+
+As a designer I began to noticed acts of volition to adapt the game making process, for example in adapting the game to add sound and characters of interest. In preparation for P2, to aid learners evolving activity, and then tried to add explicit affordances and make them visible to learners. -->
+
+<!-- The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
+Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. -->
+
+#### A dilemma involving engendering for transformational agency
+
+In the introduction I outlined that a driving motivation of this research was to better understand chaotic learning environments, of which P1 is an example. To engender transformative agency, a suitable starting point should be sketchy, half-baked or incomplete pedagogy and tools set.
+
+Then as a designer and facilitator, I would help participants to lead  design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process. However, in adapting designs, and thus increasing affordances and instrumental agency here is a danger of designing away the possibility for transformational agency.
+
+To retain this potential for transformation it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. Evidence of this exists, beyond P1, there were still spaces for TA once the core pedagogy is in place. For example, in Vig. Tody and Dan the break out of the template to create a different genre.
+
+Not everyone loves messy / sketchy learning environments. Some find it confusing and potentially overwhelming, posing a danger that levels of stress for participants may reduce the inclusivity.
+
+This realisation led me to increased scaffolding and to begin to recognise and value other manifestations and characteristic of emerging agency.
 
 ### Relational agency
 
@@ -767,6 +782,9 @@ This interpretation highlights possible shifts in forms of agency and an emergin
 Table. 2.x Characterisation of types of agency in the design
 
 NOT SURE ABOUT THIS TABLE - I'VE KEPT IT IN AS A POSSIBILITY IF SUPERVISORS THINK IT COULD BE USEFUL
+
+
+
 
 <!-- It concludes by proposing that understandings of CGD&P pedagogies can be enriched in two dimensions, firstly in design and secondly in a deeper theoretical understanding of concepts of agency development.   -->
 
@@ -965,7 +983,7 @@ Gutiérrez develops this idea with a space for such emerging cultural activities
 #### Tools based Blending
 
 For some participants the process of blending their interests with those of the game making program began intuitively.
-For example Mark comments on Ed's use of the Piskel. 
+For example Mark comments on Ed's use of the Piskel.
 
 #### Playtesting as a suitable medium for emerging activities creating third spaces via blending of repertoires
 
@@ -1039,12 +1057,11 @@ The invitation to play, can be seen as a familiar  affordance leading to more un
 
 
 
-### C - Analysis of resulting blended repertoires
+### C - Recognising and supporting emerging identity formation and specialisation
 
-#### Emerging identity formation and specialisation via blending
+#### Supporting  Emerging identity formation and specialisation via blending
 
 The emergence of new forms of identity within the idioculture is particularly significant to this research given the barriers participation in programming communities explored in Chapter 2.
-
 
 It is of note to make a distinction between the leverage of existing competencies and interests as repertoires (explored above ) and the emergence of new ones.
 
@@ -1057,48 +1074,37 @@ These repertoires become public, and are in part socially motivated, via the pro
 The awareness of and conversations about maker styles and related side-missions created in this research are potential powerful tool to support this process in novice game making communities.
 
 
-#### Specialism (in making / not playtesting this can be brief? )
+#### Specialism and expressions of identity in variations in approaches to game making and playtesting
 
 Within more narrowly defined game making activities centred around altering code and assets of their products, learners who had mastered certain specialist skills were asked by others for help. Their developing roles as domain experts provided additional affordances in the learning community and building an identify as specialist within it.
 
-ARE EXAMPLES NEEDED HERE?
+Some approached game making objectives in a methodical manner (see Vignette V3.c), others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design.
 
-In terms of styles,
+Playtesting surfaced design practices and amplified emerging specialisms.
 
-Playtesting played a role in the surfacing and opportunities for this specialism to propagate.
+Playtesting surfaced design practices which some participants involved breaking conventions game design norms of the genre, as a way to cause frustration or confusion, illustrated by Tehillah's behaviour in (V2).
 
-#### Expressions of identity in variations in approaches to playtesting
+Playtesting played a role in the surfacing and opportunities for this specialism to propagate. I observed both initial styles and evolutions of the form and function of playtesting by  participants.
 
-I observed bother initial styles and evolutions of the form and function of playtesting by  participants.
+Some participants refrained from extensive testing of other games, waiting for others to test their games and carefully observing their responses. Others were very social in their playtesting approach.
 
-Some participants refrained from extensive testing of other games, waiting for others to test their games and observing their responses. Others were very social in their playtesting approach. Madiha making very positive comments on design of player characters and building relations in that way. The last chapter showed that some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process.  
+The last chapter showed that some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process.  
 
-Some children added additional playful elements to playtesting (see Appendix.playtestingtypes).  Playtesting surfaced design practices which involved a playing against game design norms of the genre.
+Madiha making very positive comments on design of player characters and building relations in that way.
 
-Some in particular brought a physicality to the process, clustering in a particular zone of the class, referencing the game play elements, acting them out, attempting to change the games of others and playful tussling as part of resistance to those changes.
-
-
-<!-- NOTE COMMENT  - This evolution maker types here exists especially in social makers, glitchers and gpies. -->
-
+Some children added additional playful elements to playtesting (see Appendix.playtestingtypes). Some in particular brought a physicality to the process, clustering in a particular zone of the class, referencing the game play elements, acting them out, attempting to change the games of others and playful tussling as part of resistance to those changes.
 
 
 **Maker types**
 
+As explored in Chapter 5, to aid group reflection on, I grouped and shared a loose typology of participant approaches to  playtesting and game making approaches in to  social makers, planners, magpie makers and glitchers (see Appendix .makertypes for fuller detail). This typology extends the styles of planners and bricoleurs [@papert_epistemological_1990] and broadens the focus to include playtesting as well as coding behaviours.
 
 
-I coded playtesting and game making approaches in to a loose typology (see Appendix .makertypes for fuller detail).   
 
 <!-- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game   
 - **Planners:** like to study to build knowledge of the tools before they build up their game step-by-step following instructions
 -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
 -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users. -->
-
-While not a conscious link, there is a parallel to the contrast between planners and bricoleurs present in this typology. By way of contrast the wider focus playtesting as well as coding behaviours.
-
-Some approached objectives in a methodical manner, others socially and others embracing a playfully disruptive stance. Some decided to focus extensively on the creation and implementation of graphical assets and level design.
-
-
-
 
 <!-- ---
 The examples of the previous chapter, particularly in the cultural plane show the value and means of developing participant identities.
@@ -1131,15 +1137,6 @@ In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narra
 ## Implications for design & a contribution proposal
 
 
-### Designing for shifting forms of  agency
-
-In the introduction I outlined that a driving motivation of this research was to better understand chaotic learning environments, of which P1 is an example. Given this draw to conditions of TA, such shifting forms of agency could create a resulting tension.
-
-As a learning designer, design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process. However, in adapting designs, and thus increasing affordances and instrumental agency here is a danger of designing away the possibility for transformational agency.
-
-To retain this potential for transformation it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices. Evidence of this exists, beyond P1, there were still spaces for TA once the core pedagogy is in place. For example, in Vig. Tody and Dan the break out of the template to create a different genre.
-
-Also, not everyone like messy / sketchy pedagogies, there is a danger that  levels of stress for participants may reduce the inclusivity.
 
 
 <!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
@@ -1149,6 +1146,37 @@ Also, not everyone like messy / sketchy pedagogies, there is a danger that  leve
 Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.  
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
+
+### Narrative summary of and characteristics of designing for relational agency via repertoire blending.
+
+- Stage One - Facilitating participants to import existing repertoires of practice
+- Stage Two - Engendering blending of repertoires
+- Stage Three - Recognising and encouraging emerging specialism and identity behaviours
+
+WHAT IS RELATIONSHIP OF NARRATIVE AND TABLE?
+
+
+**Perhaps use this format and table**
+
+<!-- some existing material here
+https://docs.google.com/document/d/1gouCAV1krGeR1zVBJ2FgHH1YqatK4GndaZWXKWaVHgE/edit?tab=t.0 -->
+
+
+
+Recalling / reframing data from previous chapters' tables.
+Ch. 5 -
+
+| Characteristics of design   | Design example and description    |
+| ------------| --------- |
+| **Stage One - Facilitating participants to import existing repertoires of practice**                                                 |                                                                      |
+|  Allow quick demonstrations of game knowledge  |  Quick start activities scaffold learners to alter game players allow learners to show competency |
+| Encourage early use of art and music abilities via scaffolded tool use   | Learners interested in art can use an intuitive pixel art and music editors to quickly integrate their home interests in digital creations. |
+|   |   |
+| **Stage Two - Engendering blending of repertoires**  |   |
+| Protection from complexity via technical limitations | Participants benefit from more relaxed making environment as key design complexities are baked into template design |
+|  example 1 |   example 2 |  
+| **Stage Three - Recognising and encouraging emerging specialism and identity behaviours**  |
+|  example 1 |   example 2 |
 
 
 
@@ -1229,13 +1257,10 @@ The following table serves as a visual summary of some of the relevant space/pla
 Table 7.x Metaphors to explore characteristics of designing for participant agency -->
 
 
-|  | Characteristics | Design Example |
-|----|-------------|----------------|
-|Harbour|  Protection from complexity via technical limitations  |  Example: choice of use of phaser a game library.  |
-| Jamming |  Restrictions in genres to recognisable ones | Use of a 2d platformer as game genre.  |
-| Jamming & Harbour |  Example characteritic | Example two.  |
 
-Table 7.x Metaphors to explore characteristics of designing for participant agency
+
+
+
 
 <!-- Some young participants became remarkably swift and adapt at thus transforming chains of actions into a fluid operation. -->
 
