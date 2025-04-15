@@ -907,65 +907,39 @@ The overall goal is to communicate a diversity of participant repertoires [@guti
 - analysis of additional activities helping the development of learner identities -->
 
 
-### A - Repertoire importation into the the game making community (as a third space)
+### A - Repertoire importation into the the game making community
 
 **movement between spaces, repertoires in practice (FOk) practices, Dol and helping styles**   
 
-Following Gutiérrez's [-@gutierrez_developing_2008; -@gutierrez_learning_2019-1] concept of learning as movement between spaces, key observation from the data of the previous chapter can be reframed as repertoires that existed on other activity systems and that are imported into a new activity.
+Following Gutiérrez's [-@gutierrez_developing_2008; -@gutierrez_learning_2019-1] concept of learning as movement between spaces, key observation from the data of the previous chapter can be reframed as repertoires that existed on other activity systems and that are imported into a new activity. While this commentary draws on some examples highlighted in video recordings used in Chapter 6, it draws mostly on interview data which allows a greater precision in locating the repertoires as pre-existing in other settings rather than being rapidly developed in the new setting. Two key themes of repertoires merged, those of  repertoires involving funds of knowledge and repertoires involving divisions of labour.
 
-While this commentary draws on some examples highlighted in video recordings used in Chapter 6, it draws mostly on interview data which allows a greater precision in locating the repertoires as pre-existing in other settings rather than being rapidly developed in the new setting.
-
-At this stage, I divide them using the following terms.
-
-- repertoires involving funds of knowledge
-- repertoires involving divisions of labour
-
-#### Importing repertoires involving funds of knowledge
-
-Table 6.x in Chapter 6 details examples related to the use of GDPs but other instances emerged in video capture data and follow up interviews with participants.
-
-In particular the following examples from interview data are useful to illustrate the use of existing competencies and interests.
-
-See Appendix.interview.
 <!-- Based on this table
 https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit?gid=1243995712#gid=1243995712 -->
 
-This movement is well illustrated in the mobilisation of game related funds of knowledge in playtesting and in design stages, in particular ideation.
+DOES THIS NEED MOVING THO - AS A BLENDED PROCESS
+Addressing first repertoires involving **divisions of labour**, Barron's helping roles [@barron_parents_2009] in technology use (teacher, project collaborator, learning broker, nontechnical consultant and learner) are very much present in the setting of this study. All of these these roles are illustrated in varied forms in the video or interview data.
 
-
-In video data Madiha and Nasrin appeared to favour working with graphical elements and bringing characters to the game. Madiha created a collage which she brought in for me to convert into a digital image to act as the game's background. Interview data surfaced he identification with art as a hobby practice.
-
-<!-- NOTE This may need to be in Vignettes due to formatting -->
-
-Chapter 6 outlined how hobby interests were explored via the interactions between game elements, for example Ed's interest in trains
-
-More professional knowledge brought by Dan.
-
-One of they key findings of the previous chapter is the diverse use of GDP concepts within processes which allowed participant to incorporate practices and interests from home life or other spaces.
-
-
-#### Importing repertoires involving divisions of labour
-
-**Helping styles**
-
-Barron's helping roles [@barron_parents_2009] in technology use (teacher, project collaborator, learning broker, nontechnical consultant and learner) are very much present in the setting of this study. All of these these roles are illustrated in varied forms in the video or interview data.
+In video data and interview data with Susanna and Tehillah, the parent details how she is able to support her child based on her home knowledge of working styles and the use of paper to help the child sketch (see Vignette 2). The paper prototyping as a home practice imported to this space is also cited by Mark and Ed in interview data (see Interview.2.a )
 
 <!-- WHERE IS THIS SHOWN? HOW RELEVANT? JUSTIFY LEVEL IT IS EXPLORED. -->
 
 In addition, other divisions of labour which highlight the emerging roles of young people are present the data.
 
-Examples include:
+For example, in Interview.1.c Madiha(p) describes Nasrin(c)'s strong preference for independent working which her mother Madiha respects.
 
--  home pedagogies like paper based sketching
-- Knowledge to support literacy and attention management from S & T
-- A strong desire for independent working from Nasrin which her mother Madiha respected.
+This game making program set an expectation parents to get involved with the game coding as well as young people. Maggie shares her thoughts on the changing nature of Home Education communities, that parents are now more passive and think of their roles as arranging tutoring for their childrens, whereas she is more aligned with a DIY approach, and keen to get involved. 
 
-#### Table of imported repertoires
+ANY MORE/ PERHAPS NORMS
 
-Game playing interests
-Digital art authoring in Minecraft
-General Art interests
-Big issue interests
+Turning to funds of knowledge and interest, present in the areas of game playing interests, art, environmental and other global concerns and professional knowledge. For example, some adults imported knowledge from professional communities or previous studies, for example Maggie had studied Pascal previously and Dan brought practices from work and from volunteering at Coder Dojo.
+
+Movement of repertoires was also well illustrated in the mobilisation of game related knowledge. In Interview.2.a Nasrin shares some of the links between Minecraft practices and graphical asset authoring in the Piskel software.
+
+Early in the P1 and P2 process participants were able to incorporate some of their concerns about wider ecological and global issues in the planning of their game narrative. In interview data Madiha (Interview.2.b) describes her own choice to address social media, Nasrin's choice to make a game on sea pollution and Xavier's topic of AI robots taking over the world. On a smaller scale some participant chose their hobbies or fan interests as game subjects: Ed choosing trains and Maggie, Pearl etc choosing beekeeping. Interview data surfaced the identification with art as a hobby practice by Ed, Nasrin and Madiha. This was echoed in video data where both Madiha and Nasrin appeared to favour working with graphical elements and bringing characters to the game. Madiha created a collage which she brought in to use as the game's background.
+
+While a following section addresses the process of importing repertoires and interests, by the time they are manifested in the learning design the process of blending has already begun. For example, findings of Chapter 6 show  incorporate and work with the FoK and FoI listed above once they have been blended with technical processes and GDP concepts.
+
+
 
 <!-- Table of imported repertoires
 
@@ -988,13 +962,14 @@ For example Mark comments on Ed's use of the Piskel.
 
 As explored in the literature review, playtesting is a process common to game making which corresponds to the evaluation phase of design thinking cycles and the process of user testing in HCI [@fullerton_game_2018].
 
-However, beyond this evaluative design stage, playtesting also served as an incubator for emerging cultural activities. This playful space was crucial to the development of later stages of this learning design.
+However, beyond this evaluative design stage, playtesting time served as a melting pot facilitating new blended repertoires
 
-The sum of introduced and emerging elements of repertoires can be framed as constituting the development of a particular game making idioculture.
+The role of play as leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning (Addressing issues of motivation and positive affect, ). DROP? OR REREAD.
+
+Playtesting acted as a stimulus and incubator for emerging socio-cultural practices prompting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
 
 
 
-<!-- In this section, I recall data to describe some of the emerging playtesting behaviours of participants in relation to the introduced learning design. -->
 
 #### Interventions to accelerate and facilitate the process of repertoire blending
 
@@ -1012,8 +987,7 @@ As, the area of explicit cultural creation of spaces is under explored in existi
 
 <!-- NOTE AND the additional motivations flowing into this system from other activity systems. HOW AND WHY? MOTIVATIONS IN PARTICULAR? -->
 
-Playtesting acted as a stimulus and incubator for emerging socio-cultural practices prompting me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the inclusive, diverse properties of hybridity in practices [@gutierrez_rethinking_1999].
-Addressing issues of motivation and positive affect, the role of play as leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning.
+
 
 One of their remits of student helpers in P2 and P3 was to support the work of participants and to guide reflection during making and playtesting by asking simple questions like "What have you been working on?", What are you working on now. What do you want to add to your game.
 MOVE? Beyond this, students also gave feedback between playtestings sessions, connected different participants, and input into the design process via debriefing sessions.
@@ -1154,7 +1128,7 @@ RARB is a process which in this study can be best described via three stages.
 
 #### Narrative description of designing for relational agency via repertoire blending in this study
 
-In stage one the motivation is to create an inclusive learning environment 
+In stage one the motivation is to create an inclusive learning environment
 
 
 

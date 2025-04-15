@@ -45,7 +45,7 @@ title: 9. Appendices
         -   [Appendix.bartle - Summary of interactive Bartle
             test](#appendix.bartle---summary-of-interactive-bartle-test)
         -   [Appendix.learningmap - Tension emerging in the Learning
-            Design regarding Computational Thinking
+            Design regarding Compu### Appendix 7.makertypes (and social missions)tational Thinking
             concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
         -   [Appendix.recommendations - for
             practitioners.](#appendix.recommendations---for-practitioners.)
@@ -119,7 +119,43 @@ title: 9. Appendices
 
 # Appendices
 
-**On Structure of Appendices & Vignettes**
+## Interviews
+
+### Interview.1 -   Madiha, Nasrin and Xavier
+
+#### Interview.1.a
+
+
+#### Interview.1.b  
+
+The
+
+#### Mark and Ed
+
+- The use of paper prototyping and then progression to digital sketching.
+
+#### Maggie and Toby
+
+- Emotional when J. who was dyslexic was able to do the code pattern matching exercise.
+
+
+### Appendix.feedback  - Feedback from P1 participants (extracts)
+
+End of course evaluation at show case for  P 1.
+Find extracts from here
+https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
+
+
+
+#### Appendix 7.feedback Extracts
+
+Added to vignette 2 also
+
+Tehillah got on better during the coding once the student who was hovering initially left us alone.  Because every time Tehillah hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer.
+
+
+
+## On Structure of Appendices & Vignettes
 
 Vignette are presented first and given a separate name based on when they appear in the thesis. In the interim before for a final appendix is completed they use descriptive names.
 
@@ -228,19 +264,6 @@ That week I had omitted them as I felt a sense of urgency coming from families t
 
 
 
-### Appendix.feedback  - Feedback from P1 participants (extracts)
-
-This is included to show evidence of the emergent process and that the direction of the program was influenced by participants input.
-
-
-**End of course evaluation at show case for  P 1.**
-
-Find extracts from here
-https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
-
-**Journal Notes from P1**
-
-Find extract from my journal notes for P1 period
 
 
 ### Appendix.themeing -  Themeing GDPs
@@ -276,7 +299,7 @@ I noted that some patterns addressed game aesthetics (simplified to  _game polis
 
 I then took the existing list of game elements that have been identified by students and categorised them based on a blend of two frameworks.
 
-I made some simplifications and adaption to increase accessibility for non-professional and young people. For example, the term of aesthetics is very wide and suited simplification _game polish_.
+I made some simplifications and adaption to increase accessibility for non-professional and young people. For example, the term of aesthetics is very wide and used by suited simplification _game polish_.
 
 ![Game Design Themes](./Pictures/four_gdp_themes.png){width=55%}
 
