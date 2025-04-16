@@ -128,31 +128,46 @@ title: 9. Appendices
 
 #### Interview.1.b  
 
-The
+The involvement of Madiha in Nasrin's gaming
 
-#### Mark and Ed
+### Interview.2 - Mark and Ed
 
 - The use of paper prototyping and then progression to digital sketching.
 
-#### Maggie and Toby
+### Interview.3 - Maggie and Toby
 
 - Emotional when J. who was dyslexic was able to do the code pattern matching exercise.
 
-
-### Appendix.feedback  - Feedback from P1 participants (extracts)
-
-End of course evaluation at show case for  P 1.
-Find extracts from here
-https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
+### App.7.fdb - Feedback Extracts
 
 
-
-#### Appendix 7.feedback Extracts
+#### App.fdb.a - Susanna and Tehillah note on starting games
 
 Added to vignette 2 also
 
 Tehillah got on better during the coding once the student who was hovering initially left us alone.  Because every time Tehillah hesitated, she jumped in to do it for her.  Whereas I know her better so can judge how to facilitate more minimally, and I resist the urge to fix things immediately when she struggles.  Plus she can't read yet, so she was recognising the relevant bits of code by matching the individual letters, which takes longer.
 
+
+End of course evaluation at show case for  P 1.
+Find extracts from here
+https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
+
+#### App.fdb.a - P1 end evaluation
+
+Athena (P1.debrief) also shared reflections on the issues of family and home education dynamics, suggesting that parents may get in the way of young people's ability to move into other's spaces to learn things, and that parental helping roles may therefore be a hindrance.
+
+
+    The concept of learning from peers is different to family learning
+
+    One perspective, maybe adults keep children back from progressing in their own way.
+    Could have worked well if just kids.
+    Adults have more social rules.
+    Kids don’t mind copying, invading space.
+    But adults do. Some lack spontaneous approach.
+
+    In home ed many either observe from the back or go to a separate room
+    How is it different at home?
+    If parents and kids work together, social rules are stuck to, in that the adults lead a learning process.
 
 
 ## On Structure of Appendices & Vignettes

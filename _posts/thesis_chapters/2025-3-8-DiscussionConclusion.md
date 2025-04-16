@@ -709,14 +709,6 @@ There is a potential tension between instrumental agency and transformative agen
 
 
 
-
-
-
-
-
-
-
-
 ### Research Output - Collection of GDPS with supporting resources (including  Learning dimensions map)
 
 <!-- Many commercial open world games offer a central challenge consisting of small incremental missions and then optional side missions. Open world games increase user choice and thus give players a greater feeling of agency. -->
@@ -860,8 +852,6 @@ Look at use of tools at the boundaries to construct new knowledge [cite - Buildi
 ## Answering RQ3 on agency - synthesis and limitations of this research
 
 
-
-
 ### Synthesis of reflections on designing for learner agency
 
 Pulling all together with recommendations from research . add in from notes
@@ -981,11 +971,31 @@ Elements of contrast with 3M include;
 
 
 
-
-
-
-
 ## Final Conclusion
+
+### Two things that made people emotional
+
+This PhD has taken a long time. When I started I had a 2 year old boy. He is now 10. His learning journey as someone who is lively, expressive and struggles with formal learning environments has brought up issues of designing for inclusive pedagogies that would have formed a greater part of the research process if carried out now.
+
+In the end stages of the writing up process. In a final review of interview data, two emotive extracts stood out for me.
+The first Maggie's sharing of a moment that made her quite emotional in recognising the learning of her dyslexic son.
+The second was a sharing of Madiha that her daughter had hacked a Amazon Fire tablet to install the android play store thus allowing greater access to free apps and extending the usefulness of the devices beyond the manufacturer's constraints. They reflected that participation in the game making process had helped with the empowerment and patience need to achieve this process.
+As someone involved in hacking, and repurposing technology to reduce landfill via the Todmorden Makery project this made me emotional.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

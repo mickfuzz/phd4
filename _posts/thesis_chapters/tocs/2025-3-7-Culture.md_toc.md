@@ -39,6 +39,8 @@
         spaces](#part-two---agency-and-re-mediation-of-repertoires-in-third-spaces)
         -   [Instrumental and transformational
             agency](#instrumental-and-transformational-agency)
+            -   [A dilemma involving engendering for transformational
+                agency](#a-dilemma-involving-engendering-for-transformational-agency)
         -   [Relational agency](#relational-agency)
         -   [Shifting forms of agency](#shifting-forms-of-agency)
     -   [Reframing research findings using socio-cultural concetps of
@@ -48,35 +50,42 @@
             theory - KEEP
             SHORT](#overview-recap-of-relational-agency-and-repertoires-in-theory---keep-short)
         -   [A - Repertoire importation into the the game making
-            community (as a third
-            space)](#a---repertoire-importation-into-the-the-game-making-community-as-a-third-space)
-            -   [Importing repertoires involving funds of
-                knowledge](#importing-repertoires-involving-funds-of-knowledge)
-            -   [Importing repertoires involving divisions of
-                labour](#importing-repertoires-involving-divisions-of-labour)
-            -   [Table of imported
-                repertoires](#table-of-imported-repertoires)
-        -   [B - Playtesting as a suitable medium for emerging
-            activities creating third spaces via blending of
-            repertoires](#b---playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
+            community](#a---repertoire-importation-into-the-the-game-making-community)
+        -   [B - The process of blending of repertoires in a third
+            space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
+            -   [Tools based Blending](#tools-based-blending)
+            -   [Playtesting as a suitable medium for emerging
+                activities creating third spaces via blending of
+                repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
             -   [Interventions to accelerate and facilitate the process
                 of repertoire
                 blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
             -   [The introduction of side missions and surfacing helping
                 styles as affordances of my pedagogy to legitimise
                 diversity](#the-introduction-of-side-missions-and-surfacing-helping-styles-as-affordances-of-my-pedagogy-to-legitimise-diversity)
-        -   [C - Blending of repertoires](#c---blending-of-repertoires)
-            -   [Emerging identity formation and specialisation via
-                blending](#emerging-identity-formation-and-specialisation-via-blending)
-            -   [Specialism (in making / not playtesting this can be
-                brief?
-                )](#specialism-in-making-not-playtesting-this-can-be-brief)
-            -   [Expressions of identity in variations in approaches to
-                playtesting](#expressions-of-identity-in-variations-in-approaches-to-playtesting)
-    -   [Implications for design & a contribution
-        proposal](#implications-for-design-a-contribution-proposal)
-        -   [Designing for shifting forms of
-            agency](#designing-for-shifting-forms-of-agency)
+        -   [C - Recognising and supporting emerging identity formation
+            and
+            specialisation](#c---recognising-and-supporting-emerging-identity-formation-and-specialisation)
+            -   [Supporting Emerging identity formation and
+                specialisation via
+                blending](#supporting-emerging-identity-formation-and-specialisation-via-blending)
+            -   [Specialism and expressions of identity in variations in
+                approaches to game making and
+                playtesting](#specialism-and-expressions-of-identity-in-variations-in-approaches-to-game-making-and-playtesting)
+            -   [More general roles and practices resulting from
+                repertoire
+                blending](#more-general-roles-and-practices-resulting-from-repertoire-blending)
+    -   [Implications for design and summative design
+        frameworks](#implications-for-design-and-summative-design-frameworks)
+        -   [Designing for relational agency by repertoire blending
+            (RARB)](#designing-for-relational-agency-by-repertoire-blending-rarb)
+            -   [What is RARB](#what-is-rarb)
+            -   [Narrative descriptive of a proposed procedure for
+                facilitation relational agency by repertoire blending
+                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
+            -   [Summative table illustrating stages of facilitating
+                RARB in this
+                study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
