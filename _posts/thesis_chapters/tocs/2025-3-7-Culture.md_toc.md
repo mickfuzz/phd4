@@ -53,28 +53,22 @@
             community](#a---repertoire-importation-into-the-the-game-making-community)
         -   [B - The process of blending of repertoires in a third
             space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
-            -   [Tools based Blending](#tools-based-blending)
             -   [Playtesting as a suitable medium for emerging
                 activities creating third spaces via blending of
                 repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
-            -   [Interventions to accelerate and facilitate the process
-                of repertoire
-                blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
-            -   [The introduction of side missions and surfacing helping
-                styles as affordances of my pedagogy to legitimise
-                diversity](#the-introduction-of-side-missions-and-surfacing-helping-styles-as-affordances-of-my-pedagogy-to-legitimise-diversity)
-        -   [C - Recognising and supporting emerging identity formation
-            and
-            specialisation](#c---recognising-and-supporting-emerging-identity-formation-and-specialisation)
-            -   [Supporting Emerging identity formation and
-                specialisation via
-                blending](#supporting-emerging-identity-formation-and-specialisation-via-blending)
             -   [Specialism and expressions of identity in variations in
                 approaches to game making and
                 playtesting](#specialism-and-expressions-of-identity-in-variations-in-approaches-to-game-making-and-playtesting)
-            -   [More general roles and practices resulting from
-                repertoire
-                blending](#more-general-roles-and-practices-resulting-from-repertoire-blending)
+        -   [C - Supporting emerging identity formation and
+            specialisation through interventions to support relational
+            repertoire
+            blending](#c---supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
+            -   [Helping styles and
+                helpers](#helping-styles-and-helpers)
+            -   [The introduction of side missions & maker types to make
+                visible emerging repertoires as cultural affordances of
+                my pedagogy to increase and legitimise diversity /
+                hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
     -   [Implications for design and summative design
         frameworks](#implications-for-design-and-summative-design-frameworks)
         -   [Designing for relational agency by repertoire blending
@@ -83,6 +77,11 @@
             -   [Narrative descriptive of a proposed procedure for
                 facilitation relational agency by repertoire blending
                 (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
+            -   [Specialism - INTEGRATE
+                ABOVE](#specialism---integrate-above)
+            -   [Summary of discussion on designing for agency -
+                INTEGRATE ABOVE /
+                BELOW](#summary-of-discussion-on-designing-for-agency---integrate-above-below)
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
@@ -98,22 +97,12 @@
         8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
         -   [CCRREEPP & GDPs as a gateway pedagogical
             framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
-        -   [GDPs as a gateway pedagogical
-            framework](#gdps-as-a-gateway-pedagogical-framework)
-            -   [Table of utility of dimensions of GDP use for different
-                stakeholders](#table-of-utility-of-dimensions-of-gdp-use-for-different-stakeholders)
-        -   [Second area of contribution to the research in the field: A
-            complex view of agency and repertoires development AND the
-            value of that to contribute to research on DBR / FI
-            etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
-            -   [Types of agency?
-                Specialism](#types-of-agency-specialism)
-            -   [Summary of discussion on designing for
-                agency](#summary-of-discussion-on-designing-for-agency)
+        -   [GDPs used as a gateway pedagogical framework aligned with
+            RARB
+            process](#gdps-used-as-a-gateway-pedagogical-framework-aligned-with-rarb-process)
+            -   [Summary of the potential utility of GDPs for wider
+                stakeholders](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders)
     -   [Conclusion](#conclusion)
-        -   [Summary of the potential utility of GDPs? of abstract /
-            concrete exploration? for several
-            stakeholders](#summary-of-the-potential-utility-of-gdps-of-abstract-concrete-exploration-for-several-stakeholders)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)

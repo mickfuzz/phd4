@@ -138,6 +138,8 @@
                 based on a freer choice of
                 patterns.](#compare-formal-teaching-of-ct-and-cs-with-an-approach-based-on-a-freer-choice-of-patterns.)
     -   [Final Conclusion](#final-conclusion)
+        -   [Two things that made people
+            emotional](#two-things-that-made-people-emotional)
     -   [Holding Zone or DROP](#holding-zone-or-drop)
         -   [Thoughts Log - things that may end up
             here.](#thoughts-log---things-that-may-end-up-here.)

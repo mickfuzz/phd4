@@ -64,28 +64,22 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             community](#a---repertoire-importation-into-the-the-game-making-community)
         -   [B - The process of blending of repertoires in a third
             space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
-            -   [Tools based Blending](#tools-based-blending)
             -   [Playtesting as a suitable medium for emerging
                 activities creating third spaces via blending of
                 repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
-            -   [Interventions to accelerate and facilitate the process
-                of repertoire
-                blending](#interventions-to-accelerate-and-facilitate-the-process-of-repertoire-blending)
-            -   [The introduction of side missions and surfacing helping
-                styles as affordances of my pedagogy to legitimise
-                diversity](#the-introduction-of-side-missions-and-surfacing-helping-styles-as-affordances-of-my-pedagogy-to-legitimise-diversity)
-        -   [C - Recognising and supporting emerging identity formation
-            and
-            specialisation](#c---recognising-and-supporting-emerging-identity-formation-and-specialisation)
-            -   [Supporting Emerging identity formation and
-                specialisation via
-                blending](#supporting-emerging-identity-formation-and-specialisation-via-blending)
             -   [Specialism and expressions of identity in variations in
                 approaches to game making and
                 playtesting](#specialism-and-expressions-of-identity-in-variations-in-approaches-to-game-making-and-playtesting)
-            -   [More general roles and practices resulting from
-                repertoire
-                blending](#more-general-roles-and-practices-resulting-from-repertoire-blending)
+        -   [C - Supporting emerging identity formation and
+            specialisation through interventions to support relational
+            repertoire
+            blending](#c---supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
+            -   [Helping styles and
+                helpers](#helping-styles-and-helpers)
+            -   [The introduction of side missions & maker types to make
+                visible emerging repertoires as cultural affordances of
+                my pedagogy to increase and legitimise diversity /
+                hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
     -   [Implications for design and summative design
         frameworks](#implications-for-design-and-summative-design-frameworks)
         -   [Designing for relational agency by repertoire blending
@@ -94,6 +88,11 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             -   [Narrative descriptive of a proposed procedure for
                 facilitation relational agency by repertoire blending
                 (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
+            -   [Specialism - INTEGRATE
+                ABOVE](#specialism---integrate-above)
+            -   [Summary of discussion on designing for agency -
+                INTEGRATE ABOVE /
+                BELOW](#summary-of-discussion-on-designing-for-agency---integrate-above-below)
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
@@ -109,22 +108,12 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
         -   [CCRREEPP & GDPs as a gateway pedagogical
             framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
-        -   [GDPs as a gateway pedagogical
-            framework](#gdps-as-a-gateway-pedagogical-framework)
-            -   [Table of utility of dimensions of GDP use for different
-                stakeholders](#table-of-utility-of-dimensions-of-gdp-use-for-different-stakeholders)
-        -   [Second area of contribution to the research in the field: A
-            complex view of agency and repertoires development AND the
-            value of that to contribute to research on DBR / FI
-            etc.](#second-area-of-contribution-to-the-research-in-the-field-a-complex-view-of-agency-and-repertoires-development-and-the-value-of-that-to-contribute-to-research-on-dbr-fi-etc.)
-            -   [Types of agency?
-                Specialism](#types-of-agency-specialism)
-            -   [Summary of discussion on designing for
-                agency](#summary-of-discussion-on-designing-for-agency)
+        -   [GDPs used as a gateway pedagogical framework aligned with
+            RARB
+            process](#gdps-used-as-a-gateway-pedagogical-framework-aligned-with-rarb-process)
+            -   [Summary of the potential utility of GDPs for wider
+                stakeholders](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders)
     -   [Conclusion](#conclusion)
-        -   [Summary of the potential utility of GDPs? of abstract /
-            concrete exploration? for several
-            stakeholders](#summary-of-the-potential-utility-of-gdps-of-abstract-concrete-exploration-for-several-stakeholders)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
@@ -145,7 +134,6 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [6. The impact of constraints in design on agency - NOT SURE
             -MOVE to
             concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
-
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
 
 <!-- ## Overview in points
@@ -175,33 +163,13 @@ List what is needed / referenced in broad terms to help with planning - e.g.
 3. How can learners build agency in an evolving community of game makers, and what subsequent implications does this have on understandings of pedagogy design? (Evidence Ch.6 - Data Ch.7) -->
 
 
-## Research Questions Jan 2025
+<!-- ## Research Questions Jan 2025
 
 1. What contradictions arose in participation in this research’s game coding processes and how were they addressed?
 2. How does CHAT theory help us understand how game design patterns  can be used in an evolving community of novice game makers?
 3. How can learners build agency in an evolving community of game makers? REVISE
+ -->
 
-
-<!-- ### Notes on coding for this chapter
-See also thematic coding online
-
-- Playtesting and play
-- Community concepts emerging in playtesting
-- Home funds used in design & playtesting
-- Side missions
-- Maker types
-- Authentic knowledge and agency
-- Flexible design processes
-  - Participant driven design - beyond gdps
-  - Design improvisation - beyond design stages
-  - Non productive -->
-
-<!-- Really come back to the RQs and the data. -->
-
-## Notes
-
-
-Add any here.
 
 
 <!-- The chapters have until now discussed tools and processes emerged in response to inferred learner need, in contrast, the processes explored in this following section emerged more directly from input from the participants in2024-8-7-Culturevolved.   -->
@@ -279,10 +247,10 @@ This section explores these academic conceptions in a playful way using relatabl
 
 ## Part one - Exploring concepts of abstract and concrete knowledge frameworks in relation to Game Design Patterns
 
-1. Recap  concepts of abstraction  
+<!-- 1. Recap  concepts of abstraction  
 2. Link to data
 3. Then begin practical use of this take - tinkering pedagogy
-4. core proposals / model as proto-contributions
+4. core proposals / model as proto-contributions -->
 
 <!-- 1. Recap, GDPs as a Germ cell, Exploring CHAT concepts of abstraction  
 2. Locating TADS in this perspective, via 3GAT concept of expansion via double stimulation and TADS
@@ -854,9 +822,9 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 
 
 
-## Reframing research findings using socio-cultural concetps of 3rd Spaces, idiocultures, and repertoires
+## Reframing findings using socio-cultural understandings of agency and repertoire blending
 
-**Structuring this section:**
+<!-- **Structuring this section:**
 
 1. Overview / recap of relational agency and repertoires in theory
  2. 3rd space, as a space and Playtesting a space  
@@ -867,7 +835,7 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
   - via variations in playtesting, playful example
 5. interventions
   - to encourage maker styles
-  - to maximise potential of playtesting as a process -
+  - to maximise potential of playtesting as a process - -->
 
 
 
@@ -883,8 +851,7 @@ TADS and the associated metaphor of warping anchors is normally applied in setti
 This helps inform a distinction between FI and SDE,
 Whereas FI do x, SDE do y? <- too much.. -->
 
-### Overview / recap of relational agency and repertoires in theory - KEEP SHORT
-
+### Revisiting understandings of relational agency and repertoires
 
 This section moves beyond instrumental and transformative agency to a wider more ecological interpretation of agency helpful in deeper analysis of the cultural plane of activity. In chapter 6 we examined the complexity of the expanded object in this research, noting the diversity in terms of motivations and mediational strategies using 3GAT terminology [@engestrom_development_1996]. The following section builds on the foundation of 3GAT in terms of conceptions of interacting activity systems [@engestrom_development_1996] using concepts of repertoires of practice and third spaces.
 
@@ -965,6 +932,7 @@ https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot
 ### B - The process of blending of repertoires in a third space
 
 Other processes took longer to emerge, requiring more active effort to incorporate.
+
 
 Drawing on the concept of zones of proximal development, Stone and Gutiérrez [@stone_problem_2007-2, p.51] underline the importance of explicit creation of "zones of competency" where learner's identities can develop. In this learning design,  several facilitator suggested processes and technical repertoires served this purpose. These included process explored in Chapters 6, Namely  goal formation using a menu of GDPs, code patching, following documentation and debugging.
 
@@ -1960,3 +1928,17 @@ The domains of programming, game jams and hackathons also use constraints in a s
 
 MOVE LATER / CONCLUSION
 The characteristics described above offer a contribution to the literature on Game Jam pedagogy and learning design of this study offers greater scaffolding to the process to facilitate the process of jamming as a way of encouraging co-development of practices and making styles as proposed by Gutiérrez and Rogoff [@gutierrez_cultural_2003]. This strand is developed in the following chapter.
+
+
+
+### MOVED FROM CHAPTER 6
+
+**Peripheral activities** MOVE TO NEXT CHAPTER IF SPACE / PLACE FOR IT.
+
+This chapter has demonstrated that these behaviours could be undertaken in many ways, including those requiring little commitment.
+
+this form of activity can be seen as legitimate peripheral participation (EXPLAIN?) [@lave_situated_1991; @guzdial_imagineering_2006], and thus a helpfuls practice contributing to the emerging ecosystem of the learning community.
+
+Observation on T's part, still legitimate
+
+For example, even if participants only noticed the use of GDPs and used approximate terminology to comment on them during playtesting,
