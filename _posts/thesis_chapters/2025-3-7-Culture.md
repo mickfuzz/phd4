@@ -578,19 +578,23 @@ MOVE LATER? AND DEVELOP WITH REFERENCE TO SOCIAL AIMS TOO?
 NO - KEEP HERE AND FOCUS ON PERSONAL AIMS FIRST.
 
 
-![Illustration 7.x - GDPs as a gateway framework  ](./Pictures/ch_7_gateway_dia_4.png){width=50%}
+![Illustration 7.x - GDPs as a pedagogical framework  ](./Pictures/ch_7_gateway_dia_4.png){width=95%}
 
 <!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
 
 
-
-
 MOVE SOME OF THIS UP TO THE REEEPP SECTION - KEEP FOCUSED ON ABSTRACT / CONCRETE.
 
-Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a gateway framework would usefully include the following elements.
+Within this line of inquiry concerning navigation of different levels of abstraction within this process, the characteristics of such a pedagogical framework would usefully include the following elements.
 
-The process guides learners to use GDPs as their primary leading activity or object of activity (using CHAT terminology).
+The process guides learners to use GDPs as their primary leading activity or object of activity.
+- Use just in time personal instruction to provoke reflection or to link abstract concepts with code in play 
+- Can be supported via gamification
 
+THE MAIN POINT IS ABOVE
+
+
+MOVE THIS ASPECT? PERHAPS KEEP SOME ?  -
 Secondly, a working code framework or template is provided with affordances strongly coupled with object output, providing immediate feedback.
 
 Thirdly, just-in-time supporting resources are provided, closely aligned to the sub-goals of GDPs. Finally, this gateway framework may also facilitate reflection on its use, and reinforcement of this process can be structured using supporting tools, such as a learning map (see appendix.learningmap for an example in P4).
