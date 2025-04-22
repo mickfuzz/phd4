@@ -310,11 +310,11 @@ The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] e
 
 <!-- In their PRIMM pedagogy the researchers also incorporate the UMC model and draw parallels with LOA. In the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels. -->
 
-The use of the concept of levels of abstraction (LOA) and semantic profiles within the PRIMM pedagogy was explained as pedagogies in Chapter 2, the common value being in alternating between abstract and concrete levels of project structure and semantic concepts. The pedagogies are advanced to help teachers design learning experiences which allow for participant shifts in perspectives and thus deepen knowledge by packing and unpacking abstracted concepts via concrete experiences.  There are two relevant dimension of abstraction at play. The first has the abstraction and generalisation concepts present Wing's definition of computational thinking at one pole and concrete code implementation at the other. The second dimension present in the LOA framework is a hierarchy of elements: namely goal-design-code-results. The goal here being the most abstract element (see Table 7.x for more details).
+The use of the concept of levels of abstraction (LOA) and semantic profiles within the PRIMM pedagogy was explained as pedagogies in Chapter 2, the common value being in alternating between abstract and concrete levels of project structure and semantic concepts. The pedagogies are advanced to help teachers design learning experiences which allow for participant shifts in perspectives and thus deepen knowledge by packing and unpacking abstracted concepts via concrete experiences. In this thesis, there are two principle dimensions of abstraction at play. The first has the abstraction and generalisation concepts present Wing's definition of computational thinking at one pole and concrete code implementation at the other. The second dimension present in the LOA framework is a hierarchy of elements: namely goal-design-code-results. The goal here being the most abstract element (see Table 7.x for more details). Addressing interpretations of LOA [@waite_abstraction_2018] in video data we can map the levels of abstraction to shifts between conceptions of goals, implementation in code structures, and observations of results in my findings. While the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
 
 <!-- It is relevant to distinguish the interpretations of different dimension abstraction described above: specifically Wing's and Papert's conceptions of abstraction, which can be described as present in top-down planning processes, and generalisable beyond context and abstraction present in the LOA framework is be characterised instead as a goal-design-code-results hierarchy, with the goal being the most abstract.   -->
 
-Addressing interpretations of LOA [@waite_abstraction_2018] in video data we can map the levels of abstraction to shifts between conceptions of goals, implementation in code structures, and observations of results in my findings. While the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
+
 
 
 | **Level**            | **Focus** | **Example** |
@@ -328,24 +328,26 @@ Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018
 
 **Semantic Profiles**
 
-The navigation between abstract and concrete poles in semantic profiles is different from that of LOA in that if we follow the guidance to place concepts of higher semantic density (for this read abstraction), in the  the upper scale, this would suggest Wing's interpretation of abstract CT concepts. However, given that in observations from video data, exploration of abstract CT concepts are rarely present, the resulting of semantic profiles show relatively shallow semantic waves. For the purposes of this analysis, it is appropriate to place the LOA  in the lower half of the profile (See Figure 7.x below)
+The navigation between abstract and concrete poles in semantic profiles is different from that of LOA in that if we follow the guidance to place concepts of higher semantic density (for this read abstraction), in the  the upper scale, this would suggest Wing's interpretation of abstract CT concepts. For the purposes of this analysis, it is appropriate to place the LOA in the lower half of the profile (See Figure 7.x below)
 
-As such, GDPs would be situated between abstract CT processes and concrete implementation. Thus, returning to the framing the design element of the use of GDPs as intermediate-level concept [@eriksson_using_2019], the interpretation of the data of this study using semantic profiles above supports this interpretation and opens up a new positioning within a pedagogical framework.
+![Figure 7.x - Semantic density of the key concepts of this research  ](./Pictures/ch_7_sw_dia_a.png){width=75%}
 
+As such, GDPs would be situated between abstract CT processes and concrete implementation. Thus, returning to the framing the design element of the use of GDPs as intermediate-level concept [@eriksson_using_2019], the interpretation of the data of this study using semantic profiles above supports this intermediate positioning.
 
-#### Description
+**Description**
 
-This shallow semantic wave above is typical in describing the data of other participants in analysed session recordings. This profile aligns with the description of  Papert and Turkle's [@papert_epistemological_1990] maker styles a bricoleur. The data of Chapter 5 details the development of a learning pedagogy which aligns primarily to the more concrete applied approach as a way of ameliorating barriers of conceptual complexity. Observations show most participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation.
+The following diagram is an approximate representation of the scope of movement using typical behaviour seen in Vignette 2. In this vignette, as exploration of abstract CT concepts and explicit use of systems concepts are rarely present, the resulting of semantic profiles show movement in the lower areas of the gradation of semantic density. This shallow semantic wave above is typical in describing the data of other participants in analysed session recordings.
 
-The following diagram is an approximate representation of this relatively shallow scope of movement using typical behaviour seen in Vignette 2.
-
-![Illustration 7.x - Semantic profile in Vignette 2  ](./Pictures/ch_7_sw_dia_3.png){width=95%}
-
-With this focus, we can analyse my learning design where movement between layers of abstraction and concrete is happening. Shifts do occur between participants goal formation and the concrete implementation using design practices and specific code structures. Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 6 in part stem from the fluid shifts in these levels. The level of detail in Vignette 2 for example is a good indication of rapid shifts.
+![Figure 7.x - Semantic profile in Vignette 2  ](./Pictures/ch_7_sw_dia_4.png){width=95%}
 
 Each time the participants imagine and choose a design pattern, implement it code patching, test it and then debug it .
 
 MORE DETAIL ALIGNED TO FIGURE - ANNOTATIONS ?
+
+This profile mirrors the description of Papert and Turkle's [@papert_epistemological_1990] bricoleur maker styles. The data of Chapter 5 details the development of a learning pedagogy which aligns primarily to the more concrete applied approach as a way of ameliorating barriers of conceptual complexity. Observations show most participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation.
+
+With this focus, we can analyse my learning design where movement between layers of abstraction and concrete is happening. Shifts do occur between participants goal formation and the concrete implementation using design practices and specific code structures. Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 6 in part stem from the fluid shifts in these levels. The level of detail in Vignette 2 for example is a good indication of rapid shifts.
+
 
 <!-- nd processes are present in data, but only when adults with relevant knowledge facilitator, either myself or parents, do point them out and during the process of code implementation. More implicit use of coding constructs is more common. -->
 
@@ -371,32 +373,32 @@ These can be summarised using Wing's CT concepts namely:
 
 HOW TO PHRASE THIS CORRECTLY BELOW.
 
-Given the previously explored advocacy for alternating between abstract and concrete dimensions in semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018], is it of value to ask how the approach of concrete bricolage is at odds with research on the value of semantic profiles and LOA principles. For example, The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels". Given that lack of explicit teaching of either LOA or more abstract concepts in my bricolage-like approach, it is likely participants would not be aware of the level at they are working, it follows that the authors would cite this as problematic limitation in approach. However, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence"
+Given the limits of bricolage approach in exploration of more concept, is it of value to ask how if the learning design is at odds with previously explored advocacy for alternating between abstract and concrete dimensions in semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018]. For example, The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels".  Given that lack of explicit teaching of either LOA or more abstract concepts in my bricolage-like approach, it is likely participants would not be aware of the level at they are working.  In addition, while systems concepts are being explored concrete level they are not surfaced explicitly in this learning design. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
 
+However, while LOA and PRIMM imply an explicit teaching of abstract concepts or processes, the authors [-@waite_abstraction_2018-1, p.21] acknowledge that rationale and evidence to support this is not clear for younger coders. In addition, related research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
+CLARIFY THIS WHOLE SECTION.  
 
-In addition, such explicit awareness of LOA, and the model of PRIMM imply explicit teaching of abstract concepts, the rationale and evidence to support the process is not clear. The difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.  Waite's research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. Therefore details of what counts as explicit teaching of abstraction is not clear.
-
-
-
-<!-- This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.   -->
+In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence"
 
 Turning instead to the value for designers and facilitators, Waite and colleagues [@waite_abstraction_2018-1, p.21] state "the LOA hierarchy may be a useful tool for improving and reviewing teaching and learning in programming", my reflections own on research data support this proposition more clearly.
 
 The processes outline above support a position that there is utility for facilitators to be aware of the level of abstraction present in the participants learning experience in order to design to increase accessibility for participants. Specifically, this research suggests that GDPs are a more suitable accessible leading pedagogical framework than computational thinking.
 
+<!-- This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.   -->
 
 **Reframing GDPs from intermediate-level concept or gateway concept**
 
+While this research has avoided of explicit teaching of concepts, it has conversely surfaced a mechanism, via the use of GDPs which allows this in an accessible way. I propose that the use of GDPs concepts as a primary object of activity allows them to open up exploration of both abstract and concrete concepts for examples those contained within the learning map (see appendix.learningmap for an example in P4), or more aligned to curricular concerns. This  is represented conceptually in Figure 7.x below.
 
-Within this line of inquiry concerning navigation of different levels of abstraction within this process, this research suggests a utility to use of GDPs concepts a primary activity or object of activity. While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings. One such motivation is the ability for implementation of GDPs to open up exploration of other concepts.
+<!-- SIMPLIFY THIS PARAGRAPH OR DROP
+While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings. One such motivation is the ability for implementation of GDPs to open up exploration of other concepts.  -->
 
-The possible use of GDPs as a gateway concept to facilitate reflection on other concepts contained within the learning map (see appendix.learningmap for an example in P4), or more aligned to curricular concerns is  illustrated coceptually in Figure 7.x below.
 
 ![Figure 7.x - GDPs as a gateway concept  ](./Pictures/ch_7_gateway_dia_4.png){width=95%}
 
 <!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
 
-To help imagine how this could be operationalised in the context of this research. A possible alternative profile is represented in the illustration below.  Given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible.
+To help imagine how this could be operationalised in the context of this research. A possible alternative profile is represented in the illustration below. Given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible.
 
 QUESTION HOW WOULD THE USE OF THIS CONCEPT WORK WITH PRIMM.
 
@@ -483,12 +485,11 @@ However this research contends that GDPs are a more suitable accessible  framewo
 <!-- As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
  -->
 
-#### Summary of structural components of applied pedagogy   - REEPP & A gateway view of learning dimensions. MOVE DISCUSSION UP
+#### Summary of structural components of applied pedagogy - REEPP
 
 The use of conceptual and practical frameworks to scaffold domain specific working practices can help ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Broadening the focus of this chapter beyond an exploration of abstract and concrete elements of the learning design, I now return to the gap in research on project-based approaches to digital making, in finding appropriate level of scaffolding [@waite_teaching_2021; @quintana_scaffolding_2004].
 
 The identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
-
 
 Similar to SGD a progressively stepped approach is taken here.
 These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
@@ -509,8 +510,6 @@ This technical structure synthesises use of a code playground, game library, a h
 The above summary has been written to be applicable to projects beyond the use of games.
 
 
-
-
 <!-- NOTE - THERE'S ANOTHER SECTION IN CH.8. -->
 
 <!-- NOTE (If applies collaboratively, it becomes CREEPP) -->
@@ -524,7 +523,7 @@ this break through facilitated the development of different "stepped" progressiv
 
 ### Link to next section - limits of this personal dimension approach
 
-
+In the first part of this chapter, I have proposed that while explicit teaching of abstraction is not necessary or even optimal at this stage of learning coding, this research has surfaced a method which facilitates a _principles second_ approach using GDPs as a gateway concept to dimensions of abstract practice based on reflection of completed activity.
 
 My research data shows the value of the REEPPP approach, structured around the use of GDPs, to access and facilitate dimensions of game making associated with both concrete and abstract knowledge and practices.
 
@@ -630,16 +629,25 @@ Introducing additional tools in the form of documentation to the initial coding 
 
 ### Instrumental and transformational agency
 
-The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].  Chapter 6 outlined examples of mediation and instrumental agency in the use of GDPs aligned often with a personal appropriation (are shown in varied forms in Table 6.1). The process of abstraction of complexity explored above would also fall into this category. Examples of designed attempts to facilitate instrumental agency would be steps taken the resolution of tensions surrounding authenticity of coding web development language, coding environment and documentation.
+The exploration of tensions in Chapter 5 summary, design decisions of tool use can to increase agency in practical terms by providing affordances or by removing barriers to use. Conceptually these practical dimension can be framed as instrumental agency or removing aspects of negative liberty caused by technical barriers [@matusov_mapping_2016, p. 433].
 
-A distinction can be made with and a transformative agency   [@isaac_cultural_2022], in that expression of instrumental agency are unlikely to provoke environment changes in the activity system at hand. Thus instrumental agency in education can be viewed as an uncomplicated view of mediation as a means to achieve pre-set goals. Thus designing for instrumental agency is often framed within an instruction or school setting.
+Instrumental agency in education can be viewed as an uncomplicated view of mediation as a means to achieve pre-set goals. Thus designing for instrumental agency is often framed within an instruction or school setting.
 
-In line with collective conceptions of agency explore in in Chapter to, transformational agency may stem from transcending individual motivation  but also involves a transformation to systemic constraints. As outlined in chapter 3, Sannino explains TADS using a metaphor of a using a kedging anchors [@hopwood_agency_2022]. In this metaphor the act of casting out the anchor is a visible act of volition which aims overcome conflicts blocking activity progress.
+A distinction can be made with and a transformative agency   [@isaac_cultural_2022], in that expression of instrumental agency are unlikely to provoke environment changes in the activity system at hand.
 
-While affordances for mediation in conceptions of instrumental agency may be visible within the learning community, this metaphor encompasses a sense of the exploratory nature of the transformation, and that the leverage or catching point for change may not be immediately visible to activity participants in the activity system. The process may serve to surface previously unknown forms of mediation and use of tools not only for those undertaking this volitional activity but also others in the learning community.
+Transformational agency may stem from transcending individual motivation  but also involves a transformation to systemic constraints [@hopwood_agency_2022]. Participant acts of volition which aims overcome conflicts blocking activity progress may serve to surface previously unknown forms of mediation and use of tools.
 
-Understandably, examples of this process in the research process were prevalent in early stages where participants had access to little in terms of supporting resources. Illustrative attempts of TADS are present in (Appendix.design.p1). For example, email correspondence from myself to participants asking for help in organising project work resulting in the emergence of list of proto-typical GDPs. Additionally the process of leading with exploration of a half-baked template was an experimental response from feedback from participants requesting more hand-on work with the tools before beginning planning. Thus emergence, via interaction between participants and myself, of and the use of a half baked template and GDPs as a suggested leading activity and pedagogical framework is a manifestation of transformational agency.
+Examples of this process in the research process were prevalent in P1 where participants had access to little in terms of supporting resources. Thus emergence, via interaction between participants and myself, of the P2 pedagogy is a result of transformational agency. For more details using TADS terminology see (Appendix.design.p1)
 
+<!-- Examples of designed attempts to facilitate instrumental agency would include steps taken the resolution of tensions surrounding authenticity of coding web development language, coding environment and documentation associated with the concept of black boxing above. -->
+
+<!-- Illustrative attempts of TADS are present in . For example, email correspondence from myself to participants asking for help in organising project work resulting in the emergence of list of proto-typical GDPs.  -->
+
+<!-- Additionally the process of leading with exploration of a half-baked template was an experimental response from feedback from participants requesting more hand-on work with the tools before beginning planning.  -->
+
+<!-- As outlined in chapter 3, Sannino explains TADS using a metaphor of a using a kedging anchors [@hopwood_agency_2022]. In this metaphor the act of casting out the anchor is a visible act of volition which aims overcome conflicts blocking activity progress. -->
+
+<!-- While affordances for mediation in conceptions of instrumental agency may be visible within the learning community, this metaphor encompasses a sense of the exploratory nature of the transformation, and that the leverage or catching point for change may not be immediately visible to activity participants in the activity system. The process may serve to surface previously unknown forms of mediation and use of tools not only for those undertaking this volitional activity but also others in the learning community. -->
 
 
 
@@ -650,21 +658,20 @@ As a designer I began to noticed acts of volition to adapt the game making proce
 <!-- The process is on-going and mutual. Additionally, this work happens in an facilitated environment. Design decisions server to clarify common problems areas, thus making the water clearer to better see anchor points.
 Integrate research on engendering authorial and transformative agency [@engestrom2006development; @haapasaari_emergence_2016; @sannino_formative_2016]. -->
 
-#### A dilemma involving engendering for transformational agency
+#### Tensions related to transformational agency
 
-In the introduction I outlined that a driving motivation of this research was to better understand chaotic learning environments, of which P1 is an example. To engender transformative agency, a suitable starting point should be sketchy, half-baked or incomplete pedagogy and tools set.
+<!-- In the introduction I outlined that a driving motivation of this research was to better understand chaotic learning environments, of which P1 is an example.
 
-Then as a designer and facilitator, I would help participants to lead  design decisions to reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process. However, in adapting designs, and thus increasing affordances and instrumental agency here is a danger of designing away the possibility for transformational agency.
+To engender transformative agency, a suitable starting point should be sketchy, half-baked or incomplete pedagogy and tools set. -->
 
-To retain this potential for transformation it may be advantageous to keep some key areas of the learning design should be more open in structure to encourage the emergence of participant responses and novel practices.
+In early stages I propose one of the roles of the facilitator to make available a variety of affordances in terms of types of activities and materials available for facilitate the process of double stimulation. Then after noticing volitional attempts by participant to access affordance in novel ways via TADS, the facilitator should then incorporate learning design decisions to increase visibility and ease of use of such affordances with an aim to increase feelings of control over their creative process.
 
-In later stages, evidence of this exists, beyond P1, there were still spaces for TA once the core pedagogy is in place. For example, in Vig. Tody and Dan the break out of the template to create a different genre.
+This raises a question, does adapting designs to increase affordances and instrumental agency reduces opportunities for transformational agency. And therefore, if it is advantageous to keep some key areas of the learning design should be kept incomplete to encourage the emergence of participant responses and novel practices thus retain the potential for transformational agency. In practice, there were still spaces for transformation once the core pedagogy is in place. For example, in Vig. Tody and Dan the break out of the template to create a different genre.
 
-In early stages I propose one of the roles of the facilitator to make available a variety of affordances in terms of types of activities and materials available for facilitate the process of double stimulation.
+<!-- reduce practical tensions, increase the instrumental agency of learners allowing them to experience a feeling of control over their creative process.  -->
 
-Not everyone loves such open sketchy learning environments. Some find it confusing and potentially overwhelming, posing a danger that levels of stress for participants may reduce the inclusivity/ Thus, the role of play and other processes to create an inclusive, low-stress environment are beneficial to participant feeling able to experiment with new forms of mediational strategies and thus enact transformational agency.
+An additional challenge as a facilitator in this regard is how to balance the transformative potential of an incomplete learning environments with the potential for participant, confusing and stress. In this research this tension was ameliorated via the use of play and other processes to create an inclusive, low-stress environment. These were  beneficial to participant feeling able to experiment with new forms of mediational strategies and thus enact transformational agency. Another relevant concern is how to best incorporate new affordances and processes that emerge from TADS processes back into the learning community. This questions is explored in the following section on relational agency.
 
-This realisation led me to increased scaffolding and to begin to recognise and value other manifestations and characteristic of emerging agency.
 
 
 ### Relational agency
