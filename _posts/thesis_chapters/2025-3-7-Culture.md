@@ -9,136 +9,118 @@ layout: post
 categories: chapter
 title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
 ---
--   [Research Questions April 2025](#research-questions-april-2025)
--   [Introduction](#introduction)
--   [Part one - Exploring concepts of abstract and concrete knowledge
-    frameworks in relation to Game Design
-    Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
-    -   [Conceptions of abstraction in the research
-        field](#conceptions-of-abstraction-in-the-research-field)
-    -   [Comparing to pedagogies explicitly teaching abstraction,
-        computational thinking and
-        LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
-        -   [Exploring data using concepts of Levels of Abstraction
-            (LOA) &
-            PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
-        -   [Description](#description)
-        -   [Processes of blackboxing](#processes-of-blackboxing)
-        -   [Rationale for black boxing](#rationale-for-black-boxing)
-        -   [Alternative/s in approaches are
-            possible](#alternatives-in-approaches-are-possible)
-        -   [Reflections on design in relation to other research -
-            PERHAPS VIA PRIMM AND UMC? AND HOW DO DESIGN PATTERNS FIT
-            INTO THIS PICTURE - SGD & DENNER (AS FORM OF
-            ANALYSIS)](#reflections-on-design-in-relation-to-other-research---perhaps-via-primm-and-umc-and-how-do-design-patterns-fit-into-this-picture---sgd-denner-as-form-of-analysis)
-        -   [Summary of structural components of applied pedagogy -
-            REEPP & A gateway view of learning dimensions. MOVE
-            DISCUSSION
-            UP](#summary-of-structural-components-of-applied-pedagogy---reepp-a-gateway-view-of-learning-dimensions.-move-discussion-up)
-    -   [Reexaming the use of GDPs from intermediate-level knowledge (to
-        a gateway
-        framework)](#reexaming-the-use-of-gdps-from-intermediate-level-knowledge-to-a-gateway-framework)
-    -   [Link to next section - limits of this personal dimension
-        approach](#link-to-next-section---limits-of-this-personal-dimension-approach)
--   [Part Two - Agency, and re-mediation of repertoires in third
-    spaces](#part-two---agency-and-re-mediation-of-repertoires-in-third-spaces)
-    -   [Instrumental and transformational
-        agency](#instrumental-and-transformational-agency)
-        -   [A dilemma involving engendering for transformational
-            agency](#a-dilemma-involving-engendering-for-transformational-agency)
-    -   [Relational agency](#relational-agency)
-    -   [Shifting forms of agency](#shifting-forms-of-agency)
--   [Reframing findings using socio-cultural understandings of agency
-    and repertoire
-    blending](#reframing-findings-using-socio-cultural-understandings-of-agency-and-repertoire-blending)
-    -   [Revisiting understandings of relational agency and
-        repertoires](#revisiting-understandings-of-relational-agency-and-repertoires)
-    -   [A - Repertoire importation into the the game making
-        community](#a---repertoire-importation-into-the-the-game-making-community)
-    -   [B - The process of blending of repertoires in a third
-        space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
-        -   [Playtesting as a suitable medium for emerging activities
-            creating third spaces via blending of
-            repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
-        -   [Specialism and expressions of identity in variations in
-            approaches to game making and
-            playtesting](#specialism-and-expressions-of-identity-in-variations-in-approaches-to-game-making-and-playtesting)
-    -   [C - Supporting emerging identity formation and specialisation
-        through interventions to support relational repertoire
-        blending](#c---supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
-        -   [Helping styles and helpers](#helping-styles-and-helpers)
-        -   [The introduction of side missions & maker types to make
-            visible emerging repertoires as cultural affordances of my
-            pedagogy to increase and legitimise diversity /
-            hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
--   [Implications for design and summative design
-    frameworks](#implications-for-design-and-summative-design-frameworks)
-    -   [Designing for relational agency by repertoire blending
-        (RARB)](#designing-for-relational-agency-by-repertoire-blending-rarb)
-        -   [What is RARB](#what-is-rarb)
-        -   [Narrative descriptive of a proposed procedure for
-            facilitation relational agency by repertoire blending
-            (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
-        -   [Specialism - INTEGRATE
-            ABOVE](#specialism---integrate-above)
-        -   [Summary of discussion on designing for agency - INTEGRATE
-            ABOVE /
-            BELOW](#summary-of-discussion-on-designing-for-agency---integrate-above-below)
-        -   [Summative table illustrating stages of facilitating RARB in
-            this
-            study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
-    -   [Metaphors as a way to communication dimensions of agency design
-        concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
-        -   [Harbours as both protective and
-            authentic](#harbours-as-both-protective-and-authentic)
-        -   [Spaces to play - playgrounds and jam
-            sessions](#spaces-to-play---playgrounds-and-jam-sessions)
--   [Part Three : Synthesis & contributions to the field = EDITING DOWN
-    OR MOVING TO CHAP
-    8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
-    -   [CCRREEPP & GDPs as a gateway pedagogical
-        framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
-    -   [GDPs used as a gateway pedagogical framework aligned with RARB
-        process](#gdps-used-as-a-gateway-pedagogical-framework-aligned-with-rarb-process)
-        -   [Summary of the potential utility of GDPs for wider
-            stakeholders](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders)
--   [Conclusion](#conclusion)
--   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
-    -   [On planned and emergent
-        activity)](#on-planned-and-emergent-activity)
--   [Notes - MOVED TO THE END FOR
-    REVIEW](#notes---moved-to-the-end-for-review)
-    -   [On Fluency](#on-fluency)
-    -   [Removed in December - perhaps
-        rehome](#removed-in-december---perhaps-rehome)
--   [Removed in Jan - find home](#removed-in-jan---find-home)
-    -   [MoE](#moe)
-    -   [**An example of mini TADS - use of secondary
-        resources**](#an-example-of-mini-tads---use-of-secondary-resources)
--   [Move to next chapter Conclusion](#move-to-next-chapter-conclusion)
-    -   [Questions and Conceptual challenges to dissemination - MOVE
-        PERHAPS TO NEXT
-        CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
-    -   [6. The impact of constraints in design on agency - NOT SURE
-        -MOVE to
-        concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
-    -   [MOVED FROM CHAPTER 6](#moved-from-chapter-6)
+-   [Seeding and Nurturing Community Game Making Practices to Facilitate
+    Learner
+    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
+    -   [Research Questions April 2025](#research-questions-april-2025)
+    -   [Introduction](#introduction)
+    -   [Part one - Exploring concepts of abstract and concrete
+        knowledge frameworks in relation to Game Design
+        Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
+        -   [Conceptions of abstraction in the research
+            field](#conceptions-of-abstraction-in-the-research-field)
+        -   [Comparing to pedagogies explicitly teaching abstraction,
+            computational thinking and
+            LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
+            -   [Exploring data using concepts of Levels of Abstraction
+                (LOA) &
+                PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+            -   [Summary of structural components of applied pedagogy -
+                REEPP](#summary-of-structural-components-of-applied-pedagogy---reepp)
+        -   [Link to next section - limits of this personal dimension
+            approach](#link-to-next-section---limits-of-this-personal-dimension-approach)
+    -   [Part Two - Agency, and re-mediation of repertoires in third
+        spaces](#part-two---agency-and-re-mediation-of-repertoires-in-third-spaces)
+        -   [Instrumental and transformational
+            agency](#instrumental-and-transformational-agency)
+            -   [Tensions related to transformational
+                agency](#tensions-related-to-transformational-agency)
+        -   [Relational agency](#relational-agency)
+    -   [Reframing findings using socio-cultural understandings of
+        agency and repertoire
+        blending](#reframing-findings-using-socio-cultural-understandings-of-agency-and-repertoire-blending)
+        -   [Revisiting understandings of relational agency and
+            repertoires](#revisiting-understandings-of-relational-agency-and-repertoires)
+        -   [A - Repertoire importation into the the game making
+            community](#a---repertoire-importation-into-the-the-game-making-community)
+        -   [B - The process of blending of repertoires in a third
+            space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
+            -   [Playtesting as a suitable medium for emerging
+                activities creating third spaces via blending of
+                repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
+            -   [Specialism and expressions of identity in variations in
+                approaches to game making and
+                playtesting](#specialism-and-expressions-of-identity-in-variations-in-approaches-to-game-making-and-playtesting)
+        -   [C - Supporting emerging identity formation and
+            specialisation through interventions to support relational
+            repertoire
+            blending](#c---supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
+            -   [Helping styles and
+                helpers](#helping-styles-and-helpers)
+            -   [The introduction of side missions & maker types to make
+                visible emerging repertoires as cultural affordances of
+                my pedagogy to increase and legitimise diversity /
+                hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
+    -   [Implications for design and summative design
+        frameworks](#implications-for-design-and-summative-design-frameworks)
+        -   [Designing for relational agency by repertoire blending
+            (RARB)](#designing-for-relational-agency-by-repertoire-blending-rarb)
+            -   [What is RARB](#what-is-rarb)
+            -   [Narrative descriptive of a proposed procedure for
+                facilitation relational agency by repertoire blending
+                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
+            -   [Summary of discussion on designing for agency -
+                INTEGRATE ABOVE /
+                BELOW](#summary-of-discussion-on-designing-for-agency---integrate-above-below)
+            -   [Summative table illustrating stages of facilitating
+                RARB in this
+                study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
+        -   [Metaphors as a way to communication dimensions of agency
+            design
+            concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
+            -   [Harbours as both protective and
+                authentic](#harbours-as-both-protective-and-authentic)
+            -   [Spaces to play - playgrounds and jam
+                sessions](#spaces-to-play---playgrounds-and-jam-sessions)
+    -   [Part Three : Synthesis & contributions to the field = EDITING
+        DOWN OR MOVING TO CHAP
+        8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
+        -   [CCRREEPP & GDPs as a gateway pedagogical
+            framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
+        -   [GDPs used as a gateway pedagogical framework aligned with
+            RARB
+            process](#gdps-used-as-a-gateway-pedagogical-framework-aligned-with-rarb-process)
+            -   [Summary of the potential utility of GDPs for wider
+                stakeholders](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders)
+    -   [Conclusion](#conclusion)
+    -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
+        -   [On planned and emergent
+            activity)](#on-planned-and-emergent-activity)
+    -   [Notes - MOVED TO THE END FOR
+        REVIEW](#notes---moved-to-the-end-for-review)
+        -   [On Fluency](#on-fluency)
+        -   [Removed in December - perhaps
+            rehome](#removed-in-december---perhaps-rehome)
+    -   [Removed in Jan - find home](#removed-in-jan---find-home)
+        -   [MoE](#moe)
+        -   [**An example of mini TADS - use of secondary
+            resources**](#an-example-of-mini-tads---use-of-secondary-resources)
+    -   [Move to next chapter
+        Conclusion](#move-to-next-chapter-conclusion)
+        -   [Questions and Conceptual challenges to dissemination - MOVE
+            PERHAPS TO NEXT
+            CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
+        -   [6. The impact of constraints in design on agency - NOT SURE
+            -MOVE to
+            concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
+        -   [MOVED FROM CHAPTER 6](#moved-from-chapter-6)
 
 # Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
-
-<!-- ## Overview in points
-
-### PLANNING SECTION - Cross referencing and dependencies - with with lit review and other chapters.
-
-List what is needed / referenced in broad terms to help with planning - e.g.
-
-- Inclusion as Participation [@black-hawkins_achievement_2008; @black-hawkins_classroom_2012] -
-- Etc -->
 
 
 ## Research Questions April 2025
 
-**Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
+**Principle question:** How can research on and pedagogies to support CGD&P be enriched using socio-cultural approaches?
 
 1. What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
 
@@ -314,9 +296,6 @@ The use of the concept of levels of abstraction (LOA) and semantic profiles with
 
 <!-- It is relevant to distinguish the interpretations of different dimension abstraction described above: specifically Wing's and Papert's conceptions of abstraction, which can be described as present in top-down planning processes, and generalisable beyond context and abstraction present in the LOA framework is be characterised instead as a goal-design-code-results hierarchy, with the goal being the most abstract.   -->
 
-
-
-
 | **Level**            | **Focus** | **Example** |
 |---------------|--------------|---------------|
 | **Conceptual Level**  | Thinking about the GDPs to be added to the game | Goal formation, prioritisation |
@@ -333,8 +312,6 @@ The navigation between abstract and concrete poles in semantic profiles is diffe
 ![Figure 7.x - Semantic density of the key concepts of this research  ](./Pictures/ch_7_sw_dia_a.png){width=75%}
 
 As such, GDPs would be situated between abstract CT processes and concrete implementation. Thus, returning to the framing the design element of the use of GDPs as intermediate-level concept [@eriksson_using_2019], the interpretation of the data of this study using semantic profiles above supports this intermediate positioning.
-
-**Description**
 
 The following diagram is an approximate representation of the scope of movement using typical behaviour seen in Vignette 2. In this vignette, as exploration of abstract CT concepts and explicit use of systems concepts are rarely present, the resulting of semantic profiles show movement in the lower areas of the gradation of semantic density. This shallow semantic wave above is typical in describing the data of other participants in analysed session recordings.
 
@@ -371,9 +348,12 @@ These can be summarised using Wing's CT concepts namely:
 - Abstraction again in template via the graphical design tool in the form of a grid matrix in an array data structure.
 - Decomposition and generalisation (pattern recognition) were present in the structuring of the collection of GDPs  
 
+One framing of this approach is that over-scaffolding here deprives learners or the chance to learn and practice these valuable CT practices.
+WHERE IS MY JUSTIFICATION?
+
 HOW TO PHRASE THIS CORRECTLY BELOW.
 
-Given the limits of bricolage approach in exploration of more concept, is it of value to ask how if the learning design is at odds with previously explored advocacy for alternating between abstract and concrete dimensions in semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018]. For example, The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels".  Given that lack of explicit teaching of either LOA or more abstract concepts in my bricolage-like approach, it is likely participants would not be aware of the level at they are working.  In addition, while systems concepts are being explored concrete level they are not surfaced explicitly in this learning design. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
+Given the limits of bricolage approach in exploration of more abstract concepts, is it of value to ask how if the learning design is at odds with previously explored advocacy for alternating between abstract and concrete dimensions in semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018]. For example, The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels".  Given that lack of explicit teaching of either LOA or more abstract concepts in my bricolage-like approach, it is likely participants would not be aware of the level at they are working.  In addition, while systems concepts are being explored concrete level they are not surfaced explicitly in this learning design. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
 
 However, while LOA and PRIMM imply an explicit teaching of abstract concepts or processes, the authors [-@waite_abstraction_2018-1, p.21] acknowledge that rationale and evidence to support this is not clear for younger coders. In addition, related research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
 CLARIFY THIS WHOLE SECTION.  
@@ -633,6 +613,8 @@ The exploration of tensions in Chapter 5 summary, design decisions of tool use c
 
 Instrumental agency in education can be viewed as an uncomplicated view of mediation as a means to achieve pre-set goals. Thus designing for instrumental agency is often framed within an instruction or school setting.
 
+EXAMPLES IN THIS SETTING NEEDED. REFERENCE CHAPTER 5.
+
 A distinction can be made with and a transformative agency   [@isaac_cultural_2022], in that expression of instrumental agency are unlikely to provoke environment changes in the activity system at hand.
 
 Transformational agency may stem from transcending individual motivation  but also involves a transformation to systemic constraints [@hopwood_agency_2022]. Participant acts of volition which aims overcome conflicts blocking activity progress may serve to surface previously unknown forms of mediation and use of tools.
@@ -780,6 +762,8 @@ Whereas FI do x, SDE do y? <- too much.. -->
 
 ### Revisiting understandings of relational agency and repertoires
 
+DOES THIS LIVE AT THE START OF PART TWO?
+
 The discussion section of  chapter 6 we examined the complexity of the expanded object in this research, noting both the diversity in terms of motivations and mediational strategies present and the limitations of 3GAT to clearly represent the important interactions between activity systems [@engestrom_development_1996]. This section draws on diverse conceptions of agency to undertake an ecological analysis of the cultural plane of activity. To do this, it works with findings from Chapter 6 regarding GDP use and introduces new data from interviews with participants. It (re)frames these findings using concepts of repertoires and third space via attention to issues of participant identity and movement of practices between learning settings.
 
 KEEP RECAP FOR NOW.
@@ -869,35 +853,89 @@ But C is more cultural, emerging visible identities, specialism and making style
 <!-- It is of note to make a distinction between the leverage of existing competencies and interests as repertoires (explored above ) and the emergence of new ones. -->
 
 
+##### Expertise and relational agency via material feedback and guided participation
+<!-- Several facilitator suggested repertoires served general and technical purposes: namely goal formation using a menu of GDPs, code patching, following documentation and debugging.  -->
+
+
+FOCUS ON RELATIONAL AGENCY NOW. USE THE EXAMPLE COMMENETED OUT BELWO.
+<!-- In the previous example, we understood the youth and undergraduate to have been (a) working together to expand the object of activity (e.g., creating a butterfly whose wings light up, requiring problem solving around how to conduct a circuit) and (b) aligning one’s own responses to new interpretations in activity (e.g., the youth spend a few minutes talking about previous successful or failed attempts), after which they made repairs that allowed their designs to work. -->
+
+
+Relational agency arose in relation to the implementation of GDPs including, via material feedback and guided participation. This can be explored by re-framing the findings of Chapter 6.
+
+In line with relational agency, the changes to the learning design were the result of collective work on the object of activity. In respose, participants began to shape and be aware of an emerging idioculture with community norms and practices.
+
+As explored in Chapters 6, the structuring of GDP collection around the MDA game framework drawing on aesthetics, dynamics and mechanics of the game, reflected initial participant interests.
+
+Some participants responded by developing their initial interests into areas of specialism.
+
+Some decided to focus extensively on the creation and implementation of graphical assets and level design being motivated by narrative placement in the game via GDPs.
+
+Some approached game making objectives in a methodical manner (see Vignette V3.c), picking up technical processes from documentation and interaction with facilitator.
+
+MORE EXAMPLES NEEDED HERE.
+
+The possibilities afforded by the learning design to allow learners to develop specialist skills were also developed via playtesting.
+
+
+
 #### Playtesting as a suitable medium for emerging activities creating third spaces via blending of repertoires
 
-The process of playtesting, beyond a technical evaluation phase of design thinking and  user testing in HCI [@fullerton_game_2018], took on a role a stimulus and incubator for facilitating the emergence of new blended repertoires. Playtesting played a role in the surfacing and opportunities for new repertoires, specialism and associated identities to propagate.
+<!-- The process of new identity formation via repertoire blending is explored here via the concept of specialism. -->
 
-The process of new identity formation via repertoire blending is explored here via the concept of specialism.
-
-The process of feedback, recognising and valuing the merging areas of specialisation and expertise helps the development of diverse practices [@digiacomo_relational_2016-1]. The specialisation contributes to possibilities of relational agency for the learning environment as a whole. It exists as a form of identity within an individuals repertoire and for others to draw on as an affordance of the learning system.
-
-These repertoires become public, and are in part socially motivated, via the process of playtesting.
-
-#### Specialism and expressions of identity in variations in approaches to game making and playtesting
-
-Playtesting surfaced design practices and amplified emerging specialisms.
-
-Drawing on the concept of zones of proximal development, Stone and Gutiérrez [-@stone_problem_2007-2, p.51] underline the importance of explicit creation of "zones of competency" where learner's identities can develop.
-
-As explored in Chapters 6, several facilitator suggested repertoires served general and technical purposes: namely goal formation using a menu of GDPs, code patching, following documentation and debugging. Some approached game making objectives in a methodical manner (see Vignette V3.c), picking up technical processes from documentation and interaction with facilitator. Some participants refrained from extensive testing of other games, waiting for others to test their games and carefully observing their responses.
-
-By way of contrast the structuring of GDP collection around the MDA game framework drawing on aesthetics, dynamics and mechanics of the game, reflected emerging specialisms. Some decided to focus extensively on the creation and implementation of graphical assets and level design being motivated by narrative placement in the game via GDPs. Learners who had mastered certain specialist skills were asked by others for help. Their developing roles as domain experts provided additional affordances in the learning community and building an identify as specialist within it.
-MORE DATA HERE? RECAP DATA OF CHAPTER 6?
-
-Others were very social in their playtesting approach and used playtesting interactions to build affective relationships in a variety of ways. Some via kind and supportive feedback and personal identification with created characters. Madiha for example often said how cute the characters created were. Some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process (see x in Chapter 6).  
-
-Others embraced a playfully disruptive stance. Playtesting for some participants provided a chance to break conventions game design norms of the genre, as a way to cause frustration or confusion, illustrated by Tehillah's behaviour in (V2). Other children added additional playful elements to playtesting (see Appendix.playtestingtypes). Some in particular brought a physicality to the process, clustering in a particular zone of the class, referencing the game play elements, acting them out, attempting to change the games of others and playful tussling as part of resistance to those changes.
+In this design self-playtesting involve immediate feedback from the material affordences of the learning design as explored in Chatper 5. By way of contrast group playtesting of the games of others was more social in nature. Thus, the process of playtesting, beyond a technical evaluation phase of design thinking and  user testing in HCI [@fullerton_game_2018], took on a role in surfacing and amplifying opportunities for new repertoires, specialism and associated identities to propagate. Recalling (Chapter 3) the work of DiGiacomo and Gutiérrez [-@digiacomo_relational_2016-1, p.144] exploring social making in a similar context highlighted the importance of (a) feedback from making activities to nurture relational expertise in the form of emerging specialisms in activity and of (b) social feedback to  increase relational agency between participants.  These processes are now explored using the data of this thesis.  
 
 
-**Link from noticing to then supporting**
+
+<!-- To be sure, the idea that feedback is beneficial for learning is not new (Barron et al., 1998; Bransford et al., 1999; Wagster, Tan, Biswas, & Schwartz, 2007); however, it is our aim to broaden the discussion of feedback to attend to both activity and the context within the design of a learning environment. Through subsequent analysis of illustrative M & T interactions at EPM, we aim to show (a) how consistent feedback from the social organization of the M & T activities led to increased relational agency among participants and (b) how immediate feedback from the M & T activities itself led to the emergence of relational expertise in activity (Edwards, 2011). The emergence of these two phenomena, we argue, supported preservice teachers in taking up and valuing the diverse “repertoires of practice” (Gutierrez & Rogoff, 2003) that the elementary age youth brought to EPM—and supported the development of more symmetrical relations among teachers and learner -->
+
+
+
+##### Different styles of playtesting-  conditions for playtesting  & resulting ways of being  - abd  Relational expertise in playtesting
+
+PROPOSAL  - The development of different styles of being in playtesting, helped motivate participants to know exactly what they were designing for, and therefore what kinds of technical specialisms to develop.
+
+Some participants refrained from extensive testing of other games, waiting for others to test their games and carefully observing their responses.
+
+Some children added additional playful elements to playtesting (see Appendix.playtestingtypes). Some in particular brought a physicality to the process, clustering in a particular zone of the class, referencing the game play elements, acting them out, attempting to change the games of others and playful tussling as part of resistance to those changes.
+
+Some participants were very social in their playtesting approach and used playtesting interactions to build affective relationships in a variety of ways. Some via kind and supportive feedback and personal identification with created characters. Madiha for example often said how cute the characters created were. Some participants used playtesting as a way to gain idea of what to add to their game next and to ask for direct help in that process (see x in Chapter 6).  
+
+Others embraced a playfully disruptive stance. Playtesting for some participants provided a chance to break conventions game design norms of the genre, as a way to cause frustration or confusion, illustrated by Tehillah's behaviour in (V2).
+
+
+##### (RE)Translation into relational agency
+
+RELATIONAL AGENCY IE THE ABILITY FOR WORKING WITH OTHERS TO EXPAND THE OBJECT OF ACTIVITY  AND TO BE RESPONSIVE
+
+<!--  FROM EDWARDS ][@edwards_building_2011]
+
+(i) working with others to expand the ‘object of activity’ or task being worked on by recognising the motives and the resources that others bring to bear as they, too, interpret it; and (ii) aligning one’s own responses to the newly enhanced interpretations with the responses being made by the other professionals while acting on the expanded object. -->
+
+The previous section addressed initial relational development via guided participation and response to material feedback in the learning design.
+
+DiGiacomo and Gutiérrez [-@digiacomo_relational_2016-1] using emerging relational expertise help develop relational agency.
+
+Finding of the last chapter show that this happens
+
+Findings here show that this happens organically via playtesting.  
+
+The technical repertoires which are developed through game making may be social motivated via to prepare for playtesting and then once shared publicly may influence the idioculture providing relational affordances for others.  
+
+An example of this is Tehillah's innovation to disrupt level design norms (see Vignette 2). While Tehillah's attempts to communicate the rationale behind here  does not display
+
+<!--
+FROM [@digiacomo_relational_2016-1, p.144]
+In doing so, the context created room for relational expertise (the capacity to recognize and respond to what others offer in local systems of distributed expertise) to be leveraged toward relational agency (the capacity for working with others to solve problems) in joint activit -->
+
+**Link from noticing in playtesting to then supporting**
+
+Returning to the importance of feedback in playtesting, recognising and valuing the merging areas of specialisation and expertise helped the development of diverse practices, both technical and social in nature (with overlap?).
+
+
+The specialisation contributes to possibilities of relational agency for the learning environment as a whole. It exists as a form of identity within an individuals repertoire and for others to draw on as an affordance of the learning system.
+
 The diversity in playtesting behaviours drove my reflection on the relationship between developing effective repertoires and an affective relationship to the activity relies on the participants being able to identify with the ongoing activity (thus informing a processes of inclusion)
-
 
 The role of playtesting aligns here creating a helpful system congruency.
 
@@ -909,7 +947,12 @@ As, the area of explicit cultural creation of spaces is under explored in existi
 
 ### C - Supporting emerging identity formation and specialisation through interventions to support relational repertoire blending
 
-The above prompted me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the diverse properties of hybridity in practices as a way to increase the inclusive potential in non-formal, educational third spaces [@gutierrez_rethinking_1999].
+
+Drawing on the concept of zones of proximal development, Stone and Gutiérrez [-@stone_problem_2007-2, p.51] underline the importance of explicit creation of "zones of competency" where learner's identities can develop.
+
+The observations above prompted me to ask if suitable affordances be added to the design to encourage their further growth in line with Gutiérrez's valuing of the diverse properties of hybridity in practices as a way to increase the inclusive potential in non-formal, educational third spaces [@gutierrez_rethinking_1999].
+
+
 
 <!-- NOTE AND the additional motivations flowing into this system from other activity systems. HOW AND WHY? MOTIVATIONS IN PARTICULAR? -->
 
@@ -958,7 +1001,7 @@ Thus transformation is happening here but not in a revolutionary way. It is more
 
 Side missions were described in Chapter.5 and in more detail in Appendix.maker types?
 
-AND ADD IN INTERVIEW DATA TOO. 
+AND ADD IN INTERVIEW DATA TOO.
 
 The process contextualises and legitimises the previously peripheral activities with the groups conceptions of the idioculture of the wider activity. This recognition of the hybridity of possible modes of participation increases conceptions of enacted diversity of the community.
 

@@ -338,7 +338,23 @@ This section explores Kafai and Burke’s framing of constructionist gaming as a
 Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
 
 
-Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016]. When pedagogy is addressed in recent constructionist studies, it generally takes the form of broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017], which will be explored further in this chapter. Recently, Kafai has revisited the topic to emphasise the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.  Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
+Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016]. When pedagogy is addressed in recent constructionist studies, it generally takes the form of broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017].
+
+Most relevant to the domain of this study are constructionist design principles articulated by Resnick and Rosenbaum [-@resnick_designing_2013] in the form of designing for tinkerability in terms of allowing immediate feedback and fluid experimentation and open experimentation.
+
+In earlier work focused on creative coding environments similar concepts of  low floors, wide walls and high ceilings [@resnick_reflections_2005, @resnick_scratch:_2009]. DEVELOP.  
+
+<!--
+THIS IS IS FROM
+
+Low floors: a tool that is intuitive enough to allow new users to acclimate to it gradually and with a degree of confidence.
+High ceilings: a tool that also allows more experienced users to create constructs (in this case, video games) that can grow increasingly complex and nuanced as one’s own proficiency increases.
+Wide walls: a tool that—in addition to low floors and high ceilings—allows its users to create a wide range a constructs, letting users tap into elements of personal experience as well as popular culture to design and develop something entirely unique and representative of their own interests and backgrounds.
+We added a fourth principle to emphasize the equally important social dimension of construction tools:11
+
+Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
+
+Recently, Kafai has revisited the topic to emphasise the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.  Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
 <!-- Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies . -->
 

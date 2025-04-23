@@ -461,19 +461,18 @@ Before addressing Research Question 2, which asks how participants develop agenc
 Instrumental agency reflects a concept of agency as the ability to get things done, thus, a view of agency as a set of capacities [@edwards_steps_2005]. Matusov and colleagues [-@matusov_mapping_2016] highlight an often technological view of educational environments where educators seek to increase instrumental agency by building the individual capacity of learners to achieve relevant tasks. Many DBR studies which aim to develop and study the use of new tools especially in the area of education technology, would aim to increase instrumental learner agency, designing away problems.
 <!-- MORE DETAIL ON THE LAST POINT -->
 
-Edwards and Mackenzie’s concept of relational agency builds on instrumental agency, extending it to include a social dimension that enables learners to request and offer support within a community context [@edwards_steps_2005]. While applying this relational, instrumental agency in school settings is commendable, the authors [-@edwards_steps_2005] note that this application is often limited by institutional and curricular constraints. Within a CHAT framework, this type of agency can be seen as enhancing the fluidity of practice, with learners using both objects and people as tools within mediated activities. According to Leontiev, actions that initially require concentration and effort may evolve into fluid operations through practice. Thus, understanding these dimensions of agency within an AT framework should be grounded in a solid comprehension of mediation principles.
+Within a CHAT framework, this type of agency can be seen as enhancing the fluidity of practice, with learners using both objects and people as tools within mediated activities. According to Leontiev, actions that initially require concentration and effort may evolve into fluid operations through practice. Thus, understanding these dimensions of agency within an AT framework should be grounded in a solid comprehension of mediation principles.
 
-#### Concepts needed later to develops
 
-TO ADD - Within relational agency, a call back to 3rd spaces and emerging repertoires is needed to introduce exploration in Chapter 7.
 
-The distinct focus of equity, rather than agency of Gutierrez should be noted here also.  
 
 ### Dynamically emergent agency
 
 CAN THIS BE LINKED WITH RELATIONAL AGENCY -
 
 Matusov and colleagues' interpretation of a dynamically emergent dimension of agency is complex and diverse allowing agency to be recognised in distributed forms such as 'emerging collective agency, agency of bureaucracy, non-human agency of animals, agency of distributed machine-human network, agency of Internet, and so on' [@matusov_mapping_2016, p. 432]. The authors recognise the value of this framing of agency to explore and address constraints and designing support in the form of affordances in the learning environment. As this study involves the use of computer systems to learn computer coding, there is value in exploring agency in this context. Work by Bærentsen and Trettvik [-@ba_erentsen_activity_2002] linking the use of affordances in human computer interaction (HCI) to a foundation in activity theory highlights, following Gibson [-@gibson2014theory], that affordances exist as opportunities provided by the environment and objects within it, either natural or culturally created, to organisms within that environment. The authors also note that the distinction between the intended (designed) use of affordances and their possible use, an important distinction in the field of HCI, is one best explored via activity theory's study of the interaction of humans and artefacts as joint activity, thus preventing the view that that affordances have magical powers outside of a cultural context.
+
+HOW CAN THE FOLLOWING BE FRAMED AS RELATIONAL AGENCY OR WHAT IS THE LINK TO RA IN TERMS OF THE RELATION TO MATERIAL AFFORDANCES ?
 
 The work of Nardi and Kaptelinin [-@kaptelinin_activity_2012] is also helpful here to examine the concept of designed affordance in learning environments through a lens of activity theory. The authors [-@kaptelinin_affordances_2012] also reframe Gibson's concept of affordances as possibilities in line with activity theory concepts of mediated action. They situate the creation of affordances in designed systems as a form of delegated agency [@kaptelinin_activity_2012]. Artefacts or tools used in mediated activity may be given a form of delegated agency through designed affordances, e.g. a phone may prompt its user to charge its battery via notifications. However, unlike Latour's [-@lemonnier_ethnography_2013] concept of agency in actor network theory, objects would not delegate agency to a human [@kaptelinin_activity_2012, p.42]. This is not to say that non-human objects have no impact on others as once the artefacts are placed in context they may have unintended consequences creating what Engeström calls _runaway objects_ [@spinuzzi_losing_2011]. This interpretation acknowledges the agentic like impact of these objects but attributes the original volition or motivations to human-initiated activity. In the following section, an authorial interpretation of agency is explored as one that is not experienced as delegated but rather created.
 
@@ -483,6 +482,29 @@ The work of Nardi and Kaptelinin [-@kaptelinin_activity_2012] is also helpful he
 <!-- A good summary of affordances related to HCI is here [@galliers_affordance_2017] -->
 <!-- Other researchers have found the the scope and focus of affordances important to clarify [@wolff-piggott_activity_2016-1]. -->
 
+### Relational agency
+
+
+
+Edwards and Mackenzie’s concept of relational agency builds on instrumental agency, extending it to include a social dimension that enables learners to request and offer support within a community context [@edwards_steps_2005]. While applying this relational, instrumental agency in school settings is commendable, the authors [-@edwards_steps_2005] note that this application is often limited by institutional and curricular constraints.
+
+
+#### Feedback and relational agency and specialism in context of making
+
+TO ADD - Within relational agency, a call back to 3rd spaces and emerging repertoires is needed to introduce exploration in Chapter 7.
+
+The work of DiGiacomo and Gutiérrez exploring making and tinkering in a 5D context explored the role of:
+
+   1. feedback to increase relational agency
+   2. feedback increases relational expertise in
+
+The additional focus of equity, and diversity rather than agency of Gutierrez should be noted here also.  
+
+From [-@digiacomo_relational_2016-1]
+
+    We argue that these relational and material feedback elements of the activity helped to create an environment with relational agency—a “capacity for working with others to strengthen purposeful responses to complex problems” [@edwards_building_2011] (Edwards, 2011, p.34). According to Edwards (2011), relational agency arises from (a) working with others to expand the object of activity and (b) aligning one’s own responses to new interpretations being made by the others while acting on the expanded object.
+
+<!-- To be sure, the idea that feedback is beneficial for learning is not new (Barron et al., 1998; Bransford et al., 1999; Wagster, Tan, Biswas, & Schwartz, 2007); however, it is our aim to broaden the discussion of feedback to attend to both activity and the context within the design of a learning environment. Through subsequent analysis of illustrative M & T interactions at EPM, we aim to show (a) how consistent feedback from the social organization of the M & T activities led to increased relational agency among participants and (b) how immediate feedback from the M & T activities itself led to the emergence of relational expertise in activity (Edwards, 2011). The emergence of these two phenomena, we argue, supported preservice teachers in taking up and valuing the diverse “repertoires of practice” (Gutierrez & Rogoff, 2003) that the elementary age youth brought to EPM—and supported the development of more symmetrical relations among teachers and learner -->
 
 ### Authorial and transformative agency
 
@@ -514,6 +536,8 @@ This metaphor highlights the active effort of participants to overcome tensions 
 While not all attempts, such as directly asking a peer or teacher for help, will succeed, some will take hold and lead to transformation for the student. This may also trigger a broader shift in the educational environment itself. This idea is particularly relevant to the setting of this study, where the learning environment is co-created by both participants and researchers.
 
 <!-- By contrast the work on  idioculture by Cole and colleagues explores this more actively via design narratives and similar techniques. -->
+
+
 
 ## Conclusion / Synthesis.
 
