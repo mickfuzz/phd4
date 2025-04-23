@@ -364,6 +364,32 @@ This interpretation of the practical utility of idiocultures resonates with the 
 
 The work of Rogoff and Gutiérrez on linguistic and cultural-historical repertoires [@rogoff_cultural_2003] also aims to prevent cultural-historical practices of participation from being misrepresented as innate behaviours, a misrepresentation they identify as particularly problematic in relation to race. They emphasise that both educators and researchers should avoid designing interventions based on assumed traits of learners. Instead, they advocate for researching and verifying existing repertoires of practice that may be incorporated and then extended within joint work. This perspective builds on Rogoff's pioneering approach to analysing complex group activities through three planes of observation: personal, social, and community activity. A key motivation driving the analysis of behaviours on the social plane is Rogoff's desire to transcend the dichotomy between learner-led and teacher-led approaches [@rogoff_childrens_1993; @mascolo_beyond_2009]. Rogoff's concept of guided participation and the role of emerging repertoires of practice within that process, serving as a middle ground between instruction and discovery, are explored in more detail, through the lens of participants use of game design patterns, in Chapter 6.
 
+
+---
+
+### Funds of knowledge and third space
+
+The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
+
+In the original study home visits were carried out to better inform design of after-school activities.
+
+However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
+
+The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
+
+Look at how Moje opertationalised third spaces too.
+See dissertation on third space here [@bellocchi_learning_nodate]
+
+
+Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
+
+### Third spaces and the context of this study
+
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning.
+
+
+---
+
 <!-- The development of the cultural repertoires in group work  continues of the work of Gutiérrez on social design
 experiments [@gutierrez_social_2016-1; @gutierrez_social_2020]. -->
 
