@@ -34,12 +34,18 @@
             community](#a---repertoire-importation-into-the-the-game-making-community)
         -   [B - The process of blending of repertoires in a third
             space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
+            -   [Prototypical specialism and proficiency via material
+                feedback and guided
+                participation](#prototypical-specialism-and-proficiency-via-material-feedback-and-guided-participation)
             -   [Playtesting as a suitable medium for emerging
                 activities creating third spaces via blending of
                 repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
-            -   [Specialism and expressions of identity in variations in
-                approaches to game making and
-                playtesting](#specialism-and-expressions-of-identity-in-variations-in-approaches-to-game-making-and-playtesting)
+                -   [Different styles of playtesting- conditions for
+                    playtesting & resulting ways of being - abd
+                    Relational expertise in
+                    playtesting](#different-styles-of-playtesting--conditions-for-playtesting-resulting-ways-of-being---abd-relational-expertise-in-playtesting)
+                -   [(RE)Translation into relational
+                    agency](#retranslation-into-relational-agency)
         -   [C - Supporting emerging identity formation and
             specialisation through interventions to support relational
             repertoire

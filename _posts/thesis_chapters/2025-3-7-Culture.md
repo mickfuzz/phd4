@@ -45,12 +45,18 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             community](#a---repertoire-importation-into-the-the-game-making-community)
         -   [B - The process of blending of repertoires in a third
             space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
+            -   [Prototypical specialism and proficiency via material
+                feedback and guided
+                participation](#prototypical-specialism-and-proficiency-via-material-feedback-and-guided-participation)
             -   [Playtesting as a suitable medium for emerging
                 activities creating third spaces via blending of
                 repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
-            -   [Specialism and expressions of identity in variations in
-                approaches to game making and
-                playtesting](#specialism-and-expressions-of-identity-in-variations-in-approaches-to-game-making-and-playtesting)
+                -   [Different styles of playtesting- conditions for
+                    playtesting & resulting ways of being - abd
+                    Relational expertise in
+                    playtesting](#different-styles-of-playtesting--conditions-for-playtesting-resulting-ways-of-being---abd-relational-expertise-in-playtesting)
+                -   [(RE)Translation into relational
+                    agency](#retranslation-into-relational-agency)
         -   [C - Supporting emerging identity formation and
             specialisation through interventions to support relational
             repertoire
@@ -767,7 +773,9 @@ DOES THIS LIVE AT THE START OF PART TWO?
 The discussion section of  chapter 6 we examined the complexity of the expanded object in this research, noting both the diversity in terms of motivations and mediational strategies present and the limitations of 3GAT to clearly represent the important interactions between activity systems [@engestrom_development_1996]. This section draws on diverse conceptions of agency to undertake an ecological analysis of the cultural plane of activity. To do this, it works with findings from Chapter 6 regarding GDP use and introduces new data from interviews with participants. It (re)frames these findings using concepts of repertoires and third space via attention to issues of participant identity and movement of practices between learning settings.
 
 KEEP RECAP FOR NOW.
-Third spaces for Gutiérrez are collective zones of proximal development, which can be both an specific environment and/ or a process within existing contexts supporting a hybrid approach where formal and informal repertoires are blended in collaborative work on an expanded object. To augment this setting related concept, Rogoff and Gutiérrez [@gutierrez_cultural_2003; @gutierrez_youth_2019-1] use repertoires as a lens to contribute to discussion of expansive learning in CHAT as a positive enacted demonstration of diversity and equity.
+Third spaces for Gutiérrez are collective zones of proximal development, which can be both an specific environment and/ or a process within existing contexts supporting a hybrid approach where diverse repertoires are re-mediated or blended in collaborative work on an expanded object [@gutierrez_developing_2008]. To augment this setting related concept, Rogoff and Gutiérrez [@gutierrez_cultural_2003; @gutierrez_youth_2019-1] use repertoires as a lens to contribute to discussion of expansive learning in CHAT as a positive enacted demonstration of diversity and equity.
+
+THERE IS ALSO A LINK TO MUTUAL APPROPRIATION HERE.
 
 MAKE CLEARER
 The overall goal is of this section is to
@@ -843,7 +851,7 @@ This section is not an attempt to exhaustively list initial imported uses of FoK
 https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit?gid=1243995712#gid=1243995712 -->
 
 
-### B - The process of blending of repertoires in a third space
+### B - The process of blending of repertoires in the third space of this research (playtesting in particular)
 
 <!-- NOTE - ADD ANYTHING MORE IN THIS BIT SECTION B?
 Section B - is more personal and guided participant with parents. Not fully tbf
@@ -853,39 +861,18 @@ But C is more cultural, emerging visible identities, specialism and making style
 <!-- It is of note to make a distinction between the leverage of existing competencies and interests as repertoires (explored above ) and the emergence of new ones. -->
 
 
-##### Expertise and relational agency via material feedback and guided participation
-<!-- Several facilitator suggested repertoires served general and technical purposes: namely goal formation using a menu of GDPs, code patching, following documentation and debugging.  -->
 
 
-FOCUS ON RELATIONAL AGENCY NOW. USE THE EXAMPLE COMMENETED OUT BELWO.
-<!-- In the previous example, we understood the youth and undergraduate to have been (a) working together to expand the object of activity (e.g., creating a butterfly whose wings light up, requiring problem solving around how to conduct a circuit) and (b) aligning one’s own responses to new interpretations in activity (e.g., the youth spend a few minutes talking about previous successful or failed attempts), after which they made repairs that allowed their designs to work. -->
 
-
-Relational agency arose in relation to the implementation of GDPs including, via material feedback and guided participation. This can be explored by re-framing the findings of Chapter 6.
-
-In line with relational agency, the changes to the learning design were the result of collective work on the object of activity. In respose, participants began to shape and be aware of an emerging idioculture with community norms and practices.
-
-As explored in Chapters 6, the structuring of GDP collection around the MDA game framework drawing on aesthetics, dynamics and mechanics of the game, reflected initial participant interests.
-
-Some participants responded by developing their initial interests into areas of specialism.
-
-Some decided to focus extensively on the creation and implementation of graphical assets and level design being motivated by narrative placement in the game via GDPs.
-
-Some approached game making objectives in a methodical manner (see Vignette V3.c), picking up technical processes from documentation and interaction with facilitator.
-
-MORE EXAMPLES NEEDED HERE.
-
-The possibilities afforded by the learning design to allow learners to develop specialist skills were also developed via playtesting.
-
+<!--
+NOT YET In line with relational agency, these were the result of collective work on the object of activity. -->
 
 
 #### Playtesting as a suitable medium for emerging activities creating third spaces via blending of repertoires
 
 <!-- The process of new identity formation via repertoire blending is explored here via the concept of specialism. -->
 
-In this design self-playtesting involve immediate feedback from the material affordences of the learning design as explored in Chatper 5. By way of contrast group playtesting of the games of others was more social in nature. Thus, the process of playtesting, beyond a technical evaluation phase of design thinking and  user testing in HCI [@fullerton_game_2018], took on a role in surfacing and amplifying opportunities for new repertoires, specialism and associated identities to propagate. Recalling (Chapter 3) the work of DiGiacomo and Gutiérrez [-@digiacomo_relational_2016-1, p.144] exploring social making in a similar context highlighted the importance of (a) feedback from making activities to nurture relational expertise in the form of emerging specialisms in activity and of (b) social feedback to  increase relational agency between participants.  These processes are now explored using the data of this thesis.  
-
-
+The process of playtesting, beyond a technical evaluation phase of design thinking and  user testing in HCI [@fullerton_game_2018], took on a role in surfacing and amplifying opportunities for new repertoires, specialism and associated identities to propagate  via wider group playtesting of the games of others which was more social in nature. The work of DiGiacomo and Gutiérrez [-@digiacomo_relational_2016-1, p.144] (see Chapter 3) explored social making in a similar context highlighted the importance of (a) feedback from making activities to nurture relational expertise in the form of emerging specialisms in activity and of (b) social feedback to increase relational agency between participants. Playtesing can thus be seen a both a process and a (third) space suited to both the re-mediation of mediational strategies in response to the diverse practices, and thus organic and introduced development of hybrid practices which blend existing repertoires of young people, parents and facilitators [@gutierrez_lifting_2010].  In addition, group playtesting unlocks the relational aspects of both expertise and wider agency, a process are explored in this section using the data of this thesis.  
 
 <!-- To be sure, the idea that feedback is beneficial for learning is not new (Barron et al., 1998; Bransford et al., 1999; Wagster, Tan, Biswas, & Schwartz, 2007); however, it is our aim to broaden the discussion of feedback to attend to both activity and the context within the design of a learning environment. Through subsequent analysis of illustrative M & T interactions at EPM, we aim to show (a) how consistent feedback from the social organization of the M & T activities led to increased relational agency among participants and (b) how immediate feedback from the M & T activities itself led to the emergence of relational expertise in activity (Edwards, 2011). The emergence of these two phenomena, we argue, supported preservice teachers in taking up and valuing the diverse “repertoires of practice” (Gutierrez & Rogoff, 2003) that the elementary age youth brought to EPM—and supported the development of more symmetrical relations among teachers and learner -->
 
@@ -893,7 +880,7 @@ In this design self-playtesting involve immediate feedback from the material aff
 
 ##### Different styles of playtesting-  conditions for playtesting  & resulting ways of being  - abd  Relational expertise in playtesting
 
-PROPOSAL  - The development of different styles of being in playtesting, helped motivate participants to know exactly what they were designing for, and therefore what kinds of technical specialisms to develop.
+The development of different styles of being in playtesting represented new forms of re-mediated strategies incorporating home practices and new introduced repertoires.
 
 Some participants refrained from extensive testing of other games, waiting for others to test their games and carefully observing their responses.
 
@@ -903,8 +890,42 @@ Some participants were very social in their playtesting approach and used playte
 
 Others embraced a playfully disruptive stance. Playtesting for some participants provided a chance to break conventions game design norms of the genre, as a way to cause frustration or confusion, illustrated by Tehillah's behaviour in (V2).
 
+**Beyond playtesing styles to visible repertoires sharing other repertoires involving expertise**
 
-##### (RE)Translation into relational agency
+MOVE THE PREVIOUS SECTION HERE?  
+##### The sharing of specialism and proficiency via material feedback and guided participation
+<!-- Several facilitator suggested repertoires served general and technical purposes: namely goal formation using a menu of GDPs, code patching, following documentation and debugging.  -->
+
+
+
+<!-- In the previous example, we understood the youth and undergraduate to have been (a) working together to expand the object of activity (e.g., creating a butterfly whose wings light up, requiring problem solving around how to conduct a circuit) and (b) aligning one’s own responses to new interpretations in activity (e.g., the youth spend a few minutes talking about previous successful or failed attempts), after which they made repairs that allowed their designs to work. -->
+
+
+
+Beyond general playtesting styles,  playtesting exposed  specialisms related to growing participant proficiency as explored findings of Chapters 5 and Chapter 6. Playtesting made expanded, transformational learning visible, thus guiding other participants to know exactly what they were designing for, and therefore what kinds of technical specialisms to develop.
+
+For example in relation to the implementation of GDPs including, via material feedback and guided participation.
+
+EXAMPLES EXAMPLES EXAMPLES!
+
+<!-- Self-playtesting by individuals and pairs allowed immediate feedback from the material affordances of the learning design (as explored in Chatper 5. -->
+
+As explored in Chapters 6, the structuring of GDP collection around the MDA game framework drawing on aesthetics, dynamics and mechanics of the game, reflected initial participant interests.
+
+Some participants responded by developing their initial interests into areas of specialism. Some decided to focus extensively on the creation and implementation of graphical assets and level design being motivated by narrative placement in the game via GDPs.
+
+In addition, in response to the evolving learning design, participants began to shape an emerging idioculture with community norms and practices.
+
+Some approached game making objectives in a methodical manner (see Vignette V3.c), picking up technical processes from documentation.
+
+Others relied on trial and error or interaction with facilitator.
+
+MORE EXAMPLES NEEDED HERE.
+
+##### Re-mediation into relational agency
+
+The specialisations contributes to possibilities of relational agency for the learning environment as a whole. It exists as a form of identity within an individuals repertoire and for others to draw on as an affordance of the learning system.
+
 
 RELATIONAL AGENCY IE THE ABILITY FOR WORKING WITH OTHERS TO EXPAND THE OBJECT OF ACTIVITY  AND TO BE RESPONSIVE
 
@@ -931,9 +952,6 @@ In doing so, the context created room for relational expertise (the capacity to 
 **Link from noticing in playtesting to then supporting**
 
 Returning to the importance of feedback in playtesting, recognising and valuing the merging areas of specialisation and expertise helped the development of diverse practices, both technical and social in nature (with overlap?).
-
-
-The specialisation contributes to possibilities of relational agency for the learning environment as a whole. It exists as a form of identity within an individuals repertoire and for others to draw on as an affordance of the learning system.
 
 The diversity in playtesting behaviours drove my reflection on the relationship between developing effective repertoires and an affective relationship to the activity relies on the participants being able to identify with the ongoing activity (thus informing a processes of inclusion)
 
