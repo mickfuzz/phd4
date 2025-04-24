@@ -1236,13 +1236,14 @@ The role of the emerging culture and identity of the idioculture  is developed i
 
 <!-- In this cultural context the process of patching also references the process of repertoire blending outlined above. -->
 
-The social and cultural processes described in part two of this chapter, is a valid contribution to the field as a technical pedagogical structure. In line with the summary of gaps in existing reseach, the process of communicating a holistic understanding of the learning design that evolved in the course of this research is challenging. The structural element of the proceedural REEPP framework could be augmented with the socio-cultural elements explored in part two. To do this, I could propose logical acronym: collaborative, culturally responsive, remix enabled, elective, progressive pattern patching (CCRREEPPP). While logical, I have concerns that it may be percieved as a bit daft.
+The social and cultural processes described in part two of this chapter, is a valid contribution to the field as a technical pedagogical structure. In line with the summary of gaps in existing research, the process of communicating a holistic understanding of the learning design that evolved in the course of this research is challenging.
 
 The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
 
 
+The structural element of the proceedural REEPP framework could be augmented with the socio-cultural elements explored in part two. To do this, I could propose logical acronym: collaborative, culturally responsive, remix enabled, elective, progressive pattern patching (CCRREEPPP). While logical, I have concerns that it may be perceived as a bit daft. Instead, I will concisely describe the relationship between REEPP, RARB and the use of GDPs as a gateway concepts. The structural scaffolding provided by the REEPP framework facilitates the initial stage of the RARB process where GDPs play a key role as a gateway to abstract / concrete concepts and practices which are available to be blended with imported participant repertoires resulting in new repertoires manifested as relational expertise and relational agency in a new community of learners. While this is difficult to represent in a figure, I have attempted to do so in Figure 7.x, focused on combining the role of GDPs as a gateway concept to facilitate wider remediation of diverse imported and emerging repertoires. 
 
-![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_repertoires_dia_2.png){width=100%}
+![Figure 7.x - An overview of the position of GDPs within a process of RARB  ](./Pictures/ch_7_repertoires_dia_2.png){width=100%}
 
 
 I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a framework to facilitate to process of development of social and cultural repertoires of practice.
