@@ -241,9 +241,10 @@ This section explores these academic conceptions in a playful way using relatabl
 
 <!-- **Intro to section** -->
 
-The tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of the domain of computer game design and programming (CGD&P) (see Chapter 2). Yet, the field is still lacking in depth in terms of specific pedagogies which explore the complexities of conceptions of abstraction. Complexities which include areas of... computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches. To address this this chapter explores these characteristics in relation to the data surfaced in Chapters 5 and 6 of this thesis. The section concludes with a proposal of GDPs as pedagogical constructs located between abstract and concrete poles of the learning experience and an exploration of their utility for educational designers, researchers and for participants. Finally, a technical pedagogical structure is advanced and given an term of _remix enabled elective pattern patching_ (REEPP)
+The tension between abstract and concrete dimension of the process of learning to program runs as a theme through the literature of the domain of computer game design and programming (CGD&P) (see Chapter 2). Yet, the field would still benefit from research on novel pedagogies which explicitly address the complexities of abstraction in computing education. Complexities which include areas of gradation of abstraction in understanding of computational thinking; the role of levels of abstraction for teachers and learners; and the value of epistemological pluralism as a way to value concrete approaches. This chapter explores these characteristics in relation to the data surfaced in Chapters 5 and 6 of this thesis. The section develops the proposal of GDPs as pedagogical germ cell between abstract and concrete poles of the learning experience and examines the utility of this positioning for facilitators for participants. Finally, a technical pedagogical structure is advanced and given an term of _remix enabled elective pattern patching_ (REEPP)
 
-
+<!-- THIS IS SORT OF Dropped
+gpPS AND  their utility for facilitators for participants. -->
 
 <!-- omputing curricular concerns, provoked careful reflection on abstract-concrete dimensions of emerging knowledge happening in the game making and digital making more generally. -->
 
@@ -256,12 +257,14 @@ Chapter 2 began to explore, through the lens of personal appropriation, a variet
 
 <!-- CHECK THE TRAJECTORY OF THIS CONCEPT IN THESIS. -->
 
+<!-- MOVE THIS TO CHAPTER 2
+Following Hook [-@hook_strong_2012], Eriksson et al. [-@eriksson_using_2019], in their use of a curated collection of GDPs to structure game design, framed design patterns as a form of intermediate-level concept, between the detail of concrete implementation and more general theories. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work.  -->
 
-Before exploring dimensions of abstraction and concreteness in the use of GDPs within context of computing education by revisiting relevant pedagogies outlined in Chapter 2, it is of value to revisit relevant framings which justify the utility of such exploration. Firstly, following Hook [-@hook_strong_2012], Eriksson et al. [-@eriksson_using_2019], in their use of a curated collection of GDPs to structure game design, framed design patterns as a form of intermediate-level concept, between the detail of concrete implementation and more general theories. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work. Similarly, in activity theory, specifically in formative interventions, the research process and the evolving design involve a process of _rising to the concrete_. This analytical process involves identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it. Thus this research advances the use of GDPs as both a form on intermediate learning design principle (explored in Chapter 5) and as an analytical germ cell which is manifested in varied motivational and mediational forms (Chapter 6).
 
-**Revisiting concepts of abstraction in foundational computing education research**
+This section explores dimensions of abstraction and concreteness in the use of GDPs within context of computing education by revisiting relevant pedagogies outlined in Chapter 2. In activity theory, specifically in formative interventions, the research process and the evolving design involve a process of _rising to the concrete_. This analytical process involves identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it. Thus this research the utility of GDPs as both a form on intermediate learning design principle (explored in Chapter 5) or unit of analysis (see Chapter 3.) and as an analytical germ cell which is manifested in varied motivational and mediational forms (Chapter 6).
 
-Chapter 2 explores definitions of computational thinking varying in degrees of abstraction or application. Two notably interpretations include Wing's [-@wing_computational_2006] focus on abstraction encompassing as overarching computing principles and high level structural design approaches, and Resnick and Brennan's [-@brennan_new_2012] more applied approach including _computational practices_ and perspectives. This applied approach draws on the legacy of Papert and Turkle's [-@papert_epistemological_1990] research on diversity in coding approaches to counter potentially alienating abstract approaches. Framed as bricolage, concrete coding approaches included an iterative approach, proximity to the code and strong links between function and form, and maintaining closer contact with a concrete sense of the outcomes even at the expense of programming efficiency or neatness of code.
+
+
 
 <!-- This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter  -->
 
@@ -296,14 +299,24 @@ The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] e
 
 <!-- Wing's CT framework is applicable some of the code creation processes I have undertaken as a learning designer, but is less relevant to participants. -->
 
+#### CT - gradations
+
+Chapter 2 explores definitions of computational thinking varying in degrees of abstraction or application. Two notably interpretations include Wing's [-@wing_computational_2006] focus on abstraction encompassing as overarching computing principles and high level structural design approaches, and Resnick and Brennan's [-@brennan_new_2012] more applied approach including _computational practices_ and perspectives. This applied approach draws on the legacy of Papert and Turkle's [-@papert_epistemological_1990] research on diversity in coding approaches to counter potentially alienating abstract approaches. Framed as bricolage, concrete coding approaches included an iterative approach, proximity to the code and strong links between function and form, and maintaining closer contact with a concrete sense of the outcomes even at the expense of programming efficiency or neatness of code.
+
 
 #### Exploring data using concepts of Levels of Abstraction (LOA) & PRIMM
 
 <!-- In their PRIMM pedagogy the researchers also incorporate the UMC model and draw parallels with LOA. In the Use stage of the UMC model [@lee_computational_2011] (explored in Chapter 5 in relation to this research's learning design), participants would be aware of the goal of the program, and the results. Subsequently, in the Modify stage they would become familiar with the design and code levels. -->
 
-The use of the concept of levels of abstraction (LOA) and semantic profiles within the PRIMM pedagogy was explained as pedagogies in Chapter 2, the common value being in alternating between abstract and concrete levels of project structure and semantic concepts. The pedagogies are advanced to help teachers design learning experiences which allow for participant shifts in perspectives and thus deepen knowledge by packing and unpacking abstracted concepts via concrete experiences. In this thesis, there are two principle dimensions of abstraction at play. The first has the abstraction and generalisation concepts present Wing's definition of computational thinking at one pole and concrete code implementation at the other. The second dimension present in the LOA framework is a hierarchy of elements: namely goal-design-code-results. The goal here being the most abstract element (see Table 7.x for more details). Addressing interpretations of LOA [@waite_abstraction_2018] in video data we can map the levels of abstraction to shifts between conceptions of goals, implementation in code structures, and observations of results in my findings. While the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
+The use of the concept of levels of abstraction (LOA) and semantic profiles within the PRIMM pedagogy was explained as pedagogies in Chapter 2, the common value being in alternating between abstract and concrete levels of project structure and semantic concepts. The pedagogies are advanced to help teachers design learning experiences which allow for participant shifts in perspectives and thus deepen knowledge by packing and unpacking abstracted concepts via concrete experiences. In this thesis, there are two principle dimensions of abstraction at play. The first has the abstraction and generalisation concepts present Wing's definition of computational thinking at one pole and concrete code implementation at the other. The second dimension present in the LOA framework is a hierarchy of elements: namely goal-design-code-results. The goal being the most abstract element would place GDPs  (see Table 7.x for more details).
+
+However, to represent GDPs on a graded scale of semantic density, following Eriksson and Hook? [@eriksson_using_2019] they would be situated between abstract CT processes and concrete implementation. Thus, tor the purposes of this analysis, it is appropriate to place the LOA in the lower half of the profile (See Figure 7.x below) and at levels above GDP place more abstract concepts of systems thinking and computational thinkg.
+
+![Figure 7.x - Semantic density of the key concepts of this research  ](./Pictures/ch_7_sw_dia_a.png){width=75%}
 
 <!-- It is relevant to distinguish the interpretations of different dimension abstraction described above: specifically Wing's and Papert's conceptions of abstraction, which can be described as present in top-down planning processes, and generalisable beyond context and abstraction present in the LOA framework is be characterised instead as a goal-design-code-results hierarchy, with the goal being the most abstract.   -->
+
+Addressing interpretations of LOA [@waite_abstraction_2018] in video data we can map the levels of abstraction to shifts between conceptions of goals, implementation in code structures, and observations of results in my findings. While the teaching of the theories levels of abstraction is not explicit, movement is clearly happening, as demonstrated by the table below.
 
 | **Level**            | **Focus** | **Example** |
 |---------------|--------------|---------------|
@@ -312,15 +325,7 @@ The use of the concept of levels of abstraction (LOA) and semantic profiles with
 | **Code Level**  | Writing the actual code, is supported via code patching  | is supported via code patching, and a structure which encourages modification. Debugging of code also happens at this level. |
 | **Execution Level**  | Understanding the outputs | A strong correlation between goal and outcome, as playing the game product is very immediate. |
 
-Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
-
-**Semantic Profiles**
-
-The navigation between abstract and concrete poles in semantic profiles is different from that of LOA in that if we follow the guidance to place concepts of higher semantic density (for this read abstraction), in the  the upper scale, this would suggest Wing's interpretation of abstract CT concepts. For the purposes of this analysis, it is appropriate to place the LOA in the lower half of the profile (See Figure 7.x below)
-
-![Figure 7.x - Semantic density of the key concepts of this research  ](./Pictures/ch_7_sw_dia_a.png){width=75%}
-
-As such, GDPs would be situated between abstract CT processes and concrete implementation. Thus, returning to the framing the design element of the use of GDPs as intermediate-level concept [@eriksson_using_2019], the interpretation of the data of this study using semantic profiles above supports this intermediate positioning.
+Table. 7.x Levels of abstraction located in the findings  
 
 The following diagram is an approximate representation of the scope of movement using typical behaviour seen in Vignette 2. In this vignette, as exploration of abstract CT concepts and explicit use of systems concepts are rarely present, the resulting of semantic profiles show movement in the lower areas of the gradation of semantic density. This shallow semantic wave above is typical in describing the data of other participants in analysed session recordings.
 
@@ -386,6 +391,17 @@ While, the table of uses of GDPs in Chapter 6 focuses primarily on value for lea
 ![Figure 7.x - GDPs as a gateway construct opening up the exploration of wider related concepts  ](./Pictures/ch_7_gateway_dia_4.png){width=95%}
 
 <!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
+
+**The utility of this positioning for varied stakeholders**
+
+The framing of the GDP as an intermediate construct in this way, drawing on Hook etc, was originally imagined as a useful tool for design researcher to surface useful concepts and practices.
+Indeed the process of deducting from participant input and responses that use of GDPs and design patterns more generally does appear to be useful here and a similar process could be useful in other contexts.
+
+Beyond the utility for researcher For participants the last chapter outlined the varied uses of GDPs in terms of mediational strategies and as a motivational element repeated in varied forms as different patterns are implements.
+
+Additionally for facilitators the GDPs serve functions within the pedagogical approach of this research including: the ability to structure participant choice within practical limitations, a unifying construct to aid the packaging of documentation and support provided to aim project navigation,
+
+**Putting it into practice**
 
 To help imagine how this could be operationalised in the context of this research. A possible alternative profile is represented in the illustration below. Given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible.
 
