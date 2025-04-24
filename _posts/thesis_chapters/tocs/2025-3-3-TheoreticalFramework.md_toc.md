@@ -13,6 +13,10 @@
         -   [SDBEs and theoretical concepts emerging from the LCHC and
             the Fifth Dimension
             interventions](#sdbes-and-theoretical-concepts-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
+        -   [Funds of knowledge and third
+            space](#funds-of-knowledge-and-third-space)
+        -   [Third spaces and the context of this
+            study](#third-spaces-and-the-context-of-this-study)
             -   [Social design-based experiments
                 (SDBEs)](#social-design-based-experiments-sdbes)
     -   [Putting AT to work, variations and synthesis in interventionist

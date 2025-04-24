@@ -43,20 +43,19 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             repertoires](#revisiting-understandings-of-relational-agency-and-repertoires)
         -   [A - Repertoire importation into the the game making
             community](#a---repertoire-importation-into-the-the-game-making-community)
-        -   [B - The process of blending of repertoires in a third
-            space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
-            -   [Prototypical specialism and proficiency via material
-                feedback and guided
-                participation](#prototypical-specialism-and-proficiency-via-material-feedback-and-guided-participation)
+        -   [B - The process of blending of repertoires in the third
+            space of this research (playtesting in
+            particular)](#b---the-process-of-blending-of-repertoires-in-the-third-space-of-this-research-playtesting-in-particular)
             -   [Playtesting as a suitable medium for emerging
                 activities creating third spaces via blending of
                 repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
                 -   [Different styles of playtesting- conditions for
-                    playtesting & resulting ways of being - abd
+                    playtesting & resulting ways of being - and
                     Relational expertise in
-                    playtesting](#different-styles-of-playtesting--conditions-for-playtesting-resulting-ways-of-being---abd-relational-expertise-in-playtesting)
-                -   [(RE)Translation into relational
-                    agency](#retranslation-into-relational-agency)
+                    playtesting](#different-styles-of-playtesting--conditions-for-playtesting-resulting-ways-of-being---and-relational-expertise-in-playtesting)
+                -   [The sharing of specialism and proficiency via
+                    material feedback and guided
+                    participation](#the-sharing-of-specialism-and-proficiency-via-material-feedback-and-guided-participation)
         -   [C - Supporting emerging identity formation and
             specialisation through interventions to support relational
             repertoire
@@ -67,17 +66,16 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 visible emerging repertoires as cultural affordances of
                 my pedagogy to increase and legitimise diversity /
                 hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
-    -   [Implications for design and summative design
-        frameworks](#implications-for-design-and-summative-design-frameworks)
-        -   [Designing for relational agency by repertoire blending
-            (RARB)](#designing-for-relational-agency-by-repertoire-blending-rarb)
-            -   [What is RARB](#what-is-rarb)
-            -   [Narrative descriptive of a proposed procedure for
-                facilitation relational agency by repertoire blending
-                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
-            -   [Summary of discussion on designing for agency -
-                INTEGRATE ABOVE /
-                BELOW](#summary-of-discussion-on-designing-for-agency---integrate-above-below)
+            -   [Reflections on explicit
+                interventions](#reflections-on-explicit-interventions)
+    -   [Part Three : Reframing for an audience? Communicating the
+        findings to a broad
+        audience](#part-three-reframing-for-an-audience-communicating-the-findings-to-a-broad-audience)
+        -   [What is relational agency and why should it be
+            facilitated](#what-is-relational-agency-and-why-should-it-be-facilitated)
+        -   [HOW - Narrative descriptive of a proposed procedure for
+            facilitation relational agency by repertoire blending
+            (RARB)](#how---narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
@@ -88,17 +86,15 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Spaces to play - playgrounds and jam
                 sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-    -   [Part Three : Synthesis & contributions to the field = EDITING
-        DOWN OR MOVING TO CHAP
-        8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
-        -   [CCRREEPP & GDPs as a gateway pedagogical
-            framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
-        -   [GDPs used as a gateway pedagogical framework aligned with
-            RARB
-            process](#gdps-used-as-a-gateway-pedagogical-framework-aligned-with-rarb-process)
+        -   [Representing the use of REEPP, RARB and the use of GDPs
+            within a pedagogical
+            framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
             -   [Summary of the potential utility of GDPs for wider
-                stakeholders](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders)
+                stakeholders -
+                MOVE?](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders---move)
     -   [Conclusion](#conclusion)
+        -   [Narrative recap on how the RQs have been answered in each
+            section?](#narrative-recap-on-how-the-rqs-have-been-answered-in-each-section)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
@@ -928,11 +924,11 @@ In doing so, the context created room for relational expertise (the capacity to 
 ### C - Supporting emerging identity formation and specialisation through interventions to support relational repertoire blending
 
 While the previous examples have focused on relational agency between participants, the role of the designer and facilitators are also relevant. My recognising and valuing the emerging areas of specialisation and expertise, both technical and social in nature, helped the development of diverse practices. Specifically the responsive design revisions outlined in the first part of this chapter help keep the games in progress in a working state and more time devoted to open playtesting helped reinforce and support the diverse practices of social feedback in playtesting. The emerging diversity and repertoire blending happening in playtesting practices in particular, in this non-formal, educational third spaces [@gutierrez_rethinking_1999] prompted me to ask if suitable affordances be added to the design to accelerate or encourage the process.
- This is explore here in the form of support styes and mission 
+ This is explore here in the form of support styes and mission
 
 <!-- NOTE AND the additional motivations flowing into this system from other activity systems. HOW AND WHY? MOTIVATIONS IN PARTICULAR? -->
 
-**Helping styles and helpers**
+#### Helping styles and helpers
 
 While it is important to acknowledge the importance of the role of students helpers in the formation of relational agency, given the wealth of existing research on this subject in similar settings [@kafai_mentoring_2008; @roque_family_2016; @roque_im_2016; @barron_parents_2009; @stone_problem_2007-2], only a brief summary of where experience aligns is included here.  For a descriptive summary see - add appendix?
 
@@ -974,6 +970,8 @@ I created working typology of participant approaches to playtesting and game mak
 
 In interview data participants shared their positive feelings towards both the shared fictional frame of making a game for an audience of judgemental aliens, and the social and mischievousness of the social missions within that drama. The value of the drama narrative and side missions aligns with work on play theory as a technique giving participants _permission to play_ [@walsh_giving_2019], legitimising the previously peripheral activities and bringing them into the shared conceptions of the idioculture. The recognition of the hybridity of possible modes of participation increases conceptions of enacted diversity of the community.
 
+#### Reflections on explicit interventions
+
 This strand of thought invites an theoretical examination of the particular value of identify formation via the blending of repertoires of play and design approaches. The role of play as leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning (Addressing issues of motivation and positive affect, ).
 
 The invitation to play, can be seen as a familiar affordance leading to more unfamiliar territory. A helping process in blending through opening a door to a new collaborative zone of proximal development.
@@ -988,10 +986,6 @@ It is of value to examine specialisation as a form of agency and new identity fo
 It can be seen through the lens of double stimulation. The choice to specialise, marks a form of transformative agency. Participants craft for themselves a specialist status which becomes shared and celebrated by the group.
 
 Thus transformation is happening here but not in a revolutionary way. It is more of a blend of practices. In my data this happens in vignette data we can see elements of personal interest of young people, of home education collaborative work patterns, and of practices introduced by the facilitator from professional and educational contexts.   -->
-
-
-
-
 
 
 <!-- -   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game   
@@ -1024,7 +1018,6 @@ Example of how extending with DPs as a framework could be fruitful, developing a
 In this design, as outlined in Chapter 5 and Appendix.drama I used a drama narrative, with side missions and the concept of player types to do this. people is relevant to explore the value of this behaviour which I will call playful playtesting.  -->
 
 
-## Implications for design and summative design frameworks
 
 
 <!-- DO I? IS THIS NOT PART OF CHAPTER 6? -->
@@ -1035,63 +1028,98 @@ Thus transformation is happening here but not in a revolutionary way. It is more
 Perhaps add back in as an unintended consequence?
 The live chat process started unintentionally as one child was left to their own devices as a parent was undertaking a social mission (see below and previous chapter). -->
 
-### Designing for relational agency by repertoire blending (RARB)
 
-To address the under explored areas of explicitly socio cultural pedagogies in existing research in CGD&P, it is of value to re-examine and synthesise the characteristics of the learning design described above. This is done in this section using the concept relational agency by repertoire blending (RARB).
-I propose this term as there is no real equivalent to TADS (transformative agency by double stimulation) as a concept in the work of Rogoff and Gutiérrez upon which the second half of this chapter is based. RARB is a process which in the context of this study can be best described via three stages.
+
+
+
+
+<!-- A straight forward manifestation of agency stems from the importance of the collection of GDPS as a guiding activity. The  resulting choice over learner pathway helps transcend  limitations typical in instruction based approaches. -->
+
+<!-- Beyond that element of choice, development of relational agency is a part of the social and cultural aspects of repertoires development, which can be aided by the use of techniques including:
+- explicit structuring of playtesting with side missions
+- implicit pedagogy of supporting maker types
+- and parental helping roles. -->
+
+<!-- some existing material here
+https://docs.google.com/document/d/1gouCAV1krGeR1zVBJ2FgHH1YqatK4GndaZWXKWaVHgE/edit?tab=t.0 -->
+## Part Three :  Reframing for an audience? Communicating the findings to a broad audience
+
+**Implications for design and summative design frameworks**
+
+
+Different part of this thesis have addressed different research questions. This section aims to reframe findings further to communicate to a broad audience including facilitators and teachers.
+
+Part one of this chapter addressed RQ1 ()  by synthesised the findings of Chapter 5 and Chapter 6 regarding a deep analysis of concrete and abstract
+
+In Chapter 6 addressed RQ2 () via a summary table of the varied uses of GDPs
+P
+art
+
+Returning to the gaps in existing reseach driving the question of this study we can see the importance not only of research exploring and analysing the development of socio cultural approaches to CGD&P but also on means to disseminate these practices into an atropified but still exant grassroot community, and via remaining funded communication channels.
+
+The following section prioritises key messages arising from this research and with an aim to frame them in an accessible but theoretically consistent way.
+
+
+### What is relational agency and why should it be facilitated
+
+To address the under explored areas of agency development in existing research in CGD&P, it is of value to re-examine and synthesise the characteristics of the learning design described using the agency as a lens.
+
+Agency in this in game making community is seen as multi-dimensional and as a process located in community participation rather than an individualised property. In analysis the concept of relational agency represent an end point  achieved through building on and incorporating processes of instrumental and transformative agency. Thus it is tactical to highligh relational agency as an end goal for participant to reach, for designer to design for and faciliators to faciliate. Additionally, this chapter has explored a process of developing relational agency in a way which .
+
+Analysis of the finding were framed via a staged approach to re-mediating existing repertoires into new repertoires and an emerging game making idioculture. To help conceptualise this goal and process I propose the term relational agency by repertoire blending (RARB). This term based on the work of Gutiérrez and others [@gutierrez2020utopian; @stone_problem_2007] mirrors Sannino's [@sannino_principle_2015] concept of TADS (transformative agency by double stimulation). It is advanced with a motive to provide an accessible framing and a metaphorical structuring to a complex process.
 
 <!-- - Stage One - Facilitating participants to import existing repertoires of practice
 - Stage Two - Engendering blending of repertoires
 - Stage Three - Recognising and encouraging emerging specialism and identity behaviours -->
 
-#### Narrative descriptive of a proposed procedure for facilitation relational agency by repertoire blending (RARB)
+### HOW - Narrative descriptive of a proposed procedure for facilitation relational agency by repertoire blending (RARB)
 
-In stage one the motivation is to create an inclusive learning environment where participants are able to import existing repertoires from other spaces in the form of competencies and interest. For some participants this may involve the use of designed affordances in pre-planned (by the learning designer) ways via instrumental agency, or they may cast around to find novel uses of affordances present in a process of TADS. As participants load their existing repertoires in the use of new tools a process of blending is already in process.
+RARB is a process which in the context of this study can be best described via three stages. In stage one the motivation is to create an inclusive learning environment where participants are able to import existing repertoires from other spaces in the form of competencies and interest. For some participants this may involve the use of designed affordances in pre-planned (by the learning designer) ways via instrumental agency, or they may cast around to find novel uses of affordances present in a process of TADS. As participants load their existing repertoires in the use of new tools a process of blending is already in process.
 
-Stage two involves both a natural slow stewing of these repertoires in the melting pot of new third space (e.g. the game making sessions) into new repertoires. In this research the repertoires blending process leading  was facilitated by the favourable conditions provided by regular playtesting and other playful elements of the programme. These emerging making behaviours and specialisms involving interests and helping behaviours resulting from manifestations of instrumental and transformative agency may start to propagate via playtesting and other social and cultural interactions in the space.
+Stage two involves a natural stewing of these repertoires in the melting pot of new third space (e.g. the game making sessions) into new repertoires. In this research the repertoires blending process leading  was facilitated by the favourable conditions provided by regular playtesting and other playful elements of the programme. These emerging making behaviours and specialisms involving interests and helping behaviours resulting from manifestations of instrumental and transformative agency may start to propagate via playtesting and other social and cultural interactions in the space.
 
 In stage three facilitators can recognise the use of novel and begin to help other participants to use that same processes by incorporating them into the learning design or in some way highlighting the possibilities they offer. The role of the facilitator here involves adding yeasts or other accelerants to allow the body of the emerging idioculture grow faster by making relational, socio-cultural affordances more visible to all participants. The culture should be kept warm by checking that such processes are not overwhelming, that they are optional, and maintaining a playful environment at this stage to allow this form relational agency to flourish.
 
 
-#### Summary of discussion on designing for agency - INTEGRATE ABOVE / BELOW
-
-INTEGRATE IN THE RARB TABLE
-
-Agency in this in game making community is seen as multi-dimensional and as a process located in community participation rather than an individualised property.
-
-A straight forward manifestation of agency stems from the importance of the collection of GDPS as a guiding activity. The  resulting choice over learner pathway helps transcend  limitations typical in instruction based approaches.
-
-Beyond that element of choice, development of relational agency is a part of the social and cultural aspects of repertoires development, which can be aided by the use of techniques including:
-- explicit structuring of playtesting with side missions
-- implicit pedagogy of supporting maker types
-- and parental helping roles.
-
-
-
-<!-- some existing material here
-https://docs.google.com/document/d/1gouCAV1krGeR1zVBJ2FgHH1YqatK4GndaZWXKWaVHgE/edit?tab=t.0 -->
 
 #### Summative table illustrating stages of facilitating RARB in this study
 
-In Chapter 5 a summary table outlined tensions and congruencies.
-In Chapter 6 a summary table of the varied uses of GDPs
-
 The purpose of this table is geared more towards synthesis of approach in relation to creating relational agency through repertoire blending. As such characteristics and descriptions are more decontextualised.
 
-| Characteristics of design   | Design example and description    |
+| Characteristics of design   | Design example and description    | Evidence & related research |
+| ------------| --------- | ------- |
+| **Stage One - Facilitating participants to import existing repertoires of practice**                                                 |                                                                      |  |
+|  Allow quick demonstrations of game knowledge  |  Quick start activities scaffold learners to alter game players allow learners to show competency | Example of quick start activities (Appendix  ) |
+| Encourage early use of art and music abilities via scaffolded tool use   | Learners interested in art can use an intuitive pixel art and music editors to quickly integrate their home interests in digital creations. | example 2 |
+| Facilitate flexible group sizes to allow importation of relational helping and working repertoires.   | Use of a foundational game template helps novices get started without help and facilitates a larger number of groups |  example 3 |
+| Use a project theme that is relevant to participants.    | Use of a relevant theme in the project design brief. | example 4 |
+| **Stage Two - Engendering blending of repertoires**  |   |  |
+| Protection from complexity via technical limitations | Participants benefit from more relaxed making environment as key design complexities are baked into template design |example 5 |
+| Provide feedback mechanisms in the materials of making process  | Uise of code playground and structuring template with key affordences with high impact on the game | Microworld research, rapid feedback via code playground |
+| Try to create a level playing field between generations  | The use of an unfamiliar text coding process for both YP and adults created a more horizontal power relationship  | example 7 |
+|  Provide regular social or community feedback on emerging designs as a way to recognise and engender participant specialisms  |  The use of playtesting allowed for regular feedback  |  see Gutiérrez, example 2 |
+| **Stage Three - Recognising and encouraging emerging specialism and identity behaviours**  |
+|  Engedering a low stress and playful frame within overall activity with explicit fictional narrative  | Use of a drama process,  | example 2 |
+|  Structuring reflection on relational expertise  | Use of maker styles as a tool to faciliate emerging specialims, and to communicate a validity of a pluralism of approaches to design and programming | Papert & Turkle, Appendix.maker |
+| Explicit interventions to support the development of new blended helping styles  | Use descriptions of helping styles in digital environments to reinforce adaptation of existing home helping repertoires | example 2 |
+
+_Table 7.x - Summative table illustrating stages of facilitating RARB in this study_
+
+<!-- | Characteristics of design   | Design example and description    |
 | ------------| --------- |
 | **Stage One - Facilitating participants to import existing repertoires of practice**                                                 |                                                                      |
 |  Allow quick demonstrations of game knowledge  |  Quick start activities scaffold learners to alter game players allow learners to show competency |
 | Encourage early use of art and music abilities via scaffolded tool use   | Learners interested in art can use an intuitive pixel art and music editors to quickly integrate their home interests in digital creations. |
-|   |   |
+| Facilitate flexible group sizes to allow importation of relational helping and working repertoires.   | Use of a foundational game template helps novices get started without help and facilitates a larger number of groups |  
+| Use a project theme that is relevant to participants.    | Use of a relevant theme in the project design brief. |
 | **Stage Two - Engendering blending of repertoires**  |   |
 | Protection from complexity via technical limitations | Participants benefit from more relaxed making environment as key design complexities are baked into template design |
 | Try to create a level playing field between generations  | The use of an unfamiliar text coding process for both YP and adults created a more horizontal power relationship  |
 |  example 1 |   example 2 |  
 | **Stage Three - Recognising and encouraging emerging specialism and identity behaviours**  |
-|  example 1 |   example 2 |
+|  example 1 |   example 2 | -->
 
-_Table 7.x - Summative table illustrating stages of facilitating RARB in this study_
+
 
 
 ### Metaphors as a way to communication dimensions of agency design concerns
@@ -1157,9 +1185,6 @@ On a macro-level, at a jam event, infrastructure in terms of drums, microphones 
 Several parallels to the design and processes in my research exist. The half-baked game template can be seen as a shared song framework that participants build on in idiosyncratic ways. The value of a process that incorporates an authentic audience made up partly of peer makers is important for the development of repertoires of practice in both contexts. The value of the possibility to blend established repertoires with those brought by new players is a shared contextual motivation.
 
 
-ADD MORE HERE IF RELEVANT.
-
-The following table serves as a visual summary of some of the relevant space/place based characteristics relevant to the importance of this research.
 
 <!-- THIS TABLE NEEDS TO BE COMPLETED - FEEDBACK IS APPRECIATED AS TO HOE USEFUL IT WILL /MAY BE -->
 
@@ -1196,7 +1221,7 @@ or examples see the book , a
 The playful context of the game's magic circle can facilitate participants to adapt norms and rules to their own playing styles. Through this lens, the interaction of playtesting, code playgrounds and a sandbox of game patterns emerge as a key practices to facilitate and maintain learner agency. The discussion of the next chapter explores the intersection of these elements in more detail. -->
 
 
-## Part Three : Synthesis & contributions to the field = EDITING DOWN OR MOVING TO CHAP 8
+
 
 
 <!-- TO INTEGRATE?
@@ -1207,33 +1232,27 @@ The role of the emerging culture and identity of the idioculture  is developed i
 
 - the emergence and nurturing of flexible and complex design behaviours (beyond player types) -->
 
-### CCRREEPP &  GDPs as a gateway pedagogical framework
-
-This chapter contend that the underlying structure of the learning design in addition to support the social and cultural processes described above, is a valid contribution to the field as a technical pedagogical structure.
-
-
-There is a value of attempting to integrate the holistic approach outlined in this research by unifying the strands of part one and part two of this chapter. To do this the structural element of the REEPP framework would need to be augmented with the socio-cultural elements explored in part two. To do this, I propose the lengthy but logical acronym: collaborative, culturally responsive, remix enabled, elective, progressive pattern patching (CCRREEPPP).
+### Representing the use of REEPP, RARB and the use of GDPs within a pedagogical framework
 
 <!-- In this cultural context the process of patching also references the process of repertoire blending outlined above. -->
 
-### GDPs used as a gateway pedagogical framework aligned with RARB process
-
-ADDING IN DETAIL FOR RARB - INTEGRATE - EXPLAIN RELATIONSHIP
-
+The social and cultural processes described in part two of this chapter, is a valid contribution to the field as a technical pedagogical structure. In line with the summary of gaps in existing reseach, the process of communicating a holistic understanding of the learning design that evolved in the course of this research is challenging. The structural element of the proceedural REEPP framework could be augmented with the socio-cultural elements explored in part two. To do this, I could propose logical acronym: collaborative, culturally responsive, remix enabled, elective, progressive pattern patching (CCRREEPPP). While logical, I have concerns that it may be percieved as a bit daft.
 
 The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
+
+
+
+![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_repertoires_dia_2.png){width=95%}
+
 
 I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a framework to facilitate to process of development of social and cultural repertoires of practice.
 
 I suggest  a change in terminology. Instead of interpreting design patterns here as _intermediate_ constructs, I propose the term _gateway pedagogical framework_ to communicate potential utility in opening up exploration of different dimensions of learning.
 
-![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_repertoires_dia_1.png){width=95%}
-
-
 The shift from intermediate to gateway also addresses the issue of how to present the dimensions of abstract and concrete. Abstract concepts are often positioned as higher in a spacial representation. This is present in semantic profiling diagrams above, in y example, and even the phrase top-down planning from Papert and Turkle in their challenging of this privileging of abstract approaches communicates an implied superiority of approach. By way of contrast, the Mark's phrase _rising to the concrete_ reverses this polarity. Similarly, as a small attempt to challenge this convention I reverse the polarity placing concrete dimension at the top of the illustration.
 
 
-#### Summary of the potential utility of GDPs for wider stakeholders
+#### Summary of the potential utility of GDPs for wider stakeholders - MOVE?
 
 The evidence and examples surfaced in Chapter 6 and the previous section support a view that the GDPs can form the basis of productive research and pedagogical frameworks.
 
@@ -1264,7 +1283,10 @@ GDPs are particularly helpful in participant goal formation, as explored in Chap
 
 NOTE - As this chapter is ongoing this conclusion is in draft form. Feedback on what to include in this chapter conclusion is welcome.
 
-- the place of this chapter in the narrative of the thesis
+
+### Narrative recap on how the RQs have been answered in each section?
+
+  - the place of this chapter in the narrative of the thesis
 - the limitations or questions arising that may be addressed in the following chapter.
 
 **limitations/ further work**

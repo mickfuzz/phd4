@@ -32,20 +32,19 @@
             repertoires](#revisiting-understandings-of-relational-agency-and-repertoires)
         -   [A - Repertoire importation into the the game making
             community](#a---repertoire-importation-into-the-the-game-making-community)
-        -   [B - The process of blending of repertoires in a third
-            space](#b---the-process-of-blending-of-repertoires-in-a-third-space)
-            -   [Prototypical specialism and proficiency via material
-                feedback and guided
-                participation](#prototypical-specialism-and-proficiency-via-material-feedback-and-guided-participation)
+        -   [B - The process of blending of repertoires in the third
+            space of this research (playtesting in
+            particular)](#b---the-process-of-blending-of-repertoires-in-the-third-space-of-this-research-playtesting-in-particular)
             -   [Playtesting as a suitable medium for emerging
                 activities creating third spaces via blending of
                 repertoires](#playtesting-as-a-suitable-medium-for-emerging-activities-creating-third-spaces-via-blending-of-repertoires)
                 -   [Different styles of playtesting- conditions for
-                    playtesting & resulting ways of being - abd
+                    playtesting & resulting ways of being - and
                     Relational expertise in
-                    playtesting](#different-styles-of-playtesting--conditions-for-playtesting-resulting-ways-of-being---abd-relational-expertise-in-playtesting)
-                -   [(RE)Translation into relational
-                    agency](#retranslation-into-relational-agency)
+                    playtesting](#different-styles-of-playtesting--conditions-for-playtesting-resulting-ways-of-being---and-relational-expertise-in-playtesting)
+                -   [The sharing of specialism and proficiency via
+                    material feedback and guided
+                    participation](#the-sharing-of-specialism-and-proficiency-via-material-feedback-and-guided-participation)
         -   [C - Supporting emerging identity formation and
             specialisation through interventions to support relational
             repertoire
@@ -56,17 +55,16 @@
                 visible emerging repertoires as cultural affordances of
                 my pedagogy to increase and legitimise diversity /
                 hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
-    -   [Implications for design and summative design
-        frameworks](#implications-for-design-and-summative-design-frameworks)
-        -   [Designing for relational agency by repertoire blending
-            (RARB)](#designing-for-relational-agency-by-repertoire-blending-rarb)
-            -   [What is RARB](#what-is-rarb)
-            -   [Narrative descriptive of a proposed procedure for
-                facilitation relational agency by repertoire blending
-                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
-            -   [Summary of discussion on designing for agency -
-                INTEGRATE ABOVE /
-                BELOW](#summary-of-discussion-on-designing-for-agency---integrate-above-below)
+            -   [Reflections on explicit
+                interventions](#reflections-on-explicit-interventions)
+    -   [Part Three : Reframing for an audience? Communicating the
+        findings to a broad
+        audience](#part-three-reframing-for-an-audience-communicating-the-findings-to-a-broad-audience)
+        -   [What is relational agency and why should it be
+            facilitated](#what-is-relational-agency-and-why-should-it-be-facilitated)
+        -   [HOW - Narrative descriptive of a proposed procedure for
+            facilitation relational agency by repertoire blending
+            (RARB)](#how---narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
@@ -77,17 +75,15 @@
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Spaces to play - playgrounds and jam
                 sessions](#spaces-to-play---playgrounds-and-jam-sessions)
-    -   [Part Three : Synthesis & contributions to the field = EDITING
-        DOWN OR MOVING TO CHAP
-        8](#part-three-synthesis-contributions-to-the-field-editing-down-or-moving-to-chap-8)
-        -   [CCRREEPP & GDPs as a gateway pedagogical
-            framework](#ccrreepp-gdps-as-a-gateway-pedagogical-framework)
-        -   [GDPs used as a gateway pedagogical framework aligned with
-            RARB
-            process](#gdps-used-as-a-gateway-pedagogical-framework-aligned-with-rarb-process)
+        -   [Representing the use of REEPP, RARB and the use of GDPs
+            within a pedagogical
+            framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
             -   [Summary of the potential utility of GDPs for wider
-                stakeholders](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders)
+                stakeholders -
+                MOVE?](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders---move)
     -   [Conclusion](#conclusion)
+        -   [Narrative recap on how the RQs have been answered in each
+            section?](#narrative-recap-on-how-the-rqs-have-been-answered-in-each-section)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
