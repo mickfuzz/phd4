@@ -442,7 +442,18 @@ To compare with learning in more formal structured, and more naturalistic learni
 
 ## Pedagogies to support game making via coding
 
-One of the main themes of this review is to explore the pedagogies available to support coding, particularly in relation to Research Question 1 (RQ1). In the context of activity theory, pedagogy can be framed as pedagogical tools and processes, functioning as a type of mediational strategy. The following discussion focuses on pedagogies that are especially relevant to digital making, specifically game making, in informal, real-life (as opposed to online) communities. Denner's [-@denner_does_2019] systematic review of game making studies, identifies three main pedagogical streams: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches. This section will broadly follow these streams. First, I will review design thinking approaches and project-based learning. Next, I will outline pedagogies centred around scaffolding game production through progressive steps, such as the Use, Modify, and Create (UMC) framework. Finally, I will examine the social and cultural aspects of coding clubs and informal programmes that serve as venues for CGD&P.
+One of the main themes of this review is to explore the pedagogies available to support coding, particularly in relation to Research Question 1 (RQ1). In the context of activity theory, pedagogy can be framed as pedagogical tools and processes, functioning as a type of mediational strategy. The following discussion focuses on pedagogies that are especially relevant to digital making, specifically game making, in informal, real-life (as opposed to online) communities. Denner's [-@denner_does_2019] systematic review of game making studies, identifies three main pedagogical streams: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches.
+
+
+This section will broadly follow these streams. First, I will review design thinking approaches and project-based learning. Next, I will outline pedagogies centred around scaffolding game production through progressive steps, such as the Use, Modify, and Create (UMC) framework. Finally, I will examine the social and cultural aspects of coding clubs and informal programmes that serve as venues for CGD&P.
+
+
+### On the process of creating frameworks and pedagogies.
+
+The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
+
+NOTE - Is this helpful for the final section
+
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
 
@@ -769,11 +780,12 @@ The concept of computational design patterns is well explored in the professiona
 
 Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019]
 
-### Using design patterns
 
-
+### Using design patterns in education
 
 <!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
+
+Design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
 
 In the  work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  
@@ -931,7 +943,7 @@ The process of curating patterns involve selected only 14 from a list of over 10
 The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to  researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI).
 As such the potential for participants  was under explored and the potential for teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
 
-<!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source of creative inspiration and as an aid to problem-solving. -->
+<!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source  creative inspiration and as an aid to problem-solving. -->
 
 
 ## Programmes working to address challenge
@@ -1055,6 +1067,7 @@ A wider questions, how to operationalise this broader approach of connected lear
 This line of thought invites a turn to address to gaps in research / problem statement.
 
 Also explored in SDBEs
+
 
 
 

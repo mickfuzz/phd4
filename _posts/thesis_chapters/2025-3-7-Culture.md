@@ -173,20 +173,29 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 PURPOSE & GAPS - ADD IN EACH SECTION.
 
-This chapter deepens the analysis and discussion on RQ2 regarding the potential uses of gameplay design patterns (GDP) and concludes with an analysis and discussion on RQ3, addressing reflections on participant agency. Chapter 6 presented findings on the different uses of gameplay design patterns (GDP) using three foci of analysis: personal, social, and cultural activity. To begin, this chapter discusses these findings in relation to existing relevant research. Part one specifically addresses the complexities of the abstract and concrete dimensions of computing education using a concept from design research that explores the value of gameplay design patterns as an intermediate-level, pedagogical framework.  
+This chapter deepens the analysis and discussion on RQ2 regarding the potential uses of gameplay design patterns (GDP) and concludes with an analysis and discussion on RQ3, addressing reflections on participant agency.
 
-Part two shifts focus away from individual conceptions of knowledge and skill to examine the broader empowerment-related motivations driving this study. The goal here is to address gaps in the existing landscape of CGD&P research via an application of socio-cultural conceptions of agency. To begin this process, I undertake an interpretation of shifting forms of agency grounded in the data explored in the last chapter.
+To begin, this chapter discusses the findings of Chapter 6 on the uses of gameplay design patterns (GDP)  in relation to existing research on programming pedagogies. It specifically addresses the complexities of the abstract and concrete dimensions of computing education using a concept of gameplay design patterns as an gateway construct.  
+
+Part two examines the broader empowerment-related motivations driving this study. The goal here is to address gaps in the existing landscape of CGD&P research via an application of socio-cultural conceptions of agency. To begin this process, I undertake an interpretation of shifting forms of agency grounded in the data explored in the last chapter.
 
 <!-- The purpose here is to ground this discussion of the study's emergent cultural and interpersonal activity within the context of ongoing explorations into theoretical and practical applications of agency in socio-cultural research circles.  -->
 
-To achieve this, I begin with an exploration of the study’s findings in relation to instrumental and transformative agency and the concept of mediation in CHAT. As a way to address cultural development in more depth, particularly the development of learner identities within the research activities, I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires. To present a holistic picture of the complex cultural activity recorded in the research data, this discussion briefly addresses the wider aspects of the learning design.  However, it concludes with a proposed contribution suggesting that a collection of GDPs can help participants and facilitators as both as component features of emerging game making repertoires and as a orienting framework to increase the inclusive characteristics of the learning environment.  
+To achieve this, I begin with an exploration of the study’s findings in relation to instrumental and transformative agency and the concept of mediation in CHAT.
 
-The final part of this chapter returns to gaps in the research landscape and outlines an applied computing pedagogy structured around the use of GDPs.
+As a way to address cultural development in more depth, particularly the development of learner identities within the research activities, I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires.
 
-An exploration of metaphors that synthesise significant features of the learning design which influence dimensions of agency.
+To do this the findings of this research are framed within three stages of a described process  of relational agency by repertoire blending.
+
+Following a final section addresses summarises findings for a broad audience.
+Firstly via a table listing the characteristics of the design within
+
+This is followed by an exploration of metaphors that synthesise significant features of the learning design which influence dimensions of agency.
 
 As framework is developed via a utopian and utilitarian approach to design-based research and formative interventions. As such, it communicates insights  for equity and diversity via practical concerns to inform future recommendations for practice.  
 
+
+<!-- However, it concludes with a proposed contribution suggesting that a collection of GDPs can help participants and facilitators as both as component features of emerging game making repertoires and as a orienting framework to increase the inclusive characteristics of the learning environment.   -->
 
 <!-- This chapter has three main sections:
 
@@ -200,8 +209,6 @@ particularly in reference to the building of agency. -->
 <!-- - propose that GDPs provide a suitable way to engage with coding practices partly due to their position between abstract computational concepts and concrete implementations of code structures. -->
 
 <!-- - MOVE TO CONCLUSION? metaphors / frameworks to envisage affordences and particpant agency in CHAT framework. and why this is useful for facilitators and as an accessibel way to share findings. -->
-
-
 
 
 <!-- **more intro material**
@@ -370,13 +377,13 @@ The processes outline above support a position that there is utility for facilit
 
 **Reframing GDPs from intermediate-level concept or gateway concept**
 
-While this research has avoided of explicit teaching of concepts, it has conversely surfaced a mechanism, via the use of GDPs which allows this in an accessible way. I propose that the use of GDPs concepts as a primary object of activity allows them to open up exploration of both abstract and concrete concepts for examples those contained within the learning map (see appendix.learningmap for an example in P4), or more aligned to curricular concerns. This  is represented conceptually in Figure 7.x below.
+While this research has avoided of explicit teaching of concepts, it has conversely surfaced a mechanism, via the use of GDPs which allows this in an accessible way. I propose that the use of GDPs concepts as a primary object of activity allows them to open up exploration of both abstract and concrete concepts for examples those contained within the learning map (see appendix.learningmap for an example in P4), or more aligned to curricular concerns. Thus rather than the interpretation of Eriksson et al. [-@eriksson_using_2019] of game design patterns as _intermediate_ constructs to instead _gateway_ construct to communicate potential utility in opening up exploration of different dimensions of learning.  This  is represented conceptually in Figure 7.x below.
 
 <!-- SIMPLIFY THIS PARAGRAPH OR DROP
 While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings. One such motivation is the ability for implementation of GDPs to open up exploration of other concepts.  -->
 
 
-![Figure 7.x - GDPs as a gateway concept  ](./Pictures/ch_7_gateway_dia_4.png){width=95%}
+![Figure 7.x - GDPs as a gateway construct opening up the exploration of wider related concepts  ](./Pictures/ch_7_gateway_dia_4.png){width=95%}
 
 <!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
 
@@ -1238,34 +1245,18 @@ The role of the emerging culture and identity of the idioculture  is developed i
 
 The social and cultural processes described in part two of this chapter, is a valid contribution to the field as a technical pedagogical structure. In line with the summary of gaps in existing research, the process of communicating a holistic understanding of the learning design that evolved in the course of this research is challenging.
 
-The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
+The structural element of the procedural REEPP framework could be augmented with the socio-cultural elements explored in part two. To do this, I could propose logical acronym: collaborative, culturally responsive, remix enabled, elective, progressive pattern patching (CCRREEPPP). While logical, I have concerns that it may be perceived as a bit daft. Instead, I will concisely describe the relationship between REEPP, RARB and the use of GDPs as a gateway concepts. The structural scaffolding provided by the REEPP framework facilitates the initial stage of the RARB process where GDPs play a key role as a gateway to abstract / concrete concepts and practices which are available to be blended with imported participant repertoires resulting in new repertoires manifested as relational expertise and relational agency in a new community of learners. While this is difficult to represent in a figure, I have attempted to do so in Figure 7.x, focused on combining the role of GDPs as a gateway concept to facilitate wider remediation of diverse imported and emerging repertoires.
+
+![Figure 7.x - A graphical representation of the inter-related elements of the  of RARB  ](./Pictures/ch_7_repertoires_dia_2.png){width=100%}
+
+There are some additions to the previous representation in Figure 7.x of GDPs as a gateway construct. The REEPP structural framework is added as a foundation of the pedagogy. The gateway role of GDPs to access more personal concepts and practices remains, but more social repertoires are represented within the initial stage of RARB (labelled importing of cultural repertoires). The process of relational agency by repertoire blending (RARB) is represented as a nexus of activity where re-mediation of other repertoires occurs and emerging, blended repertoires are represented as a product of that process. Finally in this version as a challenge the convention of placing abstract dimension at the top of the illustration, I reverse the polarity aligning with the CHAT concept of _rising to the concrete_.
+
+Recommendations on how this representation may be helpful for different stakeholders are present in a section in the concluding Chapter 8.
 
 
-The structural element of the proceedural REEPP framework could be augmented with the socio-cultural elements explored in part two. To do this, I could propose logical acronym: collaborative, culturally responsive, remix enabled, elective, progressive pattern patching (CCRREEPPP). While logical, I have concerns that it may be perceived as a bit daft. Instead, I will concisely describe the relationship between REEPP, RARB and the use of GDPs as a gateway concepts. The structural scaffolding provided by the REEPP framework facilitates the initial stage of the RARB process where GDPs play a key role as a gateway to abstract / concrete concepts and practices which are available to be blended with imported participant repertoires resulting in new repertoires manifested as relational expertise and relational agency in a new community of learners. While this is difficult to represent in a figure, I have attempted to do so in Figure 7.x, focused on combining the role of GDPs as a gateway concept to facilitate wider remediation of diverse imported and emerging repertoires. 
 
-![Figure 7.x - An overview of the position of GDPs within a process of RARB  ](./Pictures/ch_7_repertoires_dia_2.png){width=100%}
-
-
-I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a framework to facilitate to process of development of social and cultural repertoires of practice.
-
-I suggest  a change in terminology. Instead of interpreting design patterns here as _intermediate_ constructs, I propose the term _gateway pedagogical framework_ to communicate potential utility in opening up exploration of different dimensions of learning.
-
-The shift from intermediate to gateway also addresses the issue of how to present the dimensions of abstract and concrete. Abstract concepts are often positioned as higher in a spacial representation. This is present in semantic profiling diagrams above, in y example, and even the phrase top-down planning from Papert and Turkle in their challenging of this privileging of abstract approaches communicates an implied superiority of approach. By way of contrast, the Mark's phrase _rising to the concrete_ reverses this polarity. Similarly, as a small attempt to challenge this convention I reverse the polarity placing concrete dimension at the top of the illustration.
-
-
-#### Summary of the potential utility of GDPs for wider stakeholders - MOVE?
-
-The evidence and examples surfaced in Chapter 6 and the previous section support a view that the GDPs can form the basis of productive research and pedagogical frameworks.
-
-While the work of Eriksson et al. explored the utility of GDP concepts in several dimensions the focus was on utility for the research community. Instead this research  outlines potential uses of GDPs participants and facilitators/ learning designers.
-
-The value **for facilitators** is best explored by returning to the narrative of RARB in this research above.
-
-Addressing utility **for participants**, in computing education, design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
-
-GDPs are particularly helpful in participant goal formation, as explored in Chapter 6 in the sections on ideation and prioritisation. GDPs also help with the division of labour between collaborators, which is relevant here as when tackling more abstract processes, concepts, and terminology, these roles are often taken on by a more competent partner.
-
-
+<!-- I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a framework to facilitate to process of development of social and cultural repertoires of practice. -->
+<!-- Abstract concepts are often positioned as higher in a spacial representation. This is present in semantic profiling diagrams above, in y example, and even the phrase top-down planning from Papert and Turkle in their challenging of this privileging of abstract approaches communicates an implied superiority of approach. By way of contrast, the Mark's  reverses this polarity. Similarly, -->
 
 <!-- - Addressing gaps in the research - The work of Resnick is convincing but lacks theoretical foundations as Papert's ideas were before their time. It is of value to align them with more contemporary socio-cultural conceptions, in particular the lens of agency.
 - Also, as agency is seen beyond a individualised property, as participation in a community - as such computational fluency should also be challenged as a individualised approach.
@@ -1285,10 +1276,21 @@ GDPs are particularly helpful in participant goal formation, as explored in Chap
 NOTE - As this chapter is ongoing this conclusion is in draft form. Feedback on what to include in this chapter conclusion is welcome.
 
 
+- the place of this chapter in the narrative of the thesis
+- the limitations or questions arising that may be addressed in the following chapter.
+
 ### Narrative recap on how the RQs have been answered in each section?
 
-  - the place of this chapter in the narrative of the thesis
-- the limitations or questions arising that may be addressed in the following chapter.
+
+This section quickly returns to the RQs to rexamine to how they have been answered, dealing first with the sub questions before returning to the principle RQ.
+
+RQ1 was addressed via a discussion in Chapter 2, developed in relation to the specifics of the research process in Chapter 5.
+
+RQ2, was addressed by findings in Chapter 6 and has been discussed in more depth in this chapter culminating in the description of the hybrid pedagogical process outlined above.  
+
+MOVE THIS BIT OR SUMMARISE MORE
+GDPs are particularly helpful in participant goal formation, as explored in Chapter 6 in the sections on ideation and prioritisation. GDPs also help with the division of labour between collaborators, which is relevant here as when tackling more abstract processes, concepts, and terminology, these roles are often taken on by a more competent partner.
+
 
 **limitations/ further work**
 
@@ -1296,7 +1298,6 @@ This work invites exploration of related issues of
 - inclusion as a lens
 
 The final chapters aims to address this with  recommendations for facilitators and researchers. The scope of the applicability is addressed as the findings of this thesis can inform the wider debate of how to best support project based learning in wider domains. Specifically the use of concrete design frameworks and step-based iterative project in scaffolding PBL.
-
 
 
 <!-- Chapter four outlined a design narrative where tools were chosen and adapted by myself and Participants in response to local context. Chapter five explored the emerging organisational unit of GDPs, and how they were used as meditational strategies.   -->
