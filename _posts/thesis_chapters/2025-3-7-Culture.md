@@ -1242,7 +1242,7 @@ The work of Quintana et al contains useful guidelines for checking the suitabili
 
 
 
-![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_repertoires_dia_2.png){width=95%}
+![Illustration 7.x - GDPs as a gateway pedagogical framework   ](./Pictures/ch_7_repertoires_dia_2.png){width=100%}
 
 
 I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a framework to facilitate to process of development of social and cultural repertoires of practice.
