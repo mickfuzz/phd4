@@ -28,6 +28,8 @@
             environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
+        -   [On the process of creating frameworks and
+            pedagogies.](#on-the-process-of-creating-frameworks-and-pedagogies.)
         -   [Design frameworks using
             stages](#design-frameworks-using-stages)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
@@ -51,7 +53,8 @@
         -   [Half-baked games as
             Microworlds](#half-baked-games-as-microworlds)
         -   [Design patterns](#design-patterns)
-        -   [Using design patterns](#using-design-patterns)
+        -   [Using design patterns in
+            education](#using-design-patterns-in-education)
             -   [Design patterns as intermediate
                 constructs](#design-patterns-as-intermediate-constructs)
             -   [Scalable game design](#scalable-game-design)

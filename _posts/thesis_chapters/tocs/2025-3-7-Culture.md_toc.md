@@ -11,9 +11,13 @@
         -   [Comparing to pedagogies explicitly teaching abstraction,
             computational thinking and
             LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
+            -   [CT - gradations](#ct---gradations)
             -   [Exploring data using concepts of Levels of Abstraction
                 (LOA) &
                 PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+            -   [Reframing GDPs from intermediate-level concept or
+                gateway concept - INTEGRATE
+                UP.](#reframing-gdps-from-intermediate-level-concept-or-gateway-concept---integrate-up.)
             -   [Summary of structural components of applied pedagogy -
                 REEPP](#summary-of-structural-components-of-applied-pedagogy---reepp)
         -   [Link to next section - limits of this personal dimension
@@ -78,9 +82,6 @@
         -   [Representing the use of REEPP, RARB and the use of GDPs
             within a pedagogical
             framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
-            -   [Summary of the potential utility of GDPs for wider
-                stakeholders -
-                MOVE?](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders---move)
     -   [Conclusion](#conclusion)
         -   [Narrative recap on how the RQs have been answered in each
             section?](#narrative-recap-on-how-the-rqs-have-been-answered-in-each-section)

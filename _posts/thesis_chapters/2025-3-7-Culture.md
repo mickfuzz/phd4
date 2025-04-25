@@ -22,9 +22,13 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Comparing to pedagogies explicitly teaching abstraction,
             computational thinking and
             LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
+            -   [CT - gradations](#ct---gradations)
             -   [Exploring data using concepts of Levels of Abstraction
                 (LOA) &
                 PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
+            -   [Reframing GDPs from intermediate-level concept or
+                gateway concept - INTEGRATE
+                UP.](#reframing-gdps-from-intermediate-level-concept-or-gateway-concept---integrate-up.)
             -   [Summary of structural components of applied pedagogy -
                 REEPP](#summary-of-structural-components-of-applied-pedagogy---reepp)
         -   [Link to next section - limits of this personal dimension
@@ -89,9 +93,6 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [Representing the use of REEPP, RARB and the use of GDPs
             within a pedagogical
             framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
-            -   [Summary of the potential utility of GDPs for wider
-                stakeholders -
-                MOVE?](#summary-of-the-potential-utility-of-gdps-for-wider-stakeholders---move)
     -   [Conclusion](#conclusion)
         -   [Narrative recap on how the RQs have been answered in each
             section?](#narrative-recap-on-how-the-rqs-have-been-answered-in-each-section)
@@ -354,35 +355,52 @@ Thus there are limits here to which this research can be said to support claims 
 
 These intentional limits in exploration of more abstract concepts in line with a bricolage approach appear to be at odds with advocacy for alternating between abstract and concrete dimensions in semantic waves [@curzon_using_2020]. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
 
-While in my research, the use of in time personal instruction or documentation is used to provoke reflection on abstract concepts while code is being worked on, the value of explicit teaching of more abstract dimension of computational thinking, is not challenged here.
-
-Interventions of these kind were part of a facilitation strategy when I judged it appropriate or welcome. Competing factors would make a more consistent application of this take problematic. time factors in this situation. There was a high demand on my time. As such I was taking a firefighting approach prioritising getting people unstuck to keep them in flow.
+While the value of explicit teaching of more abstract dimension of computational thinking, is not challenged here, my findings expose associated tensions. In my use of just in time personal instruction of abstract concepts while code is being worked on, I balanced factors of how welcome would this underpinning knowledge be to students. Would it interrupt their flow? A tension involving competing demands on facilitator is also relevant as there was a high demand on my time and I prioritised getting people unstuck to keep them engaged. Given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, the process of supporting students to explore more abstract concepts could have been scaffolded further through more explicitly guided reflective processes. An alternative profile is represented in the illustration below.
 
 
+![Figure 7.x - Possible alternative semantic profile  ](./Pictures/ch_7_sw_dia_5.png){width=95%}
 
-**Putting it into practice**
-
-To help imagine how this could be operationalised in the context of this research. A possible alternative profile is represented in the illustration below. Given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible.
+This figure can be clarified with an imagined facilitator intervention in Vignette 1 after the series of changes made after patching in code to add a moving enemy. Facilitator could ask student to reflect on the implementation of the pattern and the revisions made. This would allow the facilitator to use technical language to explore some of the following conepts: the use of x and y co-ordinates as separate parameters of the tween function, the roles of the tween function as a abstracted element provided by the underlying phaser code library.
+<!-- - to draw attention to that coding construct, and the more theoretical construct of nested objects, a form of abstraction in CT terms. -->
 
 QUESTION HOW WOULD THE USE OF THIS CONCEPT WORK WITH PRIMM.
 
-![Figure 7.x - Possible alternative semantic profile  ](./Pictures/ch_7_sw_dia_2.png){width=95%}
+It is difficult to this process with the PRIMM given the different contexts involved with existing PRIMM research which are based in formal environments within the structures of a group lesson format.
 
 
-An example would be via facilitator intervention.
+While PRIMM alters UMC structure by adding more explicit conceptual scaffolding in early stages (Predict, Investigate) brings back a principles first approach, this approach to avoid the risk of associated student disengagement [SDG] takes a principles second approach.
 
-Change this to the actual example with Vignette 1 Toby - when error, facilitator input on x,y etc.
-- the position of tween function within the underlying phaser code library.
-- to draw attention to that coding construct, and the more theoretical construct of nested objects, a form of abstraction in CT terms.
+As explored in Chapter 5, I explored modifications to the documentation to include candidate of the map of learning map dimensions in the initial descriptions of GDPS ( see Appendix.learningDimensions.) I experimented with a a process to encourage reflection of the implementation of each pattern by asking participants to plot their progress by moving self-created avatars on a a physical map (see Appendix.learningDimensions). This encouragement of the process of reflection via playful methods, could also be achieved in different ways perhaps by attributing badges or points to the a successful reflection of different elements of learning dimension. This is an area of future interest which could be explored by adapting the design for use in a more more formal setting as the extrinsic nature of the process of gamification would align with contextual factors of examination-driven education.
+
+
+
+ANYTHING ELSE? ADD HERE AFTER REVIEWING LR AND DATA AGAIN
+
+
+#### Reframing GDPs from intermediate-level concept or gateway concept
+
+While this research has avoided of explicit teaching of concepts, it has conversely surfaced a mechanism, via the use of GDPs which allows this in an accessible way. I propose that the use of GDPs concepts as a primary object of activity allows them to open up exploration of both abstract and concrete concepts for examples those contained within the learning map (see appendix.learningmap for an example in P4), or more aligned to curricular concerns. Thus rather than the interpretation of Eriksson et al. [-@eriksson_using_2019] of game design patterns as _intermediate_ constructs to instead _gateway_ construct to communicate potential utility in opening up exploration of different dimensions of learning.  This is represented conceptually in Figure 7.x below.
+
+<!-- SIMPLIFY THIS PARAGRAPH OR DROP
+While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings. One such motivation is the ability for implementation of GDPs to open up exploration of other concepts.  -->
+
+
+![Figure 7.x - GDPs as a gateway construct opening up the exploration of wider related concepts  ](./Pictures/ch_7_gateway_dia_4.png){width=95%}
+
+<!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
+
+**The utility of this positioning for varied stakeholders**
+
+The framing of the GDP as an intermediate construct in this way, drawing on Hook etc, was originally imagined as a useful tool for design researcher to surface useful concepts and practices.
+Indeed the process of deducting from participant input and responses that use of GDPs and design patterns more generally does appear to be useful here and a similar process could be useful in other contexts.
+
+Beyond the utility for researcher, for participants the last chapter outlined the varied uses of GDPs in terms of mediational strategies and as a motivational element repeated in varied forms as different patterns are implements.
+
+Additionally for facilitators the GDPs serve functions within the pedagogical approach of this research including: the ability to structure participant choice within practical limitations, a unifying construct to aid the packaging of documentation and support provided to aim project navigation.
 
 
 <!-- Say Tehillah has made an error altering level design and has made changes to the array comprising graphical matrix. The error which compromising the the structure of the array could be used  -->
 
-
-
-In different contexts, the process of supporting students to follow the dotted path into areas of more abstract concepts could have been scaffolded further through more explicitly guided reflective processes. As explored in Chapter 5, I explored modifications to the documentation to include candidate of the map of learning map dimensions in the initial descriptions of GDPS ( see Appendix.learningDimensions.)
-
-A process to encourage this would be a gamification of the process of reflection, perhaps by attributing badges or points to the a successful reflection of different elements of learning dimension. The extrinsic nature of the process of gamification matches here the extrinsic contextual factors of examination-driven education. While this is a potentially fruitful area for future work, given the core context of non-formal learning of this study it was de-prioritised in this thesis.
 
 <!--
 TRY REMOVING THIS
@@ -399,41 +417,14 @@ CLARIFY THIS WHOLE SECTION.
 
 In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence" -->
 
-
-
 <!-- This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.   -->
 
 
 
 
-#### Reframing GDPs from intermediate-level concept or gateway concept
-
-While this research has avoided of explicit teaching of concepts, it has conversely surfaced a mechanism, via the use of GDPs which allows this in an accessible way. I propose that the use of GDPs concepts as a primary object of activity allows them to open up exploration of both abstract and concrete concepts for examples those contained within the learning map (see appendix.learningmap for an example in P4), or more aligned to curricular concerns. Thus rather than the interpretation of Eriksson et al. [-@eriksson_using_2019] of game design patterns as _intermediate_ constructs to instead _gateway_ construct to communicate potential utility in opening up exploration of different dimensions of learning.  This  is represented conceptually in Figure 7.x below.
-
-<!-- SIMPLIFY THIS PARAGRAPH OR DROP
-While, the table of uses of GDPs in Chapter 6 focuses primarily on value for learners there are aspects which are relevant to facilitators or teachers in either non-formal or formal settings. One such motivation is the ability for implementation of GDPs to open up exploration of other concepts.  -->
-
-
-![Figure 7.x - GDPs as a gateway construct opening up the exploration of wider related concepts  ](./Pictures/ch_7_gateway_dia_4.png){width=95%}
-
-<!-- Given this shift to include the utility for participants and the problematisation of the term intermediate, I propose a change in terminology. Instead of an _intermediate framework_,  -->
-
-**The utility of this positioning for varied stakeholders**
-
-The framing of the GDP as an intermediate construct in this way, drawing on Hook etc, was originally imagined as a useful tool for design researcher to surface useful concepts and practices.
-Indeed the process of deducting from participant input and responses that use of GDPs and design patterns more generally does appear to be useful here and a similar process could be useful in other contexts.
-
-Beyond the utility for researcher For participants the last chapter outlined the varied uses of GDPs in terms of mediational strategies and as a motivational element repeated in varied forms as different patterns are implements.
-
-Additionally for facilitators the GDPs serve functions within the pedagogical approach of this research including: the ability to structure participant choice within practical limitations, a unifying construct to aid the packaging of documentation and support provided to aim project navigation,
-
-
 
 <!-- MOVE OR DROP..
 At this stage, it is valuable to look past a potentially arbitrary placing of these levels within a hierarchy to investigate instead the core value of the relational nature of the framework to other concepts in the context of my research. To help with this analysis of utility,  -->
-
-
-
 
 
 <!-- Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). -->
@@ -498,29 +489,38 @@ However this research contends that GDPs are a more suitable accessible  framewo
 <!-- As synthesis, in terms of semantic waves, the movement between abstract and concrete is helpful to address some of the issues concerning inclusion and accessibility of overly abstract approaches [@papert_epistemological_1990].
  -->
 
-#### Summary of structural components of applied pedagogy - REEPP
+### Summary of structural components of applied pedagogy - REEPP
 
+MOVE BUT - FIND A GOOD PLACE FOR THIS
 The use of conceptual and practical frameworks to scaffold domain specific working practices can help ameliorate the dialectical tension between engagement via tinkering and requirements to promote "principled understanding" [@barron_doing_1998, p.63]. Broadening the focus of this chapter beyond an exploration of abstract and concrete elements of the learning design, I now return to the gap in research on project-based approaches to digital making, in finding appropriate level of scaffolding [@waite_teaching_2021; @quintana_scaffolding_2004].
 
-The identification of structural use of GDPs as a germ cell concept, this break through facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
+
+
+The previous section has shown how instead of explicit teaching of concepts, the structural support provided by the use of GDPs allows a flexible navigation of the abstract and concrete elements of learning experience driven by participant choice. This section summarises an approach to facilitate the use of GDPs via a technical structuring of resources.  This technical structure synthesises use of a code playground, game library, a half-baked game template, UMC pedagogy, and the use of a collection of game design patterns. While similar approaches exist this pedagogical structure is innovative in the way systemic tensions have been resolved and congruencies introduced. I propose that key elements of this pedagogy constitute a replicable approach which is a valuable contribution to coding education. To communicate the essence of this structural, technical model I propose an acronym remix enabled, elective, progressive, pattern patching (REEPPP).
+
+The summary table has been written to be applicable to projects beyond the use of games.
+
+
+| REEPPP Term  | Description |
+|--------------|---------------|
+| **R**emix **E**nabled | Project formation is accelerated, limited and scaffolded through the use of a structural starting template in a recognisable project genre with easily discoverable affordances strongly coupled with object output, providing immediate feedback. |
+| **E**lective | Participants have choices over their learning pathways in dimensions of content and design patterns to be added. |
+| **P**rogressive | The processes involves progressive steps. In this case pattern recognition through exploration/play, quick start activities involving minimal changes with high impact on the project outcomes, using progressively more challenging documented patterns, finally implementing patterns without support |
+| **P**attern | The process has at its core the use of recognisable design patterns which are presented together with suggested design solutions and concrete code snippets. |
+| **P**atching | The authentic technical process of code patching accelerates production and creates errors suitable for debugging at a novice level. |
+
+
+
+The identification of structural use of GDPs as a germ cell concept, facilitated the development of different progressively graded objectives (recognition, use and modification), as a concrete instance of UMC principles, which helps address the tension between freedom of choice of learner pathway, and expression of interest within a manageable technical structure (with relevant supporting documentation).
 
 Similar to SGD a progressively stepped approach is taken here.
 These varied forms of documentation, and their varied adoption and propagation represent different approaches to  scaffolding the process of becoming familiar with and then modifying to the code in often increasingly ambitious ways.
 
 While SGD was limited in participant pathway choice, my design is not. Following the rationale of choice limitation as a strategy to reduce facilitator stress [@lytle_use_2019], this design  using a limited menu of GDPs as a structural and navigational framework.
 
-This technical structure synthesises use of a code playground, game library, a half-baked game template, UMC pedagogy, and the use of a collection of game design patterns. While similar approaches exist this pedagogical structure is innovative in the way systemic tensions have been resolved and congruencies introduced. I propose that key elements of this pedagogy constitute a replicable approach which is a valuable contribution to coding education. To communicate the essence of this structural, technical model I propose an acronym remix enabled, elective, progressive, pattern patching (REEPPP).
 
 
-| REEPPP Letter            | REEPPP Term  | Description |
-|---------------|--------------|---------------|
-| **RE**  | **R**emix **E**nabled | Project formation is accelerated, limited and scaffolded through the use of a structural starting template in a recognisable project genre with easily discoverable affordances strongly coupled with object output, providing immediate feedback. |
-| **E**  | **E**lective | Participants have choices over their learning pathways in dimensions of content and design patterns to be added. |
-| **P**  | **P**rogressive | The processes involves progressive steps. In this case pattern recognition through exploration/play, quick start activities involving minimal changes with high impact on the project outcomes, using progressively more challenging documented patterns, finally implementing patterns without support |
-| **P**  | **P**attern | The process has at its core the use of recognisable design patterns which are presented together with suggested design solutions and concrete code snippets. |
-| **P**  | **P**atching | The authentic technical process of code patching accelerates production and creates errors suitable for debugging at a novice level. |
 
-The above summary has been written to be applicable to projects beyond the use of games.
 
 
 <!-- NOTE - THERE'S ANOTHER SECTION IN CH.8. -->
