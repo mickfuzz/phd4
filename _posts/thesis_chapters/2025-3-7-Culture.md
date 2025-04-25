@@ -331,25 +331,17 @@ The following diagram is an approximate representation of the scope of movement 
 
 ![Figure 7.x - Semantic profile in Vignette 2  ](./Pictures/ch_7_sw_dia_4.png){width=95%}
 
-Each time the participants imagine and choose a design pattern, implement it code patching, test it and then debug it .
-
-MORE DETAIL ALIGNED TO FIGURE - ANNOTATIONS ?
-
-Movement between layers of abstraction and concrete occurs in my data as participants shift between goal formation and the concrete implementation using design practices and specific code structures. Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 6 in part stem from the fluid shifts in these levels. The level of detail in Vignette 2 for example is a good indication of rapid shifts.
-
-
-GDPs are relevant in this process as they provide a tangible level of feedback in the most concrete level, and games provide high motivation to adjust code to get the result feeling just right (as seen in Chapter 6). For example the alternation between checking game level and debugging level in Vignette 2 data results from Toby wanting to get the positioning of the moving enemy correct and making several changes to achieve the desired behaviour.
-
-
-
+Movement between layers of abstraction and concrete occurs in my data as participants shift between goal formation and the concrete implementation using design practices and specific code structures. In this example, Toby starts by imagine and choose a design pattern and navigates to the relevant documentation. He progresses to implement the pattern via patching in code from the code example. He tests it via previewing and playtesting the game. He then revises or debugs it iteratively. For example, the alternation between checking game level and debugging level in Vignette 2 (see exact spot)  results from Toby wanting to get the positioning of the moving enemy correct and needing to several changes to achieve the desired behaviour. Examples pervade the data of Vignettes of such shifts between levels. The descriptions of fluency in Chapter 6 in part stem from the regular shifts in these levels via operationalisation CAN THIS BE PROVED?. GDPs are relevant in this process as they provide a tangible level of feedback in the most concrete level, and games provide high motivation to adjust code to get the result feeling just right (as seen in Chapter 6).
 
 
 <!-- nd processes are present in data, but only when adults with relevant knowledge facilitator, either myself or parents, do point them out and during the process of code implementation. More implicit use of coding constructs is more common. -->
 
 
-**Description of impact of blackboxing on semantic profile of learners**
+<!-- **Description of impact of blackboxing on semantic profile of learners** -->
 
-This relatively typical semantic profile shows rapid iterations of project changes and navigation between the upper and lower poles but little activity at the  code design activity. This pattern is due the black-boxing of more complex and abstract element of the starting template and the carefully structured menu of GDPs and closely coupled documentation supporting implementation as explored in Chapter 5. These black-boxing decisions were initially in response to barriers present to abstract approaches explored in Chapter 2 in order to prioritise accessibility and flow experience, inline with a bricolage approach and constructionist design heuristics [@resnick_reflections_2005] (see Appendix.tech for fuller details). The process of scaffolding this abstraction allowed greater focus on more relational and affective elements of the learning design, processes which are described in more depth later.
+This relatively typical semantic profile shows rapid iterations of project changes and navigation between the upper and lower poles but little activity at the code design activity or utilising of more abstract computing concepts. This pattern is due in part to the closely coupled documentation supporting implementation as explored in Chapter 5. Additionally, as a learning designer I had pre-completed aspects of project implementation that required more generalisable computational thinking skills that would have been a potentially valuable learning experience. For example, abstraction was present in the structuring of key variables within the starting template and via the graphical design tool in the form of a grid matrix in an array data structure. Decomposition and generalisation (pattern recognition) were present in the structuring of the collection of GDPs. For advocates of the potential of abstract CT, this process could be perceived as over-scaffolding, depriving learners or the chance to learn and practice these valuable CT practices.
+
+These black-boxing decisions were initially in response to barriers present to abstract approaches explored in Chapter 2 in order to prioritise accessibility and flow experience, inline with a bricolage approach and constructionist design heuristics [@resnick_reflections_2005] (see Appendix.tech for fuller details). The process of scaffolding this abstraction allowed greater focus on more relational and affective elements of the learning design, processes which are described in more depth in part two of this chapter. As such, the resulting semantic profile of Figure 7.x above can be aligned with the description of Papert and Turkle's [@papert_epistemological_1990] bricoleur maker styles. The data of Chapter 5 details the development of a learning pedagogy which aligns primarily to the more concrete applied approach as a way of ameliorating barriers of conceptual complexity. Observations show most participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation.
 
 <!-- however subsequent analysis showed an alignment with constructionist design heuristics [@resnick_reflections_2005]   -->
 <!-- A bricolage approach in at that level would avoid abstract design structures which detract from a close relationship between the code and the desired results. -->
@@ -357,34 +349,15 @@ This relatively typical semantic profile shows rapid iterations of project chang
 In addition the observations in the discussion section of Chapter 6, which reject design stages, in favour of more chaotic improvisational approach. -->
 <!-- Examples include: use of code playground and existing template to simplify the use of the interacting web technologies; structural and syntactical template design decisions,     -->
 
-Thus as a facilitator I undertook some code template design and implementation that would have been a potentially valuable learning experience requiring more generalisable computational thinking skills.
-These can be summarised using Wing's CT concepts namely:
 
-- Code decomposition via the pre-existing functions in the code template
-- Abstraction via the structuring of the template with key variables moved to the start of the code
-- Abstraction again in template via the graphical design tool in the form of a grid matrix in an array data structure.
-- Decomposition and generalisation (pattern recognition) were present in the structuring of the collection of GDPs  
+Thus there are limits here to which this research can be said to support claims of LOA and semantic profiling. While the utility of blackboxing to increase accessibility for participants here supports the potential of LOA to review participant experience of learning programming [@waite_abstraction_2018-1, p.21], the value of participant being explicitly aware of LOA is less clear given the lack of explicit teaching of either LOA in my design. Additionally, while systems concepts and computational thinking are being explored concrete level, and are included in written instructions they are not explicitly taught in sessions.
 
-One framing of this approach is that over-scaffolding here deprives learners or the chance to learn and practice these valuable CT practices.
-WHERE IS MY JUSTIFICATION?
+These intentional limits in exploration of more abstract concepts in line with a bricolage approach appear to be at odds with advocacy for alternating between abstract and concrete dimensions in semantic waves [@curzon_using_2020]. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
 
-HOW TO PHRASE THIS CORRECTLY BELOW.
+While in my research, the use of in time personal instruction or documentation is used to provoke reflection on abstract concepts while code is being worked on, the value of explicit teaching of more abstract dimension of computational thinking, is not challenged here.
 
-The semantic profile of Figure 7.x above can be aligned with the description of Papert and Turkle's [@papert_epistemological_1990] bricoleur maker styles. The data of Chapter 5 details the development of a learning pedagogy which aligns primarily to the more concrete applied approach as a way of ameliorating barriers of conceptual complexity. Observations show most participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation.
+Interventions of these kind were part of a facilitation strategy when I judged it appropriate or welcome. Competing factors would make a more consistent application of this take problematic. time factors in this situation. There was a high demand on my time. As such I was taking a firefighting approach prioritising getting people unstuck to keep them in flow.
 
-
-Given the limits of bricolage approach in exploration of more abstract concepts, is it of value to ask how if the learning design is at odds with previously explored advocacy for alternating between abstract and concrete dimensions in semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018]. For example, The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels".  Given that lack of explicit teaching of either LOA or more abstract concepts in my bricolage-like approach, it is likely participants would not be aware of the level at they are working.  In addition, while systems concepts are being explored concrete level they are not surfaced explicitly in this learning design. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
-
-<!-- However, while LOA and PRIMM imply an explicit teaching of abstract concepts or processes, the authors [-@waite_abstraction_2018-1, p.21] acknowledge that rationale and evidence to support this is not clear for younger coders. In addition, related research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
-CLARIFY THIS WHOLE SECTION.  
-
-In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence" -->
-
-Turning instead to the value for designers and facilitators, Waite and colleagues [@waite_abstraction_2018-1, p.21] state "the LOA hierarchy may be a useful tool for improving and reviewing teaching and learning in programming", my reflections own on research data support this proposition more clearly.
-
-The processes outline above support a position that there is utility for facilitators to be aware of the level of abstraction present in the participants learning experience in order to design to increase accessibility for participants. Specifically, this research suggests that GDPs are a more suitable accessible leading pedagogical framework than computational thinking.
-
-<!-- This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.   -->
 
 
 **Putting it into practice**
@@ -399,21 +372,39 @@ QUESTION HOW WOULD THE USE OF THIS CONCEPT WORK WITH PRIMM.
 An example would be via facilitator intervention.
 
 Change this to the actual example with Vignette 1 Toby - when error, facilitator input on x,y etc.
-- the position of tween function within hte underlying phaser code library.
+- the position of tween function within the underlying phaser code library.
 - to draw attention to that coding construct, and the more theoretical construct of nested objects, a form of abstraction in CT terms.
 
 
 <!-- Say Tehillah has made an error altering level design and has made changes to the array comprising graphical matrix. The error which compromising the the structure of the array could be used  -->
 
-While interventions of these kind were part of a facilitation strategy when I judged it appropriate or welcome. Competing factors would make a more consistent application of this take problematic. time factors in this situation. There was a high demand on my time. As such I was taking a firefighting approach prioritising getting people unstuck to keep them in flow.
 
-
-
-Thus, while in my research, the use of in time personal instruction or documentation is used to provoke reflection on abstract concepts while code is being worked on, the value of explicit teaching of more abstract dimension of computational thinking, is not challenged here.
 
 In different contexts, the process of supporting students to follow the dotted path into areas of more abstract concepts could have been scaffolded further through more explicitly guided reflective processes. As explored in Chapter 5, I explored modifications to the documentation to include candidate of the map of learning map dimensions in the initial descriptions of GDPS ( see Appendix.learningDimensions.)
 
 A process to encourage this would be a gamification of the process of reflection, perhaps by attributing badges or points to the a successful reflection of different elements of learning dimension. The extrinsic nature of the process of gamification matches here the extrinsic contextual factors of examination-driven education. While this is a potentially fruitful area for future work, given the core context of non-formal learning of this study it was de-prioritised in this thesis.
+
+<!--
+TRY REMOVING THIS
+
+The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels". -->
+
+<!-- Turning instead to the value for designers and facilitators, Waite and colleagues  state "the LOA hierarchy may be a useful tool for improving and reviewing teaching and learning in programming", my reflections own on research data support this proposition more clearly.
+
+The processes outline above support a position that there is utility for facilitators to be aware of the level of abstraction present in the participants learning experience in order to design to increase accessibility for participants. Specifically, this research suggests that GDPs are a more suitable accessible leading pedagogical framework than computational thinking. -->
+
+
+<!-- However, while LOA and PRIMM imply an explicit teaching of abstract concepts or processes, the authors [-@waite_abstraction_2018-1, p.21] acknowledge that rationale and evidence to support this is not clear for younger coders. In addition, related research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
+CLARIFY THIS WHOLE SECTION.  
+
+In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence" -->
+
+
+
+<!-- This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.   -->
+
+
+
 
 #### Reframing GDPs from intermediate-level concept or gateway concept
 
