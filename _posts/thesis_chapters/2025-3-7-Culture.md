@@ -369,10 +369,10 @@ HOW TO PHRASE THIS CORRECTLY BELOW.
 
 Given the limits of bricolage approach in exploration of more abstract concepts, is it of value to ask how if the learning design is at odds with previously explored advocacy for alternating between abstract and concrete dimensions in semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018]. For example, The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels".  Given that lack of explicit teaching of either LOA or more abstract concepts in my bricolage-like approach, it is likely participants would not be aware of the level at they are working.  In addition, while systems concepts are being explored concrete level they are not surfaced explicitly in this learning design. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
 
-However, while LOA and PRIMM imply an explicit teaching of abstract concepts or processes, the authors [-@waite_abstraction_2018-1, p.21] acknowledge that rationale and evidence to support this is not clear for younger coders. In addition, related research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
+<!-- However, while LOA and PRIMM imply an explicit teaching of abstract concepts or processes, the authors [-@waite_abstraction_2018-1, p.21] acknowledge that rationale and evidence to support this is not clear for younger coders. In addition, related research does not include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
 CLARIFY THIS WHOLE SECTION.  
 
-In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence"
+In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence" -->
 
 Turning instead to the value for designers and facilitators, Waite and colleagues [@waite_abstraction_2018-1, p.21] state "the LOA hierarchy may be a useful tool for improving and reviewing teaching and learning in programming", my reflections own on research data support this proposition more clearly.
 
@@ -380,7 +380,36 @@ The processes outline above support a position that there is utility for facilit
 
 <!-- This coupling bears examination in relation to the positioning of GDPs as a leading activity, as illustrated by my decision to treat the implementation of each GDP as an activity system in itself. While the previous chapter explored the use of GDPs in various facets, this section turns to their utility for learners in this abstract/concrete domain.   -->
 
-**Reframing GDPs from intermediate-level concept or gateway concept**
+
+**Putting it into practice**
+
+To help imagine how this could be operationalised in the context of this research. A possible alternative profile is represented in the illustration below. Given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible.
+
+QUESTION HOW WOULD THE USE OF THIS CONCEPT WORK WITH PRIMM.
+
+![Figure 7.x - Possible alternative semantic profile  ](./Pictures/ch_7_sw_dia_2.png){width=95%}
+
+
+An example would be via facilitator intervention.
+
+Change this to the actual example with Vignette 1 Toby - when error, facilitator input on x,y etc.
+- the position of tween function within hte underlying phaser code library.
+- to draw attention to that coding construct, and the more theoretical construct of nested objects, a form of abstraction in CT terms.
+
+
+<!-- Say Tehillah has made an error altering level design and has made changes to the array comprising graphical matrix. The error which compromising the the structure of the array could be used  -->
+
+While interventions of these kind were part of a facilitation strategy when I judged it appropriate or welcome. Competing factors would make a more consistent application of this take problematic. time factors in this situation. There was a high demand on my time. As such I was taking a firefighting approach prioritising getting people unstuck to keep them in flow.
+
+
+
+Thus, while in my research, the use of in time personal instruction or documentation is used to provoke reflection on abstract concepts while code is being worked on, the value of explicit teaching of more abstract dimension of computational thinking, is not challenged here.
+
+In different contexts, the process of supporting students to follow the dotted path into areas of more abstract concepts could have been scaffolded further through more explicitly guided reflective processes. As explored in Chapter 5, I explored modifications to the documentation to include candidate of the map of learning map dimensions in the initial descriptions of GDPS ( see Appendix.learningDimensions.)
+
+A process to encourage this would be a gamification of the process of reflection, perhaps by attributing badges or points to the a successful reflection of different elements of learning dimension. The extrinsic nature of the process of gamification matches here the extrinsic contextual factors of examination-driven education. While this is a potentially fruitful area for future work, given the core context of non-formal learning of this study it was de-prioritised in this thesis.
+
+#### Reframing GDPs from intermediate-level concept or gateway concept
 
 While this research has avoided of explicit teaching of concepts, it has conversely surfaced a mechanism, via the use of GDPs which allows this in an accessible way. I propose that the use of GDPs concepts as a primary object of activity allows them to open up exploration of both abstract and concrete concepts for examples those contained within the learning map (see appendix.learningmap for an example in P4), or more aligned to curricular concerns. Thus rather than the interpretation of Eriksson et al. [-@eriksson_using_2019] of game design patterns as _intermediate_ constructs to instead _gateway_ construct to communicate potential utility in opening up exploration of different dimensions of learning.  This  is represented conceptually in Figure 7.x below.
 
@@ -400,24 +429,6 @@ Indeed the process of deducting from participant input and responses that use of
 Beyond the utility for researcher For participants the last chapter outlined the varied uses of GDPs in terms of mediational strategies and as a motivational element repeated in varied forms as different patterns are implements.
 
 Additionally for facilitators the GDPs serve functions within the pedagogical approach of this research including: the ability to structure participant choice within practical limitations, a unifying construct to aid the packaging of documentation and support provided to aim project navigation,
-
-**Putting it into practice**
-
-To help imagine how this could be operationalised in the context of this research. A possible alternative profile is represented in the illustration below. Given a different focus or motivation, say that of a need to explore concepts due to curricular or exam pressures, an alternative pathway involving the exploration of abstract elements of computational thinking would have been possible.
-
-QUESTION HOW WOULD THE USE OF THIS CONCEPT WORK WITH PRIMM.
-
-![Figure 7.x - Possible alternative semantic profile  ](./Pictures/ch_7_sw_dia_2.png){width=95%}
-
-
-An example would be via facilitator intervention. Say Tehillah has made an error altering level design and has made changes to the array comprising graphical matrix. The error which compromising the the structure of the array could be used to draw attention to that coding construct, and the more theoretical construct of nested objects, a form of abstraction in CT terms. Interventions of these kind were not uncommon and could easily form an intentional part of a facilitation strategy when I judged it appropriate or welcome.
-
-Thus, while in my research, the use of in time personal instruction or documentation is used to provoke reflection on abstract concepts while code is being worked on, the value of explicit teaching of more abstract dimension of computational thinking, is not challenged here.
-
-In different contexts, the process of supporting students to follow the dotted path into areas of more abstract concepts could have been scaffolded further through more explicitly guided reflective processes. As explored in Chapter 5, I explored modifications to the documentation to include candidate of the map of learning map dimensions in the initial descriptions of GDPS ( see Appendix.learningDimensions.)
-
-A process to encourage this would be a gamification of the process of reflection, perhaps by attributing badges or points to the a successful reflection of different elements of learning dimension. The extrinsic nature of the process of gamification matches here the extrinsic contextual factors of examination-driven education. While this is a potentially fruitful area for future work, given the core context of non-formal learning of this study it was de-prioritised in this thesis.
-
 
 
 
