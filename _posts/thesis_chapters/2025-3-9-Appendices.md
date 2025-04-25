@@ -12,27 +12,39 @@ title: 9. Appendices
 ---
 
 -   [Appendices](#appendices)
-    -   [List of Vignettes](#list-of-vignettes)
-    -   [Extended design narrative for
-        P1](#extended-design-narrative-for-p1)
+    -   [Interviews](#interviews)
+        -   [Interview.1 - Madiha, Nasrin and
+            Xavier](#interview.1---madiha-nasrin-and-xavier)
+            -   [Interview.1.a](#interview.1.a)
+            -   [Interview.1.b](#interview.1.b)
+        -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
+        -   [Interview.3 - Maggie and
+            Toby](#interview.3---maggie-and-toby)
+        -   [App.7.fdb - Feedback
+            Extracts](#app.7.fdb---feedback-extracts)
+            -   [App.fdb.a - Susanna and Tehillah note on starting
+                games](#app.fdb.a---susanna-and-tehillah-note-on-starting-games)
+            -   [App.fdb.a - P1 end
+                evaluation](#app.fdb.a---p1-end-evaluation)
+    -   [On Structure of Appendices &
+        Vignettes](#on-structure-of-appendices-vignettes)
+    -   [Appendix.design.p1](#appendix.design.p1)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
         -   [Appendix.5.bee - Contextual Vignette on the conflict
             experienced by one family & the 3D
             Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
-        -   [Appendix.feedback - Feedback from P1 participants
-            (extracts)](#appendix.feedback---feedback-from-p1-participants-extracts)
         -   [Appendix.themeing - Themeing
             GDPs](#appendix.themeing---themeing-gdps)
             -   [Appendix 5.R.x - Sketching towards a map to help
                 navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
-            -   [Appendix 7.makertypes - DUPLICATED LATER - ALSO WHAT
-                ABOUT CHAPTER
-                7](#appendix-7.makertypes---duplicated-later---also-what-about-chapter-7)
+        -   [Appendix 7.makertypes (and social
+            missions)](#appendix-7.makertypes-and-social-missions)
             -   [What kind of Maker are you - Motivations behind social
                 processes (emerging in
                 playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
+            -   [Appendix.playtestingtypes](#appendix.playtestingtypes)
             -   [Commentary on side
                 missions](#commentary-on-side-missions)
         -   [Appendix.drama - Drama process
@@ -45,8 +57,24 @@ title: 9. Appendices
         -   [Appendix.bartle - Summary of interactive Bartle
             test](#appendix.bartle---summary-of-interactive-bartle-test)
         -   [Appendix.learningmap - Tension emerging in the Learning
-            Design regarding Compu### Appendix 7.makertypes (and social missions)tational Thinking
+            Design regarding Computational Thinking
             concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
+            -   [Evolution of the map](#evolution-of-the-map)
+            -   [Evolution of the Learning dimensions map - COPIED HERE
+                FROM CHAPTER
+                8](#evolution-of-the-learning-dimensions-map---copied-here-from-chapter-8)
+            -   [Background on learning Dimensions Map - -
+                COMPRESS?](#background-on-learning-dimensions-map-----compress)
+            -   [The potential of learning and navigational
+                maps](#the-potential-of-learning-and-navigational-maps)
+            -   [Tensions involving explicit teaching of curricular
+                concepts or
+                not](#tensions-involving-explicit-teaching-of-curricular-concepts-or-not)
+            -   [The more abstract definiton of
+                CT](#the-more-abstract-definiton-of-ct)
+            -   [Reflection on personal appropriation of
+                concepts](#reflection-on-personal-appropriation-of-concepts)
+        -   [Appendix.digitalliteracy](#appendix.digitalliteracy)
         -   [Appendix.recommendations - for
             practitioners.](#appendix.recommendations---for-practitioners.)
             -   [Additional commentary from chapter
@@ -86,10 +114,15 @@ title: 9. Appendices
                 prototyping](#appendix.tech.prototyping-use-of-visual-prototyping)
             -   [Using Phaser 2 not 3 & Game
                 States](#using-phaser-2-not-3-game-states)
+                -   [Template structure and asset placement - Add in
+                    Chapter tutorial example extract here
+                    too](#template-structure-and-asset-placement---add-in-chapter-tutorial-example-extract-here-too)
     -   [Technical Appendix Two - On reaction to
         tech](#technical-appendix-two---on-reaction-to-tech)
-        -   [GDPs used to nurture tactical responses to coding
-            errors](#gdps-used-to-nurture-tactical-responses-to-coding-errors)
+        -   [Appendix.patching](#appendix.patching)
+        -   [Appendix.debugging GDPs used to nurture tactical responses
+            to coding
+            errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
         -   [Concluding remarks on debugging and
             revision](#concluding-remarks-on-debugging-and-revision)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
@@ -115,7 +148,13 @@ title: 9. Appendices
                 OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
         -   [Tensions in tool use emerging between agency and
             authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
-
+    -   [Participants Interview questions - semi structured
+        -](#participants-interview-questions---semi-structured--)
+        -   [Introductory Questions](#introductory-questions)
+        -   [Personal Dimensions](#personal-dimensions)
+        -   [Material Dimensions](#material-dimensions)
+        -   [Social Dimensions](#social-dimensions)
+        -   [Cultural Dimensions](#cultural-dimensions)
 
 # Appendices
 
@@ -136,7 +175,18 @@ The involvement of Madiha in Nasrin's gaming
 
 ### Interview.3 - Maggie and Toby
 
+#### Interview.4.a
+
+
+#### Other extracts
+
 - Emotional when J. who was dyslexic was able to do the code pattern matching exercise.
+
+### Interview.4 - Dan
+
+#### Interview.4.a
+
+Dan's involvement in Coder Dojo.   
 
 ### App.7.fdb - Feedback Extracts
 
@@ -360,11 +410,9 @@ After the process of playing a game I shared my proposition that there different
 
 I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
 
-#### Appendix.playtestingtypes
+#### Appendix.playtestingtypes (Ch. 7)
 
 The maker types listed above were in particular played out in the playtesting process.
-
-
 
 **Playful playtesting**
 
@@ -395,8 +443,6 @@ In the transcript above of vignette 4.1.b we see that in the end-of-session repo
 
 
 Side missions or side quests are also used in open world games are used in part to appeal to different kinds of players and are often models on Bartle's taxonomy of game player types [@bartle_hearts_nodate]. In this phase, parents Madiha and Mark both used the prompts of the social missions to take a break from their creative work using the software toolset to talk to other parents and children.
-
-
 
     Mark: Right we’ve got a background in. Do you. Do you want to reply to the Weean.
     Ed: Yes. (Ed starts to type very slowly)

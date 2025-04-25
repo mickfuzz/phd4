@@ -383,9 +383,12 @@ See dissertation on third space here [@bellocchi_learning_nodate]
 
 Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
 
-### Third spaces and the context of this study
+### Third spaces and repertoires in the context of this study
 
 The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning.
+
+PROBABLY DROP THIS BIT
+Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
 
 
 ---

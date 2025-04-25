@@ -365,9 +365,16 @@ Vossoughi and other researchers also highlight political and social concerns ass
 An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work.
 
 One concept of promise, aligned with is that of fluency
-which is described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. However there has been no review of these varied terms and how they differ or contain underlying similarities.
+which is described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018].
 
-In the next chapter I propose that this aim of fluency can be profitably augmented using socio-cultural concepts of agency.
+The guiding principle unifying these terms is being self expression & the following are relevant. 
+
+- via instrumental coding competency needed to make changes effectively with or without supporting documentation
+- from a as a read / write perspective, learners should be able to write as well as read programs as a form of empowerment [@resnick2002rethinking]
+- via expression of creative or significant ideas in constructing digital products  
+
+
+<!-- In Chapter  I propose that this aim of fluency can be profitably augmented using socio-cultural concepts of agency. -->
 
 
 Given the importance of more intentional pedagogical approaches in this area and the lack of detail in the reviews of CGD&P described above, the following sections will detail several key pedagogies used in this area.
@@ -1118,6 +1125,14 @@ There is another gaps conceptually in a clarity in terms of what we are undertak
 
 MOVE LATER? A GAP?
 Given my particular interest in empowerment within technology education, one promising concept within relevant research is that of  fluency in constructionst reseach on digital making.
+
+---
+PATCHED IN INTEGRATE
+As noted in Chapter 2 [@kafai_constructionist_2015]. Despite Papert's [@lodi_computational_2021] foundational focus on the community application of created projects continues in legacy of constructionism. For example, the articulation of Resnick on computational fluency, addresses the limitations of research focusing too narrowly on technical approaches and toolsets rather than their expressive potential (and thus within a community)  and focused on toolsets rather than pedagogies [@resnick_seeds_2020; @resnick_coding_2020].
+
+In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], but as explored in Chatper 2 this work is limited in scope and invites further exploration.
+
+---
 
 In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 
