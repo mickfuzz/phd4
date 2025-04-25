@@ -335,14 +335,17 @@ Each time the participants imagine and choose a design pattern, implement it cod
 
 MORE DETAIL ALIGNED TO FIGURE - ANNOTATIONS ?
 
-This profile mirrors the description of Papert and Turkle's [@papert_epistemological_1990] bricoleur maker styles. The data of Chapter 5 details the development of a learning pedagogy which aligns primarily to the more concrete applied approach as a way of ameliorating barriers of conceptual complexity. Observations show most participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation.
+Movement between layers of abstraction and concrete occurs in my data as participants shift between goal formation and the concrete implementation using design practices and specific code structures. Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 6 in part stem from the fluid shifts in these levels. The level of detail in Vignette 2 for example is a good indication of rapid shifts.
 
-With this focus, we can analyse my learning design where movement between layers of abstraction and concrete is happening. Shifts do occur between participants goal formation and the concrete implementation using design practices and specific code structures. Examples pervade the data of Vignettes, and descriptions of fluency in Chapter 6 in part stem from the fluid shifts in these levels. The level of detail in Vignette 2 for example is a good indication of rapid shifts.
+
+GDPs are relevant in this process as they provide a tangible level of feedback in the most concrete level, and games provide high motivation to adjust code to get the result feeling just right (as seen in Chapter 6). For example the alternation between checking game level and debugging level in Vignette 2 data results from Toby wanting to get the positioning of the moving enemy correct and making several changes to achieve the desired behaviour.
+
+
+
 
 
 <!-- nd processes are present in data, but only when adults with relevant knowledge facilitator, either myself or parents, do point them out and during the process of code implementation. More implicit use of coding constructs is more common. -->
 
-GDPs are relevant in this process as they provide a tangible level of feedback in the most concrete level, and games provide high motivation to adjust code to get the result feeling just right (as seen in Chapter 6). For example the alternation between checking game level and debugging level in Vignette 2 data results from Toby wanting to get the positioning of the moving enemy correct and making several changes to achieve the desired behaviour.
 
 **Description of impact of blackboxing on semantic profile of learners**
 
@@ -366,6 +369,9 @@ One framing of this approach is that over-scaffolding here deprives learners or 
 WHERE IS MY JUSTIFICATION?
 
 HOW TO PHRASE THIS CORRECTLY BELOW.
+
+The semantic profile of Figure 7.x above can be aligned with the description of Papert and Turkle's [@papert_epistemological_1990] bricoleur maker styles. The data of Chapter 5 details the development of a learning pedagogy which aligns primarily to the more concrete applied approach as a way of ameliorating barriers of conceptual complexity. Observations show most participants operating as bricoleurs, feeling their way through their game-making via smaller-scale iterations rather than extensive periods of planning followed by implementation.
+
 
 Given the limits of bricolage approach in exploration of more abstract concepts, is it of value to ask how if the learning design is at odds with previously explored advocacy for alternating between abstract and concrete dimensions in semantic waves[@curzon_using_2020], and LOA research [@waite_abstraction_2018]. For example, The close coupling between design and code structure levels in my design may not align with LOA principles given the statement from Waite and colleagues [@waite_abstraction_2018-1, p.21] that "1:1 mapping between the design/algorithm and the code may lead to confusion between the levels".  Given that lack of explicit teaching of either LOA or more abstract concepts in my bricolage-like approach, it is likely participants would not be aware of the level at they are working.  In addition, while systems concepts are being explored concrete level they are not surfaced explicitly in this learning design. It follows that the authors would cite this as problematic limitation in approach or at the least missed opportunities to _unpack and repack_ concepts.
 
