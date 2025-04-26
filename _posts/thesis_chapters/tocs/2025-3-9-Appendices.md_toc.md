@@ -7,6 +7,10 @@
         -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
         -   [Interview.3 - Maggie and
             Toby](#interview.3---maggie-and-toby)
+            -   [Interview.4.a](#interview.4.a)
+            -   [Other extracts](#other-extracts)
+        -   [Interview.4 - Dan](#interview.4---dan)
+            -   [Interview.4.a](#interview.4.a-1)
         -   [App.7.fdb - Feedback
             Extracts](#app.7.fdb---feedback-extracts)
             -   [App.fdb.a - Susanna and Tehillah note on starting
@@ -31,7 +35,8 @@
             -   [What kind of Maker are you - Motivations behind social
                 processes (emerging in
                 playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
-            -   [Appendix.playtestingtypes](#appendix.playtestingtypes)
+            -   [Appendix.playtestingtypes (Ch.
+                7)](#appendix.playtestingtypes-ch.-7)
             -   [Commentary on side
                 missions](#commentary-on-side-missions)
         -   [Appendix.drama - Drama process
