@@ -63,17 +63,19 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
     -   [Part Three - Synthesising and reframing the findings of this
         research for a broad
         audience](#part-three---synthesising-and-reframing-the-findings-of-this-research-for-a-broad-audience)
-        -   [What is relational agency and why should it be
-            facilitated](#what-is-relational-agency-and-why-should-it-be-facilitated)
-        -   [Narrative descriptive of a proposed procedure for
-            facilitation relational agency by repertoire blending
-            (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
+        -   [How can varied dimensions of agency be identified and
+            nurtured in an evolving community of game
+            makers?](#how-can-varied-dimensions-of-agency-be-identified-and-nurtured-in-an-evolving-community-of-game-makers)
+            -   [Narrative descriptive of a proposed procedure for
+                facilitation relational agency by repertoire blending
+                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
+    -   [Conclusion](#conclusion)
         -   [Representing the use of REEPP, RARB and the use of GDPs
-            within a pedagogical
-            framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
+            within a pedagogical framework (addressing
+            RQP)](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework-addressing-rqp)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
@@ -81,7 +83,8 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Jamming on the Titanic](#jamming-on-the-titanic)
             -   [Addressing both metaphors](#addressing-both-metaphors)
-    -   [Conclusion](#conclusion)
+        -   [limitations/ further work](#limitations-further-work)
+    -   [Conclusion](#conclusion-1)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
@@ -104,17 +107,17 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
         -   [MOVED FROM CHAPTER 6](#moved-from-chapter-6)
 
-# Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
+# Discussion chapter    
 
-## Research Questions April 2025
+## Research Questions May 2025
 
-**Principle question:** How can research on and pedagogies to support CGD&P be enriched using socio-cultural approaches?
+- **Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P (experiences?) be enriched using socio-cultural approaches?
 
-1. What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
+- **Sub-question 1 (RQ1):** What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
 
-2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
+- **Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 
-3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design)
+- **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
 
 
 <!-- Principle question: How can understandings of pedagogies to support CGD&P be deepened using socio-cultural perspectives?  
@@ -157,24 +160,33 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 ## Introduction
 
-PURPOSE & GAPS - ADD IN EACH SECTION.
+<!-- PURPOSE & GAPS - ADD IN EACH SECTION. -->
 
 This chapter deepens the analysis and discussion on RQ2 regarding the potential uses of gameplay design patterns (GDP) and concludes with an analysis and discussion on RQ3, addressing reflections on participant agency.
 
 To begin, this chapter discusses the findings of Chapter 6 on the uses of gameplay design patterns (GDP)  in relation to existing research on programming pedagogies. It specifically addresses the complexities of the abstract and concrete dimensions of computing education using a concept of gameplay design patterns as an gateway construct.  
 
-Part two examines the broader empowerment-related motivations driving this study. The goal here is to address gaps in the existing landscape of CGD&P research via an application of socio-cultural conceptions of agency. To begin this process, I undertake an interpretation of shifting forms of agency grounded in the data explored in the last chapter.
+Part two examines the broader empowerment-related motivations driving this study. The goal here is to address gaps in the existing landscape of CGD&P research via an application of socio-cultural conceptions of agency.
 
-<!-- The purpose here is to ground this discussion of the study's emergent cultural and interpersonal activity within the context of ongoing explorations into theoretical and practical applications of agency in socio-cultural research circles.  -->
+To begin this process, I undertake an interpretation of shifting forms of agency grounded in the data explored in the last chapter.
 
-To achieve this, I begin with an exploration of the study’s findings in relation to instrumental and transformative agency and the concept of mediation in CHAT.
+To achieve this, I begin with an exploration of the study’s findings in relation to instrumental, transformative, and relational agency.
 
-As a way to address cultural development in more depth, particularly the development of learner identities within the research activities, I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires.
+As a way to address cultural development in more depth,  I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires.
 
-To do this the findings of this research are framed within three stages of a described process  of relational agency by repertoire blending.
+To do this the findings of this research are framed within a staged  process of agency formation through the importation and hybridisation of diverse cultural and technical repertoires.
 
 Following a final section addresses summarises findings for a broad audience.
+
 Firstly via a table listing the characteristics of the design within
+
+A three stages pedagogical model of building relational agency and repertoire  of a described process of relational agency by repertoire blending.
+
+
+
+An summative overview of the pedagogy of tihs study
+
+
 
 This is followed by an exploration of metaphors that synthesise significant features of the learning design which influence dimensions of agency.
 
@@ -1220,28 +1232,6 @@ The role of the emerging culture and identity of the idioculture  is developed i
 - the impact / if any of the social missions and player types to help the development of learner identities.
 - the emergence and nurturing of flexible and complex design behaviours (beyond player types) -->
 
-## Conclusion
-
-<!-- NOTE - As this chapter is ongoing this conclusion is in draft form. Feedback on what to include in this chapter conclusion is welcome. -->
-
-This conclusion begins with a narrative recap on how the RQs have been answered in each section and concludes with a summary of some of the limitations and questions arising that are addressed in the following chapter.
-
-This section quickly returns to the RQs to rexamine to how they have been answered, dealing first with the sub questions before returning to the principle RQ.
-
-RQ1 was addressed via a discussion in Chapter 2, developed in relation to the specifics of the research process in Chapter 5.
-
-RQ2, was addressed by findings in Chapter 6 and has been discussed in more depth in this chapter culminating in the description of the hybrid pedagogical process outlined above.  
-
-MOVE THIS BIT OR SUMMARISE MORE
-GDPs are particularly helpful in participant goal formation, as explored in Chapter 6 in the sections on ideation and prioritisation. GDPs also help with the division of labour between collaborators, which is relevant here as when tackling more abstract processes, concepts, and terminology, these roles are often taken on by a more competent partner.
-
-
-**limitations/ further work**
-
-This work invites exploration of related issues of
-- inclusion as a lens
-
-The final chapters aims to address this with  recommendations for facilitators and researchers. The scope of the applicability is addressed as the findings of this thesis can inform the wider debate of how to best support project based learning in wider domains. Specifically the use of concrete design frameworks and step-based iterative project in scaffolding PBL.
 
 
 <!-- Chapter four outlined a design narrative where tools were chosen and adapted by myself and Participants in response to local context. Chapter five explored the emerging organisational unit of GDPs, and how they were used as meditational strategies.   -->

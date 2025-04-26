@@ -52,17 +52,18 @@
     -   [Part Three - Synthesising and reframing the findings of this
         research for a broad
         audience](#part-three---synthesising-and-reframing-the-findings-of-this-research-for-a-broad-audience)
-        -   [What is relational agency and why should it be
-            facilitated](#what-is-relational-agency-and-why-should-it-be-facilitated)
-        -   [Narrative descriptive of a proposed procedure for
-            facilitation relational agency by repertoire blending
-            (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
+        -   [How can varied dimensions of agency be identified and
+            nurtured in an evolving community of game
+            makers?](#how-can-varied-dimensions-of-agency-be-identified-and-nurtured-in-an-evolving-community-of-game-makers)
+            -   [Narrative descriptive of a proposed procedure for
+                facilitation relational agency by repertoire blending
+                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
         -   [Representing the use of REEPP, RARB and the use of GDPs
-            within a pedagogical
-            framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
+            within a pedagogical framework (addressing
+            RQP)](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework-addressing-rqp)
         -   [Metaphors as a way to communication dimensions of agency
             design
             concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
@@ -70,7 +71,8 @@
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Jamming on the Titanic](#jamming-on-the-titanic)
             -   [Addressing both metaphors](#addressing-both-metaphors)
-    -   [Conclusion](#conclusion)
+        -   [Conclusion](#conclusion)
+            -   [limitations/ further work](#limitations-further-work)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
