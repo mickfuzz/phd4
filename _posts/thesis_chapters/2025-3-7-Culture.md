@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency
+title: 7. Discussion
 ---
 -   [Seeding and Nurturing Community Game Making Practices to Facilitate
     Learner
@@ -19,24 +19,23 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
         -   [Conceptions of abstraction in the research
             field](#conceptions-of-abstraction-in-the-research-field)
-        -   [Comparing to pedagogies explicitly teaching abstraction,
-            computational thinking and
-            LOA](#comparing-to-pedagogies-explicitly-teaching-abstraction-computational-thinking-and-loa)
-            -   [CT - gradations](#ct---gradations)
-            -   [Exploring data using concepts of Levels of Abstraction
-                (LOA) &
-                PRIMM](#exploring-data-using-concepts-of-levels-of-abstraction-loa-primm)
-            -   [Reframing GDPs from intermediate-level concept or
-                gateway
-                concept](#reframing-gdps-from-intermediate-level-concept-or-gateway-concept)
+        -   [Exploring findings in relation to existing
+            pedagogies](#exploring-findings-in-relation-to-existing-pedagogies)
+            -   [Computational thinking and
+                bricolage](#computational-thinking-and-bricolage)
+            -   [Exploring findings using concepts of semantic profiles,
+                LOA, &
+                PRIMM](#exploring-findings-using-concepts-of-semantic-profiles-loa-primm)
+            -   [Interpreting GDPs as both intermediate-level knowledge
+                and as a gateway pedagogical
+                concept](#interpreting-gdps-as-both-intermediate-level-knowledge-and-as-a-gateway-pedagogical-concept)
         -   [Summary of structural components of applied pedagogy -
             REEPP](#summary-of-structural-components-of-applied-pedagogy---reepp)
     -   [Part Two - Agency, and re-mediation of repertoires in third
         spaces](#part-two---agency-and-re-mediation-of-repertoires-in-third-spaces)
-        -   [Agency](#agency)
-            -   [Instrumental and transformational
-                agency](#instrumental-and-transformational-agency)
-            -   [Relational agency](#relational-agency)
+        -   [Exploring the learning process of my finding using the lens
+            of transformations in
+            agency](#exploring-the-learning-process-of-my-finding-using-the-lens-of-transformations-in-agency)
         -   [Reframing findings using socio-cultural understandings of
             agency and repertoire
             blending](#reframing-findings-using-socio-cultural-understandings-of-agency-and-repertoire-blending)
@@ -45,9 +44,6 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
         -   [B - The process of blending of repertoires in the third
             space of this research (playtesting in
             particular)](#b---the-process-of-blending-of-repertoires-in-the-third-space-of-this-research-playtesting-in-particular)
-            -   [The sharing of specialism and proficiency via material
-                feedback and guided
-                participation](#the-sharing-of-specialism-and-proficiency-via-material-feedback-and-guided-participation)
         -   [C - Supporting emerging identity formation and
             specialisation through interventions to support relational
             repertoire
@@ -67,23 +63,22 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             nurtured in an evolving community of game
             makers?](#how-can-varied-dimensions-of-agency-be-identified-and-nurtured-in-an-evolving-community-of-game-makers)
             -   [Narrative descriptive of a proposed procedure for
-                facilitation relational agency by repertoire blending
-                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitation-relational-agency-by-repertoire-blending-rarb)
+                facilitating relational agency by repertoire blending
+                (RARB)](#narrative-descriptive-of-a-proposed-procedure-for-facilitating-relational-agency-by-repertoire-blending-rarb)
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
         -   [Representing the use of REEPP, RARB and the use of GDPs
-            within a pedagogical framework (addressing
-            RQP)](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework-addressing-rqp)
-        -   [Metaphors as a way to communication dimensions of agency
-            design
-            concerns](#metaphors-as-a-way-to-communication-dimensions-of-agency-design-concerns)
+            within a pedagogical
+            framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
+        -   [Metaphors as a way to communicate dimensions of agency and
+            related design
+            concerns](#metaphors-as-a-way-to-communicate-dimensions-of-agency-and-related-design-concerns)
             -   [Harbours as both protective and
                 authentic](#harbours-as-both-protective-and-authentic)
             -   [Jamming on the Titanic](#jamming-on-the-titanic)
             -   [Addressing both metaphors](#addressing-both-metaphors)
         -   [Conclusion](#conclusion)
-            -   [limitations/ further work](#limitations-further-work)
     -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
         -   [On planned and emergent
             activity)](#on-planned-and-emergent-activity)
@@ -106,7 +101,7 @@ title: 7. Seeding and Nurturing Community Game Making Practices to Facilitate Le
             concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
         -   [MOVED FROM CHAPTER 6](#moved-from-chapter-6)
 
-# Seeding and Nurturing Community Game Making Practices to Facilitate Learner Agency   
+# Discussion
 
 
 ## Research Questions April 2025

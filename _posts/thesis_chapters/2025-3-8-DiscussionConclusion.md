@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-cite-them-right # pre-fill the style
 layout: post
 categories: chapter
-title:  Discursive Conclusion
+title: Conclusions
 ---
 
 
@@ -153,13 +153,8 @@ The 3M model as a pedagogical model which aligns with PBL principles and more ge
 A start here of mapping in a Matrix that could be included in a concluding chapter.
 https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit -->
 
-# Discursive Conclusion
+# Conclusions
 
-## Research Questions - March 2024
-
-1. What pedagogical tools and processes are available to support novices to overcome barriers to participation in game coding processes?
-2. How can game design patterns support the development of coding practices with novices?
-3. How can learners build agency in an evolving community of game makers?
 
 ## Outline notes
 
