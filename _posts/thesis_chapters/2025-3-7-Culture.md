@@ -154,28 +154,29 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 ## Introduction
 
-PURPOSE & GAPS - ADD IN EACH SECTION.
+This discussion chapter draws together the findings of previous chapters to deepen the analysis of the concepts explored and to synthesise observations into formulations that can be communicated in an accessible way. To begin, this chapter discusses the findings of Chapter 6 in relation to existing research on programming pedagogies. It specifically addresses the complexities of the abstract and concrete dimensions of computing education.
 
-This chapter deepens the analysis and discussion on RQ2 regarding the potential uses of gameplay design patterns (GDP) and concludes with an analysis and discussion on RQ3, addressing reflections on participant agency.
+The second section addresses gaps in the existing landscape related to social and cultural dimensions of CGD&P research through examining participants' development of agency via game making. To achieve this, I begin with an exploration of the study’s findings in relation to instrumental, transformative, and relational agency. I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires. To do this, the findings of this research are framed within three stages of a described process of relational agency by repertoire blending.
 
-To begin, this chapter discusses the findings of Chapter 6 on the uses of gameplay design patterns (GDP)  in relation to existing research on programming pedagogies. It specifically addresses the complexities of the abstract and concrete dimensions of computing education using a concept of gameplay design patterns as an gateway construct.  
+A final section summarises findings for a broad audience, addressing the characteristics of the design that support relational agency, a graphical representation of the development of agency, and an exploration of metaphors that synthesise significant features of the learning design.
 
-Part two examines the broader empowerment-related motivations driving this study. The goal here is to address gaps in the existing landscape of CGD&P research via an application of socio-cultural conceptions of agency. To begin this process, I undertake an interpretation of shifting forms of agency grounded in the data explored in the last chapter.
+<!-- As framework is developed via a utopian and utilitarian approach to design-based research and formative interventions. -->
 
 <!-- The purpose here is to ground this discussion of the study's emergent cultural and interpersonal activity within the context of ongoing explorations into theoretical and practical applications of agency in socio-cultural research circles.  -->
 
-To achieve this, I begin with an exploration of the study’s findings in relation to instrumental and transformative agency and the concept of mediation in CHAT.
 
-As a way to address cultural development in more depth, particularly the development of learner identities within the research activities, I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires.
 
-To do this the findings of this research are framed within three stages of a described process  of relational agency by repertoire blending.
+<!-- As a way to address cultural development in more depth, particularly the development of learner identities within the research activities,  -->
 
-Following a final section addresses summarises findings for a broad audience.
-Firstly via a table listing the characteristics of the design within
 
-This is followed by an exploration of metaphors that synthesise significant features of the learning design which influence dimensions of agency.
 
-As framework is developed via a utopian and utilitarian approach to design-based research and formative interventions. As such, it communicates insights  for equity and diversity via practical concerns to inform future recommendations for practice.  
+
+
+
+
+ <!-- As such, it communicates insights  for equity and diversity via practical concerns to inform future recommendations for practice.  
+
+deepens the analysis and discussion on RQ2 regarding the potential uses of gameplay design patterns (GDP) and concludes with an analysis and discussion on RQ3, addressing reflections on participant agency. -->
 
 
 <!-- However, it concludes with a proposed contribution suggesting that a collection of GDPs can help participants and facilitators as both as component features of emerging game making repertoires and as a orienting framework to increase the inclusive characteristics of the learning environment.   -->

@@ -160,6 +160,15 @@ title: 9. Appendices
 
 ## Interviews
 
+These interview extracts are presented sometimes with commentary and sometimes without as they are directly reference from commentary in chapters.
+
+### Interview.summaries
+
+#### Use of helping roles in Interview data.
+
+Mentioned in Chapter 7
+
+
 ### Interview.1 -   Madiha, Nasrin and Xavier
 
 #### Interview.1.a
@@ -169,14 +178,27 @@ title: 9. Appendices
 
 The involvement of Madiha in Nasrin's gaming
 
+#### Interview.1.b  
+
+The choices to explore issues of social media
+
+
 ### Interview.2 - Mark and Ed
 
+
+#### Interview.2.a  
+
 - The use of paper prototyping and then progression to digital sketching.
+The quick use of digital tools
+
+#### Interview.2.b  
+Choice to explore trains as a subject
 
 ### Interview.3 - Maggie and Toby
 
-#### Interview.4.a
+#### Interview.3.a
 
+Choice of home interests bee keeping
 
 #### Other extracts
 
@@ -528,6 +550,8 @@ in open world games are used in part to appeal to different kinds of players [@b
 <!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
 
 
+
+
 ### Appendix.learningmap - Tension emerging in the Learning Design regarding Computational Thinking concepts
 
 This appendix outlines the evolution of a map of learning dimensions which is referenced in Chapter 6. A section section contains reflections on the aspect of the learning design which suit curricular approaches to computing and computational thinking.
@@ -673,6 +697,12 @@ Also move some of the above down here.
 
 
 ### Appendix.digitalliteracy
+
+**Digital / Web Literacy**
+
+Belshaw?
+
+To integrate new gameplay design patterns or adapt existing ones in their games, participants needed to develop unfamiliar technical processes associated with computer coding, as well as foundational digital skills related to using a desktop personal computer. See Appendix: Digital Literacy for further details. One example of a skill developed by many participants was proficiency in keyboard and mouse use. Combined with the ability to navigate internet browser tabs, this facilitated movement between computer code, game prototypes, and supporting web-based documentation.
 
 The process of collating these skill aligned to curricular concepts above or those explored in computing research as desirable in a manageable list involved excluding a large number of relevant skills that were being developed as part of the game making activities. In particular key digital literacy and basic skills associated with using a desktop personal computer which were developed are listed below.
 
@@ -1023,6 +1053,7 @@ And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
 
 COPIED FROM GDP CHAPTER
 
+Additionally the key affordances of the learning design including the starting template code snippets and the resulting code patching process appear to encourage the creation of glitch errors (Appendix Debugging).
 
 **Solving / Debuggging code problems that responses are helped by the high level of context present in the use of GDP as a structural design framework.**
 
