@@ -108,7 +108,8 @@ title: 7. Discussion
 
 - **Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches (used in this study)?
 
-**Sub-question 1 (RQ1):** What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
+-
+  **Sub-question 1 (RQ1):** What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
 
 - **Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 
@@ -1006,7 +1007,7 @@ In Chapter 6 addressed RQ2 () via a summary table of the varied uses of GDPs -->
 
 Returning to address RQ3 directly, and the under-explored area of agency development in existing research in CGD&P, it is of value to re-examine and synthesise the characteristics of the learning design described using agency as a lens. Agency in this game making community is seen as multi-dimensional and as a process located in community participation rather than an individualised property. In this analysis the concept of relational agency represents an end point achieved through building on and incorporating processes of instrumental and transformative agency. It follows that it is advantageous to highlight relational agency as a guiding principle for varied stakeholders. For example, as an objective for participants to develop, for designers to design for, and facilitators to facilitate.
 
-This chapter has explored a process of developing relational agency via analysis of the findings that were framed via a staged approach to re-mediating existing repertoires into new repertoires and an emerging game making idioculture. To help conceptualise this goal and process I propose the term relational agency through repertoire blending (RARB). This term, based on the work of Gutiérrez and others [@gutierrez2020utopian; @stone_problem_2007], mirrors Sannino's [@sannino_principle_2015] concept of TADS (transformative agency by double stimulation). It is advanced with a motive to provide an accessible framing and a metaphorical structuring to a complex process.
+This chapter has explored a process of developing relational agency via analysis of the findings that were framed via a staged approach to re-mediating existing repertoires into new repertoires and an emerging game making idioculture. To help conceptualise this goal and process I propose the term relational agency through repertoire blending (RARB). This term, based on the work of Gutiérrez and others [@gutierrez2020utopian; @stone_problem_2007-2], mirrors Sannino's [@sannino_principle_2015] concept of TADS (transformative agency by double stimulation). It is advanced with a motive to provide an accessible framing and a metaphorical structuring to a complex process.
 
 <!-- - Stage One - Facilitating participants to import existing repertoires of practice
 - Stage Two - Engendering blending of repertoires
