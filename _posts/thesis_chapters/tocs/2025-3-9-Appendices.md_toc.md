@@ -1,16 +1,22 @@
 -   [Appendices](#appendices)
     -   [Interviews](#interviews)
+        -   [Interview.summaries](#interview.summaries)
+            -   [Use of helping roles in Interview
+                data.](#use-of-helping-roles-in-interview-data.)
         -   [Interview.1 - Madiha, Nasrin and
             Xavier](#interview.1---madiha-nasrin-and-xavier)
             -   [Interview.1.a](#interview.1.a)
             -   [Interview.1.b](#interview.1.b)
+            -   [Interview.1.b](#interview.1.b-1)
         -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
+            -   [Interview.2.a](#interview.2.a)
+            -   [Interview.2.b](#interview.2.b)
         -   [Interview.3 - Maggie and
             Toby](#interview.3---maggie-and-toby)
-            -   [Interview.4.a](#interview.4.a)
+            -   [Interview.3.a](#interview.3.a)
             -   [Other extracts](#other-extracts)
         -   [Interview.4 - Dan](#interview.4---dan)
-            -   [Interview.4.a](#interview.4.a-1)
+            -   [Interview.4.a](#interview.4.a)
         -   [App.7.fdb - Feedback
             Extracts](#app.7.fdb---feedback-extracts)
             -   [App.fdb.a - Susanna and Tehillah note on starting

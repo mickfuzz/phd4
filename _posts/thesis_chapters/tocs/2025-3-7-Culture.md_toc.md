@@ -26,23 +26,14 @@
         -   [Reframing findings using socio-cultural understandings of
             agency and repertoire
             blending](#reframing-findings-using-socio-cultural-understandings-of-agency-and-repertoire-blending)
-        -   [A - Repertoire importation into the the game making
-            community](#a---repertoire-importation-into-the-the-game-making-community)
-        -   [B - The process of blending of repertoires in the third
-            space of this research (playtesting in
-            particular)](#b---the-process-of-blending-of-repertoires-in-the-third-space-of-this-research-playtesting-in-particular)
-        -   [C - Supporting emerging identity formation and
-            specialisation through interventions to support relational
-            repertoire
-            blending](#c---supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
-            -   [Helping styles and
-                helpers](#helping-styles-and-helpers)
-            -   [The introduction of side missions & maker types to make
-                visible emerging repertoires as cultural affordances of
-                my pedagogy to increase and legitimise diversity /
-                hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
-            -   [Reflections on explicit
-                interventions](#reflections-on-explicit-interventions)
+        -   [Repertoire importation into the the game making
+            community](#repertoire-importation-into-the-the-game-making-community)
+        -   [The process of blending of repertoires in the third space
+            of this research (playtesting in
+            particular)](#the-process-of-blending-of-repertoires-in-the-third-space-of-this-research-playtesting-in-particular)
+        -   [Supporting emerging identity formation and specialisation
+            through interventions to support relational repertoire
+            blending](#supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
     -   [Part Three - Synthesising and reframing the findings of this
         research for a broad
         audience](#part-three---synthesising-and-reframing-the-findings-of-this-research-for-a-broad-audience)

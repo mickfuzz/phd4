@@ -9,9 +9,7 @@ layout: post
 categories: chapter
 title: 7. Discussion
 ---
--   [Seeding and Nurturing Community Game Making Practices to Facilitate
-    Learner
-    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
+-   [Discussion](#discussion)
     -   [Research Questions April 2025](#research-questions-april-2025)
     -   [Introduction](#introduction)
     -   [Part one - Exploring concepts of abstract and concrete
@@ -39,23 +37,14 @@ title: 7. Discussion
         -   [Reframing findings using socio-cultural understandings of
             agency and repertoire
             blending](#reframing-findings-using-socio-cultural-understandings-of-agency-and-repertoire-blending)
-        -   [A - Repertoire importation into the the game making
-            community](#a---repertoire-importation-into-the-the-game-making-community)
-        -   [B - The process of blending of repertoires in the third
-            space of this research (playtesting in
-            particular)](#b---the-process-of-blending-of-repertoires-in-the-third-space-of-this-research-playtesting-in-particular)
-        -   [C - Supporting emerging identity formation and
-            specialisation through interventions to support relational
-            repertoire
-            blending](#c---supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
-            -   [Helping styles and
-                helpers](#helping-styles-and-helpers)
-            -   [The introduction of side missions & maker types to make
-                visible emerging repertoires as cultural affordances of
-                my pedagogy to increase and legitimise diversity /
-                hybridity](#the-introduction-of-side-missions-maker-types-to-make-visible-emerging-repertoires-as-cultural-affordances-of-my-pedagogy-to-increase-and-legitimise-diversity-hybridity)
-            -   [Reflections on explicit
-                interventions](#reflections-on-explicit-interventions)
+        -   [Repertoire importation into the the game making
+            community](#repertoire-importation-into-the-the-game-making-community)
+        -   [The process of blending of repertoires in the third space
+            of this research (playtesting in
+            particular)](#the-process-of-blending-of-repertoires-in-the-third-space-of-this-research-playtesting-in-particular)
+        -   [Supporting emerging identity formation and specialisation
+            through interventions to support relational repertoire
+            blending](#supporting-emerging-identity-formation-and-specialisation-through-interventions-to-support-relational-repertoire-blending)
     -   [Part Three - Synthesising and reframing the findings of this
         research for a broad
         audience](#part-three---synthesising-and-reframing-the-findings-of-this-research-for-a-broad-audience)
@@ -208,7 +197,7 @@ This section synthesises findings learner agency in relation to existing concept
 
 This section explores these academic conceptions in a playful way using relatable metaphors from related research. The aim of this playful/relatable approach is to aid the situation of later recommendations for researchers and educators working in this area in an accessible way. -->
 
----
+
 
 ## Part one - Exploring concepts of abstract and concrete knowledge frameworks in relation to Game Design Patterns
 
@@ -479,6 +468,8 @@ The previous section has shown how, instead of explicit teaching of concepts, th
 | **P**rogressive | The processes involves progressive steps. In this case pattern recognition through exploration/play, quick start activities involving minimal changes with high impact on the project outcomes, using progressively more challenging documented patterns, finally implementing patterns without support |
 | **P**attern | The process has at its core the use of recognisable design patterns which are presented together with suggested design solutions and concrete code snippets. |
 | **P**atching | The authentic technical process of code patching accelerates production and creates errors suitable for debugging at a novice level. |
+
+Table Figure 7.x - REEPPP as a technical structure which synthesises key elements of the learning design
 
 This technical structure synthesises the use of a code playground, a game library, a half-baked game template, UMC pedagogy, and a collection of game design patterns. While similar approaches exist, this structural pedagogy is innovative in the way systemic tensions have been resolved and congruencies introduced.
 
@@ -792,7 +783,7 @@ with a wider aim of understanding and facilitating the development of agency and
 - analysis of additional activities helping the development of learner identities -->
 
 
-### A - Repertoire importation into the the game making community
+### Repertoire importation into the the game making community
 
 Following Gutiérrez's [-@gutierrez_developing_2008; -@gutierrez_learning_2019-1] concept of learning as movement between spaces, we can locate participant repertoires that are imported from other activity systems into an emerging third space of the game-making activity. To do this, this section draws primarily on interview data, which allows a greater precision in locating the repertoires as pre-existing in other settings rather than being rapidly developed in the new setting. Two key themes of imported repertoires emerged from the data: those involving funds of knowledge and those involving divisions of labour.
 
@@ -816,7 +807,7 @@ The purpose of this section is not an attempt to exhaustively list initial impor
 https://docs.google.com/spreadsheets/d/1EvMehUNHIGj0xRyrKgBxj5GwOGHwnTFw9EMBJ3Ot9Kc/edit?gid=1243995712#gid=1243995712 -->
 
 
-### B - The process of blending of repertoires in the third space of this research (playtesting in particular)
+### The process of blending of repertoires in the third space of this research (playtesting in particular)
 
 <!-- The process of new identity formation via repertoire blending is explored here via the concept of specialism. -->
 <!-- #### Playtesting as a suitable medium for emerging activities creating third spaces via blending of repertoires -->
@@ -869,7 +860,7 @@ FROM [@digiacomo_relational_2016-1, p.144]
 In doing so, the context created room for relational expertise (the capacity to recognize and respond to what others offer in local systems of distributed expertise) to be leveraged toward relational agency (the capacity for working with others to solve problems) in joint activit -->
 
 
-### C - Supporting emerging identity formation and specialisation through interventions to support relational repertoire blending
+### Supporting emerging identity formation and specialisation through interventions to support relational repertoire blending
 
 While the previous examples have focused on relational agency between participants, the role of the designer and facilitators are also relevant. My recognising and valuing the emerging areas of specialisation and expertise, both technical and social in nature, helped the development of diverse practices. Specifically, the responsive design revisions outlined in the first part of this chapter help keep the games in progress in a working state and more time devoted to open playtesting helped reinforce and support the diverse practices of social feedback in playtesting. I reflected on the possibility that the success of some participants in drawing on imported repertoire could be encouraged or accelerated in others if suitable affordances be added to the learning environment. This is explored in this section via reflection the roles of supporting helpers and the facilitator interventions of side missions.
 
@@ -879,9 +870,7 @@ While the previous examples have focused on relational agency between participan
 
 <!-- NOTE AND the additional motivations flowing into this system from other activity systems. HOW AND WHY? MOTIVATIONS IN PARTICULAR? -->
 
-#### Helping styles and helpers
-
-In phases 2 and 3, I asked students to circulate during making time as a way of replicating some of the features of playtesting with a smaller disruption to game programming time. While it is important to acknowledge the importance of the role of student helpers in the formation of relational agency, given the wealth of existing research on this subject in similar settings [@kafai_mentoring_2008; @roque_family_2016; @roque_im_2016; @barron_parents_2009; @stone_problem_2007-2], only a brief summary of activity is included here. I asked helpers to identify and bring to my attention coding blocks which were preventing participants from progressing, thus overcoming some parent's unwillingness to make demands on facilitator time. Student helpers were asked to prompt descriptive reflection by asking participants what features they were working on and to notice and reflect on any distinctive behaviours emerging in participants' product or practice (see Vignette 1). This parallels a similar study by Stone and Gutiérrez [-@stone_problem_2007-2, p.51] where student helpers highlighted emerging "zones of competency" of learner's identities and relational expertise. Student helpers also communicated to participants innovations in practice made by peers, thus amplifying this relational expertise and the increasing overall possibility of relational agency.
+The role of supporting student helpers and their helping styles took on a important role in the process of repertoire blending. In phases 2 and 3, I asked students to circulate during making time as a way of replicating some of the features of playtesting with a smaller disruption to game programming time. While it is important to acknowledge the importance of the role of student helpers in the formation of relational agency, given the wealth of existing research on this subject in similar settings [@kafai_mentoring_2008; @roque_family_2016; @roque_im_2016; @barron_parents_2009; @stone_problem_2007-2], only a brief summary of activity is included here. I asked helpers to identify and bring to my attention coding blocks which were preventing participants from progressing, thus overcoming some parent's unwillingness to make demands on facilitator time. Student helpers were asked to prompt descriptive reflection by asking participants what features they were working on and to notice and reflect on any distinctive behaviours emerging in participants' product or practice (see Vignette 1). This parallels a similar study by Stone and Gutiérrez [-@stone_problem_2007-2, p.51] where student helpers highlighted emerging "zones of competency" of learner's identities and relational expertise. Student helpers also communicated to participants innovations in practice made by peers, thus amplifying this relational expertise and the increasing overall possibility of relational agency.
 
 
 <!-- Roque [@roque_family_2016; @roque_im_2016] employed Barron's helping roles [@barron_parents_2009] in guidance for supporting facilitators to highlight and celebrate the helping processes parents used to support children in a making environment. -->
@@ -895,19 +884,14 @@ MOVE? Beyond this, students also gave feedback between playtestings sessions, co
 
 Especially in the potential to replicate family supportive behaviours with non-expert facilitators in a volunteering settings, specifically with bespoke guidance to support game making. -->
 
-#### The introduction of side missions & maker types to make visible emerging repertoires as cultural affordances of my pedagogy to increase and legitimise diversity / hybridity
 
-Turning to address two more explicit interventions in P2 and P3 which aimed to accelerate the process of relational expertise and repertoire blending. This section is also limited in scope but for a different reason. While there are novel and promising elements here which synthesise the helping roles described above with elements of drama practice and mantle of the expert, a detailed exploration would take this thesis in a different direction.
-
-From observation of the emerging specialism and identities explored above, I created a working typology of participant approaches to playtesting and game making approaches. This grouping became a topic of reflection via a playful game exploring Bartle's player types. Subsequently, to support these *maker styles*, I created a selection of side missions and presented these together with a wider mission within a drama frame (see Appendix .makertypes for a fuller description and participant feedback on the process via interview data).
+The introduction of side missions and maker types made visible emerging repertoires as cultural affordances in a way which increased and legitimised diversity. Turning to address two more explicit interventions in P2 and P3 which aimed to accelerate the process of relational expertise and repertoire blending. This section is also limited in scope but for a different reason. While there are novel and promising elements here which synthesise the helping roles described above with elements of drama practice and mantle of the expert, a detailed exploration would take this thesis in a different direction. From observation of the emerging specialism and identities explored above, I created a working typology of participant approaches to playtesting and game making approaches. This grouping became a topic of reflection via a playful game exploring Bartle's player types. Subsequently, to support these *maker styles*, I created a selection of side missions and presented these together with a wider mission within a drama frame (see Appendix .makertypes for a fuller description and participant feedback on the process via interview data).
 
 In interview data participants shared their positive feelings towards both the shared fictional frame of making a game for an audience of judgemental aliens, and the social and mischievousness of the social missions within that drama. The value of the drama narrative and side missions aligns with work on play theory as a technique giving participants *permission to play* [@walsh_giving_2019], legitimising the previously peripheral activities and bringing them into the shared conceptions of the idioculture. The recognition of the hybridity of possible modes of participation increases conceptions of enacted diversity of the community.
 
-#### Reflections on explicit interventions
-
 This strand of thought invites a theoretical examination of the particular value of identity formation via the blending of repertoires of play and design approaches. The role of play as a leading activity is explored by Gutierrez [@gutierrez_learning_2019-1] to facilitate movement between sites of learning. The invitation to play can be seen as a familiar affordance leading to more unfamiliar territory. A helping process in blending through opening a door to a new collaborative zone of proximal development.
 
-THIS NEEDS A BIT MORE DEVEOPMENT.
+COMMENT - THIS WOULD NEEDS A BIT MORE DEVELOPMENT.
 
 <!-- While Roque's  
 [@roque_family_2016; @roque_im_2016] interventions focused on supporting the helping repertoires of parents, I intoduced activities to develop identity development for all participants, with a similar aim to engender a feeling of domain competency. -->
@@ -1071,15 +1055,15 @@ The following section begins with a summary of how and where the research questi
 
 RQ1 was answered via the design narrative in Chapter 5 which contained analysis using CHAT concepts to examine three key areas of contradiction in the evolving research design. A summary table and discussion discussed the findings in relation to existing pedagogies explored in Chapter 2. The REEPPP approach outlined in part one of this chapter is in part a result of this line of questioning.
 
-- **Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
+**Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 
 RQ2 was addressed by findings in Chapter 6 via a summative table of different mediational and motivational uses of GDPs. An interpretation of the role of GDPs as a germ cell of game making activity and it has been discussed in more depth in this chapter. In addition, it has been used to inform analysis of the use of patterns within the technical structure of the REEPPP approach.
 
-- **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
+**Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
 
 RQ3 is addressed in part two of this chapter through the reinterpretation of cultural elements in the findings of Chapter 6 using concepts of third space, and repertoires.
 
-- **Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches (used in this study)?
+**Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches (used in this study)?
 
 All three questions contribute to address RQP. A fuller summary of this question will be addressed in Chapter 8 via a summary of contributions of this study. At this stage however, it is of value to return to the problem statement of the study in Chapter 2. In particular, one of the gaps in existing research concerned the process of communicating a holistic understanding of the learning design that evolved in the course of this research which is challenging. The following summary addresses this challenge by summarising the overall pedagogy, a product of the socio-cultural research methodology, via a summative description and graphical representation.
 
@@ -1087,9 +1071,7 @@ The structural element of the REEPP approach could be augmented with the socio-c
 
 ![Figure 7.x - A graphical representation of the inter-related elements of the of RARB ](./Pictures/ch_7_repertoires_dia_2.png){width=100%}
 
-There are some additions to the previous representation in Figure 7.x of GDPs as a gateway construct. The REEPP structural framework is added as a foundation of the pedagogy. The gateway role of GDPs to access more personal concepts and practices remains, but more social repertoires are represented within the initial stage of RARB (labelled importing of cultural repertoires). The process of relational agency by repertoire blending (RARB) is represented as a nexus of activity where re-mediation of other repertoires occurs and emerging, blended repertoires are represented as a product of that process. Finally, in this version, as a challenge to the convention of placing the abstract dimension at the top of the illustration, I reverse the polarity aligning with the CHAT concept of *rising to the concrete*.
-
-Recommendations on how this representation may be helpful for different stakeholders are present in a section in the concluding Chapter 8.
+There are some additions to the previous representation in Figure 7.x of GDPs as a gateway construct. The REEPP structural framework is added as a foundation of the pedagogy. The gateway role of GDPs to access more personal concepts and practices remains, but more social repertoires are represented within the initial stage of RARB (labelled importing of cultural repertoires). The process of relational agency by repertoire blending (RARB) is represented as a nexus of activity where re-mediation of other repertoires occurs and emerging, blended repertoires are represented as a product of that process. Finally, in this version, as a challenge to the convention of placing the abstract dimension at the top of the illustration, I reverse the polarity aligning with the CHAT concept of *rising to the concrete*. Recommendations on how this representation may be helpful for different stakeholders are present in a section in the concluding Chapter 8.
 
 <!-- I propose that providing a menu of GDPs can, as with accessing more abstract concepts, act as a framework to facilitate to process of development of social and cultural repertoires of practice. -->
 <!-- Abstract concepts are often positioned as higher in a spacial representation. This is present in semantic profiling diagrams above, in y example, and even the phrase top-down planning from Papert and Turkle in their challenging of this privileging of abstract approaches communicates an implied superiority of approach. By way of contrast, the Mark's  reverses this polarity. Similarly, -->
@@ -1162,6 +1144,8 @@ Parallels between the guiding frameworks advanced in this chapter and the metaph
 ### Conclusion
 
 <!-- NOTE - As this chapter is ongoing this conclusion is in draft form. Feedback on what to include in this chapter conclusion is welcome. -->
+
+THIS IS PLACEHOLDER FOR NOW UNTIL I KNOW WHAT EXACTLY IS IN THE CONCLUSION.
 
 This conclusion will contain a summary of some of the limitations and questions arising in this chapter that are addressed in the following chapter.
 
