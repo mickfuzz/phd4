@@ -367,7 +367,7 @@ An additional limitation in constructionism approach to digital making in varied
 One concept of promise, aligned with is that of fluency
 which is described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018].
 
-The guiding principle unifying these terms is being self expression & the following are relevant. 
+The guiding principle unifying these terms is being self expression & the following are relevant.
 
 - via instrumental coding competency needed to make changes effectively with or without supporting documentation
 - from a as a read / write perspective, learners should be able to write as well as read programs as a form of empowerment [@resnick2002rethinking]
@@ -1663,6 +1663,8 @@ The practices of code patching and remixing are authentic skills used by profess
 A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity.
 
 In 2011 I co-wrote an open web collaboratively with other authors as part of a collaborative writing process called Book Sprint (model on code sprints and other corroborative  processes). One of the co-writer Michelle Thorne went on to work with Mozilla as part of their teach the web and web literacy programme. One of her posts is a good illustration of the kinds of activities drawing on home interests to explore authentic web technologies, and some of the digital literacy elements needed to be an effective citizen of the web. https://michellethorne.cc/2015/03/clubs-web-literacy-basics-curriculum/
+
+ADD IN HERE WHAT IS WEB LITERACY AND DIFFERENT FROM DIGITAL LIT . 
 
 The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled my own early experiences of self-expression through hacking a new technology.
 

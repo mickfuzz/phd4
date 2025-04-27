@@ -1,6 +1,4 @@
--   [Seeding and Nurturing Community Game Making Practices to Facilitate
-    Learner
-    Agency](#seeding-and-nurturing-community-game-making-practices-to-facilitate-learner-agency)
+-   [Discussion](#discussion)
     -   [Research Questions April 2025](#research-questions-april-2025)
     -   [Introduction](#introduction)
     -   [Part one - Exploring concepts of abstract and concrete

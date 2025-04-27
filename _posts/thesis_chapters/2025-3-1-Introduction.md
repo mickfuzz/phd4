@@ -225,6 +225,8 @@ This was part of the narrative of Gove in 2014, it's all online, and while he wa
 
 One of the challenges of a foundation-based approach is the sustainability of the programs involved. One counter to this is using open source toolsets and a community based, and decentralised approach to creating resources.  
 
+ADD IN HERE WHAT IS WEB LITERACY AND DIFFERENT FROM DIGITAL LIT . SEE END OF LIT REVIEW 
+
 Mozilla, acted as a broker between the open source community, and community educators who all chipped in to create teach the web.
 
 A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of exploring web technology as an empowering activity. As part of their teach the web and web literacy programme, Mozilla created internet browser based tools to support of novices investigate and to remix HTML pages. They also created several online and real-life communities sharing activities drawing on home interests to explore authentic web technologies, and the digital literacy elements needed to be an effective citizen. [@thorne_clubs_2015].
