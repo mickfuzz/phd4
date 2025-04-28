@@ -194,6 +194,34 @@ The quick use of digital tools
 #### Interview.2.b  
 Choice to explore trains as a subject
 
+Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project.
+
+
+Mick: (17-46) Can you tell me anytime that you felt like you bring your own identities or interests into what you were doing.
+Ma - Oh, definitely. Yeah.
+Mick: Let's ask Ed that as well.
+Mark: Yeah.
+Mick: Can you do feel like in making the games, you're able to bring your own interests or things that you related to into it?
+Ed: Yeah. The Fireman.
+Mark: Yeah, well, tell us about that game. Tell about your interests and stuff?
+Ed: A little fireman, he's going around collecting coal for this train. They lost it. But then there's sheeps on the line.map
+....
+Mark: What is your aspiration for your life?
+Ed: I wanna be a fireman (on a steam train).
+...
+Ed: I really like trains, since like I was very, very young.
+
+Mick: Do you think I mean, was that was that like something that helps you a little bit keep your interests go in for the game?
+Mark: I think it excited you to have to build a fireman sprite? Is that right?
+Ed: Yeah.
+Mark: and to have it train themed, didn't that like, keep your interest in the designing part of it up? Is that true?
+Ed:  Yeah.
+Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
+
+#### Interview.2.
+
+Plodding 
+
 ### Interview.3 - Maggie and Toby
 
 #### Interview.3.a
