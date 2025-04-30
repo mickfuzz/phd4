@@ -317,8 +317,11 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 
 This summary can be explored using conceptions of agency explored in previous chapters including instrumental, effortful and authorial agency. In particular the use of TADS and other conceptions of agency to shed light on the role of the designer /facilitator can be highlighted at this point.
 
+### Research Output - Conceptualisations of agency formation - RARB - relational agency through repertoire blending
 
-#### Research Output - Conceptualisations of forms of agency - in context
+The three stages of RARB - import, blend, extend (optional)
+
+#### Research Output - Conceptualisations of forms of agency - in context - MERGE UP
 
 THIS SHOULD BE DROPPED OR INTEGRATED TO ABOVE? CONCLUSION PERHAPS.
 
@@ -336,7 +339,9 @@ There is alignment with other research in terms of how
  - Challenges encountered by students in tool use can result in productive and creative responses in development of production cultures (explored later)
  - ideally emergent and producing a culture series of
 
- ##### The value of designing for shifting forms agency as a transferrable concepts.
+
+
+##### The value of designing for shifting forms agency as a transferrable concepts.  - MERGE UP
 
  <!--
  At this stage is relevant to return to issues of underlying  motivation driving participation as a way of making a link to existing research on digital making pedagogy.
