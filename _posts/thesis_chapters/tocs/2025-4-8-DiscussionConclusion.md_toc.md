@@ -21,9 +21,15 @@
                 particular](#research-output---a-pedagogy-aligned-with-inclusive-approaches-and-promising-for-neurodiversity-in-particular)
             -   [Evidence of evolution on design/ processes and learner
                 agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
+        -   [Research Output - Conceptualisations of agency formation -
+            RARB - relational agency through repertoire
+            blending](#research-output---conceptualisations-of-agency-formation---rarb---relational-agency-through-repertoire-blending)
             -   [Research Output - Conceptualisations of forms of
-                agency - in
-                context](#research-output---conceptualisations-of-forms-of-agency---in-context)
+                agency - in context - MERGE
+                UP](#research-output---conceptualisations-of-forms-of-agency---in-context---merge-up)
+                -   [The value of designing for shifting forms agency as
+                    a transferrable concepts. - MERGE
+                    UP](#the-value-of-designing-for-shifting-forms-agency-as-a-transferrable-concepts.---merge-up)
             -   [Specific 3M techniques through the lens of agency
                 (RQ3)](#specific-3m-techniques-through-the-lens-of-agency-rq3)
         -   [DBR / FI / SDBE processes to divining authentic
