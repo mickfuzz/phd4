@@ -29,8 +29,8 @@
             processing](#challenges-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
             -   [Screen Capture Processing](#screen-capture-processing)
-            -   [Learnings and recommendations on
-                processing](#learnings-and-recommendations-on-processing)
+            -   [Learnings and recommendations on processing - MERGE
+                UP](#learnings-and-recommendations-on-processing---merge-up)
     -   [Data Analysis](#data-analysis)
         -   [Overall table and rational of data
             analysis](#overall-table-and-rational-of-data-analysis)
@@ -38,30 +38,35 @@
             stage](#notes-to-allocate-to-a-stage)
             -   [Rational and approach of data analysis
                 -](#rational-and-approach-of-data-analysis--)
-        -   [Data Analysis Stage One](#data-analysis-stage-one)
+        -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
             -   [Practitioner interviews](#practitioner-interviews)
             -   [S1 Video analysis](#s1-video-analysis)
             -   [3 planes approach - noting tensions and
                 behaviours](#planes-approach---noting-tensions-and-behaviours)
-        -   [S1 Use of journal data](#s1-use-of-journal-data)
-        -   [Data Analysis Stage Two](#data-analysis-stage-two)
-            -   [S2 Video analysis - Transcription/description of
-                data](#s2-video-analysis---transcriptiondescription-of-data)
-            -   [S2 Video analysis - first pass of thematic analysis /
-                coding](#s2-video-analysis---first-pass-of-thematic-analysis-coding)
-                -   [Coding Design Cycle Stages & MDA / GDP
-                    framework](#coding-design-cycle-stages-mda-gdp-framework)
-        -   [Final coding scheme (but this is stage
-            4)](#final-coding-scheme-but-this-is-stage-4)
-            -   [Coding Participant Roles and
-                Interactions.](#coding-participant-roles-and-interactions.)
-            -   [Selection of vignettes for deeper
-                analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [Use of journal data](#use-of-journal-data)
+        -   [S2 (stage two) data analysis](#s2-stage-two-data-analysis)
+            -   [Video analysis - Transcription/description of
+                data](#video-analysis---transcriptiondescription-of-data)
+                -   [Selection of vignettes for deeper
+                    analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [Video analysis - first pass of thematic analysis /
+                coding](#video-analysis---first-pass-of-thematic-analysis-coding)
+                -   [Coding Participant Roles and
+                    Interactions.](#coding-participant-roles-and-interactions.)
             -   [Analysis of the evolution of the programme resources
-                created](#analysis-of-the-evolution-of-the-programme-resources-created)
-        -   [Data Analysis Stage Three](#data-analysis-stage-three)
-            -   [Final coding schema for thematic
-                analysis](#final-coding-schema-for-thematic-analysis)
+                created - THIS ISN'T REALLY A
+                SECTION?](#analysis-of-the-evolution-of-the-programme-resources-created---this-isnt-really-a-section)
+        -   [S3 (stage three) data
+            analysis](#s3-stage-three-data-analysis)
+            -   [Original plan for Stage 3](#original-plan-for-stage-3)
+            -   [Revisiting the research questions based on the
+                evolution of the learning design. - REALLY EDIT
+                DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
+                -   [RQ2 - Shift from family impact to broader
+                    quetions](#rq2---shift-from-family-impact-to-broader-quetions)
+        -   [S3 thematic analysis - not via coding but via
+            examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
+            -   [The theme of use of GDPs](#the-theme-of-use-of-gdps)
             -   [A revised processes of thematic
                 analysis](#a-revised-processes-of-thematic-analysis)
                 -   [Coding use of GDPs as mediational
@@ -73,11 +78,6 @@
                 data](#on-final-transcriptiondescription-of-data)
         -   [Use of Interview data](#use-of-interview-data)
             -   [Participant interviews](#participant-interviews)
-    -   [Revisiting the research questions based on the evolution of the
-        learning
-        design.](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.)
-        -   [RQ2 - Shift from family impact to broader
-            quetions](#rq2---shift-from-family-impact-to-broader-quetions)
             -   [What research questions are answered by what data
                 gathering and analysis processes and
                 stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)

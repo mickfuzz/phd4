@@ -4,7 +4,7 @@ zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
-  csl-style: harvard-manchester-metropolitan-university # pre-fill the style
+#  csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
 title: 2. Literature Review
@@ -363,24 +363,6 @@ Vossoughi and other researchers also highlight political and social concerns ass
 [@thumlert2018learning; @vossoughi_making_2016]. They argue that a constructionist approach can implicitly favour coding as a pathway to joining the computer programming industry and developing employability skills in young people. Thumlert and colleagues caution against the appropriation of skills such as creativity and 'design thinking', which they argue are increasingly co-opted by market-driven agendas rather than being used for critical and emancipatory purposes [@thumlert2018learning, p.4]. They also warn that this positioning could lead to the integration of constructionist approaches into instruction-based models that are narrowly focused on curricular concerns, rather than fostering the development of computational fluency, which supports learners’ expression within a community [@thumlert2018learning].
 
 
-An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work.
-
-One concept of promise, aligned with is that of fluency
-which is described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018].
-
-The guiding principle unifying these terms is being self expression & the following are relevant.
-
-- via instrumental coding competency needed to make changes effectively with or without supporting documentation
-- from a as a read / write perspective, learners should be able to write as well as read programs as a form of empowerment [@resnick2002rethinking]
-- via expression of creative or significant ideas in constructing digital products  
-
-
-<!-- In Chapter  I propose that this aim of fluency can be profitably augmented using socio-cultural concepts of agency. -->
-
-
-Given the importance of more intentional pedagogical approaches in this area and the lack of detail in the reviews of CGD&P described above, the following sections will detail several key pedagogies used in this area.
-
-
 
 
 ### INTEGRATE ABOVE - Papert, Resnick & Constructionism and overlaps with in a socio-cultural approaches to pedagogy
@@ -402,7 +384,7 @@ Computational Fluency, as a concept while not explicitly included in the reviews
 
 
 
-#### (Why not use constructionism)
+#### (Why not use constructionism) - CHAPTER 3?
 
 Constructionism is a popular guiding theory in game making studies, illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, this section explains why I have chosen activity theory as a better fit for the aims of this thesis. I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
 
@@ -1127,13 +1109,13 @@ There is another gaps conceptually in a clarity in terms of what we are undertak
 MOVE LATER? A GAP?
 Given my particular interest in empowerment within technology education, one promising concept within relevant research is that of  fluency in constructionst reseach on digital making.
 
----
+
 PATCHED IN INTEGRATE
 As noted in Chapter 2 [@kafai_constructionist_2015]. Despite Papert's [@lodi_computational_2021] foundational focus on the community application of created projects continues in legacy of constructionism. For example, the articulation of Resnick on computational fluency, addresses the limitations of research focusing too narrowly on technical approaches and toolsets rather than their expressive potential (and thus within a community)  and focused on toolsets rather than pedagogies [@resnick_seeds_2020; @resnick_coding_2020].
 
 In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], but as explored in Chatper 2 this work is limited in scope and invites further exploration.
 
----
+
 
 In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 

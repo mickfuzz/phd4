@@ -21,8 +21,8 @@
             -   [Socio-cultural approaches within constructionism and
                 their
                 limits](#socio-cultural-approaches-within-constructionism-and-their-limits)
-            -   [(Why not use
-                constructionism)](#why-not-use-constructionism)
+            -   [(Why not use constructionism) - CHAPTER
+                3?](#why-not-use-constructionism---chapter-3)
         -   [Creative Family Learning - A constructionist case study in
             non-formal learning
             environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
@@ -85,21 +85,6 @@
             -   [Research Questions](#research-questions)
         -   [Link to the next chapter](#link-to-the-next-chapter)
     -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
-    -   [Barriers to participation in game making practices (explored in
-        contextual
-        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
-        -   [Institutional Barriers - related to UK School
-            context](#institutional-barriers---related-to-uk-school-context)
-        -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program)
-        -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
-        -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices)
-        -   [Outlining cultural barriers / aspects of game
-            making](#outlining-cultural-barriers-aspects-of-game-making)
     -   [Game making and coding and in schools and formal
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
