@@ -89,6 +89,7 @@ This thesis addresses the potential of self-expression and development of skills
 
 While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment. This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society.
 
+REFRAME AGENCY?
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers the practical process of learning to code, it also addresses aspects of game making that are more to do with the overall expressive value of digital media. To serve this exploration the concepts of computational fluency (one used within foundational CGD&P research) and agency are used as a guiding principle throughout the thesis.
 
 MOVE LATER?
@@ -120,11 +121,17 @@ Discussion around the launch of a new UK computing curriculum in 2013 championed
 
 ### Connecting my experience to broader research themes
 
-In this section, I outline how these experiences connect to broader research issues on PBL, media and game creation within informal learning environments. Drawing on learners' interests and creating authentic products is a foundational approach of PBL and is explored in game-making context in convincing research. My past aims surrounding empowerment and freedom of expression through DIY music events and protest culture align with broader movements that advocate equality of access to digital participatory culture. However, my experiences highlight the barriers to undertaking practical project-based learning (PBL) projects, particularly in a UK computing context, a theme which is explored further in the literature review. The process of being involved in short-term systemic change only to suffer later backlash has guided me to help others explore a more critical understanding of their own place within wider systems. This may seem tangential to the activities of participants studied in this research, however such processes of building agency in a fledgling community can be seen as important acts of community participation.
+In this section, I outline how these experiences connect to broader research issues on PBL, media and game creation within informal learning environments. Drawing on learners' interests and creating authentic products is a foundational approach of PBL and is explored in game-making context in convincing research. My past aims surrounding empowerment and freedom of expression through DIY music events and protest culture align with broader movements that advocate equality of access to digital participatory culture. The processes of building agency in a fledgling community can be seen as important acts of community participation.
+
+Improvisational and messy approaches in my previous work may seem chaotic, however, the process builds a collective understanding of the problem area among participants. This communal experience of transformative agency also has the potential to mitigate the unintended and unwelcome consequences 90 through rapid, responsive adjustment in the course of a project. In addition, I find Rogoff's reflection that initial first impressions of a 'chaotic' environment of learning in a community of learners are false impressions that stem from a lack of understanding of the underlying structure of activity [-@rogoff_developing_nodate, p. 219] useful. These aspects are explored in later chapters in reflections on design-based research.
+
+<!-- THIS I THINK IS NOT REALLY ADDRESSED IN THIS THESIS - THE LATTER PART IS ON AGENCY
+
+However, my experiences highlight the barriers to undertaking practical project-based learning (PBL) projects, particularly in a UK computing context, a theme which is explored further in the literature review. The process of being involved in short-term systemic change only to suffer later backlash has guided me to help others explore a more critical understanding of their own place within wider systems.  -->
 
 <!-- A special issue of Mind and Culture [@kajamaa_young_2019] focuses on young people, digital mediation, and transformative agency. This theme is explored by RQ3 and becomes the guiding principle of Chapter 7. -->
 
-Improvisational and messy approaches in my previous work may seem chaotic, however, the process builds a collective understanding of the problem area among participants. This communal experience of transformative agency also has the potential to mitigate the unintended and unwelcome consequences through rapid, responsive adjustment in the course of a project. In addition, I find Rogoff's reflection that initial first impressions of a 'chaotic' environment of learning in a community of learners are false impressions that stem from a lack of understanding of the underlying structure of activity [-@rogoff_developing_nodate, p. 219] useful. These aspects are explored in later chapters in reflections on design-based research.  
+
 
 <!-- Rogoff reflection on the seemingly chaotic processes happening in a community of learners [].   -->
 
@@ -133,9 +140,21 @@ Improvisational and messy approaches in my previous work may seem chaotic, howev
 The process aligns with mutuality of design work and acknowledgement that while the process can seem a bit sketchy the results which incorporate ideas from diverse participants, also build a collective understanding of the problem area among participants which is as valuable as the proposed solution. It can also avoid unforeseen consequences by a more rapid adjustment in the course of a project. -->
 
 
-## 2. Context
+## 2. Context / Background
 
-This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home-educating families attending a series of game-making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section begins to situate this research within key contextual themes. A more detailed exploration continues in the literature review of Chapter 2.
+This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home-educating families attending a series of game-making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section situates this research within key contextual themes.
+
+<!-- A more detailed exploration continues in the literature review of Chapter 2. -->
+
+
+### Context of game making and wider digital making and culture home and informal settings
+
+
+
+
+The affordable, compact, and hackable Raspberry Pi computer has opened new avenues for physical computing using the accessible Python language. In early 2013, MIT released Scratch 2.0, a block-coding tool for beginners, featuring an online editor and enhanced community interaction, including project remixing. Educators have adapted creative 'sandbox' games like Minecraft to develop design skills in a playful environment. Other accessible hardware, such as Makey Makey and Microbit, combine web-based block coding with simple physical computing. For more advanced learners, free web-based courses on authentic, text-based programming languages like Python and JavaScript  added interactive elements to scaffold and motivate the acquisition of coding concepts and practical coding skills. A notable example is Code Academy.
+
+These tools and practices were mostly free both in terms of cost and through the use of open copyright licences, a characteristic that contributed to their widespread success adoption. The engagement of many teachers and enthusiastic volunteers in these initiatives these is documented the proliferation of videos, blog posts, and other resources sharing novel practice. This ground swell of community activity contributed to the already active Maker Movement ,as illustrated by events like Liverpool MakeFest which and Raspberry Jam events. These grassroots events brought together teachers, professionals, young people and their families to engage with diverse new technologies in playful, empowering and technically challenging ways.
 
 ### Context of game making within school-based computing education
 
@@ -147,12 +166,9 @@ The changing shape of provision on UK digital-focused education in schools can b
 
 A recent report by Kemp and colleagues [@kemp_considerations_2024] on the future of computing education confirms some of these initial concerns about the 2013 computing curriculum and related exams. The report outlines the disparity and dropping numbers in the uptake of digital-related qualifications. A previous report, "After the Reboot" [@waite_pedagogy_2017], found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at the GCSE level, in part due to cultural barriers and the relative difficulty of the subject. The review highlighted several areas of promise that needed more research that are relevant to this study including: game making as a way of increasing engagement in coding, use of design patterns to scaffold coding processes, and a greater focus on social and cultural aspects of coding. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain. These factors have led may practitioners and researchers to investigate game making in more informal settings.
 
-### Context of game making and wider digital making and culture home and informal settings
+MOVED INTEGRATE UP
+The contextual challenges in UK computing education outline above contrast with the positive developments in digital making, specifically through new software and hardware. The decline in participation in digital qualifications after curriculum changes highlights a mismatch between the curriculum and the opportunities provided by recent advancements.
 
-
-The contextual challenges in UK computing education outline above contrast with the positive developments in digital making, specifically through new software and hardware. The decline in participation in digital qualifications after curriculum changes highlights a mismatch between the curriculum and the opportunities provided by recent advancements. The affordable, compact, and hackable Raspberry Pi computer has opened new avenues for physical computing using the accessible Python language. In early 2013, MIT released Scratch 2.0, a block-coding tool for beginners, featuring an online editor and enhanced community interaction, including project remixing. Educators have adapted creative 'sandbox' games like Minecraft to develop design skills in a playful environment. Other accessible hardware, such as Makey Makey and Microbit, combine web-based block coding with simple physical computing. For more advanced learners, free web-based courses on authentic, text-based programming languages like Python and JavaScript  added interactive elements to scaffold and motivate the acquisition of coding concepts and practical coding skills. A notable example is Code Academy.
-
-These tools and practices were mostly free both in terms of cost and through the use of open copyright licences, a characteristic that contributed to their widespread success adoption. The engagement of many teachers and enthusiastic volunteers in these initiatives these is documented the proliferation of videos, blog posts, and other resources sharing novel practice. This ground swell of community activity contributed to the already active Maker Movement ,as illustrated by events like Liverpool MakeFest which and Raspberry Jam events. These grassroots events brought together teachers, professionals, young people and their families to engage with diverse new technologies in playful, empowering and technically challenging ways.
 
 <!-- NOTE - DEVELOP -
 The value of these informal spaces and approaches -->
@@ -165,21 +181,23 @@ The value of these informal spaces and approaches -->
 - Other online tools for learning programming like Code Academy, interactive, and effective. Including the use of Code playgrounds, simplifying
 - Minecraft, a sandbox game, educational potential, and an online community -->
 
-#### Home education settings as a site of research
+#### (Family) Home education settings as a site of research
+
+NOTES - could also link with after school club as a similar site. And the value of third spaces (check cross over with Ch.2)
 
 While home education is not a core focus of this thesis, it is a significant contextual factor in the research process. As such, I address key contextual factors that impact this study here. Research in schools settings is sometimes hampered by practical issues such as timetable considerations and lack of time for project work outside of the subject curriculum. These factors are largely absent when working with home educating families. An alignment with the needs of participants was also a relevant factor in this work with home educators, allowing for reciprocity in the research process. My engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest their children's interest in digital games, Minecraft being a name example, to promote computer coding. Home educators' motivations are explored more broadly in Chapter 2,
+
+
+
 
 <!-- Other contextual factors regarding home and informal learning environments and digital making are explored in Chapter 2. -->
 
 
-### Overview of barriers to game making which apply to both formal and non-formal environments
+### Overview of barriers to game making (which apply to both formal and non-formal environments)
 
-While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers that affect both formal and informal contexts to varying extents. This section gives an overview of key issues related to the scope of this study. Technical barriers include the inherent complexity of coding and can be compounded by economic barriers that can prevent access to the software, hardware, or social environments needed to develop as a game maker. Identity-related barriers such as those related to gender, race, and class have been shown to negatively impact participation in digital making and more specifically game making. This research addresses each of these concerns at different stages of this thesis.
+While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers that affect both formal and informal contexts to varying extents. This section gives an overview of key issues related to the scope of this study. Technical barriers include the inherent complexity of coding and can be compounded by economic barriers that can prevent access to the software, hardware, or social environments needed to develop as a game maker. Identity-related barriers such as those related to gender, race, and class have been shown to negatively impact participation in digital making and more specifically game making.
 
-
-
-
-
+EXPAND THIS NOW.
 
 ## Existing responses to challenges
 
@@ -386,8 +404,135 @@ Chapter 8 concludes the thesis with a final discussion on the significance of my
 
 This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The introduction also highlighted the complexities of and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarifies key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepares the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
 
-
-
 [^1]: https://web.archive.org/web/20200423162826/http://edlab.org.uk/
 [^2]: http://archive.flossmanuals.net/an-open-web/
 <!-- [^5]: https://communityreporter.net/story/internet-and-evolution-manchester-communities -->
+
+
+## To integrate above
+
+
+### Barriers to participation in game making practices (explored in contextual settings)
+
+This section review existing research on digital making to identify barriers to participation in digital making and in particular coding practices in key contexts.
+
+While the primary focus of this thesis is on an emerging coding community in a non-formal learning environment, the wider implications and learners should be applicable in school settings. There are however existing institutional barriers to this happening in traditional school classrooms. To address this,  the next section explores these barriers in a UK context of computing and digital skills school-based education.
+
+### Institutional Barriers - related to UK School context
+
+
+- Change of exam in to computing in 2014
+
+A change driven by x
+
+A section on the promise of the curriculum, and the hobby based activities created by individuals and non-profits to support project based work. However, in 201X, the coursework element of GSCE exam, which allowed students to engage with hands on coding, was rapidly removed due to student accessing 'worked examples' of code solutions online and incorporating them into their.
+
+As students are able to write in psuedo code this means
+
+
+
+
+### Technical Barriers -  Difficulties in learning to program
+
+Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
+
+    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
+
+In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
+
+More literature which examines the complexity of language and development environments should be found here.
+
+Complexity of syntax and problem of leading with syntax [@gomes2007learning]
+
+Issues of needing levels of abstraction in learning programming [@gomes2007learning].
+
+
+*Specialist coding tools and computational kits*
+
+There may software and hardware kits aimed at novice coders and in particular younger audience [@yu_survey_2018].
+
+This section briefly summarises some of the adaptation in particular, that software has undergone to adapt to this audience.
+
+Much work has been taken out by MIT family developing Papert's ideas on constructionism in tool use
+
+ - Block coding vs text coding, syntax
+ - Design principles for game making tools, [@kafai_connected_2016; @resnick_reflections_2005] ()
+ - Barriers in using support material for code examples- mapping, understanding, [@wang_novices_2021]
+
+
+Scratch and GSM merit particular examination as mini-case studies. The  
+
+- Scratch and community element.
+- Remix as a feature: [@amanullah_evaluating_2019]
+- Online log in
+- library of assets to speed up creation
+- In built asset authoring tools.
+
+Game star Mechanic added quest ability, and a narrative set in a steam punk aesthetic. Of interest to this study are the motivational use of narrative, and accompanying resources which help analysis of game design patterns and systems based challenges.
+
+NOTE - referenced in design chapter - the alignment with the use of code playground and template.
+
+
+Computing syntax
+Lack of knowledge of what to design..
+ which they call “sandbox games,” that integrates the worlds"
+
+
+
+
+### Cultural / Identity barriers to participation in ...
+
+**Barriers to participation**
+
+Develop from introduction, move to a overview of literature which addresses  barriers in participation in coding communities from literature.
+
+The focus of this review is to identify broad streams and currents in research.
+
+
+#### Barrier - Identity and computer cultures
+
+Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
+
+Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
+
+Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
+
+<!-- #### Barrier - Unfamiliarity with design process due to instruction based schooling systems
+
+When faced with choice learners are sometimes unsure how to start creating.
+Design scaffolds have been created to support this. -->
+
+
+
+
+### Barrier - unfamiliarity with support practices
+
+While home education support practices of families are expressed in this setting, a computing context requires specific support techniques that may be unfamiliar to parents [@roque_engaging_nodate; @roque_becoming_2018].
+
+
+
+
+
+### Outlining  cultural barriers / aspects of game making
+
+The following studies are explored future in LR. Here I surface cultural barriers experienced by participants.
+
+
+**Gender  related identities**
+- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
+- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
+
+<!-- were explored by Pelletier as part of the Making Games project using the Mission Maker software 2008). Data was recorded from two UK schools in an 18 month after school programme. Pelletier draws on the work of Butler 1988) to caution against overdue influence of a set conception of gender or cultural stereotypes, seeing gender as a personal and flexible product of continuing activities and interactions. In this study, she explored the promise of the process of game design and the analysis of gaming habits as a platform and set of tools for young participants to explore and construct their gender identity over time. This area is a rich seam to explore and a more recent study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment. -->
+
+
+**Race related identities**
+
+In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
+
+    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
+
+Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+**Outro**
+
+Illingworth critique's Kafai and Burke's book due to lack of specificity in the game making techniques outlined. This is particularly the case in chapter x which explores cultural elements of game making research. In recent years the constructionist school has taken care to start to describe cultural elements of learning environments [EVIDENCE]. Other approaches exist - AT etc .
