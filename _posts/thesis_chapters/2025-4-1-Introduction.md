@@ -9,108 +9,94 @@ layout: post
 categories: chapter
 title: 1. Introduction - Games for a Read-Write world.
 ---
--   [Introduction - "Games for a Read / Write
-    World."](#introduction---games-for-a-read-write-world.)
-    -   [1. Introduction to the thesis](#introduction-to-the-thesis)
-        -   [Introduction to increased use and importance of technology
-            in western
-            society](#introduction-to-increased-use-and-importance-of-technology-in-western-society)
-        -   [Introduction to issues for technology use for young
-            people](#introduction-to-issues-for-technology-use-for-young-people)
-        -   [Introduction to the focus of the study on computer game
-            design and programming
-            (CGD&P)](#introduction-to-the-focus-of-the-study-on-computer-game-design-and-programming-cgdp)
-    -   [2. Context / Background](#context-background)
-        -   [Context of game making and wider digital making and culture
-            home and informal
-            settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
-        -   [Context of game making within school-based computing
-            education](#context-of-game-making-within-school-based-computing-education)
-        -   [An introduction to the benefits of on digital game
-            making](#an-introduction-to-the-benefits-of-on-digital-game-making)
-        -   [The potential of digital game making of retro games with
-            families](#the-potential-of-digital-game-making-of-retro-games-with-families)
-        -   [Context of game making and digital projects at home and
-            other informal settings - MOVED FROM CH 2.
-            INTEGRATE](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings---moved-from-ch-2.-integrate)
-        -   [Barriers to participation in game making BARRIERS FROM CH 2
-            MOVED
-            HERE](#barriers-to-participation-in-game-making-barriers-from-ch-2-moved-here)
-        -   [Overview of barriers to programming and game
-            making](#overview-of-barriers-to-programming-and-game-making)
-        -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program)
-        -   [Cultural / Identity barriers to participation
-            in](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
-            -   [Barrier - Gender](#barrier---gender)
-        -   [Institutional Barriers - related to UK School
-            context](#institutional-barriers---related-to-uk-school-context)
-    -   [3. Rationale for the Study:](#rationale-for-the-study)
-        -   [Personal context](#personal-context)
-        -   [Recap of Personal
-            Motivations](#recap-of-personal-motivations)
-        -   [Rationale of (Family) Home education settings as a site of
-            research](#rationale-of-family-home-education-settings-as-a-site-of-research)
-        -   [Connecting my experience to broader contextual
-            themes](#connecting-my-experience-to-broader-contextual-themes)
-        -   [Observations leading to perceived
-            need](#observations-leading-to-perceived-need)
-            -   [On Fluency & Agency](#on-fluency-agency)
-        -   [Convictions about potential - include dynamic of agency
-            here (and
-            limits?)](#convictions-about-potential---include-dynamic-of-agency-here-and-limits)
-    -   [4. Research objectives and questions (Swapped) - MAYBE MOVE UP
-        EVEN?](#research-objectives-and-questions-swapped---maybe-move-up-even)
-        -   [Primary Research Question and aims and
-            objectives](#primary-research-question-and-aims-and-objectives)
-        -   [Research objectives & Recap of
-            motivation](#research-objectives-recap-of-motivation)
-        -   [The challenge of maintaining focus in this PhD
-            process](#the-challenge-of-maintaining-focus-in-this-phd-process)
-    -   [5. Significance of the study](#significance-of-the-study)
-        -   [Wider implications and applications of the
-            research](#wider-implications-and-applications-of-the-research)
-        -   [Contribution to knowledge of this
-            thesis](#contribution-to-knowledge-of-this-thesis)
-    -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
-        -   [7. Link to next chapter](#link-to-next-chapter)
-    -   [To integrate above](#to-integrate-above)
-        -   [Barriers to participation in game making practices
-            (explored in contextual
-            settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
-        -   [Institutional Barriers - related to UK School
-            context](#institutional-barriers---related-to-uk-school-context-1)
-        -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program-1)
-        -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in-1)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures-1)
-        -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices)
-        -   [Outlining cultural barriers / aspects of game
-            making](#outlining-cultural-barriers-aspects-of-game-making)
-    -   [TO DROP OR MERGE UP.](#to-drop-or-merge-up.)
-    -   [Existing responses to
-        challenges](#existing-responses-to-challenges)
-        -   [Digital projects as an inclusive pedaogogy - MOVE TO
-            INTRODUCTION](#digital-projects-as-an-inclusive-pedaogogy---move-to-introduction)
-        -   [Resource provision and CPD](#resource-provision-and-cpd)
-            -   [Computing at schools](#computing-at-schools)
-        -   [Open source, online responses to the
-            challenge](#open-source-online-responses-to-the-challenge)
-            -   [Mozilla, an open source
-                toolset](#mozilla-an-open-source-toolset)
-    -   [4-DROP MERGE. Introduction to theoretical framework &
-        agency](#drop-merge.-introduction-to-theoretical-framework-agency)
-        -   [Theoretical framework](#theoretical-framework)
-        -   [On agency and cultural historical activity theory /
-            socio-cultural
-            approach](#on-agency-and-cultural-historical-activity-theory-socio-cultural-approach)
-        -   [On utility and Design-based
-            research](#on-utility-and-design-based-research)
+-   [1. Introduction to the thesis](#introduction-to-the-thesis)
+    -   [Introduction to increased use and importance of technology in
+        western
+        society](#introduction-to-increased-use-and-importance-of-technology-in-western-society)
+    -   [Introduction to issues for technology use for young
+        people](#introduction-to-issues-for-technology-use-for-young-people)
+    -   [Introduction to the focus of the study on computer game design
+        and programming
+        (CGD&P)](#introduction-to-the-focus-of-the-study-on-computer-game-design-and-programming-cgdp)
+-   [2. Context / Background](#context-background)
+    -   [Context of game making and wider digital making and culture
+        home and informal
+        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
+    -   [Context of game making within school-based computing
+        education](#context-of-game-making-within-school-based-computing-education)
+    -   [An introduction to the benefits of on digital game
+        making](#an-introduction-to-the-benefits-of-on-digital-game-making)
+    -   [The potential of digital game making of retro games with
+        families](#the-potential-of-digital-game-making-of-retro-games-with-families)
+    -   [Context of game making and digital projects at home and other
+        informal settings - MOVED FROM CH 2.
+        INTEGRATE](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings---moved-from-ch-2.-integrate)
+    -   [Barriers to participation in game making BARRIERS FROM CH 2
+        MOVED
+        HERE](#barriers-to-participation-in-game-making-barriers-from-ch-2-moved-here)
+-   [3. Rationale for the Study:](#rationale-for-the-study)
+    -   [Personal context](#personal-context)
+    -   [Recap of Personal Motivations](#recap-of-personal-motivations)
+    -   [Rationale of (Family) Home education settings as a site of
+        research](#rationale-of-family-home-education-settings-as-a-site-of-research)
+    -   [Connecting my experience to broader contextual
+        themes](#connecting-my-experience-to-broader-contextual-themes)
+    -   [Observations leading to perceived
+        need](#observations-leading-to-perceived-need)
+        -   [On Fluency & Agency](#on-fluency-agency)
+    -   [Convictions about potential - include dynamic of agency here
+        (and
+        limits?)](#convictions-about-potential---include-dynamic-of-agency-here-and-limits)
+-   [4. Research objectives and questions (Swapped) - MAYBE MOVE UP
+    EVEN?](#research-objectives-and-questions-swapped---maybe-move-up-even)
+    -   [Primary Research Question and aims and
+        objectives](#primary-research-question-and-aims-and-objectives)
+    -   [Research objectives & Recap of
+        motivation](#research-objectives-recap-of-motivation)
+    -   [The challenge of maintaining focus in this PhD
+        process](#the-challenge-of-maintaining-focus-in-this-phd-process)
+-   [5. Significance of the study](#significance-of-the-study)
+    -   [Wider implications and applications of the
+        research](#wider-implications-and-applications-of-the-research)
+    -   [Contribution to knowledge of this
+        thesis](#contribution-to-knowledge-of-this-thesis)
+-   [6. Chapter outline of the study](#chapter-outline-of-the-study)
+    -   [7. Link to next chapter](#link-to-next-chapter)
+-   [To integrate above](#to-integrate-above)
+    -   [Barriers to participation in game making practices (explored in
+        contextual
+        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
+    -   [Institutional Barriers - related to UK School
+        context](#institutional-barriers---related-to-uk-school-context)
+    -   [Technical Barriers - Difficulties in learning to
+        program](#technical-barriers---difficulties-in-learning-to-program)
+    -   [Cultural / Identity barriers to participation in
+        ...](#cultural-identity-barriers-to-participation-in)
+        -   [Barrier - Identity and computer
+            cultures](#barrier---identity-and-computer-cultures)
+    -   [Barrier - unfamiliarity with support
+        practices](#barrier---unfamiliarity-with-support-practices)
+    -   [Outlining cultural barriers / aspects of game
+        making](#outlining-cultural-barriers-aspects-of-game-making)
+-   [TO DROP OR MERGE UP.](#to-drop-or-merge-up.)
+-   [Existing responses to
+    challenges](#existing-responses-to-challenges)
+    -   [Digital projects as an inclusive pedaogogy - MOVE TO
+        INTRODUCTION](#digital-projects-as-an-inclusive-pedaogogy---move-to-introduction)
+    -   [Resource provision and CPD](#resource-provision-and-cpd)
+        -   [Computing at schools](#computing-at-schools)
+    -   [Open source, online responses to the
+        challenge](#open-source-online-responses-to-the-challenge)
+        -   [Mozilla, an open source
+            toolset](#mozilla-an-open-source-toolset)
+-   [4-DROP MERGE. Introduction to theoretical framework &
+    agency](#drop-merge.-introduction-to-theoretical-framework-agency)
+    -   [Theoretical framework](#theoretical-framework)
+    -   [On agency and cultural historical activity theory /
+        socio-cultural
+        approach](#on-agency-and-cultural-historical-activity-theory-socio-cultural-approach)
+    -   [On utility and Design-based
+        research](#on-utility-and-design-based-research)
 # Introduction - “Games for a Read / Write World.”
 
 **A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.**
@@ -273,79 +259,16 @@ OTHER REVIEWS? UK IN Waite?
 
 
 
-### Overview of barriers to programming and game making
-
-**(which apply to both formal and non-formal environments)
-**
-While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers that affect both formal and informal contexts to varying extents. This section gives an overview of key issues related to the scope of this study. Technical barriers include the inherent complexity of coding and can be compounded by economic barriers that can prevent access to the software, hardware, or social environments needed to develop as a game maker. Identity-related barriers such as those related to gender, race, and class have been shown to negatively impact participation in digital making and more specifically game making.
-
-EXPAND THIS NOW.
-
-### Technical Barriers -  Difficulties in learning to program
-
-Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
-
-    <!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
-
-In particular, the dilemma between more authentic languages and block based approaches [@joao_cross-analysis_2019].
-
-More literature which examines the complexity of language and development environments should be found here.
-
-Complexity of syntax and problem of leading with syntax [@gomes2007learning]
-
-Issues of needing levels of abstraction in learning programming [@gomes2007learning].
-
-
-### Cultural / Identity barriers to participation in
-
-**Barriers to participation**
-
-Barriers in participation in coding communities from literature.
-
-#### Barrier - Identity and computer cultures
-
-Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990].
-
-#### Barrier - Gender
-
-Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
-
-
-**Gender  related identities**
-- Important to caution against gender stereo-typing and identity in relation to computers [@pelletier_gaming_2008]
-- study by Fisher and Jenson critically explored diverse themes through a summer game making programme 2017). Emerging issues included pinkification, marginalisation and exclusions of women from game cultures, sexualisation and harassment.
-
-**Race related identities**
-
-In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is analysed using concepts from communities of practice, type of barriers, and personal obstacles [@margolis_stuck_2008;]
-
-    Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
-
-Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
-
-
-### Institutional Barriers - related to UK School context
-
-
-- Change of exam in to computing in 2014
-
-A change driven by x
-
-A section on the promise of the curriculum, and the hobby based activities created by individuals and non-profits to support project based work. However, in 201X, the coursework element of GSCE exam, which allowed students to engage with hands on coding, was rapidly removed due to student accessing 'worked examples' of code solutions online and incorporating them into their.
-
-As students are able to write in psuedo code this means
-
-
 ## 3. Rationale for the Study:
 
 
 ### Personal context
 
-<!-- In 1995, as  recent graduate and new editor of a fanzine on the fledling electronic music scen(INCLUDE OPEN WEB)e centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
+<!-- In 1995, as  recent graduate and new editor of a fanzine on the fledling electronic music scene centred around the Hulme venues of the Nia centre and New Adri, I was directed to this centre as it had the software Abiword which had the ability to print out rounded text boxes, a feature I thought would look pretty snazzy cut and pasted over over-photocopied backgrounds from 2000AD. No physical place in the UK seemed to better live out the counter-cultural, dystopian, cyberpunk ethic popularised by 2000AD and the author William Gibson. -->
 
 
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
-##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space asOn 5 July 2024, a draft resit timetable will be shared with Heads of Department and Department Education Leads for review, with any comments to be returned by end of 10 July 2024.  part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
+##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space as part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
 
 The role of this thesis regarding the use of technology for self-expression is one reflected in my personal and professional trajectory. My journey into the world of technology and education began in the 1990s via my participation in organising and promoting unlicensed music events and festivals. Email and websites became important tools in this process, and I was an enthusiast early adopter of these technologies. These experiences exposed me to decentralised organising principles, which became an important guidelines for the free software and free culture movements [@lessig_free_2004]. Inspired by these potential of the tools and organising processes, I began to share relevant approaches with local organisations by specialising in internet and media creation training and community development. Related work with FLOSS Manuals, writing and promoting documentation and online learning resources for media creation and collaborative processes using Free Software allowed me to document and advocate for low-cost media and web production methods. A key partner in this process was the Mozilla community where I created documentation, workshop guides and other learning resources with networks of informal educators. At this time co-authored _A Open Web_ [^5], a book which celebrated the opportunities provided by open source and decentralised web technology to create a more egalitarian environment of digital participation, and importantly noted emerging risks to this mode of participation.  
 
