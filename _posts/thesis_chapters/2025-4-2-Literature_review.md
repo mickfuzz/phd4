@@ -20,9 +20,7 @@ title: 2. Literature Review
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Barriers to participation in game
-        -
-            making](#barriers-to-participation-in-game-making)
+        -   [Barriers to participation in game making](#barriers-to-participation-in-game-making)
         -   [Exploring pedagogies of constructionist
             gaming](#exploring-pedagogies-of-constructionist-gaming)
         -   [Papert, Resnick & Constructionism and overlaps with in a
@@ -217,8 +215,6 @@ This chapter reviews the literature to summarise research  addressing the aims o
 
 #### Pedagogy - a working definition of pedagogy.
 
-
-
 Given that this literature review aims to explore exising relevant pedagogies within the research field, a working definition of pedagogy is appropriate given the socio-cultural focus of this study.
 
 **There is an overall differential in specificity.**
@@ -244,14 +240,6 @@ More specifically within a guiding ethos and overarching techniques, the use of 
 
 Thus this encompasses, tools, context and cultural factors in a way in line with socio-cultural approach.
 
-
-## Context of game making and digital projects at home and other informal settings
-
-The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. These motivations are often categorized into two broad streams: pedagogy and ideology [@galen_home_1991; @rothermel_can_2003]. Addressing ideology, some families choose home education to limit their children’s exposure to mainstream values, such as religious beliefs or consumerist ideals. In terms of pedagogy, popular concepts within home education circles include unschooling and deschooling. Holt’s concept of unschooling [@gray_challenges_2013] emphasises facilitating learning by drawing out children's interests through everyday activities. Illich’s work on deschooling promotes the idea of _webs of learning_ [@illich_deschooling_1971], where learners access educational experiences in varied contexts based on their interests and needs, rather than relying on a single educational institution as the sole source of knowledge. Many home-educating families actively seek and establish networks, using friendships, social networking groups, and email lists to share opportunities and collaborate on learning activities [@doroudi_relevance_2023]. The game-making club that forms the basis of this research can be viewed as one node within the complex web of learning that participating families engage with.
-
-The term informal is examined briefly here using two dimensions: setting and educational structure. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment  [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2006] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term "non-formal" describe learning that happens outside of formal institutions,  which may involve little instruction but still comprises a carefully planned learner experience, contrasting with both formal and unstructured (informal) learning. This study uses the term "non-formal" in this way, while "informal" is used more loosely to indicate learning activities happening outside a classroom lesson.
-
-Turning to the structural dimension of education, there is also a lack of a clear division between formal and informal approaches  [@rogoff_organization_2016]. Rogoff outline a false dichotomy between _children-led_ (based on free exploration), and _adult-led_ (focused on direct instruction) approaches [@rogoff_observing_1995, p.211], proposing instead a more complex community-based understanding of learning that includes concepts of guided participation and apprenticeship [@rogoff_developing_1994]. These concepts are explored in more detail in the following chapter. For now, it is sufficient for the discussion of this chapter, to introduce guided participation as a process of active involvement in cultural and social activities, under the guidance of more experienced individuals under the guidance of more experienced members, offering an alternative to the simplistic children-led/adult-led spectrum.
 
 ## A review of relevant research informing computer game design and programming (CGD&P)
 
@@ -293,36 +281,6 @@ In their project-based intervention, Girls Creating Games, Denner and Werner foc
 <!-- What is missing?
 Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
 
-### Barriers to participation in game making
-
-This section explores relevant studies to outline the barriers to participation in CGD&P, addressing three key areas: technical barriers, access to suitable technology and environments, and issues related to identity and values.
-
-CGD&P inherits some of the intrinsic difficulties associated with computer programming [@sentance_teaching_2019; @gomes2007learning; @joao_cross-analysis_2019]. These difficulties include the complexity of programming syntax, the challenge of understanding abstract concepts, and problems with transferring skills between different contexts [@gomes2007learning; @rahmat_major_2012]. To address these issues, specialist coding tools, such as block-based coding environments, have been developed for novice coders, particularly younger audiences. These tools aim to simplify coding syntax, project organisation, and the overall complexity of the coding environment [@yu_survey_2018]. However, this simplification creates a tension between using more authentic programming languages and relying on scaffolded, specialised approaches  [@joao_cross-analysis_2019]. Sefton-Green [-@sefton-green_mapping_2013] explores this tension in the context of digital making, contrasting Mozilla Webmaker tools (which use web languages like HTML, CSS, and JavaScript) with block-based systems like Scratch, which can obscure learners from authentic code languages.
-
-<!-- Through a literature review on this topic, we aim to organize and   systematize the main difficulties into four dimensions of analysis: (i) subject and complexity of languages; (ii) technologies and applications; (iii) teachers and teaching methodologies; and (iv) pupils’ skills[@joao_cross-analysis_2019] -->
-
-<!-- #### Access to  CGD&P -->
-
-Regarding access to CGD&P, one significant barrier is the inequality of access to participatory culture communities. Historically, the lack of access to the necessary technology, such as high-cost computers, was a major issue [@resnick_computer_1996]. While equipping community centres with computers may have addressed some of these concerns, technological access is only one dimension of the problem. Sefton-Green [-@sefton-green_mapping_2013] argues that motivated and capable facilitators are crucial for enabling participation, suggesting that even with improved access to equipment, many young people still face barriers. The full potential of online metagaming communities, as described by Ito and Gee [-@ito_hanging_2010; -@gee_what_2004], remains largely inaccessible to the majority. Among those who do participate, creative activities that result in finished digital products are rare, with studies such as Luther et al. [-@luther_why_2010] revealing an 80 percent failure rate in collaborative media projects within the New Grounds community.
-
-Addressing barriers linked to identity and values, a key theme in CGD&P is the potential for games to increase inclusivity for those traditionally excluded from computing cultures [@kafai_beyond_2014]. There is significant potential to leverage home interests in computer games to bridge into more structured computing activities. The widespread appeal of casual and retro gaming, alongside the proliferation of retro games in popular culture, offers a rich repository of knowledge that can be utilised in various educational contexts [@moje_working_2004]. However, Kafai and Burke balance this potential with complex issues of the gender representation associated with gaming culture [@kafai_diversifying_2017].
-
-The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials.
-
-MOVED HERE - OVERALL philosophical APPROACH
-The celebration here is of pluralism rather than the culturally prevalent perspective privileging abstraction. Abstraction is not seen as undesirable, and indeed, is present in much of Papert's work. For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. Papert's focus on reducing barriers to participation is present in his focus on child-play as a leading activity rather than teacher-led instruction. This simple but radical perspective also drives some of the foundational work on Microworlds, using the LOGO language as a vehicle to make previously abstract mathematical concepts concrete through exploratory play [@papert_mindstorms_1980]. This perspective continues to drive constructionist design approaches supporting creative computing [@resnick_design_2005; @resnick_scratch_2009; @kafai_constructionism_1996; @kafai_constructionism_1996; @kafai_minds_1994; @lee_playing_2014; @peppler_makeology:_2016].
-
-
-Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation from abstract computing approaches. They emphasised the need for diverse teaching and learning styles to address issues surrounding the early socialisation of women and girls, advocating for the inclusion of personal and concrete working styles. Denner and colleagues [@denner_what_2008; @angelides_beyond_2014] highlighted that inclusive gender practice in game making involve allowing participants choice over both the content of their games and the dominant mode of play (game mechanics). Their findings present a nuanced view of girls' interests in game genres and support research cautioning against gender stereotyping and rigid identities in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address gender identities within game design by advocating for the creation of new communities and learning environments that align with participants' values, rather than attempting to draw girls into existing, male-dominated spaces. Similarly, Buechley et al. [@buechley_lilypad_2008, p. 431]question, “How can we integrate computer science with activities and communities that girls and women are already engaged in?”
-
-Margolis et al. [@margolis_stuck_2008;] outlined barriers contributing to a racial gap in computing participation and achievement in the US, including feelings of isolation, limited access to computing opportunities, and a lack of social support. DiSalvo and colleagues investigated these barriers within a game testers programme, examining how an interest in computer games could motivate access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. Their findings indicated that activities should not only be engaging but also align with the underlying values of the programme’s young, African American male participants. Vossoughi et al. [-@vossoughi_making_2016] critique digital making cultures, stressing the need to integrate not only the values but also the cultural experiences of working-class students and students of colour into the making process.
-
-There are limits and gaps in CGD&P research in terms of overcoming barriers to participation.
-One is the lack of specific pedagogical approaches to address issues of inequality of participation.
-RETURN TO [@kafai_constructionist_2015] to review.
-OTHER REVIEWS? UK IN Waite?
-
-<!-- To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents. -->
 
 ### Exploring pedagogies of constructionist gaming
 
@@ -363,8 +321,6 @@ Vossoughi and other researchers also highlight political and social concerns ass
 [@thumlert2018learning; @vossoughi_making_2016]. They argue that a constructionist approach can implicitly favour coding as a pathway to joining the computer programming industry and developing employability skills in young people. Thumlert and colleagues caution against the appropriation of skills such as creativity and 'design thinking', which they argue are increasingly co-opted by market-driven agendas rather than being used for critical and emancipatory purposes [@thumlert2018learning, p.4]. They also warn that this positioning could lead to the integration of constructionist approaches into instruction-based models that are narrowly focused on curricular concerns, rather than fostering the development of computational fluency, which supports learners’ expression within a community [@thumlert2018learning].
 
 
-
-
 ### INTEGRATE ABOVE - Papert, Resnick & Constructionism and overlaps with in a socio-cultural approaches to pedagogy
 
 #### Socio-cultural approaches within constructionism and their limits
@@ -393,10 +349,8 @@ While constructionism has been used as a "epistemological paradigm, a learning t
 Instead, Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency. Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012].
 
 
-
 <!--
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, -->
-
 
 <!-- It is important, in the interests of balance, to separate out some of the positives from the limits here. The school has done good work (tools, design principles) that can be built on. -->
 
@@ -411,23 +365,6 @@ PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
 To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills? -->
 
 <!-- In their project-based intervention, Girls Creating Games, Denner and Werner focused on pair programming of games to develop IT fluency, contrasting it to IT literacy [@werner_middle_2005-1] -->
-
-### Creative Family Learning - A constructionist case study in non-formal learning environment
-
-MOVED UP TO CONSTRUCTIONIST ABOVE?
-
-
-
-<!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
-
-Correa (2015), explores the role of children as brokers of technology in family environments.
-
-The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017]. Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, nontechnical consultant and learner.  
-
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
-
-To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts despite the grounding in Barron's work which does that.
-
 
 
 ## Pedagogies to support game making via coding
@@ -1025,6 +962,21 @@ The area of improvisation is underexplored in the game jam context compared to t
 <!-- Jamming, a term common in music and theatre, describes responsive, improvised, rapid and fluid responses to collaborators ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. The area of improvisation is under explored in game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. -->
 
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
+
+
+### Creative Family Learning - A constructionist case study in non-formal learning environment
+
+
+
+<!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
+
+Correa (2015), explores the role of children as brokers of technology in family environments.
+
+The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017]. Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, nontechnical consultant and learner.  
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
+
+To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts despite the grounding in Barron's work which does that.
 
 
 
