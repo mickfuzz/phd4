@@ -158,35 +158,15 @@ This introduction begins an exploration of key contextual factors. The immediate
 
 
 
-### An introduction to the benefits of on digital game making
-
-**Motivations for CGD&P**
-
-While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment.
-
-<!-- This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society. -->
-
-REFRAME AGENCY?
-In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers the practical process of learning to code, it also addresses aspects of game making that are more to do with the overall expressive value of digital media. To serve this exploration the concepts of computational fluency (one used within foundational CGD&P research) and agency are used as a guiding principle throughout the thesis.
-
-MOVE LATER?
-The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick, fluency, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction-based computing education [@resnick_coding_2020].
-
-The refocusing of the UK curriculum and supporting exams in the area of digital education towards a more abstract approach to computer science concepts over a skills-based production has raised concerns. Kemp and colleagues'[@kemp_future_2024] recent report on the future of computing education notes the decreasing take up of computing by girls and those in lower socio-economic areas and an increasingly unequal offer of digital-based exams to students. One of the recommendations of this report is to offer more informal digital making and project work involving coding as an inclusive practice.
-
-### The potential of digital game making of retro games with families
-
-Game-playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smartphones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness create a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks, provides an entry point for game players into game making cultures which is reflected in the success of amateur game-publishing websites like itch.io [@garda_nostalgia_2014].    
-
-Thus, the process of making retro games with families lies at a confluence of diverse contexts, motivations, and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments. To answer this question, theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value.
-
-<!-- The next section begins to explain my personal interest in this dimension of the study through a brief exploration of my involvement in project-based approaches in digital media education and campaigning contexts. -->
 
 ### Context of game making and wider digital making and culture home and informal settings
 
 The affordable, compact, and hackable Raspberry Pi computer has opened new avenues for physical computing using the accessible Python language. In early 2013, MIT released Scratch 2.0, a block-coding tool for beginners, featuring an online editor and enhanced community interaction, including project remixing. Educators have adapted creative 'sandbox' games like Minecraft to develop design skills in a playful environment. Other accessible hardware, such as Makey Makey and Microbit, combine web-based block coding with simple physical computing. For more advanced learners, free web-based courses on authentic, text-based programming languages like Python and JavaScript  added interactive elements to scaffold and motivate the acquisition of coding concepts and practical coding skills. A notable example is Code Academy.
 
 These tools and practices were mostly free both in terms of cost and through the use of open copyright licences, a characteristic that contributed to their widespread success adoption. The engagement of many teachers and enthusiastic volunteers in these initiatives these is documented the proliferation of videos, blog posts, and other resources sharing novel practice. This ground swell of community activity contributed to the already active Maker Movement ,as illustrated by events like Liverpool MakeFest which and Raspberry Jam events. These grassroots events brought together teachers, professionals, young people and their families to engage with diverse new technologies in playful, empowering and technically challenging ways.
+
+
+
 
 ### Context of game making within school-based computing education
 
@@ -213,23 +193,44 @@ The value of these informal spaces and approaches -->
 - Other online tools for learning programming like Code Academy, interactive, and effective. Including the use of Code playgrounds, simplifying
 - Minecraft, a sandbox game, educational potential, and an online community -->
 
-#### (Family) Home education settings as a site of research
-
-NOTES - could also link with after school club as a similar site. And the value of third spaces (check cross over with Ch.2)
-
-While home education is not a core focus of this thesis, it is a significant contextual factor in the research process. As such, I address key contextual factors that impact this study here. Research in schools settings is sometimes hampered by practical issues such as timetable considerations and lack of time for project work outside of the subject curriculum. These factors are largely absent when working with home educating families. An alignment with the needs of participants was also a relevant factor in this work with home educators, allowing for reciprocity in the research process. My engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest their children's interest in digital games, Minecraft being a name example, to promote computer coding. Home educators' motivations are explored more broadly in Chapter 2,
-
 
 
 
 <!-- Other contextual factors regarding home and informal learning environments and digital making are explored in Chapter 2. -->
 
+### An introduction to the benefits of on digital game making
 
-### Overview of barriers to game making (which apply to both formal and non-formal environments)
+**Motivations for CGD&P**
 
+While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment.
+
+<!-- This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society. -->
+
+REFRAME AGENCY?
+In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers the practical process of learning to code, it also addresses aspects of game making that are more to do with the overall expressive value of digital media. To serve this exploration the concepts of computational fluency (one used within foundational CGD&P research) and agency are used as a guiding principle throughout the thesis.
+
+MOVE LATER?
+The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick, fluency, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction-based computing education [@resnick_coding_2020].
+
+The refocusing of the UK curriculum and supporting exams in the area of digital education towards a more abstract approach to computer science concepts over a skills-based production has raised concerns. Kemp and colleagues'[@kemp_future_2024] recent report on the future of computing education notes the decreasing take up of computing by girls and those in lower socio-economic areas and an increasingly unequal offer of digital-based exams to students. One of the recommendations of this report is to offer more informal digital making and project work involving coding as an inclusive practice.
+
+### The potential of digital game making of retro games with families
+
+Game-playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smartphones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness create a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks, provides an entry point for game players into game making cultures which is reflected in the success of amateur game-publishing websites like itch.io [@garda_nostalgia_2014].    
+
+Thus, the process of making retro games with families lies at a confluence of diverse contexts, motivations, and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments. To answer this question, theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value.
+
+<!-- The next section begins to explain my personal interest in this dimension of the study through a brief exploration of my involvement in project-based approaches in digital media education and campaigning contexts. -->
+
+
+### Overview of barriers to programming and game making
+
+**(which apply to both formal and non-formal environments)
+**
 While the previous sections have addressed some of the opportunities and benefits of engaging in digital game making, there are significant barriers that affect both formal and informal contexts to varying extents. This section gives an overview of key issues related to the scope of this study. Technical barriers include the inherent complexity of coding and can be compounded by economic barriers that can prevent access to the software, hardware, or social environments needed to develop as a game maker. Identity-related barriers such as those related to gender, race, and class have been shown to negatively impact participation in digital making and more specifically game making.
 
 EXPAND THIS NOW.
+
 ### Technical Barriers -  Difficulties in learning to program
 
 Summary here [@gomes2007learning] [@joao_cross-analysis_2019]. and here
@@ -244,16 +245,6 @@ Complexity of syntax and problem of leading with syntax [@gomes2007learning]
 
 Issues of needing levels of abstraction in learning programming [@gomes2007learning].
 
-### Institutional Barriers - related to UK School context
-
-
-- Change of exam in to computing in 2014
-
-A change driven by x
-
-A section on the promise of the curriculum, and the hobby based activities created by individuals and non-profits to support project based work. However, in 201X, the coursework element of GSCE exam, which allowed students to engage with hands on coding, was rapidly removed due to student accessing 'worked examples' of code solutions online and incorporating them into their.
-
-As students are able to write in psuedo code this means
 
 ### Cultural / Identity barriers to participation in
 
@@ -281,6 +272,18 @@ In study by Thayter and Ko [@thayer_barriers_2017] the work of Margolis et al is
     Stuck in the Shallow End: Education, Race and Computing by Margolis, Estrella, et al. [ 12] examined the racial gap in high school CS, finding barriers that included lack of access to classes (formal boundary), cultural expectations on who the classes were for, feelings of isolation in classes, divisions within classes between those who “have it or don’t have it” (informal boundaries), and lack of social support(personal obstacle). Additional studies found participation and success in computing programs depended on background experience [ 2, 27 ], comfort level [ 27 ], sense of belonging and stereotypes (dis proportionately negatively affecting women) [ 2 , 5, 10, 16 ], view of self as an “insider” [21], and believed role of luck [27]
 
 Glitch game testers [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]
+
+
+### Institutional Barriers - related to UK School context
+
+
+- Change of exam in to computing in 2014
+
+A change driven by x
+
+A section on the promise of the curriculum, and the hobby based activities created by individuals and non-profits to support project based work. However, in 201X, the coursework element of GSCE exam, which allowed students to engage with hands on coding, was rapidly removed due to student accessing 'worked examples' of code solutions online and incorporating them into their.
+
+As students are able to write in psuedo code this means
 
 
 ## 3. Rationale for the Study:
@@ -312,6 +315,18 @@ In 2011, it was revealed that an undercover police officer named Mark Kennedy, o
 
 A personal motivation driving this research is to better understand my practice as an activist, community worker and practice-focused educator.  As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. This motivation has guided me towards existing research reflect on experiences of developing agency within a non-formal communities.  In my past community training practice, I used terms like _empowerment_ and promoting learners _choice_. As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education. Instead, to help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency. This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
 
+### Rationale of (Family) Home education settings as a site of research
+
+Rationale - helps address some of the barriers above.
+
+NOTES - could also link with after school club as a similar site. And the value of third spaces (check cross over with Ch.2)
+
+While home education is not a core focus of this thesis, it is a significant contextual factor in the research process. As such, I address key contextual factors that impact this study here.
+
+Research in schools settings is sometimes hampered by practical issues such as timetable considerations and lack of time for project work outside of the subject curriculum. These factors are largely absent when working with home educating families. An alignment with the needs of participants was also a relevant factor in this work with home educators, allowing for reciprocity in the research process. My engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest their children's interest in digital games, Minecraft being a name example, to promote computer coding. Home educators' motivations are explored more broadly in Chapter 2,
+
+
+
 ### Connecting my experience to broader contextual themes
 
 RECAP THE BROADER RESEARCH THEMES
@@ -319,7 +334,7 @@ RECAP THE BROADER RESEARCH THEMES
 PERHAPS DROP / MERGE THIS SECTION
 In this section, I outline how these experiences connect to broader research issues on PBL, media and game creation within informal learning environments. Drawing on learners' interests and creating authentic products is a foundational approach of PBL and is explored in game-making context in convincing research.
 
-My past aims surrounding empowerment through music events and protest movement align with broader movements that advocate equality of access to digital participatory culture. 
+My past aims surrounding empowerment through music events and protest movement align with broader movements that advocate equality of access to digital participatory culture.
 
 The processes of building agency in a fledgling community can be seen as important acts of community participation.
 
