@@ -10,35 +10,43 @@
             design and programming
             (CGD&P)](#introduction-to-the-focus-of-the-study-on-computer-game-design-and-programming-cgdp)
     -   [2. Context / Background](#context-background)
-        -   [An introduction to the benefits of on digital game
-            making](#an-introduction-to-the-benefits-of-on-digital-game-making)
-        -   [The potential of digital game making of retro games with
-            families](#the-potential-of-digital-game-making-of-retro-games-with-families)
         -   [Context of game making and wider digital making and culture
             home and informal
             settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
         -   [Context of game making within school-based computing
             education](#context-of-game-making-within-school-based-computing-education)
-            -   [(Family) Home education settings as a site of
-                research](#family-home-education-settings-as-a-site-of-research)
-        -   [Overview of barriers to game making (which apply to both
-            formal and non-formal
-            environments)](#overview-of-barriers-to-game-making-which-apply-to-both-formal-and-non-formal-environments)
-        -   [Institutional Barriers - related to UK School
-            context](#institutional-barriers---related-to-uk-school-context)
+        -   [An introduction to the benefits of on digital game
+            making](#an-introduction-to-the-benefits-of-on-digital-game-making)
+        -   [The potential of digital game making of retro games with
+            families](#the-potential-of-digital-game-making-of-retro-games-with-families)
+        -   [Context of game making and digital projects at home and
+            other informal settings - MOVED FROM CH 2.
+            INTEGRATE](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings---moved-from-ch-2.-integrate)
+        -   [Barriers to participation in game making BARRIERS FROM CH 2
+            MOVED
+            HERE](#barriers-to-participation-in-game-making-barriers-from-ch-2-moved-here)
+        -   [Overview of barriers to programming and game
+            making](#overview-of-barriers-to-programming-and-game-making)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
         -   [Cultural / Identity barriers to participation
             in](#cultural-identity-barriers-to-participation-in)
             -   [Barrier - Identity and computer
                 cultures](#barrier---identity-and-computer-cultures)
             -   [Barrier - Gender](#barrier---gender)
+        -   [Institutional Barriers - related to UK School
+            context](#institutional-barriers---related-to-uk-school-context)
     -   [3. Rationale for the Study:](#rationale-for-the-study)
         -   [Personal context](#personal-context)
-        -   [Connecting my experience to broader research
-            themes](#connecting-my-experience-to-broader-research-themes)
         -   [Recap of Personal
             Motivations](#recap-of-personal-motivations)
+        -   [Rationale of (Family) Home education settings as a site of
+            research](#rationale-of-family-home-education-settings-as-a-site-of-research)
+        -   [Connecting my experience to broader contextual
+            themes](#connecting-my-experience-to-broader-contextual-themes)
         -   [Observations leading to perceived
             need](#observations-leading-to-perceived-need)
+            -   [On Fluency & Agency](#on-fluency-agency)
         -   [Convictions about potential - include dynamic of agency
             here (and
             limits?)](#convictions-about-potential---include-dynamic-of-agency-here-and-limits)
@@ -64,7 +72,7 @@
         -   [Institutional Barriers - related to UK School
             context](#institutional-barriers---related-to-uk-school-context-1)
         -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program)
+            program](#technical-barriers---difficulties-in-learning-to-program-1)
         -   [Cultural / Identity barriers to participation in
             ...](#cultural-identity-barriers-to-participation-in-1)
             -   [Barrier - Identity and computer

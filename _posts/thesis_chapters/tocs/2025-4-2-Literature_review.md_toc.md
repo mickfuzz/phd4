@@ -5,14 +5,9 @@
         -   [Addressing terms used](#addressing-terms-used)
             -   [Pedagogy - a working definition of
                 pedagogy.](#pedagogy---a-working-definition-of-pedagogy.)
-    -   [Context of game making and digital projects at home and other
-        informal
-        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Barriers to participation in game
-            making](#barriers-to-participation-in-game-making)
         -   [Exploring pedagogies of constructionist
             gaming](#exploring-pedagogies-of-constructionist-gaming)
         -   [INTEGRATE ABOVE - Papert, Resnick & Constructionism and
@@ -23,9 +18,6 @@
                 limits](#socio-cultural-approaches-within-constructionism-and-their-limits)
             -   [(Why not use constructionism) - CHAPTER
                 3?](#why-not-use-constructionism---chapter-3)
-        -   [Creative Family Learning - A constructionist case study in
-            non-formal learning
-            environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
         -   [On the process of creating frameworks and
@@ -70,6 +62,9 @@
                 Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
         -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
+        -   [Creative Family Learning - A constructionist case study in
+            non-formal learning
+            environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
         -   [The Fifth Dimension](#the-fifth-dimension)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
