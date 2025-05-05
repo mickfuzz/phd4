@@ -648,7 +648,7 @@ CLARIFY THIS WHOLE SECTION.
 In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence"
 
 
-### Limits of the Sociocultural ideas in UK computing research (above)
+### Limits of the Sociocultural ideas in UK computing research (above) NOT NEDDED
 
 MOVE?
 Waite et al. [@sentance_teaching_2019] cite the Block Model, [@schulte_block_2008] as potential in helping teacher structure lessons. Within this structure design patterns can be considered as??? Is this useful?
@@ -656,9 +656,9 @@ Waite et al. [@sentance_teaching_2019] cite the Block Model, [@schulte_block_200
 While attending to socio cultural approaches [@sentance_teaching_2019; @hwang_using_2023], there are limits in what is covered. Less in the way of identity formation and support for that process.
 
 Signpost later discussion.
+## GAME SPECIFIC -
 
-
-### Half-baked games as Microworlds
+### Half-baked games as Microworlds -
 
 The concept of 'half-baked' games and microworlds, proposed by Kynigos and colleagues outlines which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve it. Half-baked games can be designed in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts.
 
@@ -884,7 +884,9 @@ As such the potential for participants  was under explored and the potential for
 
 ## Programmes working to address challenge
 
-This section addresses programmes which address barriers  to participation in informal settings.
+This section addresses programmes which
+- promote coding of projects of which games can be apart
+  - in particular address barriers  to participation in non-formal communities (rather than online programmes) 
 
 As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS].
 

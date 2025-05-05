@@ -107,6 +107,11 @@ title: 1. Introduction - Games for a Read-Write world.
 
 To come - for now see outline of thesis at the end of chapter -->
 
+## Ideas to add into the introduction
+
+Digital resistance
+BUT
+Non-participation may not be a winning strategy in the digital landscape and the negative way it is going .
 
 
 ## 1. Introduction to the thesis
