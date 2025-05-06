@@ -125,16 +125,16 @@ Convenience and automation of tasks in the form of commercial software services 
 
 A particular area of concern surrounds sophisticated media production and delivery systems which driven by algorithmically generated suggestions can foster a passive consumption of media. These concerns have led many to call for a broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
 
-A relevant factor within this picture is increasing calls for digital and resistance often taking the form of reduced participation or consumption [@syvertsen_digital_2020]. However, for young people with their working life ahead of them non-participation in the digital landscape as a strategy may be a limiting and potentially alienating strategy.
+A relevant factor within this picture is increasing calls for digital and resistance often taking the form of reduced participation or consumption [@syvertsen_digital_2020]. However, for young people with their working life ahead of them non-participation in the digital landscape as a strategy may be a limiting and potentially alienating strategy. Also, given that digital non-participation may remove critical voices from important debates on our futures, a more  tactical and participatory approach may be more productive both on an individual level and for society.
 
 
 ### Introduction to issues for technology use for young people
 
 Some of the greatest areas for concern relate to the developmental changes in for young people as individuals. The impact of increased screen time on mental health and subsequent impact of reduced  social interactions real life are areas of concern under research.
 
-Participation of young people within areas of social media and online gaming in particular reflect ongoing tensions related to the opportunities for self-expression and the dangers of identity formation within digital spaces that are hard for parents to participant in for governments to effectively regulate.
+Participation of young people within areas of social media and online gaming in particular reflect ongoing tensions related to the opportunities for self-expression and the dangers of identity formation within digital spaces that are hard for parents to participant in for governments to effectively regulate.  
 
-AND? The picture is complex reflecting online choices by young people which may have longer terms negative impact on wider agency and diversity. ? Something like this.  
+<!-- AND? The picture is complex reflecting online choices by young people which may have longer terms negative impact on wider agency and diversity. ? Something like this.   -->
 
 ### Introduction to the focus of the study on computer game design and programming (CGD&P)
 
