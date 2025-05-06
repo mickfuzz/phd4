@@ -14,45 +14,59 @@ title: 2. Literature Review
     -   [Research Questions - July
         2024](#research-questions---july-2024)
     -   [Introduction](#introduction)
-    -   [Context of game making and digital projects at home and other
-        informal
-        settings](#context-of-game-making-and-digital-projects-at-home-and-other-informal-settings)
+        -   [Addressing terms used](#addressing-terms-used)
+            -   [Pedagogy - a working definition of
+                pedagogy.](#pedagogy---a-working-definition-of-pedagogy.)
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Barriers to participation in game making](#barriers-to-participation-in-game-making)
         -   [Exploring pedagogies of constructionist
             gaming](#exploring-pedagogies-of-constructionist-gaming)
-        -   [Papert, Resnick & Constructionism and overlaps with in a
-            socio-cultural approaches to
-            pedagogy](#papert-resnick-constructionism-and-overlaps-with-in-a-socio-cultural-approaches-to-pedagogy)
+        -   [INTEGRATE ABOVE - Papert, Resnick & Constructionism and
+            overlaps with in a socio-cultural approaches to
+            pedagogy](#integrate-above---papert-resnick-constructionism-and-overlaps-with-in-a-socio-cultural-approaches-to-pedagogy)
             -   [Socio-cultural approaches within constructionism and
                 their
                 limits](#socio-cultural-approaches-within-constructionism-and-their-limits)
-            -   [(Why not use
-                constructionism)](#why-not-use-constructionism)
-        -   [Creative Family Learning - A constructionist case study in
-            non-formal learning
-            environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
+            -   [(Why not use constructionism) - CHAPTER
+                3?](#why-not-use-constructionism---chapter-3)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
+        -   [On the process of creating frameworks and
+            pedagogies.](#on-the-process-of-creating-frameworks-and-pedagogies.)
         -   [Design frameworks using
             stages](#design-frameworks-using-stages)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
         -   [Pair programming & social/collaborative
             coding](#pair-programming-socialcollaborative-coding)
         -   [Use Modify Create](#use-modify-create)
-        -   [Curricular concepts, semantic waves,
-            LOA](#curricular-concepts-semantic-waves-loa)
+        -   [Explicit teaching of computational
+            thinking](#explicit-teaching-of-computational-thinking)
+            -   [Studies exploring CT as an pedagogical framework to
+                support learning computer coding (INCREASE ANALYSIS OF
+                ABSTRACT
+                CONCRETE)](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding-increase-analysis-of-abstract-concrete)
+            -   [Levels of Abstraction](#levels-of-abstraction)
+        -   [Curricular concepts, semantic waves, LOA - INTEGRATE UP?
+            DOWN?](#curricular-concepts-semantic-waves-loa---integrate-up-down)
             -   [Semantic Profiles and
                 Waves](#semantic-profiles-and-waves)
         -   [PRIMM](#primm)
         -   [Limits of the Sociocultural ideas in UK computing research
-            (above)](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
+            (above) NOT
+            NEDDED](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above-not-nedded)
+        -   [Half-baked games as Microworlds
+            -](#half-baked-games-as-microworlds--)
         -   [Design patterns](#design-patterns)
-        -   [Game(play) design patterns](#gameplay-design-patterns)
+        -   [Using design patterns in
+            education](#using-design-patterns-in-education)
+            -   [Design patterns as intermediate
+                constructs](#design-patterns-as-intermediate-constructs)
+            -   [Scalable game design](#scalable-game-design)
+            -   [Using collections of
+                patterns](#using-collections-of-patterns)
+            -   [Using collections of Game(play) design
+                patterns](#using-collections-of-gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Coding club(houses) & Grass Roots community
@@ -61,31 +75,24 @@ title: 2. Literature Review
                 Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
         -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
+        -   [Creative Family Learning - A constructionist case study in
+            non-formal learning
+            environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
         -   [The Fifth Dimension](#the-fifth-dimension)
-        -   [A final reflection](#a-final-reflection)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
+        -   [Recapping this study's motivations - both broad and my
+            motivations](#recapping-this-studys-motivations---both-broad-and-my-motivations)
+        -   [Returning to gaps in the CGD&P research
+            landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
         -   [The problem statement of the
             thesis](#the-problem-statement-of-the-thesis)
-            -   [pedagogies exist but more are
-                needed](#pedagogies-exist-but-more-are-needed)
+            -   [Pedagogies exist but more are needed that are specific,
+                aligned with non-formal spaces, x and
+                y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.)
+            -   [Research Questions](#research-questions)
         -   [Link to the next chapter](#link-to-the-next-chapter)
     -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
-    -   [Barriers to participation in game making practices (explored in
-        contextual
-        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
-        -   [Institutional Barriers - related to UK School
-            context](#institutional-barriers---related-to-uk-school-context)
-        -   [Technical Barriers - Difficulties in learning to
-            program](#technical-barriers---difficulties-in-learning-to-program)
-        -   [Cultural / Identity barriers to participation in
-            ...](#cultural-identity-barriers-to-participation-in)
-            -   [Barrier - Identity and computer
-                cultures](#barrier---identity-and-computer-cultures)
-        -   [Barrier - unfamiliarity with support
-            practices](#barrier---unfamiliarity-with-support-practices)
-        -   [Outlining cultural barriers / aspects of game
-            making](#outlining-cultural-barriers-aspects-of-game-making)
     -   [Game making and coding and in schools and formal
         education](#game-making-and-coding-and-in-schools-and-formal-education)
         -   [Coding and Computing as a School Subject in the
@@ -110,6 +117,8 @@ title: 2. Literature Review
             space](#funds-of-knowledge-and-third-space)
         -   [Third spaces and the context of this
             study](#third-spaces-and-the-context-of-this-study)
+            -   [Third space concepts in culturally responsive
+                programming](#third-space-concepts-in-culturally-responsive-programming)
         -   [Game making as a fund of
             knowledge](#game-making-as-a-fund-of-knowledge)
             -   [Play circles and MOE as a third
@@ -123,11 +132,6 @@ title: 2. Literature Review
                 UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
         -   [Mantle of the Expert - processes drama used in teaching
             technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
-        -   [Situating Computational thinking within curricular
-            concerns](#situating-computational-thinking-within-curricular-concerns)
-        -   [Studies exploring CT as an pedagogical framework to support
-            learning computer
-            coding](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding)
     -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
         -   [Game making studies addressing gender and
             race](#game-making-studies-addressing-gender-and-race)
@@ -660,6 +664,10 @@ Signpost later discussion.
 
 ### Half-baked games as Microworlds -
 
+Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge [@holbert_constructible_2014-1]
+Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], lnking with core microworld concepts.
+
+
 The concept of 'half-baked' games and microworlds, proposed by Kynigos and colleagues outlines which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve it. Half-baked games can be designed in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts.
 
 This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993]. While Kynigos' design promoted the acquisition of computational thinking, Microworlds can facilatate the exploration of diverse concepts [@rieber_microworlds_2004].
@@ -886,7 +894,7 @@ As such the potential for participants  was under explored and the potential for
 
 This section addresses programmes which
 - promote coding of projects of which games can be apart
-  - in particular address barriers  to participation in non-formal communities (rather than online programmes) 
+  - in particular address barriers  to participation in non-formal communities (rather than online programmes)
 
 As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS].
 
