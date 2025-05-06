@@ -109,27 +109,42 @@ To come - for now see outline of thesis at the end of chapter -->
 
 ## Ideas to add into the introduction
 
-Digital resistance
-BUT
-Non-participation may not be a winning strategy in the digital landscape and the negative way it is going .
 
 
 ## 1. Introduction to the thesis
 
 ### Introduction to increased use and importance of technology in western society
 
-We live in a society where digital technology is increasingly used in work and home life, providing diverse opportunities. However, these opportunities come with potential costs at both a societal and individual level. Convenience and automation of tasks in the form of commercial software services and AI can diminish critical thinking skills and make individuals overly reliant on technology. In particular, sophisticated media production and delivery systems, often driven by algorithmically generated suggestions can foster a passive consumption of media. These concerns have led many to call for a broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
+We live in a society where digital technology is increasingly used in work and home life, providing diverse opportunities.
+
+However, these opportunities come with potential implications and costs at both a societal and individual level.
+
+Over the lifespan of this thesis there has been a shift from a concern around deficit of computer literate workforce to impact of AI on the workforce in more general terms.
+
+Convenience and automation of tasks in the form of commercial software services and AI can diminish critical thinking skills and make individuals overly reliant on technology.
+
+A particular area of concern surrounds sophisticated media production and delivery systems which driven by algorithmically generated suggestions can foster a passive consumption of media. These concerns have led many to call for a broader approach to digital education that includes media literacy, hands-on coding experiences and creative digital projects. This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society.
+
+A relevant factor within this picture is increasing calls for digital and resistance often taking the form of reduced participation or consumption [@syvertsen_digital_2020]. However, for young people with their working life ahead of them non-participation in the digital landscape as a strategy may be a limiting and potentially alienating strategy.
+
 
 ### Introduction to issues for technology use for young people
 
-On an individual level some of the greatest areas for concern relate to the developmental changes in for young people. The impact of increased screen time on mental health and subsequent impact of reduced  social interactions real life are areas of concern under research. Participation of young people within areas of social media and online gaming in particular reflect ongoing tensions related to the opportunities for self-expression and the dangers of identity formation within digital spaces that are hard for parents to participant in for governments to effectively regulate.
+Some of the greatest areas for concern relate to the developmental changes in for young people as individuals. The impact of increased screen time on mental health and subsequent impact of reduced  social interactions real life are areas of concern under research.
+
+Participation of young people within areas of social media and online gaming in particular reflect ongoing tensions related to the opportunities for self-expression and the dangers of identity formation within digital spaces that are hard for parents to participant in for governments to effectively regulate.
+
+AND? The picture is complex reflecting online choices by young people which may have longer terms negative impact on wider agency and diversity. ? Something like this.  
 
 ### Introduction to the focus of the study on computer game design and programming (CGD&P)
 
-This thesis addresses the potential of self-expression and development of skills needed to participate within the area of computer game design and programming (CGD&P). The process bring families together in a new learning environment to learn how to create video games based on early arcade and platform games. This activity took place in the context of significant changes in the domain of both formal and non-formal computing education.  
+REVISIT THIS - HOW TO PUT IN A NUTSHELL?
 
-The
+The research process of this thesis brings families together in a new learning environment to learn how to create video games based on early arcade and platform games.
 
+As such this thesis addresses diverse elements including the development of skills needed to participate in computer game design and programming (CGD&P),  the process of self-expression and identity development within an emerging community, and possibilities to structure the learning experience to help overcome inherent barriers to participation.
+
+CGD&P is relevant in both contexts of both formal and non-formal computing education. The next section outlines the  changing contextual features of both areas.
 
 
 <!-- THIS I THINK IS NOT REALLY ADDRESSED IN THIS THESIS - THE LATTER PART IS ON AGENCY
