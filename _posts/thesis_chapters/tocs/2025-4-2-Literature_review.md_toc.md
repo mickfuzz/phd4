@@ -41,9 +41,10 @@
                 Waves](#semantic-profiles-and-waves)
         -   [PRIMM](#primm)
         -   [Limits of the Sociocultural ideas in UK computing research
-            (above)](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
+            (above) NOT
+            NEDDED](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above-not-nedded)
+        -   [Half-baked games as Microworlds
+            -](#half-baked-games-as-microworlds--)
         -   [Design patterns](#design-patterns)
         -   [Using design patterns in
             education](#using-design-patterns-in-education)

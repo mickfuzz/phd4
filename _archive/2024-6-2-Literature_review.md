@@ -256,7 +256,7 @@ Examples showing semantic wave profiles usually start with the process beginning
 
 ### Problematising distinctions between instruction-based tutorials and unguided approaches
 
-The process of learning technical skills through trial and error is something that many self-driven learners are familiar with. The desire to complete a particular project and self-motivated access to the resources to achieve it is the stuff of computing mythology, recalling the kind of garage innovation that created Apple computer and early hacker computing culture [@fuller_garage_2015]. However, this is not an ideal pedagogy. Even with access to resources and critiques of pure discovery learning are also valid [@mayer_should_2004].
+The process of learning technical skills through trial and error is something that many self-driven learners are familiar with.  However, this is not an ideal pedagogy. Even with access to resources and critiques of pure discovery learning are also valid [@mayer_should_2004].
 
 On the other end of the spectrum, tutorials are a common way of learning coding and exist in many forms and formats [@head_composing_2020; @kim_pedagogical_2017].
 
