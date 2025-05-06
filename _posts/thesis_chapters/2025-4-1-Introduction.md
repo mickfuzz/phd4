@@ -206,6 +206,10 @@ The processes and motivations driving of home education are varied [@fensham-smi
 
 ### Context of wider digital making and culture home and informal settings
 
+MOVED FROM CHAPTER 2 INTEGRATE DOWN
+
+Before addressing studies directly focused on computer game programming in Chapter 2, it is relevant to examine broader studies on areas of activity around games and the resulting diverse learning outcomes. Observations of young people's enthusiastic involvement in digital media and game making, and meta-gaming in informal communities have sparked questions on how to leverage this interest for other educational aims [@gee_what_2004; @papert_mindstorms_1980]. Gee [@gee_what_2004] frames these informal, often online communities as _affinity spaces_ where activities and culture created around games are termed _meta-gaming_. He examines how shared discourses and emerging identities develop within these spaces. Researcher Mizuko Ito's ethnographic approach to studies of informal digital consumption and making in the home [@ito2013connected; @ito_hanging_2010; @ito_living_2009], charts a progression in proficiency of young makers of digital products within online communities.  This approach, connecting the affordances of new online tools with the sociocultural view of learning as embedded within social and cultural contexts, is well represented via case studies and is framed a pedagogical approach described as _Connected Learning_ in a book of the same name [@ito2013connected]. One of the contributors, Sefton Green [@sefton-green_mapping_2013] explores the wider context of digital making including anxieties around the use of digital technology by young people and and it's alignment with valued digital skills required by the workforce. He notes both the potential and current lack of research on the transfer of learning opportunities and learner trajectories between informal experiences, formal learning settings and professional destinations.  
+
 ETHOS AND MOTIVATION
 
 The desire to complete a particular project and self-motivated access to the resources to achieve it is the stuff of computing mythology, recalling the kind of garage innovation that created Apple computer and early hacker computing culture [@fuller_garage_2015].
@@ -224,6 +228,13 @@ TOOLS (keep general)
 The Arduino board and the affordable, compact, and hackable Raspberry Pi computer opened new avenues for physical computing .
 
 In early 2013, MIT released Scratch 2.0, a block-coding tool for beginners, featuring an online editor and enhanced community interaction, including project remixing. Educators have adapted creative 'sandbox' games like Minecraft to develop design skills in a playful environment. Other accessible hardware, such as Makey Makey and Microbit, combine web-based block coding with simple physical computing. For more advanced learners, free web-based courses on authentic, text-based programming languages like Python and JavaScript  added interactive elements to scaffold and motivate the acquisition of coding concepts and practical coding skills. A notable example is Code Academy.
+
+
+THE ROLE OF CONSTRUCTIONISM AND CRITIQUE OF THAT AND MAKER MOVEMENT.
+
+MOVE TO INTRO?
+Vossoughi and other researchers also highlight political and social concerns associated with constructionism
+[@thumlert2018learning; @vossoughi_making_2016]. They argue that a constructionist approach can implicitly favour coding as a pathway to joining the computer programming industry and developing employability skills in young people. Thumlert and colleagues caution against the appropriation of skills such as creativity and 'design thinking', which they argue are increasingly co-opted by market-driven agendas rather than being used for critical and emancipatory purposes [@thumlert2018learning, p.4]. They also warn that this positioning could lead to the integration of constructionist approaches into instruction-based models that are narrowly focused on curricular concerns, rather than fostering the development of computational fluency, which supports learners’ expression within a community [@thumlert2018learning].
 
 
 ### Context of school-based computing education
@@ -476,9 +487,26 @@ I have also put to one side a line of inquiry exploring a drama process introduc
 <!-- Thus proposed motivations for supporting coding and game making should be analysed alongside the financial models which support activities.  -->
 <!-- Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. -->
 
+
+#### (Why not use constructionism) - EDIT DOWN
+
+Constructionism is a popular guiding theory in game making studies, illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, this section explains why I have chosen activity theory as a better fit for the aims of this thesis. I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
+
+While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.  
+
+
+
+
 ### Summary of the theoretical framework of this thesis
 
-In choosing a theoretical approach which aligned with the goals of the research questions and my role as both a practitioner and a researcher, it was vital to select a framework that could address potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). Chapter 3 explored in depth in these frameworks in relation to these needs.
+In choosing a theoretical approach which aligned with the goals of the research questions and my role as both a practitioner and a researcher, it was vital to select a framework that could address potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR).
+
+Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency.
+
+<!-- Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012]. -->
+
+
+Chapter 3 explored in depth in these frameworks in relation to these needs.
 
 
 ## 5. Significance of the study
