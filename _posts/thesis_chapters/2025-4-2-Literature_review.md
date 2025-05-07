@@ -4,7 +4,7 @@ zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
-#  csl-style: harvard-manchester-metropolitan-university # pre-fill the style
+  csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
 title: 2. Literature Review
@@ -221,6 +221,8 @@ This chapter reviews the literature to summarise research  addressing the aims o
 
 Given that this literature review aims to explore exising relevant pedagogies within the research field, a working definition of pedagogy is appropriate given the socio-cultural focus of this study.
 
+In the context of activity theory, pedagogy can be framed as pedagogical tools and processes, functioning as a type of mediational strategy.
+
 **There is an overall differential in specificity.**
 Used in broad terms pedagogy encompasses both the domain of teaching and broad theoretical understandings instruction.
 https://www.iosrjournals.org/iosr-jrme/papers/Vol-11%20Issue-1/Ser-2/B1101020629.pdf
@@ -244,6 +246,9 @@ More specifically within a guiding ethos and overarching techniques, the use of 
 
 Thus this encompasses, tools, context and cultural factors in a way in line with socio-cultural approach.
 
+The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
+NOTE - IM NOT SURE HOW HELPFUL THIS ACTUALLY IS.
+
 
 ## A review of relevant research informing computer game design and programming (CGD&P)
 
@@ -253,6 +258,9 @@ This section addresses studies on computer game design and programming (CGD&P)
 
 EXPLAIN WHY THIS IS FIRST NOT AFTER GENERAL CODING Pedagogies
 
+Before addressing specific pedagogies to programming in general and game making in particular, it is of value to examine the broad context of motivations for undertaking
+
+IS THIS NOT DONE IN THE INTRODUCTION CHAPTER? 
 
 ### Motivations driving computer game design and programming (CGD&P)
 
@@ -261,6 +269,9 @@ Several notable reviews explore the motivations, processes, and impacts of makin
 Kafai and Burke's review [-@kafai_constructionist_2015-1] , which synthesises 55 relevant papers within the framework of constructionist gaming, largely maintains these categories but adds new dimensions. These include studies addressing race-related barriers to participation and social dimensions such as pair programming, social skills, self-reflection, cultural awareness, and a range of technical abilities that facilitate participation in the information society. Collectively, these competencies are framed as 21st Century Skills [@bermingham_approaches_2013]. A review by Denner and colleagues [@denner_does_2019] focuses on computer science learning, breaking this broader concept into subcategories of programming knowledge and problem specification and design.
 
 The narrative and celebratory nature of Kafai and Burke’s review contrasts with the systematic approach of Denner et al. [@denner_does_2019], who make more modest claims. However, Denner et al.'s finding are also positive about the the effectiveness of CGD&P to develop computing science learning and motivation. While Kafai and Burke’s review highlights the broad potential of CGD&P and the barriers to participation (explored in the next section of this chapter), their discussion of pedagogies is limited and expressed in general terms [@illingworth_review_2017]. Denner et al. [@denner_does_2019] outline three strands of pedagogical interest: design-build-test, stepwise instruction, and social pedagogical approaches. However, these strands are described only in general terms, which is frustrating given their stated intent to provide a systematic review and the lack of similar breakdowns in other reviews. Later in this chapter, I explore these strands and analyse the pedagogies used in this field in more detail.
+
+INTEGRATE UP   
+Denner's [-@denner_does_2019] systematic review of game making studies, identifies three main pedagogical streams: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches.
 
 <!-- THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!! -->
 <!-- Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant.  -->
@@ -290,7 +301,7 @@ In their project-based intervention, Girls Creating Games, Denner and Werner foc
 Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
 
 
-### Exploring pedagogies of constructionist gaming
+### An overview of constructionist approaches
 
 <!-- Before turning to a more detailed exploration of distinct pedagogies used in or appropriate for CGD&P,  -->
 
@@ -300,12 +311,11 @@ Kafai and Burke
 
 also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity. -->
 
-DROP / OR MOVE - INTRO / CONCLUSION?
-This section explores Kafai and Burke’s framing of constructionist gaming as a dominant voice in the field, situating the concerns of this thesis within the existing body of research. To achieve this, I will examine analysis of constructionism, particularly as a pedagogical approach.
+The work of constructionist researchers is vital in the field of CGD&P and programming education in general. Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field. As such, this section situating the concerns of this thesis within the existing body of constructionist research before widening the focus explore the principle strands within it.
 
-#### Microworlds as Pedagogy
+To achieve this, I will examine analysis of constructionism, via its design principles and pedagogical approaches and guiding ethos.  
 
-Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
+
 
 #### Constructionist design heuristics
 
@@ -316,7 +326,9 @@ Most relevant to the domain of this study are constructionist design principles 
 In earlier work focused on creative coding environments similar concepts of  low floors, wide walls and high ceilings [@resnick_reflections_2005, @resnick_scratch:_2009]. DEVELOP.  
 
 
+#### Microworlds as Pedagogy
 
+Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
 <!--
 THIS IS IS FROM
 
@@ -327,14 +339,15 @@ We added a fourth principle to emphasize the equally important social dimension 
 
 Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
 
-Recently, Kafai has revisited the topic to emphasise the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.  Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
+
+
+
+
 
 <!-- Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies . -->
 
 
-### INTEGRATE ABOVE - Papert, Resnick & Constructionism and overlaps with in a socio-cultural approaches to pedagogy
-
-#### Socio-cultural approaches within constructionism and their limits
+#### Community approaches within constructionism and their limits
 
 One concept advanced but not fully developed in constructionist research is that of a Constructopedia [@papert_technological_1995], imagines an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] the concept lives on in a different format, remixing potential in the Scratch community.
 
@@ -344,14 +357,25 @@ An important distinction exists however in the that remixing of  Scratch project
 <!-- Look the potential of at constructopedia samplers
 [@papert_technological_1995], an attempt using the computer clubhouse to make this happen using the potential of the internet [@chapman_pearls_2006]. -->
 
+Computational Fluency, as a concept while not explicitly included in the reviews of CGD&P is inherently valued as personal expression and participation within a community.
+
+#### Coding club(houses) & Grass Roots community responses
+
+It of interest to make a link between early influnce of the constructionist school founded by Papert and this thesis. In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms, although with little detail on how to replicate them.
+
+Additionally, Bruckman notes "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52)
+
+Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school [@zagal_samba_2005] and to compare it,  to a Computer clubhouse, an MIT initiative designed inspired in party by Papert's vision [@resnick_computer_1996; @peppler_computer_2009]. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice and other social practices including the importance of showcase events share created work and flexibility of ways of participating and a diversity of skill levels and backgrounds of participants.
 
 Roque in Family Creative Learning, addressed learning types, but limited in conceptual approaches.
 
-Computational Fluency, as a concept while not explicitly included in the reviews of CGD&P is inherently valued as personal expression and participation within a community.
+#### Culturally responsive and critical approaches and critiques of constructionism
 
+Recently, Kafai has revisited the topic to emphasise the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
 
+Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
-
+An exception is the promotion of design cycles and a design thinking approach advanced by Resnick. A later section addresses this in more detail.
 
 <!--
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, -->
@@ -373,17 +397,20 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 ## Pedagogies to support game making via coding
 
-One of the main themes of this review is to explore the pedagogies available to support coding, particularly in relation to Research Question 1 (RQ1). In the context of activity theory, pedagogy can be framed as pedagogical tools and processes, functioning as a type of mediational strategy. The following discussion focuses on pedagogies that are especially relevant to digital making, specifically game making, in informal, real-life (as opposed to online) communities. Denner's [-@denner_does_2019] systematic review of game making studies, identifies three main pedagogical streams: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches.
+One of the main themes of this review is to explore the pedagogies available to support coding). The following sections focus on pedagogies that are relevant to first general programming, and then more specifically  game making.
+
+<!-- It also focuses on those mo non-formal, real-life (as opposed to online) communities. -->
 
 
-This section will broadly follow these streams. First, I will review design thinking approaches and project-based learning. Next, I will outline pedagogies centred around scaffolding game production through progressive steps, such as the Use, Modify, and Create (UMC) framework. Finally, I will examine the social and cultural aspects of coding clubs and informal programmes that serve as venues for CGD&P.
+
+First, I will review design thinking approaches and project-based learning. Next, I will outline pedagogies centred around scaffolding game production through progressive steps, such as the Use, Modify, and Create (UMC) framework.
+
+MOVE? TO INTRO OR LATER SECTION
+Finally, I will examine the social and cultural aspects of coding clubs and informal programmes that serve as venues for CGD&P.
 
 
-### On the process of creating frameworks and pedagogies.
 
-The work of Quintana et al contains useful guidelines for checking the suitability of a framework to support science education [@quintana_scaffolding_2004]. In particular guideline x, and y can be identified in the use of GDPS in this research.
 
-NOTE - Is this helpful for the final section
 
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
@@ -409,8 +436,6 @@ Diagram [@resnick_lifelong_2017] -->
 
 One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
-
-
 <!--
 A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
  -->
@@ -419,8 +444,8 @@ While the value of design thinking stages for educators planning sessions seems 
 The authors, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
 ADD TO THE PROBLEMS STATEMENT.  
 
-
-The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share [@hester_engineering_2007]. It has been adopted by the area of computing is one used in a recent book on coding by Bers [@bers_coding_2021]. HOW IS THIS USED? AS A PEDAGOGY?
+<!--
+The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share [@hester_engineering_2007]. It has been adopted by the area of computing is one used in a recent book on coding by Bers [@bers_coding_2021]. HOW IS THIS USED? AS A PEDAGOGY? -->
 
 Thus, while the ethos and benefits of this approach are convincing RESNICK'S TAKE, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  
 
@@ -664,8 +689,8 @@ Signpost later discussion.
 
 ### Half-baked games as Microworlds -
 
-Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge [@holbert_constructible_2014-1]
-Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], lnking with core microworld concepts.
+Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge linking concepts of driving video games with scientific concepts of velocity and graph-based representations [@holbert_constructible_2014-1]
+Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], linking with core microworld concepts.
 
 
 The concept of 'half-baked' games and microworlds, proposed by Kynigos and colleagues outlines which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve it. Half-baked games can be designed in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts.
@@ -901,13 +926,7 @@ As such, it leaves to one side extensive programmes which provide instruction ba
 To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity, and structures of pedagogy used.
 
 
-### Coding club(houses) & Grass Roots community responses
 
-It of interest to make a link between early influnce of the constructionist school founded by Papert and this thesis. In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms, although with little detail on how to replicate them.
-
-Additionally, Bruckman notes "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52)
-
-Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school [@zagal_samba_2005] and to compare it,  to a Computer clubhouse, an MIT initiative designed inspired in party by Papert's vision [@resnick_computer_1996; @peppler_computer_2009]. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice and other social practices including the importance of showcase events share created work and flexibility of ways of participating and a diversity of skill levels and backgrounds of participants.
 
 <!-- PERHAPS SAVE A SLICE OF BRUCKMAN TO END - AFTER THE  FORM OF CODE CLUBS. -->
 <!-- FCL worked to expose limits to the online resources and communities. -->
