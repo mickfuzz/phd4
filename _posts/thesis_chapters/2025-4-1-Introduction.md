@@ -418,10 +418,9 @@ The general areas of perceived need are as follows.
 
 #### On Fluency & Agency
 
-An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work.
 
-One concept of promise, aligned with is that of fluency
-which is described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018].
+
+Concepts of promise, are that of fluency and agency
 
 The guiding principle unifying these terms is being self expression & the following are relevant.
 

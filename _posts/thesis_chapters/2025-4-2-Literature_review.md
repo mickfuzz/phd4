@@ -327,7 +327,7 @@ In earlier work focused on creative coding environments similar concepts of  low
 
 #### Microworlds as Pedagogy
 
-Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter+), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
+Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy [@laurillard2020significance]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter+), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
 <!--
 THIS IS IS FROM
 
@@ -399,55 +399,64 @@ FCL draws on the underlying  sociocultural approaches within Barron's foundation
 <!-- However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed. -->
 
 
-#### Culturally responsive and critical approaches and critiques of constructionism
 
-Recently, Kafai has revisited the topic to emphasise the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
+
+
+
+#### Constructionist framing of computational thinking (CT)
+
+A key strand of computing education research involves variations in approaches to dealing with abstract concepts within the computing programming.
+
+This strand is present in early constructionist research via Papert and Turkle's [-@papert_epistemological_1990] work on diversity in approaches to teaching coding. The authors examined behaviours and attitudes of young novice coders and found approach other that that dominant in contemporary research which they described as a formal, abstract approach "that emphasizes control and through structure and planning". They described alternative, concrete coding approaches.   Techniques which facilitated concrete approaches include the use of tangible physical and digital objects, particularly those which could be shared within communities.
+
+We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of computational thinking (CT). The first is an influential take from Jeanette Wing focusing on varied elements of abstraction processes [@wing2011research]. Many learning resources aimed at teachers present the underlying principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate; @dong_prada_2019]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
+
+<!-- was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?".  -->
+
+Constructionist researchers Brennan and Resnick [-@brennan_new_2012]  took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map of computational thinking includes computational concepts, computational practices and computational perspectives. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008].
+YES BY WHY AND LINK BACK TO CONSTRUCTIONISM
+
+
+
+#### Fluency and agency as relevant learner outcomes
+
+While the ethos and like its theoretical underpinning are  while difficult to locate precisely [@laurillard2020significance, p.29], the importance of self-expression within a community of peers features. Encapsulating this ethos as an learner attribute which constructionist approaches serve to facilitate receives broad attention in constructionist literature. A candidate for such an attribute present in several strands of constructionist research is that of varied forms of fluency, described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. The literature on these forms of fluency within constructionist research comprises a blend of features including: technical skills needed to complete projects and the importance of self-expression both as a motivational factor via valuing of personal expression as a form of participation within a community of peers.
+
+<!-- An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work. -->
+
+In the work of Kafai and colleagues [-@kafai_connected_2017] FIND OTHERS on game making and similar media projects is the idea of collaborative agency. This concept which draws on the work of S and B,  to communicate the value of the sharing of created projects. Specifically, collaborative agency refers to  "learners’ efforts for searching out, organizing and distributing responsibilities in collaborations with others as they create collaborative artifacts"
+
+
+#### Constructionist pedagogies - Project-based rather than instruction-based
+
+While the goal of varied forms of fluency and agency is in line with the approaches outlined above, there is a potential gap in constructionist research regarding pedagogical approaches. This section examines wider and more specific recommendations from key constructionist researchers.
+
+
+
+Addressing broad approaches, Kafai has emphasised the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
+
+Another broad approach is that of design cycles within a project-based approach advanced by Resnick. A later section addresses this in more detail.
+
 
 Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
-An exception is the promotion of design cycles and a design thinking approach advanced by Resnick. A later section addresses this in more detail.
+While this is broadly true, it is ironic given the stance against tools first approaches of Kafai.
+In even in Kafai's review of CGD&P, specific pedagogies were lacking.
 
-#### Project-based rather than instruction-based towards the goal of fluency - Encompassing Computational Thinking dimensions?
-
-- The role of projects.
-- The promotion of design cycles by Resnick.
-- The end goal of varied forms of fluency
-
-
-THE FOLLOWING SECTION NEEDS REWORKING
-
-- move some to the intro chapter -
-
-#### Constructionist framing of computational thinking
-
-INTRO?
+It raises a question why, given this perspective are underpinning pedagogies lacking.
+I propose that this deficit may be due to a deficit in analytical processes and theoretical concepts relating to agency, and mediational strategies.
+This relates to the primary research question of this thesis. And brings us to the next section.  
 
 
-PERHAPS BUT LEAD WITH PAPERT AND TURKLE?
-We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of computational thinking (CT).
+<!-- but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29] -->
 
-The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instan#ces, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
-
-Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". The researchers took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map they created includes computational concepts, computational practices and computational perspectives.
-
-
-This interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules.
-
-This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curiculum may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
+<!-- This more concrete interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules. -->
+<!-- This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curriculum may be familiar from websites, posters and other supporting material created by groups like Barefoot computing.  -->
+<!-- The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts. -->
+<!-- This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020]. -->
+<!-- In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user. -->
 
 
-
-#### Studies exploring CT as an pedagogical framework to support learning computer coding (INCREASE ANALYSIS OF ABSTRACT CONCRETE)
-
-The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
-
-Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
-
-#### Fluency and agency as relevant learner outcomes - THOUGHT NEEDED WHAT GOES WHERE
-
-Computational Fluency, as a concept while not explicitly included in the reviews of CGD&P is inherently valued as personal expression and participation within a community.
-
-Related is the idea of collaborative agency, drawing on the work of S and B, advanced by Kafai and Burke [-@kafai_connected_2017] to communicate the value of shared crated projects specifically,  "learners’ efforts for searching out, organizing and distributing responsibilities in collaborations with others as they create collaborative artifacts"
 
 <!--
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, -->
@@ -648,6 +657,10 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 
 
 #### Levels of Abstraction
+
+
+
+The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002].  
 
 In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
 
