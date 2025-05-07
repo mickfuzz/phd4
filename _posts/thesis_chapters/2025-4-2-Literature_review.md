@@ -10,165 +10,162 @@ categories: chapter
 title: 2. Literature Review
 
 ---
--   [Literature Review](#literature-review)
-    -   [Research Questions - July
-        2024](#research-questions---july-2024)
-    -   [Introduction](#introduction)
-        -   [Addressing terms used](#addressing-terms-used)
-            -   [Pedagogy - a working definition of
-                pedagogy.](#pedagogy---a-working-definition-of-pedagogy.)
-    -   [A review of relevant research informing computer game design
-        and programming
-        (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [The benefits of computer game design and programming
-            (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
-    -   [An overview of constructionist
-        approaches](#an-overview-of-constructionist-approaches)
-        -   [Constructionist design
-            heuristics](#constructionist-design-heuristics)
-        -   [Microworlds as Pedagogy](#microworlds-as-pedagogy)
-        -   [Community approaches within constructionism and their
-            limits](#community-approaches-within-constructionism-and-their-limits)
-        -   [Coding club(houses) & Grass Roots community
-            responses](#coding-clubhouses-grass-roots-community-responses)
-            -   [Creative Fam%ily Learning - A constructionist case
-                study in non-formal learning environment -
-                COMPRESS](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment---compress)
-        -   [Culturally responsive and critical approaches and critiques
-            of
-            constructionism](#culturally-responsive-and-critical-approaches-and-critiques-of-constructionism)
-    -   [Pedagogies to support game making via
-        coding](#pedagogies-to-support-game-making-via-coding)
-        -   [Design frameworks using
-            stages](#design-frameworks-using-stages)
+-   [Research Questions - July 2024](#research-questions---july-2024)
+-   [Introduction](#introduction)
+    -   [Addressing terms used](#addressing-terms-used)
+        -   [Pedagogy - a working definition of
+            pedagogy.](#pedagogy---a-working-definition-of-pedagogy.)
+-   [A review of relevant research informing computer game design and
+    programming
+    (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
+    -   [The benefits of computer game design and programming
+        (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
+-   [An overview of constructionist
+    approaches](#an-overview-of-constructionist-approaches)
+    -   [Constructionist design
+        heuristics](#constructionist-design-heuristics)
+    -   [Microworlds as Pedagogy](#microworlds-as-pedagogy)
+    -   [Tools with community assets](#tools-with-community-assets)
+    -   [Coding club(houses) & Family Creative
+        Learning](#coding-clubhouses-family-creative-learning)
+    -   [Culturally responsive and critical approaches and critiques of
+        constructionism](#culturally-responsive-and-critical-approaches-and-critiques-of-constructionism)
+    -   [Project-based rather than instruction-based towards the goal of
+        fluency - Encompassing Computational Thinking
+        dimensions?](#project-based-rather-than-instruction-based-towards-the-goal-of-fluency---encompassing-computational-thinking-dimensions)
+    -   [Constructionist framing of computational
+        thinking](#constructionist-framing-of-computational-thinking)
+    -   [Studies exploring CT as an pedagogical framework to support
+        learning computer coding (INCREASE ANALYSIS OF ABSTRACT
+        CONCRETE)](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding-increase-analysis-of-abstract-concrete)
+    -   [Fluency and agency as relevant learner outcomes - THOUGHT
+        NEEDED WHAT GOES
+        WHERE](#fluency-and-agency-as-relevant-learner-outcomes---thought-needed-what-goes-where)
+-   [Pedagogies to support game making via
+    coding](#pedagogies-to-support-game-making-via-coding)
+    -   [Explicit teaching of computational thinking - Principles
+        first](#explicit-teaching-of-computational-thinking---principles-first)
+    -   [Design frameworks using stages &
+        PBL](#design-frameworks-using-stages-pbl)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
-        -   [Pair programming & social/collaborative
-            coding](#pair-programming-socialcollaborative-coding)
-        -   [Use Modify Create](#use-modify-create)
-        -   [Explicit teaching of computational
-            thinking](#explicit-teaching-of-computational-thinking)
-            -   [Studies exploring CT as an pedagogical framework to
-                support learning computer coding (INCREASE ANALYSIS OF
-                ABSTRACT
-                CONCRETE)](#studies-exploring-ct-as-an-pedagogical-framework-to-support-learning-computer-coding-increase-analysis-of-abstract-concrete)
-            -   [Levels of Abstraction](#levels-of-abstraction)
-        -   [Curricular concepts, semantic waves, LOA - INTEGRATE UP?
-            DOWN?](#curricular-concepts-semantic-waves-loa---integrate-up-down)
-            -   [Semantic Profiles and
-                Waves](#semantic-profiles-and-waves)
-        -   [PRIMM](#primm)
-        -   [Limits of the Sociocultural ideas in UK computing research
-            (above) NOT
-            NEDDED](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above-not-nedded)
-        -   [Half-baked games as Microworlds
-            -](#half-baked-games-as-microworlds--)
-        -   [Design patterns](#design-patterns)
-        -   [Using design patterns in
-            education](#using-design-patterns-in-education)
-            -   [Design patterns as intermediate
-                constructs](#design-patterns-as-intermediate-constructs)
-            -   [Scalable game design](#scalable-game-design)
-            -   [Using collections of
-                patterns](#using-collections-of-patterns)
-            -   [Using collections of Game(play) design
-                patterns](#using-collections-of-gameplay-design-patterns)
-    -   [Programmes working to address
-        challenge](#programmes-working-to-address-challenge)
-        -   [Game competitions](#game-competitions)
-            -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
-                Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
-        -   [Educational Game Jams](#educational-game-jams)
-        -   [The Fifth Dimension](#the-fifth-dimension)
-    -   [Synthesis of chapter / discussion / problem
-        statement](#synthesis-of-chapter-discussion-problem-statement)
-        -   [Recapping this study's motivations - both broad and my
-            motivations](#recapping-this-studys-motivations---both-broad-and-my-motivations)
-        -   [Returning to gaps in the CGD&P research
-            landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
-        -   [The problem statement of the
-            thesis](#the-problem-statement-of-the-thesis)
-            -   [Pedagogies exist but more are needed that are specific,
-                aligned with non-formal spaces, x and
-                y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.)
-            -   [Research Questions](#research-questions)
-        -   [Link to the next chapter](#link-to-the-next-chapter)
-    -   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
-    -   [Game making and coding and in schools and formal
-        education](#game-making-and-coding-and-in-schools-and-formal-education)
-        -   [Coding and Computing as a School Subject in the
-            UK](#coding-and-computing-as-a-school-subject-in-the-uk)
-    -   [Context of game making and wider digital making and culture
-        home and informal
-        settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
-        -   [On games as a home and informal
-            culture](#on-games-as-a-home-and-informal-culture)
-        -   [Context of Home Education and family
-            learning](#context-of-home-education-and-family-learning)
-    -   [Game making and maker culture in non-formal learning contexts
-        and third
-        spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
-        -   [Physical spaces which suit non-formal
-            approaches](#physical-spaces-which-suit-non-formal-approaches)
-            -   [An area of tension to address - limited leaner choice
-                in process if driven by
-                curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
-        -   [Sketchy pedagogies](#sketchy-pedagogies)
-        -   [Funds of knowledge and third
-            space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces and the context of this
-            study](#third-spaces-and-the-context-of-this-study)
-            -   [Third space concepts in culturally responsive
-                programming](#third-space-concepts-in-culturally-responsive-programming)
-        -   [Game making as a fund of
-            knowledge](#game-making-as-a-fund-of-knowledge)
-            -   [Play circles and MOE as a third
-                space](#play-circles-and-moe-as-a-third-space)
-        -   [Work in non-formal settings drawing on home
-            interests](#work-in-non-formal-settings-drawing-on-home-interests)
-        -   [Mozilla - Teach the Web as context and
-            community](#mozilla---teach-the-web-as-context-and-community)
-            -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
-                MERGE
-                UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
-        -   [Mantle of the Expert - processes drama used in teaching
-            technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
-    -   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
-        -   [Game making studies addressing gender and
-            race](#game-making-studies-addressing-gender-and-race)
-    -   [Project Based Learning (PBL)](#project-based-learning-pbl-1)
-        -   [Project Based Learning as an inclusive
-            pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
-        -   [Complications with Project Based
-            Learning](#complications-with-project-based-learning)
-        -   [Game making and Project / Problem Based
-            Learning](#game-making-and-project-problem-based-learning)
-        -   [PBL and Authenticity in the domain of teaching
-            programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
-        -   [Issues of Inclusion and PBL addressed through UDL
-            principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
-        -   [MDA and conceptual game elements
-            framework](#mda-and-conceptual-game-elements-framework)
-    -   [Synthesis of chapter / discussion - PREVIOUS
-        VERSION](#synthesis-of-chapter-discussion---previous-version)
-        -   [Problematising distinctions between instruction-based
-            tutorials and unguided approaches - towards guided
-            participation - FOR
-            DISCUSSION](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches---towards-guided-participation---for-discussion)
-        -   [Deficit of cultural processes & appropriate frameworks to
-            support community-based coding for
-            beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
-            -   [Supporting roles and social practices to support
-                learners](#supporting-roles-and-social-practices-to-support-learners)
-        -   [Tensions surrounding authenticity of tool
-            use](#tensions-surrounding-authenticity-of-tool-use)
-        -   [Sythetis of current Responses to challenges presented -
-            MOVE
-            LATER?](#sythetis-of-current-responses-to-challenges-presented---move-later)
-        -   [Synthesis and analysis of models of responses to address
-            the
-            problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
-            -   [Financial challenges](#financial-challenges)
-        -   [Removed](#removed)
+    -   [Pair programming & social/collaborative coding
+        -](#pair-programming-socialcollaborative-coding--)
+    -   [Use Modify Create](#use-modify-create)
+        -   [Levels of Abstraction](#levels-of-abstraction)
+    -   [Curricular concepts, semantic waves, LOA - INTEGRATE UP?
+        DOWN?](#curricular-concepts-semantic-waves-loa---integrate-up-down)
+        -   [Semantic Profiles and Waves](#semantic-profiles-and-waves)
+    -   [PRIMM](#primm)
+    -   [Limits of the Sociocultural ideas in UK computing research
+        (above) NOT
+        NEEDED?](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above-not-needed)
+-   [GAME SPECIFIC -](#game-specific--)
+    -   [Half-baked games as Microworlds
+        -](#half-baked-games-as-microworlds--)
+    -   [Design patterns](#design-patterns)
+    -   [Using design patterns in
+        education](#using-design-patterns-in-education)
+        -   [Design patterns as intermediate
+            constructs](#design-patterns-as-intermediate-constructs)
+        -   [Scalable game design](#scalable-game-design)
+        -   [Using collections of
+            patterns](#using-collections-of-patterns)
+        -   [Using collections of Game(play) design
+            patterns](#using-collections-of-gameplay-design-patterns)
+-   [Programmes working to address
+    challenge](#programmes-working-to-address-challenge)
+    -   [Game competitions](#game-competitions)
+        -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
+            Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
+    -   [Educational Game Jams](#educational-game-jams)
+    -   [The Fifth Dimension](#the-fifth-dimension)
+-   [Synthesis of chapter / discussion / problem
+    statement](#synthesis-of-chapter-discussion-problem-statement)
+    -   [Recapping this study's motivations - both broad and my
+        motivations](#recapping-this-studys-motivations---both-broad-and-my-motivations)
+    -   [Returning to gaps in the CGD&P research
+        landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
+    -   [The problem statement of the
+        thesis](#the-problem-statement-of-the-thesis)
+        -   [Pedagogies exist but more are needed that are specific,
+            aligned with non-formal spaces, x and
+            y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.)
+        -   [Research Questions](#research-questions)
+    -   [Link to the next chapter](#link-to-the-next-chapter)
+-   [Holding Zone / For the Chop?](#holding-zone-for-the-chop)
+-   [Game making and coding and in schools and formal
+    education](#game-making-and-coding-and-in-schools-and-formal-education)
+    -   [Coding and Computing as a School Subject in the
+        UK](#coding-and-computing-as-a-school-subject-in-the-uk)
+-   [Context of game making and wider digital making and culture home
+    and informal
+    settings](#context-of-game-making-and-wider-digital-making-and-culture-home-and-informal-settings)
+    -   [On games as a home and informal
+        culture](#on-games-as-a-home-and-informal-culture)
+    -   [Context of Home Education and family
+        learning](#context-of-home-education-and-family-learning)
+-   [Game making and maker culture in non-formal learning contexts and
+    third
+    spaces](#game-making-and-maker-culture-in-non-formal-learning-contexts-and-third-spaces)
+    -   [Physical spaces which suit non-formal
+        approaches](#physical-spaces-which-suit-non-formal-approaches)
+        -   [An area of tension to address - limited leaner choice in
+            process if driven by
+            curriculum.](#an-area-of-tension-to-address---limited-leaner-choice-in-process-if-driven-by-curriculum.)
+    -   [Sketchy pedagogies](#sketchy-pedagogies)
+    -   [Funds of knowledge and third
+        space](#funds-of-knowledge-and-third-space)
+    -   [Third spaces and the context of this
+        study](#third-spaces-and-the-context-of-this-study)
+        -   [Third space concepts in culturally responsive
+            programming](#third-space-concepts-in-culturally-responsive-programming)
+    -   [Game making as a fund of
+        knowledge](#game-making-as-a-fund-of-knowledge)
+        -   [Play circles and MOE as a third
+            space](#play-circles-and-moe-as-a-third-space)
+    -   [Work in non-formal settings drawing on home
+        interests](#work-in-non-formal-settings-drawing-on-home-interests)
+    -   [Mozilla - Teach the Web as context and
+        community](#mozilla---teach-the-web-as-context-and-community)
+        -   [Code playgrounds - TOO SPECIFIC? MOVE OR SUMMARISE AND
+            MERGE
+            UP](#code-playgrounds---too-specific-move-or-summarise-and-merge-up)
+    -   [Mantle of the Expert - processes drama used in teaching
+        technology](#mantle-of-the-expert---processes-drama-used-in-teaching-technology)
+-   [To perhaps add to Lit REVIEW](#to-perhaps-add-to-lit-review)
+    -   [Game making studies addressing gender and
+        race](#game-making-studies-addressing-gender-and-race)
+-   [Project Based Learning (PBL)](#project-based-learning-pbl-1)
+    -   [Project Based Learning as an inclusive
+        pedagogy](#project-based-learning-as-an-inclusive-pedagogy)
+    -   [Complications with Project Based
+        Learning](#complications-with-project-based-learning)
+    -   [Game making and Project / Problem Based
+        Learning](#game-making-and-project-problem-based-learning)
+    -   [PBL and Authenticity in the domain of teaching
+        programming](#pbl-and-authenticity-in-the-domain-of-teaching-programming)
+    -   [Issues of Inclusion and PBL addressed through UDL
+        principles](#issues-of-inclusion-and-pbl-addressed-through-udl-principles)
+    -   [MDA and conceptual game elements
+        framework](#mda-and-conceptual-game-elements-framework)
+-   [Synthesis of chapter / discussion - PREVIOUS
+    VERSION](#synthesis-of-chapter-discussion---previous-version)
+    -   [Problematising distinctions between instruction-based tutorials
+        and unguided approaches - towards guided participation - FOR
+        DISCUSSION](#problematising-distinctions-between-instruction-based-tutorials-and-unguided-approaches---towards-guided-participation---for-discussion)
+    -   [Deficit of cultural processes & appropriate frameworks to
+        support community-based coding for
+        beginners](#deficit-of-cultural-processes-appropriate-frameworks-to-support-community-based-coding-for-beginners)
+        -   [Supporting roles and social practices to support
+            learners](#supporting-roles-and-social-practices-to-support-learners)
+    -   [Tensions surrounding authenticity of tool
+        use](#tensions-surrounding-authenticity-of-tool-use)
+    -   [Sythetis of current Responses to challenges presented - MOVE
+        LATER?](#sythetis-of-current-responses-to-challenges-presented---move-later)
+    -   [Synthesis and analysis of models of responses to address the
+        problem](#synthesis-and-analysis-of-models-of-responses-to-address-the-problem)
+        -   [Financial challenges](#financial-challenges)
+    -   [Removed](#removed)
 
 # Literature Review
 
@@ -273,6 +270,9 @@ The narrative and celebratory nature of Kafai and Burke’s review contrasts wit
 INTEGRATE UP   
 Denner's [-@denner_does_2019] systematic review of game making studies, identifies three main pedagogical streams: design frameworks (Design-Build-Test), step-based pedagogies, and social approaches.
 
+INTEGRATE UP   
+Illingworth's review [@illingworth_review_2017] of Kafai and Burke’s influential book on game making for learning [-@kafai_connected_2016], notes the lacks of specific details of the pedagogical approaches involved.
+
 <!-- THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!! -->
 <!-- Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant.  -->
 
@@ -316,7 +316,6 @@ The work of constructionist researchers is vital in the field of CGD&P and progr
 To achieve this, I will examine analysis of constructionism, via its design principles and pedagogical approaches and guiding ethos.  
 
 
-
 #### Constructionist design heuristics
 
 Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016]. When pedagogy is addressed in recent constructionist studies, it generally takes the form of broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017].
@@ -328,7 +327,7 @@ In earlier work focused on creative coding environments similar concepts of  low
 
 #### Microworlds as Pedagogy
 
-Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
+Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter+), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
 <!--
 THIS IS IS FROM
 
@@ -341,44 +340,63 @@ Open windows: a tool to facilitate the sharing of digital media. The creation of
 
 <!-- Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies . -->
 
+#### Tools with community assets
 
-#### Community approaches within constructionism and their limits
+While many toolsets have emerged from constructionist school, Scratch as an example is of note due to its explemplificaiton of the design heuristics and as a tool used in many CGD&P programmes.
 
-One concept advanced but not fully developed in constructionist research is that of a Constructopedia [@papert_technological_1995], imagines an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] the concept lives on in a different format, remixing potential in the Scratch community.
+One area of scaffolding is in the provision of a library of assets.
 
-An important distinction exists however in the that remixing of  Scratch projects is complicated by the an embedded nature of the features. The process of extracting them and implementing them is neither straightforward or guided.
+Another is in the online community and the design decision to make all created products remixable by others by default.
 
+The remixing of  Scratch projects is complicated by the an embedded nature of the features. The process of extracting them and implementing them is neither straightforward or guided.
+
+One concept advanced to address this in constructionist research is that of a Constructopedia [@papert_technological_1995], an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] none remain an idea perhaps limited by the broadness of its scope.
 
 <!-- Look the potential of at constructopedia samplers
 [@papert_technological_1995], an attempt using the computer clubhouse to make this happen using the potential of the internet [@chapman_pearls_2006]. -->
 
-Computational Fluency, as a concept while not explicitly included in the reviews of CGD&P is inherently valued as personal expression and participation within a community.
 
-#### Coding club(houses) & Grass Roots community responses
 
-It of interest to make a link between early influnce of the constructionist school founded by Papert and this thesis. In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980]. In the same book, Papert talks about LOGO environments and LOGO culture in extravagant and idealised terms, although with little detail on how to replicate them.
 
-Additionally, Bruckman notes "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52)
+#### Coding club(houses) &  Family Creative Learning
+
+It of interest to make a link between early influnce of the constructionist school founded by Papert and this thesis. In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980].
+
+Bruckman notes "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52)
 
 Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school [@zagal_samba_2005] and to compare it,  to a Computer clubhouse, an MIT initiative designed inspired in party by Papert's vision [@resnick_computer_1996; @peppler_computer_2009]. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice and other social practices including the importance of showcase events share created work and flexibility of ways of participating and a diversity of skill levels and backgrounds of participants.
-
-Roque in Family Creative Learning, addressed learning types, but limited in conceptual approaches.
-
-
-##### Creative Family Learning - A constructionist case study in non-formal learning environment - COMPRESS
 
 
 
 <!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
-Correa (2015), explores the role of children as brokers of technology in family environments.
 
-The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017]. Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, nontechnical consultant and learner.  
+<!-- Correa (2015), explores the role of children as brokers of technology in family environments. MOVE LATER? WITHIN 5D? BARRON?  -->
 
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
 
-To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts despite the grounding in Barron's work which does that.
 
+<!-- In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW,  -->
+
+SAY HOW EXPLICITLY CONSTRUCTIONIST?
+The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding.
+
+Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.
+
+In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009].
+
+Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, non-technical consultant and learner.  
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles.
+
+The research team created a detailed guide to replicate the programme [@leggett_family_2017]. MORE DETAIL ON THIS?
+
+
+
+<!-- To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. -->
+
+FCL draws on the underlying  sociocultural approaches within Barron's foundational work. In the following literature review sections I will examine sociocultural approaches and concepts that may be used in wider contexts but also applicable to CGD&P.
+
+<!-- However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed. -->
 
 
 #### Culturally responsive and critical approaches and critiques of constructionism
@@ -400,10 +418,10 @@ THE FOLLOWING SECTION NEEDS REWORKING
 
 - move some to the intro chapter -
 
-#### Explicit teaching of computational thinking - RENAME ?
+#### Constructionist framing of computational thinking
 
 INTRO?
-The promotion of computational thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016].
+
 
 PERHAPS BUT LEAD WITH PAPERT AND TURKLE?
 We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of computational thinking (CT).
@@ -424,6 +442,12 @@ This broader, process driven definition of CT has been used and adapted by many 
 The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
 
 Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
+
+#### Fluency and agency as relevant learner outcomes - THOUGHT NEEDED WHAT GOES WHERE
+
+Computational Fluency, as a concept while not explicitly included in the reviews of CGD&P is inherently valued as personal expression and participation within a community.
+
+Related is the idea of collaborative agency, drawing on the work of S and B, advanced by Kafai and Burke [-@kafai_connected_2017] to communicate the value of shared crated projects specifically,  "learners’ efforts for searching out, organizing and distributing responsibilities in collaborations with others as they create collaborative artifacts"
 
 <!--
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, -->
@@ -656,9 +680,7 @@ A common pedagogical strategy is to align learning activities with knowledge and
 
 Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
 
-In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
-
-
+In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are w==]
 
 #### Semantic Profiles and Waves
 
@@ -667,7 +689,6 @@ Introduction to semantic waves.
 
 SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
 https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing
-
 
 CT instruction can be aided with a focus of teachers on semantic profiles and waves.
 
@@ -730,6 +751,7 @@ Waite et al. [@sentance_teaching_2019] cite the Block Model, [@schulte_block_200
 While attending to socio cultural approaches [@sentance_teaching_2019; @hwang_using_2023], there are limits in what is covered. Less in the way of identity formation and support for that process.
 
 Signpost later discussion.
+
 ## GAME SPECIFIC -
 
 ### Half-baked games as Microworlds -
