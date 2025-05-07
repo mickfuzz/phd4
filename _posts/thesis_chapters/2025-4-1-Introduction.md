@@ -273,7 +273,7 @@ The value of these informal spaces and approaches -->
 
 ### An introduction to the benefits of on digital game making
 
-**Motivations for CGD&P**
+**Broad Motivations for CGD&P**
 
 While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment.
 

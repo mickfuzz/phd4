@@ -8,20 +8,25 @@
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Exploring pedagogies of constructionist
-            gaming](#exploring-pedagogies-of-constructionist-gaming)
-        -   [INTEGRATE ABOVE - Papert, Resnick & Constructionism and
-            overlaps with in a socio-cultural approaches to
-            pedagogy](#integrate-above---papert-resnick-constructionism-and-overlaps-with-in-a-socio-cultural-approaches-to-pedagogy)
-            -   [Socio-cultural approaches within constructionism and
-                their
-                limits](#socio-cultural-approaches-within-constructionism-and-their-limits)
-            -   [(Why not use constructionism) - CHAPTER
-                3?](#why-not-use-constructionism---chapter-3)
+        -   [The benefits of computer game design and programming
+            (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
+    -   [An overview of constructionist
+        approaches](#an-overview-of-constructionist-approaches)
+        -   [Constructionist design
+            heuristics](#constructionist-design-heuristics)
+        -   [Microworlds as Pedagogy](#microworlds-as-pedagogy)
+        -   [Community approaches within constructionism and their
+            limits](#community-approaches-within-constructionism-and-their-limits)
+        -   [Coding club(houses) & Grass Roots community
+            responses](#coding-clubhouses-grass-roots-community-responses)
+            -   [Creative Fam%ily Learning - A constructionist case
+                study in non-formal learning environment -
+                COMPRESS](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment---compress)
+        -   [Culturally responsive and critical approaches and critiques
+            of
+            constructionism](#culturally-responsive-and-critical-approaches-and-critiques-of-constructionism)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
-        -   [On the process of creating frameworks and
-            pedagogies.](#on-the-process-of-creating-frameworks-and-pedagogies.)
         -   [Design frameworks using
             stages](#design-frameworks-using-stages)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
@@ -57,15 +62,10 @@
                 patterns](#using-collections-of-gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
-        -   [Coding club(houses) & Grass Roots community
-            responses](#coding-clubhouses-grass-roots-community-responses)
+        -   [Game competitions](#game-competitions)
             -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
                 Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
-        -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
-        -   [Creative Family Learning - A constructionist case study in
-            non-formal learning
-            environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
         -   [The Fifth Dimension](#the-fifth-dimension)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)

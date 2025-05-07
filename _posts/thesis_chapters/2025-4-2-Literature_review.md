@@ -20,20 +20,25 @@ title: 2. Literature Review
     -   [A review of relevant research informing computer game design
         and programming
         (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [Exploring pedagogies of constructionist
-            gaming](#exploring-pedagogies-of-constructionist-gaming)
-        -   [INTEGRATE ABOVE - Papert, Resnick & Constructionism and
-            overlaps with in a socio-cultural approaches to
-            pedagogy](#integrate-above---papert-resnick-constructionism-and-overlaps-with-in-a-socio-cultural-approaches-to-pedagogy)
-            -   [Socio-cultural approaches within constructionism and
-                their
-                limits](#socio-cultural-approaches-within-constructionism-and-their-limits)
-            -   [(Why not use constructionism) - CHAPTER
-                3?](#why-not-use-constructionism---chapter-3)
+        -   [The benefits of computer game design and programming
+            (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
+    -   [An overview of constructionist
+        approaches](#an-overview-of-constructionist-approaches)
+        -   [Constructionist design
+            heuristics](#constructionist-design-heuristics)
+        -   [Microworlds as Pedagogy](#microworlds-as-pedagogy)
+        -   [Community approaches within constructionism and their
+            limits](#community-approaches-within-constructionism-and-their-limits)
+        -   [Coding club(houses) & Grass Roots community
+            responses](#coding-clubhouses-grass-roots-community-responses)
+            -   [Creative Fam%ily Learning - A constructionist case
+                study in non-formal learning environment -
+                COMPRESS](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment---compress)
+        -   [Culturally responsive and critical approaches and critiques
+            of
+            constructionism](#culturally-responsive-and-critical-approaches-and-critiques-of-constructionism)
     -   [Pedagogies to support game making via
         coding](#pedagogies-to-support-game-making-via-coding)
-        -   [On the process of creating frameworks and
-            pedagogies.](#on-the-process-of-creating-frameworks-and-pedagogies.)
         -   [Design frameworks using
             stages](#design-frameworks-using-stages)
         -   [Project-based learning (PBL)](#project-based-learning-pbl)
@@ -69,15 +74,10 @@ title: 2. Literature Review
                 patterns](#using-collections-of-gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
-        -   [Coding club(houses) & Grass Roots community
-            responses](#coding-clubhouses-grass-roots-community-responses)
+        -   [Game competitions](#game-competitions)
             -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
                 Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
-        -   [Game competitions](#game-competitions)
         -   [Educational Game Jams](#educational-game-jams)
-        -   [Creative Family Learning - A constructionist case study in
-            non-formal learning
-            environment](#creative-family-learning---a-constructionist-case-study-in-non-formal-learning-environment)
         -   [The Fifth Dimension](#the-fifth-dimension)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
@@ -260,11 +260,11 @@ EXPLAIN WHY THIS IS FIRST NOT AFTER GENERAL CODING Pedagogies
 
 Before addressing specific pedagogies to programming in general and game making in particular, it is of value to examine the broad context of motivations for undertaking
 
-IS THIS NOT DONE IN THE INTRODUCTION CHAPTER? 
+IS THIS NOT DONE IN THE INTRODUCTION CHAPTER?
 
-### Motivations driving computer game design and programming (CGD&P)
+### The benefits of computer game design and programming (CGD&P)
 
-Several notable reviews explore the motivations, processes, and impacts of making games for learning  [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1; @gee_video_2016]. While Gee and Tran [-@gee_video_2016] discuss the diverse tools available for game design, Hayes and Games [-@hayes_making_2008] take a broader approach, identifying four main motivations for CGD&P: learning computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts.
+Several notable reviews explore the motivations, processes, and benefits of making games for learning  [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1; @gee_video_2016]. While Gee and Tran [-@gee_video_2016] discuss the diverse tools available for game design, Hayes and Games [-@hayes_making_2008] take a broader approach, identifying four main motivations for CGD&P: learning computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts.
 
 Kafai and Burke's review [-@kafai_constructionist_2015-1] , which synthesises 55 relevant papers within the framework of constructionist gaming, largely maintains these categories but adds new dimensions. These include studies addressing race-related barriers to participation and social dimensions such as pair programming, social skills, self-reflection, cultural awareness, and a range of technical abilities that facilitate participation in the information society. Collectively, these competencies are framed as 21st Century Skills [@bermingham_approaches_2013]. A review by Denner and colleagues [@denner_does_2019] focuses on computer science learning, breaking this broader concept into subcategories of programming knowledge and problem specification and design.
 
@@ -301,7 +301,7 @@ In their project-based intervention, Girls Creating Games, Denner and Werner foc
 Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
 
 
-### An overview of constructionist approaches
+## An overview of constructionist approaches
 
 <!-- Before turning to a more detailed exploration of distinct pedagogies used in or appropriate for CGD&P,  -->
 
@@ -339,11 +339,6 @@ We added a fourth principle to emphasize the equally important social dimension 
 
 Open windows: a tool to facilitate the sharing of digital media. The creation of digital communities represents the new frontier in terms of making computer programming a more accessible skill for youths. -->
 
-
-
-
-
-
 <!-- Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies . -->
 
 
@@ -369,6 +364,23 @@ Bruckman and Zagal, also studying at MIT, take from this mention an opportunity 
 
 Roque in Family Creative Learning, addressed learning types, but limited in conceptual approaches.
 
+
+##### Creative Family Learning - A constructionist case study in non-formal learning environment - COMPRESS
+
+
+
+<!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
+
+Correa (2015), explores the role of children as brokers of technology in family environments.
+
+The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017]. Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, nontechnical consultant and learner.  
+
+Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
+
+To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts despite the grounding in Barron's work which does that.
+
+
+
 #### Culturally responsive and critical approaches and critiques of constructionism
 
 Recently, Kafai has revisited the topic to emphasise the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
@@ -376,6 +388,42 @@ Recently, Kafai has revisited the topic to emphasise the importance of a situate
 Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
 An exception is the promotion of design cycles and a design thinking approach advanced by Resnick. A later section addresses this in more detail.
+
+#### Project-based rather than instruction-based towards the goal of fluency - Encompassing Computational Thinking dimensions?
+
+- The role of projects.
+- The promotion of design cycles by Resnick.
+- The end goal of varied forms of fluency
+
+
+THE FOLLOWING SECTION NEEDS REWORKING
+
+- move some to the intro chapter -
+
+#### Explicit teaching of computational thinking - RENAME ?
+
+INTRO?
+The promotion of computational thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016].
+
+PERHAPS BUT LEAD WITH PAPERT AND TURKLE?
+We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of computational thinking (CT).
+
+The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instan#ces, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
+
+Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". The researchers took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map they created includes computational concepts, computational practices and computational perspectives.
+
+
+This interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules.
+
+This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curiculum may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
+
+
+
+#### Studies exploring CT as an pedagogical framework to support learning computer coding (INCREASE ANALYSIS OF ABSTRACT CONCRETE)
+
+The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
+
+Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
 
 <!--
 In their review and a critique constructionist approaches to game making, Thumlert et al agree with the potential of a constructionist approach to develop 21st century skills, -->
@@ -409,10 +457,6 @@ MOVE? TO INTRO OR LATER SECTION
 Finally, I will examine the social and cultural aspects of coding clubs and informal programmes that serve as venues for CGD&P.
 
 
-
-
-
-
 <!-- ## Project-based learning / Social approach / Communities of Learners.
 
 - Key features of PBL - from academic sources up to date.
@@ -420,7 +464,23 @@ Finally, I will examine the social and cultural aspects of coding clubs and info
 - Creating a community of learners
 - Examples of how this has been applied in game making or creative coding case studies. (RQ2) -->
 
-### Design frameworks using stages
+#### Explicit teaching of computational thinking - Principles first
+
+KEEP THIS BRIEF - PERHAPS PUT THIS IN THE INTRO TO SECTION?
+
+Wing's emphasis on the importance of the explicit teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribution on computational thinking is  more theoretical than applied and invites discussion on how best to teach this abstract approach to computation thinking. Grover [@grover_computational_2017; @grover_computational_2013] and Guzdial [@guzdial_learner-centered_2015] offer explicit techniques linked using the application of computer programming as the driving mechanism. Bell and colleagues [@bell2019constructing] explore the process of unplugged activities, exploring abstract CT concepts without using computers or coding.
+
+**Principles first and instruction based approaches**
+
+While the concept of understanding foundational computing concepts before engaging with the practice seems valid it raises important factors in terms of barriers to participation.
+
+This approach is limited in its ability to address the concerns of this study for the reasons explored above (Resnick),
+
+
+
+
+
+### Design frameworks using stages & PBL
 
 Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1].
 
@@ -449,7 +509,7 @@ The model is similar to the ADDIE model from instructional system design: Analys
 
 Thus, while the ethos and benefits of this approach are convincing RESNICK'S TAKE, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  
 
-### Project-based learning (PBL)
+#### Project-based learning (PBL)
 
 <!-- As outlined in the introduction, this thesis, while guided by constructionism as a design approach, uses AT as a theoretical framework.
 In addition, this section outlines the value of PBL as a more developed framework as well. -->
@@ -495,11 +555,14 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 
 
-### Pair programming & social/collaborative coding
+### Pair programming & social/collaborative coding -
 
 In their review of the potential of CGD&P to encourage collaboration, Earp and colleagues found that "analysis of collaboration is mainly restricted to peer review and providing feedback" [@earp_learner_2013].
 
+Role of community feedback within playtesting
+
 Pair programming, a common industry practice has recieved attention in educational contexts [@hanks_pair_2011]. Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved.
+
 
 Werner and colleagues [@werner_pair_2009; denner_computer_2007] investigate pair programming as way to adress gender gap and extending research on collaborative problem solving in computer coding.
 
@@ -519,6 +582,8 @@ Bring in limits  and extension of research on pair programming to wider groups /
 Links to other pedagogies in this work.
 UMC
 and Use of game design patterns [@werner_computational_2020]
+
+
 
 
 ### Use Modify Create
@@ -557,26 +622,6 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
 
-
-### Explicit teaching of computational thinking
-
-
-The promotion of computational thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016]. We can use the distinction between concrete and abstract to examine the differences between two popular interpretations of computational thinking (CT). The first is an influential take from Jeanette Wing. "The most important and high-level thought process in computational thinking is the abstraction process. Abstraction is used in defining patterns, generalizing from instan#ces, and parameterization" [@wing2011research]. Many learning resources designed to support the computing curriculum present this principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
-
-Another widely used definition of CT by Brennan and Resnick [-@brennan_new_2012] was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?". The researchers took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map they created includes computational concepts, computational practices and computational perspectives.
-
-
-This interpretation of CT, based on observation of learners in action, is more accessible to teachers and learners as they can more easily recognise their own practice than in the more abstract interpretations of CT. To give a specific example, rather than decomposition, the applied framework outlines taking an iterative, incremental approach to problem solving and arranging code in modules.
-
-This broader, process driven definition of CT has been used and adapted by many organisations seeking to support the new computing curiculum may be familiar from websites, posters and other supporting material created by groups like Barefoot computing. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. The review above and the influential framework used by Computing at School [@csizmadia_computational_2015-1]  have included elements of this applied framework as well as other more abstract CT concepts.
-
-In summary, Wing's emphasis on the importance of the explicit teaching of skills of decomposition, pattern recognition, abstraction, and algorithmic thinking, contribution on computational thinking is  more theoretical than applied and invites discussion on how best to teach this abstract approach to computation thinking. Grover [@grover_computational_2017; @grover_computational_2013] and Guzdial [@guzdial_learner-centered_2015] offer explicit techniques linked using the application of computer programming as the driving mechanism. Bell and colleagues [@bell2019constructing] explore the process of unplugged activities, exploring abstract CT concepts without using computers or coding.
-
-#### Studies exploring CT as an pedagogical framework to support learning computer coding (INCREASE ANALYSIS OF ABSTRACT CONCRETE)
-
-The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002]. Papert and Turkle's [-@papert_epistemological_1990] encourage a of diversity in approaches to teaching coding beyond a formal, abstract approach "that emphasizes control and through structure and planning". Their celebration of concrete coding approaches, including the use of tangible physical and digital objects, and more piecemeal, bricolage approach has influenced the design of popular educational programming software and pedagogy through the constructionist school and maker movements (as explored in the literature review). In a challenge to this article Wilensky [-@wilensky1991abstract] questions the nature of abstract in this context arguing that all objects and concepts are abstract until familiarity makes them more concrete to the user.
-
-Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020].
 
 #### Levels of Abstraction
 
@@ -677,7 +722,7 @@ CLARIFY THIS WHOLE SECTION.
 In conclusion, the authors also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence"
 
 
-### Limits of the Sociocultural ideas in UK computing research (above) NOT NEDDED
+### Limits of the Sociocultural ideas in UK computing research (above) NOT NEEDED?
 
 MOVE?
 Waite et al. [@sentance_teaching_2019] cite the Block Model, [@schulte_block_2008] as potential in helping teacher structure lessons. Within this structure design patterns can be considered as??? Is this useful?
@@ -767,8 +812,6 @@ Design patterns in computing contexts are presented as a middle ground between a
 
 
 Eriksson et al. [-@eriksson_using_2019, p.15], draw on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign rather than as a base for computer coding.
-
-
 
 This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated.
 
@@ -931,23 +974,6 @@ To reflect the nature of the research questions and the existing gaps in the res
 <!-- PERHAPS SAVE A SLICE OF BRUCKMAN TO END - AFTER THE  FORM OF CODE CLUBS. -->
 <!-- FCL worked to expose limits to the online resources and communities. -->
 
-####  UK coding clubs: Code Club, Coder Dojo and Raspberry Jam
-
-Three similar but distinct strands of volunteer based projects started around the hot zone of 2012-2014 explored in the introduction.  While, it is beyond the remit to explore all three similar models in detail, that would be interesting.
-
-They share: a grass roots approach drawing on enthusiasts.
-
-A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. But have struggled to maintain the skilled volunteer input imagined at the start of the program (SO what?)
-All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation.
-
-They were not extensively researched during the point of more grass roots
-
-Although research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019], presumably preferring an less-structured approach, which is not centrally supported or seemingly documented locally.
-
-<!-- Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
-As a former volunteer, I confess I didn't share my learning resources beyond local network of voluteers onto that wikis. -->
-
-
 
 ### Game competitions
 
@@ -963,7 +989,33 @@ It is also available in specialist coding websites and communities like Scratch,
 And themed games for change competitions.
 And via
 
+ADD THE KAFAI REVIEW ASPECT - GLOBALORIA ETC.
+
+
 Critique of competitions [@thumlert2018learning] is that the values of the competitions are largely embraced uncritically rather than developing and transforming practices of the learning site itself. Also there is a danger of inequality of access explored above.
+
+####  UK coding clubs: Code Club, Coder Dojo and Raspberry Jam
+
+Drawing on early legacy of the computer clubhouse work by Papert in Boston described above...
+
+Three similar but distinct strands of volunteer based projects started around the hot zone of 2012-2014 explored in the introduction.  While, it is beyond the remit to explore all three similar models in detail, that would be interesting.
+
+They share: a grass roots approach drawing on enthusiasts.
+
+A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. But have struggled to maintain the skilled volunteer input imagined at the start of the program (SO what?)
+
+All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation. MORE CONTEXT THAN PEDAGOGY
+
+They were not extensively researched during the point of more grass roots
+
+Although research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019], presumably preferring an less-structured approach, which is not centrally supported or seemingly documented locally.
+
+<!-- Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
+As a former volunteer, I confess I didn't share my learning resources beyond local network of voluteers onto that wikis. -->
+
+
+
+
 
 
 ### Educational Game Jams
@@ -992,20 +1044,6 @@ The area of improvisation is underexplored in the game jam context compared to t
 
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
-
-### Creative Family Learning - A constructionist case study in non-formal learning environment
-
-
-
-<!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
-
-Correa (2015), explores the role of children as brokers of technology in family environments.
-
-The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding. In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW, Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members. In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009]. The research team created a detailed guide to replicate the programme [@leggett_family_2017]. Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, nontechnical consultant and learner.  
-
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles. However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed.
-
-To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. It is a shame that FCL is not described in more detail with sociocultural concepts despite the grounding in Barron's work which does that.
 
 
 
