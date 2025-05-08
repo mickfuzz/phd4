@@ -768,8 +768,7 @@ Turning specifically to the the use of game design patterns within games, the us
 
 Following the work of Bergström et al. [@bergstrom_exploring_2010], for the purposes of this study the term GDP refers to game play design patterns a subset of game design patterns referring to to content patters that would be recognisable or at least experienced by the game player as features of the game.
 
-ALSO WORK ON MDA HERE TOO. Where is this?
-THIS NEEDS ADDING IN.
+
 
 <!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
 <!-- Recalling the issues of learners stress and the play paradox addressed above collections of patterns have been used to structure learners choice in the create or choose stage of project work [@franklin_analysis_2020].   -->
@@ -792,6 +791,11 @@ The following two examples draw on collections of GDPs to help design process (n
 In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game
 
 Their research, which involved young people, builds on ra strand of research with adults with the explicit goal of learning game design [ADD ALL IN]. One product of this strand research is a list of GDPs made available as as a public collection [@bjork_patterns_2005].
+
+The process of structuring these patterns drew on wider work on game theory, most directly the work on the MDA framework [@bergstrom_exploring_2010],
+
+The Mechanics element of the framework has much in common with GDPs. The difference is explored by researchers [@olsson2014conceptual]. The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
+THIS NEEDS CLARIFYING - ? BUT NOT TOO MUCH 
 
 The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
 
