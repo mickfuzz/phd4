@@ -48,32 +48,23 @@ title: 2. Literature Review
             -](#pair-programming-socialcollaborative-coding--)
         -   [Use Modify Create](#use-modify-create)
             -   [Levels of Abstraction](#levels-of-abstraction)
-        -   [Curricular concepts, semantic waves, LOA - INTEGRATE UP?
-            DOWN?](#curricular-concepts-semantic-waves-loa---integrate-up-down)
             -   [Semantic Profiles and
-                Waves](#semantic-profiles-and-waves)
-        -   [PRIMM](#primm)
-        -   [Limits of the Sociocultural ideas in UK computing research
-            (above) NOT
-            NEEDED?](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above-not-needed)
+                PRIMM](#semantic-profiles-and-primm)
+                -   [PRIMM](#primm)
     -   [GAME SPECIFIC -](#game-specific--)
-        -   [Half-baked games as Microworlds
-            -](#half-baked-games-as-microworlds--)
+        -   [Half-baked games as
+            Microworlds](#half-baked-games-as-microworlds)
         -   [Design patterns](#design-patterns)
-        -   [Using design patterns in
-            education](#using-design-patterns-in-education)
-            -   [Design patterns as intermediate
-                constructs](#design-patterns-as-intermediate-constructs)
             -   [Scalable game design](#scalable-game-design)
-            -   [Using collections of
-                patterns](#using-collections-of-patterns)
+        -   [Using collections of
+            patterns](#using-collections-of-patterns)
             -   [Using collections of Game(play) design
                 patterns](#using-collections-of-gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Game competitions](#game-competitions)
-            -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
-                Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
+        -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
+            Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
         -   [Educational Game Jams](#educational-game-jams)
         -   [The Fifth Dimension](#the-fifth-dimension)
     -   [Synthesis of chapter / discussion / problem
@@ -89,15 +80,17 @@ title: 2. Literature Review
                 y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.)
             -   [Research Questions](#research-questions)
         -   [Link to the next chapter](#link-to-the-next-chapter)
-
 # Literature Review
 
-### Research Questions - July 2024
+## Research Questions April 2025
 
-1. What contradictions arose in participation in this research's game coding processes and what pedagogical tools and processes are available to address these contradictions?
-2. How can game design patterns support the development of computational fluency in novices?
-3. How can learners build agency in an evolving community of game makers?
+- **Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches (used in this study)?
 
+- **Sub-question 1 (RQ1):** What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
+
+- **Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
+
+- **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
 
 ## Introduction
 
@@ -178,7 +171,7 @@ IS THIS NOT DONE IN THE INTRODUCTION CHAPTER?
 ### The benefits of computer game design and programming (CGD&P)
 
 
-Several notable reviews explore the motivations, processes, and benefits of making games for learning  [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1; @gee_video_2016]. While Gee and Tran [-@gee_video_2016] discuss the diverse tools available for game design. For Bermingham and colleagues CGD&P competencies are framed as 21st Century Skills [@bermingham_approaches_2013], a focus echoed in  a wider review on digital making encompassing game making [@lamas_making_2019]. Hayes and Games [-@hayes_making_2008] take a broader approach, identifying four main motivations for CGD&P: learning computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts.
+Several notable reviews explore the motivations, processes, and benefits of making games for learning  [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1; @gee_video_2016]. While Gee and Tran [-@gee_video_2016] discuss the diverse tools available for game design. For Bermingham and colleagues CGD&P competencies are framed as 21st Century Skills [@bermingham_approaches_2013], a focus echoed in  a wider review on digital making encompassing game making [@lamas_making_2019]. In their review of the potential of CGD&P to encourage collaboration, Earp and colleagues found that "analysis of collaboration is mainly restricted to peer review and providing feedback" [@earp_learner_2013]. Hayes and Games [-@hayes_making_2008] take a broader approach, identifying four main motivations for CGD&P: learning computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts.
 
 Kafai and Burke's [-@kafai_constructionist_2015-1] review synthesises 55 relevant papers within the framework of constructionist gaming focuses on varied strands of the potential of CGD&P and the barriers to participation (explored in Chapter 1). The most developed section is on the benefits and motivations of CGD&P research to address the development of personal dimensions of knowledge and skills. Strong areas within that are computer science knowledge and programming, maths and science and a range of technical abilities that facilitate participation in the information society. Additionally, social dimensions such as pair programming, social skills, self-reflection, cultural awareness are addressed. The authors note limitations in the presentation of may findings in terms of detail regarding the  discussion of pedagogies used, however what studies do detail pedagogies are not shared in the review [@illingworth_review_2017].
 
@@ -224,10 +217,9 @@ Kafai and Burke
 
 also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity. -->
 
-The work of constructionist researchers is vital in the field of CGD&P and programming education in general. Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field. As such, this section situating the concerns of this thesis within the existing body of constructionist research before widening the focus explore the principle strands within it.
+The work of constructionist researchers is vital in the field of CGD&P and programming education in general. Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field. The ethos and theoretical underpinning of constructionism are difficult to locate precisely [@laurillard2020significance, p.29]. Over time, different foci have emerged.  Papert's early focus on objects to think with was interpreted as an expansion to Piaget's constructivism [@ackermann_piagets_2001]. Resnick [-@resnick2014give] and other constructionist researchers have advocated for software and hardware tools that promote an open-ended, child-led approach to designing relatable objects of interest. The framing of Kafai and Burke of CGD&P as constructionist gaming widens the scope still further.
 
-To achieve this, I will examine analysis of constructionism, via its design principles and pedagogical approaches and guiding ethos.  
-
+This section situates the concerns of this thesis within the existing body of constructionist research before widening the focus explore the principle strands within it. To achieve this, I will examine analysis of constructionism, via its design principles and pedagogical approaches and engagement with social approaches to learning (ADD IN).  
 
 #### Constructionist design heuristics
 
@@ -240,7 +232,18 @@ In earlier work focused on creative coding environments similar concepts of  low
 
 #### Microworlds as Pedagogy
 
-Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy [@laurillard2020significance]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter+), designed to foreground specific concepts. However, this narrow and clear definition contrasts with the broader use of the concept by Resnick [-@resnick2014give]  and other constructionist researchers, particularly in their advocacy for software and hardware tools that promote an open-ended, child-led approach to designing engaging and relatable objects of interest.
+Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy [@laurillard2020significance]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter+), designed to foreground specific concepts.
+
+
+This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993]. While Kynigos' design promoted the acquisition of computational thinking, Microworlds can facilatate the exploration of diverse concepts [@rieber_microworlds_2004].
+
+Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
+
+The concept of  task specific programming language [@kong_providing_2022], in research on Microworlds, has a similar motivation.
+
+    "The task-specific programming language (TSPL) is purposefully limited in the abstractions and concepts needed for the tasks or explorations in the microworld so that programming becomes much easier to learn than a complete programming language.[@kong_providing_2022]"
+
+
 <!--
 THIS IS IS FROM
 
@@ -320,18 +323,15 @@ We can use the distinction between concrete and abstract to examine the differen
 
 <!-- was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?".  -->
 
-Constructionist researchers Brennan and Resnick [-@brennan_new_2012]  took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map of computational thinking includes computational concepts, computational practices and computational perspectives. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, which points to the widespread use of this more applied approach. The wider definition of CT here assumes an environment where learners are engaged in the collaborative coding of a computing project. Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008].
-YES BY WHY AND LINK BACK TO CONSTRUCTIONISM
+Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008].
+YES BUT WHY?
 
+Constructionist researchers Brennan and Resnick [-@brennan_new_2012]  took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map of computational thinking includes computational concepts, computational practices and computational perspectives. This mapping assumes an application where learners are engaged in the collaborative coding of a computing project.
 
+Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, indicating the widespread use of this more applied approach.
 
-#### Fluency and agency as relevant learner outcomes
+As such, from the perspectives of critics of Wings abstract framing of computational thinking [@denning_remaining_2017], the uptake of the more applied definition can be seen as beneficial (to who? to do what?)
 
-While the ethos and like its theoretical underpinning are  while difficult to locate precisely [@laurillard2020significance, p.29], the importance of self-expression within a community of peers features. Encapsulating this ethos as an learner attribute which constructionist approaches serve to facilitate receives broad attention in constructionist literature. A candidate for such an attribute present in several strands of constructionist research is that of varied forms of fluency, described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. The literature on these forms of fluency within constructionist research comprises a blend of features including: technical skills needed to complete projects and the importance of self-expression both as a motivational factor via valuing of personal expression as a form of participation within a community of peers.
-
-<!-- An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work. -->
-
-In the work of Kafai and colleagues [-@kafai_connected_2017] FIND OTHERS on game making and similar media projects is the idea of collaborative agency. This concept which draws on the work of S and B,  to communicate the value of the sharing of created projects. Specifically, collaborative agency refers to  "learners’ efforts for searching out, organizing and distributing responsibilities in collaborations with others as they create collaborative artifacts"
 
 
 #### Constructionist pedagogies - Project-based rather than instruction-based
@@ -342,15 +342,31 @@ Addressing broad approaches, Kafai has emphasised the importance of a situated a
 
 Another broad approach is that of design cycles within a project-based approach advanced by Resnick. A later section addresses this in more detail.
 
+#### Limitations within constructionist approaches and the related field of CGD&P research
+
+##### Fluency and agency as relevant learner outcomes
+
+INTEGRATE? SEPARATE SECTION?
+
+Constructionism places importance on self-expression within a community of peers features. Encapsulating this ethos as an learner attribute which constructionist approaches serve to facilitate receives broad attention in constructionist literature. A candidate for such an attribute present in several strands of constructionist research is that of varied forms of fluency, described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. The literature on these forms of fluency within constructionist research comprises a blend of features including: technical skills needed to complete projects and the importance of self-expression both as a motivational factor via valuing of personal expression as a form of participation within a community of peers.
+
+<!-- An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work. -->
+
+In the work of Kafai and colleagues [-@kafai_connected_2017] FIND OTHERS on game making and similar media projects is the idea of collaborative agency. This concept which draws on the work of S and B,  to communicate the value of the sharing of created projects. Specifically, collaborative agency refers to  "learners’ efforts for searching out, organizing and distributing responsibilities in collaborations with others as they create collaborative artifacts"
+
+##### On Pedagogy & limitations
+
+ALSO ADDRESSING BROADER LIMITATIONS WITHIN THE FIELD OF CGD&P
 
 Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
 While this is broadly true, it is ironic given the stance against tools first approaches of Kafai.
 In even in Kafai's review of CGD&P, specific pedagogies were lacking.
 
-It raises a question why, given this perspective are underpinning pedagogies lacking.
-I propose that this deficit may be due to a deficit in analytical processes and theoretical concepts relating to agency, and mediational strategies.
+It raises a question why, given this perspective are underpinning pedagogies lacking. I propose that this deficit may be due to a deficit in analytical processes and theoretical concepts particularly visible within concepts of agency development, and mediational strategies. It follows that these limitation of constructionism are also present in the research landscape of CGD&P which has been significantly guided by it.  
+
 This relates to the primary research question of this thesis. And brings us to the next section.  
+
 
 
 <!-- but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29] -->
@@ -411,6 +427,10 @@ While the remit of this literature review does not encompass a full critique of 
 
 ### Design frameworks using stages & PBL
 
+MAKE A LINK TO PBL BEFORE THE LIMITATIONS - ALSO THERE PROBABLY IS RESEARCH ON THIS - SO BE CAREFUL.
+
+INTRODUCTION SENTENCE.
+
 Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1].
 
 Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners.  To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. This model is a more adapted from many similar expressions of iterative design stages in the domain design thinking to focus on more individual ideas of creativity. See figure 2.x for one example from the Stanford dschool  [@dam_5_2024].
@@ -425,13 +445,16 @@ Diagram [@resnick_lifelong_2017] -->
 
 One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
-<!--
-A typical framework from teach engineering website [@noauthor_engineering_nodate], takes the form of
- -->
 
-While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products. Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communities to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective. One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
+While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products.
+
+Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communities to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective.
+
+One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
 The authors, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
 ADD TO THE PROBLEMS STATEMENT.  
+
+
 
 <!--
 The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share [@hester_engineering_2007]. It has been adopted by the area of computing is one used in a recent book on coding by Bers [@bers_coding_2021]. HOW IS THIS USED? AS A PEDAGOGY? -->
@@ -462,10 +485,9 @@ Studies and supporting resources advocating PBL articulate various procedural fo
 
 PBL can be effective in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8], language learning [@gibbes_project-based_2014], and digital making [@weng_characterizing_2022].  However, due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
 
-
 THE CHALLENGE OF FINDING APPROPRIATE LEVEL OF SCAFFOLDING AND HOW TO COMMUNICATE SPECIFIC PBL APPROACHES / PEDAGOGIES.
 
-
+SOMETHING GENERAL ABOUT THIS BEING AN UNSOLVABLE PROBLEM - A WICKED PROBLEM WITH ALWAYS SUITS REVISITING WITH NEW, CONTEXTUALLY APPROPRIATE SOLUTIONS AND APPROACHES.
 
 <!-- It is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning. -->
 
@@ -490,8 +512,6 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 
 ### Pair programming & social/collaborative coding -
-
-In their review of the potential of CGD&P to encourage collaboration, Earp and colleagues found that "analysis of collaboration is mainly restricted to peer review and providing feedback" [@earp_learner_2013].
 
 Role of community feedback within playtesting
 
@@ -566,11 +586,11 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 
 #### Levels of Abstraction
 
-The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002].  
+<!-- The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002].   -->
 
-In teaching computing pedagogy the concept of levels of abstraction can be taught to students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018-1]. To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018]
+In teaching computing pedagogy the concept of levels of abstraction can facilitate both teachers and students to help them understand the level of abstraction that they are working at [@statter_teaching_2016; @waite_abstraction_2016; @waite_abstraction_2018]. While the term abstraction has varied interpretations within the field of computer science [@hazzan_reducing_2002], here it reflects a spectrum between overarching concepts and the concrete results (see Table 2.x).
 
-
+<!-- To quickly review LOA, the levels are Problem, Design, Code, Running the Code. And the purpose is, "Levels of abstraction has been interpreted as a hierarchy to enable teachers and learners to describe which level they are working at, rather than as a methodology for programming projects."[@waite_abstraction_2018] -->
 
 
 | **Level**            | **Focus** | **Example** |
@@ -583,67 +603,77 @@ In teaching computing pedagogy the concept of levels of abstraction can be taugh
 Table. 2.x Breakdown or Table of levels of abstraction. [@waite_abstraction_2018]
 
 
+<!-- their approach to abstraction [@waite_abstraction_2018-1] is distinct from Wing's in that it is grounded in an operationalised computational model distinguishing levels of abstraction: specifically, in descending order of abstraction, the goal or problem to be solved, the designed structure of the program, the actual coding of that design, and at the most concrete level, the running of the code and its outputs [@waite_abstraction_2018-1] (see Table 7.1). Wing's CT concepts within the LOA model would lie at the design level.  -->
 
-While Waite and colleagues also propose that abstraction should be explicitly taught, even to younger pupils [@waite_abstraction_2016], their approach to abstraction [@waite_abstraction_2018-1] is distinct from Wing's in that it is grounded in an operationalised computational model distinguishing levels of abstraction: specifically, in descending order of abstraction, the goal or problem to be solved, the designed structure of the program, the actual coding of that design, and at the most concrete level, the running of the code and its outputs [@waite_abstraction_2018-1] (see Table 7.1). Wing's CT concepts within the LOA model would lie at the design level. This advocacy for the utility of awareness of levels of abstraction, based on research indicating its efficacy in supporting learning programming [@cutts2012abstraction; @statter_teaching_2016], cites the value of learners knowing at what level of abstraction they are operating and their fluency in movement between the levels as a form of self regulation [@waite_abstraction_2018]. Waite in communicating the value of a LOA cites work at the design level as a process to help assess the do-ablity of the code implementation given the time and ability of the novice coders [@waite_abstraction_2018]
+Guided by research indicating potential efficacy in supporting learning programming practices [@cutts2012abstraction; @statter_teaching_2016], Waite and colleagues investigated the utility of awareness of abstraction, to primary school aged learners [@waite_abstraction_2016]. While the process initially lacked a guiding pedagogy, the authors saw potential in movement between the levels as a form of self regulation and more specifically activity the design level facilitating realistic judgement concerning code implementation given the time and ability of the novice coders [@waite_abstraction_2018].
 
-Waite and Sentance's later work [@sentance_primm_2017] synthesises this interpretation of levels of abstraction with the concept of semantic profiles to create an applied pedagogy for computing education aligned with a UK curricular context.
+<!-- In conclusion, the authors [-@waite_abstraction_2018-1, p.21] also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence". -->
 
-This work highlights the potential role of alternating between abstract and concrete concepts in semantic waves aimed at helping teachers design learning experiences which in part allow for participant shifts in LOA perspectives.
+<!-- This work highlights the potential role of alternating between abstract and concrete concepts in semantic waves aimed at helping teachers design learning experiences which in part allow for participant shifts in LOA perspectives. -->
 
 
 <!-- A common pedagogical strategy is to align learning activities with knowledge and competencies outlined by a curriculum. A common line of game making research follows this logic to align game making with curricular contents, in particular computational thinking concepts.   -->
 
-<!-- Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], rather that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020]. -->
+<!-- Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008]. This is not to argue that Wing's approach to CT is without technical merit [@lodi_computational_2021], ratheSOMETHING GENERAL ABOUT THIS BEING AN UNSOLVABLE PROBLEM - A WICKED PROBLEM WITH ALWAYS SUITS REVISITING WITH NEW, CONTEXTUALLY APPROPRIATE SOLUTIONS AND APPROACHES.
+r that its adoption by educational bodies like CAS in the UK and similar bodies internationally has risks. The inclusion of formal CT frameworks in curriculum and formal testing has provoked mechanistic teaching of decontextualised concepts via formal teaching methods to the detriment of hands-on exploration and creation of personally meaningful projects [@resnick_coding_2020]. -->
 
 
 
-#### Semantic Profiles and Waves
+#### Semantic Profiles and PRIMM
 
-Introduction to semantic waves.  
-[@maton_making_2013]
+Later work by Waite and Sentance [@sentance_primm_2017] combines LOA with a concept of semantic profiles [@macnaught_jointly_2013] to create an applied pedagogy (PRIMM) for computing education. Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013].
 
-SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
-https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing
+![Figure 2.x - A semantic profile in wave form](./Pictures/ch_2_sw_dia_1.png){width=75%}
 
-CT instruction can be aided with a focus of teachers on semantic profiles and waves.
-
-Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013]. Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. A Quick Read on semantic profiles is available on the NCCE website.[^2]
 
 Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computing education context outlines the value of semantic profiles in wave shape as opposed to a flatline which remains too much in concrete examples or more abstract concepts. This research highlights the value of unpacking, exploring and then repacking ideas during the course of a lesson. A student's understanding of a concept may deepen a little bit each time it is applied in practice and then reconnected with the abstract.
 
+<!-- Introduction to semantic waves.  
+[@maton_making_2013] -->
 <!-- start with activities that allow the use of more concrete (high semantic gravity) language and then explore more abstract (high semantic density) concepts and patterns as they emerge in these authentic situations. -->
 
-![semantic waves]({{ site.baseurl }}/Pictures/semantic_waves.png)
+<!-- Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity. -->
 
-Figure 3.1 A Semantic Profile with Semantic Waves
+##### PRIMM
 
-Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity.
-
-### PRIMM
-
-**PRIMM uses concepts of semantic profile to try to align instruction based approaches with a sociocultural approach (or at least some hands-on approaches)**
+<!-- **PRIMM uses concepts of semantic profile to try to align instruction based approaches with a sociocultural approach (or at least some hands-on approaches)** -->
 
 In proposing PRIMM Sentence et al highlights a debate in this field of a proposed deficit of exploration based, constructionism approaches by Grover [-@sentance_teaching_2019, p. 5], proposing greater instruction and guidance. To address this without fully embracing an instruction, expert-led approach, the author propose PRIMM model, signifying Predict, Run, Investigate, Modify and Make.
 
 Thus, PRIMM extends the UMC model, Modify, adding three stages to the start. Learners are presented with a providing a concrete code example and predicting what it will do, checking the results against they running it. With guidance learners investigate possible changes that can be made to the code before modifying it. The final, Make stage (as with Create in UMC) suggests students creating programs or larger elements of code structures from scratch.
 
-Noting recent calls align computing education with sociocultural approaches [@tenenberg_out_2014], the authors draw on concepts, of mediation and ZPD.
-These principles are put into action, in part, through drawing on _carefully selected content_ from the social plane [-@sentance_teaching_2019, p. 2].
+GIVE AN EXAMPLE? AND USE SEMANTIC PROFILE TOO
+
+By starting with predicting based on existing code,  student start with the concrete code and then be.
+However, PRIMM not explored via semantic profiles.
+
+
 
 PRIMM has been developed with the the computing classroom in mind, drawing on concepts such as
 differentiation to make concepts _accessible by all learners in a class_. Prediction of a code allows a whole class of learners to unpack and repack the  key computational concepts or process.
 
+
+**Data from research, response of teachers , application and take up of SW and PRIMM**
+
+
+Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. .[^2]
+
+SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
+https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing
+
+
+PRIMM has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts.
+https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
+
+
+PRIMM while suitable to schools, is not incompatible with informal environments, PRIMM process does not need to happen as whole group activity. For example teachers adapted the process, so quicker students did more than one.
+
 <!-- in a restricted time scale. -->
 <!-- This process that supports formal problem solving, paper-based questions of the GCSE exams.  -->
 
-PRIMM while suitable to schools, is not incompatable with informal environments, PRIMM process does not need to happen as whole group activity. For example teachers adapted the process, so quicker students did more than one.
-In addition, the authors use the metaphor of learning coding as a multi-layered and faceted process like a patch work quilt. As learners develop coding practices then built up patches, each one making the participants' knowledge less _holey_.  (Clear, 2012) in [@sentance_teaching_2019, p.5].  The middle ground PRIMM aims for between instruction and free experimentation may align well with non-formal approaches in non-classroom settings.
+<!-- In addition, the authors use the metaphor of learning coding as a multi-layered and faceted process like a patch work quilt. As learners develop coding practices then built up patches, each one making the participants' knowledge less _holey_.  (Clear, 2012) in [@sentance_teaching_2019, p.5].  -->
 
-**Data from research, response of teachers .**
-
-Data from lytle?
-More data in practice
-
+<!-- The middle ground PRIMM aims for between instruction and free experimentation may align well with non-formal approaches in non-classroom settings. -->
 
 <!-- PERHAPS IN SYNTHESIS - MOVE?
 As a critique of PRIMM, while the authors do link to some sociocultural concepts, it is limited in the extent to which the learning environment is addressed, compared to some of the other approaches of this chapter, particularly  PBL which has a shared driving question on challenge that the learning community addresses together. -->
@@ -653,17 +683,17 @@ As a critique of PRIMM, while the authors do link to some sociocultural concepts
 
 **Limitations of LOA and PRIMM and more work?**
 
-LOA and PRIMM appear to imply an explicit teaching of abstract concepts or processes, however, research lacks include examples of activity explicitly teaching abstraction [@sentance_teachers_2019; @sentance_teaching_2019]. CHECK?
+<!-- Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
+CLARIFY THIS WHOLE SECTION - OR DROP OR MOVE?  -->
 
-While the importance of explicit instruction of concepts is outlined, there is no guidance on what concepts should be best explored via this pedagogy. Given the context of of computing, there may be an implicit assumption that teachers turn to the UK curriculum perhaps for guidance. To illustrate this, PRIMM has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts.
-https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
 
-Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
-CLARIFY THIS WHOLE SECTION.  
+PRIMM is built on an underlying premise that explicit teaching of abstract concepts or processes complements concrete exploration within programming activities [@sentance_teachers_2019]. However, research lacks data on the process of such explicitly teaching or what abstract concepts should be best explored via this pedagogy. This may be a practical approach given the different curricular and requirement that teachers face. For example in the UK context there may be an implicit assumption that teachers turn to the computing curriculum for guidance.
 
-the authors [-@waite_abstraction_2018-1, p.21] acknowledge that rationale and evidence to support this is not clear for younger coders.
+Noting recent calls align computing education with sociocultural approaches [@tenenberg_out_2014], the creation of PRIMM by Sentence and colleagues drew on concepts, of mediation and ZPD [-@sentance_teaching_2019, p. 2].
+DEVELOP AND COME BACK TO THIS IN THE PROBLEM STATEMENT OF THE THESIS.
+The authors acknowledge limits of the research, particularly in the form of differentiation of work and the use of wider concepts of the sociocultural theoretical framework used.  
 
-In conclusion, the authors [-@waite_abstraction_2018-1, p.21] also state that the overall utility of LOA as a useful tool for younger participants is an open question, and that more research is needed on claims that it can help "use of design as a self-regulation tool to develop independence".
+
 
 
 <!-- Limits of the Sociocultural ideas in UK computing research (above) NOT NEEDED?
@@ -686,13 +716,11 @@ The concept of 'half-baked' games and microworlds, proposed by Kynigos and colle
 
 This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993]. While Kynigos' design promoted the acquisition of computational thinking, Microworlds can facilatate the exploration of diverse concepts [@rieber_microworlds_2004].
 
-Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
+
 
 Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
 
-Similarly the concept of  task specific programming language [@kong_providing_2022], in research on Microworlds, has a similar motivation.
 
-    "The task-specific programming language (TSPL) is purposefully limited in the abstractions and concepts needed for the tasks or explorations in the microworld so that programming becomes much easier to learn than a complete programming language.[@kong_providing_2022]"
 
 <!-- Task-specific programming (TSP) aims to provide the same easy-to-
 understand operations for a microworld, but with a language and envi-
@@ -723,48 +751,77 @@ The work of Papert and the concept of microworlds continue to be influential in 
 
 <!-- onal Sophicistication - using game patterns as a higher level which learners construct from scratch. -->
 
-Design patterns, a concept originated in architecture [@alexand], are structural solutions to common design problem rooted illustrated via concrete examples of design principles in context. Design patterns can help the development of design communities when experienced coders document the patterns they for novices.
+Design patterns, a concept originated in architecture [@alexand], are structural solutions to common design problem rooted illustrated via concrete examples of design principles in context. Design patterns can help the development of design communities when experienced coders document the patterns they for novices. The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995] and commonly used for computing students at higher education to teach object oriented computing providing scaffolding via the modelling of community-based design decisions. Design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
-The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995]
-and commonly used for computing students at higher education to teach object oriented computing providing scaffolding via the modelling of community-based design decisions.
-
-Design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
-
-Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019]
-
-<!-- However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.ANY SOURCE? -->
+<!-- Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019] -->
 
 
-**Design patterns as intermediate constructs**
+Eriksson et al. [-@eriksson_using_2019], draw on the work of Höök and Löwgren [-@hook_strong_2012] to frame design patterns within games as a form of intermediate-level knowledge between the detail of concrete implementation and general theories. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work. Similarly Dearden [@dearden_pattern_2006, p. 20] advises caution in choosing the appropriate scope of pattern formulation noting that if that if they those "too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios."
 
-
-Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20].
-
-Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010]. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work.
-
-
-Eriksson et al. [-@eriksson_using_2019, p.15], draw on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign rather than as a base for computer coding.
-
-This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated.
-
-MOVED HERE SO CLARIFY THE POINT OF THE ABOVE. SOMETHING TO DO WITH PLAY PARADOX?
-
+<!-- Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010]. -->
+<!-- This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. -->
+<!-- MOVED HERE SO CLARIFY THE POINT OF THE ABOVE. SOMETHING TO DO WITH PLAY PARADOX? -->
 
 **Turning specifically to the the use of game design patterns**
 
-and has also been adopted by game designers [@bjork_patterns_2005].
+Turning specifically to the the use of game design patterns within games, the use of design patterns and has also been adopted by game designers and educators working with games in varied ways [@bjork_patterns_2005].  In professional context of game programming collections of structural game design patterns are used to share coding practice and to develop a shared language of game design [@bjork_games_2006]. Thus, the term game design patterns (GDP) is used in different ways with Kreimeier  distinguishing between content patterns and structural software engineering patterns [@kreimeier_case_nodate]. Content patterns describe common patterns of design that are visible to the end user.
 
+Following the work of Bergström et al. [@bergstrom_exploring_2010], for the purposes of this study the term GDP refers to game play design patterns a subset of game design patterns referring to to content patters that would be recognisable or at least experienced by the game player as features of the game.
+
+ALSO WORK ON MDA HERE TOO. Where is this?
+THIS NEEDS ADDING IN.
 
 <!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
+<!-- Recalling the issues of learners stress and the play paradox addressed above collections of patterns have been used to structure learners choice in the create or choose stage of project work [@franklin_analysis_2020].   -->
+
+<!-- Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other -->
+
+#### Using collections of Game(play) design patterns within design education
+
+<!-- Thus structural game design patterns may be common ways of programming a game but may not be familiar to end-users. A common example would be that of the game loop.
+https://gameprogrammingpatterns.com/game-loop.html
+By way of contrast,  -->
+<!-- Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player. -->
+
+The following two examples draw on collections of GDPs to help design process (not involving programming) of games as an educational activity.
+
+**Using Game Design pattern collections and code examples to help novice students.**
+
+**String force**
+
+In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game
+
+Their research, which involved young people, builds on ra strand of research with adults with the explicit goal of learning game design [ADD ALL IN]. One product of this strand research is a list of GDPs made available as as a public collection [@bjork_patterns_2005].
+
+The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
+
+The process of curating patterns involve selected only 14 from a list of over 100? [CHECK]. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
+
+<!-- The principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019] -->
+
+**Results:**
+
+The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI).
+As such the potential for participants  was under explored and the potential for teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
 
 
+**GSM as example**
+
+GSM created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
+
+The normal practice is geared towards prompts within the software with specific missions.
+
+There is little research published on how the cards were used in practice. Limitations include
+
+Thus while existing research show the promise of GDPs in exploring systems thinking and developing an overall sense of game design, there is a gap in the research landscape in how GDP pattern collections could be used to support novices and young people to program computer games.
+ADD TO PROBLEM STATEMENT
+
+### Game design patterns in programming  education
 
 In the work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  
 
 Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
 The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
-
-
 
 
 #### Scalable game design
@@ -776,7 +833,6 @@ https://web.archive.org/web/20181119014430/https://sgd.cs.colorado.edu/wiki/Scal
 Given the similarity in use of design patterns in game making using coding, it valuable to examine the context, aims and tools of the Scalable Game Design (SGD) programme carried out by Repenning and Basawapatna [-@repenning_scalable_2010; -@basawapatna_using_2010].
 
 SGD is an extensive computing education program designed and delivered by Colorado University with extensive support from external funders aligned with computing / STEM in schools. This partnership work allowed extensive data collection with some studies involving data from thousands of school students.
-
 
 The researchers use the term Computational Thinking Patterns (CPTs) to describe patterns present in computer games which they support learners to code.
 
@@ -854,61 +910,6 @@ In my own game making model students picked missions from a choice of printed re
 
 
 
-### Using collections of patterns
-
-The use of a collection of design patterns can help address challenges faced by facilitators supporting novice coders.
-
-Recalling the issues of learners stress and the play paradox addressed above collections of patterns have been used to structure learners choice in the create or choose stage of project work [@franklin_analysis_2020].  
-
-
-Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other
-
-#### Using collections of Game(play) design patterns
-
-The term game design patterns (GDP) is used in different ways. Kreimeier [@kreimeier_case_nodate] distinguishes content patterns from software engineering patterns.
-
-Thus structural game design patterns may be common ways of programming a game but may not be familiar to end-users. A common example would be that of the game loop.
-https://gameprogrammingpatterns.com/game-loop.html
-
-By way of contrast, content patterns describe common patterns of design that are visible to the end user.  In the context of programming a game these could involve elements of game play.  For the purposes of this study game play design patterns would be a subset of game design patterns, and refers to those that would be recognisable to the player as features of the game.
-
-<!-- Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player. -->
-
-**Using Game Design pattern collections and code examples to help novice students.**
-
-**GSM as example**
-
-GSM created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
-
-The normal practice is geared towards prompts within the software with specific missions.
-
-There is little research published on how the cards were used in practice. Limitations include
-
-Thus while existing research show the promise of GDPs in exploring systems thinking and developing an overall sense of game design, there is a gap in the research landscape in how GDP pattern collections could be used to support novices and young people to program computer games.
-ADD TO PROBLEM STATEMENT
-
-**String force**
-
-MOVE SOME OF CHAPTER 7 HERE
-
-Eriksson and colleagues [-@eriksson_using_2019] use the second interpretation rephrasing slightly as gameplay design patterns, thus placing emphasis on the exposure to the user via playing the game.
-
-
-Their research, which involved young people, builds on related research with adults with the explicit goal of learning game design. One product of this research is a list of GDP patterns as a public collection (available at http://virt10.itu.chalmers.se/) [@bjork_patterns_2005].
-
-
-In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game
-The principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019]
-The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
-
-
-
-The process of curating patterns involve selected only 14 from a list of over 100? [CHECK]. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
-
-**Results:**
-
-The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to  researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI).
-As such the potential for participants  was under explored and the potential for teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
 
 <!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source  creative inspiration and as an aid to problem-solving. -->
 
@@ -1155,6 +1156,8 @@ Given that few studies communicate pedagogical detail in a way which allows repl
 
 **Gdps in particular** are promising which is not explored in terms of what it can offer in particular to participants and facilitators in a learning design orientated to a socio cultural approach.  
 ADD IN SOME THING ABOUT CONCRETE APPROACHES
+
+Following from the use of  a collection of design patterns to support collaborative design decisions outlined above, it appears a promising area to address challenges faced by facilitators supporting novice coders.
 
 **Focusing on Agency is valid because**  it is a way to address relevant concepts of fluency in this domain with greater theoretical rigour.
 

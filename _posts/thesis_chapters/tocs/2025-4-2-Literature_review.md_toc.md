@@ -36,32 +36,23 @@
             -](#pair-programming-socialcollaborative-coding--)
         -   [Use Modify Create](#use-modify-create)
             -   [Levels of Abstraction](#levels-of-abstraction)
-        -   [Curricular concepts, semantic waves, LOA - INTEGRATE UP?
-            DOWN?](#curricular-concepts-semantic-waves-loa---integrate-up-down)
             -   [Semantic Profiles and
-                Waves](#semantic-profiles-and-waves)
-        -   [PRIMM](#primm)
-        -   [Limits of the Sociocultural ideas in UK computing research
-            (above) NOT
-            NEEDED?](#limits-of-the-sociocultural-ideas-in-uk-computing-research-above-not-needed)
+                PRIMM](#semantic-profiles-and-primm)
+                -   [PRIMM](#primm)
     -   [GAME SPECIFIC -](#game-specific--)
-        -   [Half-baked games as Microworlds
-            -](#half-baked-games-as-microworlds--)
+        -   [Half-baked games as
+            Microworlds](#half-baked-games-as-microworlds)
         -   [Design patterns](#design-patterns)
-        -   [Using design patterns in
-            education](#using-design-patterns-in-education)
-            -   [Design patterns as intermediate
-                constructs](#design-patterns-as-intermediate-constructs)
             -   [Scalable game design](#scalable-game-design)
-            -   [Using collections of
-                patterns](#using-collections-of-patterns)
+        -   [Using collections of
+            patterns](#using-collections-of-patterns)
             -   [Using collections of Game(play) design
                 patterns](#using-collections-of-gameplay-design-patterns)
     -   [Programmes working to address
         challenge](#programmes-working-to-address-challenge)
         -   [Game competitions](#game-competitions)
-            -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
-                Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
+        -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
+            Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
         -   [Educational Game Jams](#educational-game-jams)
         -   [The Fifth Dimension](#the-fifth-dimension)
     -   [Synthesis of chapter / discussion / problem
