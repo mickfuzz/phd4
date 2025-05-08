@@ -531,6 +531,14 @@ A study involving five hundred 9 to 14 year-olds found that the UMC approach can
 
 <!-- NOTE - This may be moved to design chapter -->
 
+
+Giving learners agency via their choice over the design of created public code products has the potential to motivate ad sustain programming activity [@papert_mindstorms_1980; @kafai_constructionism_1996-1], but brings with it the potential for both facilitator stress in supporting diverse activity, and the potential for diversion for students away from target areas of subject exploration (a tension Noss and Hoyles call the play paradox [@hoyles_pedagogy_1992])
+
+Addressing these tensions work by Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
+
+Other work from UMC proponent Lytle suggests a list of extensions to choose from, swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
+
+
 UMC has been developed to be end with scaffolded set of choices.
 In a study where students use a block based language to develop simulations - the authors note limits of study but are enthusiastic about providing a limited set of choices for final exploration within a limited time frame [@lytle_use_2019-1; @lytle_use_2019]
 
@@ -715,36 +723,24 @@ The work of Papert and the concept of microworlds continue to be influential in 
 
 <!-- onal Sophicistication - using game patterns as a higher level which learners construct from scratch. -->
 
+Design patterns, a concept originated in architecture [@alexand], are structural solutions to common design problem rooted illustrated via concrete examples of design principles in context. Design patterns can help the development of design communities when experienced coders document the patterns they for novices.
 
-Design patterns are most commonly used for computing students at higher education to teach object oriented computing but they are also useful for all levels of learners. Design patterns are rooted in real-life incidences of problems that are often solved in a particular way. They are concrete examples of coding principles in context. Design patterns can help the development of coding communities if more experiences coders take the time to document the patterns they use in an accessible way for novice coders. For educators the use of design patterns can help support learners develop coding proficiency by providing scaffolding and modelling good design decisions. However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.
-
-
-
-<!-- This mirrors work done to automatically analyse Scratch project to assess levels of Computational Thinking Hoover et al., 2016). Here by contrast, analysis is undertaken using framework of use of computer language syntax and data types rather than game mechanic concepts and other code pattern usage. -->
-
-
-The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995], and has also been adopted by game designers [@bjork_patterns_2005]. Design patterns are well thought out solutions to common issues faced by computer programmers and system designers.
-
-Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019]
-
-
-### Using design patterns in education
-
-<!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
+The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995]
+and commonly used for computing students at higher education to teach object oriented computing providing scaffolding via the modelling of community-based design decisions.
 
 Design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
 
+Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019]
 
-In the  work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  
-
-Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
-The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
+<!-- However, one of the challenges for teachers of using worked examples and design patterns is how to integrate them into student-led design challenges.ANY SOURCE? -->
 
 
-#### Design patterns as intermediate constructs
+**Design patterns as intermediate constructs**
 
 
-Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20]. Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010]. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work.
+Design patterns in computing contexts are presented as a middle ground between abstract theories (e.g. computational thinking) and more concrete techniques. "Formulations that are too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios." [@dearden_pattern_2006, p. 20].
+
+Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010]. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work.
 
 
 Eriksson et al. [-@eriksson_using_2019, p.15], draw on a framing design patterns as "intermediate-level concepts" between the detail of concrete implementation and more general theories [@hook_strong_2012], use gameplay design patterns with young people and used a curated collection of GDPs as a base for young people to input ideas for game redesign rather than as a base for computer coding.
@@ -752,6 +748,23 @@ Eriksson et al. [-@eriksson_using_2019, p.15], draw on a framing design patterns
 This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated.
 
 MOVED HERE SO CLARIFY THE POINT OF THE ABOVE. SOMETHING TO DO WITH PLAY PARADOX?
+
+
+**Turning specifically to the the use of game design patterns**
+
+and has also been adopted by game designers [@bjork_patterns_2005].
+
+
+<!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
+
+
+
+In the work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  
+
+Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
+The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
+
+
 
 
 #### Scalable game design
@@ -841,12 +854,12 @@ In my own game making model students picked missions from a choice of printed re
 
 
 
-#### Using collections of patterns
+### Using collections of patterns
 
-The use of a collection of design patterns, while primarily used in professional settings, can help barriers faced by novice coders.
+The use of a collection of design patterns can help address challenges faced by facilitators supporting novice coders.
 
-To help revolve the play paradox - of learner choice vs subject exploration [@hoyles_pedagogy_1992] Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
-Other work from UMC proponent Lytle suggests a list of extensions to choose from swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
+Recalling the issues of learners stress and the play paradox addressed above collections of patterns have been used to structure learners choice in the create or choose stage of project work [@franklin_analysis_2020].  
+
 
 Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other
 
@@ -936,7 +949,7 @@ ADD THE KAFAI REVIEW ASPECT - GLOBALORIA ETC.
 
 Critique of competitions [@thumlert2018learning] is that the values of the competitions are largely embraced uncritically rather than developing and transforming practices of the learning site itself. Also there is a danger of inequality of access explored above.
 
-####  UK coding clubs: Code Club, Coder Dojo and Raspberry Jam
+###  UK coding clubs: Code Club, Coder Dojo and Raspberry Jam
 
 Drawing on early legacy of the computer clubhouse work by Papert in Boston described above...
 
