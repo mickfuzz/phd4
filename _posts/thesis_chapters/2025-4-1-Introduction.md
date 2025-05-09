@@ -157,6 +157,13 @@ As such this thesis addresses diverse elements including the development of skil
 
 CGD&P is relevant in both contexts of both formal and non-formal computing education. The next section outlines the  changing contextual features of both areas.
 
+### Format of this chapter
+
+Keep this brief.
+
+Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions.
+
+
 
 <!-- THIS I THINK IS NOT REALLY ADDRESSED IN THIS THESIS - THE LATTER PART IS ON AGENCY
 

@@ -123,16 +123,11 @@ title: 2. Literature Review
     - Problem statement  
     - Link  -->
 
-This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions. The review then delves into key pedagogies of game making and digital making. A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. Additionally this chapter examines the learning characteristics of informal settings for game making such as, code clubs, competitions and game jams. Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
+This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Then I outline key concerns of the work of constructionist researchers in the broader field of supporting programming education and more specifically within CGD&P as a way of highlighting promising areas for future research.
 
+The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis beginning with wider field of computer programming adn focusing in on those specifically addressing game making. A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. Due to the sociocultural focus of this study, attention is also paid to the research on the potential and characteristics of non-formal learning programmes where game making may take place. Specifically, I summarise relevant research on code clubs, competitions and game jams.
 
-This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions. The review then delves into key pedagogies of game making and digital making. A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. Additionally this chapter examines the learning characteristics of informal settings for game making such as, code clubs, competitions and game jams. Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
-
-
-### Addressing terms used
-
-
-#### Pedagogy - a working definition of pedagogy.
+Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
 
 Given that this literature review aims to explore existing relevant pedagogies within the research field, a working definition of pedagogy is appropriate given the socio-cultural focus of this study. The following definition aligns with the socio-cultural approach of this study.  "Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context." [@siraj-blatchford_researching_2002]
 
@@ -161,25 +156,22 @@ NOTE - IM NOT SURE HOW HELPFUL THIS ACTUALLY IS. -->
 ## A review of relevant research informing computer game design and programming (CGD&P)
 
 <!-- ### Potential benefits of computer game design and programming (CGD&P) -->
+EXPLAIN WHY THIS IS FIRST NOT AFTER GENERAL CODING PEDAGOGIES
 
-This section addresses studies on computer game design and programming (CGD&P)
+This section begins by addressing studies on computer game design and programming (CGD&P) before progressing to give an overview of constructionist research in this area.
 
-EXPLAIN WHY THIS IS FIRST NOT AFTER GENERAL CODING Pedagogies
+<!-- Before addressing specific pedagogies to programming in general and game making in particular, it is of value to examine the broad context of motivations for undertaking -->
 
-Before addressing specific pedagogies to programming in general and game making in particular, it is of value to examine the broad context of motivations for undertaking
-
-IS THIS NOT DONE IN THE INTRODUCTION CHAPTER?
 
 ### The benefits of computer game design and programming (CGD&P)
-
 
 Several notable reviews explore the motivations, processes, and benefits of making games for learning  [@denner_does_2019; @earp_game_2015; @hayes_making_2008; @kafai_constructionist_2015-1; @gee_video_2016]. While Gee and Tran [-@gee_video_2016] discuss the diverse tools available for game design. For Bermingham and colleagues CGD&P competencies are framed as 21st Century Skills [@bermingham_approaches_2013], a focus echoed in  a wider review on digital making encompassing game making [@lamas_making_2019]. In their review of the potential of CGD&P to encourage collaboration, Earp and colleagues found that "analysis of collaboration is mainly restricted to peer review and providing feedback" [@earp_learner_2013]. Hayes and Games [-@hayes_making_2008] take a broader approach, identifying four main motivations for CGD&P: learning computer programming skills, deepening subject knowledge of other curricular subjects, involving more girls in computer programming, and using game design to understand design concepts.
 
 Kafai and Burke's [-@kafai_constructionist_2015-1] review synthesises 55 relevant papers within the framework of constructionist gaming focuses on varied strands of the potential of CGD&P and the barriers to participation (explored in Chapter 1). The most developed section is on the benefits and motivations of CGD&P research to address the development of personal dimensions of knowledge and skills. Strong areas within that are computer science knowledge and programming, maths and science and a range of technical abilities that facilitate participation in the information society. Additionally, social dimensions such as pair programming, social skills, self-reflection, cultural awareness are addressed. The authors note limitations in the presentation of may findings in terms of detail regarding the  discussion of pedagogies used, however what studies do detail pedagogies are not shared in the review [@illingworth_review_2017].
 
-
 A review of CGD&P by Denner and colleagues [@denner_does_2019] is positive about the the effectiveness of CGD&P to develop computing science learning and motivation. Denner et al.'s finding focus on computer science learning, breaking this broader concept into subcategories of programming knowledge and problem specification and design. Importantly, Denner et al. [@denner_does_2019] also outline three strands of pedagogical interest: design-build-test, step-based instruction, and social pedagogical approaches. However, these strands are described only in general terms. Later in this chapter, these strands and related pedagogies are addressed in more detail.
 
+Given the limitations of the reviews outline above to address an more detailed overview of pedagogical approaches used (to build agency?), this chapter will address research which does describe pedagogies in more detail drawing first on wider computing pedagogies for novices before exploring those related to game design and programming in more details. Before undertaking this more detailed review it is also of value to describe the breadth of innovations and subsequent research by the constructionist school both to acknowledge the significance of this research and to give a broad overview of themes that will be developed subsequently.
 
 <!-- THIS COULD BE A GOOD CHANCE TO GO INTO THIS MORE - ADN THEN DROP DESIGN STAGES ALTOGETHER FROM THIS THESIS!!! -->
 <!-- Similarly, while studies on the community use of game making, in after-school and online settings exist [@kafai2012collaborative; @peppler_computer_2009; @luther_leadership_2011], details of pedagogies to develop community participation, as explored later in this chapter, are often scant.  -->
@@ -209,7 +201,7 @@ In their project-based intervention, Girls Creating Games, Denner and Werner foc
 Other studies show games as a potential vehicle for exploring issues involving race, sex, social issues. -->
 
 
-## An overview of constructionist approaches
+### An overview of constructionist approaches
 
 <!-- Before turning to a more detailed exploration of distinct pedagogies used in or appropriate for CGD&P,  -->
 
@@ -219,7 +211,10 @@ Kafai and Burke
 
 also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity. -->
 
-The work of constructionist researchers is vital in the field of CGD&P and programming education in general. Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field. The ethos and theoretical underpinning of constructionism are difficult to locate precisely [@laurillard2020significance, p.29]. Over time, different foci have emerged.  Papert's early focus on objects to think with was interpreted as an expansion to Piaget's constructivism [@ackermann_piagets_2001]. Resnick [-@resnick2014give] and other constructionist researchers have advocated for software and hardware tools that promote an open-ended, child-led approach to designing relatable objects of interest. The framing of Kafai and Burke of CGD&P as constructionist gaming widens the scope still further.
+The work of constructionist researchers is foundation in the field programming education. Examples include the work of Papert pioneering LOGO, programmable LEGO drawing turtles [@papert_mindstorms; @papert_childrens_1993; @papert_turtles_2002], early research by Kafai on game programming by children [@kafai_minds_1994], and  innovations in creative computing by Resnick in the areas of physical computing [@resnick_digital_1998] and a more generalised multi-media authoring tool (called Scratch)[@resnick_reflections_2005].  Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field with many of the researchers undertaking work in this area identifying their work as following constructionist principles [@harel_caperton_toward_2010; @repenning_scalable_2010; ].
+COMPLETE LATRE 
+
+The ethos and theoretical underpinning of constructionism are difficult to locate precisely [@laurillard2020significance, p.29]. Over time, different foci have emerged.  Papert's early focus on objects to think with was interpreted as an expansion to Piaget's constructivism [@ackermann_piagets_2001]. Resnick [-@resnick2014give] and other constructionist researchers have advocated for software and hardware tools that promote an open-ended, child-led approach to designing relatable objects of interest. The framing of Kafai and Burke of CGD&P as constructionist gaming widens the scope still further.
 
 This section situates the concerns of this thesis within the existing body of constructionist research before widening the focus explore the principle strands within it. To achieve this, I will examine analysis of constructionism, via its design principles and pedagogical approaches and engagement with social approaches to learning (ADD IN).  
 
