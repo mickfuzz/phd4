@@ -811,12 +811,15 @@ The work explored the utility of GDP concepts in several dimensions the focus as
 As such the potential for participants  was under explored and the potential for teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
 
 
-**GSM as example**
+#### Game Star Mechanic and related work by Institute of Play
 
-GSM created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
+The use of the the of game design theory also played a prominent role in the approach of the Institute of Play within the design motivation of a game design software package called Game Star Mechanic (GSM). GSM is an online software specifically designed to communicate and build systems thinking and design thinking through the process of making video games [@games_design_2008].
 
-The normal practice is geared towards prompts within the software with specific missions.
+Research on GSM outlines the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014]. However, in order to foreground those elements, programming as a practice is dropped from the tool to reduce complexity.
 
+Ivan Games [-@games_design_2008] describes in depth how the design of the product allowed the use of learners background knowledge of game design patterns to facilitate complex forms of collaborative design and discourse between novice designers.
+
+To facilitate this process further, the GSM team created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
 There is little research published on how the cards were used in practice. Limitations include
 
 Thus while existing research show the promise of GDPs in exploring systems thinking and developing an overall sense of game design, there is a gap in the research landscape in how GDP pattern collections could be used to support novices and young people to program computer games.
