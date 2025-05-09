@@ -10,76 +10,78 @@ categories: chapter
 title: 2. Literature Review
 
 ---
--   [Literature Review](#literature-review)
-    -   [Research Questions - July
-        2024](#research-questions---july-2024)
-    -   [Introduction](#introduction)
-        -   [Addressing terms used](#addressing-terms-used)
-            -   [Pedagogy - a working definition of
-                pedagogy.](#pedagogy---a-working-definition-of-pedagogy.)
-    -   [A review of relevant research informing computer game design
-        and programming
-        (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
-        -   [The benefits of computer game design and programming
-            (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
-    -   [An overview of constructionist
-        approaches](#an-overview-of-constructionist-approaches)
-        -   [Constructionist design
-            heuristics](#constructionist-design-heuristics)
-        -   [Microworlds as Pedagogy](#microworlds-as-pedagogy)
-        -   [Tools with community assets](#tools-with-community-assets)
-        -   [Coding club(houses) & Family Creative
-            Learning](#coding-clubhouses-family-creative-learning)
-        -   [Constructionist framing of computational thinking
-            (CT)](#constructionist-framing-of-computational-thinking-ct)
+-   [Research Questions April 2025](#research-questions-april-2025)
+-   [Introduction](#introduction)
+    -   [Addressing terms used](#addressing-terms-used)
+        -   [Pedagogy - a working definition of
+            pedagogy.](#pedagogy---a-working-definition-of-pedagogy.)
+-   [A review of relevant research informing computer game design and
+    programming
+    (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp)
+    -   [The benefits of computer game design and programming
+        (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
+-   [An overview of constructionist
+    approaches](#an-overview-of-constructionist-approaches)
+    -   [Constructionist design
+        heuristics](#constructionist-design-heuristics)
+    -   [Microworlds as Pedagogy](#microworlds-as-pedagogy)
+    -   [Tools with community assets](#tools-with-community-assets)
+    -   [Coding club(houses) & Family Creative
+        Learning](#coding-clubhouses-family-creative-learning)
+    -   [Constructionist framing of computational thinking
+        (CT)](#constructionist-framing-of-computational-thinking-ct)
+    -   [Constructionist pedagogies - Project-based rather than
+        instruction-based](#constructionist-pedagogies---project-based-rather-than-instruction-based)
+    -   [Limitations within constructionist approaches and the related
+        field of CGD&P
+        research](#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research)
         -   [Fluency and agency as relevant learner
             outcomes](#fluency-and-agency-as-relevant-learner-outcomes)
-        -   [Constructionist pedagogies - Project-based rather than
-            instruction-based](#constructionist-pedagogies---project-based-rather-than-instruction-based)
-    -   [Pedagogies to support game making via
-        coding](#pedagogies-to-support-game-making-via-coding)
-        -   [Explicit teaching of computational thinking - Principles
-            first](#explicit-teaching-of-computational-thinking---principles-first)
-        -   [Design frameworks using stages &
-            PBL](#design-frameworks-using-stages-pbl)
-            -   [Project-based learning
-                (PBL)](#project-based-learning-pbl)
-        -   [Pair programming & social/collaborative coding
-            -](#pair-programming-socialcollaborative-coding--)
-        -   [Use Modify Create](#use-modify-create)
-            -   [Levels of Abstraction](#levels-of-abstraction)
-            -   [Semantic Profiles and
-                PRIMM](#semantic-profiles-and-primm)
-                -   [PRIMM](#primm)
-    -   [GAME SPECIFIC -](#game-specific--)
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds)
-        -   [Design patterns](#design-patterns)
-            -   [Scalable game design](#scalable-game-design)
-        -   [Using collections of
-            patterns](#using-collections-of-patterns)
-            -   [Using collections of Game(play) design
-                patterns](#using-collections-of-gameplay-design-patterns)
-    -   [Programmes working to address
-        challenge](#programmes-working-to-address-challenge)
-        -   [Game competitions](#game-competitions)
-        -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
-            Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
-        -   [Educational Game Jams](#educational-game-jams)
-        -   [The Fifth Dimension](#the-fifth-dimension)
-    -   [Synthesis of chapter / discussion / problem
-        statement](#synthesis-of-chapter-discussion-problem-statement)
-        -   [Recapping this study's motivations - both broad and my
-            motivations](#recapping-this-studys-motivations---both-broad-and-my-motivations)
-        -   [Returning to gaps in the CGD&P research
-            landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
-        -   [The problem statement of the
-            thesis](#the-problem-statement-of-the-thesis)
-            -   [Pedagogies exist but more are needed that are specific,
-                aligned with non-formal spaces, x and
-                y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.)
-            -   [Research Questions](#research-questions)
-        -   [Link to the next chapter](#link-to-the-next-chapter)
+        -   [On Pedagogy & limitations](#on-pedagogy-limitations)
+-   [Pedagogies to support game making via
+    coding](#pedagogies-to-support-game-making-via-coding)
+    -   [Explicit teaching of computational thinking - Principles
+        first](#explicit-teaching-of-computational-thinking---principles-first)
+    -   [Design frameworks using stages &
+        PBL](#design-frameworks-using-stages-pbl)
+        -   [Project-based learning (PBL)](#project-based-learning-pbl)
+    -   [Pair programming & social/collaborative coding
+        -](#pair-programming-socialcollaborative-coding--)
+    -   [Use Modify Create](#use-modify-create)
+        -   [Levels of Abstraction](#levels-of-abstraction)
+        -   [Semantic Profiles and PRIMM](#semantic-profiles-and-primm)
+            -   [PRIMM](#primm)
+-   [GAME SPECIFIC -](#game-specific--)
+    -   [Half-baked games as
+        Microworlds](#half-baked-games-as-microworlds)
+    -   [Design patterns](#design-patterns)
+        -   [Using collections of Game(play) design patterns within
+            design
+            education](#using-collections-of-gameplay-design-patterns-within-design-education)
+    -   [Game design patterns in programming
+        education](#game-design-patterns-in-programming-education)
+        -   [Scalable game design](#scalable-game-design)
+-   [Programmes working to address
+    challenge](#programmes-working-to-address-challenge)
+    -   [Game competitions](#game-competitions)
+    -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
+        Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam)
+    -   [Educational Game Jams](#educational-game-jams)
+    -   [The Fifth Dimension](#the-fifth-dimension)
+-   [Synthesis of chapter / discussion / problem
+    statement](#synthesis-of-chapter-discussion-problem-statement)
+    -   [Recapping this study's motivations - both broad and my
+        motivations](#recapping-this-studys-motivations---both-broad-and-my-motivations)
+    -   [Returning to gaps in the CGD&P research
+        landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
+    -   [The problem statement of the
+        thesis](#the-problem-statement-of-the-thesis)
+        -   [Pedagogies exist but more are needed that are specific,
+            aligned with non-formal spaces, x and
+            y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.)
+        -   [Research Questions](#research-questions)
+    -   [Link to the next chapter](#link-to-the-next-chapter)
+
 # Literature Review
 
 ## Research Questions April 2025
@@ -795,7 +797,7 @@ Their research, which involved young people, builds on ra strand of research wit
 The process of structuring these patterns drew on wider work on game theory, most directly the work on the MDA framework [@bergstrom_exploring_2010],
 
 The Mechanics element of the framework has much in common with GDPs. The difference is explored by researchers [@olsson2014conceptual]. The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
-THIS NEEDS CLARIFYING - ? BUT NOT TOO MUCH 
+THIS NEEDS CLARIFYING - ? BUT NOT TOO MUCH
 
 The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
 
@@ -830,34 +832,36 @@ The results - a limited use of standard CT concepts by students - led them to al
 
 #### Scalable game design
 
-USEFUL WIKI
-https://web.archive.org/web/20181119014430/https://sgd.cs.colorado.edu/wiki/Scalable_Game_Design_wiki
+<!-- USEFUL WIKI
+https://web.archive.org/web/20181119014430/https://sgd.cs.colorado.edu/wiki/Scalable_Game_Design_wiki -->
 
 
-Given the similarity in use of design patterns in game making using coding, it valuable to examine the context, aims and tools of the Scalable Game Design (SGD) programme carried out by Repenning and Basawapatna [-@repenning_scalable_2010; -@basawapatna_using_2010].
+Given the similarity in use of design patterns in game making using coding, it valuable to examine the context, aims and tools of the Scalable Game Design (SGD) programme carried out by Repenning and Basawapatna [-@repenning_scalable_2010; -@basawapatna_using_2010]. SGD is an extensive computing education program designed and delivered by Colorado University with extensive support from external funders aligned with computing / STEM in schools. This partnership work allowed extensive data collection with some studies involving data from thousands of school students.
 
-SGD is an extensive computing education program designed and delivered by Colorado University with extensive support from external funders aligned with computing / STEM in schools. This partnership work allowed extensive data collection with some studies involving data from thousands of school students.
-
-The researchers use the term Computational Thinking Patterns (CPTs) to describe patterns present in computer games which they support learners to code.
-
-It is the familiarity and understandability, and the ability to link to specific learning outcomes which which drew the SCG researchers towards a pattern-based approach compared to limitations of more abstract interpretations of computational thinking. This was driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations [@basawapatna_recognizing_2011] .
+The researchers use the term Computational Thinking Patterns (CPTs) to describe patterns present in computer games which they support learners to code. It is the familiarity and understandability, and the ability to link to specific learning outcomes which which drew the SCG researchers towards a pattern-based approach compared to limitations of more abstract interpretations of computational thinking. This was driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations [@basawapatna_recognizing_2011] .
 
 <!-- Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants. -->
 
-
-
-Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme.
-
-![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm"}
+<!-- ![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm"} -->
 
 The authors give examples of computational thinking patterns:  *generation* and *absorbtion* in predator / prey relationships, *transportation *of oxygen by red blood cells and mosquitoes *hill climbing* (seeking the highest value) of human scent.
 
-The focus on transfer to science simulations concepts explains the increased distancing of language from transferable coding principles in both abstract and concrete forms.
+The authors refer to a project first rather than principles first approach to implementing coding. Computational concepts, for example, loops, lists, logic and variables are recommended to be taught as learner require them to be used. To do this they advocate use of _just in time_ instruction, via a clear links between the instruction needed and the motivation to achieve a tangible goal within game design to keep learners in a zone of engagement [@basawapatna_zones_2013].
 
-The authors refer to a project first rather than principles  first approach to implementing coding, principles being taught just in time. Computational thinking concepts, for example, loops, lists, logic and variables are recommended to be taught as learner require them to be used.
+Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work.
+
+**Resources of SGD and limitations in practice**
+
+A practical consideration is that it is specialist science software which can be problematic to maintain in the long term.
+
+How just in time are these resources really?
+
+<!-- Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme. -->
+
+<!-- The focus on transfer to science simulations concepts explains the increased distancing of language from transferable coding principles in both abstract and concrete forms. -->
 
 
-The concept of just in time instruction aims to reduce boredom and increase engagement with strong linking between the instruction needed and the goal to achieve a tangible goal linked a game.
+
 
 
 <!-- In SGD the concept of proximal flow links flow theory and the vital importance of engagement, via scaffolding to the ZPD and the social and environmental nature of that support [@basawapatna_zones_2013].
@@ -873,13 +877,7 @@ The concept of just in time instruction aims to reduce boredom and increase enga
 
 <!-- Beyond the following of instructions, the process by which students return to flow are not discussed. Given the social nature of the process this seems to neglect the possible uses of design pattern in peer learning.   -->
 
-Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work.
 
-**Resources of SGD and limitations in practice**
-
-A practical consideration is that it is specialist science software which can be problematic to maintain in the long term.
-
-How just in time are these resources really?
 
 
 
