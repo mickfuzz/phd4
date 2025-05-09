@@ -211,35 +211,39 @@ Kafai and Burke
 
 also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity. -->
 
-The work of constructionist researchers is foundation in the field programming education. Examples include the work of Papert pioneering LOGO, programmable LEGO drawing turtles [@papert_mindstorms; @papert_childrens_1993; @papert_turtles_2002], early research by Kafai on game programming by children [@kafai_minds_1994], and  innovations in creative computing by Resnick in the areas of physical computing [@resnick_digital_1998] and a more generalised multi-media authoring tool (called Scratch)[@resnick_reflections_2005].  Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field with many of the researchers undertaking work in this area identifying their work as following constructionist principles [@harel_caperton_toward_2010; @repenning_scalable_2010; ].
-COMPLETE LATRE 
+The work of constructionist researchers is foundation in the field programming education. Examples include the work of Papert pioneering LOGO, programmable LEGO drawing turtles [@papert_mindstorms; @papert_childrens_1993; @papert_turtles_2002], early research by Kafai on game programming by children [@kafai_minds_1994], and  innovations in creative computing by Resnick in the areas of physical computing [@resnick_digital_1998] and a more generalised multi-media authoring tool (called Scratch)[@resnick_reflections_2005].  Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field with many of the researchers undertaking work in this area identifying their work as following constructionist principles [@harel_caperton_toward_2010; @repenning_scalable_2010; @weintrop_computational_2016; @kynigos_children_2018].
 
-The ethos and theoretical underpinning of constructionism are difficult to locate precisely [@laurillard2020significance, p.29]. Over time, different foci have emerged.  Papert's early focus on objects to think with was interpreted as an expansion to Piaget's constructivism [@ackermann_piagets_2001]. Resnick [-@resnick2014give] and other constructionist researchers have advocated for software and hardware tools that promote an open-ended, child-led approach to designing relatable objects of interest. The framing of Kafai and Burke of CGD&P as constructionist gaming widens the scope still further.
+However, despite this influence, the ethos and theoretical underpinning of constructionism are difficult to locate precisely [@laurillard2020significance, p.29]. This may in part be due to the varied interpretation of the concepts as an "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015]. This section situates the concerns of this thesis within the existing body of constructionist research before widening the focus to explore the principle strands within it. To achieve this, I will examine several strands of constructionist research, namely: design principles and pedagogical approaches, and engagement with social approaches to learning.
 
-This section situates the concerns of this thesis within the existing body of constructionist research before widening the focus explore the principle strands within it. To achieve this, I will examine analysis of constructionism, via its design principles and pedagogical approaches and engagement with social approaches to learning (ADD IN).  
+<!-- In addition, the focus has shifted Papert's early focus on objects to think with was interpreted as an expansion to Piaget's constructivism [@ackermann_piagets_2001]. Resnick [-@resnick2014give] and other constructionist researchers have advocated for software and hardware tools that promote an open-ended, child-led approach to designing relatable objects of interest. The framing of Kafai and Burke of CGD&P as constructionist gaming widens the scope still further. -->
+
+
 
 #### Constructionist design heuristics
 
-Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016]. When pedagogy is addressed in recent constructionist studies, it generally takes the form of broad principles of design and project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017].
+Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016].
 
-Most relevant to the domain of this study are constructionist design principles articulated by Resnick and Rosenbaum [-@resnick_designing_2013] in the form of designing for tinkerability in terms of allowing immediate feedback and fluid experimentation and open experimentation.
+Most relevant to the domain of this study are constructionist design principles articulated by Resnick and Rosenbaum [-@resnick_designing_2013] in the form of designing for tinkerability in terms of allowing immediate feedback and fluid experimentation and open experimentation. Resnick advocates for choosing black boxes carefully to abstract away complexity for the learner when it is not productive. This principle of simplifying the environment with an aim to allow learners can get started easily is given a metaphor of low floors. Other principles include high ceilings reflecting a need that projects are not limited in terms of complexity that can be achieved with effort and wide walls to represent the advantage of creations being able to create a diversity of genres of projects [@resnick_reflections_2005, @resnick_scratch:_2009].
 
-In earlier work focused on creative coding environments similar concepts of  low floors, wide walls and high ceilings [@resnick_reflections_2005, @resnick_scratch:_2009]. DEVELOP.  
+#### Microworlds as both toolset and pedagogy
+
+Laurillard [-@laurillard2020significance] describes constructionism as a distinctive pedagogy based on Papert’s vision of a publicly shareable project based a carefully scaffolded code environments (called microworlds), designed to foreground specific concepts. Microworlds can facilitate the exploration of diverse concepts [@rieber_microworlds_2004]. Microworlds are simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].  Guzdial [-@kong_providing_2022] continues the ethos of microworlds using a concept called of task specific programming language to limit the complexity of code  for the tasks or concept explorations compared to a complete programming language.
+
+However, the use of microworlds in traditional school settings is not unproblematic. Hoyles [-@hoyles_microworldsschoolworlds_1993] too there is a danger that the potential is 'trivialised' into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts. Papert [-@papert_turtles_2002, p.17] also cautions against an institutional dilution which can threaten their potential to retain qualities as "exploratory, playful, personally meaningful".
+
+##### Scratch as a more general toolset
+
+Scratch is a general purpose multi-media production too which has been used in many CGD&P research programmes and in general practice. It exemplifies of the design heuristics of constructionism, in particular the wide-walls
+
+Scratch
+One area of scaffolding is in the provision of a library of assets.
+
+Another is in the online community and the design decision to make all created products remixable by others by default.
+
+The remixing of  Scratch projects is complicated by the an embedded nature of the features. The process of extracting them and implementing them is neither straightforward or guided.
 
 
-#### Microworlds as Pedagogy
-
-Laurillard provides a clear summary of constructionism as a distinctive and productive pedagogy [@laurillard2020significance]. Her definition is based on Papert’s vision of a publicly shareable project within a microworld environment (a concept explored later in this chapter+), designed to foreground specific concepts.
-
-
-This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993]. While Kynigos' design promoted the acquisition of computational thinking, Microworlds can facilatate the exploration of diverse concepts [@rieber_microworlds_2004].
-
-Today, microworlds are used in a variety of educational settings, from primary schools, afterschool clubs and universities. However, the use of microworlds in traditional school settings is not unproblematic [@papert_turtles_2002]. There is a danger that the potential is 'trivialised'[@hoyles_microworldsschoolworlds_1993] into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts.  
-
-The concept of  task specific programming language [@kong_providing_2022], in research on Microworlds, has a similar motivation.
-
-    "The task-specific programming language (TSPL) is purposefully limited in the abstractions and concepts needed for the tasks or explorations in the microworld so that programming becomes much easier to learn than a complete programming language.[@kong_providing_2022]"
-
+One concept advanced to address this in constructionist research is that of a Constructopedia [@papert_technological_1995], an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] none remain an idea perhaps limited by the broadness of its scope.
 
 <!--
 THIS IS IS FROM
@@ -253,17 +257,7 @@ Open windows: a tool to facilitate the sharing of digital media. The creation of
 
 <!-- Denner and colleagues' review of this area, using the term CGD&P rather than constructionist gaming, uses a broad categorisation of pedagogies used in studies . -->
 
-#### Tools with community assets
 
-While many toolsets have emerged from constructionist school, Scratch as an example is of note due to its explemplificaiton of the design heuristics and as a tool used in many CGD&P programmes.
-
-One area of scaffolding is in the provision of a library of assets.
-
-Another is in the online community and the design decision to make all created products remixable by others by default.
-
-The remixing of  Scratch projects is complicated by the an embedded nature of the features. The process of extracting them and implementing them is neither straightforward or guided.
-
-One concept advanced to address this in constructionist research is that of a Constructopedia [@papert_technological_1995], an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] none remain an idea perhaps limited by the broadness of its scope.
 
 <!-- Look the potential of at constructopedia samplers
 [@papert_technological_1995], an attempt using the computer clubhouse to make this happen using the potential of the internet [@chapman_pearls_2006]. -->
@@ -310,40 +304,21 @@ FCL draws on the underlying  sociocultural approaches within Barron's foundation
 <!-- However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed. -->
 
 
-#### Constructionist framing of computational thinking (CT)
+#### Constructionist framing of relevant learning outcomes
 
-A key strand of computing education research involves variations in approaches to dealing with abstract concepts within the computing programming.
+##### Computational thinking (CT)
 
-This strand is present in early constructionist research via Papert and Turkle's [-@papert_epistemological_1990] work on diversity in approaches to teaching coding. The authors examined behaviours and attitudes of young novice coders and found approach other that that dominant in contemporary research which they described as a formal, abstract approach "that emphasizes control and through structure and planning". They described alternative, concrete coding approaches.   Techniques which facilitated concrete approaches include the use of tangible physical and digital objects, particularly those which could be shared within communities.
-
-We can use the distinction between concrete and abstract to examine the differences between two interpretations of computational thinking (CT) popular in the field of computing education. The first is an influential take from Jeanette Wing focusing on varied elements of abstraction processes [@wing2011research]. Many learning resources aimed at teachers present the underlying principle as four key pillars of CT: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate; @dong_prada_2019]. The essence here is to deal with concepts and principles as abstract and separate from the context of coding.
+Tedre and Denning's [-@tedre_long_2016] caution against newer definitions of CT that highlight formal abstractions typified by Wing's take on CT [-@wing_computational_2008] to the detriment of Papert's applied understandings of computational thinking. A distinction between concrete and abstract approaches is helpful to examine the differences between these two interpretations of computational thinking (CT) within in the field of computing education. Jeanette Wing' influential take on CT focusing on varied elements of abstraction processes [@wing2011research] has adopted by numerous learning resources aimed at teachers which present four key pillars of CT, specifically: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate; @dong_prada_2019]. The implication is that there is a value to understand the underlying principles as separate from the context of coding to better apply then in areas beyond computing. This rationale of broader applicability was used by many computer science educators to advocate for the CS to be mainstreamed into education. [FIND SOURCE]
 
 <!-- was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?".  -->
 
-Tedre and Denning's [-@tedre_long_2016] review of CT cautions against a too narrow definition of CT that highlights formal abstractions as represented by Wing's take on CT [-@wing_computational_2008].
-YES BUT WHY?
+Constructionist researchers Brennan and Resnick [-@brennan_new_2012] addressed the and the limited approach of the newer definition of computational thinking [@cuny_demystifying_2010] by taking a grounded / situated approach create a map of the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting description of computational thinking includes computational concepts, computational practices and computational perspectives, thus reconnecting with Papert's vision of the potential of computing projects within a community setting. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, indicating the widespread use of this more applied approach.
 
-Constructionist researchers Brennan and Resnick [-@brennan_new_2012]  took a grounded / situated approach to mapping the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting map of computational thinking includes computational concepts, computational practices and computational perspectives. This mapping assumes an application where learners are engaged in the collaborative coding of a computing project.
-
-Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, indicating the widespread use of this more applied approach.
-
-As such, from the perspectives of critics of Wings abstract framing of computational thinking [@denning_remaining_2017], the uptake of the more applied definition can be seen as beneficial (to who? to do what?)
-
-
-
-#### Constructionist pedagogies - Project-based rather than instruction-based
-
-While the goal of varied forms of fluency and agency is in line with the approaches outlined above, there is a potential gap in constructionist research regarding pedagogical approaches. This section examines wider and more specific recommendations from key constructionist researchers.
-
-Addressing broad approaches, Kafai has emphasised the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
-
-Another broad approach is that of design cycles within a project-based approach advanced by Resnick. A later section addresses this in more detail.
-
-#### Limitations within constructionist approaches and the related field of CGD&P research
+<!-- As such, from the perspectives of critics of Wings abstract framing of computational thinking [@denning_remaining_2017], the uptake of the more applied definition can be seen as beneficial (to who? to do what?) -->
 
 ##### Fluency and agency as relevant learner outcomes
 
-INTEGRATE? SEPARATE SECTION?
+The map created links here 
 
 Constructionism places importance on self-expression within a community of peers features. Encapsulating this ethos as an learner attribute which constructionist approaches serve to facilitate receives broad attention in constructionist literature. A candidate for such an attribute present in several strands of constructionist research is that of varied forms of fluency, described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. The literature on these forms of fluency within constructionist research comprises a blend of features including: technical skills needed to complete projects and the importance of self-expression both as a motivational factor via valuing of personal expression as a form of participation within a community of peers.
 
@@ -351,7 +326,18 @@ Constructionism places importance on self-expression within a community of peers
 
 In the work of Kafai and colleagues [-@kafai_connected_2017] FIND OTHERS on game making and similar media projects is the idea of collaborative agency. This concept which draws on the work of S and B,  to communicate the value of the sharing of created projects. Specifically, collaborative agency refers to  "learners’ efforts for searching out, organizing and distributing responsibilities in collaborations with others as they create collaborative artifacts"
 
-##### On Pedagogy & limitations
+
+#### Constructionist pedagogies - Project-based rather than instruction-based
+
+This strand is present in early constructionist research via Papert and Turkle's [-@papert_epistemological_1990] work on diversity in approaches to teaching coding. The authors examined behaviours and attitudes of young novice coders and found approach other that that dominant in contemporary research which they described as a formal, abstract approach "that emphasizes control and through structure and planning". They described alternative, concrete coding approaches.   Techniques which facilitated concrete approaches include the use of tangible physical and digital objects, particularly those which could be shared within communities.
+
+Addressing broad approaches, Kafai has emphasised the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
+
+When pedagogy is addressed in recent constructionist studies, it often takes the form of broad principles of design thinking or general project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017]. A later section addresses these pedagogies in more detail.
+
+#### Limitations within constructionist approaches and the related field of CGD&P research
+
+While the goal of varied forms of fluency and agency is in line with the approaches outlined above, there is a potential gap in constructionist research regarding pedagogical approaches. This section examines wider and more specific recommendations from key constructionist researchers.
 
 ALSO ADDRESSING BROADER LIMITATIONS WITHIN THE FIELD OF CGD&P
 
