@@ -463,23 +463,37 @@ In addition, this section outlines the value of PBL as a more developed framewor
 
 <!-- The following section explores relevant elements of PBL pedagogies, where possible making alignments with existing game making studies.  -->
 
-The field of project based learning (PBL) provides a wide scope of research detailing pedagogical approaches aligned with the focus on social learning research of this thesis.
+The field of project based learning (PBL) provides a wide scope of research detailing pedagogical approaches aligned with the focus on social learning research of this thesis. PBL approaches align with the iterative design approach outlined above (see Figure 2.x) [@jia2023design] and can extend the processes and rationale involved through drawing on research grounded on sociocultural understanding of learning. In broad terms, PBL is an educational strategy which advocates: learner choice in projects which increases motivation [@darling-hammond_powerful_2008]; authentic and shareable project outcomes and learning environments to encourage peer feedback and reflection [@gibbes_project-based_2014; @hung_activity_2000];  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners [@barron_doing_1998; @hernandez_aalborg_2015].
 
-In broad terms, PBL is an educational strategy which advocates: learner choice in projects which increases motivation [@darling-hammond_powerful_2008]; authentic and shareable project outcomes and learning environments to encourage peer feedback and reflection [@gibbes_project-based_2014; @hung_activity_2000];  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners [@barron_doing_1998; @hernandez_aalborg_2015].
+<!--
+To align with the focus of this study I will focus on the following dimensions of PBL:
+
+- driving questions / challenge - involving chi
+- facilitation of group creativity
+- authenticity of processes
+ -->
+
 
 Significant challenges exist in undertaking PBL including: expertise and confidence in facilitation [@ertmer_essentials_2015-1], and practicalities of timetabling and time pressures within formal settings.
 
-Perhaps because PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016], PBL is often conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. However, while there is unified structural approach to scaffolding, contextually responsive support is a vital component of PBL. Project based learning often involve challenges to students which are framed as wicked problems, which in some ways are unsolvable in that their dynamic and complex nature mean they require regular revisiting to find updated, contextually appropriate approaches. Similarly, the process of providing  relevant scaffolding to support PBL is also a such a wicked problem, requiring new approaches as background context and use of novel tools. As such, while finding an existing scaffolding structure to base my learning design on for this study may not be optimal,  some general principles to structure a project based approach are relevant.
+Perhaps because PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016], PBL is often conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. However, while there is unified structural approach to scaffolding, contextually responsive support is a vital component of PBL. Project based learning often involve challenges to students which are framed as wicked problems, which in some ways are unsolvable in that their dynamic and complex nature mean they require regular revisiting to find updated, contextually appropriate approaches. Similarly, the process of providing  relevant scaffolding to support PBL is also a such a wicked problem, requiring new approaches as background context and use of novel tools. As such, while finding an existing scaffolding structure to base my learning design on for this study may not be optimal, general principles to structure a project based approach are relevant.
 
-Studies and supporting resources advocating PBL articulate various procedural forms of scaffolding which facilitators can adopt, including those to aid group work, support reflection, and to structure knowledge sharing via project outcomes [@ertmer_essentials_2015-1; @pitot_establishing_2024]. An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
+Code gaming suits a project based learning (PBL) approach in that it provides an readily understandable driving question which can be shared publicly via a playable game to an authentic audience, either in person or online.
+
+Procedural forms of scaffolding which facilitators can adopt, including those to aid group work, support reflection, and to structure knowledge sharing via project outcomes [@ertmer_essentials_2015-1; @pitot_establishing_2024]. EXAMPLES?
+
+In Ertmer Hard and soft forms of scaffolding - relevant here, some structural, some relational. Link to microworlds.
+
+Kolodoner research too - on building culture of collaborating and supporting development of rituals.
+Altho based on constructivism, it has sociocultural elemnts. FIND OMRE 
+
+An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
 
 
-In addition, the range of applications and situated nature of the learning via PBL creates significant challenges in representation of practice, including communicating specific details of scaffolding used.
 
 
 Due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
 
-The educational strategy of learning how to code games in a informal setting lends itself to a project based learning (PBL) approach.
 
 It is relevant to ask what exists structuring PBL in game making.
 
@@ -487,12 +501,10 @@ Returning to the example of Globaloria [], researcher found the structuring prov
 
 One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation.
 
-Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
-
-THE CHALLENGE OF FINDING APPROPRIATE LEVEL OF SCAFFOLDING AND HOW TO COMMUNICATE SPECIFIC PBL APPROACHES / PEDAGOGIES.
+Games as a project outcome provide the potential for an authentic project with a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
 
-
+<!-- In addition, the range of applications and situated nature of the learning via PBL creates significant challenges in representation of practice, including communicating specific details of scaffolding used. -->
 
 <!-- In formal education, contextual factors hinder the adoption of PBL challenge creative approaches in general. These include challenges of teaching to an exam-based curriculum, time allocated and other timetabling factors. While these are less applicable to informal settings,  -->
 <!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
