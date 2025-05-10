@@ -219,17 +219,21 @@ However, despite this influence, the ethos and theoretical underpinning of const
 
 
 
-#### Constructionist design heuristics
+Early constructionist research by Papert and Turkle[-@papert_epistemological_1990] addresses on diversity in coding approaches to counter potentially alienating abstract approaches. The authors describe an alternative approach to the dominant formal, abstract style that "emphasizes control through structure and planning" [-@papert_epistemological_1990, p.134]. This dominant approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials. Bricolage approaches involve an iterative process, proximity to the code, strong links between function and form, and maintaining close contact with a concrete sense of the outcomes, even at the expense of programming efficiency or neatness of code.
 
-Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016].
-
-Most relevant to the domain of this study are constructionist design principles articulated by Resnick and Rosenbaum [-@resnick_designing_2013] in the form of designing for tinkerability in terms of allowing immediate feedback and fluid experimentation and open experimentation. Resnick advocates for choosing black boxes carefully to abstract away complexity for the learner when it is not productive. This principle of simplifying the environment with an aim to allow learners can get started easily is given a metaphor of low floors. Other principles include high ceilings reflecting a need that projects are not limited in terms of complexity that can be achieved with effort and wide walls to represent the advantage of creations being able to create a diversity of genres of projects [@resnick_reflections_2005, @resnick_scratch:_2009].
-
+Techniques which facilitated concrete approaches include the use of tangible physical and digital objects, particularly those which could be shared within communities.
 #### Microworlds as both toolset and pedagogy
 
 Laurillard [-@laurillard2020significance] describes constructionism as a distinctive pedagogy based on Papert’s vision of a publicly shareable project based a carefully scaffolded code environments (called microworlds), designed to foreground specific concepts. Microworlds can facilitate the exploration of diverse concepts [@rieber_microworlds_2004]. Microworlds are simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].  Guzdial [-@kong_providing_2022] continues the ethos of microworlds using a concept called of task specific programming language to limit the complexity of code  for the tasks or concept explorations compared to a complete programming language.
 
 However, the use of microworlds in traditional school settings is not unproblematic. Hoyles [-@hoyles_microworldsschoolworlds_1993] too there is a danger that the potential is 'trivialised' into a vehicle for instruction based processes aimed narrowed to teacher chosen curricular concepts. Papert [-@papert_turtles_2002, p.17] also cautions against an institutional dilution which can threaten their potential to retain qualities as "exploratory, playful, personally meaningful".
+
+
+
+#### Constructionist design heuristics
+
+
+Most relevant to the domain of this study are constructionist design principles articulated by Resnick and Rosenbaum [-@resnick_designing_2013] in the form of designing for tinkerability in terms of allowing immediate feedback and fluid experimentation and open experimentation. Resnick advocates for choosing black boxes carefully to abstract away complexity for the learner when it is not productive. This principle of simplifying the environment with an aim to allow learners can get started easily is given a metaphor of low floors. Other principles include high ceilings reflecting a need that projects are not limited in terms of complexity that can be achieved with effort and wide walls to represent the advantage of creations being able to create a diversity of genres of projects [@resnick_reflections_2005, @resnick_scratch:_2009].
 
 ##### Scratch as a more general toolset
 
@@ -273,8 +277,6 @@ Bruckman notes "tools are not enough... Tools are effectively constructionist on
 
 Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school [@zagal_samba_2005] and to compare it,  to a Computer clubhouse, an MIT initiative designed inspired in party by Papert's vision [@resnick_computer_1996; @peppler_computer_2009]. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice and other social practices including the importance of showcase events share created work and flexibility of ways of participating and a diversity of skill levels and backgrounds of participants.
 
-
-
 <!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
 
@@ -304,42 +306,48 @@ FCL draws on the underlying  sociocultural approaches within Barron's foundation
 <!-- However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed. -->
 
 
-#### Constructionist framing of relevant learning outcomes
+#### Constructionist framing of relevant learning outcomes - computational thinking and dimensions of fluency and agency
 
-##### Computational thinking (CT)
+**Computational thinking (CT)**
 
 Tedre and Denning's [-@tedre_long_2016] caution against newer definitions of CT that highlight formal abstractions typified by Wing's take on CT [-@wing_computational_2008] to the detriment of Papert's applied understandings of computational thinking. A distinction between concrete and abstract approaches is helpful to examine the differences between these two interpretations of computational thinking (CT) within in the field of computing education. Jeanette Wing' influential take on CT focusing on varied elements of abstraction processes [@wing2011research] has adopted by numerous learning resources aimed at teachers which present four key pillars of CT, specifically: decomposition, pattern recognition, abstraction and algorithmic thinking [@bbc_bitesize_introduction_nodate; @dong_prada_2019]. The implication is that there is a value to understand the underlying principles as separate from the context of coding to better apply then in areas beyond computing. This rationale of broader applicability was used by many computer science educators to advocate for the CS to be mainstreamed into education. [FIND SOURCE]
 
 <!-- was developed in response to a thought experiment "How do we describe what Tim, Shannon, and Renita are learning as they participate as designers of interactive media with Scratch?".  -->
 
-Constructionist researchers Brennan and Resnick [-@brennan_new_2012] addressed the and the limited approach of the newer definition of computational thinking [@cuny_demystifying_2010] by taking a grounded / situated approach create a map of the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting description of computational thinking includes computational concepts, computational practices and computational perspectives, thus reconnecting with Papert's vision of the potential of computing projects within a community setting. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, indicating the widespread use of this more applied approach.
+Constructionist researchers Brennan and Resnick [-@brennan_new_2012] addressed the and the limited approach of the newer definition of computational thinking [@cuny_demystifying_2010] by taking a grounded / situated approach create a map of the potential learning dimensions of students designing and coding collaborative, creative computing projects. The resulting description of computational thinking includes computational concepts, computational practices and computational perspectives, thus reconnecting with Papert's vision of the potential of computing projects within a community setting. Lye's extensive review of teaching Computational Thinking [@lye_review_2014] used Resnick and Brennan's definition as the basis for the review, indicating the widespread use of this more applied approach involving the more concrete code concepts (e.g. loops, conditionals, and sequences) and practices (e.g. debugging, iterative practice, reusing and remixing).
+
+<!-- IS A TABLE USEFUL HERE? OR GLOSSARY ELEMENTS -->
 
 <!-- As such, from the perspectives of critics of Wings abstract framing of computational thinking [@denning_remaining_2017], the uptake of the more applied definition can be seen as beneficial (to who? to do what?) -->
 
-##### Fluency and agency as relevant learner outcomes
+**Fluency and agency as relevant learner outcomes**
 
-The map created links here 
+The greater role of community is reflected third category of computational perspectives, including: expressing (creating project which allow self-expression within a community of peers), connecting and questioning (involving critical approach to technology). This strand of the framework builds on a previous focus by Papert and Resnick [@papert_technological_1995] on the learning outcome of technology fluency. Fluency as an attribute is present in several strands of constructionist research described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. While this literature describes a similar blend of technical skills and the importance of self-expression within a community of peers in broad terms, it lacks a conceptual underpinning drawing on theoretical frameworks.
 
-Constructionism places importance on self-expression within a community of peers features. Encapsulating this ethos as an learner attribute which constructionist approaches serve to facilitate receives broad attention in constructionist literature. A candidate for such an attribute present in several strands of constructionist research is that of varied forms of fluency, described in different contexts as technical fluency [@papert_technological_1995], digital fluency [@resnick_scratch_2009], gaming fluency [@a_peppler_gaming_2009; @kafai201221] or computational fluency [@resnick_computational_2018]. The literature on these forms of fluency within constructionist research comprises a blend of features including: technical skills needed to complete projects and the importance of self-expression both as a motivational factor via valuing of personal expression as a form of participation within a community of peers.
+One exception is the work of Kafai and colleagues on collective agency [@kafai_learning_2008] or later collaborative agency [@kafai_collaborative_2011; @kafai2012collaborative] to examine collective work in after school computer clubs and the online scratch community. The researchers cite the frameworks of communities of practice [@wenger_communities_1998] and agency formation in during collaborative knowledge production [@scardamalia_higher_1991-1]. While the researchers use these broad concepts to describe manifestations of collaborative agency as learners distribute responsibilities as they create collaborative projects, their discussion of the process in relation to the underlying theory is brief and focused on general online collaboration in the Scratch community. Kafai later work on review of game making does not return to these promising strand of theoretically grounded exploration of agency.   
+
+
 
 <!-- An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work. -->
 
-In the work of Kafai and colleagues [-@kafai_connected_2017] FIND OTHERS on game making and similar media projects is the idea of collaborative agency. This concept which draws on the work of S and B,  to communicate the value of the sharing of created projects. Specifically, collaborative agency refers to  "learners’ efforts for searching out, organizing and distributing responsibilities in collaborations with others as they create collaborative artifacts"
 
 
 #### Constructionist pedagogies - Project-based rather than instruction-based
 
-This strand is present in early constructionist research via Papert and Turkle's [-@papert_epistemological_1990] work on diversity in approaches to teaching coding. The authors examined behaviours and attitudes of young novice coders and found approach other that that dominant in contemporary research which they described as a formal, abstract approach "that emphasizes control and through structure and planning". They described alternative, concrete coding approaches.   Techniques which facilitated concrete approaches include the use of tangible physical and digital objects, particularly those which could be shared within communities.
-
-Addressing broad approaches, Kafai has emphasised the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
 
 When pedagogy is addressed in recent constructionist studies, it often takes the form of broad principles of design thinking or general project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017]. A later section addresses these pedagogies in more detail.
 
+Addressing broad approaches, Kafai has emphasised the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
+
+
 #### Limitations within constructionist approaches and the related field of CGD&P research
 
-While the goal of varied forms of fluency and agency is in line with the approaches outlined above, there is a potential gap in constructionist research regarding pedagogical approaches. This section examines wider and more specific recommendations from key constructionist researchers.
+ there is a potential gap in constructionist research regarding pedagogical approaches.
 
-ALSO ADDRESSING BROADER LIMITATIONS WITHIN THE FIELD OF CGD&P
+<!-- ALSO ADDRESSING BROADER LIMITATIONS WITHIN THE FIELD OF CGD&P -->
+
+Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016].
+
 
 Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
@@ -382,14 +390,14 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 ## Pedagogies to support game making via coding
 
-One of the main themes of this review is to explore the pedagogies available to support coding). The following sections focus on pedagogies that are relevant to first general programming, and then more specifically  game making.
+One of the main themes of this review is to explore the pedagogies available to support coding). The following sections focus on pedagogies that are relevant to first general programming, and then more specifically game making.
 
 <!-- It also focuses on those mo non-formal, real-life (as opposed to online) communities. -->
 
-First, I will review design thinking approaches and project-based learning. Next, I will outline pedagogies centred around scaffolding game production through progressive steps, such as the Use, Modify, and Create (UMC) framework.
+<!-- First, I will review design thinking approaches and project-based learning. Next, I will outline pedagogies centred around scaffolding game production through progressive steps, such as the Use, Modify, and Create (UMC) framework. -->
 
-MOVE? TO INTRO OR LATER SECTION
-Finally, I will examine the social and cultural aspects of coding clubs and informal programmes that serve as venues for CGD&P.
+<!-- MOVE? TO INTRO OR LATER SECTION
+Finally, I will examine the social and cultural aspects of coding clubs and informal programmes that serve as venues for CGD&P. -->
 
 
 <!-- ## Project-based learning / Social approach / Communities of Learners.
@@ -408,69 +416,89 @@ Wing's emphasis on the importance of the explicit teaching of skills of decompos
 While the remit of this literature review does not encompass a full critique of the validity Wing's strand of computational thinking either within computer science or other subject (see the following for an overview [@denning_remaining_2017]), what these approaches have in common is a principles first approach to problem solving. While the concept of understanding foundational concepts before engaging with the practice seems logical, in practice when dealing with obtuse material it can aggravate barriers to participation such as those outlined in Chapter 1. Thus, the following sections of this review of pedagogies relevant to the concerns of this study primarily focus on practices which lead with forms of concrete exploration rather than a principles first approach.
 
 
-### Design frameworks using stages & PBL
+### Design frameworks using stages & project based learning (PBL)
 
-MAKE A LINK TO PBL BEFORE THE LIMITATIONS - ALSO THERE PROBABLY IS RESEARCH ON THIS - SO BE CAREFUL.
 
-INTRODUCTION SENTENCE.
+As identified by they systemic review of CGD&P [@denner_does_2019], the design-built-test pedagogy is common in this field found in 30 out of 68 studies. The examplar given in this review highlights the approach of Globaloria programme which structures project work around an iterative cycle of stages of play, plan, prototype, program, publish. Many similar frameworks exist in diverse areas of production including computer science [@pereira_design_2018], engineering [@winarno_steps_2020-1], and design [@dam_5_2024]. Figure 2.x shows a graphical representation of design thinking stages from the Institute of Design at Stanford dschool [@dam_5_2024].
 
-Many design frameworks exist in diverse areas of production with varied degrees of adoption. One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1].
+![Figure 2.x. Design thinking via design stages model from Stanford dschool](./Pictures/designthinkingchart_orig.png){width=90%}
 
-Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. The key reason to adopt these principles is to increase engagement via sustained participation in computing projects for a broad range of learners.  To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. This model is a more adapted from many similar expressions of iterative design stages in the domain design thinking to focus on more individual ideas of creativity. See figure 2.x for one example from the Stanford dschool  [@dam_5_2024].
+<!-- One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1]. -->
 
-![Design thinking stages](./Pictures/designthinkingchart_orig.png){width=90%}
+Within the context of computing edcuation Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. Reviewing these characteristics, a similarity can be seen with the field of project based and discovery based learning.
 
-Figure 2.x. Design thinking via design stages model from Stanford dschool
+
+
+
+<!-- To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more.  -->
+
 
 <!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg){width=90%}
 Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
 Diagram [@resnick_lifelong_2017] -->
 
-One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation. Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
 
-While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products.
+<!-- While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products. -->
 
-Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communities to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective.
+<!-- Resnick and Brennan [@mouza_imagining_2013] focus on the affordances of tools and communities to support all aspects of students work on design stages without suggesting any processes from a teacher of student perspective. -->
 
-One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
+<!-- One exception is the work of Zainal et al [@zainal_review_2021], using the Stanford dschool design thinking framework [@dam_5_2024] to structure the work on students in undertaking IoT project work.
 The authors, note the lack of research investigating the  potential of this approach and call for more work to be done in this area.
-ADD TO THE PROBLEMS STATEMENT.  
+ADD TO THE PROBLEMS STATEMENT.  BUT I DON'T THINK THIS IS TRUE  -->
 
 
+<!-- Thus, while the ethos and benefits of this approach are convincing RESNICK'S TAKE, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.   -->
 
 <!--
 The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share [@hester_engineering_2007]. It has been adopted by the area of computing is one used in a recent book on coding by Bers [@bers_coding_2021]. HOW IS THIS USED? AS A PEDAGOGY? -->
 
-Thus, while the ethos and benefits of this approach are convincing RESNICK'S TAKE, what is not clear however is who this framework is for (either for designers, facilitators or participants) or how it can be activated in the process of facilitating project work.  
 
 #### Project-based learning (PBL)
 
 <!-- As outlined in the introduction, this thesis, while guided by constructionism as a design approach, uses AT as a theoretical framework.
 In addition, this section outlines the value of PBL as a more developed framework as well. -->
 
-**PBL provides a wide scope of research detailing pedagogical approaches aligned with the aims of this research.**
+<!-- There is a clear alignment between the potential of making games and other media products as an educational activity and the agenda o f project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills).  -->
 
-<!-- There is a clear alignment between the potential of making games and other media products as an educational activity and the agenda of project-based learning, particularly in the to develop skills suited to the modern workplace (21st Century skills).  -->
+<!-- The following section explores relevant elements of PBL pedagogies, where possible making alignments with existing game making studies.  -->
 
-The educational strategy of learning how to code games in a informal setting lends itself to a project based learning (PBL) approach. The following section explores relevant elements of PBL pedagogies, where possible making alignments with existing game making studies. In broad terms, PBL is an educational strategy which advocates: learner choice in projects which increases motivation; authentic and shareable project outcomes and learning environments to encourage peer feedback and reflection;  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners [@barron_doing_1998; @hernandez_aalborg_2015].
+The field of project based learning (PBL) provides a wide scope of research detailing pedagogical approaches aligned with the focus on social learning research of this thesis.
 
-PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016]. PBL pedagogy aligns with AT concepts of learning in that change happens via the use of artefacts use in a community [@gibbes_project-based_2014; @hung_activity_2000].
+In broad terms, PBL is an educational strategy which advocates: learner choice in projects which increases motivation [@darling-hammond_powerful_2008]; authentic and shareable project outcomes and learning environments to encourage peer feedback and reflection [@gibbes_project-based_2014; @hung_activity_2000];  iterative projects work supporting student mastery; and challenging goals and guidance in goal setting aiding self-regulation in learners [@barron_doing_1998; @hernandez_aalborg_2015].
 
-    <!-- Encourage Student Choice: Darling-Hammond et al. (2008), Larmer and Mergen- doller (2015a), Ravitz (2010), and Thomas (2000) all noted the importance of student choice, autonomy, and authority. [@kokotsaki_project-based_2016, p. 9] -->
+Significant challenges exist in undertaking PBL including: expertise and confidence in facilitation [@ertmer_essentials_2015-1], and practicalities of timetabling and time pressures within formal settings.
 
-Critics of PBL often wrongly conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. In formal education, contextual factors hinder the adoption of PBL challenge creative approaches in general. These include challenges of teaching to an exam-based curriculum, time allocated and other timetabling factors. While these are less applicable to informal settings, other challenges still exist including, lack of frameworks, expertise, confidence in facilitation [@ertmer_essentials_2015-1]. In addition, the range of applications and situated nature of the learning via PBL creates significant challenges in representation of practice, including communicating specific details of scaffolding used.
-
-<!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
-
+Perhaps because PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016], PBL is often conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. However, while there is unified structural approach to scaffolding, contextually responsive support is a vital component of PBL. Project based learning often involve challenges to students which are framed as wicked problems, which in some ways are unsolvable in that their dynamic and complex nature mean they require regular revisiting to find updated, contextually appropriate approaches. Similarly, the process of providing  relevant scaffolding to support PBL is also a such a wicked problem, requiring new approaches as background context and use of novel tools. As such, while finding an existing scaffolding structure to base my learning design on for this study may not be optimal,  some general principles to structure a project based approach are relevant.
 
 Studies and supporting resources advocating PBL articulate various procedural forms of scaffolding which facilitators can adopt, including those to aid group work, support reflection, and to structure knowledge sharing via project outcomes [@ertmer_essentials_2015-1; @pitot_establishing_2024]. An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
 
-PBL can be effective in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8], language learning [@gibbes_project-based_2014], and digital making [@weng_characterizing_2022].  However, due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
+
+In addition, the range of applications and situated nature of the learning via PBL creates significant challenges in representation of practice, including communicating specific details of scaffolding used.
+
+
+Due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
+
+The educational strategy of learning how to code games in a informal setting lends itself to a project based learning (PBL) approach.
+
+It is relevant to ask what exists structuring PBL in game making.
+
+Returning to the example of Globaloria [], researcher found the structuring provided helpful to challenge the perception of limitations of a discovery approach.
+
+One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation.
+
+Another factor is the importance of a community in the design process, as a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
 
 THE CHALLENGE OF FINDING APPROPRIATE LEVEL OF SCAFFOLDING AND HOW TO COMMUNICATE SPECIFIC PBL APPROACHES / PEDAGOGIES.
 
-SOMETHING GENERAL ABOUT THIS BEING AN UNSOLVABLE PROBLEM - A WICKED PROBLEM WITH ALWAYS SUITS REVISITING WITH NEW, CONTEXTUALLY APPROPRIATE SOLUTIONS AND APPROACHES.
+
+
+
+<!-- In formal education, contextual factors hinder the adoption of PBL challenge creative approaches in general. These include challenges of teaching to an exam-based curriculum, time allocated and other timetabling factors. While these are less applicable to informal settings,  -->
+<!-- This alignment of approach also extends to some of the limits of PBL approach. The critique of PBL as 'pure discovery' learning is often misjudged, missing some of the less visible scaffolds often in place to support learner to access learning, and to reflect on learning that has taken place. -->
+
+<!-- PBL can be effective in diverse fields of practice including: inclusive pedagogies [@leggett_impact_2021], and the use of appropriate "learning scaffolds" [@kokotsaki_project-based_2016, p. 8], language learning [@gibbes_project-based_2014], and digital making [@weng_characterizing_2022].   -->
+
 
 <!-- It is of value to examine PBL literature detailing structure and pedagogical approaches in the area of digital product production and language learning. -->
 
@@ -484,8 +512,6 @@ Gibbes et al's review of PBL in language learning from an activity theory perspe
 PERHAPS NOT - MORE OF A BRIDGE TO NEXT SECTION PERHAPS
 
 To refocus this review, let's return to focus of computational fluency as the focus for one of the research questions. Why choose this concept rather that broader 21 Century skills? -->
-
-
 
 <!-- Elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015]. However little guidance is provide and not stream really followed up unlike the focus on computational thinking [@sentance_teachers_2015] -->
 
