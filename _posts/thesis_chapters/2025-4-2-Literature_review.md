@@ -484,8 +484,11 @@ Procedural forms of scaffolding which facilitators can adopt, including those to
 
 In Ertmer Hard and soft forms of scaffolding - relevant here, some structural, some relational. Link to microworlds.
 
-Kolodoner research too - on building culture of collaborating and supporting development of rituals.
-Altho based on constructivism, it has sociocultural elemnts. FIND OMRE
+Kolodoner research too [@kolodner_problem-based_2003] - on building culture of collaborating and supporting development of rituals.
+Although this research based on constructivism, and stems from scenario based computer modelling of cognition [@kolodner_case-based_2004], it is strongly aligned  sociocultural concepts.
+FIND OMRE
+See Leat/?
+alborg?
 
 An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
 
@@ -751,7 +754,9 @@ This section addresses collaborative pedagogies and social programme.
 - in particular address barriers  to participation
 - and focus on in person communities rather than online programmes
 
-To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity
+To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity and the development of a collaborative culture which foundational for exploratory project-based approaches [@kolodner_problem-based_2003] .
+
+
 
 <!-- JUST MOVE TO INTRO
 As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS]. -->
