@@ -485,7 +485,7 @@ Procedural forms of scaffolding which facilitators can adopt, including those to
 In Ertmer Hard and soft forms of scaffolding - relevant here, some structural, some relational. Link to microworlds.
 
 Kolodoner research too - on building culture of collaborating and supporting development of rituals.
-Altho based on constructivism, it has sociocultural elemnts. FIND OMRE 
+Altho based on constructivism, it has sociocultural elemnts. FIND OMRE
 
 An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
 
@@ -531,31 +531,6 @@ To refocus this review, let's return to focus of computational fluency as the fo
 <!-- A wider review of design framework in STEM settings details discussion of varied definitions of stages themselves but less relating to the impact of the pedagogical use of design stages on learners [@winarno_steps_2020-1]. -->
 
 
-
-### Pair programming & social/collaborative coding -
-
-Role of community feedback within playtesting
-
-Pair programming, a common industry practice has recieved attention in educational contexts [@hanks_pair_2011]. Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved.
-
-Werner and colleagues [@werner_pair_2009; denner_computer_2007] investigate pair programming as way to address gender gap and extending research on collaborative problem solving in computer coding.
-
-They cite research challenging the gender aspect of bricolage / abstract duality, but propose a need for more research on programming styles and strategies [@denner_computer_2007] Their own research underlies that while pair programming is an inclusive strategy beneficial to all but in particular to narrow participation gaps due to gender and socio-economic factors [@werner_pair_2009, p.31].
-
-
-In Denner's research, pair programming involved social learning elements and can model a greater choices for students in they way they solve problems and opportunities to develop identities. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
-
-<!-- A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6] -->
-
-Werner et al draw on existing research on collaborative   'social reality or joint problem solving space' to scaffold the process of ideation [@omalley_construction_1995] and the role of friendly relations to develops these productive and sustained interactions [@mcdowell_pair_2006].
-
-
-Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
-- resource interdependence from Preston
-
-Links to other pedagogies in this work.
-UMC
-and Use of game design patterns [@werner_computational_2020]
 
 
 
@@ -726,7 +701,6 @@ While attending to socio cultural approaches [@sentance_teaching_2019; @hwang_us
 
 Signpost later discussion. -->
 
-## GAME SPECIFIC -
 
 ### Half-baked games as Microworlds
 
@@ -768,187 +742,49 @@ guage.
 The work of Papert and the concept of microworlds continue to be influential in the field of educational technology [@kafai_constructionism_1996-1]. -->
 <!-- Resnick's work on constructionist design principles via software and tinkering tools merits summary here. CF - introduction. -->
 
-### Design patterns
 
-<!-- onal Sophicistication - using game patterns as a higher level which learners construct from scratch. -->
+## Social approaches and cultural programmes
 
-Design patterns, a concept originated in architecture [@alexand], are structural solutions to common design problem rooted illustrated via concrete examples of design principles in context. Design patterns can help the development of design communities when experienced coders document the patterns they for novices. The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995] and commonly used for computing students at higher education to teach object oriented computing providing scaffolding via the modelling of community-based design decisions. Design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
+This section addresses collaborative pedagogies and social programme.
 
-<!-- Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019] -->
-
-
-Eriksson et al. [-@eriksson_using_2019], draw on the work of Höök and Löwgren [-@hook_strong_2012] to frame design patterns within games as a form of intermediate-level knowledge between the detail of concrete implementation and general theories. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work. Similarly Dearden [@dearden_pattern_2006, p. 20] advises caution in choosing the appropriate scope of pattern formulation noting that if that if they those "too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios."
-
-<!-- Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010]. -->
-<!-- This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. -->
-<!-- MOVED HERE SO CLARIFY THE POINT OF THE ABOVE. SOMETHING TO DO WITH PLAY PARADOX? -->
-
-**Turning specifically to the the use of game design patterns**
-
-Turning specifically to the the use of game design patterns within games, the use of design patterns and has also been adopted by game designers and educators working with games in varied ways [@bjork_patterns_2005].  In professional context of game programming collections of structural game design patterns are used to share coding practice and to develop a shared language of game design [@bjork_games_2006]. Thus, the term game design patterns (GDP) is used in different ways with Kreimeier  distinguishing between content patterns and structural software engineering patterns [@kreimeier_case_nodate]. Content patterns describe common patterns of design that are visible to the end user.
-
-Following the work of Bergström et al. [@bergstrom_exploring_2010], for the purposes of this study the term GDP refers to game play design patterns a subset of game design patterns referring to to content patters that would be recognisable or at least experienced by the game player as features of the game.
-
-
-
-<!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
-<!-- Recalling the issues of learners stress and the play paradox addressed above collections of patterns have been used to structure learners choice in the create or choose stage of project work [@franklin_analysis_2020].   -->
-
-<!-- Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other -->
-
-#### Using collections of Game(play) design patterns within design education
-
-<!-- Thus structural game design patterns may be common ways of programming a game but may not be familiar to end-users. A common example would be that of the game loop.
-https://gameprogrammingpatterns.com/game-loop.html
-By way of contrast,  -->
-<!-- Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player. -->
-
-The following two examples draw on collections of GDPs to help design process (not involving programming) of games as an educational activity.
-
-**Using Game Design pattern collections and code examples to help novice students.**
-
-**String force**
-
-In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game
-
-Their research, which involved young people, builds on ra strand of research with adults with the explicit goal of learning game design [ADD ALL IN]. One product of this strand research is a list of GDPs made available as as a public collection [@bjork_patterns_2005].
-
-The process of structuring these patterns drew on wider work on game theory, most directly the work on the MDA framework [@bergstrom_exploring_2010],
-
-The Mechanics element of the framework has much in common with GDPs. The difference is explored by researchers [@olsson2014conceptual]. The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
-THIS NEEDS CLARIFYING - ? BUT NOT TOO MUCH
-
-The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
-
-The process of curating patterns involve selected only 14 from a list of over 100? [CHECK]. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
-
-<!-- The principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019] -->
-
-**Results:**
-
-The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI).
-As such the potential for participants  was under explored and the potential for teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
-
-
-#### Game Star Mechanic and related work by Institute of Play
-
-The use of the the of game design theory also played a prominent role in the approach of the Institute of Play within the design motivation of a game design software package called Game Star Mechanic (GSM). GSM is an online software specifically designed to communicate and build systems thinking and design thinking through the process of making video games [@games_design_2008].
-
-Research on GSM outlines the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014]. However, in order to foreground those elements, programming as a practice is dropped from the tool to reduce complexity.
-
-Ivan Games [-@games_design_2008] describes in depth how the design of the product allowed the use of learners background knowledge of game design patterns to facilitate complex forms of collaborative design and discourse between novice designers.
-
-To facilitate this process further, the GSM team created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
-There is little research published on how the cards were used in practice. Limitations include
-
-Thus while existing research show the promise of GDPs in exploring systems thinking and developing an overall sense of game design, there is a gap in the research landscape in how GDP pattern collections could be used to support novices and young people to program computer games.
-ADD TO PROBLEM STATEMENT
-
-### Game design patterns in programming  education
-
-In the work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  
-
-Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
-The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
-
-
-#### Scalable game design
-
-<!-- USEFUL WIKI
-https://web.archive.org/web/20181119014430/https://sgd.cs.colorado.edu/wiki/Scalable_Game_Design_wiki -->
-
-
-Given the similarity in use of design patterns in game making using coding, it valuable to examine the context, aims and tools of the Scalable Game Design (SGD) programme carried out by Repenning and Basawapatna [-@repenning_scalable_2010; -@basawapatna_using_2010]. SGD is an extensive computing education program designed and delivered by Colorado University with extensive support from external funders aligned with computing / STEM in schools. This partnership work allowed extensive data collection with some studies involving data from thousands of school students.
-
-The researchers use the term Computational Thinking Patterns (CPTs) to describe patterns present in computer games which they support learners to code. It is the familiarity and understandability, and the ability to link to specific learning outcomes which which drew the SCG researchers towards a pattern-based approach compared to limitations of more abstract interpretations of computational thinking. This was driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations [@basawapatna_recognizing_2011] .
-
-<!-- Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants. -->
-
-<!-- ![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm"} -->
-
-The authors give examples of computational thinking patterns:  *generation* and *absorbtion* in predator / prey relationships, *transportation *of oxygen by red blood cells and mosquitoes *hill climbing* (seeking the highest value) of human scent.
-
-The authors refer to a project first rather than principles first approach to implementing coding. Computational concepts, for example, loops, lists, logic and variables are recommended to be taught as learner require them to be used. To do this they advocate use of _just in time_ instruction, via a clear links between the instruction needed and the motivation to achieve a tangible goal within game design to keep learners in a zone of engagement [@basawapatna_zones_2013].
-
-Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work.
-
-**Resources of SGD and limitations in practice**
-
-A practical consideration is that it is specialist science software which can be problematic to maintain in the long term.
-
-How just in time are these resources really?
-
-<!-- Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme. -->
-
-<!-- The focus on transfer to science simulations concepts explains the increased distancing of language from transferable coding principles in both abstract and concrete forms. -->
-
-
-
-
-
-<!-- In SGD the concept of proximal flow links flow theory and the vital importance of engagement, via scaffolding to the ZPD and the social and environmental nature of that support [@basawapatna_zones_2013].
-
-This proximal flow theory developed into a particular tutorial format [@basawapatna_zones_2019].
-The concept of just in time instruction aims to reduce boredom and increase engagement with strong linking between the instruction needed and the goal to achieve a tangible goal linked a game. -->
-
-
-
-<!-- This characteristic may negatively impact engagement, due to danger of limited engagement with rote instructions explored above [@resnick_coding_2020] -->
-
-<!-- While there are links with socio-cultural concept of ZPD, there are limits in the approach and in the framing of the results. -->
-
-<!-- Beyond the following of instructions, the process by which students return to flow are not discussed. Given the social nature of the process this seems to neglect the possible uses of design pattern in peer learning.   -->
-
-
-
-
-
-
-<!-- Teacher plan
-https://web.archive.org/web/20210308074719/https://wiki.computationalthinkingfoundation.org/wiki/images/a/ac/Frogger_Master_v2.0.pdf
-
-Student pages.
-https://wiki.computationalthinkingfoundation.org/wiki/images/5/5b/ACO_Frogger_Student_v1.0.pdf
-
-
-Teacher plan
-https://wiki.computationalthinkingfoundation.org/wiki/images/f/f9/T3_5_ACO_Pacman_Master_v3.0.pdf -->
-
-
-<!-- NOTE - follow this up - can email - why was this not adopted?
-What could have been different?-->
-
-
-<!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
-<!-- From Eriksson article - explore in more depth in Lit Review..
-
-Could move some of this to the results discussion -
-"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
-- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
-- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
-- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
-
-
-<!--
-In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
-
-
-
-
-<!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source  creative inspiration and as an aid to problem-solving. -->
-
-
-## Programmes working to address challenge
-
-This section addresses programmes which
 - promote coding of projects of which games can be apart
-  - in particular address barriers  to participation in non-formal communities (rather than online programmes)
+- in particular address barriers  to participation
+- and focus on in person communities rather than online programmes
 
-As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS].
+To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity
 
-To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity, and structures of pedagogy used.
+<!-- JUST MOVE TO INTRO
+As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS]. -->
 
 
+
+  , and structures of pedagogy used. NO IN EARLIER SECTION
+
+
+### Pair programming & social/collaborative coding -
+
+Role of community feedback within playtesting
+
+Pair programming, a common industry practice has recieved attention in educational contexts [@hanks_pair_2011]. Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved.
+
+Werner and colleagues [@werner_pair_2009; denner_computer_2007] investigate pair programming as way to address gender gap and extending research on collaborative problem solving in computer coding.
+
+They cite research challenging the gender aspect of bricolage / abstract duality, but propose a need for more research on programming styles and strategies [@denner_computer_2007] Their own research underlies that while pair programming is an inclusive strategy beneficial to all but in particular to narrow participation gaps due to gender and socio-economic factors [@werner_pair_2009, p.31].
+
+
+In Denner's research, pair programming involved social learning elements and can model a greater choices for students in they way they solve problems and opportunities to develop identities. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
+
+<!-- A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6] -->
+
+Werner et al draw on existing research on collaborative   'social reality or joint problem solving space' to scaffold the process of ideation [@omalley_construction_1995] and the role of friendly relations to develops these productive and sustained interactions [@mcdowell_pair_2006].
+
+
+Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
+- resource interdependence from Preston
+
+Links to other pedagogies in this work.
+UMC
+and Use of game design patterns [@werner_computational_2020]
 
 
 <!-- PERHAPS SAVE A SLICE OF BRUCKMAN TO END - AFTER THE  FORM OF CODE CLUBS. -->
@@ -1068,11 +904,178 @@ Also explored in SDBEs
 
 
 
-
-
-
-
 <!-- In this book we have considered how mathematics might be learned in settings that resemble the Brazilian samba school, in settings that are real, socially cohesive, and where experts and novices are all learning. The samba school, although not ‘exportable’ to an alien culture, represents a set of attributes a learning environment should and could have. (Seymour Papert, Mindstorms, 1980)1 -->
+
+## Design patterns
+
+<!-- onal Sophicistication - using game patterns as a higher level which learners construct from scratch. -->
+
+Design patterns, a concept originated in architecture [@alexand], are structural solutions to common design problem rooted illustrated via concrete examples of design principles in context. Design patterns can help the development of design communities when experienced coders document the patterns they for novices. The concept of computational design patterns is well explored in the professional literature of computer programming and design [@gamma_design_1995] and commonly used for computing students at higher education to teach object oriented computing providing scaffolding via the modelling of community-based design decisions. Design pattern-based approaches have benefits in making complex problems more modular and concrete [@muller_almost_2004-1; @waite_teaching_2021].
+
+<!-- Research in this area points to challenges of teaching the abstract nature of traditionally shared design patterns related to object oriented coding languages but points to visual methods and games as promising tactics [@azimullah_evaluating_2020; @da_cruz_silva_fostering_2019] -->
+
+
+Eriksson et al. [-@eriksson_using_2019], draw on the work of Höök and Löwgren [-@hook_strong_2012] to frame design patterns within games as a form of intermediate-level knowledge between the detail of concrete implementation and general theories. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work. Similarly Dearden [@dearden_pattern_2006, p. 20] advises caution in choosing the appropriate scope of pattern formulation noting that if that if they those "too abstract will be impractical in real design use; those that are too specific will be difficult to re-use in new scenarios."
+
+<!-- Höök and Löwgren [@hook_strong_2012] illustrate this _midway_ concepts as heuristics or design patterns between concrete instances of products and more general theories e.g. constructivism [@stolterman_concept-driven_2010]. -->
+<!-- This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. -->
+<!-- MOVED HERE SO CLARIFY THE POINT OF THE ABOVE. SOMETHING TO DO WITH PLAY PARADOX? -->
+
+**Turning specifically to the the use of game design patterns**
+
+Turning specifically to the the use of game design patterns within games, the use of design patterns and has also been adopted by game designers and educators working with games in varied ways [@bjork_patterns_2005].  In professional context of game programming collections of structural game design patterns are used to share coding practice and to develop a shared language of game design [@bjork_games_2006]. Thus, the term game design patterns (GDP) is used in different ways with Kreimeier  distinguishing between content patterns and structural software engineering patterns [@kreimeier_case_nodate]. Content patterns describe common patterns of design that are visible to the end user.
+
+Following the work of Bergström et al. [@bergstrom_exploring_2010], for the purposes of this study the term GDP refers to game play design patterns a subset of game design patterns referring to to content patters that would be recognisable or at least experienced by the game player as features of the game.
+
+
+**Game design patterns in programming education**
+
+In the work of Werner et al [-@werner2014using], game mechanics are seen as a higher end of a computational sophistication framework, due to skill needed to assemble the component elements.  
+
+Werner and Denner built an ambitious assessment elements into a two year programme using Alice to make games. They built a software tool to quantify the levels of computational thinking, using a structure of thinking algorithmically [@werner_fairy_2012].
+The results - a limited use of standard CT concepts by students - led them to also investigate the use of students of game mechanics as well as more traditional CS constructions [@werner_children_2012]. They began to identify use of design patterns and then combination of those patterns into large game mechanics.
+
+
+
+<!-- Indeed players may become very familiar with these GDPs as they build their literacy as players about what they like or dislike about game they play.  -->
+<!-- Recalling the issues of learners stress and the play paradox addressed above collections of patterns have been used to structure learners choice in the create or choose stage of project work [@franklin_analysis_2020].   -->
+
+<!-- Other researchers  used to scaffold creation of coding projects by novices [@wang_novices_2021] and note barriers students encoutered including, mapping barriers, other -->
+
+### Using collections of Game(play) design patterns within design education
+
+<!-- Thus structural game design patterns may be common ways of programming a game but may not be familiar to end-users. A common example would be that of the game loop.
+https://gameprogrammingpatterns.com/game-loop.html
+By way of contrast,  -->
+<!-- Software engineering patterns are used to structure code and keep it architecturally neat thus facilitating code sharing and extension. These patterns would be invisible to the end player of the game. Content patterns describe common patterns of game play and design that are visible to the player. -->
+
+The following two examples draw on collections of GDPs to help design process (not involving programming) of games as an educational activity.
+
+**Using Game Design pattern collections and code examples to help novice students.**
+
+**String force**
+
+In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game
+
+Their research, which involved young people, builds on ra strand of research with adults with the explicit goal of learning game design [ADD ALL IN]. One product of this strand research is a list of GDPs made available as as a public collection [@bjork_patterns_2005].
+
+The process of structuring these patterns drew on wider work on game theory, most directly the work on the MDA framework [@bergstrom_exploring_2010],
+
+The Mechanics element of the framework has much in common with GDPs. The difference is explored by researchers [@olsson2014conceptual]. The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
+THIS NEEDS CLARIFYING - ? BUT NOT TOO MUCH
+
+The study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games.
+
+The process of curating patterns involve selected only 14 from a list of over 100? [CHECK]. Their selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners.
+
+<!-- The principle goals to is to address the perceived "challenge how to make results from research work related to this within Child-Computer Interaction (CCI) field easily transferable to future CCI research." [@baykal_using_2019] -->
+
+**Results:**
+
+The work explored the utility of GDP concepts in several dimensions the focus as a lingua franca between researchers and participants; to aid the framing of analysis; and to inspire participants. However, the focus was primarily benefits to researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI).
+As such the potential for participants  was under explored and the potential for teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
+
+
+### Game Star Mechanic and related work by Institute of Play
+
+The use of the the of game design theory also played a prominent role in the approach of the Institute of Play within the design motivation of a game design software package called Game Star Mechanic (GSM). GSM is an online software specifically designed to communicate and build systems thinking and design thinking through the process of making video games [@games_design_2008].
+
+Research on GSM outlines the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014]. However, in order to foreground those elements, programming as a practice is dropped from the tool to reduce complexity.
+
+Ivan Games [-@games_design_2008] describes in depth how the design of the product allowed the use of learners background knowledge of game design patterns to facilitate complex forms of collaborative design and discourse between novice designers.
+
+To facilitate this process further, the GSM team created a supporting pack for teachers which used challenges themed around categorisation of game design patterns.
+There is little research published on how the cards were used in practice. Limitations include
+
+Thus while existing research show the promise of GDPs in exploring systems thinking and developing an overall sense of game design, there is a gap in the research landscape in how GDP pattern collections could be used to support novices and young people to program computer games.
+ADD TO PROBLEM STATEMENT
+
+
+
+### Scalable game design
+
+<!-- USEFUL WIKI
+https://web.archive.org/web/20181119014430/https://sgd.cs.colorado.edu/wiki/Scalable_Game_Design_wiki -->
+
+
+Given the similarity in use of design patterns in game making using coding, it valuable to examine the context, aims and tools of the Scalable Game Design (SGD) programme carried out by Repenning and Basawapatna [-@repenning_scalable_2010; -@basawapatna_using_2010]. SGD is an extensive computing education program designed and delivered by Colorado University with extensive support from external funders aligned with computing / STEM in schools. This partnership work allowed extensive data collection with some studies involving data from thousands of school students.
+
+The researchers use the term Computational Thinking Patterns (CPTs) to describe patterns present in computer games which they support learners to code. It is the familiarity and understandability, and the ability to link to specific learning outcomes which which drew the SCG researchers towards a pattern-based approach compared to limitations of more abstract interpretations of computational thinking. This was driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations [@basawapatna_recognizing_2011] .
+
+<!-- Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants. -->
+
+<!-- ![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm"} -->
+
+The authors give examples of computational thinking patterns:  *generation* and *absorbtion* in predator / prey relationships, *transportation *of oxygen by red blood cells and mosquitoes *hill climbing* (seeking the highest value) of human scent.
+
+The authors refer to a project first rather than principles first approach to implementing coding. Computational concepts, for example, loops, lists, logic and variables are recommended to be taught as learner require them to be used. To do this they advocate use of _just in time_ instruction, via a clear links between the instruction needed and the motivation to achieve a tangible goal within game design to keep learners in a zone of engagement [@basawapatna_zones_2013].
+
+Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work.
+
+**Resources of SGD and limitations in practice**
+
+A practical consideration is that it is specialist science software which can be problematic to maintain in the long term.
+
+How just in time are these resources really?
+
+<!-- Example patterns are shown in the following diagram which is part of the assessment of individuals taking part in the programme. -->
+
+<!-- The focus on transfer to science simulations concepts explains the increased distancing of language from transferable coding principles in both abstract and concrete forms. -->
+
+
+
+
+
+<!-- In SGD the concept of proximal flow links flow theory and the vital importance of engagement, via scaffolding to the ZPD and the social and environmental nature of that support [@basawapatna_zones_2013].
+
+This proximal flow theory developed into a particular tutorial format [@basawapatna_zones_2019].
+The concept of just in time instruction aims to reduce boredom and increase engagement with strong linking between the instruction needed and the goal to achieve a tangible goal linked a game. -->
+
+
+
+<!-- This characteristic may negatively impact engagement, due to danger of limited engagement with rote instructions explored above [@resnick_coding_2020] -->
+
+<!-- While there are links with socio-cultural concept of ZPD, there are limits in the approach and in the framing of the results. -->
+
+<!-- Beyond the following of instructions, the process by which students return to flow are not discussed. Given the social nature of the process this seems to neglect the possible uses of design pattern in peer learning.   -->
+
+
+
+
+
+
+<!-- Teacher plan
+https://web.archive.org/web/20210308074719/https://wiki.computationalthinkingfoundation.org/wiki/images/a/ac/Frogger_Master_v2.0.pdf
+
+Student pages.
+https://wiki.computationalthinkingfoundation.org/wiki/images/5/5b/ACO_Frogger_Student_v1.0.pdf
+
+
+Teacher plan
+https://wiki.computationalthinkingfoundation.org/wiki/images/f/f9/T3_5_ACO_Pacman_Master_v3.0.pdf -->
+
+
+<!-- NOTE - follow this up - can email - why was this not adopted?
+What could have been different?-->
+
+
+<!-- NOTE - RETURN TO THEIR EXTENSIVE LIST OF ERIKSSON - AND THE DESIGN CHOICE OF HOW BIG A LIST TO MAKE ESPECIALLY FOR NOVICE CODERS -->
+<!-- From Eriksson article - explore in more depth in Lit Review..
+
+Could move some of this to the results discussion -
+"- Problem-Solving for Game Interaction Design: Patterns can contain various potential solutions for designers which have identified problems with specific interaction parts a game concept.
+- Inspiration: Pattern collections embed gameplay concepts found useful in other games, and can therefore serve as a knowledge source for new game designs or redesigns of existing ones.
+- Structured Design Tool: Both by enumerating concepts as individual patterns and by providing relations between patterns, a pattern collection can help designers to work through different levels of abstraction in a design in a structured fashion.
+- Communication: The patterns offer the possibility to describe the design in a standardized format to make the understanding and comparison of different designs easier. This can be designers communicating with other designers but can also be participants discussing with other participants. The offering of a standardized format for concepts can potentially also increase the likelihood of members of heterogeneous groups being able to see each other as peers since they can communicate in a common way." -->
+
+
+<!--
+In my own game making model students picked missions from a choice of printed resources. There were four colour themed categories of missions. _Game mechanics_ are features to do with the actions of the game. _Game space_ patterns address the layout of the game. _Game polish_ patterns involve adding music, backgrounds, graphics and story elements. Finally _System and Challenge_ patterns look at how different elements interact to create challenge in the game. An example of a game mechanic design pattern follows. -->
+
+
+
+
+<!-- They described the utility of games design patterns as a _lingua franca_ for game developers. Other benefits cited are GDP as a source  creative inspiration and as an aid to problem-solving. -->
 
 
 ## Synthesis of chapter / discussion / problem statement
