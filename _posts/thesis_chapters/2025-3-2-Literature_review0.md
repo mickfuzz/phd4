@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 2. Literature Review
+title: 2. Literature Review 0
 
 ---
 -   [Literature Review](#literature-review)
@@ -1664,7 +1664,7 @@ A Mozilla white paper [@mozilla_foundation_webmaker_2014] outlines the power of 
 
 In 2011 I co-wrote an open web collaboratively with other authors as part of a collaborative writing process called Book Sprint (model on code sprints and other corroborative  processes). One of the co-writer Michelle Thorne went on to work with Mozilla as part of their teach the web and web literacy programme. One of her posts is a good illustration of the kinds of activities drawing on home interests to explore authentic web technologies, and some of the digital literacy elements needed to be an effective citizen of the web. https://michellethorne.cc/2015/03/clubs-web-literacy-basics-curriculum/
 
-ADD IN HERE WHAT IS WEB LITERACY AND DIFFERENT FROM DIGITAL LIT . 
+ADD IN HERE WHAT IS WEB LITERACY AND DIFFERENT FROM DIGITAL LIT .
 
 The tools created by Mozilla to investigate and to remix HTML pages scaffolded the experiences of new learners and paralleled my own early experiences of self-expression through hacking a new technology.
 
