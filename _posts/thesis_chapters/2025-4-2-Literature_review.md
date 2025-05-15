@@ -10,80 +10,111 @@ categories: chapter
 title: 2. Literature Review
 
 ---
--   [Literature Review](#literature-review){#toc-literature-review}
-    -   [Research Questions April
-        2025](#research-questions-april-2025){#toc-research-questions-april-2025}
-    -   [Introduction](#introduction){#toc-introduction}
-    -   [A review of relevant research informing computer game design
-        and programming
-        (CGD&P)](#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp){#toc-a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp}
-        -   [The benefits of computer game design and programming
-            (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp){#toc-the-benefits-of-computer-game-design-and-programming-cgdp}
-        -   [An overview of constructionist
-            approaches](#an-overview-of-constructionist-approaches){#toc-an-overview-of-constructionist-approaches}
-            -   [Constructionist design
-                heuristics](#constructionist-design-heuristics){#toc-constructionist-design-heuristics}
-            -   [Coding club(houses) & Family Creative
-                Learning](#coding-clubhouses-family-creative-learning){#toc-coding-clubhouses-family-creative-learning}
-            -   [Constructionist framing of relevant learning outcomes -
-                computational thinking and dimensions of fluency and
-                agency](#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency){#toc-constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency}
-            -   [Constructionist pedagogies - Project-based rather than
-                instruction-based](#constructionist-pedagogies---project-based-rather-than-instruction-based){#toc-constructionist-pedagogies---project-based-rather-than-instruction-based}
-            -   [Limitations within constructionist approaches and the
-                related field of CGD&P
-                research](#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research){#toc-limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research}
-    -   [Pedagogies to support game making via
-        coding](#pedagogies-to-support-game-making-via-coding){#toc-pedagogies-to-support-game-making-via-coding}
-        -   [Explicit teaching of computational thinking - Principles
-            first](#explicit-teaching-of-computational-thinking---principles-first){#toc-explicit-teaching-of-computational-thinking---principles-first}
-        -   [Design frameworks using stages & project based learning
-            (PBL)](#design-frameworks-using-stages-project-based-learning-pbl){#toc-design-frameworks-using-stages-project-based-learning-pbl}
-            -   [Project-based learning
-                (PBL)](#project-based-learning-pbl){#toc-project-based-learning-pbl}
-        -   [Use Modify
-            Create](#use-modify-create){#toc-use-modify-create}
-            -   [Levels of
-                Abstraction](#levels-of-abstraction){#toc-levels-of-abstraction}
-            -   [Semantic Profiles and
-                PRIMM](#semantic-profiles-and-primm){#toc-semantic-profiles-and-primm}
-        -   [Half-baked games as
-            Microworlds](#half-baked-games-as-microworlds){#toc-half-baked-games-as-microworlds}
-    -   [Social approaches and cultural
-        programmes](#social-approaches-and-cultural-programmes){#toc-social-approaches-and-cultural-programmes}
-        -   [Pair programming & social/collaborative coding
-            -](#pair-programming-socialcollaborative-coding--){#toc-pair-programming-socialcollaborative-coding--}
-        -   [Game
-            competitions](#game-competitions){#toc-game-competitions}
-        -   [UK coding clubs: Code Club, Coder Dojo and Raspberry
-            Jam](#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam){#toc-uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam}
-        -   [Educational Game
-            Jams](#educational-game-jams){#toc-educational-game-jams}
-        -   [The Fifth
-            Dimension](#the-fifth-dimension){#toc-the-fifth-dimension}
-    -   [Design patterns](#design-patterns){#toc-design-patterns}
-        -   [Using collections of Game(play) design patterns within
-            design
-            education](#using-collections-of-gameplay-design-patterns-within-design-education){#toc-using-collections-of-gameplay-design-patterns-within-design-education}
-        -   [Game Star Mechanic and related work by Institute of
-            Play](#game-star-mechanic-and-related-work-by-institute-of-play){#toc-game-star-mechanic-and-related-work-by-institute-of-play}
-        -   [Scalable game
-            design](#scalable-game-design){#toc-scalable-game-design}
-    -   [Synthesis of chapter / discussion / problem
-        statement](#synthesis-of-chapter-discussion-problem-statement){#toc-synthesis-of-chapter-discussion-problem-statement}
-        -   [Recapping this study's motivations - both broad and my
-            motivations](#recapping-this-studys-motivations---both-broad-and-my-motivations){#toc-recapping-this-studys-motivations---both-broad-and-my-motivations}
-        -   [Returning to gaps in the CGD&P research
-            landscape](#returning-to-gaps-in-the-cgdp-research-landscape){#toc-returning-to-gaps-in-the-cgdp-research-landscape}
-        -   [The problem statement of the
-            thesis](#the-problem-statement-of-the-thesis){#toc-the-problem-statement-of-the-thesis}
-            -   [Pedagogies exist but more are needed that are specific,
-                aligned with non-formal spaces, x and
-                y.](#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.){#toc-pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.}
-            -   [Research
-                Questions](#research-questions){#toc-research-questions}
-        -   [Link to the next
-            chapter](#link-to-the-next-chapter){#toc-link-to-the-next-chapter}
+
+- <a href="#literature-review" id="toc-literature-review">Literature
+  Review</a>
+  - <a href="#research-questions-april-2025"
+    id="toc-research-questions-april-2025">Research Questions April 2025</a>
+  - <a href="#introduction" id="toc-introduction">Introduction</a>
+  - <a
+    href="#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp"
+    id="toc-a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp">A
+    review of relevant research informing computer game design and
+    programming (CGD&amp;P)</a>
+    - <a href="#the-benefits-of-computer-game-design-and-programming-cgdp"
+      id="toc-the-benefits-of-computer-game-design-and-programming-cgdp">The
+      benefits of computer game design and programming (CGD&amp;P)</a>
+    - <a href="#an-overview-of-constructionist-approaches"
+      id="toc-an-overview-of-constructionist-approaches">An overview of
+      constructionist approaches</a>
+      - <a href="#constructionist-design-heuristics"
+        id="toc-constructionist-design-heuristics">Constructionist design
+        heuristics</a>
+      - <a href="#coding-clubhouses-family-creative-learning"
+        id="toc-coding-clubhouses-family-creative-learning">Coding club(houses)
+        &amp; Family Creative Learning</a>
+      - <a
+        href="#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency"
+        id="toc-constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency">Constructionist
+        framing of relevant learning outcomes - computational thinking and
+        dimensions of fluency and agency</a>
+      - <a
+        href="#constructionist-pedagogies---project-based-rather-than-instruction-based"
+        id="toc-constructionist-pedagogies---project-based-rather-than-instruction-based">Constructionist
+        pedagogies - Project-based rather than instruction-based</a>
+      - <a
+        href="#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research"
+        id="toc-limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research">Limitations
+        within constructionist approaches and the related field of CGD&amp;P
+        research</a>
+  - <a href="#pedagogies-to-support-game-making-via-coding"
+    id="toc-pedagogies-to-support-game-making-via-coding">Pedagogies to
+    support game making via coding</a>
+    - <a
+      href="#explicit-teaching-of-computational-thinking---principles-first"
+      id="toc-explicit-teaching-of-computational-thinking---principles-first">Explicit
+      teaching of computational thinking - Principles first</a>
+    - <a href="#design-frameworks-using-stages-project-based-learning-pbl"
+      id="toc-design-frameworks-using-stages-project-based-learning-pbl">Design
+      frameworks using stages &amp; project based learning (PBL)</a>
+      - <a href="#project-based-learning-pbl"
+        id="toc-project-based-learning-pbl">Project-based learning (PBL)</a>
+    - <a href="#use-modify-create" id="toc-use-modify-create">Use Modify
+      Create</a>
+      - <a href="#levels-of-abstraction" id="toc-levels-of-abstraction">Levels
+        of Abstraction</a>
+      - <a href="#semantic-profiles-and-primm"
+        id="toc-semantic-profiles-and-primm">Semantic Profiles and PRIMM</a>
+    - <a href="#half-baked-games-as-microworlds"
+      id="toc-half-baked-games-as-microworlds">Half-baked games as
+      Microworlds</a>
+  - <a href="#social-approaches-and-cultural-programmes"
+    id="toc-social-approaches-and-cultural-programmes">Social approaches and
+    cultural programmes</a>
+    - <a href="#pair-programming-socialcollaborative-coding--"
+      id="toc-pair-programming-socialcollaborative-coding--">Pair programming
+      &amp; social/collaborative coding -</a>
+    - <a href="#game-competitions" id="toc-game-competitions">Game
+      competitions</a>
+    - <a href="#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam"
+      id="toc-uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam">UK
+      coding clubs: Code Club, Coder Dojo and Raspberry Jam</a>
+    - <a href="#educational-game-jams"
+      id="toc-educational-game-jams">Educational Game Jams</a>
+    - <a href="#the-fifth-dimension" id="toc-the-fifth-dimension">The Fifth
+      Dimension</a>
+  - <a href="#design-patterns" id="toc-design-patterns">Design patterns</a>
+    - <a
+      href="#using-collections-of-gameplay-design-patterns-within-design-education"
+      id="toc-using-collections-of-gameplay-design-patterns-within-design-education">Using
+      collections of Game(play) design patterns within design education</a>
+    - <a href="#game-star-mechanic-and-related-work-by-institute-of-play"
+      id="toc-game-star-mechanic-and-related-work-by-institute-of-play">Game
+      Star Mechanic and related work by Institute of Play</a>
+    - <a href="#scalable-game-design" id="toc-scalable-game-design">Scalable
+      game design</a>
+  - <a href="#synthesis-of-chapter-discussion-problem-statement"
+    id="toc-synthesis-of-chapter-discussion-problem-statement">Synthesis of
+    chapter / discussion / problem statement</a>
+    - <a
+      href="#recapping-this-studys-motivations---both-broad-and-my-motivations"
+      id="toc-recapping-this-studys-motivations---both-broad-and-my-motivations">Recapping
+      this study’s motivations - both broad and my motivations</a>
+    - <a href="#returning-to-gaps-in-the-cgdp-research-landscape"
+      id="toc-returning-to-gaps-in-the-cgdp-research-landscape">Returning to
+      gaps in the CGD&amp;P research landscape</a>
+    - <a href="#the-problem-statement-of-the-thesis"
+      id="toc-the-problem-statement-of-the-thesis">The problem statement of
+      the thesis</a>
+      - <a
+        href="#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y."
+        id="toc-pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.">Pedagogies
+        exist but more are needed that are specific, aligned with non-formal
+        spaces, x and y.</a>
+      - <a href="#research-questions" id="toc-research-questions">Research
+        Questions</a>
+    - <a href="#link-to-the-next-chapter"
+      id="toc-link-to-the-next-chapter">Link to the next chapter</a>
 
 # Literature Review
 
@@ -128,7 +159,11 @@ title: 2. Literature Review
 
 This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Then I outline key concerns of the work of constructionist researchers in the broader field of supporting programming education and more specifically within CGD&P as a way of highlighting promising areas for future research.
 
-The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis beginning with wider field of computer programming adn focusing in on those specifically addressing game making. A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. Due to the sociocultural focus of this study, attention is also paid to the research on the potential and characteristics of non-formal learning programmes where game making may take place. Specifically, I summarise relevant research on code clubs, competitions and game jams.
+The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis beginning with wider field of computer programming and focusing in on those specifically addressing game making.
+
+Due to the sociocultural focus of this study, attention is also paid to the research on the potential and characteristics of non-formal learning programmes where game making may take place. Specifically, I summarise relevant research on code clubs, competitions and game jams.
+
+A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers.
 
 Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
 
@@ -156,12 +191,11 @@ Related to context as well as instructive teaching. -->
 NOTE - IM NOT SURE HOW HELPFUL THIS ACTUALLY IS. -->
 
 
-## A review of relevant research informing computer game design and programming (CGD&P)
+## A review of research on CGD&P and constructionist approaches to learning computer coding
 
 <!-- ### Potential benefits of computer game design and programming (CGD&P) -->
-EXPLAIN WHY THIS IS FIRST NOT AFTER GENERAL CODING PEDAGOGIES
 
-This section begins by addressing studies on computer game design and programming (CGD&P) before progressing to give an overview of constructionist research in this area.
+This section begins by addressing studies on computer game design and programming (CGD&P) before progressing to give an overview of constructionist research in this area. These two areas of research are addressed before other more specific pedagogies in part to give a wider perspective of overarching concerns in this area. In addition, given the influential nature of constructionist framings of research within the field, it is productive to examine this influence critically.
 
 <!-- Before addressing specific pedagogies to programming in general and game making in particular, it is of value to examine the broad context of motivations for undertaking -->
 
@@ -214,7 +248,7 @@ Kafai and Burke
 
 also note the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @games_design_2008]. However, in order to foreground those elements, programming is dropped from the tool to reduce complexity. -->
 
-The work of constructionist researchers is foundation in the field programming education. Examples include the work of Papert pioneering LOGO, programmable LEGO drawing turtles [@papert_mindstorms; @papert_childrens_1993; @papert_turtles_2002], early research by Kafai on game programming by children [@kafai_minds_1994], and  innovations in creative computing by Resnick in the areas of physical computing [@resnick_digital_1998] and a more generalised multi-media authoring tool (called Scratch)[@resnick_reflections_2005].  Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field with many of the researchers undertaking work in this area identifying their work as following constructionist principles [@harel_caperton_toward_2010; @repenning_scalable_2010; @weintrop_computational_2016; @kynigos_children_2018].
+The work of constructionist researchers is foundational in the field programming education. Examples include the work of Papert pioneering LOGO, programmable LEGO drawing turtles [@papert_mindstorms; @papert_childrens_1993; @papert_turtles_2002], early research by Kafai on game programming by children [@kafai_minds_1994], and  innovations in creative computing by Resnick in the areas of physical computing [@resnick_digital_1998] and a more generalised multi-media authoring tool (called Scratch)[@resnick_reflections_2005].  Kafai and Burke’s framing of CGD&P as _constructionist gaming_ reflects the dominance of this voice  within the field with many of the researchers undertaking work in this area identifying their work as following constructionist principles [@harel_caperton_toward_2010; @repenning_scalable_2010; @weintrop_computational_2016; @kynigos_children_2018].
 
 However, despite this influence, the ethos and theoretical underpinning of constructionism are difficult to locate precisely [@laurillard2020significance, p.29]. This may in part be due to the varied interpretation of the concepts as an "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015]. This section situates the concerns of this thesis within the existing body of constructionist research before widening the focus to explore the principle strands within it. To achieve this, I will examine several strands of constructionist research, namely: design principles and pedagogical approaches, and engagement with social approaches to learning.
 
@@ -225,6 +259,8 @@ However, despite this influence, the ethos and theoretical underpinning of const
 Early constructionist research by Papert and Turkle[-@papert_epistemological_1990] addresses on diversity in coding approaches to counter potentially alienating abstract approaches. The authors describe an alternative approach to the dominant formal, abstract style that "emphasizes control through structure and planning" [-@papert_epistemological_1990, p.134]. This dominant approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials. Bricolage approaches involve an iterative process, proximity to the code, strong links between function and form, and maintaining close contact with a concrete sense of the outcomes, even at the expense of programming efficiency or neatness of code.
 
 Techniques which facilitated concrete approaches include the use of tangible physical and digital objects, particularly those which could be shared within communities.
+
+
 #### Microworlds as both toolset and pedagogy
 
 Laurillard [-@laurillard2020significance] describes constructionism as a distinctive pedagogy based on Papert’s vision of a publicly shareable project based a carefully scaffolded code environments (called microworlds), designed to foreground specific concepts. Microworlds can facilitate the exploration of diverse concepts [@rieber_microworlds_2004]. Microworlds are simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism:_1991; @papert_mindstorms:_1980; @papert_childrens_1993].  Guzdial [-@kong_providing_2022] continues the ethos of microworlds using a concept called of task specific programming language to limit the complexity of code  for the tasks or concept explorations compared to a complete programming language.
@@ -238,19 +274,21 @@ However, the use of microworlds in traditional school settings is not unproblema
 
 Most relevant to the domain of this study are constructionist design principles articulated by Resnick and Rosenbaum [-@resnick_designing_2013] in the form of designing for tinkerability in terms of allowing immediate feedback and fluid experimentation and open experimentation. Resnick advocates for choosing black boxes carefully to abstract away complexity for the learner when it is not productive. This principle of simplifying the environment with an aim to allow learners can get started easily is given a metaphor of low floors. Other principles include high ceilings reflecting a need that projects are not limited in terms of complexity that can be achieved with effort and wide walls to represent the advantage of creations being able to create a diversity of genres of projects [@resnick_reflections_2005, @resnick_scratch:_2009].
 
-##### Scratch as a more general toolset
+##### Scratch as a more general toolset, remixing, and community elements
+
+One area of scaffolding is in the provision of a library of assets.
+
+One concept advanced to address this in constructionist research is that of a Constructopedia [@papert_technological_1995], an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] none remain an idea perhaps limited by the broadness of its scope.
+
+Instead, the promise is present in a different form is in the online community of the Scratch tool created by constructionist research as a product of MIT media lab.
+
+**Scratch and remixing**
 
 Scratch is a general purpose multi-media production too which has been used in many CGD&P research programmes and in general practice. It exemplifies of the design heuristics of constructionism, in particular the wide-walls
 
-Scratch
-One area of scaffolding is in the provision of a library of assets.
+All created products on the online community are remixable by others.
 
-Another is in the online community and the design decision to make all created products remixable by others by default.
-
-The remixing of  Scratch projects is complicated by the an embedded nature of the features. The process of extracting them and implementing them is neither straightforward or guided.
-
-
-One concept advanced to address this in constructionist research is that of a Constructopedia [@papert_technological_1995], an encyclopedia of design elements and resources to implement acting as bother a practical resources and source inspiration. While instances have come and gone [@nichols2007idea] none remain an idea perhaps limited by the broadness of its scope.
+However, the remixing of  Scratch projects is complicated by the an embedded nature of the features. The process of extracting them and implementing them is neither straightforward or guided.
 
 <!--
 THIS IS IS FROM
@@ -272,39 +310,22 @@ Open windows: a tool to facilitate the sharing of digital media. The creation of
 
 
 
-#### Coding club(houses) &  Family Creative Learning
+#### Coding clubhouses and cultural programmes
 
-It of interest to make a link between early influnce of the constructionist school founded by Papert and this thesis. In Mindstorms Papert makes a commentary of community organising of the learning environment in a commentary about Samba schools as "settings that are real, socially cohesive, and where experts and novices are all learning" [@papert_mindstorms:_1980].
-
-Bruckman notes "tools are not enough... Tools are effectively constructionist only when they are embedded in a constructionist culture." (Bruckman, 1998, pp. 51-52)
-
-Bruckman and Zagal, also studying at MIT, take from this mention an opportunity to formally study the components of a Samba school [@zagal_samba_2005] and to compare it,  to a Computer clubhouse, an MIT initiative designed inspired in party by Papert's vision [@resnick_computer_1996; @peppler_computer_2009]. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice and other social practices including the importance of showcase events share created work and flexibility of ways of participating and a diversity of skill levels and backgrounds of participants.
+Constructionist research is often carried out in community settings [@resnick_computer_1996], a key example being the first Computer Clubhouse, an after school club in a Boston's computer museum [@resnick_computer_1998;  @peppler_computer_2009]. Constructionism's founder Papert [-@papert_mindstorms:_1980] was influenced by his observational research on community organising within Samba schools as form of mutual learning environments describing "settings that are real, socially cohesive, and where experts and novices are all learning". Bruckman [@bruckman_community_1998, p 51-52] notes the importance of a _constructionist culture_ to support experimental processes enabled by technological tools. Bruckman and Zagal, fellow MIT researchers, formally compared the cultural learning components of a Samba school [@zagal_samba_2005] and to activity to a Computer clubhouse. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice [@lave_situating_1991] to describe social practices including the importance of showcase events share created work, flexibility of ways of participating, and the value of diversity within the skill levels and backgrounds of participants.
 
 <!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
-
 <!-- Correa (2015), explores the role of children as brokers of technology in family environments. MOVE LATER? WITHIN 5D? BARRON?  -->
-
-
 
 <!-- In response to the limitations of accessibility of online participatory culture  [@roque_family_2016]  CHECK THIS AND SAY HOW,  -->
 
-SAY HOW EXPLICITLY CONSTRUCTIONIST?
-The work of Roque in Family Creative Learning program is of note in the way that family members are brought directly into the making process to overcome barriers to computer coding.
+MIT researcher Roque in the Family Creative Learning (FCL) program brought family members are brought directly into the making process to help overcome barriers to computer coding [@roque_family_2016]. Roque [@roque2016family] draws on both  constructionist and socio-cultural ideas to design a creative making programme via face-to-face sessions using Scratch and playful physical processes and materials. The work utilises the work of Barron and colleagues [-@barron_parents_2009] on parental roles in a making environment in the way facilitators were guided to help develop parents and children develop participation in community activities [@roqueBecomingFacilitatorsCreative2018]. Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, non-technical consultant and learner. FCL draws on the underlying  sociocultural approaches within Barron and colleagues' foundational work. Roque makes a convincing case for the value of exploring the collaborative roles of parents and facilitators and of creating social, collaborative and reflective activities to complement the more technological aspects of the making activities. The research team created a detailed guide to replicate the programme [@leggett_family_2017].
 
-Roque [@roque_family_2016]  FCL study addressed it with face to face session with help from family members.
 
-In asking is how can facilitators help develop participation in community activities [@roqueBecomingFacilitatorsCreative2018], Roque operationalises Barron's work on parental roles in a making environment [-@barron_parents_2009].
-
-Barron et al. [-@barron_parents_2009] identified social and cultural behaviours of parents in settings of informal technology uses. The authors coalesced these behaviours into roles, the most notable being teacher, project collaborator, learning broker, non-technical consultant and learner.  
-
-Roque makes a convincing case for the unpicking of the supportive and collaborative roles of parents and facilitators to build this capacity and awareness of family learning roles.
-
-The research team created a detailed guide to replicate the programme [@leggett_family_2017]. MORE DETAIL ON THIS?
+<!-- In the following literature review sections I will examine sociocultural approaches and concepts that may be used in wider contexts but also applicable to CGD&P. -->
 
 <!-- To compare with learning in more formal structured, and more naturalistic learning environments, it best matches a more optimal approach to game making with families. -->
-
-FCL draws on the underlying  sociocultural approaches within Barron's foundational work. In the following literature review sections I will examine sociocultural approaches and concepts that may be used in wider contexts but also applicable to CGD&P.
 
 <!-- However, while the design of the FCL programme was effective to build parental confidence and to increase overall accessibility to the process , it left questions unanswered about the effectiveness of the process to enable further learning at home after the programme end. In addition, similar to the computer clubhouse model, it is noteable that there are potential difficulties of scaling this hybrid approach (FCL) in terms of the expert facilitator help needed. -->
 

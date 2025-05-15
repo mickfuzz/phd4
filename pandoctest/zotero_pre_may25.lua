@@ -1,89 +1,162 @@
-
-  print('zotero-live-citations 199d652')
-  local online, mt, latest = pcall(pandoc.mediabag.fetch, 'https://retorque.re/zotero-better-bibtex/exporting/zotero.lua.revision')
-  if online then
-    latest = string.sub(latest, 1, 10)
-    if '199d652' ~= latest then
-      print('new version "' .. latest .. '" available at https://retorque.re/zotero-better-bibtex/exporting')
-    end
-  end
+do
 
 do
 local _ENV = _ENV
 package.preload[ "locator" ] = function( ... ) local arg = _G.arg;
-local utils = require('utils')
--- local lpeg = require('lpeg')
-
-local book = (lpeg.P('book') + lpeg.P('bk.') + lpeg.P('bks.')) / 'book'
-local chapter = (lpeg.P('chapter') + lpeg.P('chap.') + lpeg.P('chaps.')) / 'chapter'
-local column = (lpeg.P('column') + lpeg.P('col.') + lpeg.P('cols.')) / 'column'
-local figure = (lpeg.P('figure') + lpeg.P('fig.') + lpeg.P('figs.')) / 'figure'
-local folio = (lpeg.P('folio') + lpeg.P('fol.') + lpeg.P('fols.')) / 'folio'
-local number = (lpeg.P('number') + lpeg.P('no.') + lpeg.P('nos.')) / 'number'
-local line = (lpeg.P('line') + lpeg.P('l.') + lpeg.P('ll.')) / 'line'
-local note = (lpeg.P('note') + lpeg.P('n.') + lpeg.P('nn.')) / 'note'
-local opus = (lpeg.P('opus') + lpeg.P('op.') + lpeg.P('opp.')) / 'opus'
-local page = (lpeg.P('page') + lpeg.P('p.') + lpeg.P('pp.')) / 'page'
-local paragraph = (lpeg.P('paragraph') + lpeg.P('para.') + lpeg.P('paras.') + lpeg.P('¶¶') + lpeg.P('¶')) / 'paragraph'
-local part = (lpeg.P('part') + lpeg.P('pt.') + lpeg.P('pts.')) / 'part'
-local section = (lpeg.P('section') + lpeg.P('sec.') + lpeg.P('secs.') + lpeg.P('§§') + lpeg.P('§')) / 'section'
-local subverbo = (lpeg.P('sub verbo') + lpeg.P('s.v.') + lpeg.P('s.vv.')) / 'sub verbo'
-local verse = (lpeg.P('verse') + lpeg.P('v.') + lpeg.P('vv.')) / 'verse'
-local volume = (lpeg.P('volume') + lpeg.P('vol.') + lpeg.P('vols.')) / 'volume'
-local label = book + chapter + column + figure + folio + number + line + note + opus + page + paragraph + part + section + subverbo + verse + volume
-
-local whitespace = lpeg.P(' ')^0
-local nonspace = lpeg.P(1) - lpeg.S(' ')
-local nonbrace = lpeg.P(1) - lpeg.S('{}')
-
-local word = nonspace^1 / 1
--- local roman = lpeg.S('IiVvXxLlCcDdMm]')^1
-local number = lpeg.R('09')^1 -- + roman
-
-local numbers = number * (whitespace * lpeg.S('-')^1 * whitespace * number)^-1
-local ranges = (numbers * (whitespace * lpeg.P(',') * whitespace * numbers)^0) / 1
-
--- local braced_locator = lpeg.P('{') * lpeg.Cs(label + lpeg.Cc('page')) * whitespace * lpeg.C(nonbrace^1) * lpeg.P('}')
-local braced_locator = lpeg.P('{') * label * whitespace * lpeg.C(nonbrace^1) * lpeg.P('}')
-local braced_implicit_locator = lpeg.P('{') * lpeg.Cc('page') * lpeg.Cs(numbers) * lpeg.P('}')
-local locator = braced_locator + braced_implicit_locator + (label * whitespace * ranges) + (label * whitespace * word) + (lpeg.Cc('page') * ranges)
-local remainder = lpeg.C(lpeg.P(1)^0)
-
-local suffix = lpeg.C(lpeg.P(',')^-1 * whitespace) * locator * remainder
-
-local pseudo_locator = lpeg.C(lpeg.P(',')^-1 * whitespace) * lpeg.P('{') * lpeg.C(nonbrace^0) * lpeg.P('}') * remainder
-
 local module = {}
 
-function module.parse(input)
-  local parsed, _prefix, _label, _locator, _suffix
+local labels = {
+  book = 'book',
+  ['bk.'] = 'book',
+  ['bks.'] = 'book',
+  chapter = 'chapter',
+  ['chap.'] = 'chapter',
+  ['chaps.'] = 'chapter',
+  column = 'column',
+  ['col.'] = 'column',
+  ['cols.'] = 'column',
+  figure = 'figure',
+  ['fig.'] = 'figure',
+  ['figs.'] = 'figure',
+  folio = 'folio',
+  ['fol.'] = 'folio',
+  ['fols.'] = 'folio',
+  number = 'number',
+  ['no.'] = 'number',
+  ['nos.'] = 'number',
+  line = 'line',
+  ['l.'] = 'line',
+  ['ll.'] = 'line',
+  note = 'note',
+  ['n.'] = 'note',
+  ['nn.'] = 'note',
+  opus = 'opus',
+  ['op.'] = 'opus',
+  ['opp.'] = 'opus',
+  page = 'page',
+  ['p.'] = 'page',
+  ['pp.'] = 'page',
+  paragraph = 'paragraph',
+  ['para.'] = 'paragraph',
+  ['paras.'] = 'paragraph',
+  part = 'part',
+  ['pt.'] = 'part',
+  ['pts.'] = 'part',
+  section = 'section',
+  ['sec.'] = 'section',
+  ['secs.'] = 'section',
+  ['sub verbo'] = 'sub verbo',
+  ['s.v.'] = 'sub verbo',
+  ['s.vv.'] = 'sub verbo',
+  verse = 'verse',
+  ['v.'] = 'verse',
+  ['vv.'] = 'verse',
+  volume = 'volume',
+  ['vol.'] = 'volume',
+  ['vols.'] = 'volume'
+}
 
-  parsed = lpeg.Ct(suffix):match(input)
-  if parsed then
-    _prefix, _label, _locator, _suffix = table.unpack(parsed)
-  else
-    parsed = lpeg.Ct(pseudo_locator):match(input)
-    if parsed then
-      _label = 'page'
-      _prefix, _locator, _suffix = table.unpack(parsed)
-    else
-      return nil, nil, input
+function module.short_labels()
+  local sl = {}
+  for k, v in pairs(labels) do
+    if not sl[v] or string.len(k) < string.len(sl[v]) then
+      sl[v] = k
     end
   end
 
-  if utils.trim(_prefix) == ',' then _prefix = '' end
-  local _space = ''
-  if (utils.trim(_prefix) ~= _prefix) then _space = ' ' end
+  for k, v in pairs(labels) do
+    labels[k] = sl[v]
+  end
+end
 
-  _prefix = utils.trim(_prefix)
-  _label = utils.trim(_label)
-  _locator = utils.trim(_locator)
-  _suffix = utils.trim(_suffix)
+local function get_label(locator)
+  local s, e, label, remaining = string.find(locator, '^(%l+.?) *(.*)')
+  if label and labels[label:lower()] then
+    return labels[label:lower()], remaining
+  else
+    return labels['page'], locator
+  end
+end
 
-  return _label, _locator, utils.trim(_prefix .. _space .. _suffix)
+local function parse(suffix)
+  if not suffix then
+    return nil, nil, suffix
+  end
+
+  local s, e, locator, label, remaining
+  local _suffix = suffix
+
+  s, e, locator = string.find(_suffix, '^{([^{}]+)}$')
+  if locator then
+    label, locator = get_label(locator)
+    return label, locator, nil
+  end
+
+  local s, e, locator, remaining = string.find(_suffix, '^{([^{}]+)}, *(.*)')
+  if locator then
+    label, locator = get_label(locator)
+    return label, locator, remaining
+  end
+
+  s, e, locator = string.find(_suffix, '^, *{([^{}]+)}$')
+  if locator then
+    label, locator = get_label(locator)
+    return label, locator, nil
+  end
+
+  s, e, locator, remaining = string.find(_suffix, '^, *{([^{}]+)} *(.*)')
+  if locator then
+    label, locator = get_label(locator)
+    return label, locator, remaining
+  end
+
+  if not string.find(_suffix, '^, .') then
+    return nil, nil, suffix
+  end
+
+  s, e, label, remaining = string.find(_suffix, '^, *(%l+%.?) *(.*)')
+  if label and labels[label:lower()] then
+    label = labels[label:lower()]
+    _suffix = ', ' .. remaining
+  else
+    label = labels['page']
+  end
+
+  local _locator = ''
+  local loc
+  while true do
+    s, e, loc, remaining = string.find(_suffix, '^(, *[^, ]+)(.*)')
+    if loc then
+      _locator = _locator .. loc
+      _suffix = remaining
+    else
+      break
+    end
+  end
+
+  if _locator ~= '' then
+    if _suffix == '' then
+      _suffix = nil
+    end
+
+    _locator = _locator:gsub('^, *', '')
+
+    return label, _locator, _suffix
+  end
+    
+  return nil, nil, suffix
+end
+
+function module.parse(suffix)
+  label, locator, suffix = parse(suffix)
+  if label == labels['page'] then
+    label = nil
+  end
+  return label, locator, suffix
 end
 
 return module
+
 end
 end
 
@@ -101,6 +174,7 @@ return {
 	newparser = sax.newparser,
 	newfileparser = sax.newfileparser,
 }
+
 end
 end
 
@@ -622,6 +696,7 @@ local function newdecoder()
 end
 
 return newdecoder
+
 end
 end
 
@@ -813,6 +888,7 @@ local function newencoder()
 end
 
 return newencoder
+
 end
 end
 
@@ -1350,9 +1426,7 @@ local function newparser(src, saxtbl)
 		sax_startarray()
 
 		spaces()
-		if byte(json, pos) == 0x5D then  -- check closing bracket ']' which means the array empty
-			pos = pos+1
-		else
+		if byte(json, pos) ~= 0x5D then  -- check closing bracket ']' which means the array empty
 			local newpos
 			while true do
 				f = dispatcher[byte(json, pos)]  -- parse value
@@ -1397,9 +1471,7 @@ local function newparser(src, saxtbl)
 		sax_startobject()
 
 		spaces()
-		if byte(json, pos) == 0x7D then  -- check closing bracket '}' which means the object empty
-			pos = pos+1
-		else
+		if byte(json, pos) ~= 0x7D then  -- check closing bracket '}' which means the object empty
 			local newpos
 			while true do
 				if byte(json, pos) ~= 0x22 then
@@ -1538,6 +1610,7 @@ return {
 	newparser = newparser,
 	newfileparser = newfileparser
 }
+
 end
 end
 
@@ -1552,10 +1625,13 @@ function module.tablelength(T)
   return count
 end
 
-module.id_number = 0
-function module.next_id(length)
-  module.id_number = module.id_number + 1
-  return string.format(string.format('%%0%dd', length), module.id_number)
+math.randomseed(os.clock()^5)
+function module.random_id(length)
+  local id = ''
+  for i = 1, length do
+    id = id .. string.char(math.random(97, 122))
+  end
+  return id
 end
 
 local function url_encode_char(chr)
@@ -1568,15 +1644,11 @@ function module.urlencode(str)
 end
 
 function module.xmlescape(str)
-  return string.gsub(str, '[<>&]', { ['&'] = '&amp;', ['<'] = '&lt;', ['>'] = '&gt;' })
-end
-
-function module.xmlattr(str)
   return string.gsub(str, '["<>&]', { ['&'] = '&amp;', ['<'] = '&lt;', ['>'] = '&gt;', ['"'] = '&quot;' })
 end
 
 function module.trim(s)
-  return s:gsub("^%s*(.-)%s*$", "%1")
+  return (s:gsub("^%s*(.-)%s*$", "%1"))
 end
 
 function module.deepcopy(orig)
@@ -1594,28 +1666,8 @@ function module.deepcopy(orig)
   return copy
 end
 
-function module.dump(o)
-   if type(o) == 'table' then
-      local s = '{ '
-      for k,v in pairs(o) do
-         if type(k) ~= 'number' then k = '"'..k..'"' end
-         s = s .. '['..k..'] = ' .. module.dump(v) .. ','
-      end
-      return s .. '} '
-   else
-      return tostring(o)
-   end
-end
-
-
-function module.trim(s)
-  if s == nil then
-    return s
-  end
-  return (s:gsub("^%s*(.-)%s*$", "%1"))
-end
-
 return module
+
 end
 end
 
@@ -1633,6 +1685,31 @@ local state = {
 }
 
 module.citekeys = {}
+
+function module.authors(csl)
+  if csl.author == nil then
+    return nil
+  end
+
+  local authors = {}
+  local author
+  for _, author in ipairs(csl.author) do
+    if author.literal ~= nil then
+      table.insert(authors, author.literal)
+    elseif author.family ~= nil then
+      table.insert(authors, author.family)
+    end
+  end
+  if utils.tablelength(authors) == 0 then
+    return nil
+  end
+  local last = table.remove(authors)
+  if utils.tablelength(authors) == 0 then
+    return last
+  end
+  authors = table.concat(authors, ', ')
+  return table.concat({ authors, last }, ' and ')
+end
 
 local function load_items()
   if state.fetched ~= nil then
@@ -1653,19 +1730,15 @@ local function load_items()
     return
   end
 
-  module.request.params.citekeys = citekeys
-  local url = module.url .. utils.urlencode(json.encode(module.request))
-  local mt, body = pandoc.mediabag.fetch(url, '.')
-  local ok, response = pcall(json.decode, body)
+  citekeys = table.concat(citekeys, ',')
+  local url = module.url .. utils.urlencode(citekeys)
+  local mt, contents = pandoc.mediabag.fetch(url, '.')
+  local ok, fetched = pcall(json.decode, contents)
   if not ok then
-    print('could not fetch Zotero items: ' .. response .. '(' .. body .. ')')
+    print('could not fetch Zotero items: ' .. contents)
     return
   end
-  if response.error ~= nil then
-    print('could not fetch Zotero items: ' .. response.error.message)
-    return
-  end
-  state.fetched = response.result
+  state.fetched = fetched
 end
 
 function module.get(citekey)
@@ -1677,25 +1750,24 @@ function module.get(citekey)
 
   if state.fetched.errors[citekey] ~= nil then
     state.reported[citekey] = true
-    if state.fetched.errors[citekey] == 0 then
-      print('@' .. citekey .. ': not found')
-    else
-      print('@' .. citekey .. ': duplicates found')
-    end
+    print('@' .. citekey .. ': ' .. state.fetched.errors[citekey])
     return nil
   end
 
   if state.fetched.items[citekey] == nil then
     state.reported[citekey] = true
-    print('@' .. citekey .. ' not in Zotero')
+    print('@' .. citekey .. ' not found')
     return nil
   end
-
-  return state.fetched.items[citekey]
+  
+  return state.fetched.items[citekey], state.fetched.zotero[citekey]
 end
 
 return module
+
 end
+end
+
 end
 
 --
@@ -1722,11 +1794,7 @@ end
 -- SOFTWARE.
 --
 
-if lpeg == nil then
-  print('upgrade pandoc to version 2.16.2 or later')
-  os.exit()
-end
-
+-- local pl = require('pl.pretty') -- for pl.pretty.dump
 local json = require('lunajson')
 local csl_locator = require('locator')
 local utils = require('utils')
@@ -1736,13 +1804,12 @@ local zotero = require('zotero')
 local config = {
   client = 'zotero',
   scannable_cite = false,
-  csl_style = 'apa',
+  csl_style = nil, -- more to document than anything else -- Lua does not store nils in tables
   format = nil, -- more to document than anything else -- Lua does not store nils in tables
-  transferable = false,
-  sorted = true,
+  transferable = false
 }
 
--- -- bibliography marker generator -- --
+-- -- -- bibliography marker generator -- -- --
 function zotero_docpreferences_odt(csl_style)
   return string.format(
     '<data data-version="3" zotero-version="5.0.89">'
@@ -1768,7 +1835,7 @@ local function zotero_bibl_odt_banner()
     .. '<text:p text:style-name="Bibliography_20_1">'
     .. 'The Zotero citations in this document have been converted to a format'
     .. 'that can be safely transferred between word processors. Open this'
-    .. 'document in a supported word processor and press Refresh in the ' .. config.client
+    .. 'document in a supported word processor and press Refresh in the Zotero'
     .. 'plugin to continue working with the citations.'
     .. '</text:p>'
 
@@ -1788,7 +1855,7 @@ local function zotero_bibl_odt()
     error('zotero_bibl_odt: This should not happen')
   end
 
-  local message = '<Bibliography: Do ' .. config.client .. ' Refresh>'
+  local message = '<Bibliography: Do Zotero Refresh>'
   local bib_settings = '{"uncited":[],"omitted":[],"custom":[]}'
 
   if config.transferable then
@@ -1810,102 +1877,64 @@ local function zotero_bibl_odt()
       .. utils.xmlescape(message)
       .. '</text:p>'
       ..'</text:section>',
-    'ZOTERO_BIBL ' .. utils.xmlattr(bib_settings) .. ' CSL_BIBLIOGRAPHY' .. ' RND' .. utils.next_id(10))
+    'ZOTERO_BIBL ' .. utils.xmlescape(bib_settings) .. ' CSL_BIBLIOGRAPHY' .. ' RND' .. utils.random_id(10))
 end
 
--- -- -- citation marker generators -- -- --
-
-function clean_csl(item)
-  local cleaned = { }
-  for k, v in pairs(item) do cleaned[k] = v end
-  cleaned.custom = nil
-  return setmetatable(cleaned, getmetatable(item))
-end
-
-function stringify(node)
-  local html = pandoc.write(pandoc.Pandoc({ node }), 'html')
-    :gsub('\n', ' ')
-    :gsub('<u>', '<i>')
-    :gsub('</u>', '</i>')
-    :gsub('<em>', '<i>')
-    :gsub('</em>', '</i>')
-    :gsub('<strong>', '<b>')
-    :gsub('</strong>', '</b>')
-    :gsub('<span class="smallcaps">', '<span style="font-variant:small-caps;">')
-    :gsub('<p>', '')
-    :gsub('</p>', '')
-  if pandoc.utils.stringify(node):match('^%s') then
-    html = ' ' .. html
-  end
-  return html
-end
-
+-- -- -- citation market generators -- -- --
 local function zotero_ref(cite)
-  local content = stringify(cite.content)
+  local content = pandoc.utils.stringify(cite.content)
   local csl = {
-    citationID = utils.next_id(8),
+    citationID = utils.random_id(8),
     properties = {
-      unsorted = not config.sorted,
       formattedCitation = content,
-      plainCitation = nil, -- otherwise we get a barrage of "you have edited this citation" popups
+      plainCitation = nil, -- effectively the same as not including this like -- keep an eye on whether Zotero is OK with this missing. Maybe switch to a library that allows json.null
       -- dontUpdate = false,
       noteIndex = 0
     },
     citationItems = {},
     schema = "https://github.com/citation-style-language/schema/raw/master/csl-citation.json"
   }
-  local author_in_text = ''
-
-  notfound = false
   for k, item in pairs(cite.citations) do
-    local itemData = zotero.get(item.id)
+    local itemData, zoteroData = zotero.get(item.id)
     if itemData == nil then
-      notfound = true
-    else
-
-      local citation = {
-        id = itemData.custom.itemID,
-        uris = { itemData.custom.uri },
-        -- uri = { zoteroData.uri },
-        itemData = clean_csl(itemData),
-      }
-
-      if item.mode == 'AuthorInText' then -- not formally supported in Zotero
-        if config.author_in_text then
-          local authors = itemData.custom.author
-          if authors == nil or authors == '' then
-            return cite
-          else
-            author_in_text = pandoc.utils.stringify(pandoc.Str(authors)) .. ' '
-            author_in_text = '<w:r><w:t xml:space="preserve">' .. utils.xmlescape(author_in_text) .. '</w:t></w:r>'
-            citation['suppress-author'] = true
-          end
-        else
-          return cite
-        end
-      end
-
-      if item.mode == 'SuppressAuthor' then
-        citation['suppress-author'] = true
-      end
-      citation.prefix = stringify(item.prefix):gsub('\194\160', ' ')
-      local label, locator, suffix = csl_locator.parse(stringify(item.suffix):gsub('\194\160', ' '))
-      if suffix and suffix ~= '' then citation.suffix = suffix end
-      if label and label ~= '' then citation.label = label end
-      if locator and locator ~= '' then citation.locator = locator end
-
-      table.insert(csl.citationItems, citation)
+      return cite
     end
-  end
 
-  if notfound then
-    return cite
+    if item.mode == 'AuthorInText' then -- not formally supported in Zotero
+      if config.author_in_text then
+        local authors = zotero.authors(itemData)
+        if authors == nil then
+          return cite
+        else
+          return pandoc.Str(authors)
+        end
+      else
+        return cite
+      end
+    end
+    local citation = {
+      id = zoteroData.itemID,
+      uris = { zoteroData.uri },
+      uri = { zoteroData.uri },
+      itemData = itemData,
+    }
+
+    if item.mode == 'SuppressAuthor' then
+      citation['suppress-author'] = true
+    end
+    citation.prefix = pandoc.utils.stringify(item.prefix)
+    local label, locator, suffix = csl_locator.parse(pandoc.utils.stringify(item.suffix))
+    citation.suffix = suffix
+    citation.label = label
+    citation.locator = locator
+
+    table.insert(csl.citationItems, citation)
   end
 
   local message = '<Do Zotero Refresh: ' .. content .. '>'
 
   if config.format == 'docx' then
-    local field = author_in_text .. '<w:r><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:instrText xml:space="preserve">'
+    local field = '<w:r><w:fldChar w:fldCharType="begin"/></w:r><w:r><w:instrText xml:space="preserve">'
     field = field .. ' ADDIN ZOTERO_ITEM CSL_CITATION ' .. utils.xmlescape(json.encode(csl)) .. '   '
     field = field .. '</w:instrText></w:r><w:r><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:noProof/></w:rPr><w:t>'
     field = field .. utils.xmlescape(message)
@@ -1914,7 +1943,7 @@ local function zotero_ref(cite)
     return pandoc.RawInline('openxml', field)
   else
     if config.transferable then
-      local field = author_in_text
+      local field = ''
         .. '<text:a xlink:type="simple" xlink:href="https://www.zotero.org/" text:style-name="Internet_20_link">'
         .. 'ITEM CSL_CITATION '
         .. utils.xmlescape(json.encode(csl))
@@ -1922,8 +1951,8 @@ local function zotero_ref(cite)
       return pandoc.RawInline('opendocument', field)
     end
 
-    csl = 'ZOTERO_ITEM CSL_CITATION ' .. utils.xmlattr(json.encode(csl)) .. ' RND' .. utils.next_id(10)
-    local field = author_in_text .. '<text:reference-mark-start text:name="' .. csl .. '"/>'
+    csl = 'ZOTERO_ITEM CSL_CITATION ' .. utils.xmlescape(json.encode(csl)) .. ' RND' .. utils.random_id(10)
+    local field = '<text:reference-mark-start text:name="' .. csl .. '"/>'
     field = field .. utils.xmlescape(message)
     field = field .. '<text:reference-mark-end text:name="' .. csl .. '"/>'
 
@@ -1962,34 +1991,16 @@ local function scannable_cite(cite)
       s, e, ug, id, key = string.find(citation.uri, 'http://zotero.org/(%w+)/(%w+)/items/(%w+)')
     end
 
-    local shortlabel = {
-      book = 'bk.',
-      chapter = 'chap.',
-      column = 'col.',
-      figure = 'fig.',
-      folio = 'fol.',
-      number = 'no.',
-      line = 'l.',
-      note = 'n.',
-      opus = 'op.',
-      page = 'p.',
-      paragraph = 'para.',
-      part = 'pt.',
-      section = 'sec.',
-      ['sub verbo'] = 's.v.',
-      verse = 'v.',
-      volume = 'vol.',
-    }
-    local label, locator, suffix = csl_locator.parse(stringify(item.suffix))
-    if label then
-      locator = shortlabel[label] .. ' ' .. locator
+    local label, locator, suffix = csl_locator.parse(pandoc.utils.stringify(item.suffix))
+    if locator then
+      locator = (label or 'p.') .. ' ' .. locator
     else
       locator = ''
     end
 
     citations = citations ..
-      '{ ' .. (stringify(item.prefix) or '') ..
-      ' | ' .. suppress .. utils.trim(string.gsub(stringify(cite.content) or '', '[|{}]', '')) ..
+      '{ ' .. (pandoc.utils.stringify(item.prefix) or '') ..
+      ' | ' .. suppress .. utils.trim(string.gsub(pandoc.utils.stringify(cite.content) or '', '[|{}]', '')) ..
       ' | ' .. locator ..
       ' | ' .. (suffix or '') ..
       ' | ' .. (ug == 'groups' and 'zg:' or 'zu:') .. id .. ':' .. key .. ' }'
@@ -2043,19 +2054,13 @@ function Meta(meta)
 
   if meta.zotero['csl-style'] ~= nil then
     config.csl_style = pandoc.utils.stringify(meta.zotero['csl-style'])
-    if config.csl_style == 'apa7' then
-      config.csl_style = 'apa'
-    end
   end
 
   config.transferable = test_boolean('transferable', meta.zotero['transferable'])
 
   -- refuse to create a transferable document, when csl style is not specified
   if config.transferable and not config.csl_style then
-    error('Transferable documents need a CSL style')
-  end
-  if config.transferable and not config.scannable_cite then
-    error('Scannable-cite documents are not transferable')
+    error('transferable documents need a CSL style')
   end
 
   if type(meta.zotero.client) == 'nil' then -- should never happen as the default is 'zotero'
@@ -2066,30 +2071,26 @@ function Meta(meta)
   config.client = meta.zotero.client
 
   if config.client == 'zotero' then
-    zotero.url = 'http://127.0.0.1:23119/better-bibtex/json-rpc?'
+    zotero.url = 'http://127.0.0.1:23119/better-bibtex/export/item?pandocFilterData=true'
   elseif config.client == 'jurism' then
-    zotero.url = 'http://127.0.0.1:24119/better-bibtex/json-rpc?'
+    zotero.url = 'http://127.0.0.1:24119/better-bibtex/export/item'
   end
 
-  zotero.request = {
-    jsonrpc = "2.0",
-    method = "item.pandoc_filter",
-    params = {
-      style = config.csl_style or 'apa',
-    },
-  }
   if string.match(FORMAT, 'odt') and config.scannable_cite then
     -- scannable-cite takes precedence over csl-style
     config.format = 'scannable-cite'
-    zotero.request.params.asCSL = false
+    zotero.url = zotero.url .. '&translator=jzon'
+    csl_locator.short_labels()
   elseif string.match(FORMAT, 'odt') or string.match(FORMAT, 'docx') then
     config.format = FORMAT
-    zotero.request.params.asCSL = true
+    zotero.url = zotero.url .. '&translator=json'
   end
 
   if type(meta.zotero.library) ~= 'nil' then
-    zotero.request.params.libraryID = meta.zotero.library
+    zotero.url = zotero.url .. '&library=' .. utils.urlencode(meta.zotero.library)
   end
+
+  zotero.url = zotero.url .. '&citationKeys='
 
   if config.format == 'odt' and config.csl_style then
     -- These will be added to the document metadata by pandoc automatically
@@ -2151,4 +2152,3 @@ return {
   { Div = Div },
   { Doc = Doc },
 }
-
