@@ -10,29 +10,31 @@ categories: chapter
 title: 2. Literature Review
 
 ---
-
 - <a href="#literature-review" id="toc-literature-review">Literature
   Review</a>
   - <a href="#research-questions-april-2025"
     id="toc-research-questions-april-2025">Research Questions April 2025</a>
   - <a href="#introduction" id="toc-introduction">Introduction</a>
   - <a
-    href="#a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp"
-    id="toc-a-review-of-relevant-research-informing-computer-game-design-and-programming-cgdp">A
-    review of relevant research informing computer game design and
-    programming (CGD&amp;P)</a>
+    href="#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding"
+    id="toc-a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding">A
+    review of research on CGD&amp;P and constructionist approaches to
+    learning computer coding</a>
     - <a href="#the-benefits-of-computer-game-design-and-programming-cgdp"
       id="toc-the-benefits-of-computer-game-design-and-programming-cgdp">The
       benefits of computer game design and programming (CGD&amp;P)</a>
     - <a href="#an-overview-of-constructionist-approaches"
       id="toc-an-overview-of-constructionist-approaches">An overview of
       constructionist approaches</a>
+      - <a href="#microworlds-as-both-toolset-and-pedagogy"
+        id="toc-microworlds-as-both-toolset-and-pedagogy">Microworlds as both
+        toolset and pedagogy</a>
       - <a href="#constructionist-design-heuristics"
         id="toc-constructionist-design-heuristics">Constructionist design
         heuristics</a>
-      - <a href="#coding-clubhouses-family-creative-learning"
-        id="toc-coding-clubhouses-family-creative-learning">Coding club(houses)
-        &amp; Family Creative Learning</a>
+      - <a href="#coding-clubhouses-and-cultural-programmes"
+        id="toc-coding-clubhouses-and-cultural-programmes">Coding clubhouses and
+        cultural programmes</a>
       - <a
         href="#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency"
         id="toc-constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency">Constructionist
@@ -74,15 +76,14 @@ title: 2. Literature Review
     - <a href="#pair-programming-socialcollaborative-coding--"
       id="toc-pair-programming-socialcollaborative-coding--">Pair programming
       &amp; social/collaborative coding -</a>
+    - <a href="#coding-clubs" id="toc-coding-clubs">Coding clubs:</a>
     - <a href="#game-competitions" id="toc-game-competitions">Game
       competitions</a>
-    - <a href="#uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam"
-      id="toc-uk-coding-clubs-code-club-coder-dojo-and-raspberry-jam">UK
-      coding clubs: Code Club, Coder Dojo and Raspberry Jam</a>
     - <a href="#educational-game-jams"
       id="toc-educational-game-jams">Educational Game Jams</a>
-    - <a href="#the-fifth-dimension" id="toc-the-fifth-dimension">The Fifth
-      Dimension</a>
+    - <a href="#the-fifth-dimension-connected-learning-approaches"
+      id="toc-the-fifth-dimension-connected-learning-approaches">The Fifth
+      Dimension &amp; Connected Learning approaches</a>
   - <a href="#design-patterns" id="toc-design-patterns">Design patterns</a>
     - <a
       href="#using-collections-of-gameplay-design-patterns-within-design-education"
@@ -115,7 +116,6 @@ title: 2. Literature Review
         Questions</a>
     - <a href="#link-to-the-next-chapter"
       id="toc-link-to-the-next-chapter">Link to the next chapter</a>
-
 # Literature Review
 
 ## Research Questions April 2025
@@ -855,18 +855,11 @@ As a former volunteer, I confess I didn't share my learning resources beyond loc
 
 ### Game competitions
 
-Competitions or challenges can be used to bridge to worlds of work and expertise outside of the classroom or beyond the bounds of the informal space.
+The role of competitions or challenges to design for an external audience can motivate students [@kafai_what_2012; @kafai_motivating_2014] and may to bridge to worlds of work and expertise outside of the classroom or beyond the bounds of the informal space.
 
+From 2010 to the present day there have been a variety of coordinated online competitions either from entrepreneurial organisations like the Globey award from Globaloria, from foundations (e.g. Games for Change) or from public bodies (e.g. STEM Video Game Design Challenge sponsored by the White House in the US) [@kafai_social_2013]
 
-It is also available in specialist coding websites and communities like Scratch, although not on an on going basis.
-- Research on competitions in Scratch community, [@kafai_motivating_2014; @kafai2011collaboration]
-- Games for change https://gamesforchange.org/studentchallenge/
-
-
-And themed games for change competitions.
-And via
-
-ADD THE KAFAI REVIEW ASPECT - GLOBALORIA ETC.
+An example of a challenge which has been researched is that of the Collab challenge as part of the Scratch online communities  community, [@kafai_motivating_2014; @kafai2011collaboration]
 
 
 Critique of competitions [@thumlert2018learning] is that the values of the competitions are largely embraced uncritically rather than developing and transforming practices of the learning site itself. Also there is a danger of inequality of access explored above.
@@ -876,11 +869,12 @@ This is present in a UK context in computing domain via Coolest project which ta
 There is a guide provide by research on the Coolest Project which contains case studies [@quinlan_how_2018],
 This is referenced in work by Quinlan and Sentance [@quinlan2020ideas]  on entry points.
 
-Beyond this guide, the challenge provides structure in the use of themeed categories which guide participation.
-
+Beyond this guide, the challenge provides structure in the use of themed categories which guide participation for example in the Coolest Project the themes of 2025 were: Scratch, Games, Web, Mobile apps, Hardware, Advanced  programming, Artificial Intelligence. And
 Another format of challenge which also provides support is that of the game jam.
 
 
+
+Some game making competitions draw on the wider concept of a game jam to help structure the process of making a game.
 
 ### Educational Game Jams
 
@@ -890,15 +884,25 @@ which has supporting resources. https://ggjnext.org/curriculum/
 And linked to G4c which has a jam guide
 https://gamesforchange.org/studentchallenge/wp-content/uploads/2025/02/G4C-STUDENT-CHALLENGE-GAME-JAM-GUIDE_updated-1-13-25.pdf
 
+Game Jams are an accelerated production methods, like code sprint or Hackathons, they characterise by an accelerated production ethos, creative collaboration and innovation [@arya_international_2013; @gabler2005prototype].  Participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. While the premise game jams is to promote collaboration, events are inconsistent in their support and scaffolding of collaborative approaches although a frequent feature is the use of playful constraints to accelerate creativity (e.g playful game themes)  [@goddard_playful_2014]. Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021]. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013].
 
-Game Jams are accelerated events encouraging creative collaboration and innovation. While the event's premise is to promote collaboration, these events are inconsistent in their support and scaffolding of collaborative approaches [@goddard_playful_2014]. Game jams often prize innovation and originality. Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these).
+An influential source of an education process of jams is the called the Moveable Game Jam (MGJ) and its guide [@games_for_change_get_2017], created by a collective of New York educators and educational foundations [^1]. The jam guide employ playful methods to increase inclusivity of the process.  To address some of the inclusivity concerns of adult game jams format adaptations have been made. MGJ can be applied in a shorter time-frame, emphasises low-cost and both digital and analogue offline game production. It uses loosely structured activities and broad goals allowing for significant learner agency.  The MGJ process communicate fundamentals concepts of game design process to participants. To achieve this there is periodic facilitator checking of participant projects the use of extensive playtesting in the process. MGJ appears to be the one of the first resources to focus on using game elements as a pedagogical approach; space, goal, components, mechanics and rules [@games_for_change_get_2017], one which has been adopted by other game jams and competitions.   
 
-Educational Game Jams share share similar motivations to game competitions. Game Jams are an accelerated production methods, like code sprint or Hackathons, they characterise by a time constrained, accelerated production ethos. Game jams draw on rapid prototyping processes, and from  hackathons they add constraints to accelerate creativity [@arya_international_2013; @gabler2005prototype]. participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013]. Eberhardt [-@eberhardt_no_2016, p. 3], identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience . Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001].
-
-The Moveable Game Jam [@games_for_change_get_2017], a process created a collective of New York educators, can be situated on the playful side of the spectrum. To address some of the inclusivity concerns with the format adaptations have been made. MGJ can be applied in a shorter time-frame, emphasises low-cost and both digital and analogue offline game production. It uses loosely structured activities and broad goals allowing for significant learner agency. Conversely, there are element of a more structured approaches in the steering of game outputs towards particular social goals.  The motivation is to communicate fundamentals concepts of game design process to participants, in particular, the following interrelated game elements; space, goal, components, mechanics and rules.  [LOCATE THIS SOURCE],  To achieve this there is periodic facilitator checking of the fundamental concepts previously mentioned and the use of extensive playtesting in the process.
+Arya and colleagues [@arya_ggj-next_2019] note the limits of the Moveable Game Jam in terms of small scale in research which outlines the development of a online centrally coordinated approach of the Global Game Jam and a youth programme launched in 2018.
 
 
-The area of improvisation is underexplored in the game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020].
+Recently  Global Games Jam Next programme the has partnered with the Game for Change game making competition. Both organisations have updated documentation based on the MGJ ethos, to help educators to run a game jam or to support novice makers take part in competitions.
+
+The techniques include analyse the component parts of games, using non-digital games, the use of playful roles within game making,
+
+
+
+<!-- Eberhardt [-@eberhardt_no_2016, p. 3], identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience . Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. -->
+
+
+
+
+<!-- The area of improvisation is underexplored in the game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. -->
 
 
 
@@ -919,16 +923,17 @@ The area of improvisation is underexplored in the game jam context compared to t
 
 
 
-### The Fifth Dimension
+### The Fifth Dimension & Connected Learning approaches
 
 <!-- COLE AND GUTIERREZ -->
+
+In this section a collection of
 
 The work of Cole and Gutiérrez bears investigation due to its similarity in context and aim to this study. Specifically the grouping of similar 5D interventions were focused on addressing equity in a technology rich environment in a non-formal setting.
 
 A case study from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
 
 The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
-
 
 
 In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
@@ -1262,3 +1267,6 @@ As outline in Chapter one, these elements are address using the following resear
 ### Link to the next chapter
 
 Having explored the remit of the problem statement, and the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, pedagogy and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
+
+
+[^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
