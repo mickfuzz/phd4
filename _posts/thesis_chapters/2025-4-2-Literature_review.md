@@ -792,6 +792,8 @@ As such, it leaves to one side extensive programmes which provide instruction ba
 
 ### Pair programming & social/collaborative coding -
 
+One pedagogy relatively well explored in CGD&P research is that of pair and peer programming.
+
 Role of community feedback within playtesting
 
 Pair programming, a common industry practice has recieved attention in educational contexts [@hanks_pair_2011]. Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved.
@@ -820,11 +822,41 @@ and Use of game design patterns [@werner_computational_2020]
 <!-- FCL worked to expose limits to the online resources and communities. -->
 
 
+###  Coding clubs:
+
+Drawing on early legacy of the computer clubhouse work by Papert in Boston described above...
+
+Three similar  volunteer based projects started around the 2012-2014  namely,  Code Club, Coder Dojo and Raspberry Jam. They share: a grass roots approach drawing on enthusiasts.
+
+<!-- A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. But have struggled to maintain the skilled volunteer input imagined at the start of the program (SO what?) -->
+
+
+They have not been extensively researched.
+
+Research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019],
+This may indicate that volunteers use a more responsive, less-structured approach.
+
+All three projects have been subsumed into the RPI foundation, which offers the following types of support.
+
+A report on pedagogies from Waite and Sentence [@waite_teaching_2021], focuses on school... but -  input relevant parts here.
+
+Challenges of clubs include the lack of focus of mostly unguided interactions.
+
+To address the challenge of focus, some clubs may follow guided programs or competitions. An example involving game making would be that of like that of Globaloria which offers guidance,
+
+These provide more structured resources and guidance may be linked ot showcase sites or challenges and competitions.
+
+<!-- raising issues of how much it is optimal for support to be concentrated in one organisation.  -->
+<!-- Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
+As a former volunteer, I confess I didn't share my learning resources beyond local network of voluteers onto that wikis. -->
+
+
+
+
 ### Game competitions
 
 Competitions or challenges can be used to bridge to worlds of work and expertise outside of the classroom or beyond the bounds of the informal space.
 
-This is present in a UK context in computing domain via Coolest project.  
 
 It is also available in specialist coding websites and communities like Scratch, although not on an on going basis.
 - Research on competitions in Scratch community, [@kafai_motivating_2014; @kafai2011collaboration]
@@ -839,31 +871,25 @@ ADD THE KAFAI REVIEW ASPECT - GLOBALORIA ETC.
 
 Critique of competitions [@thumlert2018learning] is that the values of the competitions are largely embraced uncritically rather than developing and transforming practices of the learning site itself. Also there is a danger of inequality of access explored above.
 
-###  UK coding clubs: Code Club, Coder Dojo and Raspberry Jam
+This is present in a UK context in computing domain via Coolest project which targets Coder Dojos in particular as an audience.
 
-Drawing on early legacy of the computer clubhouse work by Papert in Boston described above...
+There is a guide provide by research on the Coolest Project which contains case studies [@quinlan_how_2018],
+This is referenced in work by Quinlan and Sentance [@quinlan2020ideas]  on entry points.
 
-Three similar but distinct strands of volunteer based projects started around the hot zone of 2012-2014 explored in the introduction.  While, it is beyond the remit to explore all three similar models in detail, that would be interesting.
+Beyond this guide, the challenge provides structure in the use of themeed categories which guide participation.
 
-They share: a grass roots approach drawing on enthusiasts.
-
-A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. But have struggled to maintain the skilled volunteer input imagined at the start of the program (SO what?)
-
-All three projects have been subsumed into the RPI foundation raising issues of how much it is optimal for support to be concentrated in one organisation. MORE CONTEXT THAN PEDAGOGY
-
-They were not extensively researched during the point of more grass roots
-
-Although research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019], presumably preferring an less-structured approach, which is not centrally supported or seemingly documented locally.
-
-<!-- Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
-As a former volunteer, I confess I didn't share my learning resources beyond local network of voluteers onto that wikis. -->
-
-
-
+Another format of challenge which also provides support is that of the game jam.
 
 
 
 ### Educational Game Jams
+
+Global game Jam Next - https://ggjnext.org/
+which has supporting resources. https://ggjnext.org/curriculum/
+
+And linked to G4c which has a jam guide
+https://gamesforchange.org/studentchallenge/wp-content/uploads/2025/02/G4C-STUDENT-CHALLENGE-GAME-JAM-GUIDE_updated-1-13-25.pdf
+
 
 Game Jams are accelerated events encouraging creative collaboration and innovation. While the event's premise is to promote collaboration, these events are inconsistent in their support and scaffolding of collaborative approaches [@goddard_playful_2014]. Game jams often prize innovation and originality. Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021], although there is scant guidance on how to address potentially problematic issues (list these).
 
