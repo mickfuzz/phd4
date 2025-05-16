@@ -942,7 +942,7 @@ In addition to important similarities of context, the goal of the 5th D in terms
 
 Originally to address reading deficits [@cole2014designing], also addressing alienation of women and girls from STEM subjects [@cole1987contextual], the importance of designing intervention to nurture participants formation of identities in evolving idiocultures became an important aspect of the work.
 
-This strand on culture formation was continued by Gutiérrez  who led a 5D interventions called Las Redes[@scott_nixon_digital_2012], and  El Pueblo Mágico [@gutierrez_learning_2019-1] contributed in the line of understandings of idioculture. In Las Redes, the multi-lingual cultrual environment was important.
+This strand on culture formation was continued by Gutiérrez  who led a 5D interventions called Las Redes[@scott_nixon_digital_2012], and  El Pueblo Mágico [@gutierrez_learning_2019-1] contributed in the line of understandings of idioculture. In Las Redes, the multi-lingual cultural environment was important.
 
 Play as a leading activity in El Pueblo Mágico [@gutierrez_learning_2019-1]
 
@@ -951,7 +951,7 @@ Horizontal expertise [@gutierrez2014integrative]
 Reconnecting to connected learning alliance in intro. See case study  [@ito2013connected]
 
 The 5D approach  also highlight important elements of the theoretical framework to be treated in the following chapter.  
-Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the compexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
+Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the complexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
 
 Gutiérrez [@gutierrez_developing_2008] identifies the vital role of learning designers to facilitate th  the movement of identity between settings' repertoires of practice  the “cultural mediation of thinking” (Moll, 1998), cited in [@digiacomo_seven_2017] p.44. is via responsive learning design.
 
