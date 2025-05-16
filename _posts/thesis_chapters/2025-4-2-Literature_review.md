@@ -604,6 +604,18 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
 
 
+
+### Half-baked games
+
+The use of half-baked (incomplete) games draws on the approaches of as Microworlds and UMC stages using games as starting products [@kynigos_half-baked_2007]. This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism_1991; @papert_mindstorms_1980].
+
+
+'Half-baked' games, a term proposed by Kynigos and colleagues [@kynigos_half-baked_2007; @kynigos_children_2018], are unfinished and deficient in a way which motivates learners to alter the design or code and improve it. Half-baked games should be designed to encourage malleability in directions that the learner may find interesting [@kynigos_children_2018]. To do this the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts. Here the concept of affordances is to express the delegated intention of designers to create features for users that encourage certain desired behaviours [@mcgrenere_affordances_2000]. In a key study [@kynigos_children_2018, p.2], the researched provided "tools affording them (13-15 year olds) with the role of game hackers" to alter existing game code. While Kynigos' design promoted the acquisition of computational thinking for participants. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model: specifically a progression from elements including pattern recognition associated with reading of code to more advanced examples including creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' [@kynigos_half-baked_2007, p. 336.
+
+<!-- Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge linking concepts of driving video games with scientific concepts of velocity and graph-based representations [@holbert_constructible_2014-1]
+Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], linking with core microworld concepts. -->
+
+
 #### Levels of Abstraction
 
 <!-- The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002].   -->
@@ -725,19 +737,6 @@ While attending to socio cultural approaches [@sentance_teaching_2019; @hwang_us
 
 Signpost later discussion. -->
 
-
-### Half-baked games as Microworlds
-
-Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge linking concepts of driving video games with scientific concepts of velocity and graph-based representations [@holbert_constructible_2014-1]
-Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], linking with core microworld concepts.
-
-The concept of 'half-baked' games and microworlds, proposed by Kynigos and colleagues outlines which are incomplete or somehow deficient in a way which motivates learners to delve into the code and improve it. Half-baked games can be designed in a way which encourages malleability of the code in directions that the learner may find interesting [@kynigos_half-baked_2007; @kynigos_children_2018]. Thus the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts.
-
-This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism_1991; @papert_mindstorms_1980]. While Kynigos' design promoted the acquisition of computational thinking, Microworlds can facilatate the exploration of diverse concepts [@rieber_microworlds_2004].
-
-
-
-Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model moving from elements like pattern recognition associated with reading of code to ones like a creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' 2007, p. 336).
 
 
 
@@ -1055,7 +1054,7 @@ A driving pedagogical approach was the use of a _project first_ rather than _pri
 
 Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work and one which many schools were not able to adopt due to time restrictions. This may account for relatively low figures for student ownership over projects. From 700 responses, only 139 (20%) indicated aspects of student ownership [@repenning_scalable_2015. P.11.10].
 
-Other limitations in the overall approach is that the programme use bespoke software created by the team which can be problematic to maintain in the long term. In additions while the resources used were classified as being just in time, a review of the supporting website shows quite lengthy instruction based resources which would be a barrier to such claims [^5]. 
+Other limitations in the overall approach is that the programme use bespoke software created by the team which can be problematic to maintain in the long term. In additions while the resources used were classified as being just in time, a review of the supporting website shows quite lengthy instruction based resources which would be a barrier to such claims [^5].
 
 
 <!-- Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants. -->
