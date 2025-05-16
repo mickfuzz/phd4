@@ -920,38 +920,50 @@ The techniques include analyse the component parts of games, using non-digital g
 <!-- The alignment here with foundational game theory of the magic circle CITE []. The value of setting up playful learning environments has been explored in the context of bringing value of informal learning to environments of higher education WHITTON []. Benefits include, the reduction of learner stress, and creating a no wrong answer environment. -->
 
 
-
-
-
-### The Fifth Dimension & Connected Learning approaches
+### Fifth Dimension interventions & Connected Learning approaches
 
 <!-- COLE AND GUTIERREZ -->
 
-In this section a collection of
+**5th Dimension**
 
-The work of Cole and Gutiérrez bears investigation due to its similarity in context and aim to this study. Specifically the grouping of similar 5D interventions were focused on addressing equity in a technology rich environment in a non-formal setting.
+**WHAT**
 
-A case study from a socio-cultural perspective is exemplified by the 5th Dimension (5D) project led by Michael Cole [@cole_design-based_2016]. This educational intervention used University support of volunteers, equipment and technical support in after-school settings in the San Diego area.
+In this section examines the characteritics and impact a collection of educational partnership called 5th Dimensions (5D) interventions using in a technology rich environment in a non-formal setting, often in after-school settings within lower income communities[@cole_design-based_2016]. Initial iterations, led by Michael Cole a leading a sociocultural researcher, and took place around San Diego University with the support of volunteers, equipment and technical support to design and help deliver a creative series of computer-based playful activities.
+
+**why**
+
+Originally to address reading deficits [@cole2014designing], also addressing alienation of women and girls from STEM subjects [@cole1987contextual], the importance of designing intervention to nurture participants formation of identities in evolving idiocultures became an important aspect of the work.
+
+The goal of the 5th D in terms of diversity and inclusion is significant.
+
+The 5D approach  also highlight the importance, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the complexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
+
+
+
+**how**
 
 The intervention introduced a fictional narrative to create a shared 'project' for the different participants involved to promote a shared understanding of the work via intentional goal setting [@brown_cultural_2008].
 
 
-In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities. In similar approach to Heathcote's Mantle of the Expert, roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
+In the 5D intervention, a narrative fiction of a 'wizard' to rapidly construct a shared sense of the guiding activities.
 
-In addition to important similarities of context, the goal of the 5th D in terms of diversity and inclusion is significant. It is also significant that different formulations and local cultures with settings (described as idiocultures [@valsiner_cultural-historical_2007]), in a way which is responsive to the interests and needs of different settings.
+roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice.
 
-Originally to address reading deficits [@cole2014designing], also addressing alienation of women and girls from STEM subjects [@cole1987contextual], the importance of designing intervention to nurture participants formation of identities in evolving idiocultures became an important aspect of the work.
+It is also significant that different formulations and local cultures with settings (described as idiocultures [@valsiner_cultural-historical_2007]), in a way which is responsive to the interests and needs of different settings.
 
-This strand on culture formation was continued by Gutiérrez  who led a 5D interventions called Las Redes[@scott_nixon_digital_2012], and  El Pueblo Mágico [@gutierrez_learning_2019-1] contributed in the line of understandings of idioculture. In Las Redes, the multi-lingual cultural environment was important.
+
+This strand on culture formation was continued by Gutiérrez  who led a 5D interventions called Las Redes[@scott_nixon_digital_2012], and  El Pueblo Mágico [@gutierrez_learning_2019-1] contributed in the line of understandings of development of site specific culture. In Las Redes, the multi-lingual cultural environment was important.
 
 Play as a leading activity in El Pueblo Mágico [@gutierrez_learning_2019-1]
 
+
+
+
+#### Connected Learning Programme
+
+Some of the ideas emerging from the 5D programme were amplified through their incorporation within an approach called connected learning [@ito2013connected], a project to which Kris Gutiérrez contributed.
+
 Horizontal expertise [@gutierrez2014integrative]
-
-Reconnecting to connected learning alliance in intro. See case study  [@ito2013connected]
-
-The 5D approach  also highlight important elements of the theoretical framework to be treated in the following chapter.  
-Specifically, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the complexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
 
 Gutiérrez [@gutierrez_developing_2008] identifies the vital role of learning designers to facilitate th  the movement of identity between settings' repertoires of practice  the “cultural mediation of thinking” (Moll, 1998), cited in [@digiacomo_seven_2017] p.44. is via responsive learning design.
 
@@ -959,9 +971,6 @@ However, while this line of research was rich in case studies, but general in na
 A wider questions, how to operationalise this broader approach of connected learning and movement between learning spaces as a specific pedagogy in a code club, non-formal environment.  
 
 This line of thought invites a turn to address to gaps in research / problem statement.
-
-Also explored in SDBEs
-
 
 
 <!-- In this book we have considered how mathematics might be learned in settings that resemble the Brazilian samba school, in settings that are real, socially cohesive, and where experts and novices are all learning. The samba school, although not ‘exportable’ to an alien culture, represents a set of attributes a learning environment should and could have. (Seymour Papert, Mindstorms, 1980)1 -->
