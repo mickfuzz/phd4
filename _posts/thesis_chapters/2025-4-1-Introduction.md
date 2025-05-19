@@ -314,7 +314,9 @@ HOWEVER, and link to next section.
 
 <!-- NOTE BARRIERS FROM CH 2 MOVED HERE -->
 
-This section explores relevant studies to outline the barriers to participation in CGD&P, addressing three key areas: technical barriers, access to suitable technology and environments, and issues related to identity and values.
+This section explores relevant studies to outline the barriers to participation in CGD&P, addressing three key areas: technical barriers, difficulties in structuring learning experiences, and issues related to identity and values.
+
+**technical barriers**
 
 CGD&P inherits some of the intrinsic difficulties associated with computer programming [@sentance_teaching_2019; @gomes2007learning; @joao_cross-analysis_2019]. These difficulties include the complexity of programming syntax, the challenge of understanding abstract concepts, and problems with transferring skills between different contexts [@gomes2007learning; @rahmat_major_2012]. To address these issues, specialist coding tools, such as block-based coding environments, have been developed for novice coders, particularly younger audiences. These tools aim to simplify coding syntax, project organisation, and the overall complexity of the coding environment [@yu_survey_2018]. However, this simplification creates a tension between using more authentic programming languages and relying on scaffolded, specialised approaches  [@joao_cross-analysis_2019]. Sefton-Green [-@sefton-green_mapping_2013] explores this tension in the context of digital making, contrasting Mozilla Webmaker tools (which use web languages like HTML, CSS, and JavaScript) with block-based systems like Scratch, which can obscure learners from authentic code languages.
 
@@ -322,24 +324,36 @@ CGD&P inherits some of the intrinsic difficulties associated with computer progr
 
 <!-- #### Access to  CGD&P -->
 
-Regarding access to CGD&P, one significant barrier is the inequality of access to participatory culture communities. Historically, the lack of access to the necessary technology, such as high-cost computers, was a major issue [@resnick_computer_1996]. While equipping community centres with computers may have addressed some of these concerns, technological access is only one dimension of the problem. Sefton-Green [-@sefton-green_mapping_2013] argues that motivated and capable facilitators are crucial for enabling participation, suggesting that even with improved access to equipment, many young people still face barriers. The full potential of online metagaming communities, as described by Ito and Gee [-@ito_hanging_2010; -@gee_what_2004], remains largely inaccessible to the majority. Among those who do participate, creative activities that result in finished digital products are rare, with studies such as Luther et al. [-@luther_why_2010] revealing an 80 percent failure rate in collaborative media projects within the New Grounds community.
+The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. Papert's [-@papert_mindstorms_1980] focus on reducing barriers to participation is present in his focus on the importance of exploratory play, and the careful design of learning environments to faciliate such approaches, e.g. to abstract mathematical concepts concrete through exploratory play using drawing robots controlled with a simplified text code language.
+
+<!-- For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. -->
+
+
+
+
+
+**Difficulties in structuring and accessing learning experiences**
+
+A further area of barriers to participation in CGD&P is the lack are those regarding difficulties in structuring and accessing learning experiences. For example a key review exposed a lack of specific pedagogical approaches to undertake social approaches in CGD&P [@kafai_constructionist_2015]. While existing approaches are outlined in Chapter 2, for now it is sufficient to outline broad approaches and some inherent challenges.
+
+The process of _tinkering_ in this context refers to the use of more immediate and learner-directed connection with the materials or digital artefacts together with the possibility for changes to be rapidly fed back to learners via visible results [@vossoughi_making_2015]. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully improvise a repair job [@papert_childrens_1993, p. 143].
+
+While such open-ended and exploratory approaches drive engagement [@sheridan_learning_2014], they may present challenges in completing project work if in sufficient modeling or support in problem solving and access to resources are not provided [@bevan_tinkering_2014]. While tinkering and digital making provide many opportunities to some young learners, Vossoughi et al. [-@vossoughi_making_2016] critique digital making cultures, The authours underline the need to integrate not only the values but also the cultural experiences of working-class students and students of colour into the making process.
+
+
+Another significant barrier is the inequality of access to  online digital making communities and practices. Historically, the lack of access to the necessary technology, such as high-cost computers, was a major issue [@resnick_computer_1996]. While lower costs of equipment and equipping school and  community centres have addressed some of these concerns, technological access is only one dimension of the problem. Sefton-Green [-@sefton-green_mapping_2013] suggests that even with improved access to equipment, many young people still face barriers. Among those who do participate, creative activities that result in finished digital products are rare, with studies such as Luther et al. [-@luther_why_2010] revealing an 80 percent failure rate in collaborative media projects within the New Grounds community. Thus Sefton-Green [-@sefton-green_mapping_2013] argues that motivated and capable facilitators are crucial for enabling participation. In addition, the appeal of online digital making communities, as described by Ito and Gee [-@ito_hanging_2010; -@gee_what_2004], is inconsistent due to more cultural barriers of participation.
+
+
+<!-- This perspective continues to drive constructionist design approaches supporting creative computing [@resnick_design_2005; @resnick_scratch_2009; @kafai_constructionism_1996; @kafai_constructionism_1996; @kafai_minds_1994; @lee_playing_2014; @peppler_makeology:_2016]. -->
+
+**issues related to identity and values.**
 
 Addressing barriers linked to identity and values, a key theme in CGD&P is the potential for games to increase inclusivity for those traditionally excluded from computing cultures [@kafai_beyond_2014]. There is significant potential to leverage home interests in computer games to bridge into more structured computing activities. The widespread appeal of casual and retro gaming, alongside the proliferation of retro games in popular culture, offers a rich repository of knowledge that can be utilised in various educational contexts [@moje_working_2004]. However, Kafai and Burke balance this potential with complex issues of the gender representation associated with gaming culture [@kafai_diversifying_2017].
 
-The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials.
-
-MOVED HERE - OVERALL philosophical APPROACH
-The celebration here is of pluralism rather than the culturally prevalent perspective privileging abstraction. Abstraction is not seen as undesirable, and indeed, is present in much of Papert's work. For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. Papert's focus on reducing barriers to participation is present in his focus on child-play as a leading activity rather than teacher-led instruction. This simple but radical perspective also drives some of the foundational work on Microworlds, using the LOGO language as a vehicle to make previously abstract mathematical concepts concrete through exploratory play [@papert_mindstorms_1980]. This perspective continues to drive constructionist design approaches supporting creative computing [@resnick_design_2005; @resnick_scratch_2009; @kafai_constructionism_1996; @kafai_constructionism_1996; @kafai_minds_1994; @lee_playing_2014; @peppler_makeology:_2016].
-
-
 Addressing gender-based barriers to participation, Papert and Turkle [@papert_epistemological_1990] identified some girls' alienation from abstract computing approaches. They emphasised the need for diverse teaching and learning styles to address issues surrounding the early socialisation of women and girls, advocating for the inclusion of personal and concrete working styles. Denner and colleagues [@denner_what_2008; @angelides_beyond_2014] highlighted that inclusive gender practice in game making involve allowing participants choice over both the content of their games and the dominant mode of play (game mechanics). Their findings present a nuanced view of girls' interests in game genres and support research cautioning against gender stereotyping and rigid identities in this area [@pelletier_gaming_2008]. Kafai and Burke [@kafai_beyond_2014] address gender identities within game design by advocating for the creation of new communities and learning environments that align with participants' values, rather than attempting to draw girls into existing, male-dominated spaces. Similarly, Buechley et al. [@buechley_lilypad_2008, p. 431]question, “How can we integrate computer science with activities and communities that girls and women are already engaged in?”
 
-Margolis et al. [@margolis_stuck_2008;] outlined barriers contributing to a racial gap in computing participation and achievement in the US, including feelings of isolation, limited access to computing opportunities, and a lack of social support. DiSalvo and colleagues investigated these barriers within a game testers programme, examining how an interest in computer games could motivate access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. Their findings indicated that activities should not only be engaging but also align with the underlying values of the programme’s young, African American male participants. Vossoughi et al. [-@vossoughi_making_2016] critique digital making cultures, stressing the need to integrate not only the values but also the cultural experiences of working-class students and students of colour into the making process.
+Margolis et al. [@margolis_stuck_2008;] outlined barriers contributing to a racial gap in computing participation and achievement in the US, including feelings of isolation, limited access to computing opportunities, and a lack of social support. DiSalvo and colleagues investigated these barriers within a game testers programme, examining how an interest in computer games could motivate access to computing education [@disalvo_saving_2014; @disalvo_glitch_2009-1; @disalvo_learning_2008]. Their findings indicated that activities should not only be engaging but also align with the underlying values of the programme’s young, African American male participants.
 
-There are limits and gaps in CGD&P research in terms of overcoming barriers to participation.
-One is the lack of specific pedagogical approaches to address issues of inequality of participation.
-RETURN TO [@kafai_constructionist_2015] to review.
-OTHER REVIEWS? UK IN Waite?
 
 <!-- To address issues of confidence interacting in online communities, Roque's FCL study aimed to move online community interaction into a face to face settings [-@roque_family_2016]. The use of facilitators who were trained to recognise the helping behaviours of parents. -->
 
@@ -362,11 +376,32 @@ Discussion around the launch of a new UK computing curriculum in 2013 championed
 
 #### Recap of Personal Motivations
 
-A personal motivation driving this research is to better understand my practice as an activist, community worker and practice-focused educator.  As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings. This motivation has guided me towards existing research reflect on experiences of developing agency within a non-formal communities.  In my past community training practice, I used terms like _empowerment_ and promoting learners _choice_. As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education. Instead, to help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency. This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
+A personal motivation driving this research is to better understand my practice as an activist, community worker and practice-focused educator.  Much of my experience and motivation revolved around space based approaches to learning be it at a festival, community centre, arts centre or community workshop.
 
 
+As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings.
+
+In these settings the motivations of empowerment and social change were important.
+
+Such factors are also important in this settings
+IN WHAT WAYS/ FOR WHO?
+
+To help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency.
+
+
+<!-- As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education.  -->
+
+<!-- This motivation has guided me towards existing research reflect on experiences of developing agency within a non-formal communities.   -->
+
+This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work.
+
+MOVE? WHERE?
+One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
 
 ### Connecting my experience to broader contextual themes
+
+SPACE BASED LEARNING.
+
 
 RECAP THE BROADER RESEARCH THEMES
 
@@ -693,7 +728,7 @@ The focus of this review is to identify broad streams and currents in research.
 
 Early work from Papert and Turkle addresses cultural barriers to computing culture [-@papert_epistemological_1990]. The distinction between hard and soft approaches to learning is explored particularly in studies refuting conceptions that there is a right way to do computer coding. In this context, the hard approach infers a top-down perspective, highlighting advance planning and logical deconstruction of large problems. Papert and Turkle identify the privileging of abstract thinking over concrete approaches in classroom teaching a tendency which is mirrored by recent conceptions and advancement of computational thinking as teaching ideology [@wing_computational_2008].
 
-Paper and Turkle locate different, softer but equally effective coding strategies. Soft coding suggests a more immediate and learner-directed connection with the materials or digital artefacts involved. The learner is presented as adapting a familiar set of concepts and processes to new situations and challenges as they arise as a 'tinker' might use well worn tools to skilfully bodge a repair job [@papert_childrens_1993, p. 143].
+
 
 Kafai and Peppler also address the issues of gender identities and game design [@kafai_beyond_2014] asking how to create new communities and learning environments which align with values of participants rather than aiming to break into existing ones. They propose that we ask not *How can we bring girls into the game making clubhouse* but rather *How can we build new clubhouses suitable for the interests of girls*. Two of the playful elements they suggest are textiles related technology and the promotion of more collaborative online spaces as opposed to technology competitions.
 
@@ -862,3 +897,11 @@ SAVE FOR CONCLUSION?
 ### On utility and Design-based research
 
 Design based research is not a uniform practice with set methodology but there is a general consensus in guiding principles. For Sandoval [-@sandoval_conjecture_2014], these involve joint work on a project and theoretical refinement, iterative design process involving phases of planning delivery, evaluation working towards outcomes of interest. While DBR is explored in a more nuanced way in Chapter 3, it is worth noting at this stage that it provides practical tools which are complementary with CHAT, to undertake and to represent complex learning designs taking place in authentic learning environments. In particular, DBR provides means to fulfil a key motivation of this research, to guide and to represent the evolution of a useful game making pedagogy. As remarked earlier, the format of academic research papers, even those focused on practice, often eschews methodological detail in favour of analysis and results. Hoadley notes "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself" [@hoadley_creating_2002]. To address this issue Chapter 4 of this thesis incorporates a design narrative, a process adopted from DBR, which I explain and justify in Chapters 3.
+
+
+## PARKED
+
+To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] highlighted the value of a more concrete computing pedagogy, likening the process to bricolage, a craft-based approach where participants become very familiar with their tools and materials.
+
+
+The celebration here is of pluralism rather than the culturally prevalent perspective privileging abstraction. Abstraction is not seen as undesirable, and indeed, is present in much of Papert's work. For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments.

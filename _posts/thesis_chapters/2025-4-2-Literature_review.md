@@ -10,115 +10,70 @@ categories: chapter
 title: 2. Literature Review
 
 ---
-- <a href="#literature-review" id="toc-literature-review">Literature
-  Review</a>
-  - <a href="#research-questions-april-2025"
-    id="toc-research-questions-april-2025">Research Questions April 2025</a>
-  - <a href="#introduction" id="toc-introduction">Introduction</a>
-  - <a
-    href="#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding"
-    id="toc-a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding">A
-    review of research on CGD&amp;P and constructionist approaches to
-    learning computer coding</a>
-    - <a href="#the-benefits-of-computer-game-design-and-programming-cgdp"
-      id="toc-the-benefits-of-computer-game-design-and-programming-cgdp">The
-      benefits of computer game design and programming (CGD&amp;P)</a>
-    - <a href="#an-overview-of-constructionist-approaches"
-      id="toc-an-overview-of-constructionist-approaches">An overview of
-      constructionist approaches</a>
-      - <a href="#microworlds-as-both-toolset-and-pedagogy"
-        id="toc-microworlds-as-both-toolset-and-pedagogy">Microworlds as both
-        toolset and pedagogy</a>
-      - <a href="#constructionist-design-heuristics"
-        id="toc-constructionist-design-heuristics">Constructionist design
-        heuristics</a>
-      - <a href="#coding-clubhouses-and-cultural-programmes"
-        id="toc-coding-clubhouses-and-cultural-programmes">Coding clubhouses and
-        cultural programmes</a>
-      - <a
-        href="#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency"
-        id="toc-constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency">Constructionist
-        framing of relevant learning outcomes - computational thinking and
-        dimensions of fluency and agency</a>
-      - <a
-        href="#constructionist-pedagogies---project-based-rather-than-instruction-based"
-        id="toc-constructionist-pedagogies---project-based-rather-than-instruction-based">Constructionist
-        pedagogies - Project-based rather than instruction-based</a>
-      - <a
-        href="#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research"
-        id="toc-limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research">Limitations
-        within constructionist approaches and the related field of CGD&amp;P
-        research</a>
-  - <a href="#pedagogies-to-support-game-making-via-coding"
-    id="toc-pedagogies-to-support-game-making-via-coding">Pedagogies to
-    support game making via coding</a>
-    - <a
-      href="#explicit-teaching-of-computational-thinking---principles-first"
-      id="toc-explicit-teaching-of-computational-thinking---principles-first">Explicit
-      teaching of computational thinking - Principles first</a>
-    - <a href="#design-frameworks-using-stages-project-based-learning-pbl"
-      id="toc-design-frameworks-using-stages-project-based-learning-pbl">Design
-      frameworks using stages &amp; project based learning (PBL)</a>
-      - <a href="#project-based-learning-pbl"
-        id="toc-project-based-learning-pbl">Project-based learning (PBL)</a>
-    - <a href="#use-modify-create" id="toc-use-modify-create">Use Modify
-      Create</a>
-      - <a href="#levels-of-abstraction" id="toc-levels-of-abstraction">Levels
-        of Abstraction</a>
-      - <a href="#semantic-profiles-and-primm"
-        id="toc-semantic-profiles-and-primm">Semantic Profiles and PRIMM</a>
-    - <a href="#half-baked-games-as-microworlds"
-      id="toc-half-baked-games-as-microworlds">Half-baked games as
-      Microworlds</a>
-  - <a href="#social-approaches-and-cultural-programmes"
-    id="toc-social-approaches-and-cultural-programmes">Social approaches and
-    cultural programmes</a>
-    - <a href="#pair-programming-socialcollaborative-coding--"
-      id="toc-pair-programming-socialcollaborative-coding--">Pair programming
-      &amp; social/collaborative coding -</a>
-    - <a href="#coding-clubs" id="toc-coding-clubs">Coding clubs:</a>
-    - <a href="#game-competitions" id="toc-game-competitions">Game
-      competitions</a>
-    - <a href="#educational-game-jams"
-      id="toc-educational-game-jams">Educational Game Jams</a>
-    - <a href="#the-fifth-dimension-connected-learning-approaches"
-      id="toc-the-fifth-dimension-connected-learning-approaches">The Fifth
-      Dimension &amp; Connected Learning approaches</a>
-  - <a href="#design-patterns" id="toc-design-patterns">Design patterns</a>
-    - <a
-      href="#using-collections-of-gameplay-design-patterns-within-design-education"
-      id="toc-using-collections-of-gameplay-design-patterns-within-design-education">Using
-      collections of Game(play) design patterns within design education</a>
-    - <a href="#game-star-mechanic-and-related-work-by-institute-of-play"
-      id="toc-game-star-mechanic-and-related-work-by-institute-of-play">Game
-      Star Mechanic and related work by Institute of Play</a>
-    - <a href="#scalable-game-design" id="toc-scalable-game-design">Scalable
-      game design</a>
-  - <a href="#synthesis-of-chapter-discussion-problem-statement"
-    id="toc-synthesis-of-chapter-discussion-problem-statement">Synthesis of
-    chapter / discussion / problem statement</a>
-    - <a
-      href="#recapping-this-studys-motivations---both-broad-and-my-motivations"
-      id="toc-recapping-this-studys-motivations---both-broad-and-my-motivations">Recapping
-      this study’s motivations - both broad and my motivations</a>
-    - <a href="#returning-to-gaps-in-the-cgdp-research-landscape"
-      id="toc-returning-to-gaps-in-the-cgdp-research-landscape">Returning to
-      gaps in the CGD&amp;P research landscape</a>
-    - <a href="#the-problem-statement-of-the-thesis"
-      id="toc-the-problem-statement-of-the-thesis">The problem statement of
-      the thesis</a>
-      - <a
-        href="#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y."
-        id="toc-pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.">Pedagogies
-        exist but more are needed that are specific, aligned with non-formal
-        spaces, x and y.</a>
-      - <a href="#research-questions" id="toc-research-questions">Research
-        Questions</a>
-    - <a href="#link-to-the-next-chapter"
-      id="toc-link-to-the-next-chapter">Link to the next chapter</a>
+-   [Research Questions April 2025](#research-questions-april-2025)
+-   [Introduction](#introduction)
+-   [A review of research on CGD&P and constructionist approaches to
+    learning computer
+    coding](#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding)
+    -   [The benefits of computer game design and programming
+        (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
+    -   [An overview of constructionist
+        approaches](#an-overview-of-constructionist-approaches)
+        -   [Microworlds as both toolset and
+            pedagogy](#microworlds-as-both-toolset-and-pedagogy)
+        -   [Constructionist design
+            heuristics](#constructionist-design-heuristics)
+            -   [Scratch as a more general toolset, remixing, and
+                community
+                elements](#scratch-as-a-more-general-toolset-remixing-and-community-elements)
+        -   [Coding clubhouses and cultural
+            programmes](#coding-clubhouses-and-cultural-programmes)
+        -   [Constructionist framing of relevant learning outcomes -
+            computational thinking and dimensions of fluency and
+            agency](#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency)
+        -   [Constructionist pedagogies - Project-based rather than
+            instruction-based](#constructionist-pedagogies---project-based-rather-than-instruction-based)
+        -   [Limitations within constructionist approaches and the
+            related field of CGD&P
+            research](#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research)
+-   [Pedagogies to support game making via
+    coding](#pedagogies-to-support-game-making-via-coding)
+    -   [Explicit teaching of computational thinking - Principles
+        first](#explicit-teaching-of-computational-thinking---principles-first)
+    -   [Design frameworks using stages & project based learning
+        (PBL)](#design-frameworks-using-stages-project-based-learning-pbl)
+        -   [Project-based learning (PBL)](#project-based-learning-pbl)
+    -   [Use Modify Create](#use-modify-create)
+    -   [Half-baked games](#half-baked-games)
+        -   [Levels of Abstraction](#levels-of-abstraction)
+        -   [Semantic Profiles and PRIMM](#semantic-profiles-and-primm)
+            -   [PRIMM](#primm)
+-   [Social approaches and cultural
+    programmes](#social-approaches-and-cultural-programmes)
+    -   [Pair programming & social/collaborative coding
+        -](#pair-programming-socialcollaborative-coding--)
+    -   [Coding clubs:](#coding-clubs)
+    -   [Game competitions](#game-competitions)
+    -   [Educational Game Jams](#educational-game-jams)
+    -   [Fifth Dimension interventions & Connected Learning
+        approaches](#fifth-dimension-interventions-connected-learning-approaches)
+        -   [Connected Learning
+            Programme](#connected-learning-programme)
+-   [Design patterns](#design-patterns)
+    -   [Game Star Mechanic and related work by Institute of
+        Play](#game-star-mechanic-and-related-work-by-institute-of-play)
+    -   [Scalable game design](#scalable-game-design)
+-   [Synthesis of chapter / discussion / problem
+    statement](#synthesis-of-chapter-discussion-problem-statement)
+    -   [Returning to gaps in the CGD&P research
+        landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
+        -   [Pedagogies exist but more are
+            needed](#pedagogies-exist-but-more-are-needed)
+    -   [Link to the next chapter](#link-to-the-next-chapter)
+
 # Literature Review
 
-## Research Questions April 2025
+<!-- ## Research Questions April 2025
 
 - **Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches (used in this study)?
 
@@ -126,7 +81,7 @@ title: 2. Literature Review
 
 - **Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 
-- **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
+- **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? -->
 
 ## Introduction
 
@@ -605,11 +560,12 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
 The use of half-baked (incomplete) games draws on the approaches of as Microworlds and UMC stages using games as starting products [@kynigos_half-baked_2007]. This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism_1991; @papert_mindstorms_1980].
 
 
-'Half-baked' games, a term proposed by Kynigos and colleagues [@kynigos_half-baked_2007; @kynigos_children_2018], are unfinished and deficient in a way which motivates learners to alter the design or code and improve it. Half-baked games should be designed to encourage malleability in directions that the learner may find interesting [@kynigos_children_2018]. To do this the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts. Here the concept of affordances is to express the delegated intention of designers to create features for users that encourage certain desired behaviours [@mcgrenere_affordances_2000]. In a key study [@kynigos_children_2018, p.2], the researched provided "tools affording them (13-15 year olds) with the role of game hackers" to alter existing game code. While Kynigos' design promoted the acquisition of computational thinking for participants. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model: specifically a progression from elements including pattern recognition associated with reading of code to more advanced examples including creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' [@kynigos_half-baked_2007, p. 336.
+'Half-baked' games, a term proposed by Kynigos and colleagues [@kynigos_half-baked_2007; @kynigos_children_2018], are unfinished and deficient in a way which motivates learners to alter the design or code and improve it. Half-baked games should be designed to encourage malleability in directions that the learner may find interesting [@kynigos_children_2018]. To do this the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts. Here the concept of affordances is to express the delegated intention of designers to create features for users that encourage certain desired behaviours [@mcgrenere_affordances_2000]. In a key study [@kynigos_children_2018, p.2], the researched provided "tools affording them (13-15 year olds) with the role of game hackers" to alter existing game code. While Kynigos' design promoted the acquisition of computational thinking for participants. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model: specifically a progression from elements including pattern recognition associated with reading of code to more advanced examples including creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' [@kynigos_half-baked_2007, p. 336].
 
 <!-- Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge linking concepts of driving video games with scientific concepts of velocity and graph-based representations [@holbert_constructible_2014-1]
 Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], linking with core microworld concepts. -->
 
+#### Levels of Abstraction & PRIMM
 
 #### Levels of Abstraction
 
@@ -663,37 +619,34 @@ Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computi
 
 ##### PRIMM
 
-<!-- **PRIMM uses concepts of semantic profile to try to align instruction based approaches with a sociocultural approach (or at least some hands-on approaches)** -->
+PRIMM is a structured pedaogy drawing one UMC and  concepts of LOA to try to combine elements of concept driven approaches with a sociocultural ethos[@sentance_primm_2017]. In proposing PRIMM Sentence et al [-@sentance_teaching_2019, p. 5] highlights a debate in this field of a proposed deficit of exploration-based approaches by Grover, proposing greater instruction and guidance. The PRIMM model (signifying Predict, Run, Investigate, Modify and Make) addresses critique this without fully embracing an instruction, expert-led approach. The approach is also motivated by calls to align computing education with sociocultural approaches [@tenenberg_out_2014], drawing on concepts, of mediation and ZPD [-@sentance_teaching_2019, p. 2]. PRIMM extends the UMC model, by adding two additional stages before modifying and making, advocating that learners should begin with a concrete code example that they should predicting the outcome of. They then check their predictions against the results of running the code and with guidance learners investigate possible code changes before modifying it. The final, Make stage (as with Create in UMC) suggests students creating programs or larger elements of code structures from scratch. Prediction of a code learners to unpack and repack the key computational concepts or process aligning with the concepts underpinning the value of semantic profiling.
 
-In proposing PRIMM Sentence et al highlights a debate in this field of a proposed deficit of exploration based, constructionism approaches by Grover [-@sentance_teaching_2019, p. 5], proposing greater instruction and guidance. To address this without fully embracing an instruction, expert-led approach, the author propose PRIMM model, signifying Predict, Run, Investigate, Modify and Make.
+<!-- **Data from research, response of teachers , application and take up of SW and PRIMM** -->
 
-Thus, PRIMM extends the UMC model, Modify, adding three stages to the start. Learners are presented with a providing a concrete code example and predicting what it will do, checking the results against they running it. With guidance learners investigate possible changes that can be made to the code before modifying it. The final, Make stage (as with Create in UMC) suggests students creating programs or larger elements of code structures from scratch.
+The adoption and discussion of PRIMM in learning contexts has been significant [@martin_extending_2020; @parry_investigating_2020; @ofsted_research_2022; @barefoot_computing_crystal_nodate], perhaps due to its concrete applicability in classroom settings and the inclusion in a range of pedagogies promoted by the National Centre for Computer Education (NCCE) via resources on computing pedagogies [@ncce_using_2020]. While nothing within the PRIMM pedagogies makes it  incompatible with non-formal environments, there is a gap in research in this area. Sentence et al. [@sentance_teaching_2019] acknowledge other limitations of the research proposing future work addressing the areas of coproduction of possibliitees for differentiation toether with teachers based on sociocultural approaches, and more careful alignment between the planning of sessions using LOA concepts and delivery using the PRIMM approach.
 
-GIVE AN EXAMPLE? AND USE SEMANTIC PROFILE TOO
+<!-- GIVE AN EXAMPLE? AND USE SEMANTIC PROFILE TOO -->
+<!-- By starting with predicting based on existing code,  student start with the concrete code and then be.
+However,  While PRIMM not explored
+Thus in relation to via semantic profiles in the work o -->
+<!-- This related stream of work expores ways in which learners can be supported to explore and m -->
+<!-- **Limitations of LOA and PRIMM and more work?**
+PRIMM is built on an underlying premise that explicit teaching of abstract concepts or processes complements concrete exploration within programming activities [@sentance_teachers_2019]. However, research lacks data on the process of such explicitly teaching or what abstract concepts should be best explored via this pedagogy. This may be a practical approach given the different curricular and requirement that teachers face. For example in the UK context there may be an implicit assumption that teachers turn to the computing curriculum for guidance. -->
+<!-- an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams
 
-By starting with predicting based on existing code,  student start with the concrete code and then be.
-However, PRIMM not explored via semantic profiles.
+ drawing on concepts such as differentiation to make concepts _accessible by all learners in a class_ [],
+It has been reused in  -->
 
+<!-- Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. .[^2] -->
 
+<!-- SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
+https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing -->
 
-PRIMM has been developed with the the computing classroom in mind, drawing on concepts such as
-differentiation to make concepts _accessible by all learners in a class_. Prediction of a code allows a whole class of learners to unpack and repack the  key computational concepts or process.
-
-
-**Data from research, response of teachers , application and take up of SW and PRIMM**
-
-
-Exploring semantic profiles is being promoted by NCCE  an aid to teachers wanting to plan their lessons in a way that communicates the key abstract curriculum knowledge that students will need for exams, and to also allow them to put the concepts into practice to build real coding skills and to make valuable connections to personal experience. .[^2]
-
-SWs - PICKED UP IN UK OFSTED report [@ofsted_research_2022]
-https://www.gov.uk/government/publications/research-review-series-computing/research-review-series-computing
-
-
+<!--
 PRIMM has been implemented, in resources aimed at UK teachers, in a way that explicitly links to curriculum concepts.
-https://www.barefootcomputing.org/resources/crystal-flowers-primm-1
+https://www.barefootcomputing.org/resources/crystal-flowers-primm-1 -->
 
 
-PRIMM while suitable to schools, is not incompatible with informal environments, PRIMM process does not need to happen as whole group activity. For example teachers adapted the process, so quicker students did more than one.
 
 <!-- in a restricted time scale. -->
 <!-- This process that supports formal problem solving, paper-based questions of the GCSE exams.  -->
@@ -708,19 +661,9 @@ As a critique of PRIMM, while the authors do link to some sociocultural concepts
 <!-- The use of code examples and a structured set of varied activities aligns well to UDL principle of representing knowledge in a variety of means. -->
 <!-- DEVELOP THIS DEFICIT AND THE ASSUMPTIONS PRESENT IN A CRITICAL WAY ABSTRACT VS CONCRETE -->
 
-**Limitations of LOA and PRIMM and more work?**
 
 <!-- Certainly, the difficultly in explicitly teaching abstraction rather than implicit approaches of appropriation [@kramer_abstraction_2003], while contested by  [@statter_teaching_2016], and based on work of Hazzan [-@hazzan_reflections_2008], underlying concerns are not fully addressed.
 CLARIFY THIS WHOLE SECTION - OR DROP OR MOVE?  -->
-
-
-PRIMM is built on an underlying premise that explicit teaching of abstract concepts or processes complements concrete exploration within programming activities [@sentance_teachers_2019]. However, research lacks data on the process of such explicitly teaching or what abstract concepts should be best explored via this pedagogy. This may be a practical approach given the different curricular and requirement that teachers face. For example in the UK context there may be an implicit assumption that teachers turn to the computing curriculum for guidance.
-
-Noting recent calls align computing education with sociocultural approaches [@tenenberg_out_2014], the creation of PRIMM by Sentence and colleagues drew on concepts, of mediation and ZPD [-@sentance_teaching_2019, p. 2].
-DEVELOP AND COME BACK TO THIS IN THE PROBLEM STATEMENT OF THE THESIS.
-The authors acknowledge limits of the research, particularly in the form of differentiation of work and the use of wider concepts of the sociocultural theoretical framework used.  
-
-
 
 
 <!-- Limits of the Sociocultural ideas in UK computing research (above) NOT NEEDED?
@@ -731,8 +674,6 @@ Waite et al. [@sentance_teaching_2019] cite the Block Model, [@schulte_block_200
 While attending to socio cultural approaches [@sentance_teaching_2019; @hwang_using_2023], there are limits in what is covered. Less in the way of identity formation and support for that process.
 
 Signpost later discussion. -->
-
-
 
 
 <!-- Task-specific programming (TSP) aims to provide the same easy-to-
@@ -777,8 +718,6 @@ To reflect the nature of the research questions and the existing gaps in the res
 As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS]. -->
 
 
-
-  , and structures of pedagogy used. NO IN EARLIER SECTION
 
 
 ### Pair programming & social/collaborative coding -
@@ -932,9 +871,9 @@ The 5D intervention, used a narrative fiction of a 'wizard' with whom young peop
 The importance of designing intervention to nurture participants formation of identities in evolving idiocultures became an important aspect of the work[@cole1987contextual].
 
 
-It is also significant that different formulations and local cultures with settings, in a way which is responsive to the interests and needs of different settings [@valsiner_cultural-historical_2007]. This strand on culture formation was developed further by researcher Kris Gutiérrez who led two 5D interventions, Las Redes [@scott_nixon_digital_2012], and El Pueblo Mágico  [@gutierrez_learning_2019]. In both sites the researchers developed understandings of the value of the multi-lingual cultural environment in how it contributed to the development of site specific culture. In related work Gutiérrez and Digiacomo [-@gutierrez_developing_2008; -@digiacomo_seven_2017] identify the vital role of learning designers to facilitate the use of movement of identity between settings by responsive learning design which allows learners to draw on  funds of knowledge [@moll_funds_1992; @moll1998turning] [^2]
+It is also significant that different formulations and local cultures with settings, in a way which is responsive to the interests and needs of different settings [@valsiner_cultural-historical_2007]. This strand on culture formation was developed further by researcher Kris Gutiérrez who led two 5D interventions, Las Redes [@scott_nixon_digital_2012], and El Pueblo Mágico  [@gutierrez_learning_2019-1]. In both sites the researchers developed understandings of the value of the multi-lingual cultural environment in how it contributed to the development of site specific culture. In related work Gutiérrez and Digiacomo [-@gutierrez_developing_2008; -@digiacomo_seven_2017] identify the vital role of learning designers to facilitate the use of movement of identity between settings by responsive learning design which allows learners to draw on  funds of knowledge [@moll_funds_1992; @moll1998turning] [^2]
 
-Gutiérrez and colleagues [@gutierrez_learning_2019] also made explicit an implicit design motivation driving 5thD interventions, that they needed to be fun not only to engage students but also to allow a greater expression of competence and agency by drawing on previous expertise of play in other setting. Gutiérrez [@gutierrez_when_2020; @gutierrez2014integrative] has developed the concept of horizontal movement of practice between between sites of learning rather than a vertical top-down transmission model of learning in ways that are discussed in Chapter 3 within the theoretical framework of this thesis.
+Gutiérrez and colleagues [@gutierrez_learning_2019-1] also made explicit an implicit design motivation driving 5thD interventions, that they needed to be fun not only to engage students but also to allow a greater expression of competence and agency by drawing on previous expertise of play in other setting. Gutiérrez [@gutierrez_when_2020-1; @gutierrez2014integrative] has developed the concept of horizontal movement of practice between between sites of learning rather than a vertical top-down transmission model of learning in ways that are discussed in Chapter 3 within the theoretical framework of this thesis.
 
 
 
@@ -1130,11 +1069,13 @@ In the following section, I summarise the chapters findings and clarify the prob
 - **Lack of specific pedagogies in this zone not exclusive to this domain:** given Rogoff's perspective, and research on PBL approaches , (flexible - explain) frameworks are useful. While this review has identifies some, more are useful.
 - **Structural challenges continue but the stuggle continues:** schools, curriculum etc, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.   -->
 
-**Short problem statement PLANNING SECTION - now a reacap**
+<!-- **Short problem statement PLANNING SECTION - now a reacap**
 
 - Motivation: Given the context explored in Chapter 1, it is essential that we understand how to support empowerment and inclusion in the field of CGD&P. Despite the extensive and broad scope of existing research limitations remain.
-- Gaps in research: Specifically, while the broad importance of socio-cultural dimensions are explored in the framing of reviews of research  of CGD&P
-- Clarified Problem statement: This research will address
+
+
+- Gaps in research: Specifically, while the broad importance of socio-cultural dimensions are explored in the framing of reviews of research  of CGD&P -->
+
 
 
 
@@ -1204,8 +1145,6 @@ UMC [@lee_computational_2011] offer a general structure to organise a remix-ed b
 The use of design patterns in this context is promising to help motivation and structure documentation [@repenning_scalable_2015] and to structure feedback process in a  co-design process [@eriksson_using_2019]. However these existing studies have limitations. In the SGD [@repenning_scalable_2015], there were limitations in participant pathways and resulting reduction in student ownership. Addressing Stringforce [@eriksson_using_2019], the potential use of GDPs for participants and teachers is under-explored. Additionally as participants did not modify computer code this invites research to assess the utility of a collection of GDPs to support programming.
 
 Thus, in summary, while some suitable and inclusive pedagogies exists, more are needed that are specific, aligned with non-formal spaces, facilitate agency development, and development of learner identity drawing on funds on knowledge.
-
-
 
 **Cultural factors**
 

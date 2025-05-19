@@ -1,106 +1,60 @@
-- <a href="#literature-review" id="toc-literature-review">Literature
-  Review</a>
-  - <a href="#research-questions-april-2025"
-    id="toc-research-questions-april-2025">Research Questions April 2025</a>
-  - <a href="#introduction" id="toc-introduction">Introduction</a>
-  - <a
-    href="#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding"
-    id="toc-a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding">A
-    review of research on CGD&amp;P and constructionist approaches to
-    learning computer coding</a>
-    - <a href="#the-benefits-of-computer-game-design-and-programming-cgdp"
-      id="toc-the-benefits-of-computer-game-design-and-programming-cgdp">The
-      benefits of computer game design and programming (CGD&amp;P)</a>
-    - <a href="#an-overview-of-constructionist-approaches"
-      id="toc-an-overview-of-constructionist-approaches">An overview of
-      constructionist approaches</a>
-      - <a href="#microworlds-as-both-toolset-and-pedagogy"
-        id="toc-microworlds-as-both-toolset-and-pedagogy">Microworlds as both
-        toolset and pedagogy</a>
-      - <a href="#constructionist-design-heuristics"
-        id="toc-constructionist-design-heuristics">Constructionist design
-        heuristics</a>
-      - <a href="#coding-clubhouses-and-cultural-programmes"
-        id="toc-coding-clubhouses-and-cultural-programmes">Coding clubhouses and
-        cultural programmes</a>
-      - <a
-        href="#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency"
-        id="toc-constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency">Constructionist
-        framing of relevant learning outcomes - computational thinking and
-        dimensions of fluency and agency</a>
-      - <a
-        href="#constructionist-pedagogies---project-based-rather-than-instruction-based"
-        id="toc-constructionist-pedagogies---project-based-rather-than-instruction-based">Constructionist
-        pedagogies - Project-based rather than instruction-based</a>
-      - <a
-        href="#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research"
-        id="toc-limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research">Limitations
-        within constructionist approaches and the related field of CGD&amp;P
-        research</a>
-  - <a href="#pedagogies-to-support-game-making-via-coding"
-    id="toc-pedagogies-to-support-game-making-via-coding">Pedagogies to
-    support game making via coding</a>
-    - <a
-      href="#explicit-teaching-of-computational-thinking---principles-first"
-      id="toc-explicit-teaching-of-computational-thinking---principles-first">Explicit
-      teaching of computational thinking - Principles first</a>
-    - <a href="#design-frameworks-using-stages-project-based-learning-pbl"
-      id="toc-design-frameworks-using-stages-project-based-learning-pbl">Design
-      frameworks using stages &amp; project based learning (PBL)</a>
-      - <a href="#project-based-learning-pbl"
-        id="toc-project-based-learning-pbl">Project-based learning (PBL)</a>
-    - <a href="#use-modify-create" id="toc-use-modify-create">Use Modify
-      Create</a>
-      - <a href="#levels-of-abstraction" id="toc-levels-of-abstraction">Levels
-        of Abstraction</a>
-      - <a href="#semantic-profiles-and-primm"
-        id="toc-semantic-profiles-and-primm">Semantic Profiles and PRIMM</a>
-    - <a href="#half-baked-games-as-microworlds"
-      id="toc-half-baked-games-as-microworlds">Half-baked games as
-      Microworlds</a>
-  - <a href="#social-approaches-and-cultural-programmes"
-    id="toc-social-approaches-and-cultural-programmes">Social approaches and
-    cultural programmes</a>
-    - <a href="#pair-programming-socialcollaborative-coding--"
-      id="toc-pair-programming-socialcollaborative-coding--">Pair programming
-      &amp; social/collaborative coding -</a>
-    - <a href="#coding-clubs" id="toc-coding-clubs">Coding clubs:</a>
-    - <a href="#game-competitions" id="toc-game-competitions">Game
-      competitions</a>
-    - <a href="#educational-game-jams"
-      id="toc-educational-game-jams">Educational Game Jams</a>
-    - <a href="#the-fifth-dimension-connected-learning-approaches"
-      id="toc-the-fifth-dimension-connected-learning-approaches">The Fifth
-      Dimension &amp; Connected Learning approaches</a>
-  - <a href="#design-patterns" id="toc-design-patterns">Design patterns</a>
-    - <a
-      href="#using-collections-of-gameplay-design-patterns-within-design-education"
-      id="toc-using-collections-of-gameplay-design-patterns-within-design-education">Using
-      collections of Game(play) design patterns within design education</a>
-    - <a href="#game-star-mechanic-and-related-work-by-institute-of-play"
-      id="toc-game-star-mechanic-and-related-work-by-institute-of-play">Game
-      Star Mechanic and related work by Institute of Play</a>
-    - <a href="#scalable-game-design" id="toc-scalable-game-design">Scalable
-      game design</a>
-  - <a href="#synthesis-of-chapter-discussion-problem-statement"
-    id="toc-synthesis-of-chapter-discussion-problem-statement">Synthesis of
-    chapter / discussion / problem statement</a>
-    - <a
-      href="#recapping-this-studys-motivations---both-broad-and-my-motivations"
-      id="toc-recapping-this-studys-motivations---both-broad-and-my-motivations">Recapping
-      this study’s motivations - both broad and my motivations</a>
-    - <a href="#returning-to-gaps-in-the-cgdp-research-landscape"
-      id="toc-returning-to-gaps-in-the-cgdp-research-landscape">Returning to
-      gaps in the CGD&amp;P research landscape</a>
-    - <a href="#the-problem-statement-of-the-thesis"
-      id="toc-the-problem-statement-of-the-thesis">The problem statement of
-      the thesis</a>
-      - <a
-        href="#pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y."
-        id="toc-pedagogies-exist-but-more-are-needed-that-are-specific-aligned-with-non-formal-spaces-x-and-y.">Pedagogies
-        exist but more are needed that are specific, aligned with non-formal
-        spaces, x and y.</a>
-      - <a href="#research-questions" id="toc-research-questions">Research
-        Questions</a>
-    - <a href="#link-to-the-next-chapter"
-      id="toc-link-to-the-next-chapter">Link to the next chapter</a>
+-   [Research Questions April 2025](#research-questions-april-2025)
+-   [Introduction](#introduction)
+-   [A review of research on CGD&P and constructionist approaches to
+    learning computer
+    coding](#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding)
+    -   [The benefits of computer game design and programming
+        (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
+    -   [An overview of constructionist
+        approaches](#an-overview-of-constructionist-approaches)
+        -   [Microworlds as both toolset and
+            pedagogy](#microworlds-as-both-toolset-and-pedagogy)
+        -   [Constructionist design
+            heuristics](#constructionist-design-heuristics)
+            -   [Scratch as a more general toolset, remixing, and
+                community
+                elements](#scratch-as-a-more-general-toolset-remixing-and-community-elements)
+        -   [Coding clubhouses and cultural
+            programmes](#coding-clubhouses-and-cultural-programmes)
+        -   [Constructionist framing of relevant learning outcomes -
+            computational thinking and dimensions of fluency and
+            agency](#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency)
+        -   [Constructionist pedagogies - Project-based rather than
+            instruction-based](#constructionist-pedagogies---project-based-rather-than-instruction-based)
+        -   [Limitations within constructionist approaches and the
+            related field of CGD&P
+            research](#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research)
+-   [Pedagogies to support game making via
+    coding](#pedagogies-to-support-game-making-via-coding)
+    -   [Explicit teaching of computational thinking - Principles
+        first](#explicit-teaching-of-computational-thinking---principles-first)
+    -   [Design frameworks using stages & project based learning
+        (PBL)](#design-frameworks-using-stages-project-based-learning-pbl)
+        -   [Project-based learning (PBL)](#project-based-learning-pbl)
+    -   [Use Modify Create](#use-modify-create)
+    -   [Half-baked games](#half-baked-games)
+        -   [Levels of Abstraction](#levels-of-abstraction)
+        -   [Semantic Profiles and PRIMM](#semantic-profiles-and-primm)
+            -   [PRIMM](#primm)
+-   [Social approaches and cultural
+    programmes](#social-approaches-and-cultural-programmes)
+    -   [Pair programming & social/collaborative coding
+        -](#pair-programming-socialcollaborative-coding--)
+    -   [Coding clubs:](#coding-clubs)
+    -   [Game competitions](#game-competitions)
+    -   [Educational Game Jams](#educational-game-jams)
+    -   [Fifth Dimension interventions & Connected Learning
+        approaches](#fifth-dimension-interventions-connected-learning-approaches)
+        -   [Connected Learning
+            Programme](#connected-learning-programme)
+-   [Design patterns](#design-patterns)
+    -   [Game Star Mechanic and related work by Institute of
+        Play](#game-star-mechanic-and-related-work-by-institute-of-play)
+    -   [Scalable game design](#scalable-game-design)
+-   [Synthesis of chapter / discussion / problem
+    statement](#synthesis-of-chapter-discussion-problem-statement)
+    -   [Returning to gaps in the CGD&P research
+        landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
+        -   [Pedagogies exist but more are
+            needed](#pedagogies-exist-but-more-are-needed)
+    -   [Link to the next chapter](#link-to-the-next-chapter)
