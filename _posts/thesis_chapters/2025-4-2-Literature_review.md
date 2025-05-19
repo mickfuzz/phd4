@@ -1148,83 +1148,73 @@ In the following section, I summarise the chapters findings and clarify the prob
 If viewed from a wider socio-cultural perspective what potential does games making have in increasing this fluency, what in particular about games is relevant to this potential, how can the characteristics of such fluency in more depth using socio-cultural concepts. Finally, what is the potential role of a open ended, socio-cultural research process help develop a pedagogy which encourages this fluency.    -->
 
 
-
-
 ### Returning to gaps in the CGD&P research landscape
 <!-- In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming (CGD&P) -->
+<!-- While the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], this work is limited in scope and invites further exploration. -->
 
+This section returns to the guiding research questions in relation to the existing gaps in the research landscape which invite further study. In broad terms the review and surrounding work of Kafai and Burke [@kafai_constructionist_2015; @kafai_connected_2016] cite a relative deficit in research addressing game making compared to game making and within that a relative dearth of studies addressing social and cultural pedagogies. The second point is confirmed in Denner et al's later systemic review [@denner_does_2019].
 
-**In general**
-Overall, Kafai and Burke identify a gap in research on making games compared to playing them.
-Even with in CGD&P research there is a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
+In particular there is a lack of specific pedagogies to address how to support the dimensions of
 
+- formation of making identities
+- peer interaction beyond feedback,
+- inclusive induction into community activities.
 
+---
 
-**abstract/concrete elements**
-While research from Waite and Sentance on LOA and PRIMM pedagogies addresses alternation between concrete and abstract dimentions, its focus on curricular concerns in classroom context limits its applicability. The motivation of fluency as a target skill or behaviour in contructionism aligns with its early advocacy for more concrete learning approaches driven by personal projects.
+PARKED FOR NOW
 
-
-In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], but as explored in Chatper 2 this work is limited in scope and invites further exploration.
-
-**Lack of specific pedagogies aligned with socio-cultural approaches**
-
-
-
-
-While some suitable and inclusive pedagogies exists, pair programming [@werner2014using], UMC [@lee_computational_2011] and remixing approaches in their potential to leverage social sharing, what else?,
 given Rogoff's and PBL research's advocacy of guided participation, frameworks existing between instruction and pure discoverary processes, more are useful. In particular domain specific ones.
-
-The use of design patterns in K12 age students is promising, however it is currently limited to the use of game mechanics use in assessing computational sophistication [@werner2014using], of computational design patterns to help motivation and structure documentation [@repenning_scalable_2015], the use of gameplay design patterns to structure feedback process in a non-coding co-design process [@eriksson_using_2019] and has a focus on benefits for researchers.
-
-MOVE?
-In the Stringforce study[@eriksson_using_2019],  the potential use of GDPs for participants andr teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
-
-One premise driving my exploration of the use of gameplay features in pedagogy is that the tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
 
 **Gaps in agency / fluency / empowerment**
 
-
-
-Despite Papert's [@lodi_computational_2021] early focus on the importance of community participation and resulting forms of fluency, existing research in this field is still lacking in this area in particular surrounding specifics on a microlevel informing how what Kafai calls collecive agency is formed.
+Despite Papert's [@lodi_computational_2021] early focus on the importance of community participation and resulting forms of fluency, existing research in this field is still lacking in this area in particular surrounding specifics on a microlevel informing how what Kafai calls collective agency is formed.
 
 In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 
-
-
-### The problem statement of the thesis
-
-<!-- - Discussion of implications of synthesis of the Literature review
-- Description on  how the RQs frame the problem to help an investigation via the data gathered. -->
-
-This section gives a further overall synthesis of the problems of the area based on Lit review that this study aims to address via the RQs.
-
-From the reviews of the field above, it is clear that game making processes in informal settings can benefit from more research involving novel pedagogies designed to develop learner agency and identity as game makers.
-
-#### Pedagogies exist but more are needed that are specific, aligned with non-formal spaces, x and y.
-
-**Lack of specific pedagogies (for informal spaces) - via a case study / research ?**
+**Focusing on Agency is valid because**  it is a way to address relevant concepts of fluency in this domain with greater theoretical rigour.
 
 Specifically the lack of pedagogies for non-formal spaces should be addressed.
-
-While open ended approaches responding to participants interests have potential to address barriers of x and y  [see Denner], challenges exist.
 
 Stress of facilitators, technical barriers, lack of frameworks to chart agency development, confusion over what the goal is.  
 
 
-**A specific and replicable pedagogy**
+---
+
+
+**RECAP OF POTENIAL?**
+
+<!-- One premise driving my exploration of the use of gameplay features in pedagogy is that the  -->
+
+
+**Lack of specific pedagogies aligned with socio-cultural approaches**
+
+#### Pedagogies exist but more are needed
+
+Chapter 1, outlined needs of the study within a problem framing which addressed barriers to participation of x,y and z.
+
+The specific choice of a code playground and a professional JavaScript game library provide specific setting that merits investigation.
+
+This chapter has outlined some promising pedagogical approaches in research in CGD&P and digital making more broadly but also located gaps meriting more investigation.  
+
+Pair and peer programming show promise but (what are limits?) [@werner2014using].
+
+UMC [@lee_computational_2011] offer a general structure to organise a remix-ed based approaches as a way to leverage social sharing, and the related work on half-baked games places this with a game making context underlining the importance of game features as motivating factors [@kynigos_children_2018].  
+
+The use of design patterns in this context is promising to help motivation and structure documentation [@repenning_scalable_2015] and to structure feedback process in a  co-design process [@eriksson_using_2019]. However these existing studies have limitations. In the SGD [@repenning_scalable_2015], there were limitations in participant pathways and resulting reduction in student ownership. Addressing Stringforce [@eriksson_using_2019], the potential use of GDPs for participants and teachers is under-explored. Additionally as participants did not modify computer code this invites research to assess the utility of a collection of GDPs to support programming.
+
+Thus, in summary, while some suitable and inclusive pedagogies exists, more are needed that are specific, aligned with non-formal spaces, facilitate agency development, and development of learner identity drawing on funds on knowledge.
+
+
+
+**Cultural factors**
+
+Tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
+
+
+
+**A specific and replicable pedagogy - MOVE TO CH.4?**
 Given that few studies communicate pedagogical detail in a way which allows replication, in this study I leverage my own commitment to and experience in documenting learning processes and facilitation materials via openly-licenced, accessible documenation and description to address this deficit.  
-
-**Gdps in particular** are promising which is not explored in terms of what it can offer in particular to participants and facilitators in a learning design orientated to a socio cultural approach.  
-ADD IN SOME THING ABOUT CONCRETE APPROACHES
-
-Following from the use of  a collection of design patterns to support collaborative design decisions outlined above, it appears a promising area to address challenges faced by facilitators supporting novice coders.
-
-**Focusing on Agency is valid because**  it is a way to address relevant concepts of fluency in this domain with greater theoretical rigour.
-
-As outline in Chapter one, these elements are address using the following research questions.
-
-
-
 
 
 

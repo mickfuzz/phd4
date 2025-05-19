@@ -438,9 +438,11 @@ The guiding principle unifying these terms is being self expression & the follow
 
 <!-- In Chapter  I propose that this aim of fluency can be profitably augmented using socio-cultural concepts of agency. -->
 
-
 Given the importance of more intentional pedagogical approaches in this area and the lack of detail in the reviews of CGD&P described above, the following sections will detail several key pedagogies used in this area.
 
+### Summary problem statement of the thesis
+
+Despite the growing recognition of CGD&P's educational potential, effective pedagogies, particularly those suitable for informal learning environments, remain under-explored. Existing approaches may not fully leverage the social and cultural dynamics inherent in these settings, potentially limiting opportunities for rich participation and the development of potentially value aspects like learner agency, existing knowledge of games, and a understanding of game design principles. Furthermore, the abstract nature of programming concepts can pose a significant barrier, and there is a need for pedagogical strategies that effectively bridge these abstract dimensions with concrete design practices in CGD&P. This research addresses the gap in understanding how socio-cultural approaches can enrich CGD&P pedagogies to foster more inclusive, engaging, and effective learning experiences that nurture agency and facilitate the application of game design knowledge.
 
 ### Convictions about potential - include dynamic of agency here (and limits?)
 
@@ -452,40 +454,30 @@ A clearer understanding of process of developing agency is needed .
 
 <!-- #### (Why not use constructionism) - EDIT DOWN -->
 
-Constructionism is a foundational guiding theory in game making studies [@papert_mindstorms_1980], illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, I have chosen activity theory as a better fit as a for the aims of this thesis. I am in agreement with Ang et al. [-@ang_case_2011, p.539] who see value in constructionist framings of the pedagogical value of constructing tangible products in a community setting but locate the deficit of "a systematic framework for analysing the construction activities within a learning community".
+In choosing a theoretical approach which aligned with the goals of the research questions and my role as both a practitioner and a researcher, it was vital to select a framework that could address potential complications within the research process. Constructionism is a foundational guiding theory in game making studies [@papert_mindstorms_1980], illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, I am in agreement with Ang et al. [-@ang_case_2011, p.539] who see value in constructionist framings of the pedagogical value of constructing tangible products in a community setting but locate the deficit of "a systematic framework for analysing the construction activities within a learning community".
 
-ANG CHOOSE AT TOO BUT INCLUDE SOME THEORY HERE.
-
-In choosing a theoretical approach which aligned with the goals of the research questions and my role as both a practitioner and a researcher, it was vital to select a framework that could address potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency.
+<!-- ANG CHOOSE AT TOO BUT INCLUDE SOME THEORY HERE. -->
+The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency which aligns with the context of undertaking CGD&P for motivations of participant empowerment within broader contexts. Chapter 3 explores the use of activity theory and DBR in more depth in relation to these needs.
 
 <!-- I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
 
 While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.   -->
 
-
-
 <!-- Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012]. -->
 
 
-Chapter 3 explored in depth in these frameworks in relation to these needs.
-
 ## 4. Research objectives and questions
 
-In this section on aims and objectives I will outline
--  the overall goal is to an
-and break it down a bit
+This research explores how socio-cultural approaches, particularly Cultural-Historical Activity Theory (CHAT), can inform Computer Game Design and Programming (CGD&P) pedagogies. The study aims to enhance inclusive, engaging, and effective learning experiences within non-formal settings, with findings intended for broader application.
 
 <!-- (e.g., explore family game making, analyse coding interactions, identify factors influencing empowerment). -->
 
-#### Research Questions
+#### Research Questions (RQs)
 
-**Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
-
-1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
-
-2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
-
-3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design)
+- **Principle research question (PRQ):** How can pedagogies to support CGD&P be enriched using socio-cultural approaches to foster inclusive and effective learning in various contexts?
+- RQ1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed via an innovative pedagogy?
+- RQ2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
+- RQ3. How do learner agency and game maker identity evolve within CGD&P communities of practice, and what pedagogical strategies can nurture this development across learning communities?
 
 ### Primary research question and aims and objectives
 
@@ -493,11 +485,9 @@ The overall aim of this study is best represented via the primary research quest
 
 ### Research sub-questions and aims and objectives
 
-This aim is supported by more specific objectives via sub questions.
-
 The sub-questions are explored in greater details at the end of Chapter 2 in relation to the problem statement of the thesis.
 
-### Research objectives & motivation (is motivation right here? how different from rationale and significance?)
+### Research objectives & motivation (is motivation right here? how different from rationale and significance?) - IS THIS THE PROBLEM STATEMENT
 
 This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies and some of the tensions associated with issues of bringing dimensions of authenticity of processes and tool use from informal and professional communities into more guided non-formal settings.
 
@@ -507,11 +497,6 @@ Despite the many studies published on the benefits of game making for learning, 
 
 LESS ON THIS.
 Additionally, many of the technologies used in past studies are no longer practical to use. This study aims to evaluate and build on relevant research, detailed in Chapter 2, and to update practices to use open-source, industry standard, web-technologies (HTML and JavaScript) with an aim to add longevity, authenticity, and extensibility to the game making toolset. In addition, this research proposes a clear but flexible pedagogy based around the use of gameplay design patterns, that has emerged from a responsive design process. These themes are continued in the design narrative of Chapter 4.  
-
-
-
-
-
 
 **Motivations patched in from Ch.2 - regarding agency**
 
@@ -528,27 +513,31 @@ This research locates particular potential in the use of is a socio cultural int
 
 ### The scope of the thesis and what it does not try to address
 
+<!-- Clearly define what your thesis will and will not address.
+Acknowledge any limitations or constraints of your research.
+Briefly mention the challenge of maintaining focus during the PhD process (optional, but shows self-awareness). -->
+
+<!-- #### What this thesis will and will not address  -->
+
+A key scope of this thesis is on game making as a practice rather than the broader scopes of game-based learning or playful learning. This presents some challenges as the process of game making draws on those related areas. To address this cross over at times relevant information is included in appendices or footnotes. This is true in particular of I have a line of inquiry exploring a playful drama process introduced in a later stage of design.
+
+The rich set of experiences and educational tools created made it difficult to disentangle the interplay of contributing elements. As will be outlined in Chapter 4, while this study used two distinct toolsets to undertake game making I focus only on one which used text-based coding rather than block based coding approaches [FOOTNOTE]. This decision is due both due to the practicalities of analysis of a large amount of date gathered but also in terms of the necessity to reduce the breadth of scope to fit within the focus of a targeted PhD dissertation.
 
 
-#### The challenge of maintaining focus in this PhD process
 
 <!-- DROP / MOVE ?
 Creating a design experiment with several iterations created not only large amounts of research materials. This presented not only challenges of how to prioritise data gathered (Chapter 4), but in addition the rich set of experiences and educational tools created made it difficult to disentangle the interplay of contributing elements to choose a focus suitable for a targeted PhD dissertation. -->
 
-The rich set of experiences and educational tools created made it difficult to disentangle the interplay of contributing elements to choose a focus suitable for a targeted PhD dissertation.
+<!-- I did prioritise key elements of the experience.
 
-I did prioritise key elements of the experience.
+Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency.
 
-I have also put to one side a line of inquiry exploring a drama process introduced in the third phase of the design. Instead, the main prioritisation is represented in the research questions: that being, the use of gameplay design patterns, and their relationship with emerging participant agency. Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants.
+Even this more limited focus, still contains a rich interplay of diverse tool use, varied of and a study of different dimensions of agency shown by participants. -->
 
 <!-- While, at times, this diversity may ask a lot of the reader to follow, it is justifiable due to the complex nature of the learning experiences involved.   -->
 
 <!-- Thus proposed motivations for supporting coding and game making should be analysed alongside the financial models which support activities.  -->
 <!-- Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. -->
-
-
-
-
 
 ## 5. Significance of the study
 
