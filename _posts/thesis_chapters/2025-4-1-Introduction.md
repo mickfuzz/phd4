@@ -280,9 +280,8 @@ The value of these informal spaces and approaches -->
 
 
 <!-- Other contextual factors regarding home and informal learning environments and digital making are explored in Chapter 2. -->
-## Turing to games
 
-### An introduction to the benefits of on digital game making
+### An introduction to the context of on digital game making
 
 **Broad Motivations for CGD&P**
 
@@ -290,23 +289,23 @@ While much research on digital game making focuses on its educational benefits f
 
 <!-- This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society. -->
 
-REFRAME AGENCY?
+REFRAME AS EMPOWERMENT
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers the practical process of learning to code, it also addresses aspects of game making that are more to do with the overall expressive value of digital media. To serve this exploration the concepts of computational fluency (one used within foundational CGD&P research) and agency are used as a guiding principle throughout the thesis.
 
-MOVE LATER?
+MOVE LATER? CH. 2 
 The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick, fluency, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction-based computing education [@resnick_coding_2020].
 
 
-### The potential of digital game making of retro games with families
+### The context of family gaming
 
-Thus, the process of making retro games with families lies at a confluence of diverse contexts, motivations, and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
 
-DROP OR MOVE THIS? WHERE AGENCY?
-To answer this question, theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value.
+<!-- DROP OR MOVE THIS? WHERE AGENCY?
+To answer this question, theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value. -->
 
 Game-playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smartphones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness create a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks, provides an entry point for game players into game making cultures which is reflected in the success of amateur game-publishing websites like itch.io [@garda_nostalgia_2014].    
 
-
+Thus, the process of making retro games with families lies at a confluence of diverse contexts, motivations, and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
+HOWEVER, and link to next section.
 
 <!-- The next section begins to explain my personal interest in this dimension of the study through a brief exploration of my involvement in project-based approaches in digital media education and campaigning contexts. -->
 
