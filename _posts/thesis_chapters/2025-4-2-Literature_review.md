@@ -362,23 +362,18 @@ Addressing broad approaches, Kafai has emphasised the importance of a situated a
 
 #### Limitations within constructionist approaches and the related field of CGD&P research
 
- there is a potential gap in constructionist research regarding pedagogical approaches.
-
-<!-- ALSO ADDRESSING BROADER LIMITATIONS WITHIN THE FIELD OF CGD&P -->
-
-Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016].
-
+There is a potential gap in constructionist research regarding pedagogical approaches. Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016].
 
 Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
-While this is broadly true, it is ironic given the stance against tools first approaches of Kafai.
-In even in Kafai's review of CGD&P, specific pedagogies were lacking.
+In some ways ironic given the critique from constructionist researchers of approaches which focusing too narrowly on technical approaches and toolsets rather than their expressive potential (and thus within a community)  and focused on toolsets rather than pedagogies withing digital making in general [@resnick_seeds_2020; @resnick_coding_2020], and game making more specifically []
+FIND KAFAI QUOTEIn even in Kafai's review of CGD&P, specific pedagogies were lacking.
+
+<!-- ALSO ADDRESSING BROADER LIMITATIONS WITHIN THE FIELD OF CGD&P -->
 
 It raises a question why, given this perspective are underpinning pedagogies lacking. I propose that this deficit may be due to a deficit in analytical processes and theoretical concepts particularly visible within concepts of agency development, and mediational strategies. It follows that these limitation of constructionism are also present in the research landscape of CGD&P which has been significantly guided by it.  
 
 This relates to the primary research question of this thesis. And brings us to the next section.  
-
-
 
 <!-- but notes that ‘theoretical underpinnings of constructionism are difficult to pin down in most of its literature’ [@laurillard2020significance, p.29] -->
 
@@ -1052,7 +1047,9 @@ The researchers use the term Computational Thinking Patterns (CPTs) to describe 
 
 A driving pedagogical approach was the use of a _project first_ rather than _principles first_ approach to learning programming [@repenning_scalable_2015]. Computational concepts, for example, loops, lists, logic and variables are recommended to be taught as learner require them to be used. To do this they advocate use of _just in time_ instruction, via a clear links between the instruction needed and the motivation to achieve a tangible goal within game design to keep learners in a zone of engagement [@basawapatna_zones_2013].
 
-Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work and one which many schools were not able to adopt due to time restrictions. This may account for relatively low figures for student ownership over projects. From 700 responses, only 139 (20%) indicated aspects of student ownership [@repenning_scalable_2015. P.11.10].
+Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the
+
+participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work and one which many schools were not able to adopt due to time restrictions. This may account for relatively low figures for student ownership over projects. From 700 responses, only 139 (20%) indicated aspects of student ownership [@repenning_scalable_2015. P.11.10].
 
 Other limitations in the overall approach is that the programme use bespoke software created by the team which can be problematic to maintain in the long term. In additions while the resources used were classified as being just in time, a review of the supporting website shows quite lengthy instruction based resources which would be a barrier to such claims [^5].
 
@@ -1133,43 +1130,17 @@ In the following section, I summarise the chapters findings and clarify the prob
 - **Lack of specific pedagogies in this zone not exclusive to this domain:** given Rogoff's perspective, and research on PBL approaches , (flexible - explain) frameworks are useful. While this review has identifies some, more are useful.
 - **Structural challenges continue but the stuggle continues:** schools, curriculum etc, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.   -->
 
-
-
-**Short problem statement PLANNING SECTION**
+**Short problem statement PLANNING SECTION - now a reacap**
 
 - Motivation: Given the context explored in Chapter 1, it is essential that we understand how to support empowerment and inclusion in the field of CGD&P. Despite the extensive and broad scope of existing research limitations remain.
 - Gaps in research: Specifically, while the broad importance of socio-cultural dimensions are explored in the framing of reviews of research  of CGD&P
-- Problem statement: This research will address
-
-
-### Recapping this study's motivations - both broad and my motivations
-
-This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies and some of the tensions associated with issues of bringing dimensions of authenticity of processes and tool use from informal and professional communities into more guided non-formal settings.
-
-This motivation aligns with structural challenges faced by practitioners in schools and volunteer-supported settings regarding curriculum, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
-
-**Addressing issues of motivation in existing research**
-
-There is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
-
-MOVE LATER? A GAP?
-Given my particular interest in empowerment within technology education, one promising concept within relevant research is that of  fluency in constructionst reseach on digital making.
-
-
-PATCHED IN INTEGRATE
-As noted in Chapter 2 [@kafai_constructionist_2015]. Despite Papert's [@lodi_computational_2021] foundational focus on the community application of created projects continues in legacy of constructionism. For example, the articulation of Resnick on computational fluency, addresses the limitations of research focusing too narrowly on technical approaches and toolsets rather than their expressive potential (and thus within a community)  and focused on toolsets rather than pedagogies [@resnick_seeds_2020; @resnick_coding_2020].
-
-In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], but as explored in Chatper 2 this work is limited in scope and invites further exploration.
+- Clarified Problem statement: This research will address
 
 
 
-In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 
 
 
-This research locates particular potential in the use of is a socio cultural intepreational of agency. In RQ3 and tackled in more detail in Chapter 3.
-
-The next section addresses gaps specific to CGD&P
 
 
 <!-- The latest iteration compuational fluency, is described in broad strokes as both technical competency and an ability to for self-expression within digital code mediums [@resnick_computational_2018].
@@ -1187,11 +1158,19 @@ If viewed from a wider socio-cultural perspective what potential does games maki
 Overall, Kafai and Burke identify a gap in research on making games compared to playing them.
 Even with in CGD&P research there is a lack of those focusing on social and cultural aspects, and in particuar lack of specific pedagogies to address how to support these dimensions, in particular limited understanding on the formation of making identities.
 
+
+
 **abstract/concrete elements**
 While research from Waite and Sentance on LOA and PRIMM pedagogies addresses alternation between concrete and abstract dimentions, its focus on curricular concerns in classroom context limits its applicability. The motivation of fluency as a target skill or behaviour in contructionism aligns with its early advocacy for more concrete learning approaches driven by personal projects.
 
 
+In a UK computing education context, while the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], but as explored in Chatper 2 this work is limited in scope and invites further exploration.
+
 **Lack of specific pedagogies aligned with socio-cultural approaches**
+
+
+
+
 While some suitable and inclusive pedagogies exists, pair programming [@werner2014using], UMC [@lee_computational_2011] and remixing approaches in their potential to leverage social sharing, what else?,
 given Rogoff's and PBL research's advocacy of guided participation, frameworks existing between instruction and pure discoverary processes, more are useful. In particular domain specific ones.
 
@@ -1201,6 +1180,14 @@ MOVE?
 In the Stringforce study[@eriksson_using_2019],  the potential use of GDPs for participants andr teachers not explored at all. Also participants did not modify computer code leaving a gap in research concerning addressing the utility of a collection of GDPs to support novice programmers.
 
 One premise driving my exploration of the use of gameplay features in pedagogy is that the tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
+
+**Gaps in agency / fluency / empowerment**
+
+
+
+Despite Papert's [@lodi_computational_2021] early focus on the importance of community participation and resulting forms of fluency, existing research in this field is still lacking in this area in particular surrounding specifics on a microlevel informing how what Kafai calls collecive agency is formed.
+
+In this chapter I have agued that while innovative  Papert's constructionism lack theoretical foundations, a deficit which can be addressed by integrating the motivations, in particular that of varied concepts of fluency [@papert_technological_1995; @resnick_computational_2018; @kafai201221] and design heuristics [@resnick_reflections_2005] with more contemporary socio-cultural concepts.
 
 
 
@@ -1236,15 +1223,7 @@ Following from the use of  a collection of design patterns to support collaborat
 
 As outline in Chapter one, these elements are address using the following research questions.
 
-#### Research Questions
 
-**Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
-
-1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
-
-2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
-
-3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design)
 
 
 

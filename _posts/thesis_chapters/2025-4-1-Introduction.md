@@ -292,7 +292,7 @@ While much research on digital game making focuses on its educational benefits f
 REFRAME AS EMPOWERMENT
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers the practical process of learning to code, it also addresses aspects of game making that are more to do with the overall expressive value of digital media. To serve this exploration the concepts of computational fluency (one used within foundational CGD&P research) and agency are used as a guiding principle throughout the thesis.
 
-MOVE LATER? CH. 2 
+MOVE LATER? CH. 2
 The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick, fluency, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction-based computing education [@resnick_coding_2020].
 
 
@@ -388,8 +388,7 @@ These experiences of agency and collective change also has the potential to addr
 The sketchy nature of projects in terms of incompleteness also seems to offer potential to avoid unintended consequences through rapid, responsive adjustments made easier by its evolving nature.
 
 
-
- These aspects are explored in later chapters in reflections on design-based research.
+These aspects are explored in later chapters in reflections on design-based research.
 
 <!-- In the 2000s, my focus shifted towards environmental activism, migrant rights and left-libertarian protests against unaccountable global institutions like the WTO, IMF, and G8.  I used film screenings and music events for outreach and email lists, websites and wikis as organising tools. My work with Undercurrents, a video activism magasine, involved digitising their VHS content for online distribution [@heritage2008video]. Through Undercurrents, I connected with a broader network of media and internet activists associated with the Indymedia project [@pickard_united_2006]. These experiences exposed me to non-hierarchical organising approaches and the decentralised organising principles, which are also an important guidelines for the free software and free culture movements [@lessig_free_2004]. Inspired by these potential of the tools and organising processes, I began to share relevant approaches with local organisations by specialising in internet and media creation training and community development. -->
 
@@ -428,8 +427,6 @@ The general areas of perceived need are as follows.
 
 #### On Fluency & Agency
 
-
-
 Concepts of promise, are that of fluency and agency
 
 The guiding principle unifying these terms is being self expression & the following are relevant.
@@ -449,6 +446,29 @@ Given the importance of more intentional pedagogical approaches in this area and
 
 A clearer understanding of process of developing agency is needed .
 
+
+## Summary of the theoretical framework of this thesis
+
+
+<!-- #### (Why not use constructionism) - EDIT DOWN -->
+
+Constructionism is a foundational guiding theory in game making studies [@papert_mindstorms_1980], illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, I have chosen activity theory as a better fit as a for the aims of this thesis. I am in agreement with Ang et al. [-@ang_case_2011, p.539] who see value in constructionist framings of the pedagogical value of constructing tangible products in a community setting but locate the deficit of "a systematic framework for analysing the construction activities within a learning community".
+
+ANG CHOOSE AT TOO BUT INCLUDE SOME THEORY HERE.
+
+In choosing a theoretical approach which aligned with the goals of the research questions and my role as both a practitioner and a researcher, it was vital to select a framework that could address potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency.
+
+<!-- I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
+
+While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.   -->
+
+
+
+<!-- Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012]. -->
+
+
+Chapter 3 explored in depth in these frameworks in relation to these needs.
+
 ## 4. Research objectives and questions
 
 In this section on aims and objectives I will outline
@@ -456,6 +476,16 @@ In this section on aims and objectives I will outline
 and break it down a bit
 
 <!-- (e.g., explore family game making, analyse coding interactions, identify factors influencing empowerment). -->
+
+#### Research Questions
+
+**Principle question:** How can pedagogies to support CGD&P be enriched using socio-cultural approaches (CHAT more specifically)?
+
+1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed?
+
+2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
+
+3. How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? (and thus what subsequent implications does this have on understandings of pedagogy design)
 
 ### Primary research question and aims and objectives
 
@@ -467,13 +497,33 @@ This aim is supported by more specific objectives via sub questions.
 
 The sub-questions are explored in greater details at the end of Chapter 2 in relation to the problem statement of the thesis.
 
-### Research objectives & Recap of motivation
+### Research objectives & motivation (is motivation right here? how different from rationale and significance?)
+
+This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies and some of the tensions associated with issues of bringing dimensions of authenticity of processes and tool use from informal and professional communities into more guided non-formal settings.
+
+This motivation aligns with structural challenges faced by practitioners in schools and volunteer-supported settings regarding curriculum, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
 
 Despite the many studies published on the benefits of game making for learning, few contain detailed specifics of pedagogies when supporting learners in the process of game design.
 
 LESS ON THIS.
 Additionally, many of the technologies used in past studies are no longer practical to use. This study aims to evaluate and build on relevant research, detailed in Chapter 2, and to update practices to use open-source, industry standard, web-technologies (HTML and JavaScript) with an aim to add longevity, authenticity, and extensibility to the game making toolset. In addition, this research proposes a clear but flexible pedagogy based around the use of gameplay design patterns, that has emerged from a responsive design process. These themes are continued in the design narrative of Chapter 4.  
 
+
+
+
+
+
+**Motivations patched in from Ch.2 - regarding agency**
+
+There is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
+
+Given my particular interest in empowerment within technology education, greater clarity in terms of
+
+one promising concept within relevant research is that of  fluency in constructionist research on digital making.
+
+PATCHED IN INTEGRATE
+
+This research locates particular potential in the use of is a socio cultural intepreational of agency. In RQ3 and tackled in more detail in Chapter 3.
 
 
 ### The scope of the thesis and what it does not try to address
@@ -497,25 +547,7 @@ I have also put to one side a line of inquiry exploring a drama process introduc
 <!-- Thus proposed motivations for supporting coding and game making are analysed alongside the financial models which support activities. I am guided by the work of Vossoughi and colleagues  [@vossoughi_making_2016] whose see critique of maker movement shows the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. -->
 
 
-#### (Why not use constructionism) - EDIT DOWN
 
-Constructionism is a popular guiding theory in game making studies, illustrated in particular, by Kafai and colleagues outlining the value of making _constructionist_ games [kafai_constructionist_2015]. Despite the value of these contributions to this domain of research, this section explains why I have chosen activity theory as a better fit for the aims of this thesis. I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
-
-While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.  
-
-
-
-
-### Summary of the theoretical framework of this thesis
-
-In choosing a theoretical approach which aligned with the goals of the research questions and my role as both a practitioner and a researcher, it was vital to select a framework that could address potential complications within the research process. The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR).
-
-Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency.
-
-<!-- Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012]. -->
-
-
-Chapter 3 explored in depth in these frameworks in relation to these needs.
 
 
 ## 5. Significance of the study
