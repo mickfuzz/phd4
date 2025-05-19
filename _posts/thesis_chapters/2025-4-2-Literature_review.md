@@ -1095,11 +1095,56 @@ If viewed from a wider socio-cultural perspective what potential does games maki
 
 This section returns to the guiding research questions in relation to the existing gaps in the research landscape which invite further study. In broad terms the review and surrounding work of Kafai and Burke [@kafai_constructionist_2015; @kafai_connected_2016] cite a relative deficit in research addressing game making compared to game making and within that a relative dearth of studies addressing social and cultural pedagogies. The second point is confirmed in Denner et al's later systemic review [@denner_does_2019].
 
-In particular there is a lack of specific pedagogies to address how to support the dimensions of
+<!--
 
-- formation of making identities
-- peer interaction beyond feedback,
-- inclusive induction into community activities.
+
+**RECAP OF POTENIAL?** -->
+
+<!-- One premise driving my exploration of the use of gameplay features in pedagogy is that the  -->
+
+
+#### Pedagogies exist but more are needed
+
+Chapter 1, outlined needs of the study within a problem framing which addressed barriers to participation of technical, guided pedagogies and cultural apsects.  This chapter has outlined some promising pedagogical approaches in research in CGD&P and digital making more broadly but also located gaps meriting more investigation.
+
+While there are several existing game making tools available, my focus on authentic use of tools and communities, led me to select a tool set of a code playground and a professional JavaScript game library, an approach barely addressed in related research, thus inviting further investigation. Chapter 5 will outline my approach and some of the barriers that arise. Given that few studies communicate pedagogical detail in a way which allows replication, in this study I leverage my own commitment to and experience in documenting learning processes and facilitation materials via openly-licenced, accessible documenation and description to address this deficit.  
+
+
+This literature review has identifies a lack of specific pedagogical appraoches to address how to support the dimensions of formation of making identities, peer interaction beyond feedback, inclusive induction into community activities.
+
+
+Pair and peer programming show promise but (what are limits?) [@werner2014using].
+
+UMC [@lee_computational_2011] offer a general structure to organise a remix-ed based approaches as a way to leverage social sharing, and the related work on half-baked games places this with a game making context underlining the importance of game features as motivating factors [@kynigos_children_2018].  
+
+The use of design patterns in this context is promising to help motivation and structure documentation [@repenning_scalable_2015] and to structure feedback process in a  co-design process [@eriksson_using_2019]. However these existing studies have limitations. In the SGD [@repenning_scalable_2015], there were limitations in participant pathways and resulting reduction in student ownership. Addressing Stringforce [@eriksson_using_2019], the potential use of GDPs for participants and teachers is under-explored. Additionally as participants did not modify computer code this invites research to assess the utility of a collection of GDPs to support programming.
+
+Thus, in summary, while some suitable and inclusive pedagogies exists, more are needed that are specific, aligned with non-formal spaces, facilitate agency development, and development of learner identity drawing on funds on knowledge.
+
+**Cultural factors**
+
+Tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
+
+
+### Link to the next chapter
+
+Having explored the remit of the problem statement, and the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, pedagogy and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
+
+
+[^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
+
+
+[^2]: Funds of knowledge are resources which learners can draw on in either formal or informal settings. These may be home practices learned from family members, special hobby interests or broader cultural practices [@moll_funds_1992]
+
+[^3]: A collection of over 200 patterns organised by diverse themes are online here.  http://virt10.itu.chalmers.se/index.php/Category:Patterns
+
+[^4]: https://web.archive.org/web/20131220180134/https://sites.google.com/a/elinemedia.com/gsmlearningguide/home
+
+[^5]: https://web.archive.org/web/20220331110501/https://wiki.computationalthinkingfoundation.org/wiki/images/5/5b/ACO_Frogger_Student_v1.0.pdf
+
+
+## Parked
+
 
 ---
 
@@ -1121,54 +1166,3 @@ Stress of facilitators, technical barriers, lack of frameworks to chart agency d
 
 
 ---
-
-
-**RECAP OF POTENIAL?**
-
-<!-- One premise driving my exploration of the use of gameplay features in pedagogy is that the  -->
-
-
-**Lack of specific pedagogies aligned with socio-cultural approaches**
-
-#### Pedagogies exist but more are needed
-
-Chapter 1, outlined needs of the study within a problem framing which addressed barriers to participation of x,y and z.
-
-The specific choice of a code playground and a professional JavaScript game library provide specific setting that merits investigation.
-
-This chapter has outlined some promising pedagogical approaches in research in CGD&P and digital making more broadly but also located gaps meriting more investigation.  
-
-Pair and peer programming show promise but (what are limits?) [@werner2014using].
-
-UMC [@lee_computational_2011] offer a general structure to organise a remix-ed based approaches as a way to leverage social sharing, and the related work on half-baked games places this with a game making context underlining the importance of game features as motivating factors [@kynigos_children_2018].  
-
-The use of design patterns in this context is promising to help motivation and structure documentation [@repenning_scalable_2015] and to structure feedback process in a  co-design process [@eriksson_using_2019]. However these existing studies have limitations. In the SGD [@repenning_scalable_2015], there were limitations in participant pathways and resulting reduction in student ownership. Addressing Stringforce [@eriksson_using_2019], the potential use of GDPs for participants and teachers is under-explored. Additionally as participants did not modify computer code this invites research to assess the utility of a collection of GDPs to support programming.
-
-Thus, in summary, while some suitable and inclusive pedagogies exists, more are needed that are specific, aligned with non-formal spaces, facilitate agency development, and development of learner identity drawing on funds on knowledge.
-
-**Cultural factors**
-
-Tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
-
-
-
-**A specific and replicable pedagogy - MOVE TO CH.4?**
-Given that few studies communicate pedagogical detail in a way which allows replication, in this study I leverage my own commitment to and experience in documenting learning processes and facilitation materials via openly-licenced, accessible documenation and description to address this deficit.  
-
-
-
-
-### Link to the next chapter
-
-Having explored the remit of the problem statement, and the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, pedagogy and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
-
-
-[^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
-
-[^2]: Funds of knowledge are resources which learners can draw on in either formal or informal settings. These may be home practices learned from family members, special hobby interests or broader cultural practices [@moll_funds_1992]
-
-[^3]: A collection of over 200 patterns organised by diverse themes are online here.  http://virt10.itu.chalmers.se/index.php/Category:Patterns
-
-[^4]: https://web.archive.org/web/20131220180134/https://sites.google.com/a/elinemedia.com/gsmlearningguide/home
-
-[^5]: https://web.archive.org/web/20220331110501/https://wiki.computationalthinkingfoundation.org/wiki/images/5/5b/ACO_Frogger_Student_v1.0.pdf
