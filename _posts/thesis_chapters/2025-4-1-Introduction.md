@@ -182,33 +182,20 @@ The process aligns with mutuality of design work and acknowledgement that while 
 
 ## 2. Context / Background
 
-This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home-educating families attending a series of game-making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section situates this research within key contextual themes.
+This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home-educating families attending a series of game-making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section situates this research within key contextual themes. This section begins with the context of non-formal home education setting before addressing digital making as a more general educational activity and finally focusing on game making as a subset of digital making.
 
-This section begins with digital making as a more general theme before focuses in on game making.
-
+MOTIVATION DRIVING THIS ? SITUATE READER - SURFACE RELEVANT THEMES?
 <!-- A more detailed exploration continues in the literature review of Chapter 2. -->
 
-### CONTEXT - MORE GENERAL COMPUTING
 
 
 ### Background of informal settings / non-formal and  home education context
 
-MOVED FROM CH 2. INTEGRATE
 
-The setting of this research within the scope of non-formal activity attended by home educating families, while not a key focus of the study, is relevant and as such needs clarifying.
+The setting of this research within a non-formal activity attended by families is needs clarifying at this stage. The nature of formality in learning is examined briefly here using two dimensions: setting and educational structure. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment  [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2006] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term "non-formal" describe learning that happens outside of formal institutions, which may involve less direct instruction but still comprises an organised learner experience, existing therefore between both formal and unstructured learning on a spectrum. This study uses the term _non-formal_ learning in this way, while _informal_ learning is used more loosely to indicate less structured activities happening outside a classroom context.
 
-NON FORMAL OR INFORMAL
-The term informal is examined briefly here using two dimensions: setting and educational structure. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment  [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2006] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term "non-formal" describe learning that happens outside of formal institutions, which may involve little instruction but still comprises a carefully planned learner experience, contrasting with both formal and unstructured learning. This study uses the term _non-formal_ in this way, while _informal_ is used more loosely to indicate unstructured, open activities happening outside a classroom lesson.
+Similarly the context of home educating families merits attention here. The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. These motivations are often categorized into two broad streams: pedagogy and ideology [@galen_home_1991; @rothermel_can_2003]. Addressing ideology, some families choose home education to limit their children’s exposure to mainstream values, such as religious beliefs or consumerist ideals. In terms of pedagogy, popular concepts within home education circles include unschooling and deschooling. Holt’s concept of unschooling [@gray_challenges_2013] emphasises facilitating learning by drawing out children's interests through everyday activities. Illich’s work on deschooling promotes the idea of _webs of learning_ [@illich_deschooling_1971], where learners access educational experiences in varied contexts based on their interests and needs, rather than relying on a single educational institution as the sole source of knowledge. Many home-educating families actively seek and establish networks, using friendships, social networking groups, and email lists to share opportunities and collaborate on learning activities [@doroudi_relevance_2023]. The game-making club that forms the basis of this research can be viewed as one node within the complex web of learning that participating families engage with.
 
-
-
-
-
-#### Home education context
-
-The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. These motivations are often categorized into two broad streams: pedagogy and ideology [@galen_home_1991; @rothermel_can_2003]. Addressing ideology, some families choose home education to limit their children’s exposure to mainstream values, such as religious beliefs or consumerist ideals. In terms of pedagogy, popular concepts within home education circles include unschooling and deschooling. Holt’s concept of unschooling [@gray_challenges_2013] emphasises facilitating learning by drawing out children's interests through everyday activities. Illich’s work on deschooling promotes the idea of _webs of learning_ [@illich_deschooling_1971], where learners access educational experiences in varied contexts based on their interests and needs, rather than relying on a single educational institution as the sole source of knowledge. Many home-educating families actively seek and establish networks, using friendships, social networking groups, and email lists to share opportunities and collaborate on learning activities [@doroudi_relevance_2023]. The game-making club that forms the basis of this research can be viewed as one node within the complex web of learning that participating families engage with.
-
-**integrate**
 
 
 ### Context of wider digital making and culture home and informal settings
@@ -219,14 +206,12 @@ MOVED FROM CHAPTER 2 INTEGRATE DOWN
 
  <!--  -->
 
-Learning in non-formal environments such as home education settings allows participants to follow their own interests and to group together with others that share similar aims. Gee [@gee_what_2004] frames these informal, often online communities as _affinity spaces_.
-
-It is relevant to examine the broader context of areas of activity around games and the resulting diverse learning outcomes. Gee [@gee_what_2004] terms this activity and culture created around games  _meta-gaming_. Examples include: fan websites and fiction, sharing of tips, creation of imitation games or related artwork. Gee examines how shared discourses and emerging identities develop within these spaces. Researcher Mizuko Ito's ethnographic approach to studies of informal digital consumption and making in the home [@ito_hanging_2010; @ito_living_2009], charts a progression in proficiency of young makers of digital products within online communities.  This approach connects the affordances of new online tools with the sociocultural view of learning as embedded within social and cultural contexts [@ito2013connected].   Sefton Green [@sefton-green_mapping_2013] explores the wider context of digital making including anxieties around the use of digital technology by young people and and it's alignment with valued digital skills required by the workforce. He notes both the potential and current lack of research on the transfer of learning opportunities and learner trajectories between informal experiences, formal learning settings and professional destinations. Observations of young people's enthusiastic involvement in digital media and game making, and meta-gaming in informal communities have sparked questions on how to leverage this interest as funds for other educational aims [@gee_what_2004; @papert_mindstorms_1980].
-Sefton Green also outlines emerging more structured programme which aim to do this.  
-
-CHECK OVERLAP WITH LIT REVIEW
+Gee [@gee_what_2004] describes the process of learning in informal environments such as home education settings and the resulting opportunities for participants to follow their own interests and to group together with others that share similar aims, framing the communities as _affinity spaces_. Gee's research [@gee_what_2004] in part addresses the domain of computer games. He terms the activity and culture created around games  _meta-gaming_. Examples include: fan websites and fiction, sharing of tips, creation of imitation games or related artwork. Gee examines how shared discourses and emerging identities develop within these spaces. In a similar vein, researcher Mizuko Ito's ethnographic approach to studies of informal digital consumption and making in the home [@ito_hanging_2010; @ito_living_2009], charts a progression in proficiency of young makers of digital products within online communities. Her approach connects the affordances of new online tools with a sociocultural view of learning as embedded within social and cultural contexts [@ito2013connected]. Sefton Green [@sefton-green_mapping_2013] explores the wider context of digital making including: its alignment with valued digital skills required by the workforce, anxieties around the use of digital technology by young people, and the role of diverse learning settings. He notes both the potential and current lack of research on the transfer of learning opportunities and learner trajectories between informal experiences, formal learning settings and professional destinations.
 
 ETHOS AND MOTIVATION
+
+Observations of young people's enthusiastic involvement in digital media and game making, and meta-gaming in informal communities have sparked questions on how to leverage this interest as funds for other educational aims [@gee_what_2004; @papert_mindstorms_1980]. This underlying question in part informs the ethos of this thesis. 
+
 
 The desire to complete a particular project and self-motivated access to the resources to achieve it is the stuff of computing mythology, recalling the kind of garage innovation that created Apple computer and early hacker computing culture [@fuller_garage_2015].
 
