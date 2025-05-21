@@ -9,87 +9,82 @@ layout: post
 categories: chapter
 title: 1. Introduction - Games for a Read-Write world.
 ---
-
--   [Ideas to add into the
-    introduction](#ideas-to-add-into-the-introduction)
--   [1. Introduction to the thesis](#introduction-to-the-thesis)
-    -   [Introduction to increased use and importance of technology in
-        western
-        society](#introduction-to-increased-use-and-importance-of-technology-in-western-society)
--   [2. Context / Background](#context-background)
-    -   [Background of informal settings / non-formal and home education
-        context](#background-of-informal-settings-non-formal-and-home-education-context)
-    -   [Context of wider digital making and culture home and informal
-        settings](#context-of-wider-digital-making-and-culture-home-and-informal-settings)
-    -   [Context of school-based computing
-        education](#context-of-school-based-computing-education)
-    -   [An introduction to the context of on digital game
-        making](#an-introduction-to-the-context-of-on-digital-game-making)
-    -   [The context of family gaming](#the-context-of-family-gaming)
-    -   [Barriers to participation in programming and specifically
-        CGD&P](#barriers-to-participation-in-programming-and-specifically-cgdp)
--   [3. Rationale for the Study:](#rationale-for-the-study)
-    -   [Personal context](#personal-context)
-    -   [Connecting my experience to broader contextual
-        themes](#connecting-my-experience-to-broader-contextual-themes)
-    -   [Rationale of home education settings as a site of
-        research](#rationale-of-home-education-settings-as-a-site-of-research)
-    -   [Ratinale for a new design (is this
-        objectives?)](#ratinale-for-a-new-design-is-this-objectives)
-    -   [Summary problem statement of the
-        thesis](#summary-problem-statement-of-the-thesis)
--   [Summary of the theoretical framework of this
-    thesis](#summary-of-the-theoretical-framework-of-this-thesis)
--   [4. Research objectives and
-    questions](#research-objectives-and-questions)
-    -   [Research Questions (RQs)](#research-questions-rqs)
-    -   [Primary research question and aims and
-        objectives](#primary-research-question-and-aims-and-objectives)
-    -   [Research objectives](#research-objectives)
-        -   [a NEW LEARNING DESIGN WHICH SUPPORTS
-            Agency-](#a-new-learning-design-which-supports-agency-)
-    -   [The scope of the thesis and what it does not try to
-        address](#the-scope-of-the-thesis-and-what-it-does-not-try-to-address)
--   [5. Significance of the study](#significance-of-the-study)
--   [6. Chapter outline of the study](#chapter-outline-of-the-study)
-    -   [7. Link to next chapter](#link-to-next-chapter)
--   [To integrate above](#to-integrate-above)
-    -   [Barriers to participation in game making practices (explored in
-        contextual
-        settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
-    -   [Institutional Barriers - related to UK School
-        context](#institutional-barriers---related-to-uk-school-context)
-    -   [Technical Barriers - Difficulties in learning to
-        program](#technical-barriers---difficulties-in-learning-to-program)
-    -   [Cultural / Identity barriers to participation in
-        ...](#cultural-identity-barriers-to-participation-in)
-        -   [Barrier - Identity and computer
-            cultures](#barrier---identity-and-computer-cultures)
-    -   [Barrier - unfamiliarity with support
-        practices](#barrier---unfamiliarity-with-support-practices)
-    -   [Outlining cultural barriers / aspects of game
-        making](#outlining-cultural-barriers-aspects-of-game-making)
--   [TO DROP OR MERGE UP.](#to-drop-or-merge-up.)
--   [Existing responses to
-    challenges](#existing-responses-to-challenges)
-    -   [Digital projects as an inclusive pedaogogy - MOVE TO
-        INTRODUCTION](#digital-projects-as-an-inclusive-pedaogogy---move-to-introduction)
-    -   [Resource provision and CPD](#resource-provision-and-cpd)
-        -   [Computing at schools](#computing-at-schools)
-    -   [Open source, online responses to the
-        challenge](#open-source-online-responses-to-the-challenge)
-        -   [Mozilla, an open source
-            toolset](#mozilla-an-open-source-toolset)
--   [4-DROP MERGE. Introduction to theoretical framework &
-    agency](#drop-merge.-introduction-to-theoretical-framework-agency)
-    -   [Theoretical framework](#theoretical-framework)
-    -   [On agency and cultural historical activity theory /
-        socio-cultural
-        approach](#on-agency-and-cultural-historical-activity-theory-socio-cultural-approach)
-    -   [On utility and Design-based
-        research](#on-utility-and-design-based-research)
--   [PARKED](#parked)
-
+-   [Introduction - "Games for a Read / Write
+    World."](#introduction---games-for-a-read-write-world.)
+    -   [1. Introduction to the thesis](#introduction-to-the-thesis)
+    -   [2. Context / Background](#context-background)
+        -   [Background of informal settings / non-formal and home
+            education
+            context](#background-of-informal-settings-non-formal-and-home-education-context)
+        -   [Context of wider digital making and culture home and
+            informal
+            settings](#context-of-wider-digital-making-and-culture-home-and-informal-settings)
+        -   [Context of school-based computing
+            education](#context-of-school-based-computing-education)
+        -   [An introduction to the context of on digital game
+            making](#an-introduction-to-the-context-of-on-digital-game-making)
+        -   [The context of family
+            gaming](#the-context-of-family-gaming)
+        -   [Barriers to participation in programming and specifically
+            CGD&P](#barriers-to-participation-in-programming-and-specifically-cgdp)
+    -   [3. Rationale for the Study:](#rationale-for-the-study)
+        -   [Personal context](#personal-context)
+        -   [Connecting my experience to broader contextual
+            themes](#connecting-my-experience-to-broader-contextual-themes)
+        -   [Rationale of home education settings as a site of
+            research](#rationale-of-home-education-settings-as-a-site-of-research)
+        -   [Ratinale for a new design (is this
+            objectives?)](#ratinale-for-a-new-design-is-this-objectives)
+        -   [Summary problem statement of the
+            thesis](#summary-problem-statement-of-the-thesis)
+    -   [4. Theoretical framework, research objectives, and
+        questions](#theoretical-framework-research-objectives-and-questions)
+    -   [Summary of the theoretical framework of this
+        thesis](#summary-of-the-theoretical-framework-of-this-thesis)
+        -   [Research Questions (RQs)](#research-questions-rqs)
+        -   [Research objectives](#research-objectives)
+        -   [Justification of limitations in scope of the
+            thesis](#justification-of-limitations-in-scope-of-the-thesis)
+    -   [5. Significance of the study](#significance-of-the-study)
+    -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
+        -   [7. Summary and link to next
+            chapter](#summary-and-link-to-next-chapter)
+    -   [To integrate above](#to-integrate-above)
+        -   [Barriers to participation in game making practices
+            (explored in contextual
+            settings)](#barriers-to-participation-in-game-making-practices-explored-in-contextual-settings)
+        -   [Institutional Barriers - related to UK School
+            context](#institutional-barriers---related-to-uk-school-context)
+        -   [Technical Barriers - Difficulties in learning to
+            program](#technical-barriers---difficulties-in-learning-to-program)
+        -   [Cultural / Identity barriers to participation in
+            ...](#cultural-identity-barriers-to-participation-in)
+            -   [Barrier - Identity and computer
+                cultures](#barrier---identity-and-computer-cultures)
+        -   [Barrier - unfamiliarity with support
+            practices](#barrier---unfamiliarity-with-support-practices)
+        -   [Outlining cultural barriers / aspects of game
+            making](#outlining-cultural-barriers-aspects-of-game-making)
+    -   [TO DROP OR MERGE UP.](#to-drop-or-merge-up.)
+    -   [Existing responses to
+        challenges](#existing-responses-to-challenges)
+        -   [Digital projects as an inclusive pedaogogy - MOVE TO
+            INTRODUCTION](#digital-projects-as-an-inclusive-pedaogogy---move-to-introduction)
+        -   [Resource provision and CPD](#resource-provision-and-cpd)
+            -   [Computing at schools](#computing-at-schools)
+        -   [Open source, online responses to the
+            challenge](#open-source-online-responses-to-the-challenge)
+            -   [Mozilla, an open source
+                toolset](#mozilla-an-open-source-toolset)
+    -   [4-DROP MERGE. Introduction to theoretical framework &
+        agency](#drop-merge.-introduction-to-theoretical-framework-agency)
+        -   [Theoretical framework](#theoretical-framework)
+        -   [On agency and cultural historical activity theory /
+            socio-cultural
+            approach](#on-agency-and-cultural-historical-activity-theory-socio-cultural-approach)
+        -   [On utility and Design-based
+            research](#on-utility-and-design-based-research)
+    -   [PARKED](#parked)
 
 # Introduction - “Games for a Read / Write World.”
 
@@ -107,7 +102,7 @@ To come - for now see outline of thesis at the end of chapter -->
 
 We live in a society where digital technology is increasingly used in work, education and home life, providing diverse opportunities. These opportunities are balanced with potential costs at both a societal and individual level. This study addresses the creation of interactive, online media in the form of the production of web-browser based games for the purposes of education. Over the lifespan of this thesis there has been significant developments in narratives concerning digital media and participation in knowledge production. At the start of my work in this area, a concern around deficit of computer literacy workforce was prevalent, particularly in the area of lack of computer programming [@livingstone_next_2011]. The underlying narrative was generally optimistic, new technologies are providing diverse opportunities and the challenge is to ensure opportunities of access for diverse stakeholders. By way of contrast, present narratives surrounding the concerns surround impact of generative artificial intelligence and social media on young people are less optimistic. Specific concerns include: the risk that convenience and automation of tasks, in the form of generative AI and related software services, diminish critical thinking skills making individuals overly reliant on technology;  sophisticated media production and delivery systems which driven by algorithmically generated suggestions can foster passive consumption of media in a way which amplifies divisions within society; and the impact on young people of increased screen time and subsequent impact of reduced real life  interactions. Participation of young people within areas of social media and online gaming in particular reflect ongoing tensions related to the opportunities for self-expression and the dangers of identity formation within digital spaces that are hard for parents to participant in for governments to effectively regulate.  
 
-In response there are increasing calls for digital and resistance often taking the form of reduced participation in online communities or consumption of digital media from corporate sources [@syvertsen_digital_2020]. However, for young people with their working life ahead of them non-participation in the digital landscape as a strategy may be a limiting and potentially alienating strategy. Also, given that digital non-participation may remove critical voices from important debates on our futures, a more  tactical and participatory approach may be more productive both on an individual level and for society. An alternative strategy is a more active and critical engagement with media production. Thus a diverse set of stakeholders from educators [@resnick_coding_2020], cultural commentators [@rushkoff_program_2010], media theorists [@ito_hanging_2010] have have called for a broader approach to digital education that includes media literacy and hands-on coding experiences via creative digital projects.
+In response there are increasing calls for digital and resistance often taking the form of reduced participation in online communities or consumption of digital media from corporate sources [@syvertsen_digital_2020]. However, for young people with their working life ahead of them non-participation in the digital landscape as a strategy may be a limiting and potentially alienating strategy. Also, given that digital non-participation may remove critical voices from important debates on our futures, a more  tactical and participatory approach may be more productive both on an individual level and for society. An alternative strategy is a more active and critical engagement with media production. A diverse set of stakeholders from educators [@resnick_coding_2020], cultural commentators [@rushkoff_program_2010], media theorists [@ito_hanging_2010] have have called for a broader approach to digital education that includes media literacy and hands-on coding experiences via creative digital projects. The unifying ethos is that to benefit from the expressive and empowering potential offered by digital media products like websites, games, videos, music and podcast learners should be able to write as well as read digital formats [@resnick2002rethinking].
 
 <!-- This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society. -->
 
@@ -116,7 +111,7 @@ In response there are increasing calls for digital and resistance often taking t
 
 The research process of this thesis brings families together in a new learning environment to learn how to create video games based on early arcade and platform games. As such this thesis addresses diverse elements including the development of skills needed to participate in computer game design and programming (CGD&P), the process of self-expression and identity development within an emerging community, and possibilities to structure the learning experience to help overcome inherent barriers to participation.
 
-This chapter is structured to give an overview of the context, rationale, process, objectives and significance of this study. While the setting of this study is non-formal in nature, because CGD&P is present and relevant in contexts of both formal and non-formal computing education, the following section outlines the changing contextual features of both areas. Following this, I outline key barriers to participation to game making. The rationale driving this work is then outlined by connecting with my personal context with broader motivations. The next section briefly addresses the theoretical framework in
+This chapter is structured to give an overview of the context, rationale, process, objectives and significance of this study. While the setting of this study is non-formal in nature, because CGD&P is present and relevant in contexts of both formal and non-formal computing education, the following section outlines the changing contextual features of both areas. Following this, I outline key barriers to participation to game making. The rationale driving this work is then outlined by connecting with my personal context with broader motivations. The next section briefly addresses the theoretical framework, research questions and subsequent research objectives. Finally, the potential and significance are outlined.
 
 
 
@@ -139,7 +134,7 @@ The process aligns with mutuality of design work and acknowledgement that while 
 
 This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home-educating families attending a series of game-making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section situates this research within key contextual themes. This section begins with the context of non-formal home education setting before addressing digital making as a more general educational activity and finally focusing on game making as a subset of digital making.
 
-MOTIVATION DRIVING THIS ? SITUATE READER - SURFACE RELEVANT THEMES?
+<!-- MOTIVATION DRIVING THIS ? SITUATE READER - SURFACE RELEVANT THEMES? -->
 <!-- A more detailed exploration continues in the literature review of Chapter 2. -->
 
 
@@ -280,9 +275,6 @@ The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] e
 <!-- For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. -->
 
 
-
-
-
 **Difficulties in structuring and accessing learning experiences**
 
 A further area of barriers to participation in CGD&P is the lack are those regarding difficulties in structuring and accessing learning experiences. For example a key review exposed a lack of specific pedagogical approaches to undertake social approaches in CGD&P [@kafai_constructionist_2015]. While existing approaches are outlined in Chapter 2, for now it is sufficient to outline broad approaches and some inherent challenges.
@@ -345,8 +337,8 @@ Discussion around the launch of a new UK computing curriculum in 2013 championed
 
 <!-- This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. -->
 
-MOVE? WHERE?
-One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
+<!-- MOVE? WHERE?
+One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency. -->
 
 ### Connecting my experience to broader contextual themes
 
@@ -372,14 +364,15 @@ Beyond the structure of the practices involved, early in the research process I 
 
 Much of my experience and motivation revolved around space based approaches to learning be it at a festivals, community centre, arts centre or community workshop. Within these varied communities I had fulfilled a role of outreach events and communications with an aim of bringing more people into community activities. Underlying this activity is a personal commitment that the process would be beneficial to both the communities involved and the people I was recruiting [^11]. This research addresses an inequality of access to digital participatory culture with the understanding that such access has the potential for significant benefits. If participants can develop agency and experience collective change at this scale, they may subsequently possess greater potential to address problems in other contexts.
 
+
+
 <!-- Drawing on learners' interests and creating authentic products is a foundational approach of PBL and is explored in game-making context in convincing research. -->
 
 **Summary**
 
 <!-- The importance of participation within seemingly chaotic processes as a way of building a collective understanding of the problem area among participants stands out to me a one with great potential to address important contemporary challenges. -->
 
-MOVEd TO RATIONALE?
-This motivation aligns with structural challenges faced by practitioners in schools and volunteer-supported settings regarding curriculum, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
+
 
 This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies and some of the tensions associated with issues of bringing dimensions of authenticity of processes and tool use from informal and professional communities into more guided non-formal settings. While the question of if building a agency within the collaborative work of this activity offers potential to address important contemporary challenges is beyond the scope of this study, it remains a guiding rationale.
 
@@ -431,6 +424,18 @@ Despite the growing recognition of CGD&P's educational potential, effective peda
 
 
 
+
+<!-- I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
+
+While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.   -->
+
+<!-- Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012]. -->
+
+
+## 4. Theoretical framework, research objectives, and questions
+
+
+
 ## Summary of the theoretical framework of this thesis
 
 
@@ -441,20 +446,17 @@ In choosing a theoretical approach which aligned with the goals of the research 
 <!-- ANG CHOOSE AT TOO BUT INCLUDE SOME THEORY HERE. -->
 The focus of the research required a framework containing concepts able to the following: analyse the evolution of participant agency in the learning process, accommodate authentic learning contexts, conceptualise barriers to participation, and support a mutual approach to involving the community in design changes. To meet these needs I have chosen cultural historical activity theory (CHAT) and supplemented it with specific techniques of design-based research (DBR). Activity theory as a theoretical framework provides tools to study the impact of past cultural activity of participants on present, emergent activity. CHAT also provides powerful concepts to explore a complex and dynamic picture of participant agency which aligns with the context of undertaking CGD&P for motivations of participant empowerment within broader contexts. Chapter 3 explores the use of activity theory and DBR in more depth in relation to these needs.
 
-<!-- I have been inspired by Papert and colleagues celebration of concrete approaches to creating digital project bricolage approaches and pioneering work of the resulting constructionist school, centred around MIT media lab, in design software and tools for students to learn in exploratory, project oriented ways.
-
-While constructionism has been used as a "epistemological paradigm, a learning theory and a design framework" [@kynigos_constructionism:_2015], it is the latter that I find most productive due to its comparative weakness as a more general theoretical framework.   -->
-
-<!-- Key characteristics of constructionist design principles are explored in Chapter 2 where I acknowledge their significant contribution to the evolution of the learning design outlined in Chapter 4. In these chapters, I also compare these principles with similar concepts used by sociocultural research in HCI studies, for example Nardi and Kaptelin's interpretation of affordances as a from of mediated action [@kaptelinin_affordances_2012]. -->
-
-
-## 4. Research objectives and questions
-
-This research explores how socio-cultural approaches, particularly Cultural-Historical Activity Theory (CHAT), can inform Computer Game Design and Programming (CGD&P) pedagogies. The study aims to enhance inclusive, engaging, and effective learning experiences within non-formal settings, with findings intended for broader application.
 
 <!-- (e.g., explore family game making, analyse coding interactions, identify factors influencing empowerment). -->
 
-#### Research Questions (RQs)
+
+
+### Research Questions (RQs)
+
+
+
+This research explores how socio-cultural approaches, particularly Cultural-Historical Activity Theory (CHAT), can inform Computer Game Design and Programming (CGD&P) pedagogies. The study aims to enhance inclusive, engaging, and effective learning experiences within non-formal settings, with findings intended for broader application.
+
 
 The overall aim of this study is best represented via the primary research question (PRQ) of this thesis: **How can pedagogies to support CGD&P be enriched using socio-cultural approaches to foster inclusive learning in non-formal contexts?**
 
@@ -464,7 +466,6 @@ To achieve this aim three sub-questions follow.
 - RQ2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 - RQ3. How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts??
 
-### Primary research question and aims and objectives
 
 
 
@@ -486,19 +487,14 @@ Addressing RQ3, the research seeks to bring greater conceptual clarity to the mo
 
 
 
-#### a NEW LEARNING DESIGN WHICH SUPPORTS  Agency-
 
-NOTE - MOVED TO OBJECTIVES CHECK - NOT SURE WHERE TO PLACE THIS.
+<!-- The guiding principle unifying these terms is being self expression & the following are relevant.
 
-
-The guiding principle unifying these terms is being self expression & the following are relevant.
-
-- via instrumental coding competency needed to make changes effectively with or without supporting documentation
-- from a as a read / write perspective, learners should be able to write as well as read programs as a form of empowerment [@resnick2002rethinking]
-- via expression of creative or significant ideas in constructing digital products  
+- via instrumental coding competency needed to make changes effectively with or without supporting documentation -->
 
 
-### The scope of the thesis and what it does not try to address
+
+### Justification of limitations in scope of the thesis
 
 <!-- Clearly define what your thesis will and will not address.
 Acknowledge any limitations or constraints of your research.
@@ -540,6 +536,9 @@ To effectively capture and analyse the social and cultural development within th
 Furthermore, this thesis contributes to ongoing discussions about disseminating pedagogical practices in game making, an area often lacking detailed description in existing studies [@kafai_constructionist_2015]. The detailed approach taken to describe the research aims to facilitate the communication of specific workshop practices and pedagogical approaches to both researchers and practitioners, addressing the challenge of abstract or context-bound findings [@hoadley_creating_2002-1]. This commitment to detailed description aims to make the findings more accessible and replicable, fostering a stronger connection between research and practice in the field and potentially informing the adoption and adaptation of the pedagogical approach in diverse contexts. To this end, the study is guided by research processes that aim to share design heuristics in a format accessible to a broad audience, potentially informing the design of future learning experiences and tools that further promote learner agency.
 
 This thesis contributes to emerging socio-cultural interpretations of agency through the analysis of this community game-making context. While not presenting a novel theoretical framework, this situated analysis offers valuable empirical insights into the nuanced ways in which agency develops within a collaborative digital making environment, adding to the growing body of work in this area and potentially informing future research on learner empowerment in technology-rich settings, particularly in relation to how pedagogical choices and the design of learning environments can foster or hinder agency.
+
+Finally, while the kind of media making activity suits non-formal environments either within or outside of schools, there are numerous structural challenges faced by practitioners regarding  financial sustainability, limits of sustained volunteer activities,
+Better rationale and for what makes non-formal settings beneficial is therefore useful in advocacy to fund and motivate activity.
 
 
 
@@ -630,7 +629,10 @@ Chapter 7 discusses the characteristics of an inclusive pedagogical environment 
 
 Chapter 8 concludes the thesis with a final discussion on the significance of my findings in line with other research and discusses the limitations of this research and identifies areas for future work.
 
-### 7. Link to next chapter
+### 7. Summary and link to next chapter
+
+
+
 
 This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The introduction also highlighted the complexities of and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarifies key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepares the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
 
