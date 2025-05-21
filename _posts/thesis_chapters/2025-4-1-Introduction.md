@@ -117,41 +117,18 @@ To come - for now see outline of thesis at the end of chapter -->
 
 ### Introduction to increased use and importance of technology in western society
 
-We live in a society where digital technology is increasingly used in work, education and home life, providing diverse opportunities. These opportunities are balanced with potential costs at both a societal and individual level. This study addresses the creation of interactive, online media in the form of the production of web-browser based games for the purposes of education.
+We live in a society where digital technology is increasingly used in work, education and home life, providing diverse opportunities. These opportunities are balanced with potential costs at both a societal and individual level. This study addresses the creation of interactive, online media in the form of the production of web-browser based games for the purposes of education. Over the lifespan of this thesis there has been significant developments in narratives concerning digital media and participation in knowledge production. At the start of my work in this area, a concern around deficit of computer literacy workforce was prevalent, particularly in the area of lack of computer programming [@livingstone_next_2011]. The underlying narrative was generally optimistic, new technologies are providing diverse opportunities and the challenge is to ensure opportunities of access for diverse stakeholders. By way of contrast, present narratives surrounding the concerns surround impact of generative artificial intelligence and social media on young people are less optimistic. Specific concerns include: the risk that convenience and automation of tasks, in the form of generative AI and related software services, diminish critical thinking skills making individuals overly reliant on technology;  sophisticated media production and delivery systems which driven by algorithmically generated suggestions can foster passive consumption of media in a way which amplifies divisions within society; and the impact on young people of increased screen time and subsequent impact of reduced real life  interactions. Participation of young people within areas of social media and online gaming in particular reflect ongoing tensions related to the opportunities for self-expression and the dangers of identity formation within digital spaces that are hard for parents to participant in for governments to effectively regulate.  
 
-
-Over the lifespan of this thesis there has been significant developments in narratives concerning digital media and participation in knowledge production. At the start of my work in this area, a concern around deficit of computer literacy workforce was prevalent, particularly in the area of lack of computer programming [@livingstone_next_2011]. The underlying narrative was generally optimistic, new technologies are providing diverse opportunities and the challenge is to ensure opportunities of access for diverse stakeholders. By way of contrast, present narratives surrounding the concerns surround impact of generative artificial intelligence and social media on young people are less optimistic. Specific concerns include: the risk that convenience and automation of tasks, in the form of generative AI and related software services, diminish critical thinking skills making individuals overly reliant on technology;  sophisticated media production and delivery systems which driven by algorithmically generated suggestions can foster passive consumption of media in a way which amplifies divisions within society.
-
-In response there are increasing calls for digital and resistance often taking the form of reduced participation in online communities or consumption of digital media from corporate sources [@syvertsen_digital_2020]. However, for young people with their working life ahead of them non-participation in the digital landscape as a strategy may be a limiting and potentially alienating strategy. Also, given that digital non-participation may remove critical voices from important debates on our futures, a more  tactical and participatory approach may be more productive both on an individual level and for society.
-
-An alternative strategy is a more active and critical engagement with media production. Thus a diverse set of stakeholders from educators [@resnick_coding_2020], cultural commentators [@rushkoff_program_2010], media theorists [@ito_hanging_2010] have have called for a broader approach to digital education that includes media literacy and hands-on coding experiences and creative digital projects.
+In response there are increasing calls for digital and resistance often taking the form of reduced participation in online communities or consumption of digital media from corporate sources [@syvertsen_digital_2020]. However, for young people with their working life ahead of them non-participation in the digital landscape as a strategy may be a limiting and potentially alienating strategy. Also, given that digital non-participation may remove critical voices from important debates on our futures, a more  tactical and participatory approach may be more productive both on an individual level and for society. An alternative strategy is a more active and critical engagement with media production. Thus a diverse set of stakeholders from educators [@resnick_coding_2020], cultural commentators [@rushkoff_program_2010], media theorists [@ito_hanging_2010] have have called for a broader approach to digital education that includes media literacy and hands-on coding experiences via creative digital projects.
 
 <!-- This would therefore encourage a more active and critical engagement with technology in a way that would potentially benefit wider society. -->
 
-
-### Introduction to issues for technology use for young people
-
-Some of the greatest areas for concern relate to the developmental changes in for young people as individuals. The impact of increased screen time on mental health and subsequent impact of reduced  social interactions real life are areas of concern under research.
-
-Participation of young people within areas of social media and online gaming in particular reflect ongoing tensions related to the opportunities for self-expression and the dangers of identity formation within digital spaces that are hard for parents to participant in for governments to effectively regulate.  
-
 <!-- AND? The picture is complex reflecting online choices by young people which may have longer terms negative impact on wider agency and diversity. ? Something like this.   -->
 
-### Introduction to the focus of the study on computer game design and programming (CGD&P)
 
-REVISIT THIS - HOW TO PUT IN A NUTSHELL?
+The research process of this thesis brings families together in a new learning environment to learn how to create video games based on early arcade and platform games. As such this thesis addresses diverse elements including the development of skills needed to participate in computer game design and programming (CGD&P), the process of self-expression and identity development within an emerging community, and possibilities to structure the learning experience to help overcome inherent barriers to participation.
 
-The research process of this thesis brings families together in a new learning environment to learn how to create video games based on early arcade and platform games.
-
-As such this thesis addresses diverse elements including the development of skills needed to participate in computer game design and programming (CGD&P),  the process of self-expression and identity development within an emerging community, and possibilities to structure the learning experience to help overcome inherent barriers to participation.
-
-CGD&P is relevant in both contexts of both formal and non-formal computing education. The next section outlines the  changing contextual features of both areas.
-
-### Format of this chapter
-
-Keep this brief.
-
-Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions.
+This chapter is structured to give an overview of the context, rationale, process, objectives and significance of this study. While the setting of this study is non-formal in nature, because CGD&P is present and relevant in contexts of both formal and non-formal computing education, the following section outlines the changing contextual features of both areas. Following this, I outline key barriers to participation to game making. The rationale driving this work is then outlined by connecting with my personal context with broader motivations. The next section briefly addresses the theoretical framework in 
 
 
 
