@@ -164,14 +164,11 @@ Keep this brief.
 Following this, I outline key barriers to participation to game making identifying factors of technical, cultural, and practical dimensions.
 
 
-
 <!-- THIS I THINK IS NOT REALLY ADDRESSED IN THIS THESIS - THE LATTER PART IS ON AGENCY
 
 However, my experiences highlight the barriers to undertaking practical project-based learning (PBL) projects, particularly in a UK computing context, a theme which is explored further in the literature review. The process of being involved in short-term systemic change only to suffer later backlash has guided me to help others explore a more critical understanding of their own place within wider systems.  -->
 
 <!-- A special issue of Mind and Culture [@kajamaa_young_2019] focuses on young people, digital mediation, and transformative agency. This theme is explored by RQ3 and becomes the guiding principle of Chapter 7. -->
-
-
 
 <!-- Rogoff reflection on the seemingly chaotic processes happening in a community of learners [].   -->
 
@@ -182,20 +179,30 @@ The process aligns with mutuality of design work and acknowledgement that while 
 
 ## 2. Context / Background
 
-This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home-educating families attending a series of game-making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section situates this research within key contextual themes. This section begins with the context of non-formal home education setting before addressing digital making as a more general educational activity and finally focusing on game making as a subset of digital making.
+This introduction begins an exploration of key contextual factors. The immediate context of the core activities of this research was a new learning community involving of home-educating families attending a series of game-making sessions in the setting of my University campus. Sessions involved families, myself (as both a researcher and teaching facilitator), and for most sessions, volunteer student helpers. This section situates this research within key contextual themes.
 
-MOTIVATION DRIVING THIS ? SITUATE READER - SURFACE RELEVANT THEMES?
+This section begins with digital making as a more general theme before focuses in on game making.
+
 <!-- A more detailed exploration continues in the literature review of Chapter 2. -->
 
+### CONTEXT - MORE GENERAL COMPUTING
 
 
 ### Background of informal settings / non-formal and  home education context
 
+MOVED FROM CH 2. INTEGRATE
 
-The setting of this research within a non-formal activity attended by families is needs clarifying at this stage. The nature of formality in learning is examined briefly here using two dimensions: setting and educational structure. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment  [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2006] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term "non-formal" describe learning that happens outside of formal institutions, which may involve less direct instruction but still comprises an organised learner experience, existing therefore between both formal and unstructured learning on a spectrum. This study uses the term _non-formal_ learning in this way, while _informal_ learning is used more loosely to indicate less structured activities happening outside a classroom context.
+The setting of this research within the scope of non-formal activity attended by home educating families, while not a key focus of the study, is relevant and as such needs clarifying.
 
-Similarly the context of home educating families merits attention here. The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. These motivations are often categorized into two broad streams: pedagogy and ideology [@galen_home_1991; @rothermel_can_2003]. Addressing ideology, some families choose home education to limit their children’s exposure to mainstream values, such as religious beliefs or consumerist ideals. In terms of pedagogy, popular concepts within home education circles include unschooling and deschooling. Holt’s concept of unschooling [@gray_challenges_2013] emphasises facilitating learning by drawing out children's interests through everyday activities. Illich’s work on deschooling promotes the idea of _webs of learning_ [@illich_deschooling_1971], where learners access educational experiences in varied contexts based on their interests and needs, rather than relying on a single educational institution as the sole source of knowledge. Many home-educating families actively seek and establish networks, using friendships, social networking groups, and email lists to share opportunities and collaborate on learning activities [@doroudi_relevance_2023]. The game-making club that forms the basis of this research can be viewed as one node within the complex web of learning that participating families engage with.
+NON FORMAL OR INFORMAL
+The term informal is examined briefly here using two dimensions: setting and educational structure. While definitions of informal education are complex, the term generally refers to learning that occurs outside a traditional school environment  [@erstad_identity_2012]. However, as Sefton-Green [@sefton-green_literature_2006] notes, formally structured learning can take place in informal settings, and vice-versa. Others writers [@eshach_bridging_2007, p. 173; @werquin_recognition_2009] use the term "non-formal" describe learning that happens outside of formal institutions, which may involve little instruction but still comprises a carefully planned learner experience, contrasting with both formal and unstructured learning. This study uses the term _non-formal_ in this way, while _informal_ is used more loosely to indicate unstructured, open activities happening outside a classroom lesson.
 
+
+#### Home education context
+
+The processes and motivations driving of home education are varied [@fensham-smith_invisible_2021]. These motivations are often categorized into two broad streams: pedagogy and ideology [@galen_home_1991; @rothermel_can_2003]. Addressing ideology, some families choose home education to limit their children’s exposure to mainstream values, such as religious beliefs or consumerist ideals. In terms of pedagogy, popular concepts within home education circles include unschooling and deschooling. Holt’s concept of unschooling [@gray_challenges_2013] emphasises facilitating learning by drawing out children's interests through everyday activities. Illich’s work on deschooling promotes the idea of _webs of learning_ [@illich_deschooling_1971], where learners access educational experiences in varied contexts based on their interests and needs, rather than relying on a single educational institution as the sole source of knowledge. Many home-educating families actively seek and establish networks, using friendships, social networking groups, and email lists to share opportunities and collaborate on learning activities [@doroudi_relevance_2023]. The game-making club that forms the basis of this research can be viewed as one node within the complex web of learning that participating families engage with.
+
+**integrate**
 
 
 ### Context of wider digital making and culture home and informal settings
@@ -206,12 +213,16 @@ MOVED FROM CHAPTER 2 INTEGRATE DOWN
 
  <!--  -->
 
-Gee [@gee_what_2004] describes the process of learning in informal environments such as home education settings and the resulting opportunities for participants to follow their own interests and to group together with others that share similar aims, framing the communities as _affinity spaces_. Gee's research [@gee_what_2004] in part addresses the domain of computer games. He terms the activity and culture created around games  _meta-gaming_. Examples include: fan websites and fiction, sharing of tips, creation of imitation games or related artwork. Gee examines how shared discourses and emerging identities develop within these spaces. In a similar vein, researcher Mizuko Ito's ethnographic approach to studies of informal digital consumption and making in the home [@ito_hanging_2010; @ito_living_2009], charts a progression in proficiency of young makers of digital products within online communities. Her approach connects the affordances of new online tools with a sociocultural view of learning as embedded within social and cultural contexts [@ito2013connected]. Sefton Green [@sefton-green_mapping_2013] explores the wider context of digital making including: its alignment with valued digital skills required by the workforce, anxieties around the use of digital technology by young people, and the role of diverse learning settings. He notes both the potential and current lack of research on the transfer of learning opportunities and learner trajectories between informal experiences, formal learning settings and professional destinations.
+Learning in non-formal environments such as home education settings allows participants to follow their own interests and to group together with others that share similar aims. Gee [@gee_what_2004] frames these informal, often online communities as _affinity spaces_.
+
+It is relevant to examine the broader context of areas of activity around games and the resulting diverse learning outcomes. Gee [@gee_what_2004] terms this activity and culture created around games  _meta-gaming_. Examples include: fan websites and fiction, sharing of tips, creation of imitation games or related artwork. Gee examines how shared discourses and emerging identities develop within these spaces. Researcher Mizuko Ito's ethnographic approach to studies of informal digital consumption and making in the home [@ito_hanging_2010; @ito_living_2009], charts a progression in proficiency of young makers of digi
+
+tal products within online communities.  This approach connects the affordances of new online tools with the sociocultural view of learning as embedded within social and cultural contexts [@ito2013connected].   Sefton Green [@sefton-green_mapping_2013] explores the wider context of digital making including anxieties around the use of digital technology by young people and and it's alignment with valued digital skills required by the workforce. He notes both the potential and current lack of research on the transfer of learning opportunities and learner trajectories between informal experiences, formal learning settings and professional destinations. Observations of young people's enthusiastic involvement in digital media and game making, and meta-gaming in informal communities have sparked questions on how to leverage this interest as funds for other educational aims [@gee_what_2004; @papert_mindstorms_1980].
+Sefton Green also outlines emerging more structured programme which aim to do this.  
+
+CHECK OVERLAP WITH LIT REVIEW
 
 ETHOS AND MOTIVATION
-
-Observations of young people's enthusiastic involvement in digital media and game making, and meta-gaming in informal communities have sparked questions on how to leverage this interest as funds for other educational aims [@gee_what_2004; @papert_mindstorms_1980]. This underlying question in part informs the ethos of this thesis.
-
 
 The desire to complete a particular project and self-motivated access to the resources to achieve it is the stuff of computing mythology, recalling the kind of garage innovation that created Apple computer and early hacker computing culture [@fuller_garage_2015].
 
@@ -274,16 +285,9 @@ The value of these informal spaces and approaches -->
 
 **Broad Motivations for CGD&P**
 
-
-While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including  supporting a stem-pipeline into industry, aims to develop digital literacy, or exploring ethical issues.  
-
-
-
+While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including critical making and empowerment.
 
 <!-- This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society. -->
-
-
-
 
 REFRAME AS EMPOWERMENT
 In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices. The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers the practical process of learning to code, it also addresses aspects of game making that are more to do with the overall expressive value of digital media. To serve this exploration the concepts of computational fluency (one used within foundational CGD&P research) and agency are used as a guiding principle throughout the thesis.
@@ -375,59 +379,60 @@ Margolis et al. [@margolis_stuck_2008] outlined barriers contributing to a racia
 <!-- In the middle of regenerated Hulme on the corner opposite the Birley fields campus is a squat unassuming building called the church of the Ascension. It is notable Apart from being  a site of sanctuary for the political refugee Viraj Mendis in a notable anti-deportation campaign of the 1980s, it was also the site of one of Europe's first electronic village halls, Hulme Community
 ##  Computing Centre. Here a encouraged me to make a website a music fanzine I edited, giving me a print out on how to write HTML web pages and offering free space as part the projects website. This spirit of peer-learning combined with my desire to share the ethos of the DIY music scene fuelled many years of using the internet to promote unlicensed music events. In 1995, the internet, like Hulme, seemed to be a corporate free space, a space for oddballs, niche enthusiasts and more importantly activists. This period saw increasing alignment with the growth of the internet to link up activities of disparate political and cultural groups around gatherings international finance institution (IFIs). For me this culminated in helping to organise and promote an event for June 18th 1999. Similar carnival-themed events drew on the blue print of reclaim the streets mixing street blockaded by outdoor sound systems. While the site of street party and protests as a chaotic and inspirational environment has been explored [@carmo_reclaim_2012; @jordan_notes_2005]. -->
 
-The role of this thesis regarding the use of technology for self-expression is one reflected in my personal and professional trajectory. My journey into the world of technology and education began in the 1990s via my participation in organising and promoting unlicensed music events, free festivals and related campaigning activity. In the _party and protest culture_ which emerged from the 1994 campaign against the Criminal Justice Bill [@mckay_diy_1998], email lists and websites became important outreach and organising tools. I was an enthusiast early adopter of these technologies for the purpose of social change. In the 2000s, my focus shifted towards environmental activism, migrant rights and left-libertarian protests challenging the unaccountability of international finance institutions including the WTO, IMF, and G8 [^1]. Self-made media and cultural activity was an important part of this movement. The advent of the relatively affordable, Hi8 and subsequently MiniDV domestic camcorders and PC based editing software began to remove financial and barriers to video production [^2]. In 2000 I began work with Undercurrents [^3], a _video activism_ magasine [@heritage2008video] to run their website and to begin digitising their VHS content for online distribution. My role also involved organising film screenings and music events for outreach. This work culminated in involvement with a broad network of media and internet activists associated with the Indymedia project [@pickard_united_2006]. Indymedia was an volunteer-run coalition of anti-capitalist media activist which was notable for pioneering work in free software and open source (FLOSS) [^4] technology and non-hierarchical volunteer organising to enable a federated system of open publishing news websites spanning hundreds of cities and regions.
+The role of this thesis regarding the use of technology for self-expression is one reflected in my personal and professional trajectory. My journey into the world of technology and education began in the 1990s via my participation in organising and promoting unlicensed music events and festivals. Email and websites became important tools in this process, and I was an enthusiast early adopter of these technologies. These experiences exposed me to decentralised organising principles, which became an important guidelines for the free software and free culture movements [@lessig_free_2004]. Inspired by these potential of the tools and organising processes, I began to share relevant approaches with local organisations by specialising in internet and media creation training and community development. Related work with FLOSS Manuals, writing and promoting documentation and online learning resources for media creation and collaborative processes using Free Software allowed me to document and advocate for low-cost media and web production methods. A key partner in this process was the Mozilla community where I created documentation, workshop guides and other learning resources with networks of informal educators. At this time co-authored _A Open Web_ [^5], a book which celebrated the opportunities provided by open source and decentralised web technology to create a more egalitarian environment of digital participation, and importantly noted emerging risks to this mode of participation.  
 
-These decentralised organising and production principles, important to both non-hierarchical protest movements and free software also began to impact broader low-cost, participatory digital culture. In particular, the repurposable nature of digital content and alternative approaches to attribution challenging copyright gave rise to widespread _remixing_ as a creative process [@lessig_remix_2009]. Lessig [-@lessig_free_2004] describes the possibilities and resulting activity using the terms as _free culture_. I later co-authored _A Open Web_ [^5], a book which celebrated the opportunities provided by open source and decentralised web technology to create a more egalitarian environment of digital participation, and importantly noted emerging risks to this mode of participation. I shared relevant approaches with local organisations by undertaking internet and media creation training and community development in Manchester and Salford [^6]. I also undertook writing and later organisational work with FLOSS Manuals [^7], and the Mozilla community [^8]  writing documentation and online learning resources for media creation and collaborative processes aimed at individuals and informal educators.
+Discussion around the launch of a new UK computing curriculum in 2013 championed the possibilities of creative digital production within the classroom [@livingstone_next_2011]. In that year I undertook a Masters in Computing and in the following year a PGCE in Computing. As part of my PGCE dissertation, I designed and delivered a pilot scheme to teach JavaScript in playful ways. The learning materials were made available as an OER as part of Mozilla's online teaching resources [^1]. Unfortunately, the constraints of the school context and the new curriculum hindered the kind of authentic activities that first attracted me to teaching in Computing in schools. Instead, after completing my PGCE, I joined Manchester Metropolitan University in a role focusing on community education partnerships as part of the EdLab project [^2]. This work provided opportunities to pursue creative, project based approaches to teaching technology to young people and families. Building on the success of this work, I applied to undertake this PhD study with the Education and Social Research Institute of Manchester Metropolitan University (ESRI).
+
+#### Recap of Personal Motivations
+
+A personal motivation driving this research is to better understand my practice as an activist, community worker and practice-focused educator.  Much of my experience and motivation revolved around space based approaches to learning be it at a festival, community centre, arts centre or community workshop.
 
 
-Discussion around the launch of a new UK computing curriculum in 2013 championed the possibilities of creative digital production within the classroom [@livingstone_next_2011]. In that year I undertook a Masters in Computing and in the following year a PGCE in Computing. As part of my PGCE dissertation, I designed and delivered a pilot scheme to teach JavaScript in playful ways. The learning materials were made available as an OER as part of Mozilla's online teaching resources [^9]. Unfortunately, the constraints of the school context and the new curriculum hindered the kind of authentic activities that first attracted me to teaching in Computing in schools. Instead, after completing my PGCE, I joined Manchester Metropolitan University in a role focusing on community education partnerships as part of the EdLab project [^10]. This work provided opportunities to pur_free culture_sue creative, project based approaches to teaching technology to young people and families. Building on the success of this work, I applied to undertake this PhD study with the Education and Social Research Institute of Manchester Metropolitan University (ESRI).
+As a practitioner, while I had a sense of what success felt like in creative media project work, I lacked clear language to communicate this either in the academic or practice based settings.
 
+In these settings the motivations of empowerment and social change were important.
+
+Such factors are also important in this settings
+IN WHAT WAYS/ FOR WHO?
+
+To help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency.
 
 
 <!-- As I used these terms in an academic context there was push back from colleagues - seeing choice as a term tainted by market driven trends in education.  -->
 
 <!-- This motivation has guided me towards existing research reflect on experiences of developing agency within a non-formal communities.   -->
 
-<!-- This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work. -->
+This complexity is important to this thesis as it allows a full exploration of contextual factors at play, especially initial and emerging barriers to participation to undertaking project work.
 
 MOVE? WHERE?
 One research question of thesis addresses the process of developing agency within a community. While agency and autonomy have disputed, often inter-related definitions [@huang_autonomy_2013; @matusov_mapping_2016]. In chapter 3, this study explores the following terms to guide later analysis: instrumental agency; relational agency ; and authorial agency.
 
 ### Connecting my experience to broader contextual themes
 
-My experience above informs the broad rationale of this thesis is several ways. Firstly my experience of education in non-formal settings informs my search to better understand underlying structure of learning. Secondly, I want to investigate the importance my motivations for social change as a driver of learning experiences in a different context. Finally, the value of a space or community based learning experience connects to an important line of inquiry in this thesis. This section addresses these elements in turn.
-
-<!-- YES BUT WHY?  -->
-
-**Pedagogy**
-
-The theme of tacit knowledge of practitioners, knowledge which is embedded in practice but hard to articulate, is a common challenge in education [@kratka_tacit_2015]. Bruner [-bruner1999folk] calls these practices _folk pedagogies_. Rogoff [-@rogoff_developing_1994, p. 219] reflects that initial first impressions of a 'chaotic' environment of learning happening in non-formal settings are misleading stem from a lack of understanding of the underlying structure of the mutual activities at play. We can see that this aspect is relevant to a wider rationale of this study to addresses issues of structuring learning to address barriers to facilitating CGD&P. As such, the research process requires precision in both reflection on and communication of process which I have observed in myself and others working in this field.
+SPACE BASED LEARNING.
 
 
+RECAP THE BROADER RESEARCH THEMES
 
-
-**Agency**
-
-Beyond the structure of the practices involved, early in the research process I reflected that while I had an intuitive sense of what success felt like in creative media project work, I lacked clear language to communicate this. In activist settings the motivations of social change, autonomy were vital. In the broader community settings a broader sense of empowerment seemed appropriate as an end goal for learners. As this research progressed, I have been drawn to existing research reflecting on experiences of developing agency within a non-formal learning communities. To help reflect on this issue, this thesis engages with a complex and dynamic picture of participant agency.
-
-<!-- The processes of building agency in a fledgling community can be seen as important acts of community participation. -->
-
-**Advocating for community approaches to learning**
-
-
-Much of my experience and motivation revolved around space based approaches to learning be it at a festivals, community centre, arts centre or community workshop. Within these varied communities I had fulfilled a role of outreach events and communications with an aim of bringing more people into community activities. Underlying this activity is a personal commitment that the process would be beneficial to both the communities involved and the people I was recruiting [^11]. This research addresses an inequality of access to digital participatory culture with the understanding that such access has the potential for significant benefits. If participants can develop agency and experience collective change at this scale, they may subsequently possess greater potential to address problems in other contexts.
+PERHAPS DROP / MERGE THIS SECTION
+In this section, I outline how these experiences connect to broader research issues on  media and game creation within informal learning environments.
 
 <!-- Drawing on learners' interests and creating authentic products is a foundational approach of PBL and is explored in game-making context in convincing research. -->
 
-**Summary**
+My past aims surrounding empowerment through music events and protest movement align with broader movements that advocate equality of access to digital participatory culture.
 
-<!-- The importance of participation within seemingly chaotic processes as a way of building a collective understanding of the problem area among participants stands out to me a one with great potential to address important contemporary challenges. -->
+The processes of building agency in a fledgling community can be seen as important acts of community participation.
 
-MOVEd TO RATIONALE?
-This motivation aligns with structural challenges faced by practitioners in schools and volunteer-supported settings regarding curriculum, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
+I find Rogoff's reflection that initial first impressions of a 'chaotic' environment of learning in a community of learners are false impressions that stem from a lack of understanding of the underlying structure of activity [-@rogoff_developing_1994, p. 219] useful.
 
-This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies and some of the tensions associated with issues of bringing dimensions of authenticity of processes and tool use from informal and professional communities into more guided non-formal settings. While the question of if building a agency within the collaborative work of this activity offers potential to address important contemporary challenges is beyond the scope of this study, it remains a guiding rationale.
+The importance of participation within seemingly chaotic processes as a way of building a collective understanding of the problem area among participants stands out to me a one with great potential to address important contemporary challenges.
 
+These experiences of agency and collective change also has the potential to address problems at larger and smaller scopes.
+
+The sketchy nature of projects in terms of incompleteness also seems to offer potential to avoid unintended consequences through rapid, responsive adjustments made easier by its evolving nature.
+
+
+These aspects are explored in later chapters in reflections on design-based research.
 
 <!-- In the 2000s, my focus shifted towards environmental activism, migrant rights and left-libertarian protests against unaccountable global institutions like the WTO, IMF, and G8.  I used film screenings and music events for outreach and email lists, websites and wikis as organising tools. My work with Undercurrents, a video activism magasine, involved digitising their VHS content for online distribution [@heritage2008video]. Through Undercurrents, I connected with a broader network of media and internet activists associated with the Indymedia project [@pickard_united_2006]. These experiences exposed me to non-hierarchical organising approaches and the decentralised organising principles, which are also an important guidelines for the free software and free culture movements [@lessig_free_2004]. Inspired by these potential of the tools and organising processes, I began to share relevant approaches with local organisations by specialising in internet and media creation training and community development. -->
 
@@ -442,38 +447,50 @@ In 2011, it was revealed that an undercover police officer named Mark Kennedy, o
 
 <!-- While home education is not a core focus of this thesis, it is a significant contextual factor in the research process. As such, I address key contextual factors that impact this study here. THIS IS ABOVE.  -->
 
-The involvement of home educating families as the primary participants of this study is a result of both practical and wider factors. My engagement with game creation rather than media or web co-production as an educator marked a significant shift in personal practice. This new direction originated from a consultation with home educators as part of my university outreach and partnership work with the EdLab project. At the consultation parents and children at the consultation asked if we could lead activities which drew on the children's interest in digital games. Parents asked if we could find a way to teach computer coding using this interest. Minecraft was a named example of a computer game which involved some elements of creative processes. Figure 1.x shows one of the products of this consultation. The names at the top of the image are those of YouTubers making content around Minecraft.
+The contextual features outlined above align with practical factors to make home educators a good fit for this thesis.
 
-![Figure 1.x. Image created by a home educating child showing their interest in Minecraft and the surrounding culture.](./Pictures/mine_craft_img.png){width=90%}
+The involvement of family members brings out possibilities to connect to home funds of knowledge (is this explored above?)
 
-The contextual features outlined above align with practical factors to make home educators a good fit for this thesis. Research in schools settings is sometimes hampered by practical issues such as timetable considerations and lack of time for project work outside of the subject curriculum. These factors are largely absent when working with home educating families. In addition, the alignment with the needs of participants was also a relevant factor in this work with home educators, allowed for reciprocity in the research process.
+An alignment with the needs of participants was also a relevant factor in this work with home educators, allowing for reciprocity in the research process. My engagement with game creation via coding stemmed a consultation with home educators as part of my university outreach and partnership work. To align with the interests of parents and children at the consultation asked if we could lead activities which drew on interest their children's interest in digital games, Minecraft being a named example, to promote computer coding.
 
-<!-- NOTES - could also link with after school club as a similar site. And the value of third spaces (check cross over with Ch.2) -->
+Research in schools settings is sometimes hampered by practical issues such as timetable considerations and lack of time for project work outside of the subject curriculum. These factors are largely absent when working with home educating families.
+
+NOTES - could also link with after school club as a similar site. And the value of third spaces (check cross over with Ch.2)
 
 
-### Ratinale for a new design (is this objectives?)
+### Observations leading to perceived need
 
-<!-- The more specific of these go in the more detailed problems statement in the final section of Chapter 2 after a review of existing literature.
+The more specific of these go in the more detailed problems statement in the final section of Chapter 2 after a review of existing literature.
 
 The general areas of perceived need are as follows.
 
 - Less than clear exploration of the goal of social approaches to coding - variations on Fluency
 - Specific pedagogies for social / cultural approaches
-- understandings of how to mobilise funds of knowledge -->
+- understandings of how to mobilise funds of knowledge
 
 
+#### On Fluency & Agency
 
+Concepts of promise, are that of fluency and agency
+
+The guiding principle unifying these terms is being self expression & the following are relevant.
+
+- via instrumental coding competency needed to make changes effectively with or without supporting documentation
+- from a as a read / write perspective, learners should be able to write as well as read programs as a form of empowerment [@resnick2002rethinking]
+- via expression of creative or significant ideas in constructing digital products  
 
 
 <!-- In Chapter  I propose that this aim of fluency can be profitably augmented using socio-cultural concepts of agency. -->
 
-<!-- Given the importance of more intentional pedagogical approaches in this area and the lack of detail in the reviews of CGD&P described above, the following sections will detail several key pedagogies used in this area. -->
+Given the importance of more intentional pedagogical approaches in this area and the lack of detail in the reviews of CGD&P described above, the following sections will detail several key pedagogies used in this area.
 
 ### Summary problem statement of the thesis
 
 Despite the growing recognition of CGD&P's educational potential, effective pedagogies, particularly those suitable for informal learning environments, remain under-explored. Existing approaches may not fully leverage the social and cultural dynamics inherent in these settings, potentially limiting opportunities for rich participation and the development of potentially value aspects like learner agency, existing knowledge of games, and a understanding of game design principles. Furthermore, the abstract nature of programming concepts can pose a significant barrier, and there is a need for pedagogical strategies that effectively bridge these abstract dimensions with concrete design practices in CGD&P. This research addresses the gap in understanding how socio-cultural approaches can enrich CGD&P pedagogies to foster more inclusive, engaging, and effective learning experiences that nurture agency and facilitate the application of game design knowledge.
 
+### Convictions about potential - include dynamic of agency here (and limits?)
 
+A clearer understanding of process of developing agency is needed .
 
 
 ## Summary of the theoretical framework of this thesis
@@ -501,46 +518,41 @@ This research explores how socio-cultural approaches, particularly Cultural-Hist
 
 #### Research Questions (RQs)
 
-The overall aim of this study is best represented via the primary research question (PRQ) of this thesis: **How can pedagogies to support CGD&P be enriched using socio-cultural approaches to foster inclusive learning in non-formal contexts?**
-
-To achieve this aim three sub-questions follow.
-
-- RQ1. What contradictions emerged during participation in CGD&P activities and how were they addressed via an innovative pedagogy?
+- **Principle research question (PRQ):** How can pedagogies to support CGD&P be enriched using socio-cultural approaches to foster inclusive and effective learning in various contexts?
+- RQ1. What contradictions arose in participation in this research’s CGD&P processes and how were they addressed via an innovative pedagogy?
 - RQ2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
-- RQ3. How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts??
+- RQ3. How do learner agency and game maker identity evolve within CGD&P communities of practice, and what pedagogical strategies can nurture this development across learning communities?
 
 ### Primary research question and aims and objectives
 
+The overall aim of this study is best represented via the primary research question (PRQ) of this thesis: **How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches?**
 
+### Research sub-questions and aims and objectives
 
-### Research  objectives
+The sub-questions are explored in greater details at the end of Chapter 2 in relation to the problem statement of the thesis.
 
-<!-- The sub-questions are explored in greater details at the end of Chapter 2 in relation to the problem statement of the thesis. -->
-<!-- MAKE THESE MORE SPECIFIC -->
-<!-- & motivation (is motivation right here? how different from rationale and significance?) - IS THIS THE PROBLEM STATEMENT -->
+### Research objectives & motivation (is motivation right here? how different from rationale and significance?) - IS THIS THE PROBLEM STATEMENT
 
-This study is structured around three core objectives that align with its sub-questions and overarching aim to enrich pedagogical approaches to CGD&P using activity theory as a socio-cultural approach.
+This research aims in part to explore to what extent my own interest in chaotic, community-based pedagogies and some of the tensions associated with issues of bringing dimensions of authenticity of processes and tool use from informal and professional communities into more guided non-formal settings.
 
-Addressing RQ1, the objective is to create a novel toolset and pedagogy that responds to gaps in the current research landscape and the limited resources available to practitioners. The study adapts my existing practice in facilitating web production to a new context: game-making using text-based code with families. This includes the use of FLOSS (Free/Libre and Open Source Software) and industry-standard web technologies[^12], with the aim of enhancing the longevity, authenticity, and extensibility of the game-making toolset. Through a design-based research approach, the study will identify and analyse the manifestations of contradictions within evolving CGD&P activities and explore their role in driving learning and innovation.
+This motivation aligns with structural challenges faced by practitioners in schools and volunteer-supported settings regarding curriculum, financial sustainability, limits of sustained volunteer activities, - however change is possible, this research provides a possible avenue.  
 
-In relation to RQ2, the objective is to develop a clear yet flexible pedagogy informed by gameplay design patterns (GDPs). Given that few studies provide detailed accounts of pedagogical approaches to supporting learners in the game design process, this research explores how GDPs can function as mediating tools. In particular, it investigates their role in supporting the development of learner agency and in facilitating the appropriation of complex game design knowledge within CGD&P learning environments.
+Despite the many studies published on the benefits of game making for learning, few contain detailed specifics of pedagogies when supporting learners in the process of game design.
 
-Addressing RQ3, the research seeks to bring greater conceptual clarity to the motivations underpinning novice participants' engagement in CGD&P. The focus here is on understanding the development of learner agency through the lens of activity theory, and on examining how game-maker identities emerge within the context of a novel community of practice. The objective is to explore how these identities are nurtured and sustained across different learning communities, and what pedagogical strategies support this developmental process.
+LESS ON THIS.
+Additionally, many of the technologies used in past studies are no longer practical to use. This study aims to evaluate and build on relevant research, detailed in Chapter 2, and to update practices to use open-source, industry standard, web-technologies (HTML and JavaScript) with an aim to add longevity, authenticity, and extensibility to the game making toolset. In addition, this research proposes a clear but flexible pedagogy based around the use of gameplay design patterns, that has emerged from a responsive design process. These themes are continued in the design narrative of Chapter 4.  
 
-<!-- An additional objective here is to explore the potential of the resulting activities to for in empowerment within technology use more generally. -->
+**Motivations patched in from Ch.2 - regarding agency**
 
+There is another gaps conceptually in a clarity in terms of what we are undertaking (CGD&P) for, i.e. the motivation, what we are developing.
 
+Given my particular interest in empowerment within technology education, greater clarity in terms of
 
-#### a NEW LEARNING DESIGN WHICH SUPPORTS  Agency-
+one promising concept within relevant research is that of  fluency in constructionist research on digital making.
 
-NOTE - MOVED TO OBJECTIVES CHECK - NOT SURE WHERE TO PLACE THIS.
+PATCHED IN INTEGRATE
 
-
-The guiding principle unifying these terms is being self expression & the following are relevant.
-
-- via instrumental coding competency needed to make changes effectively with or without supporting documentation
-- from a as a read / write perspective, learners should be able to write as well as read programs as a form of empowerment [@resnick2002rethinking]
-- via expression of creative or significant ideas in constructing digital products  
+This research locates particular potential in the use of is a socio cultural intepreational of agency. In RQ3 and tackled in more detail in Chapter 3.
 
 
 ### The scope of the thesis and what it does not try to address
@@ -573,79 +585,36 @@ Even this more limited focus, still contains a rich interplay of diverse tool us
 
 ## 5. Significance of the study
 
-<!-- ### Wider implications and applications of the research -->
+### Wider implications and applications of the research
 
-<!-- To further understand research objectives it is important to situate the potential relevance of the outcomes of this research by exploring its potential audience and impact. -->
-This section examines the significance of the study by exploring the wider implications and potential contribution of this research. While there has been a large body of research on the value and practice of game making for educational purposes, it remains a dynamic field with many avenues for further investigation. This study introduces a novel approach by utilising an accessible code playground environment with a modern game development library specifically suited for novice learners. This has the potential to lower the barrier to entry for individuals new to game development and programming, providing a more intuitive and engaging starting point, which in turn can foster greater participation and a more diverse range of learners in this field. The research process has yielded numerous practical resources for educators in the form of freely available software and open-licensed educational materials, offering tangible tools that can be directly implemented in educational settings and by independent learners, potentially broadening access to game making as a learning activity.
+To further understand research objectives it is important to situate the potential relevance of the outcomes of this research by exploring its potential audience and impact. Given the overall direction of this thesis, there are several possible audiences to which this is relevant. These include home educating families, teachers and facilitators, researchers in computing, and media production areas. To address this potential a concrete and detailed approach to describing the research is taken to allow for the communication of specifics of workshop practices and pedagogical approaches. Practitioners may find the narrative description of the design in Chapter 4 an accessible starting point for this work.
 
-Another key area of contribution is the development of a pedagogical approach which enhances the diverse benefits and motivations associated with engaging in CGD&P. The promotion of computational thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016]. In contrast, the specific pedagogy which emerged centred around participants' flexible use of game design patterns aligns with the broad ethos of this study to prioritising learner agency within a non-formal setting. This focus offers a potentially more inclusive and motivating approach to learning, helping this study to contribute to understanding practices that address barriers to participation associated with more formal or industry-centric learning or making environments [@vossoughi_making_2016]. The emphasis on learner agency is directly supported by the accessible toolset, allowing novices more control over their creative process.
+Educational researchers may find the exploration of agency in this study of particular value. In Chapter 7 I employ recent advances in sociocultural interpretations of collective agency, transformative agency in particular, to analyse this community game making context. As such, while not theoretically novel, this work may form a useful, situated contribution to emerging work in this area.  
 
-To effectively capture and analyse the social and cultural development within this emerging community, and to understand how these factors influence the implementation and impact of the pedagogical approach, this research employed a unique combination of data collection and analysis methods that may offer valuable insights for the field. The methodology, detailed later in this thesis, involved the concurrent analysis of participants' on-screen activities and 360-degree video recordings of their interactions. This innovative methodological approach can provide a richer and more holistic understanding of collaborative digital making, capturing both the technical processes and the crucial social dynamics that influence learning and participation, thereby offering a more nuanced perspective on how pedagogical approaches are enacted and experienced in a community setting.
-
-Furthermore, this thesis contributes to ongoing discussions about disseminating pedagogical practices in game making, an area often lacking detailed description in existing studies [@kafai_constructionist_2015]. The detailed approach taken to describe the research aims to facilitate the communication of specific workshop practices and pedagogical approaches to both researchers and practitioners, addressing the challenge of abstract or context-bound findings [@hoadley_creating_2002-1]. This commitment to detailed description aims to make the findings more accessible and replicable, fostering a stronger connection between research and practice in the field and potentially informing the adoption and adaptation of the pedagogical approach in diverse contexts. To this end, the study is guided by research processes that aim to share design heuristics in a format accessible to a broad audience, potentially informing the design of future learning experiences and tools that further promote learner agency.
-
-This thesis contributes to emerging socio-cultural interpretations of agency through the analysis of this community game-making context. While not presenting a novel theoretical framework, this situated analysis offers valuable empirical insights into the nuanced ways in which agency develops within a collaborative digital making environment, adding to the growing body of work in this area and potentially informing future research on learner empowerment in technology-rich settings, particularly in relation to how pedagogical choices and the design of learning environments can foster or hinder agency.
+To return to the pedagogical outputs, to find out who may benefit from the proposed inclusive game making pedagogy it is of use to ask _who benefits from the success of the Game Making Movement?_ The term Game Making Movement has not been widely applied, but its use by some writers indicates that a significant amount of research has been carried out as part of funded programs, not to mention extensive and creative efforts by professionals and volunteers alike to incorporate this game making into educational experiences.  There are diverse motivations to encourage in game making for learning. Examples are explore in more depth in  Chapter 2, but include: supporting a stem-pipeline into industry, aims to develop digital literacy, to learning other school subjects or exploring ethical issues. When commercially or institutionally sponsored, some of the sponsors' expectations may negatively impact the inclusivity of the learning environments in which game making happens. For examples, see Vossoughi and colleagues  [@vossoughi_making_2016] critique of maker movement and the potentially negative impact of the positivist, industry-focused STEM agenda on inclusive practice. This study aims to lean in the other direction and prioritise learner agency. However, the developing of computational fluency in learners is of broad utility to varied streams and motivations. As such, the pedagogy and toolset to facilitate game making should be used broadly.  
 
 
 
-<!-- **Diverse audience and formats of findings**
+### Contribution to knowledge of this thesis
 
-Given the overall direction of this thesis, there are several possible audiences to which this is relevant including families and facilitators in non-formal, settings and researchers in the field of in computing, and media production and education more generally.
+While there has been a large body of research on the value and practice of game making for educational purposes, it is a dynamic landscape which has many areas which merit additional research. This study is novel in its approach of using a JavaScript game library in a code playground coding environment as a tool for novices.
 
-These audiences require the findings in different formats. To address this potential a concrete and detailed approach to describing the research is taken to allow for the communication of specifics of workshop practices and pedagogical approaches. -->
-<!-- 
+While the theme of collaborative pedagogies and social practices are well explore in literature on game making, the process of creating a game making community are under-represented. Few addressing an explicit intention to nurture a community of game makers or details how the process of community formation occurred. While this wider community formation is not the main focus of this study, it is a thread which is explored here through the lens of collective agency. In order to capture and analyse the process of social and cultural development happening in the fledgling community I have used methods of data collection and analysis which I feel may be useful to share as a contribution to the field. Chapter 4 details the methodology of recording a dynamic picture of  cultural interactions. Of particular novel interest may be the use of concurrent, side-by-side analysis of capture of what was happening on participants computer screens and 360 video recordings of the room interactions.
+
 Turning to the issue of dissemination, the process of sharing details of pedagogical practice for and audience of researchers and practitioners is complicated. Many game making studies mentioned also omit descriptions of pedagogies used [@kafai_constructionist_2015].
 
 
-Given the overall direction of this thesis, there are several possible audiences to which this is relevant including families and facilitators in non-formal, settings and researchers in the field of in computing, and media production and education more generally.
+Even when processes are described, results are often too abstract to be useful or easily understood by practitioners or too bound up with contextual factors to be replicable [@hoadley_creating_2002-1]  CHECK. This is a grand problem in education which this work cannot resolve, but can only seek to mitigate against. To this end, this study is guided by research processes which share, design heuristics in a format that is accessible by researchers and practitioners.
 
-These audiences require the findings in different formats. To address this potential a concrete and detailed approach to describing the research is taken to allow for the communication of specifics of workshop practices and pedagogical approaches.
+TOO SPECIFIC? MAKE MORE GENERAL?
+An example of which is the work of Brennan and Silverman [@resnick_reflections_2005], and Brennan and  Petrich in tinkering studios. As a result, my research proposes as a design heuristic, the use of a collection of game design patterns. While some existing research on this approach exists [@holopainen2007teaching], this work contributes significantly to this area in the following ways: specifically by researching the use of a GDP collection by novice coders to make games using code, and through the an analysis of emerging  pedagogical uses of gameplay design patterns which are explored in detail in chapter 5. The research process has created numerous practical outputs for practitioners in the form of free-software and educational materials created under an open-licence.
 
+How much of this research is applicable beyond the domain of game making for educational purposes? The promise of computational thinking was in part based on such claims that it was a powerful way of thinking that could be transfered from the domain of computing to other subjects [@wing_computational_2006-1; @the_royal_society_shut_2012]. Sociocultural and situated understandings of learning view such transmission of knowledge as problematic, a view indeed shared by many advocates of computational thinking [@tedre_long_2016; @guzdial_learner-centered_2015-1].
 
-Even when processes are described, results are often too abstract to be useful or easily understood by practitioners or too bound up with contextual factors to be replicable [@hoadley_creating_2002-1]
+In addition, the specific pedagogy which emerged centred around participants flexible use of game design patterns. On the other hand, the  process which surfaced guiding design heuristics has greater potential for more diverse application. This theme is explored, along with other avenues of future potential in the concluding chapter.
 
-
-
-To this end, this study is guided by research processes which share, design heuristics in a format that is accessible by researchers and practitioners.
-
-
-Practitioners may find the narrative description of the design in Chapter 4 an accessible starting point for this work.
-
-
-
-
+INTEGRATE UP
 The promotion of computational thinking (CT) has been a key factor in the development of the UK's computing curriculum. However, the claims of early advocates that CT skills could be applied widely in subjects beyond computing are now advanced more cautiously to avoid the danger of over-promising [@tedre_long_2016].
-
-As a contrast, the specific pedagogy which emerged centred around participants flexible use of game design patterns. On the other hand, the  process which surfaced guiding design heuristics has greater potential for more diverse application. This theme is explored, along with other avenues of future potential in the concluding chapter.
- -->
-
-<!-- However, the developing of computational fluency in learners is of broad utility to varied streams and motivations. As such, the pedagogy and toolset to facilitate game making should be used broadly.   -->
-
-<!-- **contribution: broader understandings of developing  agency via a grounded case study**
-
-In Chapter 7 I employ recent advances in sociocultural interpretations of collective agency, transformative agency in particular, to analyse this community game making context. As such, while not theoretically novel, this work may form a useful, situated contribution to emerging work in this area.   -->
-
-<!-- To return to the pedagogical outputs, to find out who may benefit from the proposed inclusive game making pedagogy it is of use to ask _who benefits from the success of the Game Making Movement?_ The term Game Making Movement has not been widely applied, but its use by some writers indicates that a significant amount of research has been carried out as part of funded programs, not to mention extensive and creative efforts by professionals and volunteers alike to incorporate this game making into educational experiences.   -->
-
-
-<!-- ### Contribution to knowledge of this thesis -->
-
-
-
-<!-- While the theme of collaborative pedagogies and social practices are well explore in literature on game making, the process of creating a game making community are under-represented. Few addressing an explicit intention to nurture a community of game makers or details how the process of community formation occurred. While this wider community formation is not the main focus of this study, it is a thread which is explored here through the lens of collective agency.  -->
-**Contribution: 360 camera methodology**
-
-In order to capture and analyse the process of social and cultural development happening in the fledgling community I have used methods of data collection and analysis which I feel may be useful to share as a contribution to the field. Chapter 4 details the methodology of recording a dynamic picture of  cultural interactions. Of particular novel interest may be the use of concurrent, side-by-side analysis of capture of what was happening on participants computer screens and 360 video recordings of the room interactions.
-
-
-<!-- TOO SPECIFIC? MAKE MORE GENERAL?
-An example of which is the work of Brennan and Silverman [@resnick_reflections_2005], and Brennan and  Petrich in tinkering studios. As a result, my research proposes as a design heuristic, the use of a collection of game design patterns.  -->
-
-While some existing research on this approach exists [@holopainen2007teaching], this work contributes significantly to this area in the following ways: specifically by researching the use of a GDP collection by novice coders to make games using code, and through the an analysis of emerging  pedagogical uses of gameplay design patterns which are explored in detail in chapter 5.
-
-<!-- How much of this research is applicable beyond the domain of game making for educational purposes? The promise of computational thinking was in part based on such claims that it was a powerful way of thinking that could be transfered from the domain of computing to other subjects [@wing_computational_2006-1; @the_royal_society_shut_2012]. Sociocultural and situated understandings of learning view such transmission of knowledge as problematic, a view indeed shared by many advocates of computational thinking [@tedre_long_2016; @guzdial_learner-centered_2015-1]. -->
-
-
 
 <!-- This shows a legacy of Papert's work on maths concepts explored in computing microworlds.    -->
 
@@ -679,6 +648,9 @@ Chapter 8 concludes the thesis with a final discussion on the significance of my
 
 This introduction has outlined the core motivations for this study and summarised key, relevant contextual domains. The introduction also highlighted the complexities of and introduced the structure of the thesis, including a focus on key themes such as authenticity, barriers to participation, and inclusive pedagogical strategies. The next chapter will provide a detailed examination of relevant research on effective pedagogies and relevant theoretical concepts that are needed to follow this study. This review, in particular, clarifies key frameworks which contribute to understanding the study’s first research question. Chapter 2 also prepares the reader for a later exploration of how design-based research and third-generation activity theory are used in this study to answer the research questions.
 
+[^1]: https://web.archive.org/web/20200423162826/http://edlab.org.uk/
+[^2]: http://archive.flossmanuals.net/an-open-web/
+<!-- [^5]: https://communityreporter.net/story/internet-and-evolution-manchester-communities -->
 
 
 ## To integrate above
@@ -942,19 +914,3 @@ To counter this dominance, Papert and Turkle [-@papert_epistemological_1990] hig
 
 
 The celebration here is of pluralism rather than the culturally prevalent perspective privileging abstraction. Abstraction is not seen as undesirable, and indeed, is present in much of Papert's work. For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments.
-
-
-[^1]: WTO - World Trade Organisation, IMF - International Monetary Fund, and G8 an organisation of leading economic countries.
-[^2]: This revolution in technology is well documented here - https://ebrary.net/287067/sociology/emergence_video_activism
-[^3]: Undercurrents is still active and has a huge archive of party and protest culture footage. http://undercurrents.org
-[^4]: While there are distinction beween open source and free software FLOSS is the inclusive term encopassing both.
-[^5]: http://archive.flossmanuals.net/an-open-web/
-[^6]: I helped establish a media lab and refugee film festival with the support of Sara Domville at Community Arts North West. I co-founded a political social centre cafe and art gallery in the Northern Quarter called the Basement. I ran up a network of open access internet cafe computers and organised film nights there. I also was employed to set a Social Media Centre in Salford Innovation Centre
-[^7]: FLOSS Manuals - https://www.flossmanuals.net/
-[^8]: Mozilla both creates open source tools such as the Firefox browser and is an educational foudation advocating the open web and ethical use of technologies
-[^9]: Quacking javascript URL
-[^10]: Edlab was set up as a partnership programme between Manchester Metropolitan University and local educators as a way to give students experience of authentic community educations setting and to create innovative practice and shared knowledge  https://web.archive.org/web/20200423162826/http://edlab.org.uk/
-[^11]: This understanding led in part to me stepping back from an active role in direct action politics. In 2011, it was revealed that an undercover police officer named Mark Kennedy, operating under the alias Mark Stone, had infiltrated several activist groups I had been part of [@lewis_undercover_2013]. My role in outreach for this movement became very uncomfortable, as it became clear to the extent to which our participation in this movement came with additional risks.  
-[^12]: Many of the technologies used in past studies are no longer practical to use. Some based on outdated browser technology (Adobe's Flash), or made for older versions of Windows operating system. Instead I chose to use HTML and JavaScript. The toolset is explored in more depth in Chapter 4.
-
-<!-- [^5]: https://communityreporter.net/story/internet-and-evolution-manchester-communities -->
