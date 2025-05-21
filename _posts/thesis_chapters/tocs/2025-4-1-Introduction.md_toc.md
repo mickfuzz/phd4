@@ -13,12 +13,9 @@
             (CGD&P)](#introduction-to-the-focus-of-the-study-on-computer-game-design-and-programming-cgdp)
         -   [Format of this chapter](#format-of-this-chapter)
     -   [2. Context / Background](#context-background)
-        -   [CONTEXT - MORE GENERAL
-            COMPUTING](#context---more-general-computing)
         -   [Background of informal settings / non-formal and home
             education
             context](#background-of-informal-settings-non-formal-and-home-education-context)
-            -   [Home education context](#home-education-context)
         -   [Context of wider digital making and culture home and
             informal
             settings](#context-of-wider-digital-making-and-culture-home-and-informal-settings)
@@ -32,20 +29,14 @@
             CGD&P](#barriers-to-participation-in-programming-and-specifically-cgdp)
     -   [3. Rationale for the Study:](#rationale-for-the-study)
         -   [Personal context](#personal-context)
-            -   [Recap of Personal
-                Motivations](#recap-of-personal-motivations)
         -   [Connecting my experience to broader contextual
             themes](#connecting-my-experience-to-broader-contextual-themes)
         -   [Rationale of home education settings as a site of
             research](#rationale-of-home-education-settings-as-a-site-of-research)
-        -   [Observations leading to perceived
-            need](#observations-leading-to-perceived-need)
-            -   [On Fluency & Agency](#on-fluency-agency)
+        -   [Ratinale for a new design (is this
+            objectives?)](#ratinale-for-a-new-design-is-this-objectives)
         -   [Summary problem statement of the
             thesis](#summary-problem-statement-of-the-thesis)
-        -   [Convictions about potential - include dynamic of agency
-            here (and
-            limits?)](#convictions-about-potential---include-dynamic-of-agency-here-and-limits)
     -   [Summary of the theoretical framework of this
         thesis](#summary-of-the-theoretical-framework-of-this-thesis)
     -   [4. Research objectives and
@@ -53,19 +44,12 @@
         -   [Research Questions (RQs)](#research-questions-rqs)
         -   [Primary research question and aims and
             objectives](#primary-research-question-and-aims-and-objectives)
-        -   [Research sub-questions and aims and
-            objectives](#research-sub-questions-and-aims-and-objectives)
-        -   [Research objectives & motivation (is motivation right here?
-            how different from rationale and significance?) - IS THIS
-            THE PROBLEM
-            STATEMENT](#research-objectives-motivation-is-motivation-right-here-how-different-from-rationale-and-significance---is-this-the-problem-statement)
+        -   [Research objectives](#research-objectives)
+            -   [a NEW LEARNING DESIGN WHICH SUPPORTS
+                Agency-](#a-new-learning-design-which-supports-agency-)
         -   [The scope of the thesis and what it does not try to
             address](#the-scope-of-the-thesis-and-what-it-does-not-try-to-address)
     -   [5. Significance of the study](#significance-of-the-study)
-        -   [Wider implications and applications of the
-            research](#wider-implications-and-applications-of-the-research)
-        -   [Contribution to knowledge of this
-            thesis](#contribution-to-knowledge-of-this-thesis)
     -   [6. Chapter outline of the study](#chapter-outline-of-the-study)
         -   [7. Link to next chapter](#link-to-next-chapter)
     -   [To integrate above](#to-integrate-above)
@@ -103,3 +87,4 @@
             approach](#on-agency-and-cultural-historical-activity-theory-socio-cultural-approach)
         -   [On utility and Design-based
             research](#on-utility-and-design-based-research)
+    -   [PARKED](#parked)
