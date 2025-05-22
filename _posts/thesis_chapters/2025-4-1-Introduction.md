@@ -197,10 +197,6 @@ In the intervening years, there have been extensive programmes which provide ins
 A recent report by Kemp and colleagues [@kemp_considerations_2024] on the future of computing education confirms some of these initial concerns about the 2013 computing curriculum and related exams. The authors note the decreasing take up of computing by girls and those in lower socio-economic areas and an increasingly unequal offer of digital-based exams to students. One of the recommendations of this report is to offer more informal digital making and project work involving coding as an inclusive practice. A previous report, "After the Reboot" [@waite_pedagogy_2017], found that girls, ethnic minorities, and students of lower socio-economic status were all less likely to take computing as a subject at the GCSE level, in part due to cultural barriers and the relative difficulty of the subject. The review highlighted several areas of promise that needed more research that are relevant to this study including: game making as a way of increasing engagement in coding, use of design patterns to scaffold coding processes, and a greater focus on social and cultural aspects of coding. However, despite the report's advocacy for game making and other digital projects to mitigate issues of exclusion, the structural limitations of the curriculum and computing exams remain. These ongoing challenges within UK computing education highlight a mismatch between the curriculum and the opportunities provided by  developments in digital making. These factors have led may practitioners and researchers to investigate game making in more informal settings.
 
 
-
-
-
-
 <!-- NOTE - DEVELOP -
 The value of these informal spaces and approaches -->
 
@@ -217,35 +213,39 @@ The value of these informal spaces and approaches -->
 
 <!-- Other contextual factors regarding home and informal learning environments and digital making are explored in Chapter 2. -->
 
-### An introduction to the context of on digital game making
+### Context of digital game making
 
-**Broad Motivations for CGD&P**
+In this thesis, I explore digital game making and participation in coding community practices by home educating families. This section begins by outlining broad contextual motivations for undertaking CGD&P, progresses to briefly describe context of game culture within families before a fuller summary of potential barriers to undertaking CGD&P.
 
-
-While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, as well as enhancing coding skills [@kafai_constructionist_2015], there is also a diverse range of motivations behind game making, including  supporting a stem-pipeline into industry, aims to develop digital literacy, or exploring ethical issues.  
-
+<!-- The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses.  -->
 <!-- This study stands as a small contribution to a more inclusive approach to technology development, moving beyond a future dictated by a technological elite to one shaped by a broadly informed society. -->
 
-REFRAME AS EMPOWERMENT
-In this thesis, I explore digital game making as a vehicle to develop to computational fluency and participation in coding community practices.
+<!-- REFRAME AS EMPOWERMENT -->
 
 
-The participants in this study are small groups of home educating families undertaking short, informally-structured game making courses. While this thesis covers the practical process of learning to code, it also addresses aspects of game making that are more to do with the overall expressive value of digital media. To serve this exploration the concepts of computational fluency (one used within foundational CGD&P research) and agency are used as a guiding principle throughout the thesis.
+#### Broad Motivations for undertaking CGD&P
 
-MOVE LATER? CH. 2
-The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' [@resnick_computational_2018]. For Resnick, fluency, whether with writing or coding, helps develop your thinking, voice, and identity [@resnick_lifelong_2017]. Resnick's aim here is to critique formulaic and instruction-based computing education [@resnick_coding_2020].
+While much research on digital game making focuses on its educational benefits for subjects like mathematics and science, and computer science (via programming in particular) [@kafai_constructionist_2015], there are also a diverse range of motivations behind game making, including supporting a stem-pipeline into industry [@holmes_role_2023; @edwards_stem_2023], developing communication, creativity and  digital literacy (a grouping often framed broadly as 21st Century skills) [@bermingham_approaches_2013; @robertson_adventure_2007], or exploring social and ethical issues [@peppler_collaborative_2013]. An underlying theme to many of these motivations, and one prevalent in advocacy for digital game making, concerns the potential of the overall expressive value of digital media [@resnick_computational_2018]. For Resnick [-@resnick_lifelong_2017], developing fluency, whether with writing or coding, helps develop your thinking, voice, and identity. This point gains a particular salience given the increase attention on game playing as an educational strategy compared to game making [@kafai_connected_2016]. An exploration of computational fluency and the wider concept agency are undertaken in more detail in Chapters 2 and 3.
 
+<!-- Withing digital making and serves as a counter point to formulaic and instruction-based computing education [@resnick_coding_2020].  -->
 
-### The context of family gaming
+<!-- MOVE LATER? CH. 2
+The term communicates 'not only an understanding of computational concepts and problem-solving strategies, but also the ability to create and express oneself with digital technologies' . -->
 
-
+#### The context of family gaming
 <!-- DROP OR MOVE THIS? WHERE AGENCY?
 To answer this question, theoretical and practical understandings of the development of agency in the participation in informal community-based projects are of value. -->
 
-Game-playing practices and the opportunities provided by participation in wider communities  continue to evolve. For example, casual and retro games played by both adults and children are increasingly available via smartphones and home consoles. The nostalgia around such games and the associated aesthetics of cuteness create a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks, provides an entry point for game players into game making cultures which is reflected in the success of amateur game-publishing websites like itch.io [@garda_nostalgia_2014].    
+Turning to the context of game making in a family context, the wider context of game playing is relevant.
+While both adult and child novice game makers have the potential draw on their experience of game playing knowledge in their creations, their experiences may vary widely. Game-playing practices and the opportunities provided by participation in wider communities continue to evolve shifting from a marginal activity to a place within more mainstream culture [@engelstatter_video_2022]. For example, casual and retro games played by both adults and children are increasingly available via smartphones and home consoles [@juul_casual_2012]. Thus increasing numbers of parents are gamers or have past gaming experience.  
+Studies of varied parental mediation strategies for children's gaming identifying restrictive mediation involving limiting access; active mediation via discussion and negotiation; and co-playing of games as a form of mediation [@eklund_parental_2013; @nikken_parental_2006]. Some classic or retro games have achieved cult status reflected in recent blockbuster films involving Mario, Pac-man, and Sonic the Hedgehog [^f].  Nostalgia around such games and the associated aesthetics of cuteness create a potential for connection between younger and older players [@boyle_retro-futurism_2017]. The sustained popularity of retro games together with easy-to-use game making tools and code frameworks, provides an entry point for game players into game making cultures, a factor reflected in the popularity of projects based on retro games on game-publishing websites which allow amateurs to share their self-made games [@garda_nostalgia_2014] [^g].    
 
-Thus, the process of making retro games with families lies at a confluence of diverse contexts, motivations, and possibilities. My study, in part, asks how the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments.
-HOWEVER, and link to next section.
+The process of making retro games with families lies at a confluence of diverse contexts, motivations, and possibilities. However, while these contexts and related processes clearly offer significant potential there are also significant barriers in play which are explored in the following section.
+
+
+<!-- While the motivational and navigational affordances of enthusiast game making communities can be brought into more structured educational environments. -->
+
+
 
 <!-- The next section begins to explain my personal interest in this dimension of the study through a brief exploration of my involvement in project-based approaches in digital media education and campaigning contexts. -->
 
@@ -264,7 +264,7 @@ CGD&P inherits some of the intrinsic difficulties associated with computer progr
 
 <!-- #### Access to  CGD&P -->
 
-The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. Papert's [-@papert_mindstorms_1980] focus on reducing barriers to participation is present in his focus on the importance of exploratory play, and the careful design of learning environments to faciliate such approaches, e.g. to abstract mathematical concepts concrete through exploratory play using drawing robots controlled with a simplified text code language.
+The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] exploration of diversity in coding approaches are introduced through what they call epistemological pluralism. The focus here is on their championing of approaches beyond the dominant formal, abstract approach that "emphasizes control through structure and planning" [@papert_epistemological_1990, p.134]. This approach can be characterised by the following: a top-down design process involving extensive planning prior to coding, explicit teaching of language principles and syntax, and coding from scratch rather than altering existing products. Papert's [-@papert_mindstorms_1980] focus on reducing barriers to participation is present in his focus on the importance of exploratory play, and the careful design of learning environments to facilitate such approaches, e.g. to abstract mathematical concepts concrete through exploratory play using drawing robots controlled with a simplified text code language.
 
 <!-- For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. -->
 
@@ -899,6 +899,8 @@ The celebration here is of pluralism rather than the culturally prevalent perspe
 [^c]: Block coding differs from traditional text coding in that... Scratch and the process of block coding is outlined in a paper and is described in Chapter ?
 [^d]: A notable example is Code Academy which featured a structured, interactive environment to scaffold coding via code playground approach.
 [^e]: Code playgrounds are online environments used to test, share or invite help from online users on complete or partial code projects or problems, primarily for web-based project involving the technologies of HTML, CSS and variations of JavaScript [@queiros_user_2021]
+[f]: https://js13kgames.com/p/nostalgia-rebooted-2025.html
+[f]: See itch.io
 
 [^1]: WTO - World Trade Organisation, IMF - International Monetary Fund, and G8 an organisation of leading economic countries.
 [^2]: This revolution in technology is well documented here - https://ebrary.net/287067/sociology/emergence_video_activism
