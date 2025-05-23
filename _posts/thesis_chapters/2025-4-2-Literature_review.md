@@ -377,15 +377,16 @@ While the remit of this literature review does not encompass a full critique of 
 ### Design frameworks using stages & project based learning (PBL)
 
 
-As identified by they systemic review of CGD&P [@denner_does_2019], the design-built-test pedagogy is common in this field found in 30 out of 68 studies. The examplar given in this review highlights the approach of Globaloria programme which structures project work around an iterative cycle of stages of play, plan, prototype, program, publish. Many similar frameworks exist in diverse areas of production including computer science [@pereira_design_2018], engineering [@winarno_steps_2020-1], and design [@dam_5_2024]. Figure 2.x shows a graphical representation of design thinking stages from the Institute of Design at Stanford dschool [@dam_5_2024].
+As identified by they systemic review of CGD&P [@denner_does_2019], the design-built-test pedagogy is common in this field found in 30 out of 68 studies. The examplar given in this review highlights the approach of Globaloria programme which structures project work around an iterative cycle of stages of play, plan, prototype, program, publish. Many similar frameworks exist in diverse areas of production including computer science [@pereira_design_2018], engineering [@winarno_steps_2020-1], and design [@dam_5_2024]. Figure 2.x shows a graphical representation of design thinking stages from the Institute of Design at Stanford dschool [@dam_5_2024]. The stages are be described in the following way: Empathise - learn about the audience; Define - sharpen key questions; Ideate - Brainstorm and create solutions; Prototype - build representations of one or more ideas; Test - test ideas and gain user feedback.
 
-![Figure 2.x. Design thinking via design stages model from Stanford dschool](./Pictures/designthinkingchart_orig.png){width=90%}
+<!-- ![Figure 2.x. Design thinking via design stages model from Stanford dschool](./Pictures/designthinkingchart_orig.png){width=90%} -->
+
+
+![Figure 2.x. Design thinking via design stages model from Stanford dschool](./Pictures/design_thinking2.png){width=80%}
 
 <!-- One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1]. -->
 
-Within the context of computing edcuation Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. Reviewing these characteristics, a similarity can be seen with the field of project based and discovery based learning.
-
-
+Within the context of computing education Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. However, while research on the use of design thinking in education is broadly supportive, finding promise to develop varied forms of creative planning and collaborative skills [@luka_design_2019; @lor2017design], there are limitations within the field of design thinking and education that stem from lack of clarity regarding terms, information on how to implement design stages, and vague theoretical justification of the overall process [@micheli_doing_2019]. To address these limitations we can turn now to the fields of project based and discovery based learning which share the stage based characteristics but which have been developed and analysed using constructivist and sociocultural theories. 
 
 
 <!-- To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more.  -->
