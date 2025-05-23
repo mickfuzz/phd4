@@ -112,18 +112,14 @@ title: 2. Literature Review
     - Problem statement  
     - Link  -->
 
-This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Then I outline key concerns of the work of constructionist researchers in the broader field of supporting programming education and more specifically within CGD&P as a way of highlighting promising areas for future research.
+This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Then, due both to its prominance in the field and the utility of the work, I outline key concerns of the work of constructionist researchers in the broader field of supporting programming education and more specifically within CGD&P.
 
-The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis beginning with wider field of computer programming and focusing in on those specifically addressing game making.
+The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis beginning with wider field of computer programming and focusing in on those specifically addressing game making. For the purposes of this chapter, I draw on a definition of pedagogy aligned with the socio-cultural approach of this study from Siraj-blatchford and colleagues [-@siraj-blatchford_researching_2002]: "Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context." 
 
-Due to the sociocultural focus of this study, attention is also paid to the research on the potential and characteristics of non-formal learning programmes where game making may take place. Specifically, I summarise relevant research on code clubs, competitions and game jams.
+Then follows a review of research on the potential and characteristics of social and cultural approaches to game making. The section includes socially oriented pedagogies including peer and pair coding before turning to describe characteristics of non-formal learning programmes where game making may take place, specifically addressing: coding clubs, competitions, and game jams. This section ends with by exploring the development of novel and robust pedagogies which support learner agency via a summar of the Fifth Dimension (5thD) interventions and those outlined a the Connected Learning research programme.
 
-A significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers.
-
-Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency. This sets the stage for subsequent exploration of agency in Chapter 3, which outlines the the theoretical framework of the study. By addressing these themes, the literature review not only situates the current study within the broader academic discourse but also underscores the importance of innovative pedagogical approaches in fostering inclusive game making communities.
-
-Given that this literature review aims to explore existing relevant pedagogies within the research field, a working definition of pedagogy is appropriate given the socio-cultural focus of this study. The following definition aligns with the socio-cultural approach of this study.  "Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context." [@siraj-blatchford_researching_2002]
-
+Finally, a significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. By addressing these themes, the literature review wil situate the current study within the broader academic discourse. In particular, given the underlying rationale of the thesis it will explore the importance of pedagogical approaches which have the potential to foster inclusive practices within game making communities for novice coders.
+<!-- Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency.  -->
 
 <!-- In the context of activity theory, pedagogy can be framed as pedagogical tools and processes, functioning as a type of mediational strategy.
 
@@ -267,7 +263,7 @@ Open windows: a tool to facilitate the sharing of digital media. The creation of
 
 #### Coding clubhouses and cultural programmes
 
-Constructionist research is often carried out in community settings [@resnick_computer_1996], a key example being the first Computer Clubhouse, an after school club in a Boston's computer museum [@resnick_computer_1998;  @peppler_computer_2009]. Constructionism's founder Papert [-@papert_mindstorms:_1980] was influenced by his observational research on community organising within Samba schools as form of mutual learning environments describing "settings that are real, socially cohesive, and where experts and novices are all learning". Bruckman [@bruckman_community_1998, p 51-52] notes the importance of a _constructionist culture_ to support experimental processes enabled by technological tools. Bruckman and Zagal, fellow MIT researchers, formally compared the cultural learning components of a Samba school [@zagal_samba_2005] and to activity to a Computer clubhouse. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice [@lave_situating_1991] to describe social practices including the importance of showcase events share created work, flexibility of ways of participating, and the value of diversity within the skill levels and backgrounds of participants.
+Constructionist research is often carried out in community settings [@resnick_computer_1996], a key example being the first Computer Clubhouse, an after school club in a Boston's computer museum [@resnick_computer_1998;  @peppler_computer_2009]. Constructionism's founder Papert [-@papert_mindstorms_1980] was influenced by his observational research on community organising within Samba schools as form of mutual learning environments describing "settings that are real, socially cohesive, and where experts and novices are all learning". Bruckman [@bruckman_community_1998, p 51-52] notes the importance of a _constructionist culture_ to support experimental processes enabled by technological tools. Bruckman and Zagal, fellow MIT researchers, formally compared the cultural learning components of a Samba school [@zagal_samba_2005] and to activity to a Computer clubhouse. To do this Bruckman and Zagal draw on the socio-cultural concept of communities of practice [@lave_situating_1991] to describe social practices including the importance of showcase events share created work, flexibility of ways of participating, and the value of diversity within the skill levels and backgrounds of participants.
 
 <!-- There is limited research on how to create learning communities making games for educational purposes. Existing research [@xiao_fostering_2007] has close parallels with project approaches and has a focus on fostering online collaboration and resources sharing. Many popular and well researched online communities exist [scratch, itch.io, new grounds](Bruckman).  -->
 
@@ -567,9 +563,8 @@ The use of half-baked (incomplete) games draws on the approaches of as Microworl
 <!-- Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge linking concepts of driving video games with scientific concepts of velocity and graph-based representations [@holbert_constructible_2014-1]
 Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], linking with core microworld concepts. -->
 
-#### Levels of Abstraction & PRIMM
 
-#### Levels of Abstraction
+#### Levels of abstraction & semantic profiles
 
 <!-- The term abstraction has varied interpretation even within the field of computer science education [@hazzan_reducing_2002].   -->
 
@@ -604,7 +599,7 @@ r that its adoption by educational bodies like CAS in the UK and similar bodies 
 
 
 
-#### Semantic Profiles and PRIMM
+
 
 Later work by Waite and Sentance [@sentance_primm_2017] combines LOA with a concept of semantic profiles [@macnaught_jointly_2013] to create an applied pedagogy (PRIMM) for computing education. Semantic profiles chart the use of more concrete (high semantic gravity) language and more abstract (high semantic density) concepts and patterns as they emerge in classroom situations [@macnaught_jointly_2013].
 
@@ -619,7 +614,7 @@ Research carried out by Curzon and colleagues [-@curzon_using_2020] in a computi
 
 <!-- Examples showing semantic wave profiles usually start with the process beginning with the abstract or with high semantic density. See Figure 1.1 for an example. The advice of starting with more abstract terminology and concepts may seem to be in opposition to the approach of Concreteness Fading as explained with the CRA method outlined above. However, on examination of the research example carried out in the research above, the process of starting with concepts may only involve giving a short outline of the concept that is being explored and saying that this will be illustrated in a following concrete activity. -->
 
-##### PRIMM
+#### PRIMM
 
 PRIMM is a structured pedaogy drawing one UMC and  concepts of LOA to try to combine elements of concept driven approaches with a sociocultural ethos[@sentance_primm_2017]. In proposing PRIMM Sentence et al [-@sentance_teaching_2019, p. 5] highlights a debate in this field of a proposed deficit of exploration-based approaches by Grover, proposing greater instruction and guidance. The PRIMM model (signifying Predict, Run, Investigate, Modify and Make) addresses critique this without fully embracing an instruction, expert-led approach. The approach is also motivated by calls to align computing education with sociocultural approaches [@tenenberg_out_2014], drawing on concepts, of mediation and ZPD [-@sentance_teaching_2019, p. 2]. PRIMM extends the UMC model, by adding two additional stages before modifying and making, advocating that learners should begin with a concrete code example that they should predicting the outcome of. They then check their predictions against the results of running the code and with guidance learners investigate possible code changes before modifying it. The final, Make stage (as with Create in UMC) suggests students creating programs or larger elements of code structures from scratch. Prediction of a code learners to unpack and repack the key computational concepts or process aligning with the concepts underpinning the value of semantic profiling.
 
@@ -706,14 +701,11 @@ The work of Papert and the concept of microworlds continue to be influential in 
 
 ## Social approaches and cultural programmes
 
-This section addresses collaborative pedagogies and social programme.
+This section addresses collaborative pedagogies and social programme. To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity and the development of a collaborative culture which foundational for exploratory project-based approaches [@kolodner_problem-based_2003] .
 
-- promote coding of projects of which games can be apart
+<!-- - promote coding of projects of which games can be apart
 - in particular address barriers  to participation
-- and focus on in person communities rather than online programmes
-
-To reflect the nature of the research questions and the existing gaps in the research in this domain, the following descriptions are particularly concerned with the development of learner identity and the development of a collaborative culture which foundational for exploratory project-based approaches [@kolodner_problem-based_2003] .
-
+- and focus on in person communities rather than online programmes -->
 
 
 <!-- JUST MOVE TO INTRO
@@ -1079,13 +1071,6 @@ In the following section, I summarise the chapters findings and clarify the prob
 - Gaps in research: Specifically, while the broad importance of socio-cultural dimensions are explored in the framing of reviews of research  of CGD&P -->
 
 
-
-
-
-
-
-
-
 <!-- The latest iteration compuational fluency, is described in broad strokes as both technical competency and an ability to for self-expression within digital code mediums [@resnick_computational_2018].
 
 If viewed from a wider socio-cultural perspective what potential does games making have in increasing this fluency, what in particular about games is relevant to this potential, how can the characteristics of such fluency in more depth using socio-cultural concepts. Finally, what is the potential role of a open ended, socio-cultural research process help develop a pedagogy which encourages this fluency.    -->
@@ -1095,7 +1080,10 @@ If viewed from a wider socio-cultural perspective what potential does games maki
 <!-- In Chapter x, I outlined in broad strokes areas of the landscape of computer game design and programming (CGD&P) -->
 <!-- While the work of Waite and Sentence begins to address sociocultural aspects of teaching programming [@sentance_teaching_2019; @hwang_using_2023], this work is limited in scope and invites further exploration. -->
 
-This section returns to the guiding research questions in relation to the existing gaps in the research landscape which invite further study. In broad terms the review and surrounding work of Kafai and Burke [@kafai_constructionist_2015; @kafai_connected_2016] cite a relative deficit in research addressing game making compared to game making and within that a relative dearth of studies addressing social and cultural pedagogies. The second point is confirmed in Denner et al's later systemic review [@denner_does_2019].
+Chapter 1, outlined needs of the study within a problem framing which addressed barriers to participation of technical, guided pedagogies and cultural apsects.  This chapter has outlined some promising pedagogical approaches in research in CGD&P and digital making more broadly but also located gaps meriting more investigation.
+
+This section returns to the guiding research questions in relation to the existing gaps in the research landscape which invite further study.
+
 
 <!--
 
@@ -1105,32 +1093,42 @@ This section returns to the guiding research questions in relation to the existi
 <!-- One premise driving my exploration of the use of gameplay features in pedagogy is that the  -->
 
 
-#### Pedagogies exist but more are needed
-
-Chapter 1, outlined needs of the study within a problem framing which addressed barriers to participation of technical, guided pedagogies and cultural apsects.  This chapter has outlined some promising pedagogical approaches in research in CGD&P and digital making more broadly but also located gaps meriting more investigation.
+#### Gaps in structural and technical approaches
 
 While there are several existing game making tools available, my focus on authentic use of tools and communities, led me to select a tool set of a code playground and a professional JavaScript game library, an approach barely addressed in related research, thus inviting further investigation. Chapter 5 will outline my approach and some of the barriers that arise. Given that few studies communicate pedagogical detail in a way which allows replication, in this study I leverage my own commitment to and experience in documenting learning processes and facilitation materials via openly-licenced, accessible documenation and description to address this deficit.  
 
+UMC [@lee_computational_2011] offer a general structure to organise a remix-ed based approaches as a way to leverage social sharing, and the related work on half-baked games places this with a game making context underlining the importance of game features as motivating factors [@kynigos_children_2018].
 
-This literature review has identifies a lack of specific pedagogical appraoches to address how to support the dimensions of formation of making identities, peer interaction beyond feedback, inclusive induction into community activities.
+The gaps are addressed in this thesis in part via the RQ1: _What contradictions emerged during participation in CGD&P activities and how were they addressed via an innovative pedagogy?_ To do this I describe the developmed of a new pedagogy via a design based research process and analysis using activity theory concepts.
 
+#### Gaps in research on the potential of GDPs
 
-Pair and peer programming show promise but (what are limits?) [@werner2014using].
-
-UMC [@lee_computational_2011] offer a general structure to organise a remix-ed based approaches as a way to leverage social sharing, and the related work on half-baked games places this with a game making context underlining the importance of game features as motivating factors [@kynigos_children_2018].  
 
 The use of design patterns in this context is promising to help motivation and structure documentation [@repenning_scalable_2015] and to structure feedback process in a  co-design process [@eriksson_using_2019]. However these existing studies have limitations. In the SGD [@repenning_scalable_2015], there were limitations in participant pathways and resulting reduction in student ownership. Addressing Stringforce [@eriksson_using_2019], the potential use of GDPs for participants and teachers is under-explored. Additionally as participants did not modify computer code this invites research to assess the utility of a collection of GDPs to support programming.
 
-Thus, in summary, while some suitable and inclusive pedagogies exists, more are needed that are specific, aligned with non-formal spaces, facilitate agency development, and development of learner identity drawing on funds on knowledge.
+The promise of design patterns an an intermediate construct between abstract theories and concrete practice appears to have potential to help guide practioners in the ongoing aspect of navigation these spectrum, as articulate above via the concept of semantic profiles. RQ2 deals directly with this aspect: _How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?_.
 
-**Cultural factors**
+#### Addressing agency and cultural factors
+
+This literature review has identifies a lack of specific pedagogical appraoches to address how to support the dimensions of formation of making identities, peer interaction beyond feedback, inclusive induction into community activities.
+
+In broad terms the review and surrounding work of Kafai and Burke [@kafai_constructionist_2015; @kafai_connected_2016] cite a relative deficit in research addressing game making compared to game making and within that a relative dearth of studies addressing social and cultural pedagogies. The second point is confirmed in Denner et al's later systemic review [@denner_does_2019].
+
+Pair and peer programming show promise but (what are limits?) [@werner2014using].
 
 Tacit knowledge of gaming conventions among most family members is extensive, even if they are not avid gamers, due to the extensive influence of video game culture in mainstream culture, including contexts of family life [@ito_hanging_2010; @livingstone_digital_2018], particularly retro gaming [@heineman2014public]. As such, the process of facilitating ways to surface and work with such tacit knowledge can support Moll's [@moll_funds_1992] concept of the potential funds of knowledge and funds of identity [@fasso_identity_2020; @esteban-guitart_funds_2014].
+
+While varied concepts addressing the empowerment of particants pervade relevant research, related concepts of fluency and agency are for the most part under-develloped. In addition,  processes informing and facilitating the formation of agency of fluency are under-theorised in a way which presents challenges to further researchers in this area.
+
+Hence RQ3: How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?
 
 
 ### Link to the next chapter
 
-Having explored the remit of the problem statement, and the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, pedagogy and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
+NOT A GREAT SUMMARY..
+Thus, in summary, while some suitable and inclusive pedagogies exists, more are needed that are specific, aligned with non-formal spaces, facilitate agency development, and development of learner identity drawing on funds on knowledge.
+
+Having explored the gaps in the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, tool use, guiding pedagogical processes and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
 
 
 [^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
@@ -1140,9 +1138,9 @@ Having explored the remit of the problem statement, and the body of literature r
 
 [^3]: A collection of over 200 patterns organised by diverse themes are online here.  http://virt10.itu.chalmers.se/index.php/Category:Patterns
 
-[^4]: https://web.archive.org/web/20131220180134/https://sites.google.com/a/elinemedia.com/gsmlearningguide/home
+[^4]: A comprehensive guide has been created for GSM aimed at practioners supporting the use of software with structured sessions.  https://web.archive.org/web/20131220180134/https://sites.google.com/a/elinemedia.com/gsmlearningguide/home
 
-[^5]: https://web.archive.org/web/20220331110501/https://wiki.computationalthinkingfoundation.org/wiki/images/5/5b/ACO_Frogger_Student_v1.0.pdf
+[^5]: An example of a worksheet created is availble from the supporting resource site for the Scalable Game Design programme.  https://web.archive.org/web/20220331110501/https://wiki.computationalthinkingfoundation.org/wiki/images/5/5b/ACO_Frogger_Student_v1.0.pdf
 
 
 ## Parked
