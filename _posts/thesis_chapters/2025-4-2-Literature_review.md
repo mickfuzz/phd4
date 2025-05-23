@@ -308,25 +308,27 @@ One exception is the work of Kafai and colleagues on collective agency [@kafai_l
 <!-- An additional limitation in constructionism approach to digital making in varied forms is lack of of an underlying consistency in terminology regarding the motivation for undertaking the work. -->
 
 
-#### Constructionist pedagogies - Project-based rather than instruction-based
 
-When pedagogy is addressed in recent constructionist studies, it often takes the form of broad principles of design thinking or general project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017]. A later section addresses these pedagogies in more detail.
-
-Addressing broad approaches, Kafai has emphasised the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
 
 
 #### Limitations within constructionist approaches and the related field of CGD&P research
 
 There is a potential gap in constructionist research regarding pedagogical approaches. Research on constructionism as an educational approach has increasingly centred on the design affordances of researcher-created toolkits and communities that facilitate personal understandings of knowledge  [@vossoughi_making_2016].
 
+Addressing broad approaches, Kafai has emphasised the importance of a situated and critical approach to coding practices [@kafai_revaluation_2022; @kafai_theory_2020]. However, this work remains broad, and specifics on pedagogical scaffolding are still lacking.
+
+When pedagogy is addressed in recent constructionist studies, it often takes the form of broad principles of design thinking or general project-based approaches [@resnick_scratched_2012; @resnick_lifelong_2017]. A later section addresses these pedagogies in more detail.
+
+
 Vossoughi's [-@vossoughi_making_2016] critique of constructionism from a socio-cultural and egalitarian perspective highlights this absence of _intentional forms of pedagogy_. She attributes this gap to a focus on tools rather than on sociocultural contexts and the development of social relationships as part of the making process.
 
 In some ways ironic given the critique from constructionist researchers of approaches which focusing too narrowly on technical approaches and toolsets rather than their expressive potential (and thus within a community)  and focused on toolsets rather than pedagogies withing digital making in general [@resnick_seeds_2020; @resnick_coding_2020], and game making more specifically []
-FIND KAFAI QUOTEIn even in Kafai's review of CGD&P, specific pedagogies were lacking.
 
-<!-- ALSO ADDRESSING BROADER LIMITATIONS WITHIN THE FIELD OF CGD&P -->
 
-It raises a question why, given this perspective are underpinning pedagogies lacking. I propose that this deficit may be due to a deficit in analytical processes and theoretical concepts particularly visible within concepts of agency development, and mediational strategies. It follows that these limitation of constructionism are also present in the research landscape of CGD&P which has been significantly guided by it.  
+It raises a question why, given this perspective are underpinning pedagogies lacking. In part, this reflects  broader limitations within the field of CGD&P, Kafai and Burke's review of CGD&P, identified a deficit in socially oriented pedagogies.
+In addition, it is possible that this gap may be due to limitations within constructionism concerning  analytical processes and theoretical concepts.  It follows that these limitation of constructionism are also present in the research landscape of CGD&P which has been significantly guided by it.
+
+This is particularly visible within concepts of agency development, and mediational strategies.  
 
 This relates to the primary research question of this thesis. And brings us to the next section.  
 
