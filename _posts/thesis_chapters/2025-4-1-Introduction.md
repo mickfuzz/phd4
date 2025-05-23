@@ -440,7 +440,7 @@ To achieve this aim three sub-questions follow.
 
 - RQ1. What contradictions emerged during participation in CGD&P activities and how were they addressed via an innovative pedagogy?
 - RQ2. How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
-- RQ3. How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts??
+- RQ3. How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?
 
 
 
