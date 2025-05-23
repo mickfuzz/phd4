@@ -114,7 +114,7 @@ title: 2. Literature Review
 
 This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Then, due both to its prominance in the field and the utility of the work, I outline key concerns of the work of constructionist researchers in the broader field of supporting programming education and more specifically within CGD&P.
 
-The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis beginning with wider field of computer programming and focusing in on those specifically addressing game making. For the purposes of this chapter, I draw on a definition of pedagogy aligned with the socio-cultural approach of this study from Siraj-blatchford and colleagues [-@siraj-blatchford_researching_2002]: "Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context." 
+The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis. For the purposes of this chapter, I draw on a definition of pedagogy aligned with the socio-cultural approach of this study from Siraj-blatchford and colleagues [-@siraj-blatchford_researching_2002] [^a]. I begin with structural pedagogies first from wider field of computer programming before focusing in on those specifically addressing game making
 
 Then follows a review of research on the potential and characteristics of social and cultural approaches to game making. The section includes socially oriented pedagogies including peer and pair coding before turning to describe characteristics of non-formal learning programmes where game making may take place, specifically addressing: coding clubs, competitions, and game jams. This section ends with by exploring the development of novel and robust pedagogies which support learner agency via a summar of the Fifth Dimension (5thD) interventions and those outlined a the Connected Learning research programme.
 
@@ -1130,6 +1130,8 @@ Thus, in summary, while some suitable and inclusive pedagogies exists, more are 
 
 Having explored the gaps in the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, tool use, guiding pedagogical processes and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
 
+[^a]:
+ "Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context." [@siraj-blatchford_researching_2002]
 
 [^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
 
