@@ -476,7 +476,7 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 
 
-### Use Modify Create
+### Use Modify Create & Half Baked games
 
 The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety and demotivation surrounding the difficulty of coding games. UMC evolved from research involving the use of game making and robotics to support computational thinking [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]. The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]. In the _Use_ stage, coders build a familiarity with coding interfaces, code structures and syntax through scaffolded approaches which involve interacting with the program code and what it produces. In the _Modify_ stage learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims. _Create:_ After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
 
@@ -492,11 +492,7 @@ the authors note limits of study but are enthusiastic about providing a limited 
 <!-- Addressing these tensions work by Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020]. -->
 
 
-
-
 <!-- In a study where students use a block based language to develop simulations -  -->
-
-
 
 <!-- - Scaffold Students and Teachers- Providing the necessary programming blocks students need to complete a choice
 - Differentiate Choices by Difficulty - create choice systems that have varying difficulty
@@ -513,20 +509,20 @@ The main concept of UMC is remixing a game to build. Scratch has been instrument
   Differentiate Choices by Difficulty- This time, challenge came from adding morec hoices, but each choice was relatively the samedifficulty. In the future, we wish to create choice systems that havevarying difficulty to give targeted tasks for each student skill level.
 
 - Create Choices that Show Visible Change
-  - Prioritize choicesthat produce immediate changes in the run of the simulation (e.g. anew animal appearing in the environment).Create Choices that Promote Content Inquiry- Our decisionto primarily focus on adding more animals came from the fact thateach new animal made the Food Web more complex.
+  - Prioritize choicesthat
+
+
+ produce immediate changes in the run of the simulation (e.g. anew animal appearing in the environment).Create Choices that Promote Content Inquiry- Our decisionto primarily focus on adding more animals came from the fact thateach new animal made the Food Web more complex.
 
   - Make things Complex, not Complicated- As demonstrated in Figure 2, each animal had relatively the same set of code blocks. In this way, a lot of choices were available without adding many additional necessary blocks for students.
 
 - Draw from Student Desires- Some of the choice ideas (e.g. bear)came from responses from students in the ‘Fox-Only’ -->
+<!-- ### Half-baked games -->
 
+The half-baked (incomplete) game concept builds on Papert's work on Microworlds [@harel_constructionism_1991; @papert_mindstorms_1980], and is closely related to the stages of the UMC approach. Half-baked games,  proposed by Kynigos and colleagues [@kynigos_half-baked_2007; @kynigos_children_2018], are unfinished and deficient in a way which motivates learners to alter the design or code and improve it. Like Microworlds half-baked games are designed to encourage malleability in directions that the learner may find interesting [@kynigos_children_2018], and the learning designer intends to be educationally productive. To do this the originator of the half-baked game makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts [^e]. Kynigos and Yiannoutsou  [-@kynigos_children_2018, p.2] provided "tools affording them (13-15 year olds) with the role of game hackers" to alter existing game code. The researchers identify a progression in the type of CT skills being used as the processing of modifying the game progresses. Specifically, they identify a progression from elements including pattern recognition associated with reading of code to more advanced examples including creating abstracted structures and sequencing their own algorithms. In previous work Kynigos describes the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' [@kynigos_half-baked_2007, p. 336].
 
-
-### Half-baked games
-
-The use of half-baked (incomplete) games draws on the approaches of as Microworlds and UMC stages using games as starting products [@kynigos_half-baked_2007]. This concept of builds on Papert's concept of _microworlds_, simplified computer simulations or models that were conceived as controlled environments in which students can explore and experiment with maths or physics concepts in a concrete way [@harel_constructionism_1991; @papert_mindstorms_1980].
-
-
-'Half-baked' games, a term proposed by Kynigos and colleagues [@kynigos_half-baked_2007; @kynigos_children_2018], are unfinished and deficient in a way which motivates learners to alter the design or code and improve it. Half-baked games should be designed to encourage malleability in directions that the learner may find interesting [@kynigos_children_2018]. To do this the original game designer makes complex decisions which highlight certain affordances of the game in a way which encourages the exploration of key concepts. Here the concept of affordances is to express the delegated intention of designers to create features for users that encourage certain desired behaviours [@mcgrenere_affordances_2000]. In a key study [@kynigos_children_2018, p.2], the researched provided "tools affording them (13-15 year olds) with the role of game hackers" to alter existing game code. While Kynigos' design promoted the acquisition of computational thinking for participants. Kynigos and Yiannoutsou identify a progression in the type of CT skills being used as the processing of modifying the game progresses as part of the Use-Modify-Create model: specifically a progression from elements including pattern recognition associated with reading of code to more advanced examples including creating abstracted structures and sequencing their own algorithms. Kynigos also highlights the possibilities of half-baked artefacts to build learner dialogue around the problems at hand as as 'a communicational tool to shape a common language within the community' [@kynigos_half-baked_2007, p. 336].
+SOME KIND OF SUMMARY OR LINK HERE.
+- perhaps on concrete language - return to microworld theory - but more open media making
 
 <!-- Research by Holbert and w focused on the use of a driving mechanic to draw out personal knowledge linking concepts of driving video games with scientific concepts of velocity and graph-based representations [@holbert_constructible_2014-1]
 Kafai and Burke call this a sandbox game [@holbert_constructible_2014-1], linking with core microworld concepts. -->
@@ -588,7 +584,7 @@ PRIMM is a structured pedaogy drawing one UMC and  concepts of LOA to try to com
 
 <!-- **Data from research, response of teachers , application and take up of SW and PRIMM** -->
 
-The adoption and discussion of PRIMM in learning contexts has been significant [@martin_extending_2020; @parry_investigating_2020; @ofsted_research_2022; @barefoot_computing_crystal_nodate], perhaps due to its concrete applicability in classroom settings and the inclusion in a range of pedagogies promoted by the National Centre for Computer Education (NCCE) via resources on computing pedagogies [@ncce_using_2020]. While nothing within the PRIMM pedagogies makes it  incompatible with non-formal environments, there is a gap in research in this area. Sentence et al. [@sentance_teaching_2019] acknowledge other limitations of the research proposing future work addressing the areas of coproduction of possibliitees for differentiation toether with teachers based on sociocultural approaches, and more careful alignment between the planning of sessions using LOA concepts and delivery using the PRIMM approach.
+The adoption and discussion of PRIMM in learning contexts has been significant [@martin_extending_2020; @parry_investigating_2020; @ofsted_research_2022; @barefoot_computing_crystal_nodate], perhaps due to its concrete applicability in classroom settings and the inclusion in a range of pedagogies promoted by the National Centre for Computer Education (NCCE) via resources on computing pedagogies [@ncce_using_2020]. While nothing within the PRIMM pedagogies makes it  incompatible with non-formal environments, there is a gap in research in this area. Sentence et al. [@sentance_teaching_2019] acknowledge other limitations of the research proposing future work addressing the areas of co-production of possibilities for differentiation together with teachers based on sociocultural approaches, and more careful alignment between the planning of sessions using LOA concepts and delivery using the PRIMM approach.
 
 <!-- GIVE AN EXAMPLE? AND USE SEMANTIC PROFILE TOO -->
 <!-- By starting with predicting based on existing code,  student start with the concrete code and then be.
@@ -680,63 +676,45 @@ This section addresses collaborative pedagogies and social programme. To reflect
 As such, it leaves to one side extensive programmes which provide instruction based resources online  and those providing CPD to teachers as detailed in the introduction [Barefoot, NCCE, CAS]. -->
 
 
+**Pair programming**
 
+One pedagogy relatively well explored in CGD&P research is that of pair programming, a common industry practice which is also applied in educational contexts [@hanks_pair_2011]. Pair programming groups students in pairs and perscribes two coding roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved.
 
-### Pair programming & social/collaborative coding -
-
-One pedagogy relatively well explored in CGD&P research is that of pair and peer programming.
-
-Role of community feedback within playtesting
-
-Pair programming, a common industry practice has recieved attention in educational contexts [@hanks_pair_2011]. Pair Programming groups students in pairs and divide coding two into two roles. One student undertakes hands-on coding while the other is free to think about more the abstract design of the overall program. A benefit of pair programming is to increase coding confidence as students build their experience of the different roles involved in coding. To help novice coders teachers should model and break down the processes involved.
-
-Werner and colleagues [@werner_pair_2009; @denner_computer_2007] investigate pair programming as way to address gender gap and extending research on collaborative problem solving in computer coding.
-
-They cite research challenging the gender aspect of bricolage / abstract duality, but propose a need for more research on programming styles and strategies [@denner_computer_2007] Their own research underlies that while pair programming is an inclusive strategy beneficial to all but in particular to narrow participation gaps due to gender and socio-economic factors [@werner_pair_2009, p.31].
-
-
-In Denner's research, pair programming involved social learning elements and can model a greater choices for students in they way they solve problems and opportunities to develop identities. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
+Werner and colleagues [@werner_pair_2009; @denner_computer_2007] investigate pair programming as way to address gender gap and extending research on collaborative problem solving in computer coding. They cite research challenging the gender aspect of bricolage / abstract duality, but propose a need for more research on programming styles and strategies [@denner_computer_2007] Their own research underlies that while pair programming is an inclusive strategy beneficial to all but in particular to narrow participation gaps due to gender and socio-economic factors [@werner_pair_2009, p.31]. In Denner's research, pair programming involved social learning elements and can model a greater choices for students in they way they solve problems and opportunities to develop identities. The process of building an identity in a community with the help of peers is key to a socio-cultural understanding of how learners pick up coding in a classroom (or other settings).
 
 <!-- A summary of pair programming roles and tips on how teachers can help learners to adopt them in present in a Quick Read document from NCCE.[^6] -->
 
-Werner et al draw on existing research on collaborative   'social reality or joint problem solving space' to scaffold the process of ideation [@omalley_construction_1995] and the role of friendly relations to develops these productive and sustained interactions [@mcdowell_pair_2006].
 
+Werner et al draw on existing research on collaborative  'social reality or joint problem solving space' to scaffold the process of ideation [@omalley_construction_1995] and the role of friendly relations to develops these productive and sustained interactions [@mcdowell_pair_2006]. The value of these approaches is clearly not limited to pair work and Waite and Sentance explore the possibilities of peer instruction in a computing education context both as a specific pedagogy [^f] and as a more general collaborative approaches to learning programming [@waite_teaching_2021].
 
-Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
-- resource interdependence from Preston
+Popat and Starkey [@popat_learning_2019-1] note that collaboration and sharing of code as a way to help peers often emerges as a helpful bi-product rather than a planned element of learning designs.  Earp and colleagues [-@earp_learner_2013] note the surprising deficit in studies which explore collaboration as a process and learning outcome given that the diverse roles in game making suit such activity.
 
-Links to other pedagogies in this work.
+<!-- Bring in limits  and extension of research on pair programming to wider groups / more flexible processes [@preston_using_2006] -
+- resource interdependence from Preston -->
+
+<!-- Links to other pedagogies in this work.
 UMC
-and Use of game design patterns [@werner_computational_2020]
+and Use of game design patterns [@werner_computational_2020] -->
 
 
 <!-- PERHAPS SAVE A SLICE OF BRUCKMAN TO END - AFTER THE  FORM OF CODE CLUBS. -->
 <!-- FCL worked to expose limits to the online resources and communities. -->
 
 
-###  Coding clubs:
 
-Drawing on early legacy of the computer clubhouse work by Papert in Boston described above...
 
-Three similar  volunteer based projects started around the 2012-2014  namely,  Code Club, Coder Dojo and Raspberry Jam. They share: a grass roots approach drawing on enthusiasts.
+<!-- started around the 2012-2014  namely,  Code Club, Coder Dojo and Raspberry Jam. They share: a grass roots approach drawing on enthusiasts. -->
 
 <!-- A large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. But have struggled to maintain the skilled volunteer input imagined at the start of the program (SO what?) -->
 
-
-They have not been extensively researched.
-
+<!-- Three
+Some limited research exists on three sim Code Club, Coder Dojo and Raspberry Jam. They share: a grass roots approach drawing on enthusiasts.
 Research shows that only a small number of code club respondents used the resources provided to support clubs,  are nearly exclusively instructional in design. resources [@aivaloglou_how_2019],
-This may indicate that volunteers use a more responsive, less-structured approach.
+This may indicate that volunteers use a more responsive, less-structured approach. -->
 
-All three projects have been subsumed into the RPI foundation, which offers the following types of support.
 
-A report on pedagogies from Waite and Sentence [@waite_teaching_2021], focuses on school... but -  input relevant parts here.
 
-Challenges of clubs include the lack of focus of mostly unguided interactions.
-
-To address the challenge of focus, some clubs may follow guided programs or competitions. An example involving game making would be that of like that of Globaloria which offers guidance,
-
-These provide more structured resources and guidance may be linked ot showcase sites or challenges and competitions.
+<!-- These provide more structured resources and guidance may be linked ot showcase sites or challenges and competitions. -->
 
 <!-- raising issues of how much it is optimal for support to be concentrated in one organisation.  -->
 <!-- Coder dojo network was more grass roots and included a wiki. CHECK THE ARCHIVES.
@@ -745,28 +723,21 @@ As a former volunteer, I confess I didn't share my learning resources beyond loc
 
 
 
-### Game competitions
+### Game competitions and coding clubs
 
-The role of competitions or challenges to design for an external audience can motivate students [@kafai_what_2012; @kafai_motivating_2014] and may to bridge to worlds of work and expertise outside of the classroom or beyond the bounds of the informal space.
+Coding clubs are addressed above  via the constructionist strand of research drawing on early legacy of the computer clubhouse work by Papert.  In a UK context, despite extensive volunteer led activity only limited research exists on three Code Club, Coder Dojo and Raspberry Jam [^g]. This research covers the use of code club resources [@aivaloglou_how_2019], on general approaches to facilitation and a lack of an overall conceptual model at Coder Dojos [@alsheaibi_teaching_2020].
+One strategy used to  address the lack of focus of mostly unguided interactions identified is to encourage entry in wider competitions [@aivaloglou_how_2019].  
 
-From 2010 to the present day there have been a variety of coordinated online competitions either from entrepreneurial organisations like the Globey award from Globaloria, from foundations (e.g. Games for Change) or from public bodies (e.g. STEM Video Game Design Challenge sponsored by the White House in the US) [@kafai_social_2013]
+The role of competitions or challenges to design for an external audience can motivate students [@kafai_what_2012; @kafai_motivating_2014] and may to bridge to worlds of work and expertise outside of the classroom or beyond the bounds of the informal space. From 2010 to the present day there have been a variety of coordinated online CGD&P competitions either from entrepreneurial organisations like the Globey award from Globaloria, from foundations  or public bodies (e.g. Games for Change and the STEM Video Game Design Challenge sponsored by the White House in the US) [@kafai_social_2013]. A well researched example is that of the Collab challenge as part of the Scratch online communities  community, [@kafai_motivating_2014; @kafai2011collaboration]. In the UK context the Coolest Project competition works in partnership with Coder Dojos and Code Clubs. Research by Quinlan and colleagues [@quinlan_how_2018; @quinlan2020ideas] on the Coolest Project competition in 2018 explores themes emerging from case study interviews with participants. The research identified different entry points for project engagement, some focusing initially on technology, some on the idea/problem and some on skills involved.
 
-An example of a challenge which has been researched is that of the Collab challenge as part of the Scratch online communities  community, [@kafai_motivating_2014; @kafai2011collaboration]
+The research also identifies broad benefits of such competitions which are echoed in wider research including: the inspirational and motivational value of seeing the work of others, development of varied forms of confidence, the development of team work skills and collaborative problem solving, and the valuable influence of adults in the process in particular the logistical support of parents [@quinlan_how_2018]. The final consideration here also forms the basis of a critique of competition regarding inequality of access [@thumlert2018learning]. A further concerns is that the values underlying computing competitions are largely embraced uncritically  [@thumlert2018learning], a concern inherited from the wider maker movement [@vossoughi_making_2016]. 
 
-
-Critique of competitions [@thumlert2018learning] is that the values of the competitions are largely embraced uncritically rather than developing and transforming practices of the learning site itself. Also there is a danger of inequality of access explored above.
-
-This is present in a UK context in computing domain via Coolest project which targets Coder Dojos in particular as an audience.
-
-There is a guide provide by research on the Coolest Project which contains case studies [@quinlan_how_2018],
-This is referenced in work by Quinlan and Sentance [@quinlan2020ideas]  on entry points.
-
-Beyond this guide, the challenge provides structure in the use of themed categories which guide participation for example in the Coolest Project the themes of 2025 were: Scratch, Games, Web, Mobile apps, Hardware, Advanced  programming, Artificial Intelligence. And
-Another format of challenge which also provides support is that of the game jam.
+<!-- Beyond this guide, the challenge provides structure in the use of themed categories which guide participation for example in the Coolest Project the themes of 2025 were: Scratch, Games, Web, Mobile apps, Hardware, Advanced  programming, Artificial Intelligence. And
+Another format of challenge which also provides support is that of the game jam. -->
 
 
 
-Some game making competitions draw on the wider concept of a game jam to help structure the process of making a game.
+<!-- Some game making competitions draw on the wider concept of a game jam to help structure the process of making a game. -->
 
 ### Educational Game Jams
 
@@ -1105,6 +1076,13 @@ Having explored the gaps in the body of literature relevant to this domain, we c
 [^c]: The role of organisations like PBL works and Edutopia have been significant in sharing accessible, educator focused support for teachers and facilitors. https://my.pblworks.org/resource/document/project_design_rubric
 
 [^d]: https://web.archive.org/web/20120511180037/http://judyrobertson.typepad.com/adventure_author/teaching-materials.html
+
+[^e]: Here the concept of affordances is to express the delegated intention of designers to create features for users that encourage certain desired behaviours [@mcgrenere_affordances_2000].
+
+[^f]: Peer instruction is also a specific, perspective technique as well as a general product of collaborative learning environments. [@crouch_peer_2001].
+
+[^g]: Grass roots approach characterised by a  large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. All three projects have been subsumed into the RPI foundation, which offers mostly instruction based support via their website which disappointingly may well indicate a lost opportunity to study innovative practice.
+
 
 [^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
 
