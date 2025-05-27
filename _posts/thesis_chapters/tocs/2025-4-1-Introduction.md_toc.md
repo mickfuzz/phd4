@@ -5,15 +5,15 @@
         -   [Background of informal settings / non-formal and home
             education
             context](#background-of-informal-settings-non-formal-and-home-education-context)
-        -   [Context of wider digital making and culture home and
-            informal
-            settings](#context-of-wider-digital-making-and-culture-home-and-informal-settings)
+        -   [Context of digital making](#context-of-digital-making)
         -   [Context of school-based computing
             education](#context-of-school-based-computing-education)
-        -   [An introduction to the context of on digital game
-            making](#an-introduction-to-the-context-of-on-digital-game-making)
-        -   [The context of family
-            gaming](#the-context-of-family-gaming)
+        -   [Context of digital game
+            making](#context-of-digital-game-making)
+            -   [Broad Motivations for undertaking
+                CGD&P](#broad-motivations-for-undertaking-cgdp)
+            -   [The context of family
+                gaming](#the-context-of-family-gaming)
         -   [Barriers to participation in programming and specifically
             CGD&P](#barriers-to-participation-in-programming-and-specifically-cgdp)
     -   [3. Rationale for the Study:](#rationale-for-the-study)
@@ -28,8 +28,8 @@
             thesis](#summary-problem-statement-of-the-thesis)
     -   [4. Theoretical framework, research objectives, and
         questions](#theoretical-framework-research-objectives-and-questions)
-    -   [Summary of the theoretical framework of this
-        thesis](#summary-of-the-theoretical-framework-of-this-thesis)
+        -   [Summary of the theoretical framework of this
+            thesis](#summary-of-the-theoretical-framework-of-this-thesis)
         -   [Research Questions (RQs)](#research-questions-rqs)
         -   [Research objectives](#research-objectives)
         -   [Justification of limitations in scope of the

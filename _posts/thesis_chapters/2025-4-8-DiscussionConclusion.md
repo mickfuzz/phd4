@@ -156,6 +156,15 @@ https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/
 # Conclusions
 
 
+## Ideas to add
+
+
+
+Input the criteria for game making studies from Denner et al [@denner_does_2019, p.31] - say that follow up study with this detail would be useful.
+
+It should also be said that this lack of data and descriptive rather that quantative data is not uncommon in this areas of study from Denner's results. 
+
+
 ## Outline notes
 
 The working draft of this chapter now merges a proposed discussion chapter with the conclusion.

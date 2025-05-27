@@ -10,66 +10,65 @@ categories: chapter
 title: 2. Literature Review
 
 ---
--   [Research Questions April 2025](#research-questions-april-2025)
--   [Introduction](#introduction)
--   [A review of research on CGD&P and constructionist approaches to
-    learning computer
-    coding](#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding)
-    -   [The benefits of computer game design and programming
-        (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
-    -   [An overview of constructionist
-        approaches](#an-overview-of-constructionist-approaches)
-        -   [Microworlds as both toolset and
-            pedagogy](#microworlds-as-both-toolset-and-pedagogy)
-        -   [Constructionist design
-            heuristics](#constructionist-design-heuristics)
-            -   [Scratch as a more general toolset, remixing, and
-                community
-                elements](#scratch-as-a-more-general-toolset-remixing-and-community-elements)
-        -   [Coding clubhouses and cultural
-            programmes](#coding-clubhouses-and-cultural-programmes)
-        -   [Constructionist framing of relevant learning outcomes -
-            computational thinking and dimensions of fluency and
-            agency](#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency)
-        -   [Constructionist pedagogies - Project-based rather than
-            instruction-based](#constructionist-pedagogies---project-based-rather-than-instruction-based)
-        -   [Limitations within constructionist approaches and the
-            related field of CGD&P
-            research](#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research)
--   [Pedagogies to support game making via
-    coding](#pedagogies-to-support-game-making-via-coding)
-    -   [Explicit teaching of computational thinking - Principles
-        first](#explicit-teaching-of-computational-thinking---principles-first)
-    -   [Design frameworks using stages & project based learning
-        (PBL)](#design-frameworks-using-stages-project-based-learning-pbl)
-        -   [Project-based learning (PBL)](#project-based-learning-pbl)
-    -   [Use Modify Create](#use-modify-create)
-    -   [Half-baked games](#half-baked-games)
-        -   [Levels of Abstraction](#levels-of-abstraction)
-        -   [Semantic Profiles and PRIMM](#semantic-profiles-and-primm)
+-   [Literature Review](#literature-review)
+    -   [Introduction](#introduction)
+    -   [A review of research on CGD&P and constructionist approaches to
+        learning computer
+        coding](#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding)
+        -   [A summary of research on of computer game design and
+            programming
+            (CGD&P)](#a-summary-of-research-on-of-computer-game-design-and-programming-cgdp)
+        -   [An overview of constructionist
+            approaches](#an-overview-of-constructionist-approaches)
+            -   [Constructionist pedagogies: Microworlds, heuristics and
+                resulting
+                toolsets](#constructionist-pedagogies-microworlds-heuristics-and-resulting-toolsets)
+            -   [Coding clubhouses and cultural
+                programmes](#coding-clubhouses-and-cultural-programmes)
+            -   [Constructionist framing of relevant learning outcomes -
+                computational thinking and dimensions of fluency and
+                agency](#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency)
+            -   [Limitations within constructionist approaches and the
+                related field of CGD&P
+                research](#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research)
+    -   [Pedagogies to support game making via
+        coding](#pedagogies-to-support-game-making-via-coding)
+        -   [Explicit teaching of computational thinking - Principles
+            first](#explicit-teaching-of-computational-thinking---principles-first)
+        -   [Design frameworks using stages & project based learning
+            (PBL)](#design-frameworks-using-stages-project-based-learning-pbl)
+        -   [Use Modify Create](#use-modify-create)
+        -   [Half-baked games](#half-baked-games)
+            -   [Levels of abstraction & semantic
+                profiles](#levels-of-abstraction-semantic-profiles)
             -   [PRIMM](#primm)
--   [Social approaches and cultural
-    programmes](#social-approaches-and-cultural-programmes)
-    -   [Pair programming & social/collaborative coding
-        -](#pair-programming-socialcollaborative-coding--)
-    -   [Coding clubs:](#coding-clubs)
-    -   [Game competitions](#game-competitions)
-    -   [Educational Game Jams](#educational-game-jams)
-    -   [Fifth Dimension interventions & Connected Learning
-        approaches](#fifth-dimension-interventions-connected-learning-approaches)
-        -   [Connected Learning
-            Programme](#connected-learning-programme)
--   [Design patterns](#design-patterns)
-    -   [Game Star Mechanic and related work by Institute of
-        Play](#game-star-mechanic-and-related-work-by-institute-of-play)
-    -   [Scalable game design](#scalable-game-design)
--   [Synthesis of chapter / discussion / problem
-    statement](#synthesis-of-chapter-discussion-problem-statement)
-    -   [Returning to gaps in the CGD&P research
-        landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
-        -   [Pedagogies exist but more are
-            needed](#pedagogies-exist-but-more-are-needed)
-    -   [Link to the next chapter](#link-to-the-next-chapter)
+    -   [Social approaches and cultural
+        programmes](#social-approaches-and-cultural-programmes)
+        -   [Pair programming & social/collaborative coding
+            -](#pair-programming-socialcollaborative-coding--)
+        -   [Coding clubs:](#coding-clubs)
+        -   [Game competitions](#game-competitions)
+        -   [Educational Game Jams](#educational-game-jams)
+        -   [Fifth Dimension interventions & Connected Learning
+            approaches](#fifth-dimension-interventions-connected-learning-approaches)
+            -   [Connected Learning
+                Programme](#connected-learning-programme)
+    -   [Design patterns](#design-patterns)
+        -   [Game Star Mechanic and related work by Institute of
+            Play](#game-star-mechanic-and-related-work-by-institute-of-play)
+        -   [Scalable game design](#scalable-game-design)
+    -   [Synthesis of chapter / discussion / problem
+        statement](#synthesis-of-chapter-discussion-problem-statement)
+        -   [Returning to gaps in the CGD&P research
+            landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
+            -   [Gaps in structural and technical
+                approaches](#gaps-in-structural-and-technical-approaches)
+            -   [Gaps in research on the potential of
+                GDPs](#gaps-in-research-on-the-potential-of-gdps)
+            -   [Addressing agency and cultural
+                factors](#addressing-agency-and-cultural-factors)
+        -   [Link to the next chapter](#link-to-the-next-chapter)
+    -   [Parked](#parked)
 
 # Literature Review
 
@@ -239,7 +238,7 @@ Also based in the MIT media lab, Resnick and Rosenbaum [-@resnick_designing_2013
 
 <!-- ##### Scratch as a more general toolset, remixing, and community elements -->
 
-A concern particularly relevant to this study are tensions resulting from scaffolding put in place to support the principles of wide walls. Take for example, the constructionist concept Constructopedia  advanced to provide scaffolding for diverse projects [@papert_technological_1995]. A Constructopedia was imagined as an encyclopedia of design elements and resources facilitating concrete implement which would act as both a practical resources and source inspiration. Nichols [-@nichols2007idea] outlines challenges in a practical attempts to created resource repositories based on Constructopedia principles which include; the limitations in context of some repositories [@carbonaro2004using], the lack of ability for participants to contribute their own resources and subsequent reduction in sense of ownership, and the overly broad scope of some repositories [@nichols2007idea].
+A concern particularly relevant to this study are tensions resulting from structural support (scaffolding [@bruner1974communication]) put in place to support the principles of wide walls. Take for example, the constructionist concept Constructopedia  advanced to provide scaffolding for diverse projects [@papert_technological_1995]. A Constructopedia was imagined as an encyclopedia of design elements and resources facilitating concrete implement which would act as both a practical resources and source inspiration. Nichols [-@nichols2007idea] outlines challenges in a practical attempts to created resource repositories based on Constructopedia principles which include; the limitations in context of some repositories [@carbonaro2004using], the lack of ability for participants to contribute their own resources and subsequent reduction in sense of ownership, and the overly broad scope of some repositories [@nichols2007idea].
 
 The principles of the Constructopedia concept are partially present within teh MIT media lab multi-media authoring tools for novice coders, Scratch. The wide walls principle is supported via the provision of a large library of assets accessible within the Scratch authoring tool. In addition, all created products on the online community are remixable by others.
 MORE ON REMIXING IN RESEARCH.
@@ -377,26 +376,23 @@ While the remit of this literature review does not encompass a full critique of 
 ### Design frameworks using stages & project based learning (PBL)
 
 
-As identified by they systemic review of CGD&P [@denner_does_2019], the design-built-test pedagogy is common in this field found in 30 out of 68 studies. The examplar given in this review highlights the approach of Globaloria programme which structures project work around an iterative cycle of stages of play, plan, prototype, program, publish. Many similar frameworks exist in diverse areas of production including computer science [@pereira_design_2018], engineering [@winarno_steps_2020-1], and design [@dam_5_2024]. Figure 2.x shows a graphical representation of design thinking stages from the Institute of Design at Stanford dschool [@dam_5_2024]. The stages are be described in the following way: Empathise - learn about the audience; Define - sharpen key questions; Ideate - Brainstorm and create solutions; Prototype - build representations of one or more ideas; Test - test ideas and gain user feedback.
+As identified by they systemic review of CGD&P [@denner_does_2019], the design-built-test pedagogy is common in this field found in 30 out of 68 studies. The exemplar given in this review highlights the approach of Globaloria programme which structures project work around an iterative cycle of stages of play, plan, prototype, program, publish. Many similar frameworks exist in diverse areas of production including computer science [@pereira_design_2018], engineering [@winarno_steps_2020-1], design thinking [@dam_5_2024] and project based learning. Addressing the domain of design thinking, Figure 2.x shows a graphical representation of design thinking stages from the Institute of Design at Stanford dschool [@dam_5_2024]. The stages are be described in the following way: Empathise - learn about the audience; Define - sharpen key questions; Ideate - Brainstorm and create solutions; Prototype - build representations of one or more ideas; Test - test ideas and gain user feedback.
 
 <!-- ![Figure 2.x. Design thinking via design stages model from Stanford dschool](./Pictures/designthinkingchart_orig.png){width=90%} -->
 
 
-![Figure 2.x. Design thinking via design stages model from Stanford dschool](./Pictures/design_thinking2.png){width=80%}
+![Figure 2.x. Design thinking via design stages model from Stanford dschool (left) & Creative Learning Cycle by Mitchell Resnick](./Pictures/designthinkingchart_merged.png){width=100%}
 
 <!-- One stream in CS stems from engineering and design thinking [@resnick_all_2007; @winarno_steps_2020-1]. -->
 
-Within the context of computing education Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. However, while research on the use of design thinking in education is broadly supportive, finding promise to develop varied forms of creative planning and collaborative skills [@luka_design_2019; @lor2017design], there are limitations within the field of design thinking and education that stem from lack of clarity regarding terms, information on how to implement design stages, and vague theoretical justification of the overall process [@micheli_doing_2019]. To address these limitations we can turn now to the fields of project based and discovery based learning which share the stage based characteristics but which have been developed and analysed using constructivist and sociocultural theories. 
 
+Within the context of computing education Resnick [-@resnick_scratched_2012] describes the foundations of the design-based approaches in education as; engaging in design activities, exploring personally meaningful topics, collaborating with others, and deepening understanding through reflection. To illustrate the iterative nature and importance of community in of a design approaches to making Resnick advocates the use of a _creative cycle model_ for educators [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more. However, while research on the use of design thinking in education is broadly supportive, finding promise to develop varied forms of creative planning and collaborative skills [@luka_design_2019; @lor2017design], there are limitations within the field of design thinking and education that stem from lack of clarity regarding terms, information on how to implement design stages, and vague theoretical justification of the overall process [@micheli_doing_2019]. To address these limitations we can turn now to the fields of project based learning which shares the stage based characteristics of design thinking but which has been developed and analysed using constructivist and sociocultural theories [^b].
 
 <!-- To illustrate this design-based approach Resnick advocates a _creative cycle model_ [@resnick_lifelong_2017]. The five circular stages are; Imagine, Create, Play, Share, Reflect and returning to Imagine once more.  -->
-
 
 <!-- ![creative spiral image]({{ site.baseurl }}/Pictures/Figure8.1.jpg){width=90%}
 Figure 8.1. Diagram of five circular stages; Imagine - Create - Play - Share - Reflect - Imagine  
 Diagram [@resnick_lifelong_2017] -->
-
-
 
 <!-- While the value of design thinking stages for educators planning sessions seems clear, and elements of this framework are included in early literature to help adoption of new computing curriculum in UK [@csizmadia_computational_2015],  there is little research exploring how the stages could be used by learners to scaffold their own design process when engaging in making digital products. -->
 
@@ -413,7 +409,7 @@ ADD TO THE PROBLEMS STATEMENT.  BUT I DON'T THINK THIS IS TRUE  -->
 The model is similar to the ADDIE model from instructional system design: Analysis, Design, Development, Implementation and Evaluation. The discipline of teaching engineering also has a similar design stage cycle with many contesting variations [@winarno_steps_2020]. Engineering is Elementary project adapted from the ABET (Accreditation Board for Engineering and Technology) guidelines [@syukri_impact_2018] involves the following steps; Ask, Imagine, Plan, Create, Test, Improve, Share [@hester_engineering_2007]. It has been adopted by the area of computing is one used in a recent book on coding by Bers [@bers_coding_2021]. HOW IS THIS USED? AS A PEDAGOGY? -->
 
 
-#### Project-based learning (PBL)
+<!-- #### Project-based learning (PBL) -->
 
 <!-- As outlined in the introduction, this thesis, while guided by constructionism as a design approach, uses AT as a theoretical framework.
 In addition, this section outlines the value of PBL as a more developed framework as well. -->
@@ -432,43 +428,25 @@ To align with the focus of this study I will focus on the following dimensions o
 - authenticity of processes
  -->
 
-
-Significant challenges exist in undertaking PBL including: expertise and confidence in facilitation [@ertmer_essentials_2015-1], and practicalities of timetabling and time pressures within formal settings.
-
-Perhaps because PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016], PBL is often conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006; @hmelo-silver_scaffolding_2007]. However, while there is unified structural approach to scaffolding, contextually responsive support is a vital component of PBL. Project based learning often involve challenges to students which are framed as wicked problems, which in some ways are unsolvable in that their dynamic and complex nature mean they require regular revisiting to find updated, contextually appropriate approaches. Similarly, the process of providing  relevant scaffolding to support PBL is also a such a wicked problem, requiring new approaches as background context and use of novel tools. As such, while finding an existing scaffolding structure to base my learning design on for this study may not be optimal, general principles to structure a project based approach are relevant.
+Significant challenges exist in undertaking PBL including: practicalities of timetabling and time pressures within formal settings [@marx_enacting_1997], limitations in access to authentic resources [@thomas_review_2000], and expertise and confidence in facilitation [@ertmer_essentials_2015-1] in part stemming from a shift in perspective from teacher as a subject expertise directly to a role of facilitation. Perhaps because PBL requires learning environment and activities that allow for an active construction of knowledge by learners rather than one dominated by instruction [@kokotsaki_project-based_2016], PBL is often conflate it with unstructured, _pure-discovery_ approaches [@kirschner_why_2006].  However, while there is no unified structural approach to scaffolding, contextually relevant support is a vital component of PBL [@hmelo-silver_scaffolding_2007]. Ertmer and Simons [-@ertmer_scaffolding_2005] describe the potential of delineating varied forms of scaffolding to support teachers to effectively deliver PBL. Saye and Brush [-@saye_scaffolding_2002] describe _hard_ and _soft_ forms of scaffolding: harder forms being structural, static support in place to help learners organise planning and content knowledge and softer supports addressing relational strategies involving responsive questioning and support for collaboration happening between learners.
 
 
 
-Procedural forms of scaffolding which facilitators can adopt, including those to aid group work, support reflection, and to structure knowledge sharing via project outcomes [@ertmer_essentials_2015-1; @pitot_establishing_2024]. EXAMPLES?
+In a STEM learning context, Pitot and colleagues [-@pitot_establishing_2024] draw on a popular project design rubric developed by the PBL Works organisation [^c] which they analyse as including the following elements: supporting the formation of challenging project challenges, sustained inquiry (relating to sustained time on the task and an iterative approach), authenticity (in both context and the use of tools within project work), student choice, critique and revision, reflection, and public product. Ertmer and Glazewski [-@ertmer_essentials_2015-1] outline similar a categorisation of scaffolding and highlight the vale of support to aid group work, support reflection, and structures supporting _discipline-based argumentation_  where project work helps learners explore knowledge categories which exist in with the domain being explored [@ertmer_essentials_2015-1, p.97]. The authors [-@ertmer_essentials_2015-1] note a tension in PBL design relating to the value of student choice over project work to sustain engagement compared to practical requirements to restrict of choice of participants to reduce the possibilities for facilitators being overwhelmed due to the breadth of support needed. Leat [-@leat_enquiry_2017-1] in an analysis of schools-based PBL using a sociocultural lens notes and highlights the value of incorporating what Moll [-@moll_funds_1992] refers to as funds of knowledge, resources which learners can draw on in either formal or informal settings [^2]. However the process of undertaking the incorporation of such funds can be challenging for both teachers who may lack relevant knowledge and for the relevant communities who may lack capacity [@gonzalez_funds_2005]. Leat [-@leat_enquiry_2017-1] notes the value of activity theory as a sociocultural process to analyse such tensions in ecological context of learning.
 
-In Ertmer Hard and soft forms of scaffolding - relevant here, some structural, some relational. Link to microworlds.
+Project based learning often involve challenges to students which are framed as _wicked problems_, which in some ways are unsolvable in that their dynamic and complex nature mean they require regular revisiting to find updated, contextually appropriate approaches [@kleczek_wicked_2020]. Similarly, the process of providing relevant scaffolding to support PBL also meet the definition of a wicked problem, requiring new approaches as background context and use of novel tools. As such, while the general approaches of structuring project work outlined above are relevant to this research, literature regarding kind of scaffolding that might support the develop CGD&P more specifically is often limited not only by acknowledged gaps in the landscape concerning sociocultural approaches [@kafai_constructionist_2015], but also by this dynamic context.
 
-Kolodoner research too [@kolodner_problem-based_2003] - on building culture of collaborating and supporting development of rituals.
-Although this research based on constructivism, and stems from scenario based computer modelling of cognition [@kolodner_case-based_2004], it is strongly aligned  sociocultural concepts.
+Despite these this limitation, it remains relevant to examine studies outlining the use of PBL and design stages to structure game making. To do this this section now analyses a selection of some of the studies referenced in both Kafai and Burke's review [@kafai_constructionist_2015], and that of Denner et al. [@denner_does_2019] which use a design-build-test approach. Simmons et al. [-@simmons_using_2012] briefly outline the use of a five stage design process to help structure the planning process of students. Reynolds and colleagues [-@reynolds_formal_2013-1] briefly include a description of a similar design phase process present in the Globaloria game making programme supported by extensive resources for teachers. However, most studies cited by Denner et al. as illustrating a design-build-test approach show significant limitation of details either the the students design process or suggested scaffolding of that process communicated to teachers or facilitators [@wang_relationships_2011; @wang_learning_2010-1; @robertson_influence_2013;  @ke_implementation_2014]. This may be in part due to limitations of the publication format, but may also reflect genuine limitation. For example, the online supporting resources of adventure author research by Robertson focuses primarily on software use rather than facilitating design process [^d].
+
+Despite this deficit, general reflection on studies of on gaming making reveal underlying characteristics which clearly align with a project based learning (PBL) approaches and provide structural support. For example, the end goal of making a game provides an readily understandable driving challenge which can be shared publicly via a playable game to an authentic audience, either in person or online [@pitot_establishing_2024].  Returning to the example of Globaloria example.  [@reynolds_formal_2013-1], researchers found the   to sustain engagement through the intrinsic motivation to test and then revise their game creations based on their own evaluation. In addition to these more general uses of PBL support, more structural and specific forms of scaffolding exist in the domain of CGD&P as distinct, compatible pedagogies which are addressed directly in the following sections.
 
 
-Leat [-@leat_enquiry_2017-1] in an analysis of schools-based PBL using a sociocultural lens notes and highlights the value of incorporating what Moll [-@moll_funds_1992] refers to as funds of knowledge, resources which learners can draw on in either formal or informal settings [^2]. However the process of undertaking the incorporation of such funds can be challenging for both teachers who may lack relevant knowledge and for the relevant communities who may lack capacity [@gonzalez_funds_2005]. Leat [-@leat_enquiry_2017-1] notes the value of activity theory as a sociocultural process to analyse such tensions in ecological context of learning.
+<!-- Kolodoner [@kolodner_problem-based_2003] - on building culture of collaborating and supporting development of rituals.
+Although this research based on constructivism, and stems from scenario based computer modelling of cognition [@kolodner_case-based_2004], it is strongly aligned  sociocultural concepts. -->
 
 <!-- The Aalborg PBL model at higher education level [@hernandez_aalborg_2015] -->
-
-
-An additional form of of PBL scaffolding, the restriction of choice of participants to reduce the possibilities for learners being overwhelmed, can expose a tension in relation to the value of student choice over project work [@ertmer_essentials_2015-1].
-
-
-Due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically.
-
-**PERHAPS DROP THIS BIT?**
-
-It is relevant to ask what exists structuring PBL in game making.
-
-Code gaming suits a project based learning (PBL) approach in that it provides an readily understandable driving question which can be shared publicly via a playable game to an authentic audience, either in person or online.
-
-Returning to the example of Globaloria [], researcher found the structuring provided helpful to challenge the perception of limitations of a discovery approach.
-
-One of the sources for sustained engagement is when, as part of the iterative process, learners are able to test and then revise their creation or experiment based on their own evaluation.
-
-Games as a project outcome provide the potential for an authentic project with a real audience for creations, as a source of inspiration and as peer evaluators in the testing process.
-
+<!-- Due to the difficulty of generalising and abstracting frameworks linked to domain specific knowledge and processes, a gap exists in PBL literature regarding kind of scaffolding that might support the develop CGD&P more specifically. -->
+<!-- Link to microworlds. -->
 
 <!-- In addition, the range of applications and situated nature of the learning via PBL creates significant challenges in representation of practice, including communicating specific details of scaffolding used. -->
 
@@ -500,35 +478,34 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 ### Use Modify Create
 
-The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety and demotivation surrounding the difficulty of coding games. UMC evolved from research involving the use of game making and robotics to support computational thinking [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]. The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]
-
-In the _Use_ stage, coders build a familiarity with coding interfaces, code structures and syntax through scaffolded approaches which involve interacting with the program code and what it produces. In the _Modify_ stage learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims. _Create:_ After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
+The 'Use-Modify-Create' approach proposed by Lee and colleagues [-@lee_computational_2011] is particularly promising to counter issue of user anxiety and demotivation surrounding the difficulty of coding games. UMC evolved from research involving the use of game making and robotics to support computational thinking [@denner_computer_2012; @denner_using_2014; @werner_pair_2013; @werner_children_2014]. The model advocates the remixing of existing games to act as a scaffold to build the competence of the beginner coder. Learners are guided to progress in the complexity of their modifications, thus becoming increasing proficient in the recognition and use of computational concepts and structures [-@lee_computational_2011]. In the _Use_ stage, coders build a familiarity with coding interfaces, code structures and syntax through scaffolded approaches which involve interacting with the program code and what it produces. In the _Modify_ stage learners progress to working on real projects created by others. Learners deepen their knowledge of coding structures and practices by altering existing projects and templates to suit their own aims. _Create:_ After novice coders become more familiar with patterns of code design in use in the modify stage, they can progress to replicate such patterns in other code that they create from scratch.
 
 A study involving five hundred 9 to 14 year-olds found that the UMC approach can balance a structured approach with more student-led exploration [@franklin_analysis_2020]. The researchers also found that the students enjoyed the UMC approach as they had more choice and agency in the process. This is supported by other research which compared UMC with a starting-from-scratch approach and found higher student engagement for those in the UMC group [@lytle_use_2019]. The researchers found that because students using UMC had more time to play around with code, they were able to add their own personal touches and that this ownership over the code sustained their continued engagement. While the scope of the study is limited, observations support motivation of UMC that this pattern of creation maintains higher level of engagement through reducing technical barriers to participation, and affording greater sense of learner's ownership over end project through greater choice over the final outcome.
 
-**Research on UMC which develops learner choice**
-
 <!-- NOTE - This may be moved to design chapter -->
 
+Giving learners agency via their choice over the design of created public code products has the potential to motivate ad sustain programming activity [@kafai_constructionism_1996], but brings with it the potential for both facilitator stress in supporting diverse activity, and the potential for diversion for students away from target areas of subject exploration (a tension Noss and Hoyles call the play paradox [@hoyles_pedagogy_1992]). In order to address this tension between choice and potential teacher stress caused by the open ended nature of the "Create" part of the model, Lytle and colleagues suggest a list of extensions to choose from, swapping create for choose [@lytle_use_2019-1].
 
-Giving learners agency via their choice over the design of created public code products has the potential to motivate ad sustain programming activity [@papert_mindstorms_1980; @kafai_constructionism_1996], but brings with it the potential for both facilitator stress in supporting diverse activity, and the potential for diversion for students away from target areas of subject exploration (a tension Noss and Hoyles call the play paradox [@hoyles_pedagogy_1992])
+<!--
+the authors note limits of study but are enthusiastic about providing a limited set of choices for final exploration within a limited time frame [@lytle_use_2019-1; @lytle_use_2019] -->
 
-Addressing these tensions work by Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020].
-
-Other work from UMC proponent Lytle suggests a list of extensions to choose from, swapping create for choose [@lytle_use_2019-1]. Based partly on the cause of teacher stress caused by the open ended nature of the "Create" part of the model.   
+<!-- Addressing these tensions work by Franklin and friends suggest the use of the UMC framework [@franklin_analysis_2020]. -->
 
 
-UMC has been developed to be end with scaffolded set of choices.
-In a study where students use a block based language to develop simulations - the authors note limits of study but are enthusiastic about providing a limited set of choices for final exploration within a limited time frame [@lytle_use_2019-1; @lytle_use_2019]
 
-- Scaffold Students and Teachers- Providing the necessary programming blocks students need to complete a choice
+
+<!-- In a study where students use a block based language to develop simulations -  -->
+
+
+
+<!-- - Scaffold Students and Teachers- Providing the necessary programming blocks students need to complete a choice
 - Differentiate Choices by Difficulty - create choice systems that have varying difficulty
 - Create Choices that Show Visible and Immediate Changes
 - Make things Complex, not Complicated
-- Draw from Student Desires - students will engage more with the material, feeling like the creations are their own.
+- Draw from Student Desires - students will engage more with the material, feeling like the creations are their own. -->
 
-**LINK**
-The main concept of UMC is remixing a game to build. Scratch has been instrumental in bringing this methodology into clubs and classrooms as an explicit feature of its online community. FIND SOURCE
+<!-- **LINK**
+The main concept of UMC is remixing a game to build. Scratch has been instrumental in bringing this methodology into clubs and classrooms as an explicit feature of its online community. FIND SOURCE -->
 
 <!--
   - Scaffold Students and Teachers- Providing the necessary pro-gramming blocks students need to complete a choice ala a Par-son’s Problem greatly reduces cognitive load, especially in activitieswhere lots of choices means lots of blocks. Similarly, giving teachers a “Cheat Sheet" of answers for each choice, scaffolds their abilityto act as a facilitator and debugger.
@@ -1121,8 +1098,13 @@ Thus, in summary, while some suitable and inclusive pedagogies exists, more are 
 
 Having explored the gaps in the body of literature relevant to this domain, we can see that a research approach which allows for a detailed exploration of both context, tool use, guiding pedagogical processes and learner agency is required. In the following chapter I outline the approach of the study to achieve these goals based on the principle theoretical framework of activity theory.
 
-[^a]:
- "Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context." [@siraj-blatchford_researching_2002]
+[^a]:  "Pedagogy refers to that set of instructional techniques and strategies which enable learning to take place and provide opportunities for the acquisition of knowledge, skills, attitudes and dispositions within a particular social and material context." [@siraj-blatchford_researching_2002]
+
+[^b]: Both constructivist and sociocultural schools of research are addressed in Chapter 3.
+
+[^c]: The role of organisations like PBL works and Edutopia have been significant in sharing accessible, educator focused support for teachers and facilitors. https://my.pblworks.org/resource/document/project_design_rubric
+
+[^d]: https://web.archive.org/web/20120511180037/http://judyrobertson.typepad.com/adventure_author/teaching-materials.html
 
 [^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
 

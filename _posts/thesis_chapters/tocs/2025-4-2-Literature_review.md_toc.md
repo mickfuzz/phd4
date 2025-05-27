@@ -3,24 +3,19 @@
     -   [A review of research on CGD&P and constructionist approaches to
         learning computer
         coding](#a-review-of-research-on-cgdp-and-constructionist-approaches-to-learning-computer-coding)
-        -   [The benefits of computer game design and programming
-            (CGD&P)](#the-benefits-of-computer-game-design-and-programming-cgdp)
+        -   [A summary of research on of computer game design and
+            programming
+            (CGD&P)](#a-summary-of-research-on-of-computer-game-design-and-programming-cgdp)
         -   [An overview of constructionist
             approaches](#an-overview-of-constructionist-approaches)
-            -   [Microworlds as both toolset and
-                pedagogy](#microworlds-as-both-toolset-and-pedagogy)
-            -   [Constructionist design
-                heuristics](#constructionist-design-heuristics)
-                -   [Scratch as a more general toolset, remixing, and
-                    community
-                    elements](#scratch-as-a-more-general-toolset-remixing-and-community-elements)
+            -   [Constructionist pedagogies: Microworlds, heuristics and
+                resulting
+                toolsets](#constructionist-pedagogies-microworlds-heuristics-and-resulting-toolsets)
             -   [Coding clubhouses and cultural
                 programmes](#coding-clubhouses-and-cultural-programmes)
             -   [Constructionist framing of relevant learning outcomes -
                 computational thinking and dimensions of fluency and
                 agency](#constructionist-framing-of-relevant-learning-outcomes---computational-thinking-and-dimensions-of-fluency-and-agency)
-            -   [Constructionist pedagogies - Project-based rather than
-                instruction-based](#constructionist-pedagogies---project-based-rather-than-instruction-based)
             -   [Limitations within constructionist approaches and the
                 related field of CGD&P
                 research](#limitations-within-constructionist-approaches-and-the-related-field-of-cgdp-research)
@@ -30,16 +25,11 @@
             first](#explicit-teaching-of-computational-thinking---principles-first)
         -   [Design frameworks using stages & project based learning
             (PBL)](#design-frameworks-using-stages-project-based-learning-pbl)
-            -   [Project-based learning
-                (PBL)](#project-based-learning-pbl)
         -   [Use Modify Create](#use-modify-create)
         -   [Half-baked games](#half-baked-games)
-            -   [Levels of Abstraction &
-                PRIMM](#levels-of-abstraction-primm)
-            -   [Levels of Abstraction](#levels-of-abstraction)
-            -   [Semantic Profiles and
-                PRIMM](#semantic-profiles-and-primm)
-                -   [PRIMM](#primm)
+            -   [Levels of abstraction & semantic
+                profiles](#levels-of-abstraction-semantic-profiles)
+            -   [PRIMM](#primm)
     -   [Social approaches and cultural
         programmes](#social-approaches-and-cultural-programmes)
         -   [Pair programming & social/collaborative coding
@@ -59,7 +49,11 @@
         statement](#synthesis-of-chapter-discussion-problem-statement)
         -   [Returning to gaps in the CGD&P research
             landscape](#returning-to-gaps-in-the-cgdp-research-landscape)
-            -   [Pedagogies exist but more are
-                needed](#pedagogies-exist-but-more-are-needed)
+            -   [Gaps in structural and technical
+                approaches](#gaps-in-structural-and-technical-approaches)
+            -   [Gaps in research on the potential of
+                GDPs](#gaps-in-research-on-the-potential-of-gdps)
+            -   [Addressing agency and cultural
+                factors](#addressing-agency-and-cultural-factors)
         -   [Link to the next chapter](#link-to-the-next-chapter)
     -   [Parked](#parked)
