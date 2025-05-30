@@ -771,52 +771,33 @@ GGJN drew on the education process of a programme called the Moveable Game Jam (
 ### Fifth Dimension interventions & Connected Learning approaches
 
 <!-- COLE AND GUTIERREZ -->
-
-**5th Dimension**
-
 <!-- **WHAT** -->
 
-In this section examines the characteristics and impact a collection of educational partnership called 5th Dimensions (5D) interventions using in a technology rich environment in a non-formal setting, often in after-school settings within lower income communities[@cole_design-based_2016]. Initial iterations, led by Michael Cole a leading a sociocultural researcher, and took place around San Diego University with the support of volunteers, equipment and technical support to design and help deliver a creative series of computer-based playful activities.
+While this chapter has covered many promising pedagogies and studies involving strategies relevant to enhance CGD&P, a common thread of limitations has been the limits of theoretical perspectives  addressing social and cultural aspects of the learning process. To address this deficit, this section examines the characteristics and impact a collection of educational partnerships called 5th Dimensions (5thD) which took place in technology-rich, non-formal setting, often in after-school clubs within lower income communities [@cole_design-based_2016]. Initial iterations, led by Michael Cole a leading a sociocultural researcher, and took place around San Diego University with the support of volunteers, equipment and technical support to design and help deliver a creative series of computer-based playful activities.
 
 <!-- **why** -->
 
-Cole [@cole2009designing] describes the two key motivations driving the 5thD activity as addressing ongoing need for provision of activities in after-school settings and as a vehicle to provide relevant experiences to students to connect their academic learning of child development to real life experience. The choice to use new computer communication technology of games and email addressed both a chance to address reading deficits [@cole2009designing; @cole2014designing], and potential alienation of women and girls from STEM subjects [@cole1987contextual]. The 5D approach  also highlight the importance, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the complexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way.
+Cole [@cole2009designing] describes the two leading motivations driving the 5thD activity as addressing ongoing need for provision of activities in after-school settings and as a vehicle to provide relevant experiences to students to connect their academic learning of child development to real life experience. The choice to use new computer communication technology of games and email addressed both a chance to address reading deficits [@cole2009designing; @cole2014designing], and potential alienation of women and girls from STEM subjects [@cole1987contextual]. The 5thD programme  also highlighted the importance, the site of research as joint activity with mutual but differing aims, the multi-generational and mutual nature of the learning of participants, the design of the complexities of the pedagogy. These characteristics provoked a the need for a methodology to capture and analyse activity in an ecological and evolutionary way. The intervention, employed a narrative fiction of a wizard with whom young people interacted via email. This motivated and orientated young people to undertake both digital and/or play-based activities that also developed their written and computer literacy [@brown_cultural_2008]. The ongoing nature of the project resulted in regular young attendees helping new cohorts of student volunteers to understand how the ongoing activity functioned on technical and social levels in a way that developed a sense of expertise for young people as well as important understandings for student helpers about the mutual learning processes at play  [@cole2009designing].
 
 <!-- The goal of the 5th D in terms of diversity and inclusion is significant. -->
 <!-- **how** -->
-
-The 5D intervention, used a narrative fiction of a 'wizard' with whom young people interacted via email to motivate and orientate young people undertake computer and playful activities that also developed written and computer literacy [@brown_cultural_2008]. The ongoing nature of the project resulted in regular young attenders helping new cohorts of student volunteers understand how the ongoing activity functioned on technical and social levels in away that both develop a sense of expertise for young people and helped develop important understandings of the mutual nature of the learning environment for student helpers [@cole2009designing].
-The importance of designing intervention to nurture participants formation of identities in evolving idiocultures became an important aspect of the work[@cole1987contextual].
-
-
-It is also significant that different formulations and local cultures with settings, in a way which is responsive to the interests and needs of different settings [@valsiner_cultural-historical_2007]. This strand on culture formation was developed further by researcher Kris Gutiérrez who led two 5D interventions, Las Redes [@scott_nixon_digital_2012], and El Pueblo Mágico  [@gutierrez_learning_2019-1]. In both sites the researchers developed understandings of the value of the multi-lingual cultural environment in how it contributed to the development of site specific culture. In related work Gutiérrez and Digiacomo [-@gutierrez_developing_2008; -@digiacomo_seven_2017] identify the vital role of learning designers to facilitate the use of movement of identity between settings by responsive learning design which allows learners to draw on  funds of knowledge [@moll_funds_1992; @moll1998turning] [^2]
-
-Gutiérrez and colleagues [@gutierrez_learning_2019-1] also made explicit an implicit design motivation driving 5thD interventions, that they needed to be fun not only to engage students but also to allow a greater expression of competence and agency by drawing on previous expertise of play in other setting. Gutiérrez [@gutierrez_when_2020-1; @gutierrez2014integrative] has developed the concept of horizontal movement of practice between between sites of learning rather than a vertical top-down transmission model of learning in ways that are discussed in Chapter 3 within the theoretical framework of this thesis.
-
+The importance of designing interventions to nurture participants formation of identities in the evolving cultures of the site of learning became an important aspect of the ongoing work [@cole1987contextual] [^1b]. It is significant that varied formulations and local cultures emerged within different settings, in a way which is responsive to the interests and needs of different settings [@valsiner_cultural-historical_2007]. This strand on culture formation was developed further by researcher Kris Gutiérrez who led two 5thD interventions, Las Redes [@scott_nixon_digital_2012], and El Pueblo Mágico  [@gutierrez_learning_2019-1]. In both sites the researchers developed understandings of the value of the multi-lingual cultural environment in how it contributed to the development of site specific culture. In related work Gutiérrez and Digiacomo [-@gutierrez_developing_2008; -@digiacomo_seven_2017] identify the vital role of learning designers to facilitate the use of movement of identity between settings by responsive learning design which allows learners to draw on  funds of knowledge [@moll_funds_1992; @moll1998turning] [^2]. Gutiérrez and colleagues [-@gutierrez_learning_2019-1] also clarified an implicit design motivation driving previous 5thD interventions that the experience should be fun for young people. Fun was needed not only for purposes of engagement  but also to allow for greater expressions of competence and agency through the process of drawing on previous expertise of play in other settings [^2b].
 
 
 <!-- In addition these ideas have been incorporated in a the connected learning approach described below.  -->
 
-
-
 <!-- roles are created and breathed into life by the facilitator and affordances of the learning design to accelerate an adoption of principles of practice. -->
 
 <!-- The intervention introduced a fictional narrative to create a shared project for the different participants involved to promote a shared understanding of the work via intentional goal setting . -->
+<!-- #### Connected Learning Programme -->
+
+Some of the ideas emerging from the 5thD programme were amplified through their incorporation within an approach called _connected learning_, from a  project to which Gutiérrez contributed  called  the Connected Learning Network (CLRN) [@ito2013connected]. CLRN addressed _education for the digital age_ drawing on the underlying ethnographic work of Gee and Ito explored in Chapter 1. CLRN proposed specific principles to help operationalise a broader approach of connected learning via movement between different digital and non-digital learning spaces. Principles included: learning should be socially embedded (through peers and communities), interest-driven, and oriented toward opportunity (e.g. able to connect to pathways for educational advancement, career success, and civic engagement). The project aimed to broaden access to such (WHAT EXACTLY? ) learning opportunities, particularly for under-served youth, by leveraging the potential of digital media and fostering connections across different learning environments like home, school, and community.
+
+This work via case studies, and more detailed reports of pedagogical strategies, has been a helpful and influential contribution to the field. In particular, x /y. SOMETHING specific, POSITIVE AND CONCRETE.
+However, while this line of research included one case study which addressed the potential of game design using a non-coding tool [@rafalow_connected_2014], no specific advice exists within this extensive body of research addressing how to operationalise the broader principles of connected learning as a specific pedagogy to support CGD&P in either formal or informal settings.  
 
 
-
-#### Connected Learning Programme
-
-Some of the ideas emerging from the 5thD programme were amplified through their incorporation within an approach called connected learning [@ito2013connected], a project to which Kris Gutiérrez contributed.
-
-The Connected Learning Project, spearheaded by Mimi Ito and the Connected Learning Research Network (CLRN) addressed education for the digital age. This work draws on the underlying ethnographic work of Gee and Ito explored in the introduction and  was a product of wider. It proposed principles to help operationalise this broader approach of connected learning and movement between learning spaces.  Learning should be socially embedded (through peers and communities), interest-driven, and oriented toward opportunity (e.g. able to connect to pathways for educational advancement, career success, and civic engagement). The project aims to broaden access to these kinds of learning opportunities, particularly for underserved youth, by leveraging the potential of digital media and fostering connections across different learning environments like home, school, and community.
-
-It's less about a specific curriculum or tool and more about sharing wider principles and case studies showing principles in practice.
-
-
-However, while this line of research included  one case study which addressed the potential of game design using a non-coding tool [@rafalow_connected_2014], there is no specific advice within this extensive body of research addressed how to operationalise this broader approach of connected learning as a specific pedagogy to support CGD&P in either formal or informal settings.  
-
-
+<!-- It's less about a specific curriculum or tool and more about sharing wider principles and case studies showing principles in practice. -->
 
 <!-- In this book we have considered how mathematics might be learned in settings that resemble the Brazilian samba school, in settings that are real, socially cohesive, and where experts and novices are all learning. The samba school, although not ‘exportable’ to an alien culture, represents a set of attributes a learning environment should and could have. (Seymour Papert, Mindstorms, 1980)1 -->
 
@@ -833,7 +814,7 @@ Design patterns, a concept originated in architecture , are structural solutions
 <!-- This research strand originates in the field of human-computer interaction [@eriksson_using_2019; @hook_strong_2012; @barendregt_intermediate-level_2018]; however, in most of these studies, the nature of the general theories is not clearly articulated. -->
 <!-- MOVED HERE SO CLARIFY THE POINT OF THE ABOVE. SOMETHING TO DO WITH PLAY PARADOX? -->
 
-**Turning specifically to the the use of game design patterns**
+<!-- **Turning specifically to the the use of game design patterns** -->
 
 Turning specifically to the the use of game design patterns within games, the use of design patterns and has also been adopted by game designers and educators working with games in varied ways [@bjork_patterns_2005].  In professional context of game programming collections of structural game design patterns are used to share coding practice and to develop a shared language of game design [@bjork_games_2006]. Thus, the term game design patterns (GDP) is used in different ways with Kreimeier  distinguishing between content patterns and structural software engineering patterns [@kreimeier_case_2002]. Content patterns describe common patterns of design that are visible to the end user. Following the work of Bergström et al. [@bergstrom_exploring_2010], for the purposes of this study the term GDP refers to game play design patterns a subset of game design patterns referring to to content patters that would be recognisable or at least experienced by the game player as features of the game.
 
@@ -861,13 +842,9 @@ By way of contrast,  -->
 
 <!-- The following two examples draw on collections of GDPs to help design process (not involving programming) of games as an educational activity. -->
 
-**Using Game Design pattern collections and code examples to help novice students.**
-
-In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game called Stringforce. The stringforce study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games. Their research drew on an existing collection of over 200 GDPs created in a related research project aimed at facilitating game production for novice adult game designers available as as a public collection [@bjork_patterns_2005] [^3]. The process of structuring these patterns drew on wider work on game theory, most directly the work on the MDA framework which outlines the value of framing GDPs into strands of game mechanics, dynamics and aesthetics [@bergstrom_exploring_2010]. Game mechanics are the rules and systems that govern gameplay. Game dynamics are the emergent behaviors resulting from these mechanics in player interaction. Game aesthetics invoke emotional responses in the player by gameplay elements like graphics, story and sound design.
+Collections of game design pattern have been used as pedagogical structures in research to help novices contribute to game design processes. In a design education intervention working with 11-12 year olds Eriksson and colleagues [@eriksson_using_2019] used a collection of curated patterns to prompt learners to analyse and then propose changes to an existing collaborative game called Stringforce. The stringforce study involved learner analysis of games, the ability to change level design via graphical (not code based) editor and co-design of proposed conceptual changes to existing games. Their research drew on an existing collection of over 200 GDPs created in a related research project aimed at facilitating game production for novice adult game designers available as as a public collection [@bjork_patterns_2005] [^3]. The process of structuring these patterns drew on wider work on game theory, most directly the work on the MDA framework which outlines the value of framing GDPs into strands of game mechanics, dynamics and aesthetics [@bergstrom_exploring_2010]. Game mechanics are the rules and systems that govern gameplay. Game dynamics are the emergent behaviors resulting from these mechanics in player interaction. Game aesthetics invoke emotional responses in the player by gameplay elements like graphics, story and sound design.
 
 The process of curating patterns for Stringforce involved selected only 14 from the full collection [@eriksson_using_2019]. The selection criteria for patterns to include in co-design stages included the following concerns; concrete patterns were favoured over more abstract ones to aid the learner comprehension, patterns chosen matched the learners' capabilities, patterns that were game mechanics were also prioritised as were pattern suggested by the learners. The Stringforce study surfaced several dimensions of utility of GDPs. GDP concepts were used in the following ways as lingua franca between researchers and participants; to aid the framing of analysis; and as a starting point to guide participants design suggestions [@eriksson_using_2019]. Overall, the primary focus of the results address benefits to researchers, advancing GDPs as a form of intermediate knowledge as a contribution to the field of child computer interaction research (CCI).
-
-
 
 <!-- The Mechanics element of the framework has much in common with GDPs. The difference is explored by researchers [@olsson2014conceptual]. The common element is the utility of the concepts to designers. Although the process of formalising such patterns and mechanics is also noted.
 THIS NEEDS CLARIFYING - ? BUT NOT TOO MUCH -->
@@ -878,10 +855,9 @@ THIS NEEDS CLARIFYING - ? BUT NOT TOO MUCH -->
 
 
 
-### Game Star Mechanic and related work by Institute of Play
+### Game Star Mechanic and Scalable Game Design
 
-
-Game Star Mechanic (GSM) is an online software based on sociocultural understandings of learning, designed to develop systems thinking, design thinking and media literacy within games as a multimodal text [@salen_gaming_2007]. In GSM the process of making video games using a simplified block system to modify existing game and  does not require programming [@games_design_2008]. Design choices were driven by research outlining the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @torres_learning_2009].
+This section reviews Game Star Mechanic and Scalable Game Design which are two notable and well-researched educational programmes using GDPs. Game Star Mechanic (GSM) is an online software based on sociocultural understandings of learning, designed to develop systems thinking, design thinking and media literacy within games as a multimodal text [@salen_gaming_2007]. In GSM the process of making video games using a simplified block system to modify existing game and  does not require programming [@games_design_2008]. Design choices were driven by research outlining the benefits to exploring games over other types of media projects, including their inherent interactivity and rules based systems, which facilitate the exploration of systems thinking and design approaches [@games_gamestar_2010; @tekinbas_gaming_2014; @torres_learning_2009].
 
 The pedagogy surrounding the GSM software drew on game theory by the Institute of Play founders [@salen_gaming_2007]. This work also fed into the process underlying the Moveable Game Jam outlined above. The guiding pedagogy is present in an extensive supporting pack for teachers [^4]. This guide used challenges themed around categorisation of game elements (space, components, mechanics, goals and rules. In evaluative reviews Games [-@games_design_2008 ; @games_gamestar_2010] describes how the design of the product allowed the use of learners background knowledge of game design patterns to facilitate complex forms of collaborative design and discourse between novice designers. Games also outlines the role of community elements of the surrounding pedagogy to help develop participants sense of an audience, and active critical roles within a design community [@gee_situated_2004].
 
@@ -892,23 +868,16 @@ ADD TO PROBLEM STATEMENT -->
 
 
 
-### Scalable game design
 
 <!-- USEFUL WIKI
 https://web.archive.org/web/20181119014430/https://sgd.cs.colorado.edu/wiki/Scalable_Game_Design_wiki -->
 
 
-Scalable Game Design (SGD) SGD is an computing education program designed and delivered by Colorado University WHICH like GSM, created a software tool (AgentSheets) allowing game creation and supporting teaching and learning resources and training. Agent sheets used a block based, drag and drop programming approach. Extensive partnership work led by Repenning and Basawapatna [-@repenning_scalable_2010; -@basawapatna_using_2010], allowed large scale data collection from thousands of school students.
-
-The researchers use the term Computational Thinking Patterns (CPTs) to describe patterns present in computer games which they support learners to code. It is the familiarity and understandability, and the ability to link to specific learning outcomes which which drew the SCG researchers towards a pattern-based approach compared to limitations of more abstract interpretations of computational thinking. This was driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations [@basawapatna_recognizing_2011]. The authors give examples of computational thinking patterns:  *generation* and *absorbtion* in predator / prey relationships, *transportation *of oxygen by red blood cells and mosquitoes *hill climbing* (seeking the highest value) of human scent.
+Scalable Game Design (SGD) is an computing education program designed and delivered by Colorado University WHICH like GSM, created a software tool (AgentSheets) allowing game creation and supporting teaching and learning resources and training. Agent sheets used a block based, drag and drop programming approach. Extensive partnership work led by Repenning and Basawapatna [-@repenning_scalable_2010; -@basawapatna_using_2010], allowed large scale data collection from thousands of school students. The researchers use the term Computational Thinking Patterns (CPTs) to describe patterns present in computer games which they support learners to code. It is the familiarity and understandability, and the ability to link to specific learning outcomes which which drew the SCG researchers towards a pattern-based approach compared to limitations of more abstract interpretations of computational thinking. This was driven by their interactions with teachers is to foreground concepts that have potential to transfer to the area of science simulations [@basawapatna_recognizing_2011]. The authors give examples of computational thinking patterns:  *generation* and *absorbtion* in predator / prey relationships, *transportation *of oxygen by red blood cells and mosquitoes *hill climbing* (seeking the highest value) of human scent.
 
 A driving pedagogical approach was the use of a _project first_ rather than _principles first_ approach to learning programming [@repenning_scalable_2015]. Computational concepts, for example, loops, lists, logic and variables are recommended to be taught as learner require them to be used. To do this they advocate use of _just in time_ instruction, via a clear links between the instruction needed and the motivation to achieve a tangible goal within game design to keep learners in a zone of engagement [@basawapatna_zones_2013].
 
-Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the
-
-participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work and one which many schools were not able to adopt due to time restrictions. This may account for relatively low figures for student ownership over projects. From 700 responses, only 139 (20%) indicated aspects of student ownership [@repenning_scalable_2015. P.11.10].
-
-Other limitations in the overall approach is that the programme use bespoke software created by the team which can be problematic to maintain in the long term. In additions while the resources used were classified as being just in time, a review of the supporting website shows quite lengthy instruction based resources which would be a barrier to such claims [^5].
+Another important concept in the SGD pedagogy is that of student ownership, present chiefly in the participants ability to design their own characters and backgrounds [@repenning_scalable_2015]. One of the limitation of the pedagogy is the _heavy scaffolding_ [@repenning_scalable_2015. P.11.10] needed via step-by-step instructions due to complexity of the game authoring process. While the authors suggest letting the students create there own games, this is included as an optional activity at the end of a unit of work and one which many schools were not able to adopt due to time restrictions. This may account for relatively low figures for student ownership over projects. From 700 responses, only 139 (20%) indicated aspects of student ownership [@repenning_scalable_2015. P.11.10]. Other limitations in the overall approach is that the programme use bespoke software created by the team which can be problematic to maintain in the long term. In additions while the resources used were classified as being just in time, a review of the supporting website shows quite lengthy instruction based resources which would be a barrier to such claims [^5].
 
 
 <!-- Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants. -->
@@ -1010,8 +979,6 @@ This section returns to the guiding research questions in relation to the existi
 
 
 <!--
-
-
 **RECAP OF POTENIAL?** -->
 
 <!-- One premise driving my exploration of the use of gameplay features in pedagogy is that the  -->
@@ -1072,8 +1039,12 @@ Having explored the gaps in the body of literature relevant to this domain, we c
 [^1]: Global Game Jam Next is an educational sub-project of the adult focused Global Game Jam. It has supporting resources for facilitators. https://ggjnext.org/curriculum/. It is partnered with Games 4 Change which also has a game jam guide
 https://gamesforchange.org/studentchallenge/wp-content/uploads/2025/02/G4C-STUDENT-CHALLENGE-GAME-JAM-GUIDE_updated-1-13-25.pdf. The emergence of the experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
 
+[^1b]: Idioculture is a term used to describe these micro-cultures by Cole and other 5thD researchers. It is explored in Chapter 3.
+
 
 [^2]: Funds of knowledge are resources which learners can draw on in either formal or informal settings. These may be home practices learned from family members, special hobby interests or broader cultural practices [@moll_funds_1992]
+
+[^2b]: Gutiérrez [-@gutierrez_when_2020-1; -@gutierrez2014integrative] has developed the concept of horizontal movement of practice between between sites of learning rather than a vertical top-down transmission model of learning in ways that are discussed in Chapter 3 within the theoretical framework of this thesis.
 
 [^3]: A collection of over 200 patterns organised by diverse themes are online here.  http://virt10.itu.chalmers.se/index.php/Category:Patterns
 
