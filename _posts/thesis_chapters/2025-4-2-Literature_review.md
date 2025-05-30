@@ -111,11 +111,13 @@ title: 2. Literature Review
     - Problem statement  
     - Link  -->
 
-This chapter reviews relevant literature to summarise research addressing the aims of this study. It explores several themes to establish a broad understanding of the field of computer game design and programming (CGD&P). Firstly, I summarise the findings of reviews of research on CGD&P. Then, due both to its prominance in the field and the utility of the work, I outline key concerns of the work of constructionist researchers in the broader field of supporting programming education and more specifically within CGD&P. The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis. For the purposes of this chapter, I draw on a definition of pedagogy aligned with the socio-cultural approach of this study from Siraj-blatchford and colleagues [-@siraj-blatchford_researching_2002] [^a]. I begin with structural pedagogies first from wider field of computer programming before focusing in on those specifically addressing game making. Then follows a review of research on the potential and characteristics of social and cultural approaches to game making covering: pair and peer coding, coding clubs, competitions, and game jams. This section ends with by exploring the development of novel and robust pedagogies which support learner agency via a summar of the Fifth Dimension (5thD) interventions and those outlined a the Connected Learning research programme. Finally, a significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. By addressing these themes, the literature review will situate the current study within the broader academic discourse. In particular, given the underlying rationale of the thesis it explores pedagogical approaches which have the potential to foster inclusive practices within game making communities for novice coders.
+This chapter reviews the literature to summarise research  addressing the aims of this study. It explores several broad themes to establish a comprehensive understanding of the field. Firstly, I examine the findings of research and reviews in the areas of computer game design and programming. Then, due both to its prominance in the field and the utility of the work, I outline key concerns of the work of constructionist researchers in the broader field of supporting programming education and more specifically within CGD&P.
 
+The review then addresses pedagogical approaches that are pertinent to the research concerns of this thesis. For the purposes of this chapter, I draw on a definition of pedagogy aligned with the socio-cultural approach of this study from Siraj-blatchford and colleagues [-@siraj-blatchford_researching_2002] [^a]. I begin with structural pedagogies first from wider field of computer programming before focusing in on those specifically addressing game making
 
-<!-- The section includes socially oriented pedagogies including peer and pair coding before turning to describe characteristics of non-formal learning programmes where game making may take place, specifically addressing: coding clubs, competitions, and game jams.  -->
+Then follows a review of research on the potential and characteristics of social and cultural approaches to game making. The section includes socially oriented pedagogies including peer and pair coding before turning to describe characteristics of non-formal learning programmes where game making may take place, specifically addressing: coding clubs, competitions, and game jams. This section ends with by exploring the development of novel and robust pedagogies which support learner agency via a summar of the Fifth Dimension (5thD) interventions and those outlined a the Connected Learning research programme.
 
+Finally, a significant focus is placed on the use of game design patterns (GDPs), where I highlight their use in computing education. This includes analysis of a strand of research investigating the use of collections of GDPs by novice game designers. By addressing these themes, the literature review wil situate the current study within the broader academic discourse. In particular, given the underlying rationale of the thesis it will explore the importance of pedagogical approaches which have the potential to foster inclusive practices within game making communities for novice coders.
 <!-- Subsequently, I explore how this review has informed the proposed problem statement of this thesis, emphasising the need for developing novel and robust pedagogies in this area which support learner agency.  -->
 
 <!-- In the context of activity theory, pedagogy can be framed as pedagogical tools and processes, functioning as a type of mediational strategy.
@@ -739,29 +741,17 @@ Another format of challenge which also provides support is that of the game jam.
 
 ### Educational Game Jams
 
-Global game Jam Next - https://ggjnext.org/
-which has supporting resources. https://ggjnext.org/curriculum/
-
-And linked to G4c which has a jam guide
-https://gamesforchange.org/studentchallenge/wp-content/uploads/2025/02/G4C-STUDENT-CHALLENGE-GAME-JAM-GUIDE_updated-1-13-25.pdf
-
 Game Jams are an accelerated production methods, like code sprint or Hackathons, they characterise by an accelerated production ethos, creative collaboration and innovation [@arya_international_2013; @gabler2005prototype].  Participants create games individually or in teams in a time-constrained period, typically 24 or 48 hours. While the premise game jams is to promote collaboration, events are inconsistent in their support and scaffolding of collaborative approaches although a frequent feature is the use of playful constraints to accelerate creativity (e.g playful game themes)  [@goddard_playful_2014]. Recent research posits that Game Jams can be profitably used in formal education contexts [@aurava_game_2021]. Team events often take place in physical venues which may be part of a wider global Jams [@arya_international_2013].
 
 An influential source of an education process of jams is the called the Moveable Game Jam (MGJ) and its guide [@games_for_change_get_2017], created by a collective of New York educators and educational foundations [^1]. The jam guide employ playful methods to increase inclusivity of the process.  To address some of the inclusivity concerns of adult game jams format adaptations have been made. MGJ can be applied in a shorter time-frame, emphasises low-cost and both digital and analogue offline game production. It uses loosely structured activities and broad goals allowing for significant learner agency.  The MGJ process communicate fundamentals concepts of game design process to participants. To achieve this there is periodic facilitator checking of participant projects the use of extensive playtesting in the process. MGJ appears to be the one of the first resources to focus on using game elements as a pedagogical approach; space, goal, components, mechanics and rules [@games_for_change_get_2017], one which has been adopted by other game jams and competitions.   
 
 Arya and colleagues [@arya_ggj-next_2019] note the limits of the Moveable Game Jam in terms of small scale in research which outlines the development of a online centrally coordinated approach of the Global Game Jam and a youth programme launched in 2018.
 
-
-Recently  Global Games Jam Next programme the has partnered with the Game for Change game making competition. Both organisations have updated documentation based on the MGJ ethos, to help educators to run a game jam or to support novice makers take part in competitions.
-
 The techniques include analyse the component parts of games, using non-digital games, the use of playful roles within game making,
 
-
+<!-- Recently  Global Games Jam Next programme the has partnered with the Game for Change game making competition. Both organisations have updated documentation based on the MGJ ethos, to help educators to run a game jam or to support novice makers take part in competitions. -->
 
 <!-- Eberhardt [-@eberhardt_no_2016, p. 3], identifies potentially incompatible strands of Game Jams, specifically citing commercialised events and professional Game Jammers contrasted to those Jams with a social purpose with a more diverse, less target driven audience . Goddard et al have analysed the key aspects of Game Games including tools, organisational processes and rewards systems [-@goddard_playful_2014], using a playful vs. gameful spectrum from Caillois [-@caillois_man_2001]. -->
-
-
-
 
 <!-- The area of improvisation is underexplored in the game jam context compared to that of music and theatre [@jaffurs_impact_2004-1; @merilainen_game_2020]. -->
 
@@ -1082,7 +1072,8 @@ Having explored the gaps in the body of literature relevant to this domain, we c
 [^g]: Grass roots approach characterised by a  large take up of enthusiastic community activity in response to a model encouraging others to organise their own events. All three projects have been subsumed into the RPI foundation, which offers mostly instruction based support via their website which disappointingly may well indicate a lost opportunity to study innovative practice.
 
 
-[^1]: The experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
+[^1]: Global Game Jam Next is an educational sub-project of the adult focused Global Game Jam. It has supporting resources for facilitators. https://ggjnext.org/curriculum/. It is partnered with Games 4 Change which also has a game jam guide
+https://gamesforchange.org/studentchallenge/wp-content/uploads/2025/02/G4C-STUDENT-CHALLENGE-GAME-JAM-GUIDE_updated-1-13-25.pdf. The emergence of the experimental process between NYC Hive and other partners and individuals is documented via a blog post on the games for change website. https://web.archive.org/web/20180212051341/https://gamesforchange.org/studentchallenge/2016/11/21/10569/
 
 
 [^2]: Funds of knowledge are resources which learners can draw on in either formal or informal settings. These may be home practices learned from family members, special hobby interests or broader cultural practices [@moll_funds_1992]
