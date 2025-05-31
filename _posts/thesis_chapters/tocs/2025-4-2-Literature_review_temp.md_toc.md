@@ -37,9 +37,12 @@
         -   [Educational Game Jams](#educational-game-jams)
         -   [Fifth Dimension interventions & Connected Learning
             approaches](#fifth-dimension-interventions-connected-learning-approaches)
+            -   [Connected Learning
+                Programme](#connected-learning-programme)
     -   [Design patterns](#design-patterns)
-        -   [Game Star Mechanic and Scalable Game
-            Design](#game-star-mechanic-and-scalable-game-design)
+        -   [Game Star Mechanic and related work by Institute of
+            Play](#game-star-mechanic-and-related-work-by-institute-of-play)
+        -   [Scalable game design](#scalable-game-design)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
         -   [Returning to gaps in the CGD&P research

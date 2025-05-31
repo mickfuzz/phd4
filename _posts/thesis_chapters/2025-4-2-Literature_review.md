@@ -37,26 +37,21 @@ title: 2. Literature Review
             first](#explicit-teaching-of-computational-thinking---principles-first)
         -   [Design frameworks using stages & project based learning
             (PBL)](#design-frameworks-using-stages-project-based-learning-pbl)
-        -   [Use Modify Create](#use-modify-create)
-        -   [Half-baked games](#half-baked-games)
+        -   [Use Modify Create & Half Baked
+            games](#use-modify-create-half-baked-games)
             -   [Levels of abstraction & semantic
                 profiles](#levels-of-abstraction-semantic-profiles)
             -   [PRIMM](#primm)
     -   [Social approaches and cultural
         programmes](#social-approaches-and-cultural-programmes)
-        -   [Pair programming & social/collaborative coding
-            -](#pair-programming-socialcollaborative-coding--)
-        -   [Coding clubs:](#coding-clubs)
-        -   [Game competitions](#game-competitions)
+        -   [Game competitions and coding
+            clubs](#game-competitions-and-coding-clubs)
         -   [Educational Game Jams](#educational-game-jams)
         -   [Fifth Dimension interventions & Connected Learning
             approaches](#fifth-dimension-interventions-connected-learning-approaches)
-            -   [Connected Learning
-                Programme](#connected-learning-programme)
     -   [Design patterns](#design-patterns)
-        -   [Game Star Mechanic and related work by Institute of
-            Play](#game-star-mechanic-and-related-work-by-institute-of-play)
-        -   [Scalable game design](#scalable-game-design)
+        -   [Game Star Mechanic and Scalable Game
+            Design](#game-star-mechanic-and-scalable-game-design)
     -   [Synthesis of chapter / discussion / problem
         statement](#synthesis-of-chapter-discussion-problem-statement)
         -   [Returning to gaps in the CGD&P research
