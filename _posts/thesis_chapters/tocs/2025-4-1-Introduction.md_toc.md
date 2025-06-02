@@ -4,26 +4,20 @@
     -   [2. Context / Background](#context-background)
         -   [Background of informal settings / non-formal and home
             education
-            context](#background-of-informal-settings-non-formal-and-home-education-context)
+            contexts](#background-of-informal-settings-non-formal-and-home-education-contexts)
         -   [Context of digital making](#context-of-digital-making)
         -   [Context of school-based computing
             education](#context-of-school-based-computing-education)
-        -   [Context of digital game
-            making](#context-of-digital-game-making)
-            -   [Broad Motivations for undertaking
-                CGD&P](#broad-motivations-for-undertaking-cgdp)
-            -   [The context of family
-                gaming](#the-context-of-family-gaming)
-        -   [Barriers to participation in programming and specifically
-            CGD&P](#barriers-to-participation-in-programming-and-specifically-cgdp)
+        -   [Digital game making as a subset of digital
+            making](#digital-game-making-as-a-subset-of-digital-making)
+        -   [Barriers to participation in
+            CGD&P](#barriers-to-participation-in-cgdp)
     -   [3. Rationale for the Study:](#rationale-for-the-study)
         -   [Personal context](#personal-context)
         -   [Connecting my experience to broader contextual
             themes](#connecting-my-experience-to-broader-contextual-themes)
         -   [Rationale of home education settings as a site of
             research](#rationale-of-home-education-settings-as-a-site-of-research)
-        -   [Ratinale for a new design (is this
-            objectives?)](#ratinale-for-a-new-design-is-this-objectives)
         -   [Summary problem statement of the
             thesis](#summary-problem-statement-of-the-thesis)
     -   [4. Theoretical framework, research objectives, and

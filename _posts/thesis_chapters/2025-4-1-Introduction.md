@@ -15,26 +15,20 @@ title: 1. Introduction - Games for a Read-Write world.
     -   [2. Context / Background](#context-background)
         -   [Background of informal settings / non-formal and home
             education
-            context](#background-of-informal-settings-non-formal-and-home-education-context)
+            contexts](#background-of-informal-settings-non-formal-and-home-education-contexts)
         -   [Context of digital making](#context-of-digital-making)
         -   [Context of school-based computing
             education](#context-of-school-based-computing-education)
-        -   [Context of digital game
-            making](#context-of-digital-game-making)
-            -   [Broad Motivations for undertaking
-                CGD&P](#broad-motivations-for-undertaking-cgdp)
-            -   [The context of family
-                gaming](#the-context-of-family-gaming)
-        -   [Barriers to participation in programming and specifically
-            CGD&P](#barriers-to-participation-in-programming-and-specifically-cgdp)
+        -   [Digital game making as a subset of digital
+            making](#digital-game-making-as-a-subset-of-digital-making)
+        -   [Barriers to participation in
+            CGD&P](#barriers-to-participation-in-cgdp)
     -   [3. Rationale for the Study:](#rationale-for-the-study)
         -   [Personal context](#personal-context)
         -   [Connecting my experience to broader contextual
             themes](#connecting-my-experience-to-broader-contextual-themes)
         -   [Rationale of home education settings as a site of
             research](#rationale-of-home-education-settings-as-a-site-of-research)
-        -   [Ratinale for a new design (is this
-            objectives?)](#ratinale-for-a-new-design-is-this-objectives)
         -   [Summary problem statement of the
             thesis](#summary-problem-statement-of-the-thesis)
     -   [4. Theoretical framework, research objectives, and
@@ -237,11 +231,11 @@ This section explores relevant studies to outline the barriers to participation 
 
 <!-- For example, the importance of reducing barriers to learning coding through structural abstraction and thus the simplification of learning environments. -->
 
-Difficulties in structuring and accessing learning experiences in informal and collaborative settings present another significant barrier to CGD&P participation. For instance, a key review highlighted the limited specific pedagogical approaches for social engagement in CGD&P [@kafai_constructionist-2015-1]. While Chapter 2 will explore existing approaches in detail, it is useful now to outline broad approaches and some inherent challenges. The educational practice of *tinkering* helps illustrate a challenge in supporting creative work. Tinkering, in this context, refers to a direct, learner-led interaction with materials or digital artefacts, where feedback is rapid through visible results [@vossoughi_making_2015]. The learner adapts familiar concepts and processes to new situations, much like a skilled artisan improvises [@papert_childrens-1993, p. 143]. While such open-ended and exploratory methods can drive engagement [@sheridan_learning_2014], they may pose challenges for project completion without sufficient modelling, problem-solving support, and resource access [@bevan_tinkering_2014]. Concerning the structure of learning, Rogoff's work [-@rogoff_organization_2016] also distinguishes between formal and informal approaches in community settings. She suggests that the common framing of *children-led* (free exploration) versus *adult-led* (direct instruction) is a false dichotomy [@rogoff_observing-1995, p.211]. Instead, she proposes a more complex, community-based understanding involving guided participation and apprenticeship [@rogoff_developing_1994]. Rogoff defines guided participation as active involvement in cultural activities with the guidance of more experienced individuals [^9]. The implications of these limitations are important for this study, as this lack of documented strategies makes dissemination challenging, especially for practitioners unfamiliar with such approaches.
+Difficulties in structuring and accessing learning experiences in informal and collaborative settings present another significant barrier to CGD&P participation. For instance, a key review highlighted the limited specific pedagogical approaches for social engagement in CGD&P [@kafai_constructionist_2015-1]. While Chapter 2 will explore existing approaches in detail, it is useful now to outline broad approaches and some inherent challenges. The educational practice of *tinkering* helps illustrate a challenge in supporting creative work. Tinkering, in this context, refers to a direct, learner-led interaction with materials or digital artefacts, where feedback is rapid through visible results [@vossoughi_making_2015]. The learner adapts familiar concepts and processes to new situations, much like a skilled artisan improvises [@papert_childrens_1993, p. 143]. While such open-ended and exploratory methods can drive engagement [@sheridan_learning_2014], they may pose challenges for project completion without sufficient modelling, problem-solving support, and resource access [@bevan_tinkering_2014]. Concerning the structure of learning, Rogoff's work [-@rogoff_organization_2016] also distinguishes between formal and informal approaches in community settings. She suggests that the common framing of *children-led* (free exploration) versus *adult-led* (direct instruction) is a false dichotomy [@rogoff_observing_1995, p.211]. Instead, she proposes a more complex, community-based understanding involving guided participation and apprenticeship [@rogoff_developing_1994]. Rogoff defines guided participation as active involvement in cultural activities with the guidance of more experienced individuals [^9]. The implications of these limitations are important for this study, as this lack of documented strategies makes dissemination challenging, especially for practitioners unfamiliar with such approaches.
 
 <!-- This alternative to the simplistic children-led/adult-led spectrum. -->
 
-Inequality of access to digital making communities and practices presents another significant barrier. Historically, the lack of access to necessary technology, such as high-cost computers, constituted a major issue [@resnick_computer_1996]. While lower equipment costs and the equipping of school and community centres have addressed some of these concerns, technological access represents only one dimension of the problem. Sefton-Green [-@sefton-green_mapping_2013] suggests that even with improved access to equipment, many young people still face barriers. Among those who participate, creative activities resulting in finished digital products are rare, with studies such as Luther et al. [-@luther_why_2010] revealing an 80 percent failure rate in collaborative media projects within the New Grounds community. Thus Sefton-Green [-@sefton-green_mapping_2013] argues that motivated and capable facilitators are crucial for enabling participation. In addition, the appeal of online digital making communities, as described by Ito and Gee [-@ito_hanging-2010; -@gee_what_2004], is inconsistent due to cultural barriers to participation.
+Inequality of access to digital making communities and practices presents another significant barrier. Historically, the lack of access to necessary technology, such as high-cost computers, constituted a major issue [@resnick_computer_1996]. While lower equipment costs and the equipping of school and community centres have addressed some of these concerns, technological access represents only one dimension of the problem. Sefton-Green [-@sefton-green_mapping_2013] suggests that even with improved access to equipment, many young people still face barriers. Among those who participate, creative activities resulting in finished digital products are rare, with studies such as Luther et al. [-@luther_why_2010] revealing an 80 percent failure rate in collaborative media projects within the New Grounds community. Thus Sefton-Green [-@sefton-green_mapping_2013] argues that motivated and capable facilitators are crucial for enabling participation. In addition, the appeal of online digital making communities, as described by Ito and Gee [-@ito_hanging_2010; -@gee_what_2004], is inconsistent due to cultural barriers to participation.
 
 <!-- This perspective continues to drive constructionist design approaches supporting creative computing [@resnick_design_2005; @resnick_scratch_2009; @kafai_constructionism_1996; @kafai_constructionism_1996; @kafai_minds_1994; @lee_playing_2014; @peppler_makeology:_2016]. -->
 
@@ -826,7 +820,7 @@ The celebration here is of pluralism rather than the culturally prevalent perspe
 [^3]: Block coding differs from traditional text coding in that text code is replaced by inter-locking coloured blocks representing code syntax which users can drag from a menu into a coding area. For a fuller summary see:  [@resnick_scratch_2009].
 [^4]: A notable example is Code Academy which featured a structured, interactive environment to scaffold coding via code playground approach.
 [^5]: Code playgrounds are online environments used to test, share or invite help from online users on complete or partial code projects or problems, primarily for web-based project involving the technologies of HTML, CSS and variations of JavaScript [@queiros_user_2021]
-[^6:]: See an overview of recent retro game related films here. https://js13kgames.com/p/nostalgia-rebooted-2025.html
+[^6]: See an overview of recent retro game related films here. https://js13kgames.com/p/nostalgia-rebooted-2025.html
 [^7]: See itch.io
 [^8:]  For example, Papert created a simplified text programming language LOGO. He created learning environments where students could explore abstract mathematical concepts in  concrete ways through exploratory play using drawing robots controlled LOGO.
 [^9]: The concept of guided participation and how it relates to other dimensions of learning in a community is explored in more detail in Chapter 3.
