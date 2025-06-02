@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 7. Discussion
+title: 7. Findings on RQ3
 ---
 -   [Discussion](#discussion)
     -   [Research Questions April 2025](#research-questions-april-2025)
