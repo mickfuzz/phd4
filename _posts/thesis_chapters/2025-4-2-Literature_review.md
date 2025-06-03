@@ -312,7 +312,7 @@ To refocus this review, let's return to focus of computational fluency as the fo
 
 ## Pedagogies to support game making via coding
 
-One of the main themes of this review is to explore the pedagogies available to support coding). The following sections focus on pedagogies that are relevant to first general programming, and then more specifically game making.
+One of the main themes of this review is to explore the pedagogies available to support CGD&P. The following sections focus on pedagogies that are relevant to first general programming, and then more specifically game making.
 
 <!-- It also focuses on those mo non-formal, real-life (as opposed to online) communities. -->
 
@@ -343,7 +343,7 @@ The remit of this literature review does not encompass a full critique of the va
 ### Design frameworks using stages & project based learning (PBL)
 
 
-As identified by they systemic review of CGD&P [@denner_does_2019], the design-built-test pedagogy is common in this field found in 30 out of 68 studies. The exemplar given in this review highlights the approach of Globaloria programme which structures project work around an iterative cycle of stages of play, plan, prototype, program, publish. Many similar frameworks exist in diverse areas of production including computer science [@pereira_design_2018], engineering [@winarno_steps_2020-1], design thinking [@dam_5_2024] and project based learning. Addressing the domain of design thinking, Figure 2.x shows a graphical representation of design thinking stages from the Institute of Design at Stanford dschool [@dam_5_2024]. The stages are be described in the following way: Empathise - learn about the audience; Define - sharpen key questions; Ideate - Brainstorm and create solutions; Prototype - build representations of one or more ideas; Test - test ideas and gain user feedback.
+As identified by the systemic review of CGD&P [@denner_does_2019], the design-built-test pedagogy is common in this field found in 30 out of 68 studies. The design-build-test exemplar cited in that review highlighted the approach of Globaloria programme. Globaloria structures project work around an iterative cycle of design stages namely: play, plan, prototype, program, and publish. Many similar frameworks exist in diverse areas of production including computer science [@pereira_design_2018], engineering [@winarno_steps_2020-1], design processes [@dam_5_2024] and project based learning. Addressing the domain of design thinking, Figure 2.x includes a graphical representation of design thinking stages from the Institute of Design at Stanford dschool [@dam_5_2024]. The stages are be described in the following way: Empathise - learn about the audience; Define - sharpen key questions; Ideate - Brainstorm and create solutions; Prototype - build representations of one or more ideas; Test - test ideas and gain user feedback.
 
 <!-- ![Figure 2.x. Design thinking via design stages model from Stanford dschool](./Pictures/designthinkingchart_orig.png){width=90%} -->
 
