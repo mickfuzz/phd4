@@ -10,36 +10,39 @@
         -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Applying 3GAT via formative
             interventions](#applying-3gat-via-formative-interventions)
-        -   [SDBEs and theoretical concepts emerging from the LCHC and
-            the Fifth Dimension
-            interventions](#sdbes-and-theoretical-concepts-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
+        -   [Theoretical concepts emerging from the LCHC and the Fifth
+            Dimension
+            interventions](#theoretical-concepts-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
         -   [Funds of knowledge and third
             space](#funds-of-knowledge-and-third-space)
         -   [Third spaces and repertoires in the context of this
             study](#third-spaces-and-repertoires-in-the-context-of-this-study)
-            -   [Social design-based experiments
-                (SDBEs)](#social-design-based-experiments-sdbes)
+        -   [Design based research approaches -
+            INSERTED](#design-based-research-approaches---inserted)
     -   [Putting AT to work, variations and synthesis in interventionist
         CHAT
         research](#putting-at-to-work-variations-and-synthesis-in-interventionist-chat-research)
-        -   [Theoretical concepts of DBR used in this
-            study](#theoretical-concepts-of-dbr-used-in-this-study)
+        -   [DBR as an applied research
+            process](#dbr-as-an-applied-research-process)
+        -   [Change Lab and Living labs](#change-lab-and-living-labs)
+        -   [Social design-based experiments
+            (SDBEs)](#social-design-based-experiments-sdbes)
     -   [Concepts of agency within
         CHAT](#concepts-of-agency-within-chat)
         -   [Instrumental and relational
             agency](#instrumental-and-relational-agency)
         -   [Dynamically emergent agency](#dynamically-emergent-agency)
-        -   [Relational agency](#relational-agency)
-            -   [Feedback and relational agency and specialism in
-                context of
-                making](#feedback-and-relational-agency-and-specialism-in-context-of-making)
-        -   [Authorial and transformative
+        -   [(Authorial and) transformative
             agency](#authorial-and-transformative-agency)
             -   [Transformative activist stance
                 (TAS)](#transformative-activist-stance-tas)
             -   [Transformation agency through double stimulation
                 (TADS) - On double stimulation and
                 agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
+        -   [Relational agency](#relational-agency)
+            -   [Feedback and relational agency and specialism in
+                context of
+                making](#feedback-and-relational-agency-and-specialism-in-context-of-making)
     -   [Conclusion / Synthesis.](#conclusion-synthesis.)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
