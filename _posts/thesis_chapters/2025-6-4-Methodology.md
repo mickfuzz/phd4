@@ -127,33 +127,82 @@ title: 4. Methodology
 
 ## Introduction
 
-This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology to study the evolution of a game making community and the mutual creation of a new community-based pedagogy. The methodology of the data collection and analysis process is informed by cultural historical approaches.
+This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology to study the evolution of a game making community and the mutual creation of a new community-based pedagogy. In this chapter I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
 
-The importance of context and cultural factors are particularly relevant for this intervention in a non-formal educational context with diverse stakeholder.
+The methodology of the data collection and analysis process is informed by cultural historical approaches.
+
+
+
 
 
 <!-- As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors. -->
 <!-- The depth justifies smaller data size and depth of analysis. -->
 
-Driven by my dual role as a researcher and learning facilitator the process described here encorporates both research methodology and an overall structure of the evolving learning design. Thic
+### Ethos, characteristics and challenges of the methodology
 
-In terms of a reaseach process, this chapter describes a hybrid approach which while based on the principles of a formative intervention but incorporating other approaches where relevant. I justify this approach in the following sections.
+In terms of a research process, this chapter describes a hybrid approach which while based on the principles of a formative intervention but incorporating other approaches where relevant. I justify this approach in the following sections.
+
+Following the more general demands of the process of studying a novel, emerging non-formal learning process addressed in the previous chapter, the following challenge come into focus:
+
+- dual role of research and faciliator
+-  
+
+#### Dual Role research and facilitator and resulting challenges and opportunities
+
+Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
+
+Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
+
+
+
+#### **Mutuality and evolving process**
 
 Turning the learning design encountered by participants, I have worked with young learners, local families and undergraduate student helpers to co-create a game making design via iterative phases of rapidly evolving interventions most closely resembling a DBR process.
 
-
 <!-- If found the work of Rogoff in particular to research community oriented processes particularly illuminating -->
 
+The importance of context, historicity and cultural factors are particularly relevant for this intervention in a non-formal educational context with diverse stakeholder.
 
-Here I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
+The process of describing the varied sources of influence on the evolving design, learning as movements, horizontal etc.
+
+The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
+
+This process is evident in the evolution of the learning design and resources. For example, the trialling of the coding environment and starting templated occurred over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians. Input took varied forms. Direct input was through help requests made by participants and feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
+My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process. The following three chapters of research findings in part describe these transformations and emerging repetoires in more detail.
 
 
 
-#### Outline of chapter
+### Limitations in the scope and approach of the methodology of this research
 
-INTERATE WITH ABOVE?
+It is understandable given the wide range of factors at play that  Denner et al. [-@denner_does_2019]  identified several general points of limitation in studies within their review of CGD&P specifically.
+FIND LIST -  demographics, pedagogy, etc  
 
-I will explore how this diversity helps triangulate findings.
+This study does not aim to address all of these limitations. Indeed it shares many of them.
+
+Thus while limitation are acknowledged, they are justified by the exploratory nature of this study. Possibilities for follow up research to address these limitations are discussed in the conclusion.
+
+In addition, some aspects of limitations merit brief discussion to orient the reader before sharing details of phases and stages.  
+
+#### Limitation of demographics of participants.
+
+In gathering data, I adapted a process from partnership work with more experiences professors.
+
+This did not gather details of demographics. Thus no data was gathered on the age of participants, any details of specific learning difficulties.
+
+While this was an oversight, but it also aligns with the aims of this study which are exploratory and investigate potential rather than making claims of efficacy and generalisability. This is explored in a later section.
+
+#### Explored elsewhere or no space to do so
+
+**Some design tensions explored in Ch.5 and not here**
+Finding in other chapters, in particular the design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions.
+
+**Limitation of space to describe technical decisions**
+Fuller technical descriptions of the tools and supporting resources used at each stage are beyond the scope of those questions and the limits of the structure of this thesis, fuller technical descriptions to and links to the online resources created are available as appendix 4.x.
+
+
+### Outline of chapter (move up?)
 
 this chapter describes:
 
@@ -163,39 +212,35 @@ this chapter describes:
 - comments on data validity, replicability and ethical considerations
 - analysis of broad AT system (MOVE?)
 
+First, an overview of activity use by phase briefly detailing the evolution of tools and processes.
 
+A following section outlines the data gathering processes used at each stage before turn to the process of data analysis.
 
+I will explore how this diversity helps triangulate findings.
 
 ## Summary of phases and resources of the study
 
-The following sective provides an overview of activity use by phase briefly detailing the evolution of tools and processes. A following section outines the data gathering processes used at each stage before turn to the process of data analyis. Finding in other chapters, in particular the design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions. Fuller techincal descriptions of the tools and supporting resources used at each stage are beyond the scope of those questions and the limits of the structure of this thesis, fuller technical descriptions to and links to the online resources created are available as appendix 4.x.  A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x.
+The following section  provides an overview of activity use by phase briefly detailing the evolution of tools and processes.
+
+A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x.
 
 ![](./Pictures/phases_diagram_chevrons.png){width=90%}
 
 Fig. 4.x Summary of delivery phases and development periods
 
-<!-- NOTE
-[Summary Table of Stages](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
+Revise diagram here https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g360e8ce46fa_0_0#slide=id.g360e8ce46fa_0_0
 
 
-Before exploring the phases in more detail, an overview of the process of participant into into the learning design follows.
+Bring bank a Summary table of Phases with mostly numbers, very easy to digest. SEE START OF PAGE
 
-#### Overview of importance of participant input to learning design
+[Summary Table of phases](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
 
-EDIT DOWN?
-
-The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
-
-This process is evident in the evolution of the learning design and resources. For example, the trialling of the coding environment and starting templated occurred over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians. Input took varied forms. Direct input was through help requests made by participants and feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-
-My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process. The following three chapters of research findings in part describe these transformations and emerging repetoires in more detail.
 
 <!-- IF I WERE TO WRITE MORE WHERE WOULD IT BE AND WHAT WOULD IT LOOK LIKE - WHERE ARE THOSE DESCRIPTIONS HAPPENING? IN THE FINDINGS CHAPTER ? -->
 
 #### D1: Initial research and development - August and September 2017
 
-From PhD proposal games for a read write world.
+Find PhD proposal games for a read write world.
 
 * Phaser
 * Thimble
@@ -321,7 +366,9 @@ P3 used the same toolset as P2 however in addition, drew on my previous work wit
 
 **Tools used:** As per P2; a drama scenario; side missions; a code project to interact with aliens using markdown code.   
 
-#### P4: Adapting resources to MakeCode Arcade and more formal settings - November 2019 to September 2020
+#### D3:  research and development - Make Code - November 2019 to September 2020
+
+#### P4: MakeCode Arcade 1- November 2019 to DEc 2020
 
 The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
 
@@ -332,6 +379,9 @@ I also adapted and advanced resources with an aim that they could be used within
 **Tools used:** Make Code Arcade (MCA) tool; MCA Template starting game; MCA quick start cards; MCA game pattern menu; MCA game pattern tutorials ; Learning Dimensions Map.  
 
 Include footnote to online resources.
+
+#### P5: MakeCode Arcade 2
+
 
 <!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
 
