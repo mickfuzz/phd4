@@ -1586,3 +1586,30 @@ There’s more info here - [https://docs.google.com/document/d/1qSpeVjLi2CMs2HCW
 -   Did you make any links to any real life groups of people or communities outside the game making programme
 -   Are there tensions or challenges or advantages about concerning linking with outside communities?
 -   Are there other cultural factors which interacted with the game making programme?
+
+
+## Ethics
+
+
+
+
+### Game Making Club and Study Recruitment Material
+
+This information is to be circulated to Home Education Forums and Email groups.  
+
+Game Making Club and Study
+
+#### Game Making Club and Study
+My name is Mick Chesterman. I am a tutor and PhD student in the Manchester Met Faculty of Education. I am looking for families to take part in a Game Making club to learn how to make video games together.  
+
+The weekly game making activities start on take place on ___________ and the Manchester Met Brooks campus and will last until __________________.
+
+These activities are part of a study looking at collaboration, creativity and problem solving in a family learning environment. Taking part in the study will involve some of the sessions being recorded and some interviews with you about your experiences. More details will be provided as part of a fuller participant information sheet.  
+
+If you do not wish to be a part of this study that’s not a problem.  You should still apply to take part as one version of the club will not be a part of the study. This version of the club will undertake equivalent activities.  
+
+To register your interest in taking part. Please email me on m.chesterman@mmu.ac.uk
+
+Many Thanks
+
+Mick Chesterman.  

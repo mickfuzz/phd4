@@ -148,46 +148,74 @@ The methodology of the data collection and analysis process is informed by cultu
 
 
 
+### Outline of chapter (move up?)
+
+this chapter describes:
+
+- an overview of the design stages of the study
+- data gathering and processing
+- data analysis explored in stages
+- comments on data validity, replicability and ethical considerations
+- analysis of broad AT system (MOVE?)
+
+First, an overview of activity use by phase briefly detailing the evolution of tools and processes.
+
+A following section outlines the data gathering processes used at each stage before turn to the process of data analysis.
+
+I will explore how this diversity helps triangulate findings.
 
 
 <!-- As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors. -->
 <!-- The depth justifies smaller data size and depth of analysis. -->
 
+## Introductory themes from the theoretical framework and RQs
 
 
-### Defining the scope and approach of the methodology of this research
+Following the more general demands of the process of studying a novel, emerging non-formal learning process addressed in the previous chapter and the research questions some key themes merit attention in this chapter.
 
-It is understandable given the wide range of factors at play that  Denner et al. [-@denner_does_2019]  identified several general points of limitation in studies within their review of CGD&P specifically.
-FIND LIST -  demographics, pedagogy, etc  
+While the are addressed in specific terms in data collection and analysis, they are summarised at the start in relation to the theoretical framework of Chapter 3.
 
-This study does not aim to address all of these limitations. Indeed it shares many of them.
-
-Thus while limitation are acknowledged, they are justified by the exploratory nature of this study. Possibilities for follow up research to address these limitations are discussed in the conclusion of this chapter.
+In terms of a research process, this chapter describes a hybrid approach which while based on the principles of a formative intervention but incorporating other approaches where relevant.
 
 
+Without restating the full research objectives that the research questions address, the following simplified summary of the RQs in relation to the overall approach will help frame the contents of this chapter.
+
+
+ | **Research Question (RQ)** | **Data Collection Methods** | **Data Analysis Approach** | **Theoretical Framing** |
+ |----------------------------|----------------------------|----------------------------|-------------------------|
+ | **RQ1: What contradictions emerged during participation in CGD&P activities, and how were they addressed via an innovative pedagogy?** | Video observations, participant & practitioner interviews, facilitator reflections, gameplay interactions | Systemic analysis of tensions, activity system analysis (contradictions as drivers of changes in learning resources), | CHAT (third-generation activity theory), expansive learning, contradictions as sources of transformation |
+ | **RQ2: How can a collection of game design patterns support CGD&P, particularly regarding abstract and concrete dimensions of existing pedagogies?** | Gameplay documentation, screen capture analysis, participant reflections on GDP use | Coding gameplay interactions, thematic analysis of GDP mediation, comparison of abstract/concrete learning patterns | Mediational tools in CHAT, pedagogical scaffolding through GDPs, DBR iterative refinement |
+ | **RQ3: How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?** | Longitudinal observations, interview data on identity formation & movement of FoK, community interactions | Thematic clustering of learner agency development, relational mapping of participant engagement, narrative analysis | CHAT (identity within activity systems), DBR (participant-driven refinement), communities of practice framework |
+
+
+ Before
+
+### Defining the scope and approach of the methodology of this research as qualitative, general and exploratory
+
+This study is qualitative, general, and exploratory in nature, guided by Design-Based Research (DBR) and Cultural-Historical Activity Theory (CHAT). By prioritising iterative, context-sensitive inquiry, it investigates learning environments in CGD&P without imposing rigid experimental constraints. The methodology is designed to capture contradictions, pedagogical tensions, and learner agency, using qualitative analysis to develop inclusive and adaptive pedagogies. Findings aim to enhance educational practices, rather than produce universally generalisable conclusions.
 
 
 
-### Ethos, characteristics and challenges of the methodology
-
-In terms of a research process, this chapter describes a hybrid approach which while based on the principles of a formative intervention but incorporating other approaches where relevant. I justify this approach in the following sections.
-
-Following the more general demands of the process of studying a novel, emerging non-formal learning process addressed in the previous chapter, the following challenge come into focus:
-
-- dual role of research and faciliator
--  
-
-
-
-#### Dual Role research and facilitator and resulting challenges and opportunities
+### Dual Role research and facilitator and resulting challenges and opportunities
 
 Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
+While my dual role presented challenges, such as balancing intervention with observation and mitigating positionality biases, it also created opportunities for deep engagement and pedagogical innovation. This dual role enables the exploration of tensions and contradictions in CGD&P while ensuring that pedagogical interventions evolve dynamically alongside participant needs.
+
+Work on bias, or needs of the research process, addressed particularly by Cole in 5thD work.
 
 Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
 
 
+### Authentic and ecological nature of research MERGE WITH mutuality and evolution?
 
-#### **Mutuality and evolving process**
+This impacts on recruitment, and on what data is gathered.
+
+The process of describing the varied sources of influence on the evolving design, learning as movements, horizontal etc.
+
+This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecological approach to research. The motivation for embedding pedagogical interventions within a real-world CGD&P learning environment, is to produce findings are contextually valid and socially relevant.
+
+
+#### Mutuality and evolving process
 
 Turning the learning design encountered by participants, I have worked with young learners, local families and undergraduate student helpers to co-create a game making design via iterative phases of rapidly evolving interventions most closely resembling a DBR process.
 
@@ -195,7 +223,7 @@ Turning the learning design encountered by participants, I have worked with youn
 
 The importance of context, historicity and cultural factors are particularly relevant for this intervention in a non-formal educational context with diverse stakeholder.
 
-The process of describing the varied sources of influence on the evolving design, learning as movements, horizontal etc.
+
 
 The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
 
@@ -214,22 +242,14 @@ Finding in other chapters, in particular the design narrative of Chapter 5, expl
 **Limitation of space to describe technical decisions**
 Fuller technical descriptions of the tools and supporting resources used at each stage are beyond the scope of those questions and the limits of the structure of this thesis, fuller technical descriptions to and links to the online resources created are available as appendix 4.x.
 
+Denner et al. [-@denner_does_2019]  identified several general points of limitation in studies within their review of CGD&P specifically.
+FIND LIST -  demographics, pedagogy, etc  
 
-### Outline of chapter (move up?)
+This study does not aim to address all of these limitations. Indeed it shares many of them.
 
-this chapter describes:
+Thus while limitation are acknowledged, they are justified by the exploratory nature of this study. Possibilities for follow up research to address these limitations are discussed in the conclusion of this chapter.
 
-- an overview of the design stages of the study
-- data gathering and processing
-- data analysis explored in stages
-- comments on data validity, replicability and ethical considerations
-- analysis of broad AT system (MOVE?)
 
-First, an overview of activity use by phase briefly detailing the evolution of tools and processes.
-
-A following section outlines the data gathering processes used at each stage before turn to the process of data analysis.
-
-I will explore how this diversity helps triangulate findings.
 
 ## Summary of phases and resources of the study - THIS NEEDS MOVING COMBINING - PERHAPS MOVE ALL TO APPENDIX TO START?
 
@@ -342,42 +362,6 @@ In gathering data, I adapted a process from partnership work with more experienc
 This did not gather details of demographics. Thus no data was gathered on the age of participants, any details of specific learning difficulties.
 
 While this was an oversight, but it also aligns with the aims of this study which are exploratory and investigate potential rather than making claims of efficacy and generalisability. This is explored in a later section.
-
-### Phases and data Gathering
-
-
-
-<!-- Table from
-
-https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#
-
--->
-
-
-| Name and Date                                  | Description | Data Gathered |
-| ---------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------|
-| Phase 1<br><br>Oct 2017 - Mar 2018<br><br><br>        | Experimental Course: 13 participants started with a blank canvas and were asked to plan and make a game in two  groups of mixed ages. A minimal incomplete starting game code template was introduced to support students after the course has started. | Digital and paper journal notes: Learning resources created                                                                                                                                                                                            |
-| Phase 2<br><br>Jan - Feb 2019;<br><br><br>     | Glitch Game Club:<br>20 participants attend for 6 weeks. A new template are resources were introduced.                                                                                                                                                  | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
-| Phase 3<br><br>May 2019<br><br>                | Glitch Game Club 2:<br>Second iteration of game making course of 4 weeks using Phaser.js and Glitch.com                                                                                                                                                 | Digital and paper journal notes;Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
-| Phase 4<br><br>Jan 2020 - May 2020<br><br><br> | Rebel Game Makers (Make Code Arcade); Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages.                          | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
-
-### Table of methods of data collection
-
-<!-- Online version here
-https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
- -->
-
-| Name                        | Details                                                   | Description                                                                                                                                                                          | Processing before analysis                                                                                                            |
-| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Screen capture data         | 72 recordings from 12 sessions                            | Captured in Flashback pro and stored as fbr                                                                                                                                          | Transcoded to mp4 (involving loss of keystroke and mouse click data)                                                                  |
-| 360 Video Data              | 9 recordings from 9 sessions in P2 and P3                 | Captured in 360 Gear camera on mini SD card                                                                                                                                          | Transcoded via Samsung app & command line tool ffmpeg - see appendix 3.x                                                              |
-| Journal entries             | 3 journals in  book form and 50 pages of electronic notes | Books journals contained planning, immediate reflections on sessions. Electronics documents focused more on evaluation of evolving sessions and problems encountered by participants | n/a                                                                                                                                   |
-| Programme resources created | Diverse resources (see Ch. 4)                             | Evolved during each phase - kept in online spaces                                                                                                                                    | These resources were altered for an external audience after the programme ended                                                       |
-| Practitioner Interviews     | 4 x 90 min (average) interviews                           | Video and audio data recorded via a zoom meeting. Data stored as mp4 video files.                                                                                                    | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes                                |
-| Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | Transcoded to mp3 audio files. Transcribed using open source software, then speaker data added and split into time zones of 5 minutes |
-
-
-
 
 
 
@@ -1286,6 +1270,49 @@ There was something about the formalisation of this process into graph form whic
 Instead the community elements of the learning experience regained focus during the process of coding. There were particularly interesting elements of the learning environment which contributed to notable behaviours.
 
 The area of in-depth study of learning and wider behaviours in the development of coding. Work on roles by Barron  and developed by Roque showed promise identifying helpful roles and reflecting them back to participants. Such reflection sessions were not always replicable with a general home education group or other non-formal setting.  Could this implemented in the design, in the way reflective techniques were implemented in to games. Thus making it more playful/ gameful.
+
+
+
+## Parked - tables on data collection
+
+
+
+### Phases and data Gathering
+
+
+
+<!-- Table from
+
+https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#
+
+-->
+
+
+| Name and Date                                  | Description | Data Gathered |
+| ---------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------|
+| Phase 1<br><br>Oct 2017 - Mar 2018<br><br><br>        | Experimental Course: 13 participants started with a blank canvas and were asked to plan and make a game in two  groups of mixed ages. A minimal incomplete starting game code template was introduced to support students after the course has started. | Digital and paper journal notes: Learning resources created                                                                                                                                                                                            |
+| Phase 2<br><br>Jan - Feb 2019;<br><br><br>     | Glitch Game Club:<br>20 participants attend for 6 weeks. A new template are resources were introduced.                                                                                                                                                  | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
+| Phase 3<br><br>May 2019<br><br>                | Glitch Game Club 2:<br>Second iteration of game making course of 4 weeks using Phaser.js and Glitch.com                                                                                                                                                 | Digital and paper journal notes;Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
+| Phase 4<br><br>Jan 2020 - May 2020<br><br><br> | Rebel Game Makers (Make Code Arcade); Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages.                          | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
+
+### Table of methods of data collection
+
+<!-- Online version here
+https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
+ -->
+
+| Name                        | Details                                                   | Description                                                                                                                                                                          | Processing before analysis                                                                                                            |
+| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Screen capture data         | 72 recordings from 12 sessions                            | Captured in Flashback pro and stored as fbr                                                                                                                                          | Transcoded to mp4 (involving loss of keystroke and mouse click data)                                                                  |
+| 360 Video Data              | 9 recordings from 9 sessions in P2 and P3                 | Captured in 360 Gear camera on mini SD card                                                                                                                                          | Transcoded via Samsung app & command line tool ffmpeg - see appendix 3.x                                                              |
+| Journal entries             | 3 journals in  book form and 50 pages of electronic notes | Books journals contained planning, immediate reflections on sessions. Electronics documents focused more on evaluation of evolving sessions and problems encountered by participants | n/a                                                                                                                                   |
+| Programme resources created | Diverse resources (see Ch. 4)                             | Evolved during each phase - kept in online spaces                                                                                                                                    | These resources were altered for an external audience after the programme ended                                                       |
+| Practitioner Interviews     | 4 x 90 min (average) interviews                           | Video and audio data recorded via a zoom meeting. Data stored as mp4 video files.                                                                                                    | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes                                |
+| Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | Transcoded to mp3 audio files. Transcribed using open source software, then speaker data added and split into time zones of 5 minutes |
+
+
+
+## Footnotes 
 
 
 Foot notes.
