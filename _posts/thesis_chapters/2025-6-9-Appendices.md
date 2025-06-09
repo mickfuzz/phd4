@@ -220,7 +220,7 @@ Mark: Because the whole theme of it. Just I know just your eyes lit up when you 
 
 #### Interview.2.
 
-Plodding 
+Plodding
 
 ### Interview.3 - Maggie and Toby
 
@@ -823,6 +823,178 @@ See this attempt at a map of skills used in P1 - very extensive but not the focu
 
 
 https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
+
+
+#### D1: Initial research and development - August and September 2017
+
+Find PhD proposal games for a read write world.
+
+* Phaser
+* Thimble
+
+Before engaging with families in P1 in August 2017 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015]. I discovered I could use  Thimble, to house a working javascript based game. Mozilla promoted a professional, open source, javascript library for web game making called Phaser.js. At this time I also evaluated several online pixel graphics editors and chose Piskelapp.com.
+
+#### P1: A phase of exploratory, co-creative game making - October 2017 to March 2018  
+
+<!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
+<!-- This phase took place before the official start of this research and relevant ethics application. As such,  -->
+
+
+**Participants started with no set plan or toolset and were asked to plan and make a game in two larger groups of 5-6 participants of mixed ages. After several weeks, a minimal incomplete starting game code template was introduced in response to student need.**
+
+
+Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials. Several weeks in to the processes, I adapted a starting code template of a platform game and created various code examples to add functionality requested by participants. This template was adapted from an online tutorial to create a game of the _platformer_ genre  (see glossary), a move which helped to limit expectations of the technical complexity of their game. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
+
+
+**Tools used:** Phaser javascript library; Thimble code playground; online graphics editor Piskel; a varied set of other graphical and audio asset creation tools.
+
+
+#### D2: Development Stage - May 2018 to December 2018
+
+One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a “half baked” game template and supporting online and printable resources.
+
+<!-- The requirements of this compressed time frame aligned with feedback to prompt me to design an accelerated process to bump start the game-production process. -->
+
+<!-- The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration, adopting a project based approach inspired by design thinking.  -->
+<!-- To inculcate parents and children in to the culture of retro video games I began initial sessions by inviting participants to older arcade games on laptops. -->
+<!-- Game filled laptops.  
+Should this be added to the table above
+-->
+<!-- The tools allow participants to create games using a combination of a free to use online tools.
+an online  coding environment
+using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone). -->
+
+<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
+https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
+ -->
+
+<!-- #### The half-baked starting platformer game
+Participants started with no set plan or toolset and were asked to plan and make a game in two larger groups of 5-6 participants of mixed ages. After several weeks, a minimal incomplete starting game code template was introduced in response to student need.  
+
+
+Then One-off workshops at Mozilla and Feral Vector conferences and to PGCE computer students and the creation of a “half baked” game template |  Phaser 2.6.2 javascript library; Thimble code playground; online graphics editor Piskel; audio creation tools
+NOTE - ALSO EXPLORED IN NEXT CHAPTER - HOW TO ARRANGE?
+
+The use and design characteristics of the starting point of a half-baked game.
+
+- Phaser 2 to avoid complexity of code structure
+- 2D platformer - familiar to most - Mario and Sonic
+- low-spec graphics
+- game of player, platforms, and coins to collect and hazards to avoid.
+- graphical level design
+- key variables brought to the top
+- simple structure of code in terms of aligning with framework and not adding extra functions
+
+
+**Variable editing effective movement**
+
+Player movement was a key to playtesting feedback as such three  key variables were highlighted at the very start of the game code and given descriptive names to facilitate their editing. When testing the game, the player's jump height was not great enough to allow progression up from the floor to one of the platform thus thwarting the collection of items.
+
+Game progression require altering at least one of the descriptively names variables associated with jump height and then activating a preview window to observer the changes by playing the game in a new browser tab.
+<!--FIND  Some evidence of building proficiency with significant work to change these three   
+
+    // Variables that change how the player moves
+    var gravity = 500;
+    var velocity_x = 100;
+    var velocity_y = 300;
+
+While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others were much less concerted with this aspect of game play, lowering gravity drastically to allow a greater jump size but a more frustrating floaty jump.
+
+**Level design and prototyping**
+
+The starting**Glitch Game Club**
+First iteration of game making course of 5-6 weeks. The template and resources created in the previous stage were used as a starting point but continued to evolve.
+**Tools:**
+ Phaser; Glitch, Piskel; updated game template; quick start cards; step-by-step tutorials; code examples   game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. Image 4.x above show a printable _quick start_ cards to aid participants to begin the process of changing level design.
+
+As preThe possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure.
+
+The vignette in the last chapter saw Toby's adding new levels to his  game and undertaking many iterations of changes to the level design. He and several other participants spent extensive time performing level design activity with a goal of making the game extremely challenging but still technically possible. Others played with the convention of the game by removing all hazards and filling the screen with rewards/coins (an example is outlined in the starting vignette of the next chapter).
+
+**Incomplete graphical blocks & Piskel**
+
+The use of blank, coloured blocks of 32 x 32 pixels encouraged participants to change the graphical design and the relatively small size of the sprites encouraged rapid design.
+
+PERHAPS REPLACE THIS WITH SCREEN SHOT OF PISKEL AS A TOOL
+![](./Pictures/whale_1.png){width=50%}
+
+The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using   code syntax.
+
+**Incomplete graphical blocks & Piskel**
+
+The
+
+PARK FOR NOW - Maybe move to Design
+The concept of the feel of the game or the challenges maps to the Dynamics of MDA framework.
+ -->
+
+
+#### P2: Accelerated game making programme  - 5 weeks in January to February 2019
+
+**Glitch Game Club**
+First iteration of game making course of 5-6 weeks. The template and resources created in the previous stage were used as a starting point but continued to evolve.
+
+
+**Tools used:** Phaser; Glitch code playground replaces Thimble, Piskel; a starter game template; quick start cards; step-by-step tutorials; code snippet examples.  
+
+
+<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
+https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit# -->
+
+NOT TRUE SEE LINK IN NOTES
+By the beginning of P2 most of the resources and activities were in place and relatively stable. There were some incremental evolutions in the template that stemmed from participant feedback and my reflections. Key additions at this stage to support the use of a template were a collection of tutorials and code examples illustrating key game features that had been requested by participants. The collection of game patterns were presented in a web page together with the starting template and a link to an online book collecting the process into step-by-step chapter based tutorials. The resources are explored in more depth in sections three and four below. A more complete description of the resources used in P2 and P3 are included in appendix 4.x.The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+#### P3: Adding a process drama to the game making programme: 5 weeks in May 2019
+
+
+P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
+
+**Tools used:** As per P2; a drama scenario; side missions; a code project to interact with aliens using markdown code.   
+
+#### D3:  research and development - Make Code - November 2019 to September 2020
+
+#### P4: MakeCode Arcade 1- November 2019 to DEc 2020
+
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
+
+In 2019 MakeCode Arcade was launched to make games using for novice coders via the use of a block coding systems similar to Scratch. I adapted resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in a later section of this chapter. I ran two iterations of game making course using MakeCode Arcade. The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language [^1]. Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
+
+I also adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in chapter.
+
+**Tools used:** Make Code Arcade (MCA) tool; MCA Template starting game; MCA quick start cards; MCA game pattern menu; MCA game pattern tutorials ; Learning Dimensions Map.  
+
+Include footnote to online resources.
+
+#### P5: MakeCode Arcade 2
+
+
+<!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
+
+- Shared repositories of resources - users shared a log in so they could see the work created by others.
+- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
+- Drama Games: the process of warming up, creates community and sets a tone
+- Drama Process: specifically designed ot  overcome limits of the classroom.
+- Playtesting: the process of playtesting, either self or peer links back to a community purpose
+ -->
+
+<!-- __Insert image of code__
+
+The code of the game.
+While the code is made up of various elements, only the javascript file is normally altered by participants.
+The complexity is hidden away from the end user.
+
+__Insert image of game in browser__
+
+On the screen you can see the game.
+Toby then decides he wants to add a new element to his game.
+He browses the list of game design patterns.
+There is a tension where he is hesitant about where to place code.
+Screen shot of the menu of choices. -->
+
+
+
 
 ### Appendix.tech.samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
 
