@@ -1,10 +1,22 @@
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Outline of chapter](#outline-of-chapter)
+        -   [Ethos, characteristics and challenges of the
+            methodology](#ethos-characteristics-and-challenges-of-the-methodology)
+            -   [Dual Role research and facilitator and resulting
+                challenges and
+                opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
+            -   [**Mutuality and evolving
+                process**](#mutuality-and-evolving-process)
+        -   [Limitations in the scope and approach of the methodology of
+            this
+            research](#limitations-in-the-scope-and-approach-of-the-methodology-of-this-research)
+            -   [Limitation of demographics of
+                participants.](#limitation-of-demographics-of-participants.)
+            -   [Explored elsewhere or no space to do
+                so](#explored-elsewhere-or-no-space-to-do-so)
+        -   [Outline of chapter (move up?)](#outline-of-chapter-move-up)
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
-        -   [Overview of importance of participant input to learning
-            design](#overview-of-importance-of-participant-input-to-learning-design)
         -   [D1: Initial research and development - August and September
             2017](#d1-initial-research-and-development---august-and-september-2017)
         -   [P1: A phase of exploratory, co-creative game making -
@@ -18,9 +30,12 @@
         -   [P3: Adding a process drama to the game making programme: 5
             weeks in May
             2019](#p3-adding-a-process-drama-to-the-game-making-programme-5-weeks-in-may-2019)
-        -   [P4: Adapting resources to MakeCode Arcade and more formal
-            settings - November 2019 to September
-            2020](#p4-adapting-resources-to-makecode-arcade-and-more-formal-settings---november-2019-to-september-2020)
+        -   [D3: research and development - Make Code - November 2019 to
+            September
+            2020](#d3-research-and-development---make-code---november-2019-to-september-2020)
+        -   [P4: MakeCode Arcade 1- November 2019 to DEc
+            2020](#p4-makecode-arcade-1--november-2019-to-dec-2020)
+        -   [P5: MakeCode Arcade 2](#p5-makecode-arcade-2)
     -   [Data Collection](#data-collection)
         -   [Phases and data Gathering](#phases-and-data-gathering)
         -   [Table of methods of data

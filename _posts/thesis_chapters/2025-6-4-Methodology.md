@@ -11,11 +11,23 @@ title: 4. Methodology
 ---
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Outline of chapter](#outline-of-chapter)
+        -   [Ethos, characteristics and challenges of the
+            methodology](#ethos-characteristics-and-challenges-of-the-methodology)
+            -   [Dual Role research and facilitator and resulting
+                challenges and
+                opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
+            -   [**Mutuality and evolving
+                process**](#mutuality-and-evolving-process)
+        -   [Limitations in the scope and approach of the methodology of
+            this
+            research](#limitations-in-the-scope-and-approach-of-the-methodology-of-this-research)
+            -   [Limitation of demographics of
+                participants.](#limitation-of-demographics-of-participants.)
+            -   [Explored elsewhere or no space to do
+                so](#explored-elsewhere-or-no-space-to-do-so)
+        -   [Outline of chapter (move up?)](#outline-of-chapter-move-up)
     -   [Summary of phases and resources of the
         study](#summary-of-phases-and-resources-of-the-study)
-        -   [Overview of importance of participant input to learning
-            design](#overview-of-importance-of-participant-input-to-learning-design)
         -   [D1: Initial research and development - August and September
             2017](#d1-initial-research-and-development---august-and-september-2017)
         -   [P1: A phase of exploratory, co-creative game making -
@@ -29,9 +41,12 @@ title: 4. Methodology
         -   [P3: Adding a process drama to the game making programme: 5
             weeks in May
             2019](#p3-adding-a-process-drama-to-the-game-making-programme-5-weeks-in-may-2019)
-        -   [P4: Adapting resources to MakeCode Arcade and more formal
-            settings - November 2019 to September
-            2020](#p4-adapting-resources-to-makecode-arcade-and-more-formal-settings---november-2019-to-september-2020)
+        -   [D3: research and development - Make Code - November 2019 to
+            September
+            2020](#d3-research-and-development---make-code---november-2019-to-september-2020)
+        -   [P4: MakeCode Arcade 1- November 2019 to DEc
+            2020](#p4-makecode-arcade-1--november-2019-to-dec-2020)
+        -   [P5: MakeCode Arcade 2](#p5-makecode-arcade-2)
     -   [Data Collection](#data-collection)
         -   [Phases and data Gathering](#phases-and-data-gathering)
         -   [Table of methods of data
@@ -218,7 +233,7 @@ A following section outlines the data gathering processes used at each stage bef
 
 I will explore how this diversity helps triangulate findings.
 
-## Summary of phases and resources of the study
+## Summary of phases and resources of the study - THIS NEEDS MOVING COMBINING - PERHAPS MOVE ALL TO APPENDIX TO START?
 
 The following section  provides an overview of activity use by phase briefly detailing the evolution of tools and processes.
 
@@ -242,29 +257,22 @@ Bring bank a Summary table of Phases with mostly numbers, very easy to digest. S
 
 Find PhD proposal games for a read write world.
 
-* Phaser
-* Thimble
-
 Before engaging with families in P1 in August 2017 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015]. I discovered I could use  Thimble, to house a working javascript based game. Mozilla promoted a professional, open source, javascript library for web game making called Phaser.js. At this time I also evaluated several online pixel graphics editors and chose Piskelapp.com.
 
-#### P1: A phase of exploratory, co-creative game making - October 2017 to March 2018  
 
 <!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
 <!-- This phase took place before the official start of this research and relevant ethics application. As such,  -->
 
 
-**Participants started with no set plan or toolset and were asked to plan and make a game in two larger groups of 5-6 participants of mixed ages. After several weeks, a minimal incomplete starting game code template was introduced in response to student need.**
+In P1. a phase of exploratory, co-creative game making, participants started with no set plan or toolset and were asked to plan and make a game in two larger groups of 5-6 participants of mixed ages. After several weeks, a minimal incomplete starting game code template was introduced in response to student need.
 
 
 Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials. Several weeks in to the processes, I adapted a starting code template of a platform game and created various code examples to add functionality requested by participants. This template was adapted from an online tutorial to create a game of the _platformer_ genre  (see glossary), a move which helped to limit expectations of the technical complexity of their game. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
 
 
-**Tools used:** Phaser javascript library; Thimble code playground; online graphics editor Piskel; a varied set of other graphical and audio asset creation tools.
+D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a “half baked” game template and supporting online and printable resources.
 
 
-#### D2: Development Stage - May 2018 to December 2018
-
-One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a “half baked” game template and supporting online and printable resources.
 
 <!-- The requirements of this compressed time frame aligned with feedback to prompt me to design an accelerated process to bump start the game-production process. -->
 
@@ -342,45 +350,24 @@ The concept of the feel of the game or the challenges maps to the Dynamics of MD
  -->
 
 
-#### P2: Accelerated game making programme  - 5 weeks in January to February 2019
+P2, A game making course of 6 weeks. The template and resources created in the previous stage were used as a starting point. By the beginning of P2 resources and activities were mostly in place but still under rapid development based on informal participant feedback and my journal reflections. Key additions at this stage to support the use of a template were a collection of tutorials and code examples illustrating key game features that had been requested by participants.
 
-**Glitch Game Club**
-First iteration of game making course of 5-6 weeks. The template and resources created in the previous stage were used as a starting point but continued to evolve.
-
-
-**Tools used:** Phaser; Glitch code playground replaces Thimble, Piskel; a starter game template; quick start cards; step-by-step tutorials; code snippet examples.  
-
-
-<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
-https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit# -->
-
-NOT TRUE SEE LINK IN NOTES
-By the beginning of P2 most of the resources and activities were in place and relatively stable. There were some incremental evolutions in the template that stemmed from participant feedback and my reflections. Key additions at this stage to support the use of a template were a collection of tutorials and code examples illustrating key game features that had been requested by participants. The collection of game patterns were presented in a web page together with the starting template and a link to an online book collecting the process into step-by-step chapter based tutorials. The resources are explored in more depth in sections three and four below. A more complete description of the resources used in P2 and P3 are included in appendix 4.x.The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
+The collection of game patterns were presented in a web page together with the starting template and a link to an online book collecting the process into step-by-step chapter based tutorials. The resources are explored in more depth in sections three and four below. A more complete description of the resources used in P2 and P3 are included in appendix 4.x.The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
 
 Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
-#### P3: Adding a process drama to the game making programme: 5 weeks in May 2019
-
-
 P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
 
-**Tools used:** As per P2; a drama scenario; side missions; a code project to interact with aliens using markdown code.   
 
-#### D3:  research and development - Make Code - November 2019 to September 2020
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts. In 2019 MakeCode Arcade was launched to make games using for novice coders via the use of a block coding systems similar to Scratch. I adapted resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in a later section of this chapter.
 
-#### P4: MakeCode Arcade 1- November 2019 to DEc 2020
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
-
-In 2019 MakeCode Arcade was launched to make games using for novice coders via the use of a block coding systems similar to Scratch. I adapted resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in a later section of this chapter. I ran two iterations of game making course using MakeCode Arcade. The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language [^1]. Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
+I ran two iterations of game making course using MakeCode Arcade. The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language [^1]. Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
 I also adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in chapter.
 
-**Tools used:** Make Code Arcade (MCA) tool; MCA Template starting game; MCA quick start cards; MCA game pattern menu; MCA game pattern tutorials ; Learning Dimensions Map.  
 
-Include footnote to online resources.
 
-#### P5: MakeCode Arcade 2
+
 
 
 <!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
