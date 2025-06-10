@@ -252,8 +252,11 @@ This study does not aim to address all of these limitations. Indeed it shares ma
 Thus while limitation are acknowledged, they are justified by the exploratory nature of this study. Possibilities for follow up research to address these limitations are discussed in the conclusion of this chapter.
 
 
+### Guiding technical rationale
 
+If appropriate place this here. Ideally FLOSS toolset or ones easily available within or outside the university.
 
+This in line with the principle of software sustainability principles [@crouch_software_2013] but applied to a more local scale. 
 
 
 
@@ -327,14 +330,13 @@ https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/
 | Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | After P3 |
 
 
-
 ### Auto-ethnographic data collection via journal notes and other artefacts to do with facilitation and tool use
-
-v
 
 I used journal notes extensively in a notebook format and in electronic format written on a tablet. These notes involved a mix of session planning, resource planning, immediate reflections on sessions, and notes on links with existing literature.
 
 In addition, I also carefully collected the session resources themselves in terms of the tools used and supporting documentation and activities.
+
+The games and artefacts themselves also are data of a sort.
 
 **Rationale**
 
@@ -348,6 +350,13 @@ Allowing movement, and mutuality,
 link to 5thD and other studies guided by
 
 Also introduce the process of Chapter 5 design narrative
+
+**Practicalities and Challenges**
+
+The process of keeping data online and available is tricky.
+
+For example some Thimble projects from P1 were lost when the project was discontinued.
+
 
 #### Brief of facilitation and description by Phase - but this is analysis - SO MOVE OR THINK ABOUT THAT.
 
@@ -370,9 +379,20 @@ I adapted and advanced resources with an aim that they could be used within seco
 The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
 
-### Use of Video
+### Use of Video data - 360 and Screen capture
+
 **Summary**
 
+Screen capture is a process which allows the recording of data of what is happening on the screen of computers. It optionally allows the audio being played
+
+I chose the software flashback pro primarily as it was installed on and available at low cost on home computers. No FLOSS equivalent was available. Flashback saves data in a format. This include audio, video screen capture, learner keystrokes, mouse movements and optionally one or more webcams. I decided not to record on webcams for the following reasons:
+
+- intrusive feel - having the webcam on and the resulting red light on the screen, I felt was less conducive to feeling comfortable than one 360 camera in the middle of the room.
+- less resources - recording webcam on the laptop
+- reduced video file size of final data file
+- less complexity when processing data -
+
+It not possible to code the natively created files directly. Thus need to be converted to mp4 to import into coding software like Nvivo. In this process the keyboard and mouse data is lost.
 
 **Rationale**
 
@@ -383,6 +403,9 @@ Environmental - i.e. in situ - and as a form of activity that fit within the pat
 
 
 ### Practicalities of data collection and processing
+
+
+
 
 While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera.
 
@@ -419,16 +442,9 @@ The process involves large video files that are easily corrupted in transfer. Wh
 This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix. [A draft of which is here](https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=11432580350275268987)
 
 
-#### Screen Capture Processing
 
-I chose the software flashback pro primarily as it was intalled on and availble at low cost on home computers. Flashback saves data in a format. This include audio, video screen capture, learner keystrokes, mouse movements and optionally one or more webcams. I decided not to record on webcams for the following reasons:
 
-- intrusive feel - having the webcam on and the resulting red light on the screen, I felt was less conducive to feeling comfortable than one 360 camera in the middle of the room.
-- less resources - recording webcam on the laptop
-- reduced video file size of final data file
-- less complexity when processing data -
 
-It not possible to code the natively created files directly. Thus need to be converted to mp4 to import into coding software like Nvivo. In this process the keyboard and mouse data is lost.
 
 <!-- Thus original files have been retained in order to cross reference that data if it is useful. It also presents other options for analysis which are similar to much more in depth analysis of HCI research of professional set ups. While this is beyond the remit of this study, certain uses do present themselves strongly for future investigation. Particularly the study of such data to identify common mistakes or frustrations when interacting with the user interface. Such misconceptions could be addressed in direct teaching at the start of the next session. -->
 
