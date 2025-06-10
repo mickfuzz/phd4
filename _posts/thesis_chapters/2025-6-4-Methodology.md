@@ -256,23 +256,34 @@ Thus while limitation are acknowledged, they are justified by the exploratory na
 
 
 
-## Data Collection
+## Project delivery phases and data collection
 
-This section addresses data collection.
+This section addresses both the phases of delivery of the game making programme to families and the data collection that occurred at each phase.
 
-While the next chapter outlines the evolution of the learning intervention as a design narrative, the following table presents a summary of the phases involved to help situation this chapters description of data collection.
+As the next chapter outlines the evolution of the learning intervention as a design narrative, discussion of learning design will be brief here and concerned with overall methodology of collection and analysis.
+
+A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x. to help situate the following descriptions and discussion.
+
+![](./Pictures/phases_diagram_chevrons_2.png){width=98%}
+
+Fig. 4.x Summary of delivery phases and development periods
+
+<!-- Revise diagram here https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g360e8ce46fa_0_0#slide=id.g360e8ce46fa_0_0 -->
+
+
 
 ### Recruitment and data on participants
 
-Home education groups operate in varied ways, and in my experience are characterised by loose ties rather than strong formal bonds.
+<!-- Home education groups operate in varied ways, and in my experience are characterised by loose ties rather than strong formal bonds. -->
 
-The process of convening a group of home educators
+In early 2016 I had carried out an exploratory workshop with home educators to explore future partnerships with the enrichment programme of the Faculty of Education [^el]. The process of recruiting was facilitated by the running of on going one off workshops which were similar in scope via the EdLab funologists strand of playful technology project. Specifically, half term events at Manchester Libraries and in the University and at Coder Dojo week end events.
 
-Recruitment of participants was done via  the use of existing home education networks and via the use of one of taster events during
+This work meant I was in regular contact with some home educators and posting opportunties on their forum contributed to an ongoing relationship within the three existing home education communications networks used to share information and experiences [he]. To recruit participant I circulated a simple text to participants asking them to get in touch via email. When participants got in touch I emailed adults the relevant participation sheet and asked them to confirm their interest.
 
-My previous work had brought me into contact with some home educators. Specifically, via outreach for Edlab in particular arranging half term events at Manchester Libraries and in the University but also in testing out material for PGCE teaching at Coder Dojo
 
-To recruit participant I circulated a simple text to participants asking them to get in touch via email. In response I emailed participants the relevant participation sheet.
+
+
+
 
 
 
@@ -302,18 +313,7 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42X
 
 The following section  provides an overview of activity use by phase briefly detailing the evolution of tools and processes.
 
-A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x.
-
-![](./Pictures/phases_diagram_chevrons_2.png){width=98%}
-
-Fig. 4.x Summary of delivery phases and development periods
-
-<!-- Revise diagram here https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g360e8ce46fa_0_0#slide=id.g360e8ce46fa_0_0 -->
-
-
-Bring bank a Summary table of Phases with mostly numbers, very easy to digest. SEE START OF PAGE
-
-[Summary Table of phases](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
+<!-- [Summary Table of phases](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
 
 | Name    | Date                        | Number of sessions | Number of participants           | Description                                                                                                             |
 | ------- | --------------------------- | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -346,11 +346,17 @@ https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/
 #### Why facilitation and tool use are recorded as data
 
 Rationale,
-link to 5thD and other studies guided by iterative DBR principles.
+iterative DBR principles, historicy in 3GAT
+
+Principle of double stimulation, and adoption of tools for different purposes than originally intended.
+
+Allowing movement, and mutuality,
+
+link to 5thD and other studies guided by
 
 Also introduce the process of Chapter 5 design narrative
 
-#### Brief description by Phase
+#### Brief of facilitation and description by Phase - but this is analysis - SO MOVE OR THINK ABOUT THAT.
 
 Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
 
@@ -372,16 +378,6 @@ The facilitation techniques and approach were adapted from those of P2 to facili
 
 
 
-
-
-<!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
-
-- Shared repositories of resources - users shared a log in so they could see the work created by others.
-- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
-- Drama Games: the process of warming up, creates community and sets a tone
-- Drama Process: specifically designed ot  overcome limits of the classroom.
-- Playtesting: the process of playtesting, either self or peer links back to a community purpose
- -->
 
 ### Rationale of "rich" data collections
 
@@ -1318,3 +1314,5 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 Foot notes.
 
 [^mc]:  Make code is a block based programming environment.
+[^el]: Edlab website archive has a record of this event. https://mickfuzz.github.io/edlab/index.html_p=903.html
+[^he]: Home Education Greater Manchester (Facebook group) https://www.facebook.com/groups/313791918658167, Greater Manchester Home Educators (Facebook group) https://www.facebook.com/groups/164014243270, MADCOW (Email group) a large invite only email group.
