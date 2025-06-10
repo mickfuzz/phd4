@@ -95,6 +95,26 @@
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+            -   [D1: Initial research and development - August and
+                September
+                2017](#d1-initial-research-and-development---august-and-september-2017)
+            -   [P1: A phase of exploratory, co-creative game making -
+                October 2017 to March
+                2018](#p1-a-phase-of-exploratory-co-creative-game-making---october-2017-to-march-2018)
+            -   [D2: Development Stage - May 2018 to December
+                2018](#d2-development-stage---may-2018-to-december-2018)
+            -   [P2: Accelerated game making programme - 5 weeks in
+                January to February
+                2019](#p2-accelerated-game-making-programme---5-weeks-in-january-to-february-2019)
+            -   [P3: Adding a process drama to the game making
+                programme: 5 weeks in May
+                2019](#p3-adding-a-process-drama-to-the-game-making-programme-5-weeks-in-may-2019)
+            -   [D3: research and development - Make Code - November
+                2019 to September
+                2020](#d3-research-and-development---make-code---november-2019-to-september-2020)
+            -   [P4: MakeCode Arcade 1- November 2019 to DEc
+                2020](#p4-makecode-arcade-1--november-2019-to-dec-2020)
+            -   [P5: MakeCode Arcade 2](#p5-makecode-arcade-2)
         -   [Appendix.tech.samplechapter - Extract of supporting
             resources - Sample chapter on Keys and Doors gameplay design
             chapter](#appendix.tech.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
@@ -154,3 +174,8 @@
         -   [Material Dimensions](#material-dimensions)
         -   [Social Dimensions](#social-dimensions)
         -   [Cultural Dimensions](#cultural-dimensions)
+    -   [Ethics](#ethics)
+        -   [Game Making Club and Study Recruitment
+            Material](#game-making-club-and-study-recruitment-material)
+            -   [Game Making Club and
+                Study](#game-making-club-and-study)

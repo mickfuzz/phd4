@@ -1,38 +1,49 @@
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Ethos, characteristics and challenges of the
-            methodology](#ethos-characteristics-and-challenges-of-the-methodology)
-            -   [Dual Role research and facilitator and resulting
-                challenges and
-                opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
-            -   [**Mutuality and evolving
-                process**](#mutuality-and-evolving-process)
-        -   [Limitations in the scope and approach of the methodology of
-            this
-            research](#limitations-in-the-scope-and-approach-of-the-methodology-of-this-research)
-            -   [Limitation of demographics of
-                participants.](#limitation-of-demographics-of-participants.)
+        -   [Outline of chapter (move up?)](#outline-of-chapter-move-up)
+    -   [Introductory themes from the theoretical framework and
+        RQs](#introductory-themes-from-the-theoretical-framework-and-rqs)
+        -   [Defining the scope and approach of the methodology of this
+            research as qualitative, general and
+            exploratory](#defining-the-scope-and-approach-of-the-methodology-of-this-research-as-qualitative-general-and-exploratory)
+        -   [Dual Role research and facilitator and resulting challenges
+            and
+            opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
+        -   [Authentic and ecological nature of research MERGE WITH
+            mutuality and
+            evolution?](#authentic-and-ecological-nature-of-research-merge-with-mutuality-and-evolution)
+            -   [Mutuality and evolving
+                process](#mutuality-and-evolving-process)
             -   [Explored elsewhere or no space to do
                 so](#explored-elsewhere-or-no-space-to-do-so)
-        -   [Outline of chapter (move up?)](#outline-of-chapter-move-up)
-    -   [Summary of phases and resources of the study - THIS NEEDS
-        MOVING COMBINING - PERHAPS MOVE ALL TO APPENDIX TO
-        START?](#summary-of-phases-and-resources-of-the-study---this-needs-moving-combining---perhaps-move-all-to-appendix-to-start)
-        -   [D1: Initial research and development - August and September
-            2017](#d1-initial-research-and-development---august-and-september-2017)
-    -   [Data Collection](#data-collection)
-        -   [Phases and data Gathering](#phases-and-data-gathering)
+    -   [Project delivery phases and data
+        collection](#project-delivery-phases-and-data-collection)
+        -   [Recruitment and data on
+            participants](#recruitment-and-data-on-participants)
+        -   [Summary of phases and resources of the study
+            -](#summary-of-phases-and-resources-of-the-study--)
         -   [Table of methods of data
             collection](#table-of-methods-of-data-collection)
-        -   [Challenges of data collection and
-            processing](#challenges-of-data-collection-and-processing)
+        -   [Auto-ethnographic data collection via journal notes and
+            other artefacts to do with facilitation and tool
+            use](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use)
+            -   [Why facilitation and tool use are recorded as
+                data](#why-facilitation-and-tool-use-are-recorded-as-data)
+            -   [Brief of facilitation and description by Phase - but
+                this is analysis - SO MOVE OR THINK ABOUT
+                THAT.](#brief-of-facilitation-and-description-by-phase---but-this-is-analysis---so-move-or-think-about-that.)
+        -   [Rationale of "rich" data
+            collections](#rationale-of-rich-data-collections)
+        -   [Practicalities of data collection and
+            processing](#practicalities-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
             -   [Screen Capture Processing](#screen-capture-processing)
             -   [Learnings and recommendations on processing - MERGE
                 UP](#learnings-and-recommendations-on-processing---merge-up)
     -   [Data Analysis](#data-analysis)
-        -   [Overall table and rational of data
-            analysis](#overall-table-and-rational-of-data-analysis)
+        -   [Overall table and rational of data analysis - DROP THIS?
+            ALLOCATE WITHIN
+            STAGES?](#overall-table-and-rational-of-data-analysis---drop-this-allocate-within-stages)
         -   [Notes to allocate to a
             stage](#notes-to-allocate-to-a-stage)
             -   [Rational and approach of data analysis
@@ -105,8 +116,15 @@
         -   [How does this methodology relate to existing models of
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
+    -   [Limitations](#limitations)
+        -   [Limitation of demographics of
+            participants.](#limitation-of-demographics-of-participants.)
     -   [Chapter conclusion and link](#chapter-conclusion-and-link)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
         -   [How Research Questions Evolved - JUSTIFICATION FOR CHANING
             FOCUS.](#how-research-questions-evolved---justification-for-chaning-focus.)
+    -   [Parked - tables on data
+        collection](#parked---tables-on-data-collection)
+        -   [Phases and data Gathering](#phases-and-data-gathering)
+    -   [Footnotes](#footnotes)

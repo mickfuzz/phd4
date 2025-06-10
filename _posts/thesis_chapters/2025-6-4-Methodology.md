@@ -11,55 +11,50 @@ title: 4. Methodology
 ---
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Ethos, characteristics and challenges of the
-            methodology](#ethos-characteristics-and-challenges-of-the-methodology)
-            -   [Dual Role research and facilitator and resulting
-                challenges and
-                opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
-            -   [**Mutuality and evolving
-                process**](#mutuality-and-evolving-process)
-        -   [Limitations in the scope and approach of the methodology of
-            this
-            research](#limitations-in-the-scope-and-approach-of-the-methodology-of-this-research)
-            -   [Limitation of demographics of
-                participants.](#limitation-of-demographics-of-participants.)
+        -   [Outline of chapter (move up?)](#outline-of-chapter-move-up)
+    -   [Introductory themes from the theoretical framework and
+        RQs](#introductory-themes-from-the-theoretical-framework-and-rqs)
+        -   [Defining the scope and approach of the methodology of this
+            research as qualitative, general and
+            exploratory](#defining-the-scope-and-approach-of-the-methodology-of-this-research-as-qualitative-general-and-exploratory)
+        -   [Dual Role research and facilitator and resulting challenges
+            and
+            opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
+        -   [Authentic and ecological nature of research MERGE WITH
+            mutuality and
+            evolution?](#authentic-and-ecological-nature-of-research-merge-with-mutuality-and-evolution)
+            -   [Mutuality and evolving
+                process](#mutuality-and-evolving-process)
             -   [Explored elsewhere or no space to do
                 so](#explored-elsewhere-or-no-space-to-do-so)
-        -   [Outline of chapter (move up?)](#outline-of-chapter-move-up)
-    -   [Summary of phases and resources of the
-        study](#summary-of-phases-and-resources-of-the-study)
-        -   [D1: Initial research and development - August and September
-            2017](#d1-initial-research-and-development---august-and-september-2017)
-        -   [P1: A phase of exploratory, co-creative game making -
-            October 2017 to March
-            2018](#p1-a-phase-of-exploratory-co-creative-game-making---october-2017-to-march-2018)
-        -   [D2: Development Stage - May 2018 to December
-            2018](#d2-development-stage---may-2018-to-december-2018)
-        -   [P2: Accelerated game making programme - 5 weeks in January
-            to February
-            2019](#p2-accelerated-game-making-programme---5-weeks-in-january-to-february-2019)
-        -   [P3: Adding a process drama to the game making programme: 5
-            weeks in May
-            2019](#p3-adding-a-process-drama-to-the-game-making-programme-5-weeks-in-may-2019)
-        -   [D3: research and development - Make Code - November 2019 to
-            September
-            2020](#d3-research-and-development---make-code---november-2019-to-september-2020)
-        -   [P4: MakeCode Arcade 1- November 2019 to DEc
-            2020](#p4-makecode-arcade-1--november-2019-to-dec-2020)
-        -   [P5: MakeCode Arcade 2](#p5-makecode-arcade-2)
-    -   [Data Collection](#data-collection)
-        -   [Phases and data Gathering](#phases-and-data-gathering)
+    -   [Project delivery phases and data
+        collection](#project-delivery-phases-and-data-collection)
+        -   [Recruitment and data on
+            participants](#recruitment-and-data-on-participants)
+        -   [Summary of phases and resources of the study
+            -](#summary-of-phases-and-resources-of-the-study--)
         -   [Table of methods of data
             collection](#table-of-methods-of-data-collection)
-        -   [Challenges of data collection and
-            processing](#challenges-of-data-collection-and-processing)
+        -   [Auto-ethnographic data collection via journal notes and
+            other artefacts to do with facilitation and tool
+            use](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use)
+            -   [Why facilitation and tool use are recorded as
+                data](#why-facilitation-and-tool-use-are-recorded-as-data)
+            -   [Brief of facilitation and description by Phase - but
+                this is analysis - SO MOVE OR THINK ABOUT
+                THAT.](#brief-of-facilitation-and-description-by-phase---but-this-is-analysis---so-move-or-think-about-that.)
+        -   [Rationale of "rich" data
+            collections](#rationale-of-rich-data-collections)
+        -   [Practicalities of data collection and
+            processing](#practicalities-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
             -   [Screen Capture Processing](#screen-capture-processing)
             -   [Learnings and recommendations on processing - MERGE
                 UP](#learnings-and-recommendations-on-processing---merge-up)
     -   [Data Analysis](#data-analysis)
-        -   [Overall table and rational of data
-            analysis](#overall-table-and-rational-of-data-analysis)
+        -   [Overall table and rational of data analysis - DROP THIS?
+            ALLOCATE WITHIN
+            STAGES?](#overall-table-and-rational-of-data-analysis---drop-this-allocate-within-stages)
         -   [Notes to allocate to a
             stage](#notes-to-allocate-to-a-stage)
             -   [Rational and approach of data analysis
@@ -132,11 +127,18 @@ title: 4. Methodology
         -   [How does this methodology relate to existing models of
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
+    -   [Limitations](#limitations)
+        -   [Limitation of demographics of
+            participants.](#limitation-of-demographics-of-participants.)
     -   [Chapter conclusion and link](#chapter-conclusion-and-link)
     -   [Parked to replace or remove or
         rework](#parked-to-replace-or-remove-or-rework)
         -   [How Research Questions Evolved - JUSTIFICATION FOR CHANING
             FOCUS.](#how-research-questions-evolved---justification-for-chaning-focus.)
+    -   [Parked - tables on data
+        collection](#parked---tables-on-data-collection)
+        -   [Phases and data Gathering](#phases-and-data-gathering)
+    -   [Footnotes](#footnotes)
 
 # Methodology
 
@@ -278,27 +280,12 @@ Fig. 4.x Summary of delivery phases and development periods
 
 In early 2016 I had carried out an exploratory workshop with home educators to explore future partnerships with the enrichment programme of the Faculty of Education [^el]. The process of recruiting was facilitated by the running of on going one off workshops which were similar in scope via the EdLab funologists strand of playful technology project. Specifically, half term events at Manchester Libraries and in the University and at Coder Dojo week end events.
 
-This work meant I was in regular contact with some home educators and posting opportunties on their forum contributed to an ongoing relationship within the three existing home education communications networks used to share information and experiences [he]. To recruit participant I circulated a simple text to participants asking them to get in touch via email. When participants got in touch I emailed adults the relevant participation sheet and asked them to confirm their interest.
+This work meant I was in regular contact with some home educators and posting opportunities on their forum contributed to an ongoing relationship within the three existing home education communications networks used to share information and experiences [he]. To recruit participant I circulated a simple text to participants asking them to get in touch via email. When participants got in touch I emailed adults the relevant participation sheet and asked them to confirm their interest.
+
+This process is covered in the ethics later in this chapter below.
 
 
 
-
-
-
-
-
-Ethic process is decribed below.
-
-
-
-
-#### Limitation of demographics of participants.
-
-In gathering data, I adapted a process from partnership work with more experiences professors.
-
-This did not gather details of demographics. Thus no data was gathered on the age of participants, any details of specific learning difficulties.
-
-While this was an oversight, but it also aligns with the aims of this study which are exploratory and investigate potential rather than making claims of efficacy and generalisability. This is explored in a later section.
 
 
 
@@ -341,9 +328,15 @@ https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/
 
 
 
-### Facilitation decisions and tool use in Phases as a form of data collection
+### Auto-ethnographic data collection via journal notes and other artefacts to do with facilitation and tool use
 
-#### Why facilitation and tool use are recorded as data
+v
+
+I used journal notes extensively in a notebook format and in electronic format written on a tablet. These notes involved a mix of session planning, resource planning, immediate reflections on sessions, and notes on links with existing literature.
+
+In addition, I also carefully collected the session resources themselves in terms of the tools used and supporting documentation and activities.
+
+**Rationale**
 
 Rationale,
 iterative DBR principles, historicy in 3GAT
@@ -377,12 +370,16 @@ I adapted and advanced resources with an aim that they could be used within seco
 The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
 
+### Use of Video
+**Summary**
 
 
-### Rationale of "rich" data collections
+**Rationale**
+
+Video "rich" data collections
+
 
 Environmental - i.e. in situ - and as a form of activity that fit within the pattern of home ed families existing activities.
-
 
 
 ### Practicalities of data collection and processing
@@ -1185,7 +1182,13 @@ Address limitations of methodology and RQs here so that I don't have to in the c
 - Details of neuro-diversity
 
 
+#### Limitation of demographics of participants.
 
+In gathering data, I adapted a process from partnership work with more experiences professors.
+
+This did not gather details of demographics. Thus no data was gathered on the age of participants, any details of specific learning difficulties.
+
+While this was an oversight, but it also aligns with the aims of this study which are exploratory and investigate potential rather than making claims of efficacy and generalisability. This is explored in a later section.
 
 ## Chapter conclusion and link
 
