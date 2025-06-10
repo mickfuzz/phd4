@@ -251,81 +251,7 @@ Thus while limitation are acknowledged, they are justified by the exploratory na
 
 
 
-## Summary of phases and resources of the study - THIS NEEDS MOVING COMBINING - PERHAPS MOVE ALL TO APPENDIX TO START?
 
-The following section  provides an overview of activity use by phase briefly detailing the evolution of tools and processes.
-
-A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x.
-
-![](./Pictures/phases_diagram_chevrons_2.png){width=98%}
-
-Fig. 4.x Summary of delivery phases and development periods
-
-<!-- Revise diagram here https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g360e8ce46fa_0_0#slide=id.g360e8ce46fa_0_0 -->
-
-
-Bring bank a Summary table of Phases with mostly numbers, very easy to digest. SEE START OF PAGE
-
-[Summary Table of phases](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
-
-| Name    | Date                        | Number of sessions | Number of participants           | Description                                                                                                             |
-| ------- | --------------------------- | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Phase 1 | Oct 2018 - Dec 2019| 10                 | 13 (5 adults and 8 young people) | phase of exploratory, co-creative game making, participants started with no set plan or toolset and were asked to plan and make a game in three larger groups of 5-6 participants of mixed ages|
-| Phase 2 | Jan - Feb 2019    | 6   | 18       | ?|
-| Phase 3 | May 2019 | 5    | 14  | ?|
-| Phase 4 | Nov - Dec 2019      | 6   | 14 | ?
-| Phase 5 | Jan - Feb 2020   | 5    | 8  | ?|
-
-
-
-Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
-
-The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
-
-
-D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a “half baked” game template and supporting online and printable resources.
-
-
-
-P2, A game making course of 6 weeks. The template and resources created in the previous stage were used as a starting point. By the beginning of P2 resources and activities were mostly in place but still under rapid development based on informal participant feedback and my journal reflections.
-
-
-
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
-
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
-I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
-The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
-
-
-
-
-
-<!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
-
-- Shared repositories of resources - users shared a log in so they could see the work created by others.
-- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
-- Drama Games: the process of warming up, creates community and sets a tone
-- Drama Process: specifically designed ot  overcome limits of the classroom.
-- Playtesting: the process of playtesting, either self or peer links back to a community purpose
- -->
-
-<!-- __Insert image of code__
-
-The code of the game.
-While the code is made up of various elements, only the javascript file is normally altered by participants.
-The complexity is hidden away from the end user.
-
-__Insert image of game in browser__
-
-On the screen you can see the game.
-Toby then decides he wants to add a new element to his game.
-He browses the list of game design patterns.
-There is a tension where he is hesitant about where to place code.
-Screen shot of the menu of choices. -->
 
 
 
@@ -372,8 +298,98 @@ CERTAINLY FINDING AND RESOLVING TENSIONS.
 There is a framework for looking at tensions here.
 https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
 
+### Summary of phases and resources of the study -
 
-### Challenges of data collection and processing
+The following section  provides an overview of activity use by phase briefly detailing the evolution of tools and processes.
+
+A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x.
+
+![](./Pictures/phases_diagram_chevrons_2.png){width=98%}
+
+Fig. 4.x Summary of delivery phases and development periods
+
+<!-- Revise diagram here https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g360e8ce46fa_0_0#slide=id.g360e8ce46fa_0_0 -->
+
+
+Bring bank a Summary table of Phases with mostly numbers, very easy to digest. SEE START OF PAGE
+
+[Summary Table of phases](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#)
+
+| Name    | Date                        | Number of sessions | Number of participants           | Description                                                                                                             |
+| ------- | --------------------------- | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Phase 1 | Oct 2018 - Dec 2019| 10                 | 13 (5 adults and 8 young people) | phase of exploratory, co-creative game making, participants started with no set plan or toolset and were asked to plan and make a game in three larger groups of 5-6 participants of mixed ages|
+| Phase 2 | Jan - Feb 2019    | 6   | 18       | ?|
+| Phase 3 | May 2019 | 5    | 14  | ?|
+| Phase 4 | Nov - Dec 2019      | 6   | 14 | ?
+| Phase 5 | Jan - Feb 2020   | 5    | 8  | ?|
+
+
+### Table of methods of data collection
+
+<!-- Online version here
+https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
+ -->
+
+| Name                        | Details                                                   | Description                                                                                                                                                                          | Used in which Phases                                                                                   |
+| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Screen capture data         | 72 recordings from 12 sessions                            | Captured in Flashback pro and stored as fbr                                                                                                                                          | P2, P3, P4 , P5                                                                |
+| 360 Video Data              | 9 recordings from 9 sessions in P2 and P3                 | Captured in 360 Gear camera on mini SD card                                                                                                                                          | P2, P3, P4                                         |
+| Journal entries             | 3 journals in  book form and 50 pages of electronic notes | Books journals contained planning, immediate reflections on sessions. Electronics documents focused more on evaluation of evolving sessions and problems encountered by participants | All Phases                                                                                                                  |
+| Programme resources created | Diverse resources (see Ch. 4)                             | Evolved during each phase - kept in online spaces                                                                                                                                    | All Phases                                                 |
+| Practitioner Interviews     | 4 x 90 min (average) interviews                           | Video and audio data recorded via a zoom meeting. Data stored as mp4 video files.                                                                                                    | After P3   |
+| Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | After P3 |
+
+
+
+### Facilitation decisions and tool use in Phases as a form of data collection
+
+#### Why facilitation and tool use are recorded as data
+
+Rationale,
+link to 5thD and other studies guided by iterative DBR principles.
+
+Also introduce the process of Chapter 5 design narrative
+
+#### Brief description by Phase
+
+Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
+
+The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
+
+
+D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources.
+
+P2, A game making course of 6 weeks. The template and resources created D2 were used as a starting point but still under rapid development based on informal participant feedback and my journal reflections.
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
+
+
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
+I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
+The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
+
+
+
+
+
+<!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
+
+- Shared repositories of resources - users shared a log in so they could see the work created by others.
+- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
+- Drama Games: the process of warming up, creates community and sets a tone
+- Drama Process: specifically designed ot  overcome limits of the classroom.
+- Playtesting: the process of playtesting, either self or peer links back to a community purpose
+ -->
+
+### Rationale of "rich" data collections
+
+Environmental - i.e. in situ - and as a form of activity that fit within the pattern of home ed families existing activities.
+
+
+
+### Practicalities of data collection and processing
 
 While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera.
 
@@ -440,7 +456,7 @@ My study draws on traditional ethnographic methods of my journal as participant 
 
 One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
 
-### Overall table and rational of data analysis
+### Overall table and rational of data analysis - DROP THIS? ALLOCATE WITHIN STAGES?
 
 There is a table online here to summarise data analysis
 
@@ -1295,24 +1311,8 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 | Phase 3<br><br>May 2019<br><br>                | Glitch Game Club 2:<br>Second iteration of game making course of 4 weeks using Phaser.js and Glitch.com                                                                                                                                                 | Digital and paper journal notes;Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
 | Phase 4<br><br>Jan 2020 - May 2020<br><br><br> | Rebel Game Makers (Make Code Arcade); Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages.                          | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
 
-### Table of methods of data collection
 
-<!-- Online version here
-https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
- -->
-
-| Name                        | Details                                                   | Description                                                                                                                                                                          | Processing before analysis                                                                                                            |
-| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Screen capture data         | 72 recordings from 12 sessions                            | Captured in Flashback pro and stored as fbr                                                                                                                                          | Transcoded to mp4 (involving loss of keystroke and mouse click data)                                                                  |
-| 360 Video Data              | 9 recordings from 9 sessions in P2 and P3                 | Captured in 360 Gear camera on mini SD card                                                                                                                                          | Transcoded via Samsung app & command line tool ffmpeg - see appendix 3.x                                                              |
-| Journal entries             | 3 journals in  book form and 50 pages of electronic notes | Books journals contained planning, immediate reflections on sessions. Electronics documents focused more on evaluation of evolving sessions and problems encountered by participants | n/a                                                                                                                                   |
-| Programme resources created | Diverse resources (see Ch. 4)                             | Evolved during each phase - kept in online spaces                                                                                                                                    | These resources were altered for an external audience after the programme ended                                                       |
-| Practitioner Interviews     | 4 x 90 min (average) interviews                           | Video and audio data recorded via a zoom meeting. Data stored as mp4 video files.                                                                                                    | Transcribed using open source software, then speaker data added and split into time zones of 5 minutes                                |
-| Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | Transcoded to mp3 audio files. Transcribed using open source software, then speaker data added and split into time zones of 5 minutes |
-
-
-
-## Footnotes 
+## Footnotes
 
 
 Foot notes.
