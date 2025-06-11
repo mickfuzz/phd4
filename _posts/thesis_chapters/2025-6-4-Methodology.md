@@ -27,6 +27,8 @@ title: 4. Methodology
                 process](#mutuality-and-evolving-process)
             -   [Explored elsewhere or no space to do
                 so](#explored-elsewhere-or-no-space-to-do-so)
+        -   [Guiding technical rationale guiding software
+            use](#guiding-technical-rationale-guiding-software-use)
     -   [Project delivery phases and data
         collection](#project-delivery-phases-and-data-collection)
         -   [Recruitment and data on
@@ -38,48 +40,52 @@ title: 4. Methodology
         -   [Auto-ethnographic data collection via journal notes and
             other artefacts to do with facilitation and tool
             use](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use)
-            -   [Why facilitation and tool use are recorded as
-                data](#why-facilitation-and-tool-use-are-recorded-as-data)
             -   [Brief of facilitation and description by Phase - but
                 this is analysis - SO MOVE OR THINK ABOUT
                 THAT.](#brief-of-facilitation-and-description-by-phase---but-this-is-analysis---so-move-or-think-about-that.)
-        -   [Rationale of "rich" data
-            collections](#rationale-of-rich-data-collections)
+        -   [Use of Video data - 360 and Screen
+            capture](#use-of-video-data---360-and-screen-capture)
         -   [Practicalities of data collection and
             processing](#practicalities-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
-            -   [Screen Capture Processing](#screen-capture-processing)
             -   [Learnings and recommendations on processing - MERGE
                 UP](#learnings-and-recommendations-on-processing---merge-up)
     -   [Data Analysis](#data-analysis)
-        -   [Overall table and rational of data analysis - DROP THIS?
-            ALLOCATE WITHIN
-            STAGES?](#overall-table-and-rational-of-data-analysis---drop-this-allocate-within-stages)
-        -   [Notes to allocate to a
-            stage](#notes-to-allocate-to-a-stage)
-            -   [Rational and approach of data analysis
-                -](#rational-and-approach-of-data-analysis--)
+        -   [Rational and overall approach of data analysis
+            -](#rational-and-overall-approach-of-data-analysis--)
+        -   [Iterative approach to
+            analysis](#iterative-approach-to-analysis)
+        -   [Summary table of data analysis - HERE OR AT
+            END?](#summary-table-of-data-analysis---here-or-at-end)
         -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
-            -   [Practitioner interviews](#practitioner-interviews)
+            -   [S1 Journal analysis data](#s1-journal-analysis-data)
+            -   [S1 Practitioner
+                interviews](#s1-practitioner-interviews)
             -   [S1 Video analysis](#s1-video-analysis)
-            -   [3 planes approach - noting tensions and
-                behaviours](#planes-approach---noting-tensions-and-behaviours)
-            -   [Use of journal data](#use-of-journal-data)
+            -   [Initial description of video data using a spreadsheet
+                and 3 planes
+                approach](#initial-description-of-video-data-using-a-spreadsheet-and-3-planes-approach)
         -   [S2 (stage two) data analysis](#s2-stage-two-data-analysis)
-            -   [Video analysis - Transcription/description of
-                data](#video-analysis---transcriptiondescription-of-data)
-                -   [Selection of vignettes for deeper
-                    analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [Video analysis - Transcription/description of data - 10
+                sheets of partial
+                transcriptoin](#video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
             -   [Video analysis - first pass of thematic analysis /
                 coding](#video-analysis---first-pass-of-thematic-analysis-coding)
-                -   [Coding Participant Roles and
-                    Interactions.](#coding-participant-roles-and-interactions.)
-            -   [Analysis of the evolution of the programme resources
-                created - THIS ISN'T REALLY A
-                SECTION?](#analysis-of-the-evolution-of-the-programme-resources-created---this-isnt-really-a-section)
+                -   [Selection themes for thematic
+                    analsis](#selection-themes-for-thematic-analsis)
+        -   [Continuing a 3 planes
+            approach](#continuing-a-3-planes-approach)
+            -   [Coding Participant Roles and Interactions DROP
+                THIS](#coding-participant-roles-and-interactions-drop-this)
+        -   [Change of direction away from NVIVO and close thematic
+            analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
+            -   [Issues with Software](#issues-with-software)
+                -   [Original plan for Stage
+                    3](#original-plan-for-stage-3)
         -   [S3 (stage three) data
             analysis](#s3-stage-three-data-analysis)
-            -   [Original plan for Stage 3](#original-plan-for-stage-3)
+            -   [Selection of vignettes for deeper
+                analysis](#selection-of-vignettes-for-deeper-analysis)
             -   [Revisiting the research questions based on the
                 evolution of the learning design. - REALLY EDIT
                 DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
