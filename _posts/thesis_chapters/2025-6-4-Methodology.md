@@ -345,6 +345,13 @@ The process of keeping data online and available is tricky.
 For example some Thimble projects from P1 were lost when the project was discontinued.
 
 
+**Types of input by Participants**
+
+Direct input was through requests and informal feedback and structured end-of-course interviews.
+
+Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
 #### Brief of facilitation and description by Phase - but this is analysis - SO MOVE OR THINK ABOUT THAT.
 
 Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
@@ -390,8 +397,6 @@ Environmental - i.e. in situ - and as a form of activity that fit within the pat
 
 
 ### Practicalities of data collection and processing
-
-
 
 
 While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera.
@@ -451,9 +456,6 @@ Check viability of data at each stage of processing and movement.
 My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created. I also record the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
 
 One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
-          |
-
-
 
 
 ### Rational and overall  approach of data analysis -
@@ -461,9 +463,6 @@ One of the challenges of adopting a naturalistic research approach is to work wi
 
 Video data analysis involved description and transcription of video data and thematic analysis of the contents.
 
-Direct input was through requests and informal feedback and structured end-of-course interviews.
-
-Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 <!-- The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities. -->
 
@@ -569,14 +568,10 @@ The practitioner interview data helped inform the broad themes of RQ1 and RQ3.
 
 As outline in the table above, stage one involved initial broad analysis of the varied forms of data and recording observations in an excel sheet.
 
-This data was analysed, at a broad scale,  using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data.
-
-WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY.
 
 
-#### 3 planes approach - noting tensions and behaviours
 
-I began working with video data by dipping into it almost at random. It soon became apparent that full transcription of video data of all sessions was beyond the remit of the study.
+
 
 To inform prioritisation of the video data at this early stage I began to formulate some guidelines to help prioritise sessions to
 
@@ -587,15 +582,37 @@ Different tactics could be used,
 In the end somewhere between the two.
 
 2 sessions i particular
-sampling form p3 as well. 
+sampling form p3 as well.
 
 To help guide the process of selecting data.
 
-Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
+I began working with video data by dipping into it almost at random. It soon became apparent that full transcription of video data of all sessions was beyond the remit of the study.
 
-I created an excel spreadsheet and noted behaviour and tentions that emerged in transcription and coding.
 
-This helped to get closer to the data and to :
+
+#### Initial description of video data using a spreadsheet and 3 planes approach
+
+**I noted tensions and behaviours and mediational strategies**
+
+SHOW AN EXTRACT OF AN EXCEL FILE - DATA - TIME - BROAD DESCRIPTION
+
+WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY.
+
+This data was analysed, at a broad scale using two broad approaches and summary spreadsheet documents
+
+**Firstly**, a word document containing a table of broad evaluation of each sessions. This document later helped to shape that decision on what sessions merited closer attention
+
+<!-- https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit# -->
+
+
+Secondly, a spreadsheet noted activity and tensions and meditational strategies as a list that emerged in initial review.
+
+To help categorise these entries I using 3 planes of sociocultural activity.  Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
+
+
+**Beginning of clustering of potential themes for analysis**
+
+This process helped to get closer to the data and to :
 
   - start identify to  thematic analysis of the stages of design with other learning models like PBL
 - to identify roles through repeated patterns of interactions, and contrast to Barron's work
@@ -605,27 +622,37 @@ This helped to get closer to the data and to :
 While the three planes provided a higher level framework, specifics of the data gave greater granularity and formed sub categories of coding used in the next stage of analysis.
 
 
- The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
+
+
+ #### Analysis of the evolution of the programme resources created - THIS ISN'T REALLY A SECTION?
+
+ WHERE ELSE COULD IT GO IF NEEDED.
+
+ There were two main types of resources created.
+
+ - supporting teaching / facilitation RESOURCES
+ - games and game and assets created
+
+ The documentation and other forms of support evolved during each phase -
+
+ I did not try to collect any personal notes that participants used for planning. And this was minimal for many participants.
+
+ Chapter four explores the evolution of these resources using AT as a tool for analysis of the existing and emerging contradictions in activity.
+
 
 **RQS**
 
-RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
+The prinicple RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
 
-This process was very useful to address all three questions, and it was at this stage of analysis that GDPs began to emerge as a key mediational strategy.
+This process was very useful to address this principle question and all three sub questions, at a broad level.
+
 
 <!-- Rather than taking a grounded approach this data was analysed using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data. -->
 
 <!-- The process aligns with AT analysis in the scope of the activity - and in the separation out of the community level of the triangle added by Engestrom . -->
 
 
-
-
-
-
-
 <!-- While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions. -->
-
-
 
 
 ### S2 (stage two) data analysis
@@ -633,7 +660,8 @@ This process was very useful to address all three questions, and it was at this 
 Schema for initial thematic analysis in stage two  was informed by literature review, early analysis of journal entries and  emerging observations of data in stage one
 
 
-#### Video analysis - Transcription/description of data
+
+#### Video analysis - Transcription/description of data - 10 sheets of partial transcriptoin
 
 The partial transcription of video data formed a significant part of the data analysis. The large amount of video data recorded forced a prioritisation of data to be transcribed. It also forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
 
@@ -657,9 +685,104 @@ Criteria  for inclusion included both practical and theoretical considerations.
 - Diversity of participant actions in terms of tasks being worked on
 - Diversity of kinds of pair and peer interactions
 
+I returned to the global session summary document to help inform this choice.
 
-A page of quick analysis of the files online here helped to shape that decision on what sections
-https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit#
+#### Video analysis - first pass of thematic analysis / coding
+
+Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
+
+While sstage one surfaced themes, stage two created a coding structure in nvido
+
+Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
+
+Video coded in segments in word -
+In this level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
+
+
+Describing different grades and pass overs of the video data.
+
+- quick analysis
+- sections coded and described in 5 minute chunks
+- themes of interest identified - in relation to evolving RQs  -  to create evolving drafts of the emerging themes
+- some sections transcribed in more details based in themes, more detail on gesture analysis also added
+
+NOTE - this document outlines thoughts on existing framworks which could inform coding process.
+https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#heading=h.3565tm76nud9
+
+
+##### Selection themes for thematic analsis
+
+and it was at this stage of analysis that GDPs began to emerge as a key mediational strategy.
+
+### Continuing a 3 planes approach
+
+As the process of transcription continued, I added to the document outlining meditational strategies.
+
+The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
+
+
+
+
+**What themes were was considered but then excluded at s2**
+
+The following themes  emerged as potential learning outcomes in the learning model, and were observed in interactions in stage one
+
+- Elements of Computational Thinking
+- Systems Thinking Concepts
+- Design cycle stages
+- Types of Gameplay Design Patterns (MDA)
+- participant roles and interactions
+
+CT   was not included at stage 2 as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
+
+Systems thinking was promising but not a proposed part of the learning design, and the data in P2 and P3 which became a chief focus of thus study was not as rich in this area as later P4 data.
+
+##### Coding Participant Roles and Interactions DROP THIS
+
+Evolving notes on coding of roles and interactions are in an online document here.
+
+Excel doc -    https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
+
+Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
+
+For example, the work of my own staring point when coding was guided by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
+
+when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
+
+Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
+
+ I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type.
+
+
+
+
+### Change of direction away from NVIVO and close thematic analysis
+
+#### Issues with Software
+
+- too fiddly
+
+
+##### Original plan for Stage 3
+
+THE ORIGINAL PLAN FOR STAGE 3 - In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
+
+After drafts of the emerging themes were in place, these were sued to create a revised coding structure and data was recoded more systematically. .
+
+**Integrate the thoughts here**
+https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit#bookmark=id.k9kvu0182p6u
+
+
+
+
+### S3 (stage three) data analysis
+
+
+
+
+<!-- Source article
+http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
+
 
 
 ##### Selection of vignettes for deeper analysis
@@ -690,93 +813,7 @@ This helped clarify some things that were unclear from audio and screen capture 
 
 For example, deictic referencing, where unclear statements were clafied with pointing or other gestures was common. Such gesture were used often  to clarify game movements on screen, or in one case a software procedure of cropping an image.
 
-#### Video analysis - first pass of thematic analysis / coding
 
-Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
-
-While sstage one surfaced themes, stage two created a coding structure in nvido
-
-Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
-
-Video coded in segments in word -
-In this level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
-
-
-Describing different grades and pass overs of the video data.
-
-- quick analysis
-- sections coded and described in 5 minute chunks
-- themes of interest identified - in relation to evolving RQs  -  to create evolving drafts of the emerging themes
-- some sections transcribed in more details based in themes, more detail on gesture analysis also added
-
-NOTE - this document outlines thoughts on existing framworks which could inform coding process.
-https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#heading=h.3565tm76nud9
-
-
-**What themes were was considered but then excluded at s2**
-
-The following themes  emerged as potential learning outcomes in the learning model, and were observed in interactions in stage one
-
-- Elements of Computational Thinking
-- Systems Thinking Concepts
-- Design cycle stages
-- Types of Gameplay Design Patterns (MDA)
-- participant roles and interactions
-
-CT   was not included at stage 2 as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
-
-Systems thinking was promising but not a proposed part of the learning design, and the data in P2 and P3 which became a chief focus of thus study was not as rich in this area as later P4 data.
-
-##### Coding Participant Roles and Interactions.
-
-Evolving notes on coding of roles and interactions are in an online document here.
-
-Excel doc -    https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
-
-Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
-
-For example, the work of my own staring point when coding was guided by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
-
-when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
-
-Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
-
- I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type.
-
-
-
-#### Analysis of the evolution of the programme resources created - THIS ISN'T REALLY A SECTION?
-
-WHERE ELSE COULD IT GO IF NEEDED.
-
-There were two main types of resources created.
-
-- supporting teaching / facilitation RESOURCES
-- games and game and assets created
-
-The documentation and other forms of support evolved during each phase -
-
-I did not try to collect any personal notes that participants used for planning. And this was minimal for many participants.
-
-Chapter four explores the evolution of these resources using AT as a tool for analysis of the existing and emerging contradictions in activity.
-
-
-### S3 (stage three) data analysis
-
-
-
-
-<!-- Source article
-http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
-
-#### Original plan for Stage 3
-
-THE ORIGINAL PLAN FOR STAGE 3 - In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
-
-After drafts of the emerging themes were in place, these were sued to create a revised coding structure and data was recoded more systematically. .
-
-**Integrate the thoughts here**
-https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit#bookmark=id.k9kvu0182p6u
 
 
 #### Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
