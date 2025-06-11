@@ -685,11 +685,9 @@ Criteria  for inclusion included both practical and theoretical considerations.
 
 I returned to the global session summary document to help inform this choice.
 
-#### Video analysis - first pass of thematic analysis / coding
+#### Video analysis - first pass of thematic clustering
 
 Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
-
-While sstage one surfaced themes, stage two created a coding structure in nvido
 
 Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
 
@@ -740,37 +738,78 @@ https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/
 
 and it was at this stage of analysis that GDPs began to emerge as a key mediational strategy.
 
-
-
 **What themes were was considered but then excluded at s2**
 
-The following themes  emerged as potential learning outcomes in the learning model, and were observed in interactions in stage one
+The following themes  emerged as potential themes in clustering data for later coding.
 
 - Elements of Computational Thinking
 - Systems Thinking Concepts
 - Design cycle stages
+- Participant roles and interactions
 - Types of Gameplay Design Patterns (MDA)
-- participant roles and interactions
 
-CT   was not included at stage 2 as there is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate.
+Some of the themes were discarded relatively early in the clustering process, other remained for an extended time until a larger shift in thinking occurred.
 
-Systems thinking was promising but not a proposed part of the learning design, and the data in P2 and P3 which became a chief focus of thus study was not as rich in this area as later P4 data.
+Computational thinking and systems thinking were discarded relatively quickly in this process for the following reasons.
+There is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate. Systems thinking was promising however the data in P2 and P3 which became a chief focus of this study was not as rich in this area as later P4 and P5 data.
 
-##### Coding Participant Roles and Interactions DROP THIS
+These themes which reflected possible learning outcomes in the emerging pedagogy, were dropped partly following a decision to de-prioritise the applicability of this research to formal settings, allowing a greater focus on non-formal settings and processes.
+
+
+The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
+
+##### S2 On the value of initial clustering of themes - e.g. participant roles and interactions MOVE THIS ?
+
+
+While I did not progress to a systematic coding of video data of  emerging themes. The process of clustering themes in preparation
 
 Evolving notes on coding of roles and interactions are in an online document here.
 
 Excel doc -    https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
 
+
 Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
 
 For example, the work of my own staring point when coding was guided by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
 
-when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
+I made adaptations which were significant in guiding later analysis . The process of adaptation involved two significant shifts
+
+- mutual nature of interaction, not focused on parental roles exclusively
+- the value of peer interaction of the community
+
+
+The drawback of this approach was the fracturing of the categories which felt to me to detracted from an ability to analyse what was particularly significant about the experience in terms of the research objectives.
+
+This led to two things
+- revising the research process to return to a more holistic approach using 3 planes
+- revisiting the research questions and objectives to reflect the emerging sense of what was important.
+
+
+<!-- when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
 
 Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
 
- I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type.
+I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type. -->
+
+#### Use of participant interview data (EARLIER IN S2? OR LATER?) & importance of process of triangulation
+
+Participant interview data mostly used to confirm and triangulate with video data from making sessions
+
+ANALYSIS  - NOT SURE ON THIS YET IN TERMS OF ORDER OF THINGS - PERHAPS REFLECT THAT.
+
+These interviews took place at the end of P3
+
+At times the resources that were created were brought up on the screen during capture.
+
+Interviews surfaced important data about home use of games and learning relationships.
+
+These interviews allowed triangulation and confirmation of data observed in video recordings.
+
+They were important to confirm initial researcher conclusions before a final process of closer video data analysis.
+
+**Limitations in interview data**
+
+In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 
 #### Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
@@ -803,10 +842,9 @@ The hybrid of DBR and formative methodology was chosen for its iterative, collab
 ### S3 (stage three) data analysis
 
 
-
-
 <!-- Source article
 http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
+
 
 
 
@@ -850,19 +888,7 @@ And then described in the following ways.
 
 This brings us to the topic of strengths and limitations of the research approach.
 
-#### The theme of use of GDPs
 
-I'm not sure how to introduce this.
-
-- in personal appropriation of concepts
-- assisting project navigation
-- scaffolding ideation processes
-- aiding division of labour
-- GDPs in technical processes
-- facilitating designing for others
-- GDPs used as concepts in playtesting
-- playtesting used to propagate GDPs
-- facilitating use of home knowledge via GDPS
 
 <!-- Previous nested one
 
@@ -890,11 +916,9 @@ What was really needed - Prioritising the selection of data and quick reading of
 
 Complexities - thus rejecting comparative approach.
 
-
 After data analysis in stage one. The following revisions were made in overall schema of coding.
 
 While useful, I dropping design stages as a schema, for justification and implications see discussion in chapter six.
-
 
 The wider helping interactions, again while useful had drawbacks. Firsly, they were so numerous. Secondly, given the existing work of a general scope of digital making by Barron, it was not clear what I would add in terms of contribution to knowledge beyond broadly confirming it in the scope of digital game making.
 
@@ -917,8 +941,31 @@ https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/
 
 <!-- Thus using MS Excel as a simple way to collate data without translation seems appropriate. -->
 
-##### Coding use of GDPs as mediational strategies
-This is explored in chapter 5
+
+
+#### Clustering and evaluating the theme of use of GDPs  as mediational strategies
+
+This is not strictly coding, instead the process followed these stage
+
+ - identification of GDP as an important theme
+ - listing of GDP mediational uses in 3 planes doc, and in 10 transcriptions
+ - collation in S3 of those themes and identification in vignettes for closer study,
+ - triangulation with interview data & games created
+
+The resulting data and analysis is explored in chapter 5
+
+I'm not sure how to introduce this.
+Perhaps don't. Instead go with overall themes in three planes.
+
+- in personal appropriation of concepts
+- assisting project navigation
+- scaffolding ideation processes
+- aiding division of labour
+- GDPs in technical processes
+- facilitating designing for others
+- GDPs used as concepts in playtesting
+- playtesting used to propagate GDPs
+- facilitating use of home knowledge via GDPS
 
 ##### Coding impact on design/ processes on learner agency - boiled down -
 
@@ -943,38 +990,6 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 
 
 
-#### On Final Transcription/description of data
-
-At this stage coding schemes were more mature.
-
-- Partial transcription of more video files -
-
-
-The coding of each extract via a selction was the process.
-
-MORE TO COME HERE
-
-
-
-#### Use of participant interview data
-
-Participant interview data mostly used to confirm and triangulate with video data from making sessions
-
-ANALYSIS
-
-These interviews took place at the end of P3
-
-At times the resources that were created were brought up on the screen during capture.
-
-Interviews surfaced important data about home use of games and learning relationships.
-
-These interviews allowed triangulation and confirmation of data observed in video recordings.
-
-
-
-**Limitations in interview data**
-
-In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 
 <!-- In this process, tensions emerged which impacted my framing and understandings of the research questions.
@@ -982,7 +997,7 @@ HOW?  -->
 <!-- These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher. -->
 
 
-#### What research questions are answered by what data gathering and analysis processes and stage
+## What research questions are answered by what data gathering and analysis processes and stage - MERG THIS INTO OTHER SECTIONS
 
  <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their digital gaming practices Rafael Marques de Albuquerque
  As this is done very methodically

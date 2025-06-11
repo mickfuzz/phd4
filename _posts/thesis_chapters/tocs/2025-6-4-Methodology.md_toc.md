@@ -58,8 +58,8 @@
             -   [Video analysis - Transcription/description of data - 10
                 sheets of partial
                 transcriptoin](#video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
-            -   [Video analysis - first pass of thematic analysis /
-                coding](#video-analysis---first-pass-of-thematic-analysis-coding)
+            -   [Video analysis - first pass of thematic
+                clustering](#video-analysis---first-pass-of-thematic-clustering)
             -   [Continuing a 3 planes
                 approach](#continuing-a-3-planes-approach)
             -   [Change of direction away from NVIVO and close thematic
@@ -67,8 +67,12 @@
             -   [Changes regarding process of selection themes for
                 thematic
                 analysis](#changes-regarding-process-of-selection-themes-for-thematic-analysis)
-                -   [Coding Participant Roles and Interactions DROP
-                    THIS](#coding-participant-roles-and-interactions-drop-this)
+                -   [S2 On the value of initial clustering of themes -
+                    e.g. participant roles and interactions MOVE THIS
+                    ?](#s2-on-the-value-of-initial-clustering-of-themes---e.g.-participant-roles-and-interactions-move-this)
+            -   [Use of participant interview data (EARLIER IN S2? OR
+                LATER?) & importance of process of
+                triangulation](#use-of-participant-interview-data-earlier-in-s2-or-later-importance-of-process-of-triangulation)
             -   [Revisiting the research questions based on the
                 evolution of the learning design. - REALLY EDIT
                 DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
@@ -80,21 +84,17 @@
                 analysis](#selection-of-vignettes-for-deeper-analysis)
             -   [S3 thematic analysis - not via coding but via
                 examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
-            -   [The theme of use of GDPs](#the-theme-of-use-of-gdps)
             -   [A revised processes of thematic
                 analysis](#a-revised-processes-of-thematic-analysis)
-                -   [Coding use of GDPs as mediational
-                    strategies](#coding-use-of-gdps-as-mediational-strategies)
+            -   [Clustering and evaluating the theme of use of GDPs as
+                mediational
+                strategies](#clustering-and-evaluating-the-theme-of-use-of-gdps-as-mediational-strategies)
                 -   [Coding impact on design/ processes on learner
                     agency - boiled down
                     -](#coding-impact-on-design-processes-on-learner-agency---boiled-down--)
-            -   [On Final Transcription/description of
-                data](#on-final-transcriptiondescription-of-data)
-            -   [Use of participant interview
-                data](#use-of-participant-interview-data)
-            -   [What research questions are answered by what data
-                gathering and analysis processes and
-                stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)
+    -   [What research questions are answered by what data gathering and
+        analysis processes and stage - MERG THIS INTO OTHER
+        SECTIONS](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage---merg-this-into-other-sections)
     -   [Ethical considerations and
         processes](#ethical-considerations-and-processes)
     -   [Data validity, reliability and
