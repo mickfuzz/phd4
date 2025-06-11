@@ -53,8 +53,8 @@ title: 4. Methodology
     -   [Data Analysis](#data-analysis)
         -   [Rational and overall approach of data analysis
             -](#rational-and-overall-approach-of-data-analysis--)
-        -   [Iterative approach to
-            analysis](#iterative-approach-to-analysis)
+            -   [Iterative approach to
+                analysis](#iterative-approach-to-analysis)
         -   [Summary table of data analysis - HERE OR AT
             END?](#summary-table-of-data-analysis---here-or-at-end)
         -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
@@ -71,28 +71,26 @@ title: 4. Methodology
                 transcriptoin](#video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
             -   [Video analysis - first pass of thematic analysis /
                 coding](#video-analysis---first-pass-of-thematic-analysis-coding)
-                -   [Selection themes for thematic
-                    analsis](#selection-themes-for-thematic-analsis)
-        -   [Continuing a 3 planes
-            approach](#continuing-a-3-planes-approach)
-            -   [Coding Participant Roles and Interactions DROP
-                THIS](#coding-participant-roles-and-interactions-drop-this)
-        -   [Change of direction away from NVIVO and close thematic
-            analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
-            -   [Issues with Software](#issues-with-software)
-                -   [Original plan for Stage
-                    3](#original-plan-for-stage-3)
-        -   [S3 (stage three) data
-            analysis](#s3-stage-three-data-analysis)
-            -   [Selection of vignettes for deeper
-                analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [Continuing a 3 planes
+                approach](#continuing-a-3-planes-approach)
+            -   [Change of direction away from NVIVO and close thematic
+                analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
+            -   [Changes regarding process of selection themes for
+                thematic
+                analysis](#changes-regarding-process-of-selection-themes-for-thematic-analysis)
+                -   [Coding Participant Roles and Interactions DROP
+                    THIS](#coding-participant-roles-and-interactions-drop-this)
             -   [Revisiting the research questions based on the
                 evolution of the learning design. - REALLY EDIT
                 DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
                 -   [RQ2 - Shift from family impact to broader
                     quetions](#rq2---shift-from-family-impact-to-broader-quetions)
-        -   [S3 thematic analysis - not via coding but via
-            examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
+        -   [S3 (stage three) data
+            analysis](#s3-stage-three-data-analysis)
+            -   [Selection of vignettes for deeper
+                analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [S3 thematic analysis - not via coding but via
+                examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
             -   [The theme of use of GDPs](#the-theme-of-use-of-gdps)
             -   [A revised processes of thematic
                 analysis](#a-revised-processes-of-thematic-analysis)
@@ -103,8 +101,8 @@ title: 4. Methodology
                     -](#coding-impact-on-design-processes-on-learner-agency---boiled-down--)
             -   [On Final Transcription/description of
                 data](#on-final-transcriptiondescription-of-data)
-        -   [Use of Interview data](#use-of-interview-data)
-            -   [Participant interviews](#participant-interviews)
+            -   [Use of participant interview
+                data](#use-of-participant-interview-data)
             -   [What research questions are answered by what data
                 gathering and analysis processes and
                 stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)
@@ -145,6 +143,7 @@ title: 4. Methodology
         collection](#parked---tables-on-data-collection)
         -   [Phases and data Gathering](#phases-and-data-gathering)
     -   [Footnotes](#footnotes)
+
 
 # Methodology
 
@@ -279,12 +278,6 @@ In early 2016 I had carried out an exploratory workshop with home educators to e
 This work meant I was in regular contact with some home educators and posting opportunities on their forum contributed to an ongoing relationship within the three existing home education communications networks used to share information and experiences [he]. To recruit participant I circulated a simple text to participants asking them to get in touch via email. When participants got in touch I emailed adults the relevant participation sheet and asked them to confirm their interest.
 
 This process is covered in the ethics later in this chapter below.
-
-
-
-
-
-
 
 <!-- WHAT IS THE FOUNDATION FOR ANALYSIS ?
 CERTAINLY FINDING AND RESOLVING TENSIONS.
@@ -472,7 +465,7 @@ Video data analysis involved description and transcription of video data and the
 
 <!-- The gathering of data and revision of teaching materials took place over several years. As such, there was time for extensive reflection and reconsideration of factors involved in the learning design in dialogue with existing literature on game making and game making communities. -->
 
-### Iterative approach to analysis
+#### Iterative approach to analysis
 
 Due to the exploratory nature of the research, and the openness to new directions, the process of analysis of the data gathered was also carried out in an iterative approach over several stages.
 
@@ -551,7 +544,6 @@ The journal notes contributed to understandings of all research questions but in
 
 <!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
 
-<!-- A key strategy of AT used to locate learning happening in an environment, is via the identification of contradictions between different elements of the activity systems and subsequent study of how these contradictions are resolved (Engeström and Sannino, 2010). I plan to use my journal and participant interviews to identify key moments of contradictions and resolution to study in greater detail using the range of data available. I am also inspired by the work of Oliver and Pelletier (2006)who employed contradictions between systemic elements to create a coding scheme used to interpret video data in a study on game based learning. -->
 
 
 
@@ -716,16 +708,37 @@ NOTE - this document outlines thoughts on existing framworks which could inform 
 https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#heading=h.3565tm76nud9
 
 
-##### Selection themes for thematic analsis
 
-and it was at this stage of analysis that GDPs began to emerge as a key mediational strategy.
 
-### Continuing a 3 planes approach
+#### Continuing a 3 planes approach
 
 As the process of transcription continued, I added to the document outlining meditational strategies.
 
 The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
 
+
+
+
+#### Change of direction away from NVIVO and close thematic analysis
+
+**Issues with Software**
+
+- too fiddly
+
+
+**Original plan for Stage 3**
+
+THE ORIGINAL PLAN FOR STAGE 3 - In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
+
+After drafts of the emerging themes were in place, these were sued to create a revised coding structure and data was recoded more systematically. .
+
+**Integrate the thoughts here**
+https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit#bookmark=id.k9kvu0182p6u
+
+
+#### Changes regarding process of selection themes for thematic analysis
+
+and it was at this stage of analysis that GDPs began to emerge as a key mediational strategy.
 
 
 
@@ -760,25 +773,31 @@ Specifically, the following were removed from Barron's typology, parent as emplo
  I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type.
 
 
+#### Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
+
+<!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
+BUT WRITE FOR HERE FOR NOW -->
+
+Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
+
+Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds. This section considers some of those revisions as a way to futher explore detail of that evolutionary process.
+
+##### RQ2 - Shift from family impact to broader quetions
+
+A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
+
+2. How can learners build agency in an evolving community of game makers?
+
+<!-- BE SPECIFIC? -->
+The remaining research questions guiding this study are broadly aimed  at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
+
+1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
+3. How can game design patterns support the development of coding practices with novices?
 
 
-### Change of direction away from NVIVO and close thematic analysis
+Because it suited my working practices as an educational facilitator, and in line with DBR approaches the initial design evolved from phase to phase and relied heavily on input from participants and a wider, online, open source digital production-education community [] Mozilla link / Sefton Green.
 
-#### Issues with Software
-
-- too fiddly
-
-
-##### Original plan for Stage 3
-
-THE ORIGINAL PLAN FOR STAGE 3 - In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
-
-After drafts of the emerging themes were in place, these were sued to create a revised coding structure and data was recoded more systematically. .
-
-**Integrate the thoughts here**
-https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit#bookmark=id.k9kvu0182p6u
-
-
+The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
 
 
 ### S3 (stage three) data analysis
@@ -791,7 +810,7 @@ http://www.life-slc.org/docs/barron-parentsaslearningpartners.pdf -->
 
 
 
-##### Selection of vignettes for deeper analysis
+#### Selection of vignettes for deeper analysis
 
 - Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
 
@@ -820,36 +839,7 @@ This helped clarify some things that were unclear from audio and screen capture 
 For example, deictic referencing, where unclear statements were clafied with pointing or other gestures was common. Such gesture were used often  to clarify game movements on screen, or in one case a software procedure of cropping an image.
 
 
-
-
-#### Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
-
-<!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
-BUT WRITE FOR HERE FOR NOW -->
-
-Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
-
-Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds. This section considers some of those revisions as a way to futher explore detail of that evolutionary process.
-
-##### RQ2 - Shift from family impact to broader quetions
-
-A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
-
-2. How can learners build agency in an evolving community of game makers?
-
-<!-- BE SPECIFIC? -->
-The remaining research questions guiding this study are broadly aimed  at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
-
-1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-3. How can game design patterns support the development of coding practices with novices?
-
-
-Because it suited my working practices as an educational facilitator, and in line with DBR approaches the initial design evolved from phase to phase and relied heavily on input from participants and a wider, online, open source digital production-education community [] Mozilla link / Sefton Green.
-
-The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
-
-
-### S3 thematic analysis - not via coding but via examples
+#### S3 thematic analysis - not via coding but via examples
 
 JUSTIFY NOT USING NVIVO - AND DOING AN OBSERVATIONAL STUDY BASED ON THE WIDER REQUIREMENTS OF THE RESEARCH QUESTIONS THAT ARE COVERING NEW GROUND RATHER THAN DRILLING DOWN O EXISTING AREAS OF PRACTICE.
 
@@ -906,7 +896,6 @@ After data analysis in stage one. The following revisions were made in overall s
 While useful, I dropping design stages as a schema, for justification and implications see discussion in chapter six.
 
 
-
 The wider helping interactions, again while useful had drawbacks. Firsly, they were so numerous. Secondly, given the existing work of a general scope of digital making by Barron, it was not clear what I would add in terms of contribution to knowledge beyond broadly confirming it in the scope of digital game making.
 
 Instead, an area that was more targetted emerged from these areas.  
@@ -961,34 +950,30 @@ At this stage coding schemes were more mature.
 - Partial transcription of more video files -
 
 
-The coding of each extract via a selction was the process. To better aid analysis via Nvivo selections
+The coding of each extract via a selction was the process.
 
 MORE TO COME HERE
 
 
 
-### Use of Interview data
+#### Use of participant interview data
 
 Participant interview data mostly used to confirm and triangulate with video data from making sessions
 
+ANALYSIS
+
+These interviews took place at the end of P3
+
+At times the resources that were created were brought up on the screen during capture.
+
+Interviews surfaced important data about home use of games and learning relationships.
+
+These interviews allowed triangulation and confirmation of data observed in video recordings.
 
 
- ANALYSIS
-
-
-
-
-#### Participant interviews
-
-These interviews took place at the end of between P3 and P4.
-
-At times the resources that the
-
-These interviews allowed triangulation and confirmation of data observered in video recordings.
 
 **Limitations in interview data**
 
-MOVE TO CONCLUSION
 In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 

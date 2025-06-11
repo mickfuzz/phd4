@@ -42,8 +42,8 @@
     -   [Data Analysis](#data-analysis)
         -   [Rational and overall approach of data analysis
             -](#rational-and-overall-approach-of-data-analysis--)
-        -   [Iterative approach to
-            analysis](#iterative-approach-to-analysis)
+            -   [Iterative approach to
+                analysis](#iterative-approach-to-analysis)
         -   [Summary table of data analysis - HERE OR AT
             END?](#summary-table-of-data-analysis---here-or-at-end)
         -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
@@ -60,28 +60,26 @@
                 transcriptoin](#video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
             -   [Video analysis - first pass of thematic analysis /
                 coding](#video-analysis---first-pass-of-thematic-analysis-coding)
-                -   [Selection themes for thematic
-                    analsis](#selection-themes-for-thematic-analsis)
-        -   [Continuing a 3 planes
-            approach](#continuing-a-3-planes-approach)
-            -   [Coding Participant Roles and Interactions DROP
-                THIS](#coding-participant-roles-and-interactions-drop-this)
-        -   [Change of direction away from NVIVO and close thematic
-            analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
-            -   [Issues with Software](#issues-with-software)
-                -   [Original plan for Stage
-                    3](#original-plan-for-stage-3)
-        -   [S3 (stage three) data
-            analysis](#s3-stage-three-data-analysis)
-            -   [Selection of vignettes for deeper
-                analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [Continuing a 3 planes
+                approach](#continuing-a-3-planes-approach)
+            -   [Change of direction away from NVIVO and close thematic
+                analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
+            -   [Changes regarding process of selection themes for
+                thematic
+                analysis](#changes-regarding-process-of-selection-themes-for-thematic-analysis)
+                -   [Coding Participant Roles and Interactions DROP
+                    THIS](#coding-participant-roles-and-interactions-drop-this)
             -   [Revisiting the research questions based on the
                 evolution of the learning design. - REALLY EDIT
                 DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
                 -   [RQ2 - Shift from family impact to broader
                     quetions](#rq2---shift-from-family-impact-to-broader-quetions)
-        -   [S3 thematic analysis - not via coding but via
-            examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
+        -   [S3 (stage three) data
+            analysis](#s3-stage-three-data-analysis)
+            -   [Selection of vignettes for deeper
+                analysis](#selection-of-vignettes-for-deeper-analysis)
+            -   [S3 thematic analysis - not via coding but via
+                examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
             -   [The theme of use of GDPs](#the-theme-of-use-of-gdps)
             -   [A revised processes of thematic
                 analysis](#a-revised-processes-of-thematic-analysis)
@@ -92,8 +90,8 @@
                     -](#coding-impact-on-design-processes-on-learner-agency---boiled-down--)
             -   [On Final Transcription/description of
                 data](#on-final-transcriptiondescription-of-data)
-        -   [Use of Interview data](#use-of-interview-data)
-            -   [Participant interviews](#participant-interviews)
+            -   [Use of participant interview
+                data](#use-of-participant-interview-data)
             -   [What research questions are answered by what data
                 gathering and analysis processes and
                 stage](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage)
