@@ -6,16 +6,19 @@
         -   [Defining the scope and approach of the methodology of this
             research as qualitative, general and
             exploratory](#defining-the-scope-and-approach-of-the-methodology-of-this-research-as-qualitative-general-and-exploratory)
+        -   [Exploratory Nature - not set
+            goals](#exploratory-nature---not-set-goals)
+            -   [Mutuality and evolving
+                process](#mutuality-and-evolving-process)
+        -   [Authentic and ecological nature of
+            research](#authentic-and-ecological-nature-of-research)
         -   [Dual Role research and facilitator and resulting challenges
             and
             opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
-        -   [Authentic and ecological nature of research MERGE WITH
-            mutuality and
-            evolution?](#authentic-and-ecological-nature-of-research-merge-with-mutuality-and-evolution)
-            -   [Mutuality and evolving
-                process](#mutuality-and-evolving-process)
-            -   [Explored elsewhere or no space to do
-                so](#explored-elsewhere-or-no-space-to-do-so)
+        -   [Rich descriptions and holistic data
+            collection](#rich-descriptions-and-holistic-data-collection)
+        -   [Of levels of activity](#of-levels-of-activity)
+        -   [Of Tool use and pedagogy](#of-tool-use-and-pedagogy)
         -   [Guiding technical rationale guiding software
             use](#guiding-technical-rationale-guiding-software-use)
     -   [Project delivery phases and data
@@ -39,34 +42,46 @@
             -   [360 Video Processing](#video-processing)
             -   [Learnings and recommendations on processing - MERGE
                 UP](#learnings-and-recommendations-on-processing---merge-up)
+        -   [Collection of interview
+            data](#collection-of-interview-data)
+            -   [Pasted in - revise up and down via
+                merge](#pasted-in---revise-up-and-down-via-merge)
     -   [Data Analysis](#data-analysis)
         -   [Rational and overall approach of data analysis
             -](#rational-and-overall-approach-of-data-analysis--)
-            -   [Iterative approach to
-                analysis](#iterative-approach-to-analysis)
         -   [Summary table of data analysis - HERE OR AT
             END?](#summary-table-of-data-analysis---here-or-at-end)
         -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
             -   [S1 Journal analysis data](#s1-journal-analysis-data)
             -   [S1 Practitioner
                 interviews](#s1-practitioner-interviews)
+                -   [s1 Summary of themes emerging from Interviews with
+                    Participants](#s1-summary-of-themes-emerging-from-interviews-with-participants)
             -   [S1 Video analysis](#s1-video-analysis)
             -   [Initial description of video data using a spreadsheet
                 and 3 planes
                 approach](#initial-description-of-video-data-using-a-spreadsheet-and-3-planes-approach)
         -   [S2 (stage two) data analysis](#s2-stage-two-data-analysis)
-            -   [Video analysis - Transcription/description of data - 10
-                sheets of partial
-                transcriptoin](#video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
-            -   [Video analysis - first pass of thematic
-                clustering](#video-analysis---first-pass-of-thematic-clustering)
-            -   [Continuing a 3 planes
-                approach](#continuing-a-3-planes-approach)
+            -   [S2a - The original plan](#s2a---the-original-plan)
+                -   [Theory on thematic analysis and video
+                    coding](#theory-on-thematic-analysis-and-video-coding)
+            -   [S2b - Why that plan
+                changed](#s2b---why-that-plan-changed)
+                -   [S2b - Why I have NVIVO](#s2b---why-i-have-nvivo)
             -   [Change of direction away from NVIVO and close thematic
                 analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
             -   [Changes regarding process of selection themes for
                 thematic
                 analysis](#changes-regarding-process-of-selection-themes-for-thematic-analysis)
+            -   [S2c - What actually happened
+                -](#s2c---what-actually-happened--)
+                -   [s2 Video analysis - Transcription/description of
+                    data - 10 sheets of partial
+                    transcriptoin](#s2-video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
+                -   [s2 Video analysis - thematic
+                    clustering](#s2-video-analysis---thematic-clustering)
+            -   [Continuing a 3 planes
+                approach](#continuing-a-3-planes-approach)
                 -   [S2 On the value of initial clustering of themes -
                     e.g. participant roles and interactions MOVE THIS
                     ?](#s2-on-the-value-of-initial-clustering-of-themes---e.g.-participant-roles-and-interactions-move-this)
