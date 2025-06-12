@@ -194,31 +194,25 @@ Without restating the full research objectives that the research questions addre
  | **RQ3: How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?** | Longitudinal observations, interview data on identity formation & movement of FoK, community interactions | Thematic clustering of learner agency development, relational mapping of participant engagement, narrative analysis | CHAT (identity within activity systems), DBR (participant-driven refinement), communities of practice framework |
 
 
- Before
 
 ### Defining the scope and approach of the methodology of this research as qualitative, general and exploratory
 
-This study is qualitative, general, and exploratory in nature, guided by Design-Based Research (DBR) and Cultural-Historical Activity Theory (CHAT). By prioritising iterative, context-sensitive inquiry, it investigates learning environments in CGD&P without imposing rigid experimental constraints. The methodology is designed to capture contradictions, pedagogical tensions, and learner agency, using qualitative analysis to develop inclusive and adaptive pedagogies. Findings aim to enhance educational practices, rather than produce universally generalisable conclusions.
+This study is qualitative, general, and exploratory in nature, guided by design based research (DBR) and cultural historical activity theory (CHAT). By prioritising iterative, context-sensitive inquiry, it investigates learning environments in CGD&P without imposing rigid experimental constraints. The methodology is designed to capture contradictions, pedagogical tensions, and learner agency, using qualitative analysis to develop inclusive and adaptive pedagogies. Findings aim to enhance educational practices, rather than produce universally generalisable conclusions.
 
+### Exploratory Nature - not set goals
 
+Generally auth-ethnographic, uncertain aims, evolving research objectives,
 
-### Dual Role research and facilitator and resulting challenges and opportunities
+The limitation of studies here from Denner et al?
 
-Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
-While my dual role presented challenges, such as balancing intervention with observation and mitigating positionality biases, it also created opportunities for deep engagement and pedagogical innovation. This dual role enables the exploration of tensions and contradictions in CGD&P while ensuring that pedagogical interventions evolve dynamically alongside participant needs.
+In relation to the limitations, I embrace more detail on means, over ends.
 
-Work on bias, or needs of the research process, addressed particularly by Cole in 5thD work.
+This is justifible, as the evolution of a new methodology would have been hampered by setting end goals and strict evaluation, also the setting did not suit that.
 
-Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
+Also to do with my practice, which can be resistant to self observations (see later section on challenges of dual role)
 
+Some things have remained constant.
 
-### Authentic and ecological nature of research MERGE WITH mutuality and evolution?
-
-This impacts on recruitment, and on what data is gathered.
-
-The process of describing the varied sources of influence on the evolving design, learning as movements, horizontal etc.
-
-This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecological approach to research. The motivation for embedding pedagogical interventions within a real-world CGD&P learning environment, is to produce findings are contextually valid and socially relevant.
 
 
 #### Mutuality and evolving process
@@ -238,12 +232,38 @@ This process is evident in the evolution of the learning design and resources. F
 
 My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process. The following three chapters of research findings in part describe these transformations and emerging repetoires in more detail.
 
+### Authentic and ecological nature of research
+
+This impacts on recruitment, and on what data is gathered.
+
+The process of describing the varied sources of influence on the evolving design, learning as movements, horizontal etc.
+
+This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecological approach to research. The motivation for embedding pedagogical interventions within a real-world CGD&P learning environment, is to produce findings are contextually valid and socially relevant.
+
+This impacted recruitment of participants and the nature of the session that ran. fitting in to an general pattern of external home ed provision, aligning with half terms.
 
 
-#### Explored elsewhere or no space to do so
+### Dual Role research and facilitator and resulting challenges and opportunities
 
-**Some design tensions explored in Ch.5 and not here**
-Finding in other chapters, in particular the design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions.
+Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
+While my dual role presented challenges, such as balancing intervention with observation and mitigating positionality biases, it also created opportunities for deep engagement and pedagogical innovation. This dual role enables the exploration of tensions and contradictions in CGD&P while ensuring that pedagogical interventions evolve dynamically alongside participant needs.
+
+Work on bias, or needs of the research process, addressed particularly by Cole in 5thD work.
+
+Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
+
+
+### Rich descriptions and holistic data collection
+
+### Of levels of activity
+
+3 planes, following the close nature of activty that Rogoff described in CoL research.
+
+requiring community and  individual capturing via video. Which also bring challenges explored in this chapter .
+
+### Of Tool use and pedagogy
+
+Design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions.
 
 
 ### Guiding technical rationale guiding software use
