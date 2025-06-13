@@ -831,11 +831,11 @@ Bakker offers guidance in the formulation of research questions in DBR studies w
 
 Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds. This section considers some of those revisions as a way to futher explore detail of that evolutionary process.
 
-##### S2b - RQ2 - Shift from family impact to broader questions
+##### S2b - RQ2 & 3 - Importance of GDPs already present and shift to agency
 
-The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
+The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context. The Object of research here being in part the widening and clarifying research objectives.
 
-Object of research here being in part the widenign research objectives
+GDPs were clearly emerging as an important mediational strategy and one which merited more attention due to gaps in research landscape.  
 
 How can learners build agency in an evolving community of game makers?
 
