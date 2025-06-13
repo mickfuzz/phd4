@@ -763,12 +763,24 @@ Search this for keywords and find relevant journal articles.
 
 I began clustering of potential themes for analysis using 10 selected sessions and transcribing them.
 
+##### Trail process of coding and Nvivo / Vlc use
+
 I first attempted to undertake a trial process of coding screen captured sessions within Nvivo using a initial candidate of themes (which ones?)
 
 However I came into issues regarding the use of Nvivo to work with video files [vf]. Issue of video playback prevented a detailed granularity of coding. In addition the  
 
 To counter these issues, I trailed a process of creating 5 min sections as a text transcript.
+The large amount of video data in each session forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
 
+
+This trail was in part successful, word document created in the correct format could be imported into Nvivo for coding and query.
+Another reason prevented the further use of Nvivo.
+
+Driven by a requirement to cross reference the video data of 360 footage with screen capture video, I researched a process to syncronise and display both sources of video side by side on the same screen. Vlc player has the ability to play multiple files simultaneously. VLC also had flexible (and configurable) playback controls of which in comparison to Nvivo made the process of transcription much less frustrating.
+
+This was compounded by a decreased need to undertake complex queries using multiple coding schema (next section).
+
+#### s2b Change of direction away from NVIVO and close thematic analysis
 
 This process helped to get closer to the data and to :
 
@@ -776,15 +788,7 @@ This process helped to get closer to the data and to :
 - to identify roles through repeated patterns of interactions, and contrast to Barron's work
 - to reflect on the thesis questions
 
-##### S2b - Why I have NVIVO
-
-
-#### Change of direction away from NVIVO and close thematic analysis
-
-**Issues with Software**
-
-- too fiddly
-
+The process also allowed for a re-evaluation fo the original plan for coding.
 
 **Original plan for Stage 3**
 
@@ -798,15 +802,9 @@ https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/
 
 
 
-
-
-#### s2b Changes regarding process of selection themes for thematic analysis
-
-and it was at this stage of analysis that GDPs began to emerge as a key mediational strategy.
-
 **What themes were was considered but then excluded at s2**
 
-The following themes  emerged as potential themes in clustering data for later coding.
+The following themes  emerged as potential themes from LR, interview data and from initial clustering of data in Stage 1.
 
 - Elements of Computational Thinking
 - Systems Thinking Concepts
@@ -824,17 +822,35 @@ These themes which reflected possible learning outcomes in the emerging pedagogy
 
 The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
 
+#### Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
+
+<!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
+BUT WRITE FOR HERE FOR NOW -->
+
+Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
+
+Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds. This section considers some of those revisions as a way to futher explore detail of that evolutionary process.
+
+##### S2b - RQ2 - Shift from family impact to broader questions
+
+The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
+
+Object of research here being in part the widenign research objectives
+
+How can learners build agency in an evolving community of game makers?
+
+This widening of  the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community
+
+<!-- A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to  -->
+
+
+
+<!-- BE SPECIFIC? -->
+
+
 
 
 #### S2c - What actually happened -
-
-
-##### s2 Video analysis - Transcription/description of data - 10 sheets of partial transcriptoin
-
-The partial transcription of video data formed a significant part of the data analysis. The large amount of video data recorded forced a prioritisation of data to be transcribed. It also forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
-
-To aid the process of coding, I broke up analysis of  in 5 minute sections.
-
 
 
 ##### s2 Video analysis -  thematic clustering
@@ -857,7 +873,7 @@ https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/
 
 
 
-#### Continuing a 3 planes approach
+#### s2 Continuing a 3 planes approach
 
 As the process of transcription continued, I added to the document outlining meditational strategies.
 
@@ -899,7 +915,7 @@ Specifically, the following were removed from Barron's typology, parent as emplo
 
 I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type. -->
 
-#### Use of participant interview data (EARLIER IN S2? OR LATER?) & importance of process of triangulation
+#### s2 Use of participant interview data (EARLIER IN S2? OR LATER?) & importance of process of triangulation
 
 Participant interview data mostly used to confirm and triangulate with video data from making sessions
 
@@ -922,31 +938,6 @@ They were important to confirm initial researcher conclusions before a final pro
 In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 
-#### Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
-
-<!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
-BUT WRITE FOR HERE FOR NOW -->
-
-Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
-
-Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds. This section considers some of those revisions as a way to futher explore detail of that evolutionary process.
-
-##### RQ2 - Shift from family impact to broader quetions
-
-
-2. How can learners build agency in an evolving community of game makers?
-A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
-
-<!-- BE SPECIFIC? -->
-The remaining research questions guiding this study are broadly aimed  at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
-
-1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-3. How can game design patterns support the development of coding practices with novices?
-
-
-Because it suited my working practices as an educational facilitator, and in line with DBR approaches the initial design evolved from phase to phase and relied heavily on input from participants and a wider, online, open source digital production-education community [] Mozilla link / Sefton Green.
-
-The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context.
 
 
 ### S3 (stage three) data analysis
