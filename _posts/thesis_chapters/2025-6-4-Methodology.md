@@ -567,11 +567,9 @@ The overall rationale of data analysis at S1 was to
   - check the mechanical and analytical processes for the next stage of analysis
 
 
-#### S1 Journal analysis data
+#### S1 Journal analysis (and evolving resources) data
 
 My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation.
-
-
 
 
 <!-- To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. -->
@@ -625,17 +623,21 @@ The chosen interviewees represented a certain diversity in audience however as t
 The practitioner interview data helped inform the broad themes of RQ1 and RQ3.
 
 
-##### s1 Summary of themes emerging from Interviews with Participants
+##### s1 Summary of themes emerging from Interviews with Practioners
 
 MOVE THIS TO ANALYSIS - AND SIGNPOST HOW IT IMPACTED ON DESIGN IF AT ALL P4 & P5
 
-In my analysis, I have proritised data which in forms the first research question and specifically addressing barriers and tensions for both practitioners and participants which exist in this domain of activity.
+<!-- In my analysis, I have prioritised data which in forms the first research question and specifically addressing barriers and tensions for both practitioners and participants which exist in this domain of activity. -->
 
-The revision in terms of agency as a focus came in part from reflections from Dave Potts, the value and tensions surrounding competitions from Matt C, the
+Interview data from participants was particularly helpful to inform analysis of  barriers and tensions for both practitioners and participants which exist in this domain of activity.
 
-_Table of initial data addressing tension_
+The revision in terms of agency as a focus came in part from reflections from Dave Potts, the value and tensions surrounding competitions from Matt C, the importance of parental roles from Saskia Leggett, and reflections of the affordances of toolkits and use of game mechanics as a meditational strategy from James C
 
-https://docs.google.com/document/d/1aEF0EsZRe-Ovok2VP7ouYH_v-SdepnNnXFhLtj6SseU/edit
+This informed initial analysis.
+
+<!--
+**Table of initial data addressing tensions included at end of Ch.5**
+https://docs.google.com/document/d/1aEF0EsZRe-Ovok2VP7ouYH_v-SdepnNnXFhLtj6SseU/edit -->
 
 
 #### S1 Video analysis
@@ -654,70 +656,38 @@ Thus, at times I when some interactions were interesting, I would open up the sc
 <!-- - Transcription and annotation of video capture footage in parallel with 360 data
 - Coding of sections of video to both emergent themes and themes relating to the research questions. -->
 
-the init
-in an excel sheet.
+At this stage, initial observations and analysis was recorded in a spreadsheet format (using the FLOSS libre office tool and MS office equivalent).
 
-To inform prioritisation of the video data at this early stage I began to formulate some guidelines to help prioritise sessions to
+I began working with video data by dipping into it almost at random. It soon became apparent that full transcription of video data of all sessions was beyond the remit of the study. To inform **prioritisation** of the video data at this early stage I began to formulate some guidelines to help prioritise sessions which included:  a wide sampling of different sessions, more in depth previewing of a few promising sessions.
 
-Different tactics could be used,
-- a wide sampling of different sessions.
-- in depth for one sessions
+The two last 2 sessions in particular in P2 jumped out at being rich in community interaction as well as focused work.
 
-In the end somewhere between the two.
+I also sampled p3 work as well which could be characterised as more calm and focused with extensive pair work happening.
 
-2 sessions i particular
-sampling form p3 as well.
-
-To help guide the process of selecting data.
-
-I began working with video data by dipping into it almost at random. It soon became apparent that full transcription of video data of all sessions was beyond the remit of the study.
-
+A word document containing a table of broad evaluation of each sessions. This document later helped to shape that decision on what sessions merited closer attention
 
 
 #### Initial description of video data using a spreadsheet and 3 planes approach
 
-**I noted tensions and behaviours and mediational strategies**
+**This data was analysed, at a broad scale at this stage by noting tensions and behaviours, and in particular meditational strategies**
 
-SHOW AN EXTRACT OF AN EXCEL FILE - DATA - TIME - BROAD DESCRIPTION
-
-WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY.
-
-This data was analysed, at a broad scale using two broad approaches and summary spreadsheet documents
-
-**Firstly**, a word document containing a table of broad evaluation of each sessions. This document later helped to shape that decision on what sessions merited closer attention
-
-<!-- https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit# -->
-
-
-Secondly, a spreadsheet noted activity and tensions and meditational strategies as a list that emerged in initial review.
+This was undertaking within a spreadsheet noted activity and tensions and meditational strategies as a list that emerged in initial review.
 
 To help categorise these entries I using 3 planes of sociocultural activity.  Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
 
-**Justification of selecting sessions and sections for more detailed analysis**
 
-Then deciding on 8-10 video sessions warranting full coding of activity.
-This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
+SHOW AN EXTRACT OF AN EXCEL FILE - DATA - TIME - BROAD DESCRIPTION - WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY.
 
-
-Criteria  for inclusion included both practical and theoretical considerations.
-
-- Good quality recording
-- Diversity of kinds of participants, ages especially
-- Diversity of participant actions in terms of tasks being worked on
-- Diversity of kinds of pair and peer interactions
-
-I returned to the global session summary document to help inform this choice.
+<!-- https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit# -->
 
 
 
 While the three planes provided a higher level framework, specifics of the data gave greater granularity and formed I imagined / planned that later themes informed by LR would be used in the next stage of analysis.
 
 
-
-
  #### Analysis of the evolution of the programme resources created - THIS ISN'T REALLY A SECTION?
 
- WHERE ELSE COULD IT GO IF NEEDED.
+WHERE ELSE COULD IT GO IF NEEDED.
 
 Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
 
@@ -753,21 +723,52 @@ This process was very useful to address this principle question and all three su
 
 Schema for initial thematic analysis in stage two  was informed by literature review, early analysis of journal entries and  emerging observations of data in stage one
 
+
 #### S2a - The original plan
 
 
+##### s2a plan and justification of selecting sessions and sections for more detailed analysis
+
+Deciding on 8-10 video sessions warranting full coding of activity.
+This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of diffent kinds of participant interactions.
+
+Criteria  for inclusion included both practical and theoretical considerations.
+
+- Good quality recording
+- Diversity of kinds of participants, ages especially
+- Diversity of participant actions in terms of tasks being worked on
+- Diversity of kinds of pair and peer interactions
+
+I returned to the global session summary document to help inform this choice.
 
 
-##### Theory on thematic analysis and video coding
+My initial plan concerning analysis of both forms of video data and participant interview data was to undertake a process of thematic analysis and subsequent coding. Thematic analysis is a process of discovering underlying themes within data and can be carried out in varied ways. Coding involves applying the themes emerging into a set taxonomy which can be applied to the data. In the case of both textual and video data I proposed to do this using the NVIVO software [nv]
+
+##### S2a Theory on thematic analysis and video coding
 
 Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
 
+While grounded analysis involves starting with no preset themes, the kind of analysis I undertook began with some themes that had emerged from interviews with practitioners and subsequent research which is summarised in the literature of  Chapter 2.
+This decision was guided by x, who said y.
+
+The advantage of using a coding software like Nvivo is the possibilities to compare and contrast different coding schema using coding comparison queries.
+These queries within Nvivio are a potential powerful tool to identify x and y.
+
+
 Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
 
+Search this for keywords and find relevant journal articles.
 
 #### S2b - Why that plan changed  
 
-**Beginning of clustering of potential themes for analysis**
+I began clustering of potential themes for analysis using 10 selected sessions and transcribing them.
+
+I first attempted to undertake a trial process of coding screen captured sessions within Nvivo using a initial candidate of themes (which ones?)
+
+However I came into issues regarding the use of Nvivo to work with video files [vf]. Issue of video playback prevented a detailed granularity of coding. In addition the  
+
+To counter these issues, I trailed a process of creating 5 min sections as a text transcript.
+
 
 This process helped to get closer to the data and to :
 
@@ -796,7 +797,10 @@ https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/
 
 
 
-#### Changes regarding process of selection themes for thematic analysis
+
+
+
+#### s2b Changes regarding process of selection themes for thematic analysis
 
 and it was at this stage of analysis that GDPs began to emerge as a key mediational strategy.
 
@@ -929,9 +933,9 @@ Because the process of both formative intervention and DBR is exploratory with n
 
 ##### RQ2 - Shift from family impact to broader quetions
 
-A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
 
 2. How can learners build agency in an evolving community of game makers?
+A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to widen the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community, as outlined in RQ2.  
 
 <!-- BE SPECIFIC? -->
 The remaining research questions guiding this study are broadly aimed  at developing greater understanding existing and developing new the supporting mechanics of game making as a educational process, with a particular focus on the development of  agency within a CHAT perspective.
@@ -1517,3 +1521,5 @@ Foot notes.
 [^mc]:  Make code is a block based programming environment.
 [^el]: Edlab website archive has a record of this event. https://mickfuzz.github.io/edlab/index.html_p=903.html
 [^he]: Home Education Greater Manchester (Facebook group) https://www.facebook.com/groups/313791918658167, Greater Manchester Home Educators (Facebook group) https://www.facebook.com/groups/164014243270, MADCOW (Email group) a large invite only email group.
+[nv]: Nvivo software is proprietary and costly, but is provided by my University which also provides training which I attended.
+[vf]: The process was tricky due to the deficit of fine control of video playback within Nvivo. This became intolerable and clearly unsustainable for a full process.
