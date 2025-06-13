@@ -763,7 +763,7 @@ Search this for keywords and find relevant journal articles.
 
 I began clustering of potential themes for analysis using 10 selected sessions and transcribing them.
 
-##### Trail process of coding and Nvivo / Vlc use
+##### s2b Trail process of coding and Nvivo / Vlc use
 
 I first attempted to undertake a trial process of coding screen captured sessions within Nvivo using a initial candidate of themes (which ones?)
 
@@ -780,13 +780,13 @@ Driven by a requirement to cross reference the video data of 360 footage with sc
 
 This was compounded by a decreased need to undertake complex queries using multiple coding schema (next section).
 
-#### s2b Change of direction away from NVIVO and close thematic analysis
+#### s2b Change of direction away from close thematic analysis
 
-This process helped to get closer to the data and to :
+The process of initial clustering at s1 had helped to get closer to the data and to :
 
-  - start identify to  thematic analysis of the stages of design with other learning models like PBL
+- start identify to  thematic analysis of the stages of design with other learning models
 - to identify roles through repeated patterns of interactions, and contrast to Barron's work
-- to reflect on the thesis questions
+- to reflect and revise on the thesis questions
 
 The process also allowed for a re-evaluation fo the original plan for coding.
 
@@ -835,7 +835,7 @@ Because the process of both formative intervention and DBR is exploratory with n
 
 The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context. The Object of research here being in part the widening and clarifying research objectives.
 
-GDPs were clearly emerging as an important mediational strategy and one which merited more attention due to gaps in research landscape.  
+GDPs were clearly emerging as an important meditational strategy and one which merited more attention due to gaps in research landscape.  
 
 How can learners build agency in an evolving community of game makers?
 
@@ -851,7 +851,6 @@ This widening of  the scope of one of the research questions beyond impact of fa
 
 
 #### S2c - What actually happened -
-
 
 ##### s2 Video analysis -  thematic clustering
 
