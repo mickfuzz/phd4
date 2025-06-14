@@ -747,7 +747,7 @@ These themes which reflected possible learning outcomes in the emerging pedagogy
 The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
 
 
-##### S2b - Defining of thematic analysis and video coding - via Iterative Thematic Analysis.
+##### S2b - Defining of thematic analysis and video coding - via an iterative approach to thematic analysis.
 
 Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
 
