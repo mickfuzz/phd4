@@ -846,7 +846,14 @@ These themes which reflected possible learning outcomes in the emerging pedagogy
 
 The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
 
-#### S2b - Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
+
+<!-- A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to  -->
+
+
+<!-- BE SPECIFIC? -->
+
+
+#### S2c - What actually happened - Revisiting the research questions and thematic analysis process based on initial clustering
 
 <!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
 BUT WRITE FOR HERE FOR NOW -->
@@ -855,7 +862,7 @@ Bakker offers guidance in the formulation of research questions in DBR studies w
 
 Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds.
 
-##### S2b - RQ2 & 3 - Importance of GDPs already present and shift to agency
+**RQ2 & 3 - Importance of GDPs already present and shift to agency**
 
 The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context. The Object of research here being in part the widening and clarifying research objectives.
 
@@ -864,13 +871,6 @@ GDPs were clearly emerging as an important meditational strategy and one which m
 How can learners build agency in an evolving community of game makers?
 
 This widening of  the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community
-
-<!-- A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to  -->
-
-
-<!-- BE SPECIFIC? -->
-
-#### S2c - What actually happened -
 
 ##### s2 Video analysis - ongoing thematic clustering
 
@@ -888,22 +888,17 @@ Doc of thematic analysis evolution -    https://docs.google.com/document/d/19Paf
 
 Cons of this approach in general include:
 -  breaking up video timescales into 5 minute sections lessens the ability to make exact claims
-- not either a predefined
+- not using either a predefined schema or a smaller data set and grounded approach was difficult
 - trying this with a large amount of data was overwhelming at times.
 
-MOVE
 
+##### S2 On trying to create a schema - case study - e.g. participant roles and interactions
 
-##### S2 On the value of initial clustering of themes - e.g. participant roles and interactions MOVE THIS ?
+I took evolving notes on coding of roles and interactions are in an online document here.
 
-
-While I did not progress to a systematic coding of video data of  emerging themes. The process of clustering themes in preparation
-
-Evolving notes on coding of roles and interactions are in an online document here.
-
-
-
-Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
+Roles are different from interactions existing on a higher order of anaysis.
+Repeated patterns of interactions can be seen to develop into roles.
+Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
 
 For example, the work of my own staring point when coding was guided by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
 
@@ -911,9 +906,10 @@ I made adaptations which were significant in guiding later analysis . The proces
 
 - mutual nature of interaction, not focused on parental roles exclusively
 - the value of peer interaction of the community
-
-
+-
 The drawback of this approach was the fracturing of the categories which felt to me to detracted from an ability to analyse what was particularly significant about the experience in terms of the research objectives.
+
+The wider helping interactions, again while useful had drawbacks. Firsly, they were so numerous. Secondly, given the existing work of a general scope of digital making by Barron, it was not clear what I would add in terms of contribution to knowledge beyond broadly confirming it in the scope of digital game making.
 
 This led to two things
 - revising the research process to return to a more holistic approach using 3 planes
@@ -922,22 +918,21 @@ This led to two things
 
 #### s2 abandon coding  thematic analysis - not via coding but developing clustering  via examples and consolidation
 
-JUSTIFY NOT USING NVIVO - AND DOING AN OBSERVATIONAL STUDY BASED ON THE WIDER REQUIREMENTS OF THE RESEARCH QUESTIONS THAT ARE COVERING NEW GROUND RATHER THAN DRILLING DOWN O EXISTING AREAS OF PRACTICE.
 
-I deprioritised the comparative approach possible by Nvivo queries.
+By abandoning strict coding, I de-prioritised the comparative approach possible by Nvivo queries.
 
+This is justified by wanting to cover a greater amount of data, to surface novel themes and describe them in detail using a high granular approach (vignettes)
+
+
+Dropping design stages as a schema, for justification and implications see discussion in chapter six.
+
+While I did not progress to a systematic coding of video data of  emerging themes. The process of clustering themes in preparation was essential to surface the themes which did emerge for closer observations. Requiring changes to RQs and ROs
 
 Thus categories of new uses of GDP and patterns of agency development in this domain were identified in S2 via 3 planes analysis .
+
 and then described via word docs which categorised the uses of GDPs and exposed tensions in designing for learner agency (which I had not fully explored before analysis began)
 
 
-
-
-While useful, I dropping design stages as a schema, for justification and implications see discussion in chapter six.
-
-The wider helping interactions, again while useful had drawbacks. Firsly, they were so numerous. Secondly, given the existing work of a general scope of digital making by Barron, it was not clear what I would add in terms of contribution to knowledge beyond broadly confirming it in the scope of digital game making.
-
-Instead, an area that was more targetted emerged from these areas.  
 
 
 #### s2 Continuing a 3 planes approach
@@ -965,14 +960,11 @@ Thus serving two purposes, a greater level of examination, in particular to info
 
 Final clustring, and GDP categoriesation, Use of vignettes, and triangulated with interview data.
 
-#### Selection of vignettes for deeper analysis
+#### s3 - Selection of vignettes for deeper analysis
 
 - Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
 
 Used in chapters to orient the reader
-
-
-
 
 **Incorporating  movement around the room in analysis**
 
@@ -983,8 +975,6 @@ In the initial stages of transcription and description having this data was extr
 As a personal experience of describing and transcribing even thought it was a significant amount of work to synchronise and then to play both video sources side by side, the additional information really aided the description process in adding detail to the interpretations of motivations of participants.  
 
 For an example see the vignette in appendix 6.x (Suzanna and Olivia) chapter 6 which details the movement and behaviours of the child away from the computer as an example of legitimate peripheral activity.
-
-
 
 **Simple gesture analysis**
 
@@ -1035,21 +1025,26 @@ https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/
 
 
 
-#### Clustering and evaluating the theme of use of GDPs  as mediational strategies
+#### s3 Clustering and evaluating the theme of use of GDPs  as mediational strategies
 
-This is not strictly coding, instead the process followed these stage
+
+
+This is not strictly , instead the process followed these stages
 
  - identification of GDP as an important theme
  - listing of GDP mediational uses in 3 planes doc, and in 10 transcriptions
  - collation in S3 of those themes and identification in vignettes for closer study,
  - triangulation with interview data & games created
 
-The resulting data and analysis is explored in chapter 5
+The resulting data and analysis is explored in chapter 5,
 
+
+
+<!--
 I'm not sure how to introduce this.
 Perhaps don't. Instead go with overall themes in three planes.
 
-- in personal appropriation of concepts
+      - in personal appropriation of concepts
 - assisting project navigation
 - scaffolding ideation processes
 - aiding division of labour
@@ -1057,9 +1052,9 @@ Perhaps don't. Instead go with overall themes in three planes.
 - facilitating designing for others
 - GDPs used as concepts in playtesting
 - playtesting used to propagate GDPs
-- facilitating use of home knowledge via GDPS
+- facilitating use of home knowledge via GDPS -->
 
-##### Clustring of themes of design/ processes on learner agency / including learning as movement
+##### Clustering of themes of design/ processes on learner agency / including learning as movement
 
 <!-- NOTE  I would say no - too complex for coding  -->
 
@@ -1078,7 +1073,7 @@ THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
 - authenticity of tool use, especially docs and access to Community
 - authenticity of audience - and role of drama to facilitate reflection
 
-#### s2 Use of participant interview data (EARLIER IN S2? OR LATER?) & importance of process of triangulation
+#### s3 Use of participant interview data  & importance of process of triangulation
 
 Participant interview data mostly used to confirm and triangulate with video data from making sessions
 
@@ -1106,8 +1101,6 @@ HOW?  -->
 <!-- These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher. -->
 
 
-## What research questions are answered by what data gathering and analysis processes and stage - MERG THIS INTO OTHER SECTIONS
-
  <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their digital gaming practices Rafael Marques de Albuquerque
  As this is done very methodically
  -->
@@ -1116,26 +1109,8 @@ HOW?  -->
 2. How can learners build agency in an evolving community of game makers?
 3. How can game design patterns support the development of coding practices with novices? -->
 
-AT WHAT STAGE?
-Thematic analysis of video interactions and allow for a detailed examination of the social and communicative aspects identified in the research questions.
-
-**RQ1**
-
-- Both barriers and tools / processes are explored in the literature review
-- Interviews with practitioners in chapter 4 guided the design in broad principles.
-- Barriers are explored in chapter 4 on evolution of the design
-- Tools and processes in results chapters 5 and 6.
-
-**RQ2**
-
-- Interviews with participants some informal and some formal instructed directly adaptations to design
-- Analysis of video data
 
 
-**RQ3**
-
-- Interviews with participants some informal and some formal instructed directly adaptations to design
-- Analysis of video data
 
 
 ## Ethical considerations and processes
@@ -1244,8 +1219,6 @@ To make a quantitative approach work better X,Y and Z would need to be in place 
 <!-- I am guided by approaches which use video to develop both in-depth thematic analysis and broader narratives such as case studies [@derry_conducting_2010]. I use a variant of discourse analysis to explore interactions of participants captured on video recordings. Mercer and colleagues identify discourse analysis as a loose associations of methods to support linguistic analysis of interactions to identify emergent patterns [@mercer_methods_2004]. While a common pattern in classroom interactions is that of IRF, initiation (teacher), response (student) and follow up (teacher) [@sinclair_towards_1975] , the inherent assumption that a teacher will be leading an activity will not consistently be appropriate for my study; although at times a parent may take this role. Other discourse analysis frameworks that take a sociocultural approach [@lyle_investigation_1993; @phillips_beyond_1985], and specifically those from project focused studies [@hmelo-silver_facilitating_2008; @moje_maestro_2001] allow more detailed treatment of the incorporation of tools and cultural artefacts into a collective discourse. -->
 
 <!-- To avoid distraction from AT as my principle analytical framework I am in agreement with Wells (1999, p. 172) who proposes the use of AT's concepts to situate 'spoken discourse \... as one, but only one, of the semiotic tools that participants use to achieve the goals of action'. Thus Wells proposes that analysis of dialogue should take place in combination with other action not involving talk and in relation to wider activity goals. -->
-
-
 
 #### Limits of interview data_
 
