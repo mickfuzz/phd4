@@ -721,11 +721,18 @@ This process was very useful to address this principle question and all three su
 
 ### S2 (stage two) data analysis
 
+After the decision to study only p2 and p3.
+
+- choosing 10 sessions
+- consitnue spreadsheet 3 planes
+- trialling nvvo
+- coding schema , via clustering
+-
+
 Schema for initial thematic analysis in stage two  was informed by literature review, early analysis of journal entries and  emerging observations of data in stage one.
 
 
 #### S2a - The original plan
-
 
 
 ##### s2a plan and justification of selecting sessions and sections for more detailed analysis
@@ -745,25 +752,6 @@ I returned to the global session summary document to help inform this choice.
 
 My initial plan concerning analysis of both forms of video data and participant interview data was to undertake a process of thematic analysis and subsequent coding. Thematic analysis is a process of discovering underlying themes within data and can be carried out in varied ways. Coding involves applying the themes emerging into a set taxonomy which can be applied to the data. In the case of both textual and video data I proposed to do this using the NVIVO software [nv]
 
-##### S2a Theory on thematic analysis and video coding
-
-Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
-
-While grounded analysis involves starting with no preset themes, the kind of analysis I undertook began with some themes that had emerged from interviews with practitioners and subsequent research which is summarised in the literature of  Chapter 2.
-This decision was guided by x, who said y.
-
-The advantage of using a coding software like Nvivo is the possibilities to compare and contrast different coding schema using coding comparison queries.
-These queries within Nvivio are a potential powerful tool to identify x and y.
-
-
-Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
-
-Search this for keywords and find relevant journal articles.
-
-#### S2b - Why that plan changed  
-
-I began clustering of potential themes for analysis using 10 selected sessions and transcribing them.
-
 ##### s2b Trail process of coding and Nvivo / Vlc use
 
 I first attempted to undertake a trial process of coding screen captured sessions within Nvivo using a initial candidate of themes (which ones?)
@@ -781,9 +769,31 @@ Driven by a requirement to cross reference the video data of 360 footage with sc
 
 This was compounded by a decreased need to undertake complex queries using multiple coding schema (next section).
 
+
+##### S2a Theory on thematic analysis and video coding
+
+Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
+
+While grounded analysis involves starting with no preset themes, the kind of analysis I undertook began with some themes that had emerged from interviews with practitioners and subsequent research which is summarised in the literature of  Chapter 2.
+This decision was guided by x, who said y.
+
+The advantage of using a coding software like Nvivo is the possibilities to compare and contrast different coding schema using coding comparison queries.
+These queries within Nvivio are a potential powerful tool to identify x and y.
+
+
+Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
+
+Search this for keywords and find relevant journal articles.
+
+
+
+
 #### s2b Change of direction away from close thematic analysis
 
-The process of initial clustering at s1 had helped to get closer to the data and to :
+I began clustering of potential themes for analysis using 10 selected sessions and transcribing them.
+
+
+The process of initial clustering helped to get closer to the data and to :
 
 - start identify to  thematic analysis of the stages of design with other learning models
 - to identify roles through repeated patterns of interactions, and contrast to Barron's work
@@ -791,9 +801,9 @@ The process of initial clustering at s1 had helped to get closer to the data and
 
 The process also allowed for a re-evaluation fo the original plan for coding.
 
-**Original plan for Stage 3**
+**Original plan for a fuller coding of data**
 
-THE ORIGINAL PLAN FOR STAGE 3 - In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
+In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
 
 After drafts of the emerging themes were in place, these were sued to create a revised coding structure and data was recoded more systematically. .
 
