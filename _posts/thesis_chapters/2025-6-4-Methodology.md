@@ -41,8 +41,9 @@ title: 4. Methodology
         -   [Table of methods of data
             collection](#table-of-methods-of-data-collection)
         -   [Auto-ethnographic data collection via journal notes and
-            other artefacts to do with facilitation and tool
-            use](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use)
+            other artefacts to do with facilitation and tool use - VERY
+            SHORT - MOVE SOME TO
+            LATER.](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use---very-short---move-some-to-later.)
             -   [Brief of facilitation and description by Phase - but
                 this is analysis - SO MOVE OR THINK ABOUT
                 THAT.](#brief-of-facilitation-and-description-by-phase---but-this-is-analysis---so-move-or-think-about-that.)
@@ -51,8 +52,6 @@ title: 4. Methodology
         -   [Practicalities of data collection and
             processing](#practicalities-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
-            -   [Learnings and recommendations on processing - MERGE
-                UP](#learnings-and-recommendations-on-processing---merge-up)
         -   [Collection of interview
             data](#collection-of-interview-data)
             -   [Pasted in - revise up and down via
@@ -63,61 +62,59 @@ title: 4. Methodology
         -   [Summary table of data analysis - HERE OR AT
             END?](#summary-table-of-data-analysis---here-or-at-end)
         -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
-            -   [S1 Journal analysis data](#s1-journal-analysis-data)
-            -   [S1 Practitioner
-                interviews](#s1-practitioner-interviews)
-                -   [s1 Summary of themes emerging from Interviews with
-                    Participants](#s1-summary-of-themes-emerging-from-interviews-with-participants)
-            -   [S1 Video analysis](#s1-video-analysis)
+            -   [S1 Journal analysis (and evolving resources)
+                data](#s1-journal-analysis-and-evolving-resources-data)
+            -   [S1 Practitioner interviews - MAKE
+                SHORTER](#s1-practitioner-interviews---make-shorter)
+            -   [S1 Video analysis - via dipping
+                in](#s1-video-analysis---via-dipping-in)
             -   [Initial description of video data using a spreadsheet
                 and 3 planes
                 approach](#initial-description-of-video-data-using-a-spreadsheet-and-3-planes-approach)
         -   [S2 (stage two) data analysis](#s2-stage-two-data-analysis)
-            -   [S2a - The original plan](#s2a---the-original-plan)
-                -   [Theory on thematic analysis and video
-                    coding](#theory-on-thematic-analysis-and-video-coding)
-            -   [S2b - Why that plan
-                changed](#s2b---why-that-plan-changed)
-                -   [S2b - Why I have NVIVO](#s2b---why-i-have-nvivo)
-            -   [Change of direction away from NVIVO and close thematic
-                analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
-            -   [Changes regarding process of selection themes for
-                thematic
-                analysis](#changes-regarding-process-of-selection-themes-for-thematic-analysis)
-            -   [S2c - What actually happened
-                -](#s2c---what-actually-happened--)
-                -   [s2 Video analysis - Transcription/description of
-                    data - 10 sheets of partial
-                    transcriptoin](#s2-video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
-                -   [s2 Video analysis - thematic
-                    clustering](#s2-video-analysis---thematic-clustering)
-            -   [Continuing a 3 planes
-                approach](#continuing-a-3-planes-approach)
-                -   [S2 On the value of initial clustering of themes -
-                    e.g. participant roles and interactions MOVE THIS
-                    ?](#s2-on-the-value-of-initial-clustering-of-themes---e.g.-participant-roles-and-interactions-move-this)
-            -   [Use of participant interview data (EARLIER IN S2? OR
-                LATER?) & importance of process of
-                triangulation](#use-of-participant-interview-data-earlier-in-s2-or-later-importance-of-process-of-triangulation)
+            -   [S2a - The original plan regarding thematic
+                analysis](#s2a---the-original-plan-regarding-thematic-analysis)
+                -   [S2b - Defining of thematic analysis and video
+                    coding](#s2b---defining-of-thematic-analysis-and-video-coding)
+            -   [S2a Prioritisation of sessions meriting deeper analysis
+                (10?
+                )](#s2a-prioritisation-of-sessions-meriting-deeper-analysis-10)
+                -   [s2b Trail process of coding and Nvivo / Vlc
+                    use](#s2b-trail-process-of-coding-and-nvivo-vlc-use)
+            -   [s2b - Clustering of themes and later change of
+                direction away from close thematic
+                analysis](#s2b---clustering-of-themes-and-later-change-of-direction-away-from-close-thematic-analysis)
             -   [Revisiting the research questions based on the
                 evolution of the learning design. - REALLY EDIT
                 DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
-                -   [RQ2 - Shift from family impact to broader
-                    quetions](#rq2---shift-from-family-impact-to-broader-quetions)
+                -   [S2b - RQ2 & 3 - Importance of GDPs already present
+                    and shift to
+                    agency](#s2b---rq2-3---importance-of-gdps-already-present-and-shift-to-agency)
+            -   [S2c - What actually happened
+                -](#s2c---what-actually-happened--)
+                -   [s2 Video analysis - thematic
+                    clustering](#s2-video-analysis---thematic-clustering)
+                -   [S2 On the value of initial clustering of themes -
+                    e.g. participant roles and interactions MOVE THIS
+                    ?](#s2-on-the-value-of-initial-clustering-of-themes---e.g.-participant-roles-and-interactions-move-this)
+            -   [s2 abandon coding thematic analysis - not via coding
+                but developing clustering via examples and
+                consolidation](#s2-abandon-coding-thematic-analysis---not-via-coding-but-developing-clustering-via-examples-and-consolidation)
+            -   [s2 Continuing a 3 planes
+                approach](#s2-continuing-a-3-planes-approach)
         -   [S3 (stage three) data
             analysis](#s3-stage-three-data-analysis)
             -   [Selection of vignettes for deeper
                 analysis](#selection-of-vignettes-for-deeper-analysis)
-            -   [S3 thematic analysis - not via coding but via
-                examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
-            -   [A revised processes of thematic
-                analysis](#a-revised-processes-of-thematic-analysis)
             -   [Clustering and evaluating the theme of use of GDPs as
                 mediational
                 strategies](#clustering-and-evaluating-the-theme-of-use-of-gdps-as-mediational-strategies)
-                -   [Coding impact on design/ processes on learner
-                    agency - boiled down
-                    -](#coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+                -   [Clustring of themes of design/ processes on learner
+                    agency / including learning as
+                    movement](#clustring-of-themes-of-design-processes-on-learner-agency-including-learning-as-movement)
+            -   [s2 Use of participant interview data (EARLIER IN S2? OR
+                LATER?) & importance of process of
+                triangulation](#s2-use-of-participant-interview-data-earlier-in-s2-or-later-importance-of-process-of-triangulation)
     -   [What research questions are answered by what data gathering and
         analysis processes and stage - MERG THIS INTO OTHER
         SECTIONS](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage---merg-this-into-other-sections)
@@ -350,7 +347,7 @@ https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/
 | Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | After P3 |
 
 
-### Auto-ethnographic data collection via journal notes and other artefacts to do with facilitation and tool use
+### Auto-ethnographic data collection via journal notes and other artefacts to do with facilitation and tool use - VERY SHORT - MOVE SOME TO LATER.
 
 I used journal notes extensively in a notebook format and in electronic format written on a tablet. These notes involved a mix of session planning, resource planning, immediate reflections on sessions, and notes on links with existing literature.
 
@@ -373,10 +370,20 @@ Also introduce the process of Chapter 5 design narrative
 
 **Practicalities and Challenges**
 
-The process of keeping data online and available is tricky.
+_Journal data formats_
 
-For example some Thimble projects from P1 were lost when the project was discontinued.
+- Book Journal pages
+- Digital journal entries directly in response to teaching sessions
+- Other subject specific journal notes.
 
+_game data_
+
+The process of keeping game data created within  online and available is tricky.
+However, as files were HTML, js and css. Offline archives were created for later use. Helpful in case of Thimble as the project was discontinued.
+
+As of the time of writing Glitch.com, the replacement remains. A selection of games created remain here [gg].
+
+Projects created in piskel were lost, but exported data remains.
 
 **Types of input by Participants**
 
@@ -434,6 +441,9 @@ Environmental - i.e. in situ - and as a form of activity that fit within the pat
 
 While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera.
 
+
+Check viability of data at each stage of processing and movement.
+
 <!-- I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches. The very nature of working with video is time consuming. -->
 <!-- There is sometimes a danger of imagining how a new data gathering tool could be useful but then not being aware of all of the potential pitfalls which can make processing the data time consuming. Also  -->
 <!-- On a personal note, I sometimes like the challenges involved and sometimes find them infuriating. It can be like a specialist knowledge which you can use as a currency, or as a hidden knowledge that you take pride in sharing. -->
@@ -453,6 +463,9 @@ Such an attitude may involve compromises or hacking systems, software or process
 
 #### 360 Video Processing
 
+
+
+
 The processing of video and audio data of both captured screens and 360 video data and high quality audio data involved several stages yielding advantages in capturing the gestures and facial expressions of potentially all participants in one recording. It does however present challenges. While this merits further exploration a brief summary of challenges is presented here.
 
 The process involves large video files that are easily corrupted in transfer. While the files are split into 8 minute segments  but also can be confusing
@@ -466,22 +479,12 @@ The process involves large video files that are easily corrupted in transfer. Wh
 
 This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix. [A draft of which is here](https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=11432580350275268987)
 
-
-
-
-
-
 <!-- Thus original files have been retained in order to cross reference that data if it is useful. It also presents other options for analysis which are similar to much more in depth analysis of HCI research of professional set ups. While this is beyond the remit of this study, certain uses do present themselves strongly for future investigation. Particularly the study of such data to identify common mistakes or frustrations when interacting with the user interface. Such misconceptions could be addressed in direct teaching at the start of the next session. -->
 
 
 
-#### Learnings and recommendations on processing - MERGE UP
 
-The following learning and recommendations emerged from this process.
 
-Prioritise displaying time - have an old school clock under the 360 camera. For example.
-
-Check viability of data at each stage of processing and movement.
 
 
 ### Collection of interview data
@@ -553,7 +556,7 @@ AND SIMPLIFY THE TOOL USE
 | Choosing and transcribing Vignettes                        | Simultaneous view of  screen capture and 360 footage in VLC player.<br>Practitioner interviews in VLC player<br><br>4 vignettes chosen and transcribed                           | A full transcription for a limited period of time with description and commentary on non-verbal aspects of movement and gesture.<br><br>Getting deeper into the pair processes at play and a deep sense of what an individual may be experiencing.                                                                                                                                                                                |
 | Transcription of activity and conversations                | Simultaneous view of  screen capture and 360 footage.<br>Actions and extracts of conversations Recorded into a word document                                                     | For the individual / pair their activity split into 5 minute sections and recorded in a word document time coded via a grid table format.                                                                                                                                                                                                                                                                                         |
 | Exploratory Thematic Analysis                              | Video capture data and 360 data in Nvivo<br><br>8 screen capture / 360 files from 5 group sessions analysed                                                                      | This process was made complicated by the format of the data in video files and their extended length.<br>During this period activity was coded based on an evolving schema which included design cycle stages, types of participant interactions and which game elements were being worked on by participants.<br><br>                                                                                                            |
-| Revised Thematic Analysis                                  | Video capture data and 360 data in Nvivo<br><br>12 screen capture / 360 files from 5 group sessions analysed                                                                     | A revised thematic analysis driven by the different use of game design patterns GDPs and dimensions of participant agency.                                                                                                                                                                                                                                                                                              
+| Revised Thematic Analysis                                  | Video capture data and 360 data in Nvivo<br><br>12 screen capture / 360 files from 5 group sessions analysed                                                                     | A revised thematic analysis driven by the different use of game design patterns GDPs and dimensions of participant agency.                                                                                     
 
 ### S1 (stage one) data analysis
 
@@ -569,28 +572,22 @@ The overall rationale of data analysis at S1 was to
 
 #### S1 Journal analysis (and evolving resources) data
 
+The process was driven by the requirement to create a summary of the facilitation process and some of the initial contextual tensions for a book chapter  [@chesterman_game_2023], and for a map of learning dimensions created during the D3 development period for online resources [^lm].
+
+**Journal notes**
+
 My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation.
 
 
-<!-- To be able to effectively analyse these diverse sources, I will need to prioritise critical moments in depth which illuminate key themes. I explore some of the emerging themes and criteria for selection which incidents to explore in depth in the results section below. -->
+
 
 The process of analysis of journal notes and resulting resources required a different approach from that of video data.
-
-The following resources were examined
-
-- Book Journal pages
-- Digital journal entries directly in response to teaching sessions
-
-
-<!-- - Linear support book and print outs to support participants in sessions
-- Additional 3M model resources to help navigation and reflection and gameful approaches -->
 
 Journal Notes were used in the following ways: (perhaps code this)
 
 - as a reflective tool after sessions
 - as a note pad to plan resource creation
 - as a sketch pad to explore the relationship between Concepts being explored and existing game making frameworks
-- as a
 
 The quantity of data prevented extensive and detailed coding using thematic analysis.
 
@@ -598,49 +595,64 @@ Instead, observations are triangulated with data from lit review to expose key t
 
 My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests.
 
+**Resources created as part of game making**
+
+Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
+
+There were two main types of resources created.
+
+ - supporting teaching / facilitation RESOURCES
+ - games and game and assets created
+
+The documentation and other forms of support evolved during each phase -
+
+Chapter four explores the evolution of these documentation and learning resources created in response to participant need using AT as a tool for analysis of the existing and emerging contradictions in activity.
+
+Examples?
+<!-- - Linear support book and print outs to support participants in sessions
+- Additional 3M model resources to help navigation and reflection and gameful approaches -->
+
+
 **RQS**
+
 The journal notes contributed to understandings of all research questions but in particular the sketching out of evolving tensions in workshops sessions and frequently revised resources.
 
+The principle RQ addresses the formation of a game-making community.
+
+This process is co-constituted by planners, facilitators, parents and children. The scope is broad, but a unifying factor is my own role as a facilitator and researcher. Thus journal notes are limited in terms of reliability and bias, they were vital in this first stage to set the overall direction for subsequent analysis.
 
 <!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
 
 
+#### S1 Practitioner interviews - MAKE SHORTER
 
-
-#### S1 Practitioner interviews
-
-Practitioner data used in stage one of analysis along with themes from the literature review to identify themes for
-
-Four practitioner interviews were a rich source of thinking to help develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions experienced by practitioners and participants in similar creative coding projects.
+Practitioner data used in stage one of analysis along with themes from the literature review to identify themes for possible analysis.
 
 The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
 
-The interview process  has impacted in the overall direction of the work in by surfacing and focusing my attention on some key themes including: the helping roles of parents in digital technology; the role of competitions in after-schools settings, the value of surfacing and valuing the interests of participants in digital making, and x.
-
 The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone.
+
+Interview data from participants was particularly helpful to inform analysis of  barriers and tensions for both practitioners and participants which exist in this domain of creative coding projects.
+
+- helped develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions
+
+Themes included: agency as a focus came in part from reflections from Dave Potts in particular the value of surfacing and valuing the interests of participants in digital making,  the value and tensions surrounding competitions in non-formal settings from Matt C, the importance of the helping roles of parents in digital technology from Saskia Leggett, and reflections of the affordances of toolkits and use of game mechanics as a meditational strategy from James C
+
 
 **RQS**
 The practitioner interview data helped inform the broad themes of RQ1 and RQ3.
 
 
-##### s1 Summary of themes emerging from Interviews with Practioners
-
-MOVE THIS TO ANALYSIS - AND SIGNPOST HOW IT IMPACTED ON DESIGN IF AT ALL P4 & P5
-
 <!-- In my analysis, I have prioritised data which in forms the first research question and specifically addressing barriers and tensions for both practitioners and participants which exist in this domain of activity. -->
 
-Interview data from participants was particularly helpful to inform analysis of  barriers and tensions for both practitioners and participants which exist in this domain of activity.
 
-The revision in terms of agency as a focus came in part from reflections from Dave Potts, the value and tensions surrounding competitions from Matt C, the importance of parental roles from Saskia Leggett, and reflections of the affordances of toolkits and use of game mechanics as a meditational strategy from James C
-
-This informed initial analysis.
 
 <!--
 **Table of initial data addressing tensions included at end of Ch.5**
 https://docs.google.com/document/d/1aEF0EsZRe-Ovok2VP7ouYH_v-SdepnNnXFhLtj6SseU/edit -->
 
 
-#### S1 Video analysis
+#### S1 Video analysis - via dipping in
 
 Stage one involved initial broad analysis of the  video recording observations. The rationale was to get a sense of the quality and characteristics of the data and to begin evaluation of how much video data to examine in what level of detail.  
 
@@ -655,17 +667,12 @@ At this stage I took notes in my data analysis diary on the practical issues ari
 <!-- - Transcription and annotation of video capture footage in parallel with 360 data
 - Coding of sections of video to both emergent themes and themes relating to the research questions. -->
 
+Evaluation at this stage confirmed that full transcription of video data of all sessions was beyond the remit of the study.
 
+And that P2 and P3 contained the most useful data to inform the research objectives.
 
-Evalutation at this stage confirmed that full transcription of video data of all sessions was beyond the remit of the study. To inform **prioritisation** of the video data at this early stage I began to formulate some guidelines to help prioritise sessions which included:  a wide sampling of different sessions, more in depth previewing of a few promising sessions.
-
-The two last 2 sessions in particular in P2 jumped out at being rich in community interaction as well as focused work.
-
-I also sampled p3 work as well which could be characterised as more calm and focused with extensive pair work happening.
-
-A word document containing a table of broad evaluation of each sessions. This document later helped to shape that decision on what sessions merited closer attention
-
-In addition, some initial observations and analysis of participant behaviour was recorded in a spreadsheet format (using the FLOSS libre office tool and MS office equivalent).
+Some initial observations and analysis of participant behaviour was recorded in a spreadsheet format (using the FLOSS libre office tool and MS office equivalent).
+(LINK TO 3 PLANES)
 
 
 #### Initial description of video data using a spreadsheet and 3 planes approach
@@ -686,29 +693,6 @@ SHOW AN EXTRACT OF AN EXCEL FILE - DATA - TIME - BROAD DESCRIPTION - WHY NOT GRO
 While the three planes provided a higher level framework, specifics of the data gave greater granularity and formed I imagined / planned that later themes informed by LR would be used in the next stage of analysis.
 
 
-#### Analysis of the evolution of the programme resources created - THIS ISN'T REALLY A SECTION?
-
-WHERE ELSE COULD IT GO IF NEEDED.
-
-Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
-
- There were two main types of resources created.
-
- - supporting teaching / facilitation RESOURCES
- - games and game and assets created
-
- The documentation and other forms of support evolved during each phase -
-
- I did not try to collect any personal notes that participants used for planning. And this was minimal for many participants.
-
- Chapter four explores the evolution of these resources using AT as a tool for analysis of the existing and emerging contradictions in activity.
-
-
-**RQS**
-
-The prinicple RQx addresses the formation of a game-making community. This process is co-constituted by planners, facilitators, parents and children.
-
-This process was very useful to address this principle question and all three sub questions, at a broad level.
 
 
 <!-- Rather than taking a grounded approach this data was analysed using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data. -->
@@ -721,36 +705,82 @@ This process was very useful to address this principle question and all three su
 
 ### S2 (stage two) data analysis
 
-After the decision to study only p2 and p3.
-
+- original plan for thematic analysis
 - choosing 10 sessions
-- consitnue spreadsheet 3 planes
 - trialling nvvo
 - coding schema , via clustering
--
-
-Schema for initial thematic analysis in stage two  was informed by literature review, early analysis of journal entries and  emerging observations of data in stage one.
+- continue work on  spreadsheet 3 planes, breaking out into separate word documents
 
 
-#### S2a - The original plan
+#### S2a - The original plan regarding thematic analysis
+
+The imagined end point for the process was a full coding of as much data as possible using full transcription of session and a coding scheme which emerged from thematic analysis using the Nvivo software. A candidate schema for initial thematic analysis had emerged from s1 from literature review, early analysis of journal entries, participant interviews, and dipping in to video data.
+
+My initial plan concerning analysis of both forms of video data and participant interview data was to undertake a process of thematic analysis and subsequent coding. Thematic analysis is a process of discovering underlying themes within data and can be carried out in varied ways. Coding involves applying the themes emerging into a set taxonomy which can be applied to the data. In the case of both textual and video data I proposed to do this using the NVIVO software [nv]
 
 
-##### s2a plan and justification of selecting sessions and sections for more detailed analysis
+##### S2b - Defining of thematic analysis and video coding
 
-Deciding on 8-10 video sessions warranting full coding of activity.
-This was based on the following factors, quality of recording, how much activity, richness of interactions, a range of different kinds of participant interactions.
+Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
 
-Criteria  for inclusion included both practical and theoretical considerations.
+What is is in a nutshell
 
+
+Reasons to undertake thematic analysis and subsequent coding of  data include: to surface issue of relevance within data, to discover relationships and causality or at least correlation, and to organise instances of themes or behaviours so that the researcher can come back to get a summary of where that has been identified in the data.
+
+
+from - https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit?tab=t.0#bookmark=id.k9kvu0182p6u
+
+
+The practical process of running queries on data gathered via video requires selecting parts of that video and coding to a coding schema that has emerged from previous process of thematic clustering, revision and then formalisation into a schema. There is a possibility that the process may evolve understanding which may subsequently evolve schema and thus require re-coding.
+
+
+
+While grounded analysis involves starting with no preset themes, the kind of analysis I undertook began with some themes that had emerged from interviews with practitioners and subsequent research which is summarised in the literature of  Chapter 2.
+This decision was guided by x, who said y.
+
+The advantage of using a coding software like Nvivo is the possibilities to compare and contrast different coding schema using coding comparison queries.
+These queries within Nvivio are a potential powerful tool to identify x and y.
+
+
+<!-- NEXT WORK ON THEMATIC ANALYSIS
+Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
+
+Search this for keywords and find relevant journal articles.
+ -->
+
+#### S2a Prioritisation of sessions meriting deeper analysis (10? )
+
+**initial stage**
+
+S1 process had indicated that full analysis of all sessions not possible. A first step was to prioritise some of the session to trial a S2 process.
+
+To inform **prioritisation** of the video data at this early stage I began to formulate some guidelines to help prioritise sessions which included:  a wide sampling of different sessions, more in depth previewing of a few promising sessions.
+
+
+**justification of selecting sessions and sections for more detailed analysis**
+
+A word document containing a table of broad evaluation of the characteristics each sessions  helped to shape that decision on what sessions merited closer attention
+
+Criteria  for inclusion included both practical and theoretical considerations, including: quality of recording, how much activity, richness of interactions, a range of different kinds of participant interactions.
+
+MERGE UP
 - Good quality recording
 - Diversity of kinds of participants, ages especially
 - Diversity of participant actions in terms of tasks being worked on
 - Diversity of kinds of pair and peer interactions
 
-I returned to the global session summary document to help inform this choice.
+
+The two last 2 sessions in particular in P2 jumped out at being rich in community interaction as well as focused work.  I coded 2 screen capture videos of  from each of those  in more depth.
+(Mark and Ed and Susanna and Tehillah)
+
+**Later stage**
+
+Increasing number of sessions based on capactity
+
+I also sampled p3 work as well which could be characterised as more calm and focused with extensive pair work happening.
 
 
-My initial plan concerning analysis of both forms of video data and participant interview data was to undertake a process of thematic analysis and subsequent coding. Thematic analysis is a process of discovering underlying themes within data and can be carried out in varied ways. Coding involves applying the themes emerging into a set taxonomy which can be applied to the data. In the case of both textual and video data I proposed to do this using the NVIVO software [nv]
 
 ##### s2b Trail process of coding and Nvivo / Vlc use
 
@@ -761,37 +791,27 @@ However I came into issues regarding the use of Nvivo to work with video files [
 To counter these issues, I trailed a process of creating 5 min sections as a text transcript.
 The large amount of video data in each session forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
 
-
 This trail was in part successful, word document created in the correct format could be imported into Nvivo for coding and query.
 Another reason prevented the further use of Nvivo.
 
 Driven by a requirement to cross reference the video data of 360 footage with screen capture video, I researched a process to syncronise and display both sources of video side by side on the same screen. Vlc player has the ability to play multiple files simultaneously. VLC also had flexible (and configurable) playback controls of which in comparison to Nvivo made the process of transcription much less frustrating.
 
-This was compounded by a decreased need to undertake complex queries using multiple coding schema (next section).
+**Practicalities**
+
+I some sessions I attempted to have a clock displayed within view of the 360 camera. However, this was not always practical.
+
+Prioritise displaying time - have an old school clock under the 360 camera. For example.
+
+**Implications**
+
+The complications of video data coding in terms of granularity forced a reevaluation in imagined procedure.
+
+Given that a systematic and granular process would be difficult, how necessary would  complex queries using multiple coding schema within Nvivo be. In other words would the gain justify the pain?
 
 
-##### S2a Theory on thematic analysis and video coding
-
-Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
-
-While grounded analysis involves starting with no preset themes, the kind of analysis I undertook began with some themes that had emerged from interviews with practitioners and subsequent research which is summarised in the literature of  Chapter 2.
-This decision was guided by x, who said y.
-
-The advantage of using a coding software like Nvivo is the possibilities to compare and contrast different coding schema using coding comparison queries.
-These queries within Nvivio are a potential powerful tool to identify x and y.
-
-
-Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
-
-Search this for keywords and find relevant journal articles.
-
-
-
-
-#### s2b Change of direction away from close thematic analysis
+#### s2b - Clustering of themes and later change of direction away from close thematic analysis
 
 I began clustering of potential themes for analysis using 10 selected sessions and transcribing them.
-
 
 The process of initial clustering helped to get closer to the data and to :
 
@@ -801,14 +821,9 @@ The process of initial clustering helped to get closer to the data and to :
 
 The process also allowed for a re-evaluation fo the original plan for coding.
 
-**Original plan for a fuller coding of data**
+<!-- **Original plan for a fuller coding of data**
 
-In the final stage, previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis.
-
-After drafts of the emerging themes were in place, these were sued to create a revised coding structure and data was recoded more systematically. .
-
-**Integrate the thoughts here**
-https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit#bookmark=id.k9kvu0182p6u
+I had planned  previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis. -->
 
 
 **What themes were was considered but then excluded at s2**
@@ -831,14 +846,14 @@ These themes which reflected possible learning outcomes in the emerging pedagogy
 
 The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
 
-#### Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
+#### S2b - Revisiting the research questions based on the evolution of the learning design. - REALLY EDIT DOWN
 
 <!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
 BUT WRITE FOR HERE FOR NOW -->
 
 Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
 
-Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds. This section considers some of those revisions as a way to futher explore detail of that evolutionary process.
+Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds.
 
 ##### S2b - RQ2 & 3 - Importance of GDPs already present and shift to agency
 
@@ -853,36 +868,30 @@ This widening of  the scope of one of the research questions beyond impact of fa
 <!-- A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to  -->
 
 
-
 <!-- BE SPECIFIC? -->
-
-
-
 
 #### S2c - What actually happened -
 
-##### s2 Video analysis -  thematic clustering
+##### s2 Video analysis - ongoing thematic clustering
+
+I returned to the  partially transcription of the video capture segments in word documents using the 5 minute segments originally created for importation into Nvivo.
+
+This had pros and cons. Pros include:
+
+-  opening up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
+- some sections clearly suited being transcribed in more details based on themes of interest, and the value of detail on gesture analysis also added. I kept a note of these time period and later used them as vignettes.
+- Notes on the emerging themes could be kept in a sketchy text form within sections of word documents, and in tandem, notes could be added to a word document which outlines emerging thoughts on coding schema from themes and existing framworks which could inform coding process.
 
 
-Video coded in segments in word -
-In this level, the rough coding involved by breaking up video timescales into 5 minute sections lessens the ability to make exact claims however for this study it opens up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
+Doc of thematic analysis evolution -    https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
 
 
-Describing different grades and pass overs of the video data.
+Cons of this approach in general include:
+-  breaking up video timescales into 5 minute sections lessens the ability to make exact claims
+- not either a predefined
+- trying this with a large amount of data was overwhelming at times.
 
-
-- sections coded and described in 5 minute chunks
-- themes of interest identified - in relation to evolving RQs  -  to create evolving drafts of the emerging themes
-- some sections transcribed in more details based in themes, more detail on gesture analysis also added
-
-NOTE - this document outlines thoughts on existing framworks which could inform coding process.
-https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/edit#heading=h.3565tm76nud9
-
-
-
-
-
-
+MOVE
 
 
 ##### S2 On the value of initial clustering of themes - e.g. participant roles and interactions MOVE THIS ?
@@ -892,7 +901,6 @@ While I did not progress to a systematic coding of video data of  emerging theme
 
 Evolving notes on coding of roles and interactions are in an online document here.
 
-Excel doc -    https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
 
 
 Roles are different from interactions existing on a higher order of anaysis. Repeated patterns of interactions can be seen to develop into roles. Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
@@ -962,6 +970,8 @@ Final clustring, and GDP categoriesation, Use of vignettes, and triangulated wit
 - Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
 
 Used in chapters to orient the reader
+
+
 
 
 **Incorporating  movement around the room in analysis**
@@ -1505,10 +1515,11 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 ## Footnotes
 
 
-Foot notes.
 
 [^mc]:  Make code is a block based programming environment.
 [^el]: Edlab website archive has a record of this event. https://mickfuzz.github.io/edlab/index.html_p=903.html
 [^he]: Home Education Greater Manchester (Facebook group) https://www.facebook.com/groups/313791918658167, Greater Manchester Home Educators (Facebook group) https://www.facebook.com/groups/164014243270, MADCOW (Email group) a large invite only email group.
 [nv]: Nvivo software is proprietary and costly, but is provided by my University which also provides training which I attended.
 [vf]: The process was tricky due to the deficit of fine control of video playback within Nvivo. This became intolerable and clearly unsustainable for a full process.
+[lm]: In appendix and online as part of the D3 Make code resources here. https://mickfuzz.github.io/makecode-platformer-101/learningDimensions
+[gg]: Glitch games and manual page - https://glitch.com/@glitch-game-club

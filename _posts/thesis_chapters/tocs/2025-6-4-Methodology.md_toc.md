@@ -30,8 +30,9 @@
         -   [Table of methods of data
             collection](#table-of-methods-of-data-collection)
         -   [Auto-ethnographic data collection via journal notes and
-            other artefacts to do with facilitation and tool
-            use](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use)
+            other artefacts to do with facilitation and tool use - VERY
+            SHORT - MOVE SOME TO
+            LATER.](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use---very-short---move-some-to-later.)
             -   [Brief of facilitation and description by Phase - but
                 this is analysis - SO MOVE OR THINK ABOUT
                 THAT.](#brief-of-facilitation-and-description-by-phase---but-this-is-analysis---so-move-or-think-about-that.)
@@ -40,8 +41,6 @@
         -   [Practicalities of data collection and
             processing](#practicalities-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
-            -   [Learnings and recommendations on processing - MERGE
-                UP](#learnings-and-recommendations-on-processing---merge-up)
         -   [Collection of interview
             data](#collection-of-interview-data)
             -   [Pasted in - revise up and down via
@@ -52,61 +51,59 @@
         -   [Summary table of data analysis - HERE OR AT
             END?](#summary-table-of-data-analysis---here-or-at-end)
         -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
-            -   [S1 Journal analysis data](#s1-journal-analysis-data)
-            -   [S1 Practitioner
-                interviews](#s1-practitioner-interviews)
-                -   [s1 Summary of themes emerging from Interviews with
-                    Participants](#s1-summary-of-themes-emerging-from-interviews-with-participants)
-            -   [S1 Video analysis](#s1-video-analysis)
+            -   [S1 Journal analysis (and evolving resources)
+                data](#s1-journal-analysis-and-evolving-resources-data)
+            -   [S1 Practitioner interviews - MAKE
+                SHORTER](#s1-practitioner-interviews---make-shorter)
+            -   [S1 Video analysis - via dipping
+                in](#s1-video-analysis---via-dipping-in)
             -   [Initial description of video data using a spreadsheet
                 and 3 planes
                 approach](#initial-description-of-video-data-using-a-spreadsheet-and-3-planes-approach)
         -   [S2 (stage two) data analysis](#s2-stage-two-data-analysis)
-            -   [S2a - The original plan](#s2a---the-original-plan)
-                -   [Theory on thematic analysis and video
-                    coding](#theory-on-thematic-analysis-and-video-coding)
-            -   [S2b - Why that plan
-                changed](#s2b---why-that-plan-changed)
-                -   [S2b - Why I have NVIVO](#s2b---why-i-have-nvivo)
-            -   [Change of direction away from NVIVO and close thematic
-                analysis](#change-of-direction-away-from-nvivo-and-close-thematic-analysis)
-            -   [Changes regarding process of selection themes for
-                thematic
-                analysis](#changes-regarding-process-of-selection-themes-for-thematic-analysis)
-            -   [S2c - What actually happened
-                -](#s2c---what-actually-happened--)
-                -   [s2 Video analysis - Transcription/description of
-                    data - 10 sheets of partial
-                    transcriptoin](#s2-video-analysis---transcriptiondescription-of-data---10-sheets-of-partial-transcriptoin)
-                -   [s2 Video analysis - thematic
-                    clustering](#s2-video-analysis---thematic-clustering)
-            -   [Continuing a 3 planes
-                approach](#continuing-a-3-planes-approach)
-                -   [S2 On the value of initial clustering of themes -
-                    e.g. participant roles and interactions MOVE THIS
-                    ?](#s2-on-the-value-of-initial-clustering-of-themes---e.g.-participant-roles-and-interactions-move-this)
-            -   [Use of participant interview data (EARLIER IN S2? OR
-                LATER?) & importance of process of
-                triangulation](#use-of-participant-interview-data-earlier-in-s2-or-later-importance-of-process-of-triangulation)
+            -   [S2a - The original plan regarding thematic
+                analysis](#s2a---the-original-plan-regarding-thematic-analysis)
+                -   [S2b - Defining of thematic analysis and video
+                    coding](#s2b---defining-of-thematic-analysis-and-video-coding)
+            -   [S2a Prioritisation of sessions meriting deeper analysis
+                (10?
+                )](#s2a-prioritisation-of-sessions-meriting-deeper-analysis-10)
+                -   [s2b Trail process of coding and Nvivo / Vlc
+                    use](#s2b-trail-process-of-coding-and-nvivo-vlc-use)
+            -   [s2b - Clustering of themes and later change of
+                direction away from close thematic
+                analysis](#s2b---clustering-of-themes-and-later-change-of-direction-away-from-close-thematic-analysis)
             -   [Revisiting the research questions based on the
                 evolution of the learning design. - REALLY EDIT
                 DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
-                -   [RQ2 - Shift from family impact to broader
-                    quetions](#rq2---shift-from-family-impact-to-broader-quetions)
+                -   [S2b - RQ2 & 3 - Importance of GDPs already present
+                    and shift to
+                    agency](#s2b---rq2-3---importance-of-gdps-already-present-and-shift-to-agency)
+            -   [S2c - What actually happened
+                -](#s2c---what-actually-happened--)
+                -   [s2 Video analysis - thematic
+                    clustering](#s2-video-analysis---thematic-clustering)
+                -   [S2 On the value of initial clustering of themes -
+                    e.g. participant roles and interactions MOVE THIS
+                    ?](#s2-on-the-value-of-initial-clustering-of-themes---e.g.-participant-roles-and-interactions-move-this)
+            -   [s2 abandon coding thematic analysis - not via coding
+                but developing clustering via examples and
+                consolidation](#s2-abandon-coding-thematic-analysis---not-via-coding-but-developing-clustering-via-examples-and-consolidation)
+            -   [s2 Continuing a 3 planes
+                approach](#s2-continuing-a-3-planes-approach)
         -   [S3 (stage three) data
             analysis](#s3-stage-three-data-analysis)
             -   [Selection of vignettes for deeper
                 analysis](#selection-of-vignettes-for-deeper-analysis)
-            -   [S3 thematic analysis - not via coding but via
-                examples](#s3-thematic-analysis---not-via-coding-but-via-examples)
-            -   [A revised processes of thematic
-                analysis](#a-revised-processes-of-thematic-analysis)
             -   [Clustering and evaluating the theme of use of GDPs as
                 mediational
                 strategies](#clustering-and-evaluating-the-theme-of-use-of-gdps-as-mediational-strategies)
-                -   [Coding impact on design/ processes on learner
-                    agency - boiled down
-                    -](#coding-impact-on-design-processes-on-learner-agency---boiled-down--)
+                -   [Clustring of themes of design/ processes on learner
+                    agency / including learning as
+                    movement](#clustring-of-themes-of-design-processes-on-learner-agency-including-learning-as-movement)
+            -   [s2 Use of participant interview data (EARLIER IN S2? OR
+                LATER?) & importance of process of
+                triangulation](#s2-use-of-participant-interview-data-earlier-in-s2-or-later-importance-of-process-of-triangulation)
     -   [What research questions are answered by what data gathering and
         analysis processes and stage - MERG THIS INTO OTHER
         SECTIONS](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage---merg-this-into-other-sections)
