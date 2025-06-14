@@ -871,11 +871,6 @@ https://docs.google.com/document/d/1ARce8w_31RXRZ_f5X1HyijJZkaGaX3K8y3QvKkaVgiA/
 
 
 
-#### s2 Continuing a 3 planes approach
-
-As the process of transcription continued, I added to the document outlining meditational strategies.
-
-The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
 
 
 
@@ -907,32 +902,18 @@ This led to two things
 - revisiting the research questions and objectives to reflect the emerging sense of what was important.
 
 
-<!-- when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
-
-Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
-
-I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type. -->
-
-
-#### abandon coding  thematic analysis - not via coding but via examples
+#### s2 abandon coding  thematic analysis - not via coding but developing clustering  via examples and consolidation
 
 JUSTIFY NOT USING NVIVO - AND DOING AN OBSERVATIONAL STUDY BASED ON THE WIDER REQUIREMENTS OF THE RESEARCH QUESTIONS THAT ARE COVERING NEW GROUND RATHER THAN DRILLING DOWN O EXISTING AREAS OF PRACTICE.
 
-As the research is so open in scope and even the general themes were not precise in the early coding stages, this justifies decision to x y.
-
-Thus categories of new uses of GDP and patterns of agency development in this domain were identified in the following way.
-And then described in the following ways.
-
-This brings us to the topic of strengths and limitations of the research approach.
+I deprioritised the comparative approach possible by Nvivo queries.
 
 
-#### A revised processes of thematic analysis
+Thus categories of new uses of GDP and patterns of agency development in this domain were identified in S2 via 3 planes analysis .
+and then described via word docs which categorised the uses of GDPs and exposed tensions in designing for learner agency (which I had not fully explored before analysis began)
 
-What was really needed - Prioritising the selection of data and quick reading of it in nvivo
 
-Complexities - thus rejecting comparative approach.
 
-After data analysis in stage one. The following revisions were made in overall schema of coding.
 
 While useful, I dropping design stages as a schema, for justification and implications see discussion in chapter six.
 
@@ -940,6 +921,19 @@ The wider helping interactions, again while useful had drawbacks. Firsly, they w
 
 Instead, an area that was more targetted emerged from these areas.  
 
+
+#### s2 Continuing a 3 planes approach
+
+As the process of transcription continued, I added to the document outlining meditational strategies.
+
+The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
+
+
+<!-- when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
+
+Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
+
+I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type. -->
 
 
 
