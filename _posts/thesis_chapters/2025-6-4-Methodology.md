@@ -558,7 +558,7 @@ AND SIMPLIFY THE TOOL USE
 | Exploratory Thematic Analysis                              | Video capture data and 360 data in Nvivo<br><br>8 screen capture / 360 files from 5 group sessions analysed                                                                      | This process was made complicated by the format of the data in video files and their extended length.<br>During this period activity was coded based on an evolving schema which included design cycle stages, types of participant interactions and which game elements were being worked on by participants.<br><br>                                                                                                            |
 | Revised Thematic Analysis                                  | Video capture data and 360 data in Nvivo<br><br>12 screen capture / 360 files from 5 group sessions analysed                                                                     | A revised thematic analysis driven by the different use of game design patterns GDPs and dimensions of participant agency.                                                                                     
 
-### S1 (stage one) data analysis
+### S1 (stage one) - expansive stage of data analysis
 
 
 <!-- These interviews are not explored greatly in the course of the analysis thesis as the key emergent themes were not explored in depth by those participants as while they were working in similar areas, they did not address game making explicitly.  -->
@@ -577,9 +577,6 @@ The process was driven by the requirement to create a summary of the facilitatio
 **Journal notes**
 
 My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation.
-
-
-
 
 The process of analysis of journal notes and resulting resources required a different approach from that of video data.
 
@@ -624,7 +621,7 @@ This process is co-constituted by planners, facilitators, parents and children. 
 <!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
 
 
-#### S1 Practitioner interviews - MAKE SHORTER
+#### S1 Practitioner interviews
 
 Practitioner data used in stage one of analysis along with themes from the literature review to identify themes for possible analysis.
 
@@ -652,7 +649,7 @@ The practitioner interview data helped inform the broad themes of RQ1 and RQ3.
 https://docs.google.com/document/d/1aEF0EsZRe-Ovok2VP7ouYH_v-SdepnNnXFhLtj6SseU/edit -->
 
 
-#### S1 Video analysis - via dipping in
+#### S1 - Initial video analysis - dipping a toe in
 
 Stage one involved initial broad analysis of the  video recording observations. The rationale was to get a sense of the quality and characteristics of the data and to begin evaluation of how much video data to examine in what level of detail.  
 
@@ -703,7 +700,7 @@ While the three planes provided a higher level framework, specifics of the data 
 <!-- While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions. -->
 
 
-### S2 (stage two) data analysis
+### S2 (stage two) - exploratory phase data analysis
 
 - original plan for thematic analysis
 - choosing 10 sessions
@@ -714,17 +711,47 @@ While the three planes provided a higher level framework, specifics of the data 
 
 #### S2a - The original plan regarding thematic analysis
 
-The imagined end point for the process was a full coding of as much data as possible using full transcription of session and a coding scheme which emerged from thematic analysis using the Nvivo software. A candidate schema for initial thematic analysis had emerged from s1 from literature review, early analysis of journal entries, participant interviews, and dipping in to video data.
+The imagined end point for the process was a full coding of as much data as possible using full transcription of session and a coding scheme which emerged from thematic analysis using the Nvivo software.
+
+This would involve a mixed methods approach, with some quantitive data involved created by a systematic thematic coding of video data allowing time spend.
+
 
 My initial plan concerning analysis of both forms of video data and participant interview data was to undertake a process of thematic analysis and subsequent coding. Thematic analysis is a process of discovering underlying themes within data and can be carried out in varied ways. Coding involves applying the themes emerging into a set taxonomy which can be applied to the data. In the case of both textual and video data I proposed to do this using the NVIVO software [nv]
 
+This section will outline the rationale behind a shift to drop such the quantitative approach, thus signifying a shift from mixed methods to a purely qualitative approach.
 
-##### S2b - Defining of thematic analysis and video coding
+
+**What themes were was considered but then excluded at s2**
+
+A candidate schema for initial thematic analysis had emerged from s1 from literature review, early analysis of journal entries, participant interviews, and dipping in to video data.
+
+This schema included the following broad categories.
+
+
+The following themes  emerged as potential themes from LR, interview data and from initial clustering of data in Stage 1.
+
+- Elements of Computational Thinking
+- Systems Thinking Concepts
+- Design cycle stages
+- Participant roles and interactions
+- Types of Gameplay Design Patterns (MDA)
+
+Some of the themes were discarded relatively early in the clustering process, other remained for an extended time until a larger shift in thinking occurred.
+
+Computational thinking and systems thinking were discarded relatively quickly in this process for the following reasons.
+There is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate. Systems thinking was promising however the data in P2 and P3 which became a chief focus of this study was not as rich in this area as later P4 and P5 data.
+
+These themes which reflected possible learning outcomes in the emerging pedagogy, were dropped partly following a decision to de-prioritise the applicability of this research to formal settings, allowing a greater focus on non-formal settings and processes.
+
+
+The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
+
+
+##### S2b - Defining of thematic analysis and video coding - via Iterative Thematic Analysis.
 
 Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
 
-What is is in a nutshell
-
+What it is in a nutshell. And what are the common stages.
 
 Reasons to undertake thematic analysis and subsequent coding of  data include: to surface issue of relevance within data, to discover relationships and causality or at least correlation, and to organise instances of themes or behaviours so that the researcher can come back to get a summary of where that has been identified in the data.
 
@@ -825,26 +852,6 @@ The process also allowed for a re-evaluation fo the original plan for coding.
 
 I had planned  previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis. -->
 
-
-**What themes were was considered but then excluded at s2**
-
-The following themes  emerged as potential themes from LR, interview data and from initial clustering of data in Stage 1.
-
-- Elements of Computational Thinking
-- Systems Thinking Concepts
-- Design cycle stages
-- Participant roles and interactions
-- Types of Gameplay Design Patterns (MDA)
-
-Some of the themes were discarded relatively early in the clustering process, other remained for an extended time until a larger shift in thinking occurred.
-
-Computational thinking and systems thinking were discarded relatively quickly in this process for the following reasons.
-There is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate. Systems thinking was promising however the data in P2 and P3 which became a chief focus of this study was not as rich in this area as later P4 and P5 data.
-
-These themes which reflected possible learning outcomes in the emerging pedagogy, were dropped partly following a decision to de-prioritise the applicability of this research to formal settings, allowing a greater focus on non-formal settings and processes.
-
-
-The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
 
 
 <!-- A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to  -->
@@ -950,7 +957,7 @@ I judged it appropriate to and less complex to analyse and code the interaction 
 
 
 
-### S3 (stage three) data analysis
+### S3 (stage three) - Consolidation stage of data analysis
 
 Stage three progressed to a finer level of analysis with data selected for a greater granularity of
 
@@ -978,32 +985,15 @@ For an example see the vignette in appendix 6.x (Suzanna and Olivia) chapter 6 w
 
 **Simple gesture analysis**
 
-In some exchanges, 360 data was vital to explain spoken word.
+Feedback from a Ricardo Nemirovsky a review at the RD2 stage in response to the sharing of a prototypical vignette prompted a greater incorporation of gesture analysis[@nemirovsky_gesture_2012; @nemirovsky_conversations_2021]
 
-This helped clarify some things that were unclear from audio and screen capture data.
+It is limited here to broad scope and therefore does not address x and y
 
+At times gestures helped clarify some things that were unclear from audio and screen capture data.
 
-For example, deictic referencing, where unclear statements were clafied with pointing or other gestures was common. Such gesture were used often  to clarify game movements on screen, or in one case a software procedure of cropping an image.
+In some exchanges, 360 data was vital to disambiguate spoken word interactions. In particular, in deictic verbal referencing, where unclear statements were clarified with pointing or other gestures was common.
 
-
-
-<!-- Previous nested one
-
-Cultural
-    	◦ GDPs and the emergence of gameplay concepts and practices through Playtesting
-    	◦ GDPs propagation through peer activity leading from Playtesting
-    	◦ GDP used to allow exploration of home funds of knowledge
-    	◦ Use of Help and Documentation related to GDP
-• The use of GDPs examined from an interpersonal focus
-    	◦ GDPs used to facilitate prioritisation
-    	◦ GDPs aiding the process of division of labour
-    	◦ GDPs facilitating designing for others
-    	◦ GDP driving adoption of technical processes
-• The use of GDPs explored from a personal focus
-    	◦ GDPs used to support debugging and the product revision process
-    	◦ Use of GDP when demonstrating personal understandings in community activity
-    	◦ GDP as a way to surface Computational Thinking and Systems Concepts -->
-
+Gestures were also used often to communicate planned  game movements on screen, or for other on-screen actions or procedures, e.g in Vignette x, indication of action of cropping an image.
 
 
 
@@ -1024,54 +1014,6 @@ https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/
 <!-- Thus using MS Excel as a simple way to collate data without translation seems appropriate. -->
 
 
-
-#### s3 Clustering and evaluating the theme of use of GDPs  as mediational strategies
-
-
-
-This is not strictly , instead the process followed these stages
-
- - identification of GDP as an important theme
- - listing of GDP mediational uses in 3 planes doc, and in 10 transcriptions
- - collation in S3 of those themes and identification in vignettes for closer study,
- - triangulation with interview data & games created
-
-The resulting data and analysis is explored in chapter 5,
-
-
-
-<!--
-I'm not sure how to introduce this.
-Perhaps don't. Instead go with overall themes in three planes.
-
-      - in personal appropriation of concepts
-- assisting project navigation
-- scaffolding ideation processes
-- aiding division of labour
-- GDPs in technical processes
-- facilitating designing for others
-- GDPs used as concepts in playtesting
-- playtesting used to propagate GDPs
-- facilitating use of home knowledge via GDPS -->
-
-##### Clustering of themes of design/ processes on learner agency / including learning as movement
-
-<!-- NOTE  I would say no - too complex for coding  -->
-
-REMOVED AS PROPOSAL BUT INSTEAD HOW TO ADDRESS THIS?
-
-FIND ANOTHER FRAMEWORK FOR AGENCY AND CODE TO THAT.
-
-Answering RQ - on pedagogical resources / agency / use of GDPs
-
-THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
 
 #### s3 Use of participant interview data  & importance of process of triangulation
 
@@ -1096,6 +1038,54 @@ They were important to confirm initial researcher conclusions before a final pro
 In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
 
 
+#### s3 - Clustering and deepening the analysis of GDPs (as mediational strategies)
+
+
+This is not strictly , instead the process followed these stages
+
+ - identification of GDP as an important theme
+ - listing of GDP mediational uses in 3 planes doc, and in 10 transcriptions
+ - collation in S3 of those themes and identification in vignettes for closer study,
+ - triangulation with interview data & games created
+
+The resulting data and analysis is explored in chapter 6,
+
+In addition additional analysis using the model of PRIMM, semantic waves and LOA  developed  in Ch.7
+
+
+<!--
+I'm not sure how to introduce this.
+Perhaps don't. Instead go with overall themes in three planes.
+
+      - in personal appropriation of concepts
+- assisting project navigation
+- scaffolding ideation processes
+- aiding division of labour
+- GDPs in technical processes
+- facilitating designing for others
+- GDPs used as concepts in playtesting
+- playtesting used to propagate GDPs
+- facilitating use of home knowledge via GDPS -->
+
+##### Clustering and deepening the analysis of design/ processes on learner agency / including learning as movement
+
+<!-- NOTE  I would say no - too complex for coding  -->
+
+REMOVED AS PROPOSAL BUT INSTEAD HOW TO ADDRESS THIS?
+
+FIND ANOTHER FRAMEWORK FOR AGENCY AND CODE TO THAT.
+
+Answering RQ - on pedagogical resources / agency / use of GDPs
+
+THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especially docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
+
 <!-- In this process, tensions emerged which impacted my framing and understandings of the research questions.
 HOW?  -->
 <!-- These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher. -->
@@ -1111,7 +1101,11 @@ HOW?  -->
 
 
 
+#### Evolution of a conceptual model of learning
 
+Analysis also involved developing a conceptual model for learning with agency development and movement between learning spaces at its root.
+
+This is developed and advanced in Ch.7
 
 ## Ethical considerations and processes
 
