@@ -227,15 +227,13 @@ Some things have remained constant.
 
 
 
-#### Mutuality and evolving process
+#### Mutuality and evolving process - MOVE SOME TO DISCUSSION OF THE CHAPTER?
 
 Turning the learning design encountered by participants, I have worked with young learners, local families and undergraduate student helpers to co-create a game making design via iterative phases of rapidly evolving interventions most closely resembling a DBR process.
 
 <!-- If found the work of Rogoff in particular to research community oriented processes particularly illuminating -->
 
 The importance of context, historicity and cultural factors are particularly relevant for this intervention in a non-formal educational context with diverse stakeholder.
-
-
 
 The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
 
@@ -265,20 +263,24 @@ Work on bias, or needs of the research process, addressed particularly by Cole i
 Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
 
 
-### Rich descriptions and holistic data collection
+###  general utility  (Rich descriptions & holistic data collection)
 
-### Of levels of activity
+MAKE REESARCH WIDELY USEFUL... and replicable
+
+THIS IS A BIT OF ASHIFT FROM THE ORIGINAL INTENT OF THIS SECTION, RICH DESCRIPTIONS OF X AND Y.
+
+**utility of rich descriptions of Of levels of activity**
 
 3 planes, following the close nature of activty that Rogoff described in CoL research.
 
 requiring community and  individual capturing via video. Which also bring challenges explored in this chapter .
 
-### Of Tool use and pedagogy
+**Of Tool use and pedagogy**
 
 Design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions.
 
 
-### Guiding technical rationale guiding software use
+**Guiding technical rationale guiding software use**
 
 A guiding principle here is to use an ideally FLOSS toolset or if not practical to use non-specialist software available within or outside the university and free or low cost. This in line with the principle of software sustainability principles [@crouch_software_2013] in general, and in particular to allow the replicability of research not only by fellow researchers but by practitioners [@bonneel_code_2020]. Thus applying to two dimensions of replication of research methodology here, that of research and facilitation of project sessions.
 
@@ -702,14 +704,14 @@ While the three planes provided a higher level framework, specifics of the data 
 
 ### S2 (stage two) - exploratory phase data analysis
 
-- original plan for thematic analysis
+- original plan for quant thematic analysis
 - choosing 10 sessions
 - trialling nvvo
 - coding schema , via clustering
 - continue work on  spreadsheet 3 planes, breaking out into separate word documents
 
 
-#### S2a - The original plan regarding thematic analysis
+#### S2a - The original plan regarding quantative thematic analysis
 
 The imagined end point for the process was a full coding of as much data as possible using full transcription of session and a coding scheme which emerged from thematic analysis using the Nvivo software.
 
