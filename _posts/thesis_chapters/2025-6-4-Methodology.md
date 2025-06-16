@@ -144,6 +144,11 @@ title: 4. Methodology
 
 ## Introduction
 
+This chapter sets out the methodological approach underpinning this study, building directly from the theoretical commitments explored in Chapter 3. Drawing on the principles of activity theory  and design-based research (DBR), this research was designed as an iterative, situated process embedded in a real-world, non-formal learning environment. Rather than applying a fixed method to a controlled setting, the study developed responsively, shaped by the complex interplay of context, participant input, and pedagogical experimentation.
+
+
+
+**Original**
 This chapter builds on the theoretical concepts explored in the previous chapter to explain how they are put into practice using a specific methodology to study the evolution of a game making community and the mutual creation of a new community-based pedagogy. In this chapter I cover the use of video recordings, participant interviews, and analysis of observational journal entries and resulting learning resources to achieve the systemic analysis previously outlined as typical of activity theory and CHAT-aligned design based reasearch (DBR).
 
 The methodology of the data collection and analysis process is informed by cultural historical approaches.
