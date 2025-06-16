@@ -211,7 +211,6 @@ Also to do with my practice, which can be resistant to self observations (see la
 Some things have remained constant.
 
 
-
 #### Iterative process with participant input
 
 **Mutuality and evolving process**
@@ -220,10 +219,35 @@ MOVE SOME TO DISCUSSION OF THE CHAPTER?
 
 I worked with young learners, local families and undergraduate student helpers to co-create a game making design via iterative phases of rapidly evolving interventions. The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
 
-This process is evident in the evolution of the learning design and resources. For example, the trialling of the coding environment and starting templated occurred over the course of two years and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians. Input took varied forms. Direct input was through help requests made by participants and feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
-My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process. The following three chapters of research findings in part describe these transformations and emerging repetoires in more detail.
+
+### General utility  (Rich descriptions & holistic data collection)
+
+MAKE REESARCH WIDELY USEFUL... and replicable
+
+THIS IS A BIT OF ASHIFT FROM THE ORIGINAL INTENT OF THIS SECTION, RICH DESCRIPTIONS OF X AND Y.
+
+The theme of utility of research is common in DBR and motivates the ecological focus.
+
+stemming from Ann Brown's [@brown_design_1992] initial call to action.
+Bakker and Penuel
+
+
+**utility of rich descriptions of Of levels of activity**
+
+3 planes, following the close nature of activty that Rogoff described in CoL research.
+
+requiring community and  individual capturing via video. Which also bring challenges explored in this chapter .
+
+**Of Tool use and pedagogy**
+
+Design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions.
+
+
+**Guiding technical rationale guiding software use**
+
+A guiding principle here is to use an ideally FLOSS toolset or if not practical to use non-specialist software available within or outside the university and free or low cost. This in line with the principle of software sustainability principles [@crouch_software_2013] in general, and in particular to allow the replicability of research not only by fellow researchers but by practitioners [@bonneel_code_2020]. Thus applying to two dimensions of replication of research methodology here, that of research and facilitation of project sessions.
 
 ### Authentic and ecological nature of research
 
@@ -245,39 +269,19 @@ This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecolog
 
 
 
-### General utility  (Rich descriptions & holistic data collection)
-
-MAKE REESARCH WIDELY USEFUL... and replicable
-
-THIS IS A BIT OF ASHIFT FROM THE ORIGINAL INTENT OF THIS SECTION, RICH DESCRIPTIONS OF X AND Y.
-
-**utility of rich descriptions of Of levels of activity**
-
-3 planes, following the close nature of activty that Rogoff described in CoL research.
-
-requiring community and  individual capturing via video. Which also bring challenges explored in this chapter .
-
-**Of Tool use and pedagogy**
-
-Design narrative of Chapter 5, explore the rationale for the selection, creation and adaptation of both existing and novel tools and processes in each stage in line with the driving research questions.
-
-
-**Guiding technical rationale guiding software use**
-
-A guiding principle here is to use an ideally FLOSS toolset or if not practical to use non-specialist software available within or outside the university and free or low cost. This in line with the principle of software sustainability principles [@crouch_software_2013] in general, and in particular to allow the replicability of research not only by fellow researchers but by practitioners [@bonneel_code_2020]. Thus applying to two dimensions of replication of research methodology here, that of research and facilitation of project sessions.
-
-
 
 
 ### Dual Role research and facilitator and resulting challenges and opportunities
 
 Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
 
-TAS relevant, activist stance.
+My role as a facilitator included recognising and supporting the emergence of a repertoire of varied emergent practices in the responses of participants, and then to support these practices with suitable tools and resources. In this way, I support participants to build agency in their transformation of learning process. The following three chapters of research findings in part describe these transformations and emerging repetoires in more detail.
 
 While my dual role presented challenges, such as balancing intervention with observation and mitigating positionality biases, it also created opportunities for deep engagement and pedagogical innovation. This dual role enables the exploration of tensions and contradictions in CGD&P while ensuring that pedagogical interventions evolve dynamically alongside participant needs.
 
 Work on bias, or needs of the research process, addressed particularly by Cole in 5thD work.
+
+TAS relevant, activist stance.
 
 Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
 
@@ -338,11 +342,16 @@ The process of creating resources also occurred in phases which had input from p
 
 **Types of input by Participants**
 
+
+
+This an iterative approach is evident in the evolution of the learning design and resources. For example, the trialling of the coding environment and starting templated occurred over and extended period and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians. Input took varied forms.
+
+Direct input was through help requests made by participants and feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
 Direct input was through requests and informal feedback and structured end-of-course interviews.
 
 Indirect input was also at play in the form on the games participants created, my research journal entries on my interactions with and observations of participants.
-
-
 
 
 <!-- D1 and D2:
@@ -578,6 +587,10 @@ Also open encouraging methodological flexibility based on emerging insights rath
 
 
 #### S1 Journal analysis (and evolving resources) data
+
+Journal analysis provided a foundational perspective on facilitation processes and early thematic tensions, contributing to the development of early, external publications  [@chesterman_game_2023; @chesterman_design_2023; @chesterman_keeping_2023] and mapping evolving pedagogical dimensions within online resources. Given the breadth of journal data, a comprehensive thematic analysis and exhaustive coding was in practical; instead, insights were triangulated with findings from the literature review to expose key themes and contradictions within the evolving pedagogy. Rogoff’s (1995) three planes of sociocultural activity were particularly useful here, allowing reflections on facilitation to be categorised across personal, interpersonal, and institutional dimensions, a technique further refined by Morcom (2014).
+
+
 
 The process was driven by the requirement to create a summary of the facilitation process and some of the initial contextual tensions for a book chapter  [@chesterman_game_2023], and for a map of learning dimensions created during the D3 development period for online resources [^lm].
 

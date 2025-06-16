@@ -441,7 +441,7 @@ Barab and Squire [-@barab_design-based_2004] describe the inherent _messiness_ o
 
 ## Putting AT to work, variations and synthesis in interventionist CHAT research
 
-This section
+This section COULD MOVE TO CH. 3 
 
 While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings. This section explores the variations between key approaches, relevant to this thesis. Specifically it describes applications of DBR, Change Labs and Living Labs, and social design based experiments (SDBEs).
 
