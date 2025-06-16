@@ -153,53 +153,53 @@ The analytical process developed over three broad stages. In the early phase, jo
 
 <!-- As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors. -->
 <!-- The depth justifies smaller data size and depth of analysis. -->
-### Defining Scope and Approach
 
-This chapter outlines a methodological approach grounded in the general principles of formative intervention and design-based research (DBR), drawing on specific techniques from social design-based experiments (SDBE) and design-based implementation research (DBIR) \[@penuel_design-based_2021].
-
-While the previous chapter established the theoretical framework and research questions, this chapter connects those questions more directly to methods, providing a simplified mapping of how the research questions informed data collection, analysis, and theoretical framing:
-
-**RQ1**: *What contradictions emerged during participation in CGD&P activities, and how were they addressed via an innovative pedagogy?*  
-Data were drawn from video observations, participant and practitioner interviews, facilitator reflections, and gameplay interactions. These were analysed through systemic tension mapping and activity system analysis, using cultural-historical activity theory to frame contradictions as drivers of expansive transformation.
-
-**RQ2**: *How can a collection of game design patterns support CGD&P, particularly regarding abstract and concrete dimensions of existing pedagogies?*  
-Data included gameplay documentation, screen capture analysis, and participant reflections on pattern use. Thematic analysis focused on mediation through design patterns and how these related to shifts in learning activity. Framing drew on the mediational lens of CHAT and the pedagogical scaffolding emphasis of DBR.
-
-**RQ3**: *How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?*  
-A longitudinal dataset of community interactions, interviews, and field notes was analysed through thematic clustering, relational mapping, and narrative analysis. This was informed by DBR’s emphasis on iterative refinement and CHAT’s view of identity formation in situated activity.
-
-### A Qualitative, General, and Exploratory Approach
-
-This study is qualitative, general, and exploratory in nature, shaped by DBR and CHAT. It adopts an iterative, context-sensitive approach to understanding learning environments in CGD&P, avoiding rigid experimental constraints. The design seeks to reveal pedagogical tensions, contradictions, and shifts in learner agency. The goal is not to produce universally generalisable outcomes but to generate inclusive, situated knowledge that can inform adaptive educational practices.
-
-Rather than starting with fixed aims, the inquiry evolved through mutual engagement with participants and an openness to emergent goals. This orientation is justified both by the nature of the setting (non-formal, collaborative, and often resistant to conventional evaluation) and by the desire to avoid prematurely foreclosing what kinds of pedagogical or methodological innovations might arise. While certain features remained consistent throughout, the process was fundamentally shaped by what unfolded during iterative cycles of engagement.
-
-### Iterative Development with Participant Input
-
-The research was co-developed through collaboration with young learners, their families, and undergraduate student helpers. Over time, iterative design phases were informed by participant feedback, emergent needs, and reflection on practice. This collaborative shaping of both tools and pedagogy reflects established principles in participatory research \[@iversen_computational_2018-1; @iivari_critical_2017], DBR \[@barab_design-based_2004], and formative interventions \[@cole_fifth_2006; @blunden_formative_2023].
-
-Participant input took multiple forms: direct feedback in interviews and structured activities, observations of gameplay and design behaviour, and artefacts produced in workshops. The ongoing trialling and adjustment of software environments, templates, and resources took place over two years, involving graduate trainees, colleagues, and parent volunteers. These iterative changes are documented throughout the study and explored further in Chapters 5 to 7.
-
-### Rich Descriptions and Holistic Data
-
-The study aimed to provide thick, descriptive accounts of learning in CGD&P across multiple levels of activity. Informed by Rogoff’s three planes of analysis in communities of learners, data collection included both individual and group-level video capture, journal notes, screen recordings, and design artefacts. These layered sources enabled analysis of how learning processes unfolded across time, tools, and interactions. This approach also brought challenges, particularly in managing and interpreting complex video data, which are discussed later in this chapter.
-
-The commitment to rich description is not just analytical but practical. The findings are intended to inform both researchers and practitioners. Following Ann Brown’s original call for DBR to be useful in real-world contexts \[@brown_design_1992], and later work by Bakker and Penuel, this research prioritises design decisions and software use that are replicable. FLOSS or freely available tools were used wherever feasible, following software sustainability principles \[@crouch_software_2013], and ensuring that both the pedagogical design and research methodology can be adopted or adapted by others \[@bonneel_code_2020].
-
-### Authentic and Ecological Orientation
-
-The research was embedded in a real-world, non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible. These factors also brought an authenticity that aligns with ecosystem models of learning design \[@barnett_ecosystem_2019] and situated learning ontologies, where value is created through contextually resonant pedagogical engagement.
-
-### Researcher–Facilitator Dual Role
-
-My role as both researcher and facilitator was central to the methodological design. Each data collection session was also a workshop, planned and adapted to meet the varied needs of participants. While this dual role introduced challenges such as balancing intervention with observation and recognising positionality, it also provided opportunities for sustained engagement, flexible design, and a clearer view of pedagogical evolution in action.
-
-As explored in Fifth Dimension work by Cole and others, this researcher-practitioner stance invites critical reflection on the ethics, logistics, and value of practice-based inquiry. Throughout the process, I aimed to recognise and support emergent participant practices, using tools and scaffolds that could adapt dynamically. These choices are revisited across the following findings chapters, which trace how participants responded to, reshaped, and extended the learning environment.
+## Defining Scope & Approach
 
 
-## previous bits
+<!-- Following the more general demands of the process of studying a novel, emerging non-formal learning process addressed in the previous chapter and the research questions some key themes merit attention in this chapter.
+
+While the are addressed in specific terms in data collection and analysis, they are summarised at the start in relation to the theoretical framework of Chapter 3. -->
+
+In terms of a research process, this chapter describes a methodological approach based on the general principles of formative intervention, design based research and more specific techniques from social design based experiments  SDBE and Design-Based Implementation Research (DBIR) [@penuel_design-based_2021].
+
+INCLUDE CITATIONS?
+
+Without restating the full research objectives that the research questions address, the following simplified summary of the RQs in relation to the overall approach will help frame the contents of this chapter.
+
+
+ | **Research Question (RQ)** | **Data Collection Methods** | **Data Analysis Approach** | **Theoretical Framing** |
+ |----------------------------|----------------------------|----------------------------|-------------------------|
+ | **RQ1: What contradictions emerged during participation in CGD&P activities, and how were they addressed via an innovative pedagogy?** | Video observations, participant & practitioner interviews, facilitator reflections, gameplay interactions | Systemic analysis of tensions, activity system analysis (contradictions as drivers of changes in learning resources), | CHAT (third-generation activity theory), expansive learning, contradictions as sources of transformation |
+ | **RQ2: How can a collection of game design patterns support CGD&P, particularly regarding abstract and concrete dimensions of existing pedagogies?** | Gameplay documentation, screen capture analysis, participant reflections on GDP use | Coding gameplay interactions, thematic analysis of GDP mediation, comparison of abstract/concrete learning patterns | Mediational tools in CHAT, pedagogical scaffolding through GDPs, DBR iterative refinement |
+ | **RQ3: How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?** | Longitudinal observations, interview data on identity formation & movement of FoK, community interactions | Thematic clustering of learner agency development, relational mapping of participant engagement, narrative analysis | CHAT (identity within activity systems), DBR (participant-driven refinement), communities of practice framework |
+
+
+
+### Defining the scope and approach of the methodology of this research as qualitative, general and exploratory
 
 This study is qualitative, general, and exploratory in nature, guided by design based research (DBR) and cultural historical activity theory (CHAT). By prioritising iterative, context-sensitive inquiry, it investigates learning environments in CGD&P without imposing rigid experimental constraints. The methodology is designed to capture contradictions, pedagogical tensions, and learner agency, using qualitative analysis to develop inclusive and adaptive pedagogies. Findings aim to enhance educational practices, rather than produce universally generalisable conclusions.
+
+### Exploratory Nature - not set goals
+
+Generally auth-ethnographic, uncertain aims, evolving research objectives,
+
+The limitation of studies here from Denner et al?
+
+In relation to the limitations, I embrace more detail on means, over ends.
+
+This is justifible, as the evolution of a new methodology would have been hampered by setting end goals and strict evaluation, also the setting did not suit that.
+
+Also to do with my practice, which can be resistant to self observations (see later section on challenges of dual role)
+
+Some things have remained constant.
+
+
+#### Iterative process with participant input
+
+**Mutuality and evolving process**
+
+MOVE SOME TO DISCUSSION OF THE CHAPTER?
 
 I worked with young learners, local families and undergraduate student helpers to co-create a game making design via iterative phases of rapidly evolving interventions. The value of participant input to intervention-based research in the domain of technology use is well explored via participatory research  [@iversen_computational_2018-1; @iivari_critical_2017], design-based approaches [@papavlasopoulou_exploring_2019; @barab_design-based_2004] and formative interventions [@cole_fifth_2006; @blunden_formative_2023]. In line with these research perspectives, the development of the tools and processes used by participants in this study emerged in response to my analysis of participant experience and their direct feedback.
 
