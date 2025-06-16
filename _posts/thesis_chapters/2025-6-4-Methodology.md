@@ -570,6 +570,13 @@ The overall rationale of data analysis at S1 was to
   - check the mechanical and analytical processes for the next stage of analysis
 
 
+Stage one of data analysis was designed as an expansive review, focusing on the suitability of collected data in answering the research questions and research objectives. This phase aimed to determine which datasets merited deeper analysis and refine the methodological processes for subsequent analytical stages.
+
+The exploratory nature of this stage aligns with approaches of to iterative refinement in design-based research (DBR) [@bikner-ahsbahs_introduction_2015-1],
+
+Also open encouraging methodological flexibility based on emerging insights rather than rigid initial coding structures.
+
+
 #### S1 Journal analysis (and evolving resources) data
 
 The process was driven by the requirement to create a summary of the facilitation process and some of the initial contextual tensions for a book chapter  [@chesterman_game_2023], and for a map of learning dimensions created during the D3 development period for online resources [^lm].
@@ -1306,7 +1313,7 @@ The experimental team consisted of home educating partents, young people familie
 
 The presence of parents in particulary, adds significant opportunities. I propose that this informal and exploratory setting with the participation of engaged parents, young people and their access to family learning dynamics and wider expertise provides potentially fertile ground in the generation of resources and domain practices. I explore the potential of this theme in more detail in the conclusion of this thesis.  
 
-## Limitations of overall methodology 
+## Limitations of overall methodology
 
 Address limitations of methodology and RQs here so that I don't have to in the conclusion.
 
