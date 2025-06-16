@@ -322,14 +322,52 @@ The following section  provides an overview of activity use by phase briefly det
 
 <!-- [Summary Table of phases](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
 
-| Name    | Date                        | Number of sessions | Number of participants           | Description                                                                                                             |
-| ------- | --------------------------- | ------------------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Phase 1 | Oct 2018 - Dec 2019| 10                 | 13 (5 adults and 8 young people) | phase of exploratory, co-creative game making, participants started with no set plan or toolset and were asked to plan and make a game in three larger groups of 5-6 participants of mixed ages|
-| Phase 2 | Jan - Feb 2019    | 6   | 18       | ?|
-| Phase 3 | May 2019 | 5    | 14  | ?|
-| Phase 4 | Nov - Dec 2019      | 6   | 14 | ?
-| Phase 5 | Jan - Feb 2020   | 5    | 8  | ?|
 
+| Name | Number of sessions | Number of participants [key] | Description of participant activities generating data  |
+| ---- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| P1   | 10                 | 5 (p) + 8 (c)                                       |  Exploratory phase, 3 larger groups of 4-5 participants of mixed ages,  paper planning notes from early weeks, basic text based coding tool set, data from asset creation tools collected with game code . See Appendix t.x  |
+| P2   | 6   | 8 (p) + 11 (c) + 4 (sh) | Using game code template, smaller groups encouraged, more limited asset creating toolset, extensive supporting documentation used. See Appendix t.x  |
+| P3   | 5 | 4 (p) + 8 (c) + 1 (sh)    | same toolset as P2 in addition a drama process and side missions . See Appendix t.x  |
+| P4   | 6   | 4 (p) + 7 (c)  | MakeCode block based toolset introduced, . See Appendix t.x  |
+| P5   | 5  | 3 (p) + 3 (c)  | More limited participants, MakeCode block based toolset introduced, . See Appendix t.x  |
+
+
+#### Brief description of mutuality of design and the development stages in phase table.
+
+APPENDIX LINK OUT
+
+The process of creating resources also occurred in phases which had input from participants.
+
+
+**Types of input by Participants**
+
+Direct input was through requests and informal feedback and structured end-of-course interviews.
+
+Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+
+D1 and D2:
+
+D1 Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015].
+
+D2 - One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources.
+
+
+In terms of the sustainability of the data collected.
+
+
+
+<!--
+P2, A game making course of 6 weeks. The template and resources created D2 were used as a starting point but still under rapid development based on informal participant feedback and my journal reflections.
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
+
+
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
+I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
+The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023]. -->
 
 ### Table of methods of data collection
 
@@ -347,9 +385,11 @@ https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/
 | Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | After P3 |
 
 
-### Auto-ethnographic data collection via journal notes and other artefacts to do with facilitation and tool use - VERY SHORT - MOVE SOME TO LATER.
+### Data collection of journal notes and facilitation artefacts
 
-I used journal notes extensively in a notebook format and in electronic format written on a tablet. These notes involved a mix of session planning, resource planning, immediate reflections on sessions, and notes on links with existing literature.
+Auto-ethnographic data collection
+
+I used journal notes extensively in a notebook format and in electronic format within chronologically categorised word processing documents. These notes involved a mix of session planning, resource planning, immediate reflections on sessions, and notes on links with existing literature.
 
 In addition, I also carefully collected the session resources themselves in terms of the tools used and supporting documentation and activities.
 
@@ -385,32 +425,8 @@ As of the time of writing Glitch.com, the replacement remains. A selection of ga
 
 Projects created in piskel were lost, but exported data remains.
 
-**Types of input by Participants**
-
-Direct input was through requests and informal feedback and structured end-of-course interviews.
-
-Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
 
 
-#### Brief of facilitation and description by Phase - but this is analysis - SO MOVE OR THINK ABOUT THAT.
-
-Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
-
-The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
-
-
-D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources.
-
-P2, A game making course of 6 weeks. The template and resources created D2 were used as a starting point but still under rapid development based on informal participant feedback and my journal reflections.
-
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
-
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
-I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
-The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
 
 ### Use of Video data - 360 and Screen capture
@@ -1482,7 +1498,7 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 ## Footnotes
 
 
-
+[^key]: Key of participants: Parents (p) denotes a parent of adult guardian, (c) denotes children, (sh) is a student helping with facilitation.
 [^mc]:  Make code is a block based programming environment.
 [^el]: Edlab website archive has a record of this event. https://mickfuzz.github.io/edlab/index.html_p=903.html
 [^he]: Home Education Greater Manchester (Facebook group) https://www.facebook.com/groups/313791918658167, Greater Manchester Home Educators (Facebook group) https://www.facebook.com/groups/164014243270, MADCOW (Email group) a large invite only email group.

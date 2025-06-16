@@ -10,16 +10,26 @@ number-sections: true
 categories: chapter
 title: 9. Appendices
 ---
-
 -   [Appendices](#appendices)
     -   [Interviews](#interviews)
+        -   [Interview.summaries](#interview.summaries)
+            -   [Use of helping roles in Interview
+                data.](#use-of-helping-roles-in-interview-data.)
         -   [Interview.1 - Madiha, Nasrin and
             Xavier](#interview.1---madiha-nasrin-and-xavier)
             -   [Interview.1.a](#interview.1.a)
             -   [Interview.1.b](#interview.1.b)
+            -   [Interview.1.b](#interview.1.b-1)
         -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
+            -   [Interview.2.a](#interview.2.a)
+            -   [Interview.2.b](#interview.2.b)
+            -   [Interview.2.](#interview.2.)
         -   [Interview.3 - Maggie and
             Toby](#interview.3---maggie-and-toby)
+            -   [Interview.3.a](#interview.3.a)
+            -   [Other extracts](#other-extracts)
+        -   [Interview.4 - Dan](#interview.4---dan)
+            -   [Interview.4.a](#interview.4.a)
         -   [App.7.fdb - Feedback
             Extracts](#app.7.fdb---feedback-extracts)
             -   [App.fdb.a - Susanna and Tehillah note on starting
@@ -44,7 +54,8 @@ title: 9. Appendices
             -   [What kind of Maker are you - Motivations behind social
                 processes (emerging in
                 playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
-            -   [Appendix.playtestingtypes](#appendix.playtestingtypes)
+            -   [Appendix.playtestingtypes (Ch.
+                7)](#appendix.playtestingtypes-ch.-7)
             -   [Commentary on side
                 missions](#commentary-on-side-missions)
         -   [Appendix.drama - Drama process
@@ -96,6 +107,26 @@ title: 9. Appendices
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+            -   [D1: Initial research and development - August and
+                September
+                2017](#d1-initial-research-and-development---august-and-september-2017)
+            -   [P1: A phase of exploratory, co-creative game making -
+                October 2017 to March
+                2018](#p1-a-phase-of-exploratory-co-creative-game-making---october-2017-to-march-2018)
+            -   [D2: Development Stage - May 2018 to December
+                2018](#d2-development-stage---may-2018-to-december-2018)
+            -   [P2: Accelerated game making programme - 5 weeks in
+                January to February
+                2019](#p2-accelerated-game-making-programme---5-weeks-in-january-to-february-2019)
+            -   [P3: Adding a process drama to the game making
+                programme: 5 weeks in May
+                2019](#p3-adding-a-process-drama-to-the-game-making-programme-5-weeks-in-may-2019)
+            -   [D3: research and development - Make Code - November
+                2019 to September
+                2020](#d3-research-and-development---make-code---november-2019-to-september-2020)
+            -   [P4: MakeCode Arcade 1- November 2019 to DEc
+                2020](#p4-makecode-arcade-1--november-2019-to-dec-2020)
+            -   [P5: MakeCode Arcade 2](#p5-makecode-arcade-2)
         -   [Appendix.tech.samplechapter - Extract of supporting
             resources - Sample chapter on Keys and Doors gameplay design
             chapter](#appendix.tech.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
@@ -155,6 +186,11 @@ title: 9. Appendices
         -   [Material Dimensions](#material-dimensions)
         -   [Social Dimensions](#social-dimensions)
         -   [Cultural Dimensions](#cultural-dimensions)
+    -   [Ethics](#ethics)
+        -   [Game Making Club and Study Recruitment
+            Material](#game-making-club-and-study-recruitment-material)
+            -   [Game Making Club and
+                Study](#game-making-club-and-study)
 
 # Appendices
 
@@ -825,6 +861,30 @@ See this attempt at a map of skills used in P1 - very extensive but not the focu
 https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
 
 
+### Summary of Phases removed from Chapter 4.
+
+D1 Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015].
+
+
+Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
+
+The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
+
+
+D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources.
+
+P2, A game making course of 6 weeks. The template and resources created D2 were used as a starting point but still under rapid development based on informal participant feedback and my journal reflections.
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
+
+
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
+I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
+The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
+
+
 #### D1: Initial research and development - August and September 2017
 
 Find PhD proposal games for a read write world.
@@ -832,7 +892,7 @@ Find PhD proposal games for a read write world.
 * Phaser
 * Thimble
 
-Before engaging with families in P1 in August 2017 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015]. I discovered I could use  Thimble, to house a working javascript based game. Mozilla promoted a professional, open source, javascript library for web game making called Phaser.js. At this time I also evaluated several online pixel graphics editors and chose Piskelapp.com.
+Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015]. I discovered I could use  Thimble, to house a working javascript based game. Mozilla promoted a professional, open source, javascript library for web game making called Phaser.js. At this time I also evaluated several online pixel graphics editors and chose Piskelapp.com.
 
 #### P1: A phase of exploratory, co-creative game making - October 2017 to March 2018  
 
