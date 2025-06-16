@@ -23,11 +23,11 @@ title: 4. Methodology
                 input](#iterative-process-with-participant-input)
         -   [Authentic and ecological nature of
             research](#authentic-and-ecological-nature-of-research)
+        -   [General utility (Rich descriptions & holistic data
+            collection)](#general-utility-rich-descriptions-holistic-data-collection)
         -   [Dual Role research and facilitator and resulting challenges
             and
             opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
-        -   [General utility (Rich descriptions & holistic data
-            collection)](#general-utility-rich-descriptions-holistic-data-collection)
     -   [Project delivery phases and data
         collection](#project-delivery-phases-and-data-collection)
         -   [Recruitment and data on
@@ -120,16 +120,14 @@ title: 4. Methodology
             -   [Generalisation of
                 Research](#generalisation-of-research-1)
     -   [Discussion on Methodology](#discussion-on-methodology)
-        -   [Discussion / Conclusion](#discussion-conclusion)
-        -   [Authenticity - creating
-            value](#authenticity---creating-value)
-        -   [On the emergent and mutual nature of the design and
-            research
-            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
         -   [How does this methodology relate to existing models of
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
-    -   [Limitations](#limitations)
+        -   [Potential of this approach](#potential-of-this-approach)
+            -   [Recap on the emergent and mutual nature of the design
+                and research
+                process](#recap-on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
+    -   [Limitations - MOVE MORE HERE](#limitations---move-more-here)
         -   [Limitation of demographics of
             participants.](#limitation-of-demographics-of-participants.)
     -   [Chapter conclusion and link](#chapter-conclusion-and-link)
@@ -231,6 +229,12 @@ My role as a facilitator included recognising and supporting the emergence of a 
 
 The importance of context, historicity and cultural factors are particularly relevant for this intervention in a non-formal educational context with diverse stakeholder.
 
+<!--
+IS THIS NOT COVERED IN CHAPTER 3 - UNDER JUSTIFICATION OF APPROACH / THEORETICAL FRAMEWORK? -->
+
+Barab and colleagues discuss the importance of creating value in the world in their ecosystem approach [@barnett_ecosystem_2019].
+ This mirrors authenticity in applied social approaches - PBL as applied method of - situated learning ontology.
+
 This impacts on recruitment, and on what data is gathered.
 
 This impacted recruitment of participants and the nature of the session that ran. fitting in to an general pattern of external home ed provision, aligning with half terms.
@@ -239,16 +243,6 @@ The process of describing the varied sources of influence on the evolving design
 
 This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecological approach to research. The motivation for embedding pedagogical interventions within a real-world CGD&P learning environment, is to produce findings are contextually valid and socially relevant.
 
-
-### Dual Role research and facilitator and resulting challenges and opportunities
-
-Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
-
-While my dual role presented challenges, such as balancing intervention with observation and mitigating positionality biases, it also created opportunities for deep engagement and pedagogical innovation. This dual role enables the exploration of tensions and contradictions in CGD&P while ensuring that pedagogical interventions evolve dynamically alongside participant needs.
-
-Work on bias, or needs of the research process, addressed particularly by Cole in 5thD work.
-
-Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
 
 
 ### General utility  (Rich descriptions & holistic data collection)
@@ -272,6 +266,20 @@ Design narrative of Chapter 5, explore the rationale for the selection, creation
 
 A guiding principle here is to use an ideally FLOSS toolset or if not practical to use non-specialist software available within or outside the university and free or low cost. This in line with the principle of software sustainability principles [@crouch_software_2013] in general, and in particular to allow the replicability of research not only by fellow researchers but by practitioners [@bonneel_code_2020]. Thus applying to two dimensions of replication of research methodology here, that of research and facilitation of project sessions.
 
+
+
+
+### Dual Role research and facilitator and resulting challenges and opportunities
+
+Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
+
+TAS relevant, activist stance.
+
+While my dual role presented challenges, such as balancing intervention with observation and mitigating positionality biases, it also created opportunities for deep engagement and pedagogical innovation. This dual role enables the exploration of tensions and contradictions in CGD&P while ensuring that pedagogical interventions evolve dynamically alongside participant needs.
+
+Work on bias, or needs of the research process, addressed particularly by Cole in 5thD work.
+
+Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
 
 
 ## Project delivery phases and data collection
@@ -1279,37 +1287,6 @@ The process of exploring this guided the development of the research questions.
 ## Discussion on Methodology
 
 
-### Discussion / Conclusion
-
-NOTE - WHAT KIND OF DISCUSSION WOULD BE NEEDED HERE?
-A RETURN TO POSSIBLE BARRIERS THAT THE METHODOLOGY AIMS TO OVER COME
-
-
-
-### Authenticity - creating value
-
-IS THIS NOT COVERED IN CHAPTER 3 - UNDER JUSTIFICATION OF APPROACH / THEORETICAL FRAMEWORK?
-
- Barab and colleagues discuss the importance of creating value in the world in their ecosystem approach [@barnett_ecosystem_2019].
- This mirrors authenticity in applied social approaches - PBL as applied method of - situated learning ontology.
-
-
-
-### On the emergent and mutual nature of the design and research process
-
-
-The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
-
-STAGE ONE
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-
-**On potential of involvement of parents**
-
-
-The presence of parents adds significant opportunities. I propose that this informal and exploratory setting with the participation of engaged parents, young people and their access to family learning dynamics and wider expertise provides potentially fertile ground in the generation of resources and domain practices. I explore the potential of this theme in more detail in the conclusion of this thesis.  
-
-
 
 ### How does this methodology relate to existing models of Change Laboratory & DBR and what does that add potentially
 
@@ -1317,10 +1294,23 @@ Keep this brief.
 
 The smaller time frame of iterations, and more direct intervention in the ongoing / leading activity distiguishes this approach from a Change Laboratory. However, the analysis of tensions, and thus double stimulation to provoke evolutions of agency are alike.
 
-The next chapter focuses in more depth of the mutual evolution of the learning design in a way which aligns with the design narative technique of DBR (hoadley? - find others!)
 
 
-## Limitations
+### Potential of this approach
+
+NOTE - WHAT KIND OF DISCUSSION WOULD BE NEEDED HERE?
+A RETURN TO POSSIBLE BARRIERS THAT THE METHODOLOGY AIMS TO OVER COME
+
+
+
+#### Recap on the emergent and mutual nature of the design and research process
+
+
+The experimental team consisted of home educating partents, young people families, students. All inputted into subsequent iterations of the game making program both directly and indirectly.
+
+The presence of parents in particulary, adds significant opportunities. I propose that this informal and exploratory setting with the participation of engaged parents, young people and their access to family learning dynamics and wider expertise provides potentially fertile ground in the generation of resources and domain practices. I explore the potential of this theme in more detail in the conclusion of this thesis.  
+
+## Limitations - MOVE MORE HERE
 
 Address limitations of methodology and RQs here so that I don't have to in the conclusion.
 
@@ -1348,6 +1338,8 @@ While this was an oversight, but it also aligns with the aims of this study whic
 
 
 ## Chapter conclusion and link
+
+The next chapter focuses in more depth of the mutual evolution of the learning design in a way which aligns with the design narative technique of DBR (hoadley? - find others!)
 
 In line the ethos of formative interventions and DBR this chapter has outlined a methodology which aknowledges the roles of my own input as a scholar/activist and that of participants. The process of working with participant input to the design of the learning intervention served several functions including: access to novel technical approaches proposed by parents and university volunteers; the surfacing of systemic conflicts hidden from my initial perception stemming from my pre-conceptions; observation of participant conflicts spurred the introduction of new tools to support development; and parental proficiency in adapting the learning environment to supporting their children leading to community-wide innovations in practice.
 

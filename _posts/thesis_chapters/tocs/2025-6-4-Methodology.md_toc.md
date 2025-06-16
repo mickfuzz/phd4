@@ -12,11 +12,11 @@
                 input](#iterative-process-with-participant-input)
         -   [Authentic and ecological nature of
             research](#authentic-and-ecological-nature-of-research)
+        -   [General utility (Rich descriptions & holistic data
+            collection)](#general-utility-rich-descriptions-holistic-data-collection)
         -   [Dual Role research and facilitator and resulting challenges
             and
             opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
-        -   [General utility (Rich descriptions & holistic data
-            collection)](#general-utility-rich-descriptions-holistic-data-collection)
     -   [Project delivery phases and data
         collection](#project-delivery-phases-and-data-collection)
         -   [Recruitment and data on
@@ -109,16 +109,14 @@
             -   [Generalisation of
                 Research](#generalisation-of-research-1)
     -   [Discussion on Methodology](#discussion-on-methodology)
-        -   [Discussion / Conclusion](#discussion-conclusion)
-        -   [Authenticity - creating
-            value](#authenticity---creating-value)
-        -   [On the emergent and mutual nature of the design and
-            research
-            process](#on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
         -   [How does this methodology relate to existing models of
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
-    -   [Limitations](#limitations)
+        -   [Potential of this approach](#potential-of-this-approach)
+            -   [Recap on the emergent and mutual nature of the design
+                and research
+                process](#recap-on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
+    -   [Limitations - MOVE MORE HERE](#limitations---move-more-here)
         -   [Limitation of demographics of
             participants.](#limitation-of-demographics-of-participants.)
     -   [Chapter conclusion and link](#chapter-conclusion-and-link)
