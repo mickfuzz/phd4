@@ -95,6 +95,8 @@
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+        -   [Summary of Phases removed from Chapter
+            4.](#summary-of-phases-removed-from-chapter-4.)
             -   [D1: Initial research and development - August and
                 September
                 2017](#d1-initial-research-and-development---august-and-september-2017)

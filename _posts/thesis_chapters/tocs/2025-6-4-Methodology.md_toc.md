@@ -8,34 +8,28 @@
             exploratory](#defining-the-scope-and-approach-of-the-methodology-of-this-research-as-qualitative-general-and-exploratory)
         -   [Exploratory Nature - not set
             goals](#exploratory-nature---not-set-goals)
-            -   [Mutuality and evolving
-                process](#mutuality-and-evolving-process)
+            -   [Iterative process with participant
+                input](#iterative-process-with-participant-input)
         -   [Authentic and ecological nature of
             research](#authentic-and-ecological-nature-of-research)
         -   [Dual Role research and facilitator and resulting challenges
             and
             opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
-        -   [Rich descriptions and holistic data
-            collection](#rich-descriptions-and-holistic-data-collection)
-        -   [Of levels of activity](#of-levels-of-activity)
-        -   [Of Tool use and pedagogy](#of-tool-use-and-pedagogy)
-        -   [Guiding technical rationale guiding software
-            use](#guiding-technical-rationale-guiding-software-use)
+        -   [General utility (Rich descriptions & holistic data
+            collection)](#general-utility-rich-descriptions-holistic-data-collection)
     -   [Project delivery phases and data
         collection](#project-delivery-phases-and-data-collection)
         -   [Recruitment and data on
             participants](#recruitment-and-data-on-participants)
         -   [Summary of phases and resources of the study
             -](#summary-of-phases-and-resources-of-the-study--)
+            -   [On mutuality of design and practicalities of collection
+                during
+                phases](#on-mutuality-of-design-and-practicalities-of-collection-during-phases)
         -   [Table of methods of data
             collection](#table-of-methods-of-data-collection)
-        -   [Auto-ethnographic data collection via journal notes and
-            other artefacts to do with facilitation and tool use - VERY
-            SHORT - MOVE SOME TO
-            LATER.](#auto-ethnographic-data-collection-via-journal-notes-and-other-artefacts-to-do-with-facilitation-and-tool-use---very-short---move-some-to-later.)
-            -   [Brief of facilitation and description by Phase - but
-                this is analysis - SO MOVE OR THINK ABOUT
-                THAT.](#brief-of-facilitation-and-description-by-phase---but-this-is-analysis---so-move-or-think-about-that.)
+        -   [Data collection of journal notes and facilitation
+            artefacts](#data-collection-of-journal-notes-and-facilitation-artefacts)
         -   [Use of Video data - 360 and Screen
             capture](#use-of-video-data---360-and-screen-capture)
         -   [Practicalities of data collection and
@@ -43,28 +37,29 @@
             -   [360 Video Processing](#video-processing)
         -   [Collection of interview
             data](#collection-of-interview-data)
-            -   [Pasted in - revise up and down via
-                merge](#pasted-in---revise-up-and-down-via-merge)
     -   [Data Analysis](#data-analysis)
-        -   [Rational and overall approach of data analysis
-            -](#rational-and-overall-approach-of-data-analysis--)
+        -   [Iterative approach of data
+            analysis](#iterative-approach-of-data-analysis)
         -   [Summary table of data analysis - HERE OR AT
             END?](#summary-table-of-data-analysis---here-or-at-end)
-        -   [S1 (stage one) data analysis](#s1-stage-one-data-analysis)
+        -   [S1 (stage one) - expansive stage of data
+            analysis](#s1-stage-one---expansive-stage-of-data-analysis)
             -   [S1 Journal analysis (and evolving resources)
                 data](#s1-journal-analysis-and-evolving-resources-data)
-            -   [S1 Practitioner interviews - MAKE
-                SHORTER](#s1-practitioner-interviews---make-shorter)
-            -   [S1 Video analysis - via dipping
-                in](#s1-video-analysis---via-dipping-in)
-            -   [Initial description of video data using a spreadsheet
-                and 3 planes
-                approach](#initial-description-of-video-data-using-a-spreadsheet-and-3-planes-approach)
-        -   [S2 (stage two) data analysis](#s2-stage-two-data-analysis)
-            -   [S2a - The original plan regarding thematic
-                analysis](#s2a---the-original-plan-regarding-thematic-analysis)
+            -   [S1 Practitioner
+                interviews](#s1-practitioner-interviews)
+            -   [S1 - Initial video analysis - dipping a toe
+                in](#s1---initial-video-analysis---dipping-a-toe-in)
+            -   [s1 - Initial description of video data using a
+                spreadsheet and 3 planes
+                approach](#s1---initial-description-of-video-data-using-a-spreadsheet-and-3-planes-approach)
+        -   [S2 (stage two) - exploratory phase data
+            analysis](#s2-stage-two---exploratory-phase-data-analysis)
+            -   [S2a - The original plan regarding quantitive thematic
+                analysis](#s2a---the-original-plan-regarding-quantitive-thematic-analysis)
                 -   [S2b - Defining of thematic analysis and video
-                    coding](#s2b---defining-of-thematic-analysis-and-video-coding)
+                    coding - via an iterative approach to thematic
+                    analysis.](#s2b---defining-of-thematic-analysis-and-video-coding---via-an-iterative-approach-to-thematic-analysis.)
             -   [S2a Prioritisation of sessions meriting deeper analysis
                 (10?
                 )](#s2a-prioritisation-of-sessions-meriting-deeper-analysis-10)
@@ -73,51 +68,42 @@
             -   [s2b - Clustering of themes and later change of
                 direction away from close thematic
                 analysis](#s2b---clustering-of-themes-and-later-change-of-direction-away-from-close-thematic-analysis)
-            -   [Revisiting the research questions based on the
-                evolution of the learning design. - REALLY EDIT
-                DOWN](#revisiting-the-research-questions-based-on-the-evolution-of-the-learning-design.---really-edit-down)
-                -   [S2b - RQ2 & 3 - Importance of GDPs already present
-                    and shift to
-                    agency](#s2b---rq2-3---importance-of-gdps-already-present-and-shift-to-agency)
-            -   [S2c - What actually happened
-                -](#s2c---what-actually-happened--)
-                -   [s2 Video analysis - thematic
-                    clustering](#s2-video-analysis---thematic-clustering)
-                -   [S2 On the value of initial clustering of themes -
-                    e.g. participant roles and interactions MOVE THIS
-                    ?](#s2-on-the-value-of-initial-clustering-of-themes---e.g.-participant-roles-and-interactions-move-this)
-            -   [s2 abandon coding thematic analysis - not via coding
-                but developing clustering via examples and
-                consolidation](#s2-abandon-coding-thematic-analysis---not-via-coding-but-developing-clustering-via-examples-and-consolidation)
+            -   [S2c - What actually happened - Revisiting the research
+                questions and thematic analysis process based on initial
+                clustering](#s2c---what-actually-happened---revisiting-the-research-questions-and-thematic-analysis-process-based-on-initial-clustering)
+                -   [s2 Video analysis - ongoing thematic
+                    clustering](#s2-video-analysis---ongoing-thematic-clustering)
+                -   [S2 On trying to create a quantitive schema - case
+                    study - e.g. participant roles and
+                    interactions](#s2-on-trying-to-create-a-quantitive-schema---case-study---e.g.-participant-roles-and-interactions)
+            -   [s2 abandon a quantitive coding /thematic analysis
+                -](#s2-abandon-a-quantitive-coding-thematic-analysis--)
             -   [s2 Continuing a 3 planes
                 approach](#s2-continuing-a-3-planes-approach)
-        -   [S3 (stage three) data
-            analysis](#s3-stage-three-data-analysis)
-            -   [Selection of vignettes for deeper
-                analysis](#selection-of-vignettes-for-deeper-analysis)
-            -   [Clustering and evaluating the theme of use of GDPs as
+        -   [S3 (stage three) - Consolidation stage of data
+            analysis](#s3-stage-three---consolidation-stage-of-data-analysis)
+            -   [s3 - Selection of vignettes for deeper
+                analysis](#s3---selection-of-vignettes-for-deeper-analysis)
+            -   [s3 Use of participant interview data & importance of
+                process of
+                triangulation](#s3-use-of-participant-interview-data-importance-of-process-of-triangulation)
+            -   [s3 - Clustering and deepening the analysis of GDPs (as
                 mediational
-                strategies](#clustering-and-evaluating-the-theme-of-use-of-gdps-as-mediational-strategies)
-                -   [Clustring of themes of design/ processes on learner
-                    agency / including learning as
-                    movement](#clustring-of-themes-of-design-processes-on-learner-agency-including-learning-as-movement)
-            -   [s2 Use of participant interview data (EARLIER IN S2? OR
-                LATER?) & importance of process of
-                triangulation](#s2-use-of-participant-interview-data-earlier-in-s2-or-later-importance-of-process-of-triangulation)
-    -   [What research questions are answered by what data gathering and
-        analysis processes and stage - MERG THIS INTO OTHER
-        SECTIONS](#what-research-questions-are-answered-by-what-data-gathering-and-analysis-processes-and-stage---merg-this-into-other-sections)
-    -   [Ethical considerations and
-        processes](#ethical-considerations-and-processes)
-    -   [Data validity, reliability and
-        generalisability](#data-validity-reliability-and-generalisability)
-        -   [Data Validity](#data-validity)
+                strategies)](#s3---clustering-and-deepening-the-analysis-of-gdps-as-mediational-strategies)
+                -   [s3 - Clustering and deepening the analysis of
+                    design/ processes on learner agency / including
+                    learning as
+                    movement](#s3---clustering-and-deepening-the-analysis-of-design-processes-on-learner-agency-including-learning-as-movement)
+            -   [s3 - Evolution of a conceptual model of
+                learning](#s3---evolution-of-a-conceptual-model-of-learning)
+    -   [Ethical considerations, validity &
+        reliablity](#ethical-considerations-validity-reliablity)
+        -   [Ethical considerations and
+            processes](#ethical-considerations-and-processes)
+            -   [Data validity, reliability](#data-validity-reliability)
             -   [Limits of / problems with video data
                 analysis](#limits-of-problems-with-video-data-analysis)
             -   [Limits of interview data\_](#limits-of-interview-data_)
-        -   [Discussion on evolving coding process - PERHAPS SHIFT TO
-            LAST CHAPTER
-            finally](#discussion-on-evolving-coding-process---perhaps-shift-to-last-chapter-finally)
         -   [Generalisation of Research](#generalisation-of-research)
             -   [Data Replicability](#data-replicability)
             -   [Generalisation of
