@@ -170,7 +170,7 @@ I will explore how this diversity helps triangulate findings.
 <!-- As previously explored, the research questions invite a broad spectrum of analysis - cultural and social factors. -->
 <!-- The depth justifies smaller data size and depth of analysis. -->
 
-## Introductory themes from the theoretical framework and RQs
+## Defining Scope & Approach
 
 
 <!-- Following the more general demands of the process of studying a novel, emerging non-formal learning process addressed in the previous chapter and the research questions some key themes merit attention in this chapter.
@@ -282,7 +282,7 @@ Work on bias, or needs of the research process, addressed particularly by Cole i
 Each data gathering session was also a 2 hour workshop with varied participants with diverse learning needs requiring planning and delivery.
 
 
-## Project delivery phases and data collection
+## Data collection within project delivery phases
 
 This section addresses both the phases of delivery of the game making programme to families and the data collection that occurred at each phase.
 
@@ -427,7 +427,7 @@ As of the time of writing Glitch.com, the replacement remains. A selection of ga
 
 
 
-### Use of Video data - 360 and Screen capture
+### Video data collection via 360 and screen capture
 
 **Summary**
 
@@ -509,9 +509,9 @@ Saskia Leggett is a researcher who was active in the in Creative Family Learning
 
 
 
-## Data Analysis
+## Data analysis process
 
-My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created. I also record the workshop area with a 360 degree video camera and capture of screen data and audio of the laptops used by participants.
+My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created.
 
 One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
 
@@ -1122,10 +1122,10 @@ Analysis also involved developing a conceptual model for learning with agency de
 
 This is developed and advanced in Ch.7
 
-## Ethical considerations, validity & reliablity
+## Ethical considerations and validity
 
 
-### Ethical considerations and processes
+### Ethical approval process
 
 <!-- The design of the research experiment and learning I started from a very open position and has evolved from several iterations of collaborative work with participants. -->
 <!-- Recruitment details online HERE of call out.  
@@ -1204,11 +1204,45 @@ One form of triangulation is member checking where participants are asked to con
 
 As an example, in interview data a participant who expressed frustration in the moment about a form of disruptive practice of another participant, was able to place that frustration in context.
 
-#### Limits of / problems with video data analysis
+
+### Generalisation of Research
+
+
+#### Data Replicability
+
+The elements of the design are online and included in appendices.
+
+This study faces an issue of being culturally embodies, thus think descriptions of context are needed here [@hoadley_creating_2002].
+
+The final chapter addresses the need to replicate this study in different contexts and the challenges involved in replicating the spontaneous emergent elements of specifics of this study.
+
+As such chapter four can be conceptualised as a design narrative (see [@hoadley_creating_2002]) to address the common deficit of detail of the designed product and process. "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself"
+
+" Would that all interventional research included this kind of rich description of the “treatment” so that one might infer whether the results were applicable elsewhere."
+
+#### Generalisation of Research
+
+
+Generalisation is one of the guiding principles of DBR. While results are intertwined with context, designs should be assessed for generalisation to other settings.
+
+Explore this in more detail - draw out a debate on how situated learning in this context - and wider debate is.
+
+- More than one iteration.
+- In different settings
+- Using different with different software
+
+This is potentially complex to describe but worth it if wanting to talk about generalisation.
+
+NOTE - This could be dropped or picked up again in the limitations section
+
+The process of exploring this guided the development of the research questions.
+
+### Limitations of interview and video data
 
 The choice of the videos to code more fully is rather skewed towards finding interesting data. Thus it may not be fully representative of the experience of all participants.
 
 Choosing in a different way - around less interaction - would expose more barriers to participation to game making using the 3M model.
+
 <!-- For example in
 https://docs.google.com/document/d/1GQf0OvKs07tY-VKDnB7K94F_kHVW7M1Vz0NlLm1t1WE/edit
 Imagining a constructionist game-based pedagogical model: Using tabletop role-playing game creation to enhance literature education in high school English classes -->
@@ -1246,45 +1280,7 @@ And prioritising more hands on work which was perceived as more benefitial and w
 
 
 
-
-
-### Generalisation of Research
-
-
-#### Data Replicability
-
-The elements of the design are online and included in appendices.
-
-This study faces an issue of being culturally embodies, thus think descriptions of context are needed here [@hoadley_creating_2002].
-
-The final chapter addresses the need to replicate this study in different contexts and the challenges involved in replicating the spontaneous emergent elements of specifics of this study.
-
-As such chapter four can be conceptualised as a design narrative (see [@hoadley_creating_2002]) to address the common deficit of detail of the designed product and process. "the usual study presents a technology fully formed as if it had risen from the oceans like Venus herself"
-
-" Would that all interventional research included this kind of rich description of the “treatment” so that one might infer whether the results were applicable elsewhere."
-
-#### Generalisation of Research
-
-
-Generalisation is one of the guiding principles of DBR. While results are intertwined with context, designs should be assessed for generalisation to other settings.
-
-Explore this in more detail - draw out a debate on how situated learning in this context - and wider debate is.
-
-- More than one iteration.
-- In different settings
-- Using different with different software
-
-This is potentially complex to describe but worth it if wanting to talk about generalisation.
-
-NOTE - This could be dropped or picked up again in the limitations section
-
-The process of exploring this guided the development of the research questions.
-
-
-
-
-
-## Discussion on Methodology
+## Discussion and limitations
 
 
 
@@ -1310,7 +1306,7 @@ The experimental team consisted of home educating partents, young people familie
 
 The presence of parents in particulary, adds significant opportunities. I propose that this informal and exploratory setting with the participation of engaged parents, young people and their access to family learning dynamics and wider expertise provides potentially fertile ground in the generation of resources and domain practices. I explore the potential of this theme in more detail in the conclusion of this thesis.  
 
-## Limitations - MOVE MORE HERE
+## Limitations of overall methodology 
 
 Address limitations of methodology and RQs here so that I don't have to in the conclusion.
 
