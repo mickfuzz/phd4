@@ -180,6 +180,8 @@ Pedagogical elements of the research design were  co-developed through collabora
 
 Participant input took multiple forms: direct feedback in interviews and structured activities, observations of gameplay and design behaviour, and artefacts produced in workshops. The ongoing trialling and adjustment of software environments, templates, and resources took place over an extended period and, involved undergraduate trainees, colleagues, and parent volunteers. These iterative changes are documented throughout the study and explored further in Chapters 5 to 7.
 
+Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
+
 ### Utility, Holistic Data and  Rich Descriptions  
 
 This study provide _thick_, descriptive accounts of learning in CGD&P across multiple levels of activity [@maxwell_qualitative_2013]. Informed by Rogoff’s [-@rogoff_observing_1995] three planes of analysis in communities of learners, data collection included both individual and group-level video capture, journal notes, screen recordings, and design artefacts. These layered sources enabled analysis of how learning processes unfolded across time, tools, and interactions. This approach also brought challenges, particularly in managing and interpreting complex video data, which are discussed later in this chapter.
@@ -506,16 +508,10 @@ Saskia Leggett is a researcher who was active in the in Creative Family Learning
 
 ## Data analysis process
 
-My study draws on traditional ethnographic methods of my journal as participant observer, participant interviews and analysis of artefacts used and created.
+The analysis was structured in three stages to reflect the evolving relationship between the data and the research questions. This staged approach allowed for an iterative process: beginning with exploratory review, progressing through thematic refinement and methodological adjustment, and concluding with interpretive consolidation. Each stage responded to new insights and practical constraints, and together they represent a strategy for understanding how learning, agency, and contradiction played out within the CGD&P interventions.
 
-One of the challenges of adopting a naturalistic research approach is to work with material gathered to find and describe patterns of behaviour.
+Due to the exploratory nature of the research and the openness to emergent directions, the analysis process evolved iteratively across multiple stages. For the purposes of clarity, this process is presented in three simplified stages that reflect broad shifts in focus and method. Each stage marks a move toward greater granularity, using different analytical strategies suited to the emerging needs of the study. This structure also proved particularly useful in managing the large volume of video and screen capture data generated during the CGD&P sessions.
 
-
-### Iterative  approach of data analysis
-
-Video data analysis involved description and transcription of video data and thematic analysis of the contents.
-
-Due to the exploratory nature of the research, and the openness to new directions, the process of analysis of the data gathered was  carried out in an iterative approach over several stages. The process is presented here in three stages, which are a simplified slightly in terms of categorisation into distinct stages. Progression through the different stages of analysis involved increasing granularity and focus, and to achieve this different forms of analysis were used. The use of stages was particularly needed in order to deal with the large amount of video data gathered for the different sessions.
 
 <!-- THERE IS A CROSS OVER WITH THE GENERAL SECTION ABOVE HERE.
 The process aligns with  -->
@@ -527,9 +523,9 @@ The process aligns with  -->
 
 <!-- NOTE - Import more from the post of 2024- 05 - 08 - in diary. -->
 
-### Summary table  of data analysis - HERE OR AT END?
+### Summary table  of data analysis
 
-There is a table online here to summarise data analysis types
+The table below provides a cross-reference between the research questions, the types of data collected, and the analytical and theoretical approaches employed. It serves as a conceptual map to clarify how each question was addressed through the methodological process described in this chapter.
 
 <!-- https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit#heading=h.hpqiq8h52efk -->
 
@@ -541,592 +537,64 @@ AND SIMPLIFY THE TOOL USE -->
 | ----- | ----------- | ------------------ | ------------------------ |
 
 -->
+| Stage | Technique                                  | Description                                                                                                                                                                                                                                                                                                      |
+|-------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 & 2 | Making observations of activity based on 3 planes approach (& practicalities) | Dipping into screen capture and 360 footage (VLC player) helped inform the smaller subsequent selection of data.<br><br>Observations stored in an Excel spreadsheet and separate Word documents on tensions and barriers in activity.                                                                                 |
+| 2     | Transcription of activity and conversations | Simultaneous viewing of screen capture and 360 footage.<br><br>Actions and extracts of conversations recorded into a Word document.<br><br>For the individual/pair, their activity was split into 5-minute sections and recorded in a Word document, time-coded via a grid table format.                            |
+| 2     | Exploratory Thematic Clustering             | Video capture data and 360 data imported into NVivo.<br><br>Eight screen capture/360 files from five group sessions analyzed.<br><br>The process was complicated by the video file formats and their extended length.<br><br>Activity was coded based on an evolving schema including design cycle stages, participant interactions, and game elements participants were working on. |
+| 3     | Revised Thematic Clustering                 | Video capture and 360 data in NVivo.<br><br>Twelve screen capture/360 files from five group sessions analyzed.<br><br>A revised thematic analysis focused on different uses of game design patterns (GDPs) and dimensions of participant agency.                                                                  |
+| 3     | Choosing and transcribing vignettes        | Simultaneous viewing of screen capture and 360 footage in VLC player.<br><br>Practitioner interviews also reviewed in VLC player.<br><br>Four vignettes chosen and transcribed.<br><br>Full transcription for a limited time period including description and commentary on non-verbal aspects like movement and gesture.<br><br>Provides deeper insight into pair processes and individual experiences. |
 
-Outer pipes Cell padding
 
-| Stage | Technique                                                                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| ----- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 &2  | Making observations of activity based on 3 planes approach ( & practicalities) | Dipping into screen capture and 360 footage (VLC player) helped inform the smaller subsequent selection of data. <br> <br> Observations stored in an excel spreadsheet, separate word documents on tensions and barriers in activity.                                                                                                                                                                                |
-| 2     | Transcription of activity and conversations                                    | Simultaneous view of  screen capture and 360 footage.<br>Actions and extracts of conversations Recorded into a word document <br><br>For the individual / pair their activity split into 5 minute sections and recorded in a word document time coded via a grid table format.                                                                                                                                                      |
-| 2     | Exploratory Thematic Clustering                                                | Video capture data and 360 data in Nvivo <br><br>8 screen capture / 360 files from 5 group sessions analysed<br><br>This process was made complicated by the format of the data in video files and their extended length.<br>During this period activity was coded based on an evolving schema which included design cycle stages, types of participant interactions and which game elements were being worked on by participants. |
-| 3     | Revised Thematic Clustering                                                    | Video capture data and 360 data in Nvivo <br><br>12 screen capture / 360 files from 5 group sessions analysed<br><br>A revised thematic analysis driven by the different use of game design patterns GDPs and dimensions of participant agency.                                                                                                                                                                                    |
-| 3     | Choosing and transcribing Vignettes                                            | Simultaneous view of  screen capture and 360 footage in VLC player.<br>Practitioner interviews in VLC player<br><br>4 vignettes chosen and transcribed<br><br>A full transcription for a limited period of time with description and commentary on non-verbal aspects of movement and gesture. <br><br>Getting deeper into the pair processes at play and a deep sense of what an individual may be experiencing.                  |
+### Stage 1 - Exploratory analysis
 
+Stage 1 served as a exploratory review of the dataset to assess data quality, relevance, and initial themes. This included reviewing researcher journals, practitioner interviews, and preliminary video footage to develop a sense of the emerging pedagogical and methodological issues. The goal was to understand the types of contradictions and learning behaviours present, and to inform the next steps for more focused analysis. This phase aimed to determine which datasets merited deeper analysis and refine the methodological processes for subsequent analytical stages, aligning with approaches of iterative refinement in DBR [@bikner-ahsbahs_introduction_2015-1].
 
-### S1 (stage one) - expansive stage of data analysis
+The process was initially driven by the need to produce a summary of the facilitation process and to surface contextual tensions for a book chapter [@chesterman_game_2023], as well as to contribute to a mapping of learning dimensions developed during the D3 phase for online resource design [lm]. Journal analysis provided a foundational perspective on facilitation and early thematic tensions. Given the breadth of journal data, a comprehensive thematic analysis and exhaustive coding was impractical; instead, insights were triangulated with findings from the literature review to expose key themes and contradictions in the evolving pedagogy. Rogoff’s [-@rogoff_observing_1995] three planes of sociocultural activity were particularly useful here, allowing reflections on facilitation to be categorised across personal, interpersonal, and institutional dimensions, a technique further refined by Morcom [-@morcom_scaffolding_2014]. Alongside journal entries, evolving teaching resources, participant-created games, and assets  were examined to provide insight into how learners engaged with design elements, navigated  constraints, and appropriated resources for their own purposes. The use of these materials  informed subsequent iterations of facilitation and resource development, and contributed to  the emergent facilitation strategy.
 
+Practitioner interviews were used alongside journal reflections to identify key pedagogical concerns, barriers to participation, and evolving priorities within the learning design. Four extended interviews (averaging 90 minutes each) were conducted with professionals and collaborators from overlapping fields. The semi-structured format allowed for responsive dialogue, helping to surface themes such as learner identity, creative constraint, scaffolding strategies, and the design tensions in non-formal learning contexts. Themes included: agency as a focus, which emerged from Dave Potts’ reflections on the value of surfacing and supporting participants’ own interests in digital making; the value and tensions surrounding competition in non-formal settings, raised by Matt Curringa; the helping roles played by parents in young people's engagement with technology, highlighted by Saskia Leggett; and the affordances of online toolkits and game mechanics as mediational strategies, discussed by James Clegg. These interviews also helped focus subsequent cycles of video analysis by informing early coding directions and refinement of the research questions.
 
-<!-- These interviews are not explored greatly in the course of the analysis thesis as the key emergent themes were not explored in depth by those participants as while they were working in similar areas, they did not address game making explicitly.  -->
+Finally, video data was explored through a broad review of selected screen capture and 360-degree recordings from P2, P3, and P4. This initial dip into the video archive was used to assess both the quality and analytic potential of the recordings. Observations were recorded using a spreadsheet format and structured around Rogoff’s [@rogoff_observing_1995] three-plane framework. This approach provided an initial sense of the rhythms of sessions, the emergence of roles, and the unfolding of mediational practices. At this stage, full transcription was not attempted; instead, time-stamped observations helped determine which sessions might warrant deeper analysis in subsequent stages.
 
-The overall rationale of data analysis at S1 was to
+This first stage set the foundation for the later interpretive work by clarifying the practical constraints of the data, surfacing early thematic directions, and testing the viability of a multi-source, iterative approach.
 
-  - check suitability of data to answer RQs and ROs
-  - identify which data to analyse in depth to achieve this
-  - check the mechanical and analytical processes for the next stage of analysis
 
 
-Stage one of data analysis was designed as an expansive review, focusing on the suitability of collected data in answering the research questions and research objectives. This phase aimed to determine which datasets merited deeper analysis and refine the methodological processes for subsequent analytical stages.
+### Stage 2 – Thematic Refinement
 
-The exploratory nature of this stage aligns with approaches of to iterative refinement in design-based research (DBR) [@bikner-ahsbahs_introduction_2015-1],
+The second stage of analysis began with the intention of developing a structured coding schema that could support both quantitative and qualitative approaches. Inspired by a desire to systematically compare themes across video data, interviews, and journals, the original plan involved using NVivo (a qualitative-first data analysis software that also supports mixed-methods queries) to apply a consistent thematic structure, combining insights from the literature, practitioner interviews, and preliminary analysis. NVivo allows researchers to apply codes across datasets and run queries, for example to examine how much time participants spent on specific tasks or how often particular behaviours occurred.
 
-Also open encouraging methodological flexibility based on emerging insights rather than rigid initial coding structures.
+However, as the coding process began, a number of challenges arose. Technically, NVivo struggled to handle the extended screen and 360-degree video files smoothly. Syncing multiple video streams, switching between screen capture and wide-view footage, and viewing timestamps simultaneously became cumbersome. At one point, a workaround using VLC Player allowed for dual playback, and time-coded observations were trialled using five-minute transcription segments imported into Word and then into NVivo. But even this solution remained resource-intensive and prone to breakdown. The complexity of comparing behaviours across screen and 360 recordings also made queries and coding comparisons inconsistent or difficult to manage.
 
+These frustrations coincided with more conceptual questions. It became clear that applying a fixed coding frame would risk obscuring key features of the learning environment, particularly the emergent, improvisational, and tool-mediated aspects of learner agency. Some candidate codes, such as computational thinking, were deprioritised due to either their conceptual overlap with existing literature or a lack of richness in the CGD&P data. Other categories, such as game design stages, became harder to apply consistently across groups and sessions. A rigid schema, in this case, risked flattening what was most interesting: the improvised use of resources, peer scaffolding, and negotiation of meaning in action.
 
-#### S1 Journal analysis (and evolving resources) data
+The shift from planned coding to a more interpretive, emergent strategy was not abrupt; it evolved through repeated attempts to organise, code, and revisit earlier transcripts. The use of Rogoff’s three planes of analysis (personal, interpersonal, and cultural) became increasingly helpful as a scaffolding framework. Instead of developing a strict taxonomy, the process moved towards memoing, sketching, and thematically clustering insights using Word documents. These techniques allowed a more flexible and responsive mode of interpretation that could adjust to the complexity of participant behaviour, tool use, and social interaction.
 
-Journal analysis provided a foundational perspective on facilitation processes and early thematic tensions, contributing to the development of early, external publications  [@chesterman_game_2023; @chesterman_design_2023; @chesterman_keeping_2023] and mapping evolving pedagogical dimensions within online resources. Given the breadth of journal data, a comprehensive thematic analysis and exhaustive coding was in practical; instead, insights were triangulated with findings from the literature review to expose key themes and contradictions within the evolving pedagogy. Rogoff’s (1995) three planes of sociocultural activity were particularly useful here, allowing reflections on facilitation to be categorised across personal, interpersonal, and institutional dimensions, a technique further refined by Morcom (2014).
+To manage the scope of analysis, ten sessions were selected for deeper review. Criteria included clarity of audio and visuals, richness of peer and facilitator interaction, and representation of different phases of the intervention. In practice, most of the analysis focused on data from phases P2 and P3, as these contained the richest examples of interaction. One session from the end of P2, in particular, stood out due to the complexity of collaboration and the variety of participant roles observed. Transcripts were created in five-minute intervals, pairing 360-degree footage with screen recordings. These were not fully coded line-by-line, but were annotated descriptively with researcher memos noting tensions, tool use, gestures, and participant roles. In some cases, episodes were flagged for deeper treatment in later vignette analysis.
 
+A sample spreadsheet of analysis structured using Rogoff’s three planes is included in the appendix, along with a word-processed document representing one screen capture recording. In this context, the term refers to a segment of recorded participant activity captured via screen recording, typically involving one learner or a pair working at a laptop during a broader workshop session.
 
+While NVivo was initially used to trial some of this coding process, its limitations ultimately led to the adoption of Word-based transcription and thematic logging. This shift reflected a broader methodological commitment: staying close to the activity as it unfolded, rather than forcing it into predefined analytic categories. The process of trying, adapting, and discarding coding strategies also mirrored the study’s broader design ethos, where tools and structures evolved in response to emergent practice instead of being imposed from above.
 
-The process was driven by the requirement to create a summary of the facilitation process and some of the initial contextual tensions for a book chapter  [@chesterman_game_2023], and for a map of learning dimensions created during the D3 development period for online resources [^lm].
+As new patterns emerged, such as the significance of game design patterns in shaping learner trajectories or the role of peers and parents in scaffolding complex actions, the original research questions were refined. This phase helped surface key areas for Stage 3, including clusters of agency, mediational strategies, and participant repertoires. It also clarified which transcripts and artefacts were most generative for deep, vignette-style interpretation. By the end of this stage, the goal had shifted decisively away from quantifying learning behaviours and toward richly describing how learners appropriated tools and reshaped their participation. What began as a trial of software and schema evolved into a process of conceptual grounding through situated observation and practical compromise.
 
-**Journal notes**
 
-My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation.
+### Stage 3 – Interpretive Consolidation
 
-The process of analysis of journal notes and resulting resources required a different approach from that of video data.
+The third and final stage of analysis focused on consolidating insights through detailed, interpretive work. Building on the broad mapping of Stage 1 and the thematic refinement of Stage 2, this phase returned to key segments of data selected for their richness, complexity, and relevance to the evolving research questions. The goal was to generate grounded, contextualised understandings of learner agency, design mediation, and pedagogical interaction through the construction of vignettes.
 
-Journal Notes were used in the following ways: (perhaps code this)
+This stage centred on four key vignettes drawn from screen capture and 360-degree video recordings. These were chosen for their representation of diverse learner roles, visible design decision-making, and interactional dynamics. Full transcriptions were produced for these segments, integrating verbal dialogue, on-screen activity, and embodied communication such as gestures and movement within the learning space. Viewing the 360 footage alongside the screen capture recordings proved essential in several cases, especially where participants referenced their physical environment or used gesture to support peer explanation.
 
-- as a reflective tool after sessions
-- as a note pad to plan resource creation
-- as a sketch pad to explore the relationship between Concepts being explored and existing game making frameworks
+These vignettes were not designed to be representative in a statistical sense, but to offer textured accounts of how specific learners or pairs navigated their tools, peers, and task structures. Each vignette was treated as a situated episode that could illuminate broader pedagogical questions, including how learners asserted agency, interpreted guidance, or adapted resources. Where possible, these micro-analyses were triangulated with post-session interview data, artefacts (such as games or design notes), and reflective journal entries made immediately after facilitation.
 
-The quantity of data prevented extensive and detailed coding using thematic analysis.
+One focus during this stage was to examine the ways game design patterns (GDPs) operated as mediational tools. A coding spreadsheet, developed during Stage 2, was extended to cluster GDP use across planes of activity (individual, interpersonal, and cultural). Patterns of adaptation and reinterpretation were particularly salient, as learners often modified a pattern’s purpose or linked it to emergent gameplay goals. These shifts were interpreted through a CHAT lens as evidence of agency enacted through tool transformation and appropriation.
 
-Instead, observations are triangulated with data from lit review to expose key themes and tensions.
+In parallel, the concept of learner agency was refined through a return to participant action across different learning contexts. This included recognition of how agency was distributed over time, scaffolded by peers and parents, and shaped by opportunities to explore, remix, and perform learning in varied modes. Gestural and embodied data played a key role here, with several vignettes including analysis of how learners moved around the room, negotiated turn-taking, or used physical props alongside digital tools. One vignette in particular was prompted by feedback from Ricardo Nemirovsky, who encouraged a more deliberate integration of gesture analysis.
 
-My journal entries contain notes and initial analysis of workshop sessions and resulting reflections on experimental design and facilitation. Post-workshop participant interviews will gather information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use and other relevant interests.
+This interpretive work aimed to clarify not only how the learning environment supported certain forms of agency and design fluency, but also what constraints remained. In some vignettes, learners struggled to access tools or articulate their ideas, prompting reflections on equity, inclusion, and the role of facilitation. These observations informed both the final conceptual model (developed in Chapter 7) and ongoing questions about how pedagogical environments can be designed to support participation across multiple modes and identities.
 
-**Resources created as part of game making**
+By the end of this stage, the analysis had shifted from mapping general trends to closely engaging with specific examples that embodied tensions and possibilities within the CGD&P project. These vignettes became the foundation for articulating the study’s contributions to both theory and practice.
 
-Digital artefacts created as part of the game making process include text-based games, pixel art, digital audio sound effects and background music.
-
-There were two main types of resources created.
-
- - supporting teaching / facilitation RESOURCES
- - games and game and assets created
-
-The documentation and other forms of support evolved during each phase -
-
-Chapter four explores the evolution of these documentation and learning resources created in response to participant need using AT as a tool for analysis of the existing and emerging contradictions in activity.
-
-Examples?
-<!-- - Linear support book and print outs to support participants in sessions
-- Additional 3M model resources to help navigation and reflection and gameful approaches -->
-
-
-**RQS**
-
-The journal notes contributed to understandings of all research questions but in particular the sketching out of evolving tensions in workshops sessions and frequently revised resources.
-
-The principle RQ addresses the formation of a game-making community.
-
-This process is co-constituted by planners, facilitators, parents and children. The scope is broad, but a unifying factor is my own role as a facilitator and researcher. Thus journal notes are limited in terms of reliability and bias, they were vital in this first stage to set the overall direction for subsequent analysis.
-
-<!-- AT allows an exploration these diverse sources of information as mediating artefacts which are the enabler and product of the shifting goals and outcomes of the programmes participants. -->
-
-
-#### S1 Practitioner interviews
-
-Practitioner data used in stage one of analysis along with themes from the literature review to identify themes for possible analysis.
-
-The process of writing interview questions and the conversational process of semi-structured interviews helped expose new streams of thought, that which while present in existing researched helped bring them into clearer focus.
-
-
-The interviews were semi-structured allowing me to ask follow up questions to gain more detail on areas of interest.  
-
-The chosen interviewees represented a certain diversity in audience however as these interview are limited in number, resulting data are also explore in relation to existing research and no broad claims are made from this data alone.
-
-Interview data from participants was particularly helpful to inform analysis of  barriers and tensions for both practitioners and participants which exist in this domain of creative coding projects.
-
-- helped develop and deepen my reflection on key issues, to develop lines of thinking and to expose and explore barriers to participation in projects, tactics to address them and tensions
-
-Themes included: agency as a focus came in part from reflections from Dave Potts in particular the value of surfacing and valuing the interests of participants in digital making,  the value and tensions surrounding competitions in non-formal settings from Matt C, the importance of the helping roles of parents in digital technology from Saskia Leggett, and reflections of the affordances of toolkits and use of game mechanics as a meditational strategy from James C
-
-
-**RQS**
-The practitioner interview data helped inform the broad themes of RQ1 and RQ3.
-
-
-<!-- In my analysis, I have prioritised data which in forms the first research question and specifically addressing barriers and tensions for both practitioners and participants which exist in this domain of activity. -->
-
-
-
-<!--
-**Table of initial data addressing tensions included at end of Ch.5**
-https://docs.google.com/document/d/1aEF0EsZRe-Ovok2VP7ouYH_v-SdepnNnXFhLtj6SseU/edit -->
-
-
-#### S1 - Initial video analysis - dipping a toe in
-
-Stage one involved initial broad analysis of the  video recording observations. The rationale was to get a sense of the quality and characteristics of the data and to begin evaluation of how much video data to examine in what level of detail.  
-
-To begin the process I sampled video data of sessions selecting sessions in P2, P3 and P4. The 360 video proved most valuable at this stage to give a more holistic view of the activity on a community  level. Including, instructions and orientation to the whole group from me as a facilitator, movement of people around room, phases of session from intro, to pair working to peer interaction, Advantages included gestures, which at times helped disambiguate speech.
-
-Disadvantages included a lack of clarity of audio.
-
-Thus, at times I when some interactions were interesting, I would open up the screen capture file of particular participants. This allowed display of what was happening on their computer  
-
-At this stage I took notes in my data analysis diary on the practical issues arising.
-
-<!-- - Transcription and annotation of video capture footage in parallel with 360 data
-- Coding of sections of video to both emergent themes and themes relating to the research questions. -->
-
-Evaluation at this stage confirmed that full transcription of video data of all sessions was beyond the remit of the study.
-
-And that P2 and P3 contained the most useful data to inform the research objectives.
-
-Some initial observations and analysis of participant behaviour was recorded in a spreadsheet format (using the FLOSS libre office tool and MS office equivalent).
-(LINK TO 3 PLANES)
-
-
-#### s1 -  Initial description of video data using a spreadsheet and 3 planes approach
-
-**This data was analysed, at a broad scale at this stage by noting tensions and behaviours, and in particular meditational strategies**
-
-This was undertaking within a spreadsheet noted activity and tensions and meditational strategies as a list that emerged in initial review.
-
-To help categorise these entries I using 3 planes of sociocultural activity.  Following the approach of Morcom [@morcom_scaffolding_2014] I drew on Rogoff's  [-@rogoff_observing_1995] three planes of sociocultural activity used to help understand activity in a Community of Learners.
-
-
-<!-- SHOW AN EXTRACT OF AN EXCEL FILE - DATA - TIME - BROAD DESCRIPTION - WHY NOT GROUNDED? OR TO WHAT EXTENT WAS IT GROUNDED? IN THE AREA OF INTERPERSONAL ACTIVITY. -->
-
-<!-- https://docs.google.com/document/d/1vpAIqHPg_Z0S5MWeS0rBTvxCL1N9NQButam4Ozq39Ek/edit# -->
-
-
-While the three planes provided a higher level framework, specifics of the data gave greater granularity and formed I imagined / planned that later themes informed by LR would be used in the next stage of analysis.
-
-<!-- Rather than taking a grounded approach this data was analysed using 3 planes of sociocultural activity. The existing relevant framework saves time, especially as a more emergent approach was  (in part ) in coding video data. -->
-
-<!-- The process aligns with AT analysis in the scope of the activity - and in the separation out of the community level of the triangle added by Engestrom . -->
-
-
-<!-- While more complex, the plane of more individual participatory appropriation, allows for alignment and then transfer to more formal learning environments. This then makes this research more relevant to class room and guided sessions. -->
-
-
-### S2 (stage two) - exploratory phase data analysis
-
-- original plan for quant thematic analysis
-- choosing 10 sessions
-- trialling nvvo
-- coding schema , via clustering
-- continue work on  spreadsheet 3 planes, breaking out into separate word documents
-
-
-#### S2a - The original plan regarding quantitive thematic analysis
-
-The imagined end point for the process was a full coding of as much data as possible using full transcription of session and a coding scheme which emerged from thematic analysis using the Nvivo software.
-
-This would involve a mixed methods approach, with some quantitive data involved created by a systematic thematic coding of video data allowing time spend.
-
-
-My initial plan concerning analysis of both forms of video data and participant interview data was to undertake a process of thematic analysis and subsequent coding. Thematic analysis is a process of discovering underlying themes within data and can be carried out in varied ways. Coding involves applying the themes emerging into a set taxonomy which can be applied to the data. In the case of both textual and video data I proposed to do this using the NVIVO software [nv]
-
-This section will outline the rationale behind a shift to drop such the quantitative approach, thus signifying a shift from mixed methods to a purely qualitative approach.
-
-
-**What themes were was considered but then excluded at s2**
-
-A candidate schema for initial thematic analysis had emerged from s1 from literature review, early analysis of journal entries, participant interviews, and dipping in to video data.
-
-This schema included the following broad categories.
-
-
-The following themes  emerged as potential themes from LR, interview data and from initial clustering of data in Stage 1.
-
-- Elements of Computational Thinking
-- Systems Thinking Concepts
-- Design cycle stages
-- Participant roles and interactions
-- Types of Gameplay Design Patterns (MDA)
-
-Some of the themes were discarded relatively early in the clustering process, other remained for an extended time until a larger shift in thinking occurred.
-
-Computational thinking and systems thinking were discarded relatively quickly in this process for the following reasons.
-There is other extensive or focused work in these fields (previously explored in the literature review) on CT which this study which this study does not need to replicate. Systems thinking was promising however the data in P2 and P3 which became a chief focus of this study was not as rich in this area as later P4 and P5 data.
-
-These themes which reflected possible learning outcomes in the emerging pedagogy, were dropped partly following a decision to de-prioritise the applicability of this research to formal settings, allowing a greater focus on non-formal settings and processes.
-
-
-The following section examines this shift in thinking through one of those themes, that of roles and modes of interaction between participants.
-
-
-##### S2b - Defining of thematic analysis and video coding - via an iterative approach to thematic analysis.
-
-Thematic analysis is commonly done in stages, each revision building on insights of the previous one.
-
-What it is in a nutshell. And what are the common stages.
-
-Reasons to undertake thematic analysis and subsequent coding of  data include: to surface issue of relevance within data, to discover relationships and causality or at least correlation, and to organise instances of themes or behaviours so that the researcher can come back to get a summary of where that has been identified in the data.
-
-<!--
-from - https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit?tab=t.0#bookmark=id.k9kvu0182p6u -->
-
-
-The practical process of running queries on data gathered via video requires selecting parts of that video and coding to a coding schema that has emerged from previous process of thematic clustering, revision and then formalisation into a schema. There is a possibility that the process may evolve understanding which may subsequently evolve schema and thus require re-coding.
-
-
-
-While grounded analysis involves starting with no preset themes, the kind of analysis I undertook began with some themes that had emerged from interviews with practitioners and subsequent research which is summarised in the literature of  Chapter 2.
-This decision was guided by x, who said y.
-
-The advantage of using a coding software like Nvivo is the possibilities to compare and contrast different coding schema using coding comparison queries.
-These queries within Nvivio are a potential powerful tool to identify x and y.
-
-
-<!-- NEXT WORK ON THEMATIC ANALYSIS
-Summary of thematic analysis - https://www.plymouth.ac.uk/uploads/production/document/path/18/18247/Kiger_and_Varpio__2020__Thematic_analysis_of_qualitative_data_AMEE_Guide_No_131.pdf
-
-Search this for keywords and find relevant journal articles.
- -->
-
-#### S2a Prioritisation of sessions meriting deeper analysis (10? )
-
-**initial stage**
-
-S1 process had indicated that full analysis of all sessions not possible. A first step was to prioritise some of the session to trial a S2 process.
-
-To inform **prioritisation** of the video data at this early stage I began to formulate some guidelines to help prioritise sessions which included:  a wide sampling of different sessions, more in depth previewing of a few promising sessions.
-
-
-**justification of selecting sessions and sections for more detailed analysis**
-
-A word document containing a table of broad evaluation of the characteristics each sessions  helped to shape that decision on what sessions merited closer attention
-
-Criteria  for inclusion included both practical and theoretical considerations, including: quality of recording, how much activity, richness of interactions, a range of different kinds of participant interactions.
-
-MERGE UP
-- Good quality recording
-- Diversity of kinds of participants, ages especially
-- Diversity of participant actions in terms of tasks being worked on
-- Diversity of kinds of pair and peer interactions
-
-
-The two last 2 sessions in particular in P2 jumped out at being rich in community interaction as well as focused work.  I coded 2 screen capture videos of  from each of those  in more depth.
-(Mark and Ed and Susanna and Tehillah)
-
-**Later stage**
-
-Increasing number of sessions based on capactity
-
-I also sampled p3 work as well which could be characterised as more calm and focused with extensive pair work happening.
-
-
-
-##### s2b Trail process of coding and Nvivo / Vlc use
-
-I first attempted to undertake a trial process of coding screen captured sessions within Nvivo using a initial candidate of themes (which ones?)
-
-However I came into issues regarding the use of Nvivo to work with video files [vf]. Issue of video playback prevented a detailed granularity of coding. In addition the  
-
-To counter these issues, I trailed a process of creating 5 min sections as a text transcript.
-The large amount of video data in each session forced a partial transcription process which was in part descriptive and in other parts involved a closer transcription of the words spoken by participants.
-
-This trail was in part successful, word document created in the correct format could be imported into Nvivo for coding and query.
-Another reason prevented the further use of Nvivo.
-
-Driven by a requirement to cross reference the video data of 360 footage with screen capture video, I researched a process to syncronise and display both sources of video side by side on the same screen. Vlc player has the ability to play multiple files simultaneously. VLC also had flexible (and configurable) playback controls of which in comparison to Nvivo made the process of transcription much less frustrating.
-
-**Practicalities**
-
-I some sessions I attempted to have a clock displayed within view of the 360 camera. However, this was not always practical.
-
-Prioritise displaying time - have an old school clock under the 360 camera. For example.
-
-**Implications**
-
-The complications of video data coding in terms of granularity forced a reevaluation in imagined procedure.
-
-Given that a systematic and granular process would be difficult, how necessary would  complex queries using multiple coding schema within Nvivo be. In other words would the gain justify the pain?
-
-
-#### s2b - Clustering of themes and later change of direction away from close thematic analysis
-
-I began clustering of potential themes for analysis using 10 selected sessions and transcribing them.
-
-The process of initial clustering helped to get closer to the data and to :
-
-- start identify to  thematic analysis of the stages of design with other learning models
-- to identify roles through repeated patterns of interactions, and contrast to Barron's work
-- to reflect and revise on the thesis questions
-
-The process also allowed for a re-evaluation fo the original plan for coding.
-
-<!-- **Original plan for a fuller coding of data**
-
-I had planned  previous transcripts with notes were  imported data into nvivo and coded each of the 5 minute sections to the final thematic analysis. -->
-
-
-
-<!-- A key driver of my research was to explore the potential to draw on family experience in learning activities by working with families to make games together. As the study evolved, the family dimension of interaction was only one of several which emerged as significant. However, it would be challenging to separate out the family elements from others as the social resource created by families working together proved to be significant. Thus additional behaviours between young people and supporting behaviours from student helpers may have evolved in a sense benefiting from this base platform. Thus it makes sense to  -->
-
-
-<!-- BE SPECIFIC? -->
-
-
-#### S2c - What actually happened - Revisiting the research questions and thematic analysis process based on initial clustering
-
-<!-- SEE IF THIS FITS BETTER AT THE END OF CH.3.
-BUT WRITE FOR HERE FOR NOW -->
-
-Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
-
-Because the process of both formative intervention and DBR is exploratory with no set starting hypothesis, the process of formulation of RQs necessary one which is revisited as the process unfolds.
-
-**RQ2 & 3 - Importance of GDPs already present and shift to agency**
-
-The hybrid of DBR and formative methodology was chosen for its iterative, collaborative approach, which aligns with the study’s ethos of a detailed and systemic exploration of the expansion of the object of the game making pedagogy in an authentic and complex context. The Object of research here being in part the widening and clarifying research objectives.
-
-GDPs were clearly emerging as an important meditational strategy and one which merited more attention due to gaps in research landscape.  
-
-How can learners build agency in an evolving community of game makers?
-
-This widening of  the scope of one of the research questions beyond impact of family involvement on a game making process to instead to focus on a diverse and complex picture of the development of agency as a community
-
-##### s2 Video analysis - ongoing thematic clustering
-
-I returned to the  partially transcription of the video capture segments in word documents using the 5 minute segments originally created for importation into Nvivo.
-
-This had pros and cons. Pros include:
-
--  opening up lines of initial questioning which can be explored in future studies or triangulated with other data in this study.
-- some sections clearly suited being transcribed in more details based on themes of interest, and the value of detail on gesture analysis also added. I kept a note of these time period and later used them as vignettes.
-- Notes on the emerging themes could be kept in a sketchy text form within sections of word documents, and in tandem, notes could be added to a word document which outlines emerging thoughts on coding schema from themes and existing framworks which could inform coding process.
-
-
-Doc of thematic analysis evolution -    https://docs.google.com/document/d/19PafC_w_7uObYL4v86IGeeFZTw2yKxjHfP_k85rHk_s/edit
-
-
-Cons of this approach in general include:
--  breaking up video timescales into 5 minute sections lessens the ability to make exact claims
-- not using either a predefined schema or a smaller data set and grounded approach was difficult
-- trying this with a large amount of data was overwhelming at times.
-
-
-##### S2 On trying to create a quantitive schema - case study - e.g. participant roles and interactions
-
-I took evolving notes on coding of roles and interactions are in an online document here.
-
-Roles are different from interactions existing on a higher order of anaysis.
-Repeated patterns of interactions can be seen to develop into roles.
-Thus a more grounded approach may concentrate initially on interactions and develop this to become roles through analysis. However, many roles exist in other similar domains.
-
-For example, the work of my own staring point when coding was guided by Barron and colleagues work on the roles of parents as learning partners [-@barron_parents_2009]. The roles are as follows: Teacher, Collaborator, Learning Broker, Resource Provider, Nontechnical Consultant, Employer, and Learner.
-
-I made adaptations which were significant in guiding later analysis . The process of adaptation involved two significant shifts
-
-- mutual nature of interaction, not focused on parental roles exclusively
-- the value of peer interaction of the community
--
-The drawback of this approach was the fracturing of the categories which felt to me to detracted from an ability to analyse what was particularly significant about the experience in terms of the research objectives.
-
-The wider helping interactions, again while useful had drawbacks. Firsly, they were so numerous. Secondly, given the existing work of a general scope of digital making by Barron, it was not clear what I would add in terms of contribution to knowledge beyond broadly confirming it in the scope of digital game making.
-
-This led to two things
-- revising the research process to return to a more holistic approach using 3 planes
-- revisiting the research questions and objectives to reflect the emerging sense of what was important.
-
-
-#### s2 abandon a quantitive coding /thematic analysis -
-
-**developing clustering  via examples and consolidation**
-
-
-By abandoning strict coding, I de-prioritised the comparative approach possible by Nvivo queries.
-
-This is justified by wanting to cover a greater amount of data, to surface novel themes and describe them in detail using a high granular approach (vignettes)
-
-
-Dropping design stages as a schema, for justification and implications see discussion in chapter six.
-
-While I did not progress to a systematic coding of video data of  emerging themes. The process of clustering themes in preparation was essential to surface the themes which did emerge for closer observations. Requiring changes to RQs and ROs
-
-Thus categories of new uses of GDP and patterns of agency development in this domain were identified in S2 via 3 planes analysis .
-
-and then described via word docs which categorised the uses of GDPs and exposed tensions in designing for learner agency (which I had not fully explored before analysis began)
-
-
-
-**An example of a case where complexities that resisted coding**
-
-Take for example the process of Da in 2019-05-08 - where he was leading some fairly advanced work on researching and reading developer documentation and the constructing a new design pattern.
-
-There are competing and overlapping intention and foci here for the participants.
- - Solve immediate problem - add new pattern
- - communicate cultural practice of finding, reading and adapting developer level documentation and help from forums.
- - give hands on experience to the notice coder
-
-Most clearly there is an overlap here between the interpersonal working on a code problem collaboratively for educational purposes and the interactions with the wider cultural artefacts and practices from a professional environment.
-
-In addition the personal plane was perhaps the most problematic to address given the data gathered.
-Even when participants were demonstrating their personal knowledge by sharing back or directly altering game code, this was as part of a social and cultural practice.
-Thus my interpretation involved ....
-
-#### s2 Continuing a 3 planes approach
-
-As the process of transcription continued, I added to the document outlining meditational strategies.
-
-The advantages of drawing on funds of knowledge, and the activities that I used to do this, as well as connecting to wider communities are address well with the plane of culture, in the concept of Apprenticeship.
-
-
-<!-- when coding I started with some preset codes from the literature for examples Barron's codes on parent roles when helping digital projects. However, as coding progressed, I modified and extended these codes to better match the data I was working with
-
-Specifically, the following were removed from Barron's typology, parent as employer, non-technical consultant. Learning broker and resource provider were merged as some of the detail of those roles involve take place outside of the learning environment being analysed in coded video.
-
-I judged it appropriate to and less complex to analyse and code the interaction between participants rather than code the behaviours by participant type. -->
-
-
-
-### S3 (stage three) - Consolidation stage of data analysis
-
-Stage three progressed to a finer level of analysis with data selected for a greater granularity of
-
-Some sections chosen as exemplars for broader themes emerging in the data at S2.
-
-Thus serving two purposes, a greater level of examination, in particular to inform thinking on use of GDPs and  development of participant agency; and as a source of evidence to support the findings of the following chapters.  
-
-Final clustring, and GDP categoriesation, Use of vignettes, and triangulated with interview data.
-
-#### s3 - Selection of vignettes for deeper analysis
-
-- Full transcription of key moments: and description of participant activity, activity on screen including simple gesture analysis
-
-Used in chapters to orient the reader
-
-**Incorporating  movement around the room in analysis**
-
-The 360 camera allowed for side by side analyis of the group, pair or individual working. Due to the layout these were cluster often around a laptop.
-
-In the initial stages of transcription and description having this data was extremely useful to disambiguate spoken statements.
-
-As a personal experience of describing and transcribing even thought it was a significant amount of work to synchronise and then to play both video sources side by side, the additional information really aided the description process in adding detail to the interpretations of motivations of participants.  
-
-For an example see the vignette in appendix 6.x (Suzanna and Olivia) chapter 6 which details the movement and behaviours of the child away from the computer as an example of legitimate peripheral activity.
-
-**Simple gesture analysis**
-
-Feedback from a Ricardo Nemirovsky a review at the RD2 stage in response to the sharing of a prototypical vignette prompted a greater incorporation of gesture analysis[@nemirovsky_gesture_2012; @nemirovsky_conversations_2021]
-
-It is limited here to broad scope and therefore does not address x and y
-
-At times gestures helped clarify some things that were unclear from audio and screen capture data.
-
-In some exchanges, 360 data was vital to disambiguate spoken word interactions. In particular, in deictic verbal referencing, where unclear statements were clarified with pointing or other gestures was common.
-
-Gestures were also used often to communicate planned  game movements on screen, or for other on-screen actions or procedures, e.g in Vignette x, indication of action of cropping an image.
-
-
-
-<!-- Notes
-A start of a framework here from Salen
-https://docs.google.com/document/d/1pK-m0Ecymixw6YhH1FdwS1ZlnFoYhLmQojDnnnxDysY/edit
-more notes Here - including MDA framework.
-https://docs.google.com/document/d/1bLsRf2wjdKYVmiB8W7f0XYTikBOxMDIY2rAEGK0dPmw/edit#heading=h.4nad7a137op4
--->
- <!-- The analysis of these resources using the three planes involved a choice of some of the following
-- using a spread sheet and putting categories and notes in to columns
-- using a table in word to record notes on data in-situ -->
-
-<!-- The video data explored in nvivo is very time consuming, and given this and the factor that the transforming reflections into  learning resources, already involves a process of filtering, a much courser level of data analysis. -->
-
-<!-- However, using a static text only approach such as describing data in prose or using a table in a word document does not allow for filtering based on themes which is potentially useful as an analytical too.   -->
-
-<!-- Thus using MS Excel as a simple way to collate data without translation seems appropriate. -->
-
-
-
-#### s3 Use of participant interview data  & importance of process of triangulation
-
-Participant interview data mostly used to confirm and triangulate with video data from making sessions
-
-Post-workshop participant interviews gathered information to support analysis of specifics of in-session interactions and relevant detail of wider activity systems of home digital use.
-
-ANALYSIS  - NOT SURE ON THIS YET IN TERMS OF ORDER OF THINGS - PERHAPS REFLECT THAT.
-
-These interviews took place at the end of P3
-
-At times the resources that were created were brought up on the screen during capture.
-
-Interviews surfaced important data about home use of games and learning relationships.
-
-These interviews allowed triangulation and confirmation of data observed in video recordings.
-
-They were important to confirm initial researcher conclusions before a final process of closer video data analysis.
-
-**Limitations in interview data**
-
-In retrospect, shorter interviews at more regular intervals with participants would have been useful to answer
-
-
-#### s3 - Clustering and deepening the analysis of GDPs (as mediational strategies)
-
-
-This is not strictly , instead the process followed these stages
-
- - identification of GDP as an important theme
- - listing of GDP mediational uses in 3 planes doc, and in 10 transcriptions
- - collation in S3 of those themes and identification in vignettes for closer study,
- - triangulation with interview data & games created
-
-The resulting data and analysis is explored in chapter 6,
-
-In addition additional analysis using the model of PRIMM, semantic waves and LOA  developed  in Ch.7
-
-
-<!--
-I'm not sure how to introduce this.
-Perhaps don't. Instead go with overall themes in three planes.
-
-      - in personal appropriation of concepts
-- assisting project navigation
-- scaffolding ideation processes
-- aiding division of labour
-- GDPs in technical processes
-- facilitating designing for others
-- GDPs used as concepts in playtesting
-- playtesting used to propagate GDPs
-- facilitating use of home knowledge via GDPS -->
-
-##### s3 - Clustering and deepening the analysis of design/ processes on learner agency / including learning as movement
-
-<!-- NOTE  I would say no - too complex for coding  -->
-
-REMOVED AS PROPOSAL BUT INSTEAD HOW TO ADDRESS THIS?
-
-FIND ANOTHER FRAMEWORK FOR AGENCY AND CODE TO THAT.
-
-Answering RQ - on pedagogical resources / agency / use of GDPs
-
-THIS IMAGINED FOR CONCLUSION BUT ALSO CODE TO IT? OR ABOVE?
-
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
-
-<!-- In this process, tensions emerged which impacted my framing and understandings of the research questions.
-HOW?  -->
-<!-- These tensions were driven by practicalities, the needs and interests of participants, and my interests my needs / interests of myself as a researcher. -->
-
-
- <!-- See the thesis by Digital Game Education: Designing interventions to encourage players’ informed reflections on their digital gaming practices Rafael Marques de Albuquerque
- As this is done very methodically
- -->
-
-<!-- 1.  What pedagogical tools and processes are available to support novices to overcome barriers to game coding and design?
-2. How can learners build agency in an evolving community of game makers?
-3. How can game design patterns support the development of coding practices with novices? -->
-
-
-
-#### s3 - Evolution of a conceptual model of learning
-
-Analysis also involved developing a conceptual model for learning with agency development and movement between learning spaces at its root.
-
-This is developed and advanced in Ch.7
 
 ## Ethical considerations and validity
 
@@ -1460,6 +928,9 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 | Phase 2<br><br>Jan - Feb 2019;<br><br><br>     | Glitch Game Club:<br>20 participants attend for 6 weeks. A new template are resources were introduced.                                                                                                                                                  | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
 | Phase 3<br><br>May 2019<br><br>                | Glitch Game Club 2:<br>Second iteration of game making course of 4 weeks using Phaser.js and Glitch.com                                                                                                                                                 | Digital and paper journal notes;Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
 | Phase 4<br><br>Jan 2020 - May 2020<br><br><br> | Rebel Game Makers (Make Code Arcade); Two iterations of game making course of 5-6 weeks using MakeCode Arcade tool. The template, resources and facilitation approach was based closely on the previous stages.                          | Digital and paper journal notes; Learning resources created; 360 Video recordings of all participants; Screen capture and audio recordings of each participant; Code and graphical assets created by participants as part of game making process |
+
+
+
 
 
 ## Footnotes
