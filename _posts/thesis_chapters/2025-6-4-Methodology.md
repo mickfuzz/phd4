@@ -190,9 +190,7 @@ Applied to software, tools should be replicable within the target audience of in
 
 ### Authentic and Ecological Orientation
 
-The research was embedded in a real-world, non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. 
-
-This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible. These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019]  where value is created through contextually relevant pedagogical engagement.
+To produce findings are contextually valid and socially relevant, pedagogical interventions too place within a real-world CGD&P learning programme in a non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible (covered in a following section). These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019]  where value is created through contextually relevant pedagogical engagement.
 
 ### Researcher–Facilitator Dual Role
 
@@ -253,7 +251,7 @@ This impacted recruitment of participants and the nature of the session that ran
 
 The process of describing the varied sources of influence on the evolving design, learning as movements, horizontal etc.
 
-This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecological approach to research. The motivation for embedding pedagogical interventions within a real-world CGD&P learning environment, is to produce findings are contextually valid and socially relevant.
+This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecological approach to research.
 
 
 
