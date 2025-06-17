@@ -11,25 +11,25 @@ title: 4. Methodology
 ---
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Outline of chapter (move up?)](#outline-of-chapter-move-up)
-    -   [Introductory themes from the theoretical framework and
-        RQs](#introductory-themes-from-the-theoretical-framework-and-rqs)
-        -   [Defining the scope and approach of the methodology of this
-            research as qualitative, general and
-            exploratory](#defining-the-scope-and-approach-of-the-methodology-of-this-research-as-qualitative-general-and-exploratory)
-        -   [Exploratory Nature - not set
-            goals](#exploratory-nature---not-set-goals)
-            -   [Iterative process with participant
-                input](#iterative-process-with-participant-input)
-        -   [Authentic and ecological nature of
-            research](#authentic-and-ecological-nature-of-research)
-        -   [General utility (Rich descriptions & holistic data
-            collection)](#general-utility-rich-descriptions-holistic-data-collection)
-        -   [Dual Role research and facilitator and resulting challenges
-            and
-            opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
-    -   [Project delivery phases and data
-        collection](#project-delivery-phases-and-data-collection)
+        -   [Defining Scope and Approach](#defining-scope-and-approach)
+        -   [A Qualitative, General, and Exploratory
+            Approach](#a-qualitative-general-and-exploratory-approach)
+        -   [Utility, Holistic Data and Rich
+            Descriptions](#utility-holistic-data-and-rich-descriptions)
+        -   [Authentic and Ecological
+            Orientation](#authentic-and-ecological-orientation)
+        -   [Researcher--Facilitator Dual
+            Role](#researcherfacilitator-dual-role)
+    -   [previous bits](#previous-bits)
+        -   [pb - General utility (Rich descriptions & holistic data
+            collection)](#pb---general-utility-rich-descriptions-holistic-data-collection)
+        -   [pb - Authentic and ecological nature of
+            research](#pb---authentic-and-ecological-nature-of-research)
+        -   [pb - Dual Role research and facilitator and resulting
+            challenges and
+            opportunities](#pb---dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
+    -   [Data collection within project delivery
+        phases](#data-collection-within-project-delivery-phases)
         -   [Recruitment and data on
             participants](#recruitment-and-data-on-participants)
         -   [Summary of phases and resources of the study
@@ -41,14 +41,14 @@ title: 4. Methodology
             collection](#table-of-methods-of-data-collection)
         -   [Data collection of journal notes and facilitation
             artefacts](#data-collection-of-journal-notes-and-facilitation-artefacts)
-        -   [Use of Video data - 360 and Screen
-            capture](#use-of-video-data---360-and-screen-capture)
+        -   [Video data collection via 360 and screen
+            capture](#video-data-collection-via-360-and-screen-capture)
         -   [Practicalities of data collection and
             processing](#practicalities-of-data-collection-and-processing)
             -   [360 Video Processing](#video-processing)
         -   [Collection of interview
             data](#collection-of-interview-data)
-    -   [Data Analysis](#data-analysis)
+    -   [Data analysis process](#data-analysis-process)
         -   [Iterative approach of data
             analysis](#iterative-approach-of-data-analysis)
         -   [Summary table of data analysis - HERE OR AT
@@ -107,19 +107,18 @@ title: 4. Methodology
                     movement](#s3---clustering-and-deepening-the-analysis-of-design-processes-on-learner-agency-including-learning-as-movement)
             -   [s3 - Evolution of a conceptual model of
                 learning](#s3---evolution-of-a-conceptual-model-of-learning)
-    -   [Ethical considerations, validity &
-        reliablity](#ethical-considerations-validity-reliablity)
-        -   [Ethical considerations and
-            processes](#ethical-considerations-and-processes)
+    -   [Ethical considerations and
+        validity](#ethical-considerations-and-validity)
+        -   [Ethical approval process](#ethical-approval-process)
             -   [Data validity, reliability](#data-validity-reliability)
-            -   [Limits of / problems with video data
-                analysis](#limits-of-problems-with-video-data-analysis)
-            -   [Limits of interview data\_](#limits-of-interview-data_)
         -   [Generalisation of Research](#generalisation-of-research)
             -   [Data Replicability](#data-replicability)
             -   [Generalisation of
                 Research](#generalisation-of-research-1)
-    -   [Discussion on Methodology](#discussion-on-methodology)
+        -   [Limitations of interview and video
+            data](#limitations-of-interview-and-video-data)
+            -   [Limits of interview data\_](#limits-of-interview-data_)
+    -   [Discussion and limitations](#discussion-and-limitations)
         -   [How does this methodology relate to existing models of
             Change Laboratory & DBR and what does that add
             potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
@@ -127,7 +126,8 @@ title: 4. Methodology
             -   [Recap on the emergent and mutual nature of the design
                 and research
                 process](#recap-on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
-    -   [Limitations - MOVE MORE HERE](#limitations---move-more-here)
+    -   [Limitations of overall
+        methodology](#limitations-of-overall-methodology)
         -   [Limitation of demographics of
             participants.](#limitation-of-demographics-of-participants.)
     -   [Chapter conclusion and link](#chapter-conclusion-and-link)

@@ -1,22 +1,20 @@
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Defining Scope and Approach](#defining-scope-and-approach)
-        -   [A Qualitative, General, and Exploratory
-            Approach](#a-qualitative-general-and-exploratory-approach)
-        -   [Utility, Holistic Data and Rich
-            Descriptions](#utility-holistic-data-and-rich-descriptions)
-        -   [Authentic and Ecological
-            Orientation](#authentic-and-ecological-orientation)
-        -   [Researcher--Facilitator Dual
-            Role](#researcherfacilitator-dual-role)
-    -   [previous bits](#previous-bits)
-        -   [pb - General utility (Rich descriptions & holistic data
-            collection)](#pb---general-utility-rich-descriptions-holistic-data-collection)
-        -   [pb - Authentic and ecological nature of
-            research](#pb---authentic-and-ecological-nature-of-research)
-        -   [pb - Dual Role research and facilitator and resulting
-            challenges and
-            opportunities](#pb---dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
+    -   [Defining Scope & Approach](#defining-scope-approach)
+        -   [Defining the scope and approach of the methodology of this
+            research as qualitative, general and
+            exploratory](#defining-the-scope-and-approach-of-the-methodology-of-this-research-as-qualitative-general-and-exploratory)
+        -   [Exploratory Nature - not set
+            goals](#exploratory-nature---not-set-goals)
+            -   [Iterative process with participant
+                input](#iterative-process-with-participant-input)
+        -   [General utility (Rich descriptions & holistic data
+            collection)](#general-utility-rich-descriptions-holistic-data-collection)
+        -   [Authentic and ecological nature of
+            research](#authentic-and-ecological-nature-of-research)
+        -   [Dual Role research and facilitator and resulting challenges
+            and
+            opportunities](#dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
     -   [Data collection within project delivery
         phases](#data-collection-within-project-delivery-phases)
         -   [Recruitment and data on
