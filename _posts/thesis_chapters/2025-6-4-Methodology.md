@@ -20,34 +20,11 @@ title: 4. Methodology
             Orientation](#authentic-and-ecological-orientation)
         -   [Researcher--Facilitator Dual
             Role](#researcherfacilitator-dual-role)
-    -   [previous bits](#previous-bits)
-        -   [pb - General utility (Rich descriptions & holistic data
-            collection)](#pb---general-utility-rich-descriptions-holistic-data-collection)
-        -   [pb - Authentic and ecological nature of
-            research](#pb---authentic-and-ecological-nature-of-research)
-        -   [pb - Dual Role research and facilitator and resulting
-            challenges and
-            opportunities](#pb---dual-role-research-and-facilitator-and-resulting-challenges-and-opportunities)
     -   [Data collection within project delivery
         phases](#data-collection-within-project-delivery-phases)
-        -   [Recruitment and data on
-            participants](#recruitment-and-data-on-participants)
-        -   [Summary of phases and resources of the study
-            -](#summary-of-phases-and-resources-of-the-study--)
-            -   [On mutuality of design and practicalities of collection
-                during
-                phases](#on-mutuality-of-design-and-practicalities-of-collection-during-phases)
-        -   [Table of methods of data
-            collection](#table-of-methods-of-data-collection)
-        -   [Data collection of journal notes and facilitation
-            artefacts](#data-collection-of-journal-notes-and-facilitation-artefacts)
-        -   [Video data collection via 360 and screen
-            capture](#video-data-collection-via-360-and-screen-capture)
-        -   [Practicalities of data collection and
-            processing](#practicalities-of-data-collection-and-processing)
-            -   [360 Video Processing](#video-processing)
-        -   [Collection of interview
-            data](#collection-of-interview-data)
+    -   [Data Collection Within Project Delivery
+        Phases](#data-collection-within-project-delivery-phases-1)
+        -   [LINKS OUT](#links-out)
     -   [Data analysis process](#data-analysis-process)
         -   [Summary table of data
             analysis](#summary-table-of-data-analysis)
@@ -57,37 +34,13 @@ title: 4. Methodology
             Refinement](#stage-2-thematic-refinement)
         -   [Stage 3 -- Interpretive
             Consolidation](#stage-3-interpretive-consolidation)
-    -   [Ethical considerations and
-        validity](#ethical-considerations-and-validity)
-        -   [Ethical approval process](#ethical-approval-process)
-            -   [Data validity, reliability](#data-validity-reliability)
-        -   [Generalisation of Research](#generalisation-of-research)
-            -   [Data Replicability](#data-replicability)
-            -   [Generalisation of
-                Research](#generalisation-of-research-1)
-        -   [Limitations of interview and video
-            data](#limitations-of-interview-and-video-data)
-            -   [Limits of interview data\_](#limits-of-interview-data_)
-    -   [Discussion and limitations](#discussion-and-limitations)
-        -   [How does this methodology relate to existing models of
-            Change Laboratory & DBR and what does that add
-            potentially](#how-does-this-methodology-relate-to-existing-models-of-change-laboratory-dbr-and-what-does-that-add-potentially)
-        -   [Potential of this approach](#potential-of-this-approach)
-            -   [Recap on the emergent and mutual nature of the design
-                and research
-                process](#recap-on-the-emergent-and-mutual-nature-of-the-design-and-research-process)
-    -   [Limitations of overall
-        methodology](#limitations-of-overall-methodology)
-        -   [Limitation of demographics of
-            participants.](#limitation-of-demographics-of-participants.)
-    -   [Chapter conclusion and link](#chapter-conclusion-and-link)
-    -   [Parked to replace or remove or
-        rework](#parked-to-replace-or-remove-or-rework)
-        -   [How Research Questions Evolved - JUSTIFICATION FOR CHANING
-            FOCUS.](#how-research-questions-evolved---justification-for-chaning-focus.)
-    -   [Parked - tables on data
-        collection](#parked---tables-on-data-collection)
-        -   [Phases and data Gathering](#phases-and-data-gathering)
+        -   [Ethical considerations and
+            validity](#ethical-considerations-and-validity)
+        -   [Generalisability and
+            Replication](#generalisability-and-replication)
+        -   [Methodological and Practical
+            Limitations](#methodological-and-practical-limitations)
+        -   [Closing Note](#closing-note)
     -   [Footnotes](#footnotes)
 
 # Methodology
@@ -153,234 +106,66 @@ As explored in Fifth Dimension work by Cole and others, this researcher-practiti
 
 
 ## Data collection within project delivery phases
+## Data Collection Within Project Delivery Phases
 
-This section addresses both the phases of delivery of the game making programme to families and the data collection that occurred at each phase.
+This section outlines both the delivery of the game-making programme and the data collection activities embedded within each phase. As the next chapter presents the evolution of the intervention as a design narrative, the focus here is primarily on methods of data collection and the analytical approaches they supported.
 
-As the next chapter outlines the evolution of the learning intervention as a design narrative, discussion of learning design will be brief here and concerned with overall methodology of collection and analysis.
-
-A summary of the delivery phases and one key development period are outlined in a graphical representation below in Fig 4.x. to help situate the following descriptions and discussion.
+The project was delivered over five distinct phases, along with a development period. Each phase involved changes to tools, group sizes, and facilitation practices. These shifts reflected both planned redesign and more responsive adaptations to participant needs. Figure 4.x shows a summary of these phases.
 
 ![](./Pictures/phases_diagram_chevrons_2.png){width=98%}
 
-Fig. 4.x Summary of delivery phases and development periods
+**Fig. 4.x Summary of delivery phases and development periods**
+
+My involvement in previous work through the EdLab programme and its playful technology strand meant that I had already built relationships with a number of home-educating families. Between 2016 and the start of this study, I had run various workshops in libraries, the university, and through CoderDojo events. These helped maintain contact with families, supported by regular posts in three established home education communication networks. I recruited participants informally, sharing a short message and asking interested adults to contact me by email. Once they did, I sent them a participation sheet and asked for confirmation of interest. Further ethical considerations are addressed later in this chapter.
+
+The following table gives an overview of participant numbers, number of sessions, and key learning activities by phase. These changes in focus and activity shaped the kinds of data generated, and also influenced the form and feasibility of collection.
+
+| Phase | Sessions | Participants | Key learning activities and data generated |
+|-------|----------|--------------|--------------------------------------------|
+| P1    | 10       | 5 (p) + 8 (c) | Exploratory phase with three larger groups of mixed ages. Data includes paper-based planning, basic coding using a text-based toolset, and early asset creation. Game files and code were collected. See Appendix t.x. |
+| P2    | 6        | 8 (p) + 11 (c) + 4 (sh) | Groups became smaller and more focused. A shared template supported game development. Asset creation was more limited, but participants used printed guides extensively. See Appendix t.x. |
+| P3    | 5        | 4 (p) + 8 (c) + 1 (sh) | Same coding environment as in P2. Additional drama activities and side missions were introduced. See Appendix t.x. |
+| P4    | 6        | 4 (p) + 7 (c) | MakeCode, a block-based toolset, was introduced and used throughout. Sessions became more modular. See Appendix t.x. |
+| P5    | 5        | 3 (p) + 3 (c) | A smaller cohort continued to use MakeCode, focusing on individual and pair-based work. See Appendix t.x. |
+
+The development of learning resources took place alongside delivery, and participants influenced this process in various ways. Some changes were shaped by direct input, such as help requests, informal conversations, and interviews. Others were shaped by more indirect means, including the games participants made, my journal entries reflecting on interactions, and video or screen capture data from sessions.
+
+The table below outlines the types of data collected and where they occurred across the phases.
+
+| Name                        | Details                             | Description                                                                                          | Used in which phases |
+|-----------------------------|-------------------------------------|------------------------------------------------------------------------------------------------------|----------------------|
+| Screen capture data         | 72 recordings from 12 sessions      | Recorded using Flashback Pro. Included video, audio, mouse activity, and keystrokes.                 | P2, P3, P4, P5        |
+| 360 video data              | 9 recordings from 9 sessions        | Captured using a 360-degree camera on SD card.                                                       | P2, P3, P4            |
+| Journal entries             | 3 paper journals and 50 pages digital | Reflections, session planning, design sketches, and notes on challenges and evaluation.              | All phases            |
+| Programme resources created | Varied (see Chapter 5)              | Materials evolved through participant feedback and facilitator experimentation. Stored digitally.    | All phases            |
+| Practitioner interviews     | 4 interviews, around 90 minutes each | Conducted via Zoom. Recorded and stored as video files.                                              | After P3              |
+| Participant interviews      | 4 interviews, around 90 minutes each | One via Zoom, three captured using screen recording to prompt reflection on games and artefacts.     | After P3              |
+
+Journal notes were kept throughout the process in both paper and digital formats. These notes included session reflections, design challenges, and links to emerging themes in the literature. Alongside this, I archived the digital resources used in each phase, including templates, guides, and materials created by the young participants. The games themselves were treated as a form of data. This was partly informed by activity theory's emphasis on tools as culturally mediated artefacts, and by the principle of double stimulation, where learners appropriate and repurpose tools for their own ends.
+
+There were practical challenges in collecting and maintaining access to these digital artefacts. In 2025, the platform Glitch.com announced it would no longer host user projects. I responded by downloading HTML, JavaScript, and CSS files for each game, and archiving them in a Git repository. While some projects created in Piskel were lost, many had been exported in advance and could be preserved. Game data was also stored offline to protect against future platform issues.
+
+Video data played a key role in capturing situated activity. Flashback Pro was chosen for screen capture due to its accessibility and compatibility with home computers. The software recorded user input and screen activity, but to make the files usable in coding software like NVivo, they had to be converted from `.fbr` to `.mp4` format. This conversion process removed some data, such as mouse and keyboard events. I avoided using webcams as they were more intrusive and would have required additional technical management. Instead, the 360 camera was placed centrally in the room, capturing whole-group interaction without fragmenting the learning space.
+
+Managing this data involved careful planning. The large video files required consistent naming and regular backups. The 360 recordings were particularly complex, sometimes split into segments that made time navigation difficult. Specialised software from the camera manufacturer was needed to process the raw footage. To address these challenges, I developed a Linux-based workflow for organising and processing video and audio data, which is included in the technical appendix.
+
+Participant and practitioner interviews took place after Phase 3. These were semi-structured and conducted online due to practical and, at times, COVID-related constraints. While the interviews were not fully transcribed, key sections were reviewed and analysed in combination with other data. Participants were sometimes asked to revisit their games during the interview to support reflection on design choices and problem-solving strategies.
+
+Interviewees included Saskia Leggett, a researcher involved in the Creative Family Learning programme; Matt Curinga, an academic and educator active in community-based coding projects; Dave Potts, a professional programmer and long-term CoderDojo volunteer; and James Clegg, a PGCE computing student who had also supported sessions in person.
+
+
+#### LINKS OUT
 
 <!-- Revise diagram here https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g360e8ce46fa_0_0#slide=id.g360e8ce46fa_0_0 -->
 
-
-
-### Recruitment and data on participants
-
-<!-- Home education groups operate in varied ways, and in my experience are characterised by loose ties rather than strong formal bonds. -->
-
-In early 2016 I had carried out an exploratory workshop with home educators to explore future partnerships with the enrichment programme of the Faculty of Education [^el]. The process of recruiting was facilitated by the running of on going one off workshops which were similar in scope via the EdLab funologists strand of playful technology project. Specifically, half term events at Manchester Libraries and in the University and at Coder Dojo week end events.
-
-This work meant I was in regular contact with some home educators and posting opportunities on their forum contributed to an ongoing relationship within the three existing home education communications networks used to share information and experiences [he]. To recruit participant I circulated a simple text to participants asking them to get in touch via email. When participants got in touch I emailed adults the relevant participation sheet and asked them to confirm their interest.
-
-This process is covered in the ethics later in this chapter below.
-
-<!-- WHAT IS THE FOUNDATION FOR ANALYSIS ?
-CERTAINLY FINDING AND RESOLVING TENSIONS.
-
-There is a framework for looking at tensions here.
-https://onlinelibrary.wiley.com/doi/full/10.1002/sce.21254?casa_token=cBrHq4V42XUAAAAA:qLvlA17sLIGDHnxN_XqTgZpBDP39phmbLXVzu6QFn89LzBtXshp-y4hFVmi2CvmWTYdj50XNe2qSqg -->
-
-### Summary of phases and resources of the study -
-
-The following section  provides an overview of activity use by phase briefly detailing the evolution of tools and processes.
-
-<!-- [Summary Table of phases](https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/edit#) -->
-
-
-| Name | Number of sessions | Number of participants [key] | Description of participant activities generating data  |
-| ---- | ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| P1   | 10                 | 5 (p) + 8 (c)                                       |  Exploratory phase, 3 larger groups of 4-5 participants of mixed ages,  paper planning notes from early weeks, basic text based coding tool set, data from asset creation tools collected with game code . See Appendix t.x  |
-| P2   | 6   | 8 (p) + 11 (c) + 4 (sh) | Using game code template, smaller groups encouraged, more limited asset creating toolset, extensive supporting documentation used. See Appendix t.x  |
-| P3   | 5 | 4 (p) + 8 (c) + 1 (sh)    | same toolset as P2 in addition a drama process and side missions . See Appendix t.x  |
-| P4   | 6   | 4 (p) + 7 (c)  | MakeCode block based toolset introduced, . See Appendix t.x  |
-| P5   | 5  | 3 (p) + 3 (c)  | More limited participants, MakeCode block based toolset introduced, . See Appendix t.x  |
-
-
-#### On mutuality of design and practicalities of  collection during phases
-
-APPENDIX LINK OUT
-
-The process of creating resources also occurred in phases which had input from participants.
-
-**Types of input by Participants**
-
-
-
-This an iterative approach is evident in the evolution of the learning design and resources. For example, the trialling of the coding environment and starting templated occurred over and extended period and with input and concrete additions from parent volunteers, graduate trainee-teacher students, undergraduate students helpers University colleagues and with more indirect ongoing feedback from participating young people and their guardians. Input took varied forms.
-
-Direct input was through help requests made by participants and feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-
-Direct input was through requests and informal feedback and structured end-of-course interviews.
-
-Indirect input was also at play in the form on the games participants created, my research journal entries on my interactions with and observations of participants.
-
-
-<!-- D1 and D2:
-
-D1 Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015].
-
-D2 - One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources. -->
-
-
-<!--
-P2, A game making course of 6 weeks. The template and resources created D2 were used as a starting point but still under rapid development based on informal participant feedback and my journal reflections.
-
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
-
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
-I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
-The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023]. -->
-
-### Table of methods of data collection
-
-<!-- Online version here
-https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit
- -->
-
-| Name                        | Details                                                   | Description                                                                                                                                                                          | Used in which Phases                                                                                   |
-| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| Screen capture data         | 72 recordings from 12 sessions                            | Captured in Flashback pro and stored as fbr                                                                                                                                          | P2, P3, P4 , P5                                                                |
-| 360 Video Data              | 9 recordings from 9 sessions in P2 and P3                 | Captured in 360 Gear camera on mini SD card                                                                                                                                          | P2, P3, P4                                         |
-| Journal entries             | 3 journals in  book form and 50 pages of electronic notes | Books journals contained planning, immediate reflections on sessions. Electronics documents focused more on evaluation of evolving sessions and problems encountered by participants | All Phases                                                                                                                  |
-| Programme resources created | Diverse resources (see Ch. 4)                             | Evolved during each phase - kept in online spaces                                                                                                                                    | All Phases                                                 |
-| Practitioner Interviews     | 4 x 90 min (average) interviews                           | Video and audio data recorded via a zoom meeting. Data stored as mp4 video files.                                                                                                    | After P3   |
-| Participant Interviews      | 4 x 90 min (average)  interviews                          | One collected via zoom meeting and stored as mp4 files. Three recorded via flashback pro with screen capture to capture exploration of games and assets created.                     | After P3 |
-
-
-### Data collection of journal notes and facilitation artefacts
-
-Auto-ethnographic data collection
-
-I used journal notes extensively in a notebook format and in electronic format within chronologically categorised word processing documents. These notes involved a mix of session planning, resource planning, immediate reflections on sessions, and notes on links with existing literature.
-
-In addition, I also carefully collected the session resources themselves in terms of the tools used and supporting documentation and activities.
-
-The games and artefacts themselves also are data of a sort.
-
-**Rationale**
-
-
-Principle of double stimulation, and adoption of tools for different purposes than originally intended.
-
-Allowing movement, and mutuality,
-
-link to 5thD and other studies guided by
-
-Also introduce the process of Chapter 5 design narrative
-
-**Practicalities and Challenges**
-
-_Journal data formats_
-
-- Book Journal pages
-- Digital journal entries directly in response to teaching sessions
-- Other subject specific journal notes.
-
-
-
-**A challenge of data collection of artefacts**
-
-In terms of the sustainability of the data collected. This was tested in the final stages of writing when the site on which the games and images were stored glitch.com announced it would stop hosting in July 2025. The data was migrated by downloading html, javascript, css and image files as a bulk download and reuploading to a git repository [gm].
-
-Projects created in piskel were lost, but exported data remains.
-
-_game data_
-
-The process of keeping game data created within  online and available is tricky.
-However, as files were HTML, js and css. Offline archives were created for later use. Helpful in case of Thimble as the project was discontinued.
-
-WRONG!
-As of the time of writing Glitch.com, the replacement remains. A selection of games created remain here [gg].
-
-
-
-### Video data collection via 360 and screen capture
-
-**Summary**
-
-Screen capture is a process which allows the recording of data of what is happening on the screen of computers. It optionally allows the audio being played
-
-I chose the software flashback pro primarily as it was installed on and available at low cost on home computers. No FLOSS equivalent was available. Flashback saves data in a format. This include audio, video screen capture, learner keystrokes, mouse movements and optionally one or more webcams. I decided not to record on webcams for the following reasons:
-
-- intrusive feel - having the webcam on and the resulting red light on the screen, I felt was less conducive to feeling comfortable than one 360 camera in the middle of the room.
-- less resources - recording webcam on the laptop
-- reduced video file size of final data file
-- less complexity when processing data -
-
-It not possible to code the natively created files directly. Thus need to be converted to mp4 to import into coding software like Nvivo. In this process the keyboard and mouse data is lost.
-
-**Rationale**
-
-Video "rich" data collections
-
-Environmental - i.e. in situ - and as a form of activity that fit within the pattern of home ed families existing activities.
-
-### Practicalities of data collection and processing
-
-While the rich set of data invites the cross referencing of the many sources, it also presents challenge on how to deal effectively with the large amounts of data being gathered. The use of a 360 camera reduces the amount of live video footage of interactions needed. Instead of multiple cameras pointed in different directions to capture participant interaction, participants are arranged in a square pointing inwards towards a central 360 degree camera.
-
-Check viability of data at each stage of processing and movement.
-
-<!-- I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches. The very nature of working with video is time consuming. -->
-<!-- There is sometimes a danger of imagining how a new data gathering tool could be useful but then not being aware of all of the potential pitfalls which can make processing the data time consuming. Also  -->
-<!-- On a personal note, I sometimes like the challenges involved and sometimes find them infuriating. It can be like a specialist knowledge which you can use as a currency, or as a hidden knowledge that you take pride in sharing. -->
-
-<!-- I use a software sustainability approach also influenced by a personal modification of permaculture computing ideas and ideas of free software and open document approaches.
-
-- Data portability and interoperability
-- Software sustainability, in particular longevity
-- Licencing - FLOSS licence ?
-- If proprietary - then what is the business model?
-- Is batch processing of files possible?
-- It it a cross platform approach - in particular can I use it on debian based linux systems?
-
-I also take a more practical approach which takes into account working with peers and that such advocacy is not a core part of my job or this research.
-
-Such an attitude may involve compromises or hacking systems, software or processes -->
-
-#### 360 Video Processing
-
-
-The processing of video and audio data of both captured screens and 360 video data and high quality audio data involved several stages yielding advantages in capturing the gestures and facial expressions of potentially all participants in one recording. It does however present challenges. While this merits further exploration a brief summary of challenges is presented here.
-
-The process involves large video files that are easily corrupted in transfer. While the files are split into 8 minute segments  but also can be confusing
-- time navigation - also confusing - sometimes put up on the screen - but inconsistently
-- moving and keeping a track of data from week to week and over years is complex.
-- processing data requires special software - from samsung
-- viewing data on a normal vlc player - needs extra processing using spatial media
 
 <!-- Tech details are logged here - https://docs.google.com/document/d/1p6m20wehYkTeevj9QucpzKCR4NioELndg2rZeLWFK-c/edit# -->
 
 
 This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix. [A draft of which is here](https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=11432580350275268987)
 
-<!-- Thus original files have been retained in order to cross reference that data if it is useful. It also presents other options for analysis which are similar to much more in depth analysis of HCI research of professional set ups. While this is beyond the remit of this study, certain uses do present themselves strongly for future investigation. Particularly the study of such data to identify common mistakes or frustrations when interacting with the user interface. Such misconceptions could be addressed in direct teaching at the start of the next session. -->
 
 
-
-### Collection of interview data
-
-Interview data collected for participants and for practitioners as the end of P3
-- using Zoom as an online way, practical, and needed for the COVID restrictions.
-
-Full transcription was not undertaken
-
-
-
-<!-- AI versions are now much better, but present difficulities  -->
-
-
-**Summary of background of interviewees**
-
-Saskia Leggett is a researcher who was active in the in Creative Family Learning program under direction of Ricarosa Roque. She took a leading role in creating the programme's support resources. Matt Curinga is an academic at Columbia and teaches in educational technology and computer science. He is also active in a non-profit organisation, Zero Day Camp, promoting learning coding and engineering through engaging projects. Dave  Potts is a professional programmer and a parent and volunteer at Coder Dojo which is a volunteer run teaching technology monthly event. James Clegg is PGCE Computing student/teacher and volunteer student helper for the game making programme.
 
 
 
@@ -405,16 +190,8 @@ The process aligns with  -->
 
 The table below provides a cross-reference between the research questions, the types of data collected, and the analytical and theoretical approaches employed. It serves as a conceptual map to clarify how each question was addressed through the methodological process described in this chapter.
 
-<!-- https://docs.google.com/document/d/1jSE4UCEC7IleHi-tNfPwmVNTLUpzY5H5-do3bkHcLvo/edit#heading=h.hpqiq8h52efk -->
 
-<!-- LEANING TOWARDS KEEPING IT HERE.
-BUT ADD IN STAGES IN WHICH IT HAPPNED
-AND SIMPLIFY THE TOOL USE -->
 
-<!-- Keep for formatting of tables
-| ----- | ----------- | ------------------ | ------------------------ |
-
--->
 | Stage | Technique                                  | Description                                                                                                                                                                                                                                                                                                      |
 |-------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 & 2 | Making observations of activity based on 3 planes approach (& practicalities) | Dipping into screen capture and 360 footage (VLC player) helped inform the smaller subsequent selection of data.<br><br>Observations stored in an Excel spreadsheet and separate Word documents on tensions and barriers in activity.                                                                                 |
@@ -461,29 +238,37 @@ As new patterns emerged, such as the significance of game design patterns in sha
 
 The third and final stage of analysis focused on consolidating insights through detailed, interpretive work. Building on the broad mapping of Stage 1 and the thematic refinement of Stage 2, this phase returned to key segments of data selected for their richness, complexity, and relevance to the evolving research questions. The goal was to generate grounded, contextualised understandings of learner agency, design mediation, and pedagogical interaction through the construction of vignettes.
 
-This stage centred on four key vignettes drawn from screen capture and 360-degree video recordings. These were chosen for their representation of diverse learner roles, visible design decision-making, and interactional dynamics. Full transcriptions were produced for these segments, integrating verbal dialogue, on-screen activity, and embodied communication such as gestures and movement within the learning space. Viewing the 360 footage alongside the screen capture recordings proved essential in several cases, especially where participants referenced their physical environment or used gesture to support peer explanation.
+This stage centred on ?six? key vignettes drawn from screen capture and 360-degree video recordings. These were chosen for their representation of diverse learner roles, visible design decision-making, and interactional dynamics. Full transcriptions were produced for these segments, integrating verbal dialogue, on-screen activity, and embodied communication such as gestures and movement within the learning space. At my second formal review, my supervisor Ricardo Nemirovsky encouraged a more deliberate integration of gesture analysis. Viewing the 360 footage alongside the screen capture recordings proved essential in several cases, especially where participants referenced their physical environment or used gesture to support peer explanation. Gestures were also used often to communicate planned  game movements on screen, or for other on-screen actions or procedures, e.g in Vignette x, indication of action of cropping an image.
 
-These vignettes were not designed to be representative in a statistical sense, but to offer textured accounts of how specific learners or pairs navigated their tools, peers, and task structures. Each vignette was treated as a situated episode that could illuminate broader pedagogical questions, including how learners asserted agency, interpreted guidance, or adapted resources. Where possible, these micro-analyses were triangulated with post-session interview data, artefacts (such as games or design notes), and reflective journal entries made immediately after facilitation.
+These vignettes were not designed to be representative in a statistical sense, but to offer rich accounts of how specific learners or pairs navigated their tools, peers, and task structures. Each vignette was treated as an episode that could inform the research questions, including how learners asserted agency, interpreted guidance, or adapted resources. Where possible, these micro-analyses were triangulated with post-session interview data, artefacts (such as games created), and reflective journal entries made immediately after facilitation.
 
-One focus during this stage was to examine the ways game design patterns (GDPs) operated as mediational tools. A coding spreadsheet, developed during Stage 2, was extended to cluster GDP use across planes of activity (individual, interpersonal, and cultural). Patterns of adaptation and reinterpretation were particularly salient, as learners often modified a pattern’s purpose or linked it to emergent gameplay goals. These shifts were interpreted through a CHAT lens as evidence of agency enacted through tool transformation and appropriation.
+A key focus during this stage was to examine the ways game design patterns (GDPs) user employed as mediational strategies. A spreadsheet of thematic codes, begun in Stage 2, was extended to cluster GDP use more systematically across planes of activity (individual, interpersonal, and cultural). Patterns of adaptation and reinterpretation were particularly salient, as learners often modified a pattern’s purpose or linked it to emergent gameplay goals. These shifts were interpreted through a CHAT lens as evidence of agency enacted through tool transformation and appropriation. The findings of this process are described in Chapter 6.
 
-In parallel, the concept of learner agency was refined through a return to participant action across different learning contexts. This included recognition of how agency was distributed over time, scaffolded by peers and parents, and shaped by opportunities to explore, remix, and perform learning in varied modes. Gestural and embodied data played a key role here, with several vignettes including analysis of how learners moved around the room, negotiated turn-taking, or used physical props alongside digital tools. One vignette in particular was prompted by feedback from Ricardo Nemirovsky, who encouraged a more deliberate integration of gesture analysis.
+In parallel, the concept of learner agency was refined through a return to participant action across different learning contexts. Gestural and embodied data played a key role here, with several vignettes including analysis of how learners moved around the room, negotiated turn-taking, or used physical props alongside digital tools.
+
+REPLACE FOLLOWING WITH FORESHADOING OF CH.7
+This included recognition of how agency was distributed over time, scaffolded by peers and parents, and shaped by opportunities to explore, remix, and perform learning in varied modes.
+
+- learners developing agency through personal expression of home and other Identities
+- agency through choice over pathway via GDPS
+- agency through flexible design cycle pathways, especially via community playtesting
+- developing agency through celebration of different game maker styles
+- authenticity of tool use, especially docs and access to Community
+- authenticity of audience - and role of drama to facilitate reflection
 
 This interpretive work aimed to clarify not only how the learning environment supported certain forms of agency and design fluency, but also what constraints remained. In some vignettes, learners struggled to access tools or articulate their ideas, prompting reflections on equity, inclusion, and the role of facilitation. These observations informed both the final conceptual model (developed in Chapter 7) and ongoing questions about how pedagogical environments can be designed to support participation across multiple modes and identities.
 
 By the end of this stage, the analysis had shifted from mapping general trends to closely engaging with specific examples that embodied tensions and possibilities within the CGD&P project. These vignettes became the foundation for articulating the study’s contributions to both theory and practice.
 
-### Ethical Considerations
+### Ethical considerations and validity
 
-Ethical approval for this study was obtained through the ESRI ethics process using the ETHOS system. Participants were recruited via outreach to home education networks, coding events and community meet-ups. Consent and assent processes were tailored to suit different participant groups, including home-educating families, children and university students. For children, assent was negotiated through informal discussion followed by a simple written agreement, and parents remained nearby or directly involved throughout.
+Ethical approval for this study was obtained through the ESRI ethics process using the ETHOS system. Participants were recruited via outreach to home education networks, coding events and community meet-ups. Inclusion criteria included being part of a family unit (including guardians) with the ability to travel to the Manchester Metropolitan University campus. Participating families included children aged approximately 7 to 13, and all participants needed to have sufficient English literacy to engage with written materials and communication. An expressed interest in learning to make digital games together as an educational project was also required.
 
-While data collection involved video and screen recordings that could not be fully anonymised at source, all analytic materials and outputs used pseudonyms, removed or obscured identifying visuals, and were stored on encrypted drives with limited access. DBS-checked adult facilitators and volunteers supported sessions, and alternative activities were always available so that children could opt out at any time. These steps aimed to protect participant autonomy while recognising the relational dynamics of informal learning settings.
+Consent and assent processes were tailored to suit different participant groups, including home-educating families, children and university students. For children, assent was negotiated through informal discussion followed by a simple written agreement, and parents remained nearby or directly involved throughout. DBS-checked adult facilitators and volunteers supported sessions, and alternative activities were always available so that children could opt out at any time. These steps aimed to protect participant autonomy while recognising the relational dynamics of informal learning settings.
 
-### Interpretive Validity
+While data collection involved video and screen recordings that could not be fully anonymised at source, all analytic materials and outputs used pseudonyms, removed or obscured identifying visuals. The raw video data was stored on a password-protected external computer drive, separate from other working research data. Only the lead researcher had direct access to this material, although the ethics approval process stated that project supervisors could be given access on request.
 
-This study adopted a critical stance on objectivist notions of validity, drawing on DBR and CHAT traditions that position the researcher as an active participant in meaning-making. Validity was approached through triangulation across modalities such as video, interviews, journals and artefacts, and supported by ongoing reflection and iterative analysis. Rather than seeking detachment, the research acknowledges the embedded and situated nature of knowledge construction, aligning with a Transformative Activist Stance [@stetsenko_collective_2020].
-
-Autoethnographic reflections played a supporting role in the methodological process. While not directly analysed alongside participant data, these notes informed the design of resources and facilitation strategies. Selected entries are included in Appendix 4.x as evidence of the evolving researcher-practitioner role.
+Addressing validity of data interpretation, the analysis of this research has prioritised ecological validity by studying interactions that emerged in authentic, practice-based contexts, rather than in controlled or experimental conditions. In addition this study adopted a critical stance on objectivist notions of validity, drawing on DBR and activity theory traditions that position the researcher as an active participant in meaning-making. Validity was approached through triangulation across media data formats such as video, interviews, journals and supporting resources, and supported by ongoing reflection and iterative analysis. Following the transformative activist stance [@stetsenko2020radical], validity in this study is grounded in my ethical and practical engagement with participants, and in the co-construction of knowledge aimed at transforming learning relationships and tools. In this process, autoethnographic reflections played an important role. While not directly analysed alongside participant data, these notes informed the design of resources and facilitation strategies. Selected of journal notes  are included in Appendix 4.x [jn] as evidence of the evolving researcher-practitioner role.
 
 ### Generalisability and Replication
 
@@ -507,7 +292,7 @@ The role of the researcher as facilitator, designer and analyst brought both opp
 
 This chapter has outlined the methodological framework that underpins the study, combining a staged analytical process with reflexive and design-based strategies. Emphasis has been placed on the evolving nature of the research design, and on the relationships between analysis, tool development and facilitation practice.
 
-The next chapter builds on this foundation by tracing the co-development of the CGD&P programme over time. Using a design narrative approach [@hoadley_method_2002], Chapter 5 explores how emerging contradictions within the learning environment shaped key shifts in goals, resources and the collaborative object of the game-making intervention.
+The next chapter builds on this foundation by tracing the co-development of the CGD&P programme over time. Using a design narrative approach IS THIS EXPLORED? [@hoadley_method_2002], Chapter 5 explores how emerging contradictions within the learning environment shaped key shifts in goals, resources and the collaborative object of the game-making intervention.
 
 
 ## Parked to replace or remove or rework
@@ -563,6 +348,15 @@ The area of in-depth study of learning and wider behaviours in the development o
 
 ## Parked - tables on data collection
 
+### fOR APPENDIX
+
+
+MOVE TO APPENDIX
+**Summary of background of interviewees**
+
+Saskia Leggett is a researcher who was active in the in Creative Family Learning program under direction of Ricarosa Roque. She took a leading role in creating the programme's support resources. Matt Curinga is an academic at Columbia and teaches in educational technology and computer science. He is also active in a non-profit organisation, Zero Day Camp, promoting learning coding and engineering through engaging projects. Dave  Potts is a professional programmer and a parent and volunteer at Coder Dojo which is a volunteer run teaching technology monthly event. James Clegg is PGCE Computing student/teacher and volunteer student helper for the game making programme.
+
+
 
 
 ### Phases and data Gathering
@@ -599,3 +393,4 @@ https://docs.google.com/document/d/1tBoXJWw-aZUcc8EsAvT195CtHLSM468YOCD0sGzOuoA/
 [vf]: The process was tricky due to the deficit of fine control of video playback within Nvivo. This became intolerable and clearly unsustainable for a full process.
 [lm]: In appendix and online as part of the D3 Make code resources here. https://mickfuzz.github.io/makecode-platformer-101/learningDimensions
 [gg]: Glitch games and manual page - https://glitch.com/@glitch-game-club
+[jn]: Sample journal notes scans are available in Appendix 4.x
