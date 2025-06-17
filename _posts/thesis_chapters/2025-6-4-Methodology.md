@@ -170,29 +170,29 @@ A longitudinal dataset spanning phases of community interactions and design deve
 
 ### A Qualitative, General, and Exploratory Approach
 
-This study is qualitative, general, and exploratory in nature, shaped by DBR and CHAT. It adopts an iterative, context-sensitive approach to understanding learning environments in CGD&P, avoiding rigid experimental constraints. The design seeks to reveal pedagogical tensions, contradictions, and shifts in learner agency. The goal is not to produce universally generalisable outcomes but to generate inclusive, situated knowledge that can inform adaptive educational practices.
+This study is qualitative, general, and exploratory in nature, shaped by DBR and CHAT. It adopts an iterative, context-sensitive approach to understanding learning environments in CGD&P, avoiding rigid experimental constraints. In terms of educational objectives, the goal is to generate situated knowledge that can inform responsive educational practices rather than to produce more universally generalisable outcomes [@cobb_design_2003]. However, the methodology of this research also seeks to reveal pedagogical tensions, contradictions, and shifts in learner agency and develop understandings which have potential for a broader application.
 
-Rather than starting with fixed aims, the inquiry evolved through mutual engagement with participants and an openness to emergent goals. This orientation is justified both by the nature of the setting (non-formal, collaborative, and often resistant to conventional evaluation) and by the desire to avoid prematurely foreclosing what kinds of pedagogical or methodological innovations might arise. While certain features remained consistent throughout, the process was fundamentally shaped by what unfolded during iterative cycles of engagement.
+Rather than starting with fixed aims, the inquiry evolved through mutual engagement with participants and an openness to emergent goals. This orientation is justified both by the nature of the setting (non-formal, collaborative, and often resistant to conventional evaluation [CITAION]) and by the desire to avoid prematurely deciding on what kinds of pedagogical or methodological innovations might arise. While certain features remained consistent throughout, the process was fundamentally shaped by what unfolded during iterative cycles of engagement.
 
-### Iterative Development with Participant Input
+<!-- ### Iterative Development with Participant Input -->
 
-The research was co-developed through collaboration with young learners, their families, and undergraduate student helpers. Over time, iterative design phases were informed by participant feedback, emergent needs, and reflection on practice. This collaborative shaping of both tools and pedagogy reflects established principles in participatory research [@iversen_computational_2018-1; @iivari_critical_2017], DBR \[@barab_design-based_2004], and formative interventions [@cole_fifth_2006; @blunden_formative_2023].
+Pedagogical elements of the research design were  co-developed through collaboration with young learners, their families, and undergraduate student helpers. Over time, iterative design phases were informed by participant feedback, emergent needs, and reflection on practice. This collaborative shaping of both tools and pedagogy reflects established principles in participatory research [@iversen_computational_2018-1; @iivari_critical_2017], DBR [@barab_design-based_2004], and formative interventions [@cole_fifth_2006; @blunden_formative_2023].
 
-Participant input took multiple forms: direct feedback in interviews and structured activities, observations of gameplay and design behaviour, and artefacts produced in workshops. The ongoing trialling and adjustment of software environments, templates, and resources took place over two years, involving graduate trainees, colleagues, and parent volunteers. These iterative changes are documented throughout the study and explored further in Chapters 5 to 7.
+Participant input took multiple forms: direct feedback in interviews and structured activities, observations of gameplay and design behaviour, and artefacts produced in workshops. The ongoing trialling and adjustment of software environments, templates, and resources took place over an extended period and, involved undergraduate trainees, colleagues, and parent volunteers. These iterative changes are documented throughout the study and explored further in Chapters 5 to 7.
 
-### Rich Descriptions and Holistic Data
+### Utility, Holistic Data and  Rich Descriptions  
 
-The study aimed to provide thick, descriptive accounts of learning in CGD&P across multiple levels of activity. Informed by Rogoff’s three planes of analysis in communities of learners, data collection included both individual and group-level video capture, journal notes, screen recordings, and design artefacts. These layered sources enabled analysis of how learning processes unfolded across time, tools, and interactions. This approach also brought challenges, particularly in managing and interpreting complex video data, which are discussed later in this chapter.
+This study provide _thick_, descriptive accounts of learning in CGD&P across multiple levels of activity [@maxwell_qualitative_2013]. Informed by Rogoff’s [-@rogoff_observing_1995] three planes of analysis in communities of learners, data collection included both individual and group-level video capture, journal notes, screen recordings, and design artefacts. These layered sources enabled analysis of how learning processes unfolded across time, tools, and interactions. This approach also brought challenges, particularly in managing and interpreting complex video data, which are discussed later in this chapter.
 
-The commitment to rich description is not just analytical but practical. The findings are intended to inform both researchers and practitioners.
-
-Following Ann Brown’s original call for design experiments to align with the needs of real-world learning contexts [@brown_design_1992], and later work by Bakker and Penuel, for utility to be at the heart of the DBR process, this research prioritises design decisions that allow for replicability in both academic and diverse educational contexts.
+The commitment to rich description is not just analytical rigour but also driven by the purpose of sharing of pedagogical practice to fellow practitioners. Following Ann Brown’s original call for design experiments to align with the needs of real-world learning contexts [@brown_design_1992], and later work by Bakker and Penuel, for utility to be at the heart of the DBR process, this research prioritises design decisions that allow for replicability in both academic and diverse educational contexts.
 
 Applied to software, tools should be replicable within the target audience of informal settings which may have restricted budget.  FLOSS or freely available tools were used wherever feasible, following software sustainability principles [@crouch_software_2013], and ensuring that both the pedagogical design and research methodology can be adopted or adapted by others [@bonneel_code_2020].
 
 ### Authentic and Ecological Orientation
 
-The research was embedded in a real-world, non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible. These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019]  where value is created through contextually relevant pedagogical engagement.
+The research was embedded in a real-world, non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. 
+
+This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible. These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019]  where value is created through contextually relevant pedagogical engagement.
 
 ### Researcher–Facilitator Dual Role
 
@@ -210,7 +210,7 @@ I worked with young learners, local families and undergraduate student helpers t
 
 
 
-### General utility  (Rich descriptions & holistic data collection)
+### pb - General utility  (Rich descriptions & holistic data collection)
 
 MAKE REESARCH WIDELY USEFUL... and replicable
 
@@ -237,7 +237,7 @@ Design narrative of Chapter 5, explore the rationale for the selection, creation
 
 A guiding principle here is to use an ideally FLOSS toolset or if not practical to use non-specialist software available within or outside the university and free or low cost. This in line with the principle of software sustainability principles [@crouch_software_2013] in general, and in particular to allow the replicability of research not only by fellow researchers but by practitioners [@bonneel_code_2020]. Thus applying to two dimensions of replication of research methodology here, that of research and facilitation of project sessions.
 
-### Authentic and ecological nature of research
+### pb - Authentic and ecological nature of research
 
 The importance of context, historicity and cultural factors are particularly relevant for this intervention in a non-formal educational context with diverse stakeholder.
 
@@ -259,7 +259,7 @@ This study, guided by DBR and CHAT frameworks,  embraces an authentic and ecolog
 
 
 
-### Dual Role research and facilitator and resulting challenges and opportunities
+### pb - Dual Role research and facilitator and resulting challenges and opportunities
 
 Driven by my dual role as a researcher and learning facilitator the process described here incorporates both research methodology and an overall structure of the evolving learning design.
 
