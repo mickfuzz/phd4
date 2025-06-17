@@ -155,9 +155,9 @@ The analytical process developed over three broad stages. In the early phase, jo
 <!-- The depth justifies smaller data size and depth of analysis. -->
 ### Defining Scope and Approach
 
-This chapter outlines a methodological approach grounded in the general principles of formative intervention and design-based research (DBR), drawing on specific techniques from social design-based experiments (SDBE) and design-based implementation research (DBIR) \[@penuel_design-based_2021].
+This chapter outlines a methodological approach grounded in the general principles of formative interventions and design-based research (DBR). To do this it will  draw on techniques from those disciplines including specifically social design-based experiments (SDBE) and design-based implementation research (DBIR) [@penuel_design-based_2021].
 
-While the previous chapter established the theoretical framework and research questions, this chapter connects those questions more directly to methods, providing a simplified mapping of how the research questions informed data collection, analysis, and theoretical framing:
+While the previous chapters have established the theoretical framework and research questions, this chapter connects those questions more directly to methods. To provide a an overview to ground the reader, an outline how the research questions informed data collection, analysis, and theoretical framing follows:
 
 **RQ1**: *What contradictions emerged during participation in CGD&P activities, and how were they addressed via an innovative pedagogy?*  
 Data were drawn from video observations, participant and practitioner interviews, facilitator reflections, and gameplay interactions. These were analysed through systemic tension mapping and activity system analysis, using cultural-historical activity theory to frame contradictions as drivers of expansive transformation.
@@ -166,7 +166,7 @@ Data were drawn from video observations, participant and practitioner interviews
 Data included gameplay documentation, screen capture analysis, and participant reflections on pattern use. Thematic analysis focused on mediation through design patterns and how these related to shifts in learning activity. Framing drew on the mediational lens of CHAT and the pedagogical scaffolding emphasis of DBR.
 
 **RQ3**: *How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?*  
-A longitudinal dataset of community interactions, interviews, and field notes was analysed through thematic clustering, relational mapping, and narrative analysis. This was informed by DBR’s emphasis on iterative refinement and CHAT’s view of identity formation in situated activity.
+A longitudinal dataset spanning phases of community interactions and design development, interviews, and field notes was analysed through thematic clustering, relational mapping, and narrative analysis. This was informed by DBR’s emphasis on iterative refinement and 3GAT’s view of expansive learning in situated activity.
 
 ### A Qualitative, General, and Exploratory Approach
 
@@ -176,7 +176,7 @@ Rather than starting with fixed aims, the inquiry evolved through mutual engagem
 
 ### Iterative Development with Participant Input
 
-The research was co-developed through collaboration with young learners, their families, and undergraduate student helpers. Over time, iterative design phases were informed by participant feedback, emergent needs, and reflection on practice. This collaborative shaping of both tools and pedagogy reflects established principles in participatory research \[@iversen_computational_2018-1; @iivari_critical_2017], DBR \[@barab_design-based_2004], and formative interventions \[@cole_fifth_2006; @blunden_formative_2023].
+The research was co-developed through collaboration with young learners, their families, and undergraduate student helpers. Over time, iterative design phases were informed by participant feedback, emergent needs, and reflection on practice. This collaborative shaping of both tools and pedagogy reflects established principles in participatory research [@iversen_computational_2018-1; @iivari_critical_2017], DBR \[@barab_design-based_2004], and formative interventions [@cole_fifth_2006; @blunden_formative_2023].
 
 Participant input took multiple forms: direct feedback in interviews and structured activities, observations of gameplay and design behaviour, and artefacts produced in workshops. The ongoing trialling and adjustment of software environments, templates, and resources took place over two years, involving graduate trainees, colleagues, and parent volunteers. These iterative changes are documented throughout the study and explored further in Chapters 5 to 7.
 
@@ -184,11 +184,15 @@ Participant input took multiple forms: direct feedback in interviews and structu
 
 The study aimed to provide thick, descriptive accounts of learning in CGD&P across multiple levels of activity. Informed by Rogoff’s three planes of analysis in communities of learners, data collection included both individual and group-level video capture, journal notes, screen recordings, and design artefacts. These layered sources enabled analysis of how learning processes unfolded across time, tools, and interactions. This approach also brought challenges, particularly in managing and interpreting complex video data, which are discussed later in this chapter.
 
-The commitment to rich description is not just analytical but practical. The findings are intended to inform both researchers and practitioners. Following Ann Brown’s original call for DBR to be useful in real-world contexts \[@brown_design_1992], and later work by Bakker and Penuel, this research prioritises design decisions and software use that are replicable. FLOSS or freely available tools were used wherever feasible, following software sustainability principles \[@crouch_software_2013], and ensuring that both the pedagogical design and research methodology can be adopted or adapted by others \[@bonneel_code_2020].
+The commitment to rich description is not just analytical but practical. The findings are intended to inform both researchers and practitioners.
+
+Following Ann Brown’s original call for design experiments to align with the needs of real-world learning contexts [@brown_design_1992], and later work by Bakker and Penuel, for utility to be at the heart of the DBR process, this research prioritises design decisions that allow for replicability in both academic and diverse educational contexts.
+
+Applied to software, tools should be replicable within the target audience of informal settings which may have restricted budget.  FLOSS or freely available tools were used wherever feasible, following software sustainability principles [@crouch_software_2013], and ensuring that both the pedagogical design and research methodology can be adopted or adapted by others [@bonneel_code_2020].
 
 ### Authentic and Ecological Orientation
 
-The research was embedded in a real-world, non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible. These factors also brought an authenticity that aligns with ecosystem models of learning design \[@barnett_ecosystem_2019] and situated learning ontologies, where value is created through contextually resonant pedagogical engagement.
+The research was embedded in a real-world, non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible. These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019]  where value is created through contextually relevant pedagogical engagement.
 
 ### Researcher–Facilitator Dual Role
 
