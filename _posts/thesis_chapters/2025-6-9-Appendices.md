@@ -198,6 +198,10 @@ title: 9. Appendices
 
 These interview extracts are presented sometimes with commentary and sometimes without as they are directly reference from commentary in chapters.
 
+###  Practioner interviews
+
+Saskia Leggett is a researcher who was active in the in Creative Family Learning program under direction of Ricarosa Roque. She took a leading role in creating the programme's support resources. Matt Curinga is an academic at Columbia and teaches in educational technology and computer science. He is also active in a non-profit organisation, Zero Day Camp, promoting learning coding and engineering through engaging projects. Dave  Potts is a professional programmer and a parent and volunteer at Coder Dojo which is a volunteer run teaching technology monthly event. James Clegg is PGCE Computing student/teacher and volunteer student helper for the game making programme.
+
 ### Interview.summaries
 
 #### Use of helping roles in Interview data.
