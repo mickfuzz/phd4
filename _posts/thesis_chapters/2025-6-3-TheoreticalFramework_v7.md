@@ -122,32 +122,19 @@ For example, in Barab et al.'s [-@barab_using_2002] research on changes to a uni
 
 In terms of development, activity theory perceives activity as constantly evolving within its context. The theory is rooted in Marxist dialectical materialism, which posits that activity is a dynamic system best understood through its transformations [@ilyenkov1960dialectics]. A significant driver of transformation in activity is the emergence and resolution of contradictions and conflicts that arise from the accumulation of tensions within the activity itself [@ilyenkov1960dialectics; @blunden_activity_2023]. Engeström’s work on what he termed the third generation of activity theory includes the theory of expansive learning, which traces the changes and growth of the object being worked on. This transformation often occurs as tensions extend beyond a single activity system to involve multiple systems, acknowledging the influence of actors moving between them [@engestrom_expansive_2001]. Alongside Cole’s contributions, this framework is essential for broadening the understanding of activity and engaging with cross-cultural perspectives on learning [@cole_cross-cultural_1988]. These concepts are explored further in the section on expansive learning below.
 
-## Further developments in activity theory
+###  3GAT and Expansive learning
 
 
-As activity theory (AT) has been adopted and developed beyond its Soviet origins, researchers have developed new concepts within varied schools of practice. Given the variation in the use of terms, the  disambiguation of these terms and context on schools of AT  in the context of this study is useful here.
+As activity theory (AT) has been adopted and developed beyond its Soviet origins, researchers have developed new concepts within varied schools of practice. The cultural-historical approach and cultural-historical activity theory (CHAT) denote the broader application of these principles, which may also integrate related concepts from sociocultural frameworks. The term third generation activity theory (3GAT) has emerged from the work of  Engeström and the Helsinki school's interpretation of CHAT. This section begins by exploring key concepts in third generation activity theory (3GAT) and their application through formative interventions.
 
-Activity theory (AT) refers to the core principles of the approach discussed earlier. The cultural-historical approach and cultural-historical activity theory (CHAT) denote the broader application of these principles, which may also integrate related concepts from sociocultural frameworks.
-
-The term third generation activity theory (3GAT) has emerged from the work of  Engeström and the Helsinki school's interpretation of AT. This section begins by exploring key concepts in third generation activity theory (3GAT) and their application through formative interventions.
-
-The work of Michael Cole and colleagues Laboratory of Comparative Human Cognition (LCHC) in San Diego
+<!-- Given the variation in the use of terms, the  disambiguation of these terms and context on schools of AT  in the context of this study is useful here.
+Activity theory (AT) refers to the core principles of the approach discussed earlier.  -->
 
 
-The chapter later explores  concepts derived from this school, such as funds of knowledge, idiocultures, and legitimate peripheral participation, which are especially relevant to this study.
-These include approaches like communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian].
-
-
-### 3GAT and Expansive learning
-
-
-Addressing the first strand, third generation activity theory (3GAT) represents an important development of conceptual tools for applying activity theory to authentic learning settings. Engeström's concept of the activity system model extends Leontiev's work through a triangular representation that highlights key cultural aspects of the activity in question. Engeström adds a new tier to the model to visually represent Leontiev's focus on issues of cultural factors  [@engestrom_learning_1987-1]. Specifically, these cultural factors include the wider community, which encompasses those involved in the activity beyond the subjects themselves, the division of labour, which may occur through either the distribution of tasks among community members or a more vertical power structure, and the emergence of rules or norms that guide evolving community behaviours [@sannino_cultural-historical_2018].
+Third generation activity theory (3GAT) represents an important development of conceptual tools for applying activity theory to authentic learning settings. Engeström's concept of the activity system model extends Leontiev's work through a triangular representation that highlights key cultural aspects of the activity in question. Engeström adds a new tier to the model to visually represent Leontiev's focus on issues of cultural factors  [@engestrom_learning_1987-1]. Specifically, these cultural factors include the wider community, which encompasses those involved in the activity beyond the subjects themselves, the division of labour, which may occur through either the distribution of tasks among community members or a more vertical power structure, and the emergence of rules or norms that guide evolving community behaviours [@sannino_cultural-historical_2018].
 
 ![](./Pictures/At_dia_5_basic_v1.png){width=90%}
   Figure 3. x - Engeström's representation of community concepts an activity system
-
-
-
 
 While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory [@spinuzzi_trying_2020-1]. This shared, or expanded, object being worked on by more than one activity system is illustrated in Figure 3.x below.
 
@@ -162,23 +149,10 @@ Figure 3.cakir - An object shared between different activity systems
 
 This conception emphasises the importance of the roles of researchers and other stakeholders within these interventionist and participatory processes. Analysing activity through its transformation, particularly in relation to the contradictions and tensions among system elements, draws on Marxist conceptions of dialectics and forms the foundation for the concepts of expansive learning. In 3GAT, this view of transformation through collaborative work between activity systems on a new, expanded object is termed expansive learning [@engestrom_design_2011].
 
-
 Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems [@engestrom_expansive_2001]. 3GAT achieves this through careful of description, analysis, and representation of system elements, the interaction between systems, and the resulting contradictions. Some tensions arising between participant motives and different parts of activity system may be resolved quickly through change, while others may persist and can be referred to as conflicts [@sannino_cultural-historical_2018]. These unresolved contradictions which develop into impasses or conflicts which may serve as motivational factors driving agentic responses from participants. A later section explores Sannino's perspective on such conflicts as a source of transformative agency in greater depth.
 
 
 In this study, rather than analysing larger workplace systems over extended periods, the focus is on the analysis of systemic tensions within the context of shorter interventions, as seen in diverse research [@barab_developing_2002; @barab_using_2002; @lewin_developing_2018]. Following Kuutti's approach [-@kuutti_activity_1995], this study adopts the term contradictions to encompass concepts of tensions, barriers, and misalignments. Engeström states that such sub-terms can be "understood as manifestations of contradictions" [@engestrom_discursive_2011, p. 340]. Additionally, Kamanga emphasises the value of identifying system congruencies or strengths within activity systems [@kamanga_contradictions_2021]. For a comprehensive analysis of systemic contradictions, see the work of Engeström and Cakir [@cakir_contradictions_2022; @engestrom_discursive_2011].
-
-
-
-
-### Formative Interventions
-
-The term formative intervention (FI) has its roots in Cole and Engeström's exploration of two models of CHAT based interventionist research [@valsiner_cultural-historical_2007], namely Change Laboratory (from Helsinki school) and 5th Dimension (Cole's intervention carried out in partnership with wider sociocultural researchers). More recently, Engeström has defended its specific application against more flexible interpretations [@engestrom_methodological_2014]. In this section, I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory.
-
-Cole and Engeström [-@valsiner_cultural-historical_2007] contend that while formative interventions align with key principles of CHAT, there are practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process [EXPLAIN]. They also note the challenges of financing lengthy and repeated interventions within the experimental process, as well as the potential to disrupt the status quo of research settings by developing the agency of workers and learners. This disruption may, in turn, impact the direction of the research, steering it away from the objectives initially supported by the funders.  
-
-Cole highlights the need to align research interventions with the ongoing aims of educational or community partners to maximise their sustainability beyond the research period [@valsiner_cultural-historical_2007; @cole_fifth_2006]. Penuel [-@penuel_emerging_2014] proposes the _formative intervention research_ as a useful term to encapsulate a variation of FI closely aligned with CHAT, including those drawing on elements of design-based research. In reply, Engeström [-@engestrom_methodological_2014] initially resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@sannino_formative_2016; @engestrom_methodological_2014; @engestrom_discursive_2011]. The following sections explain and addresses the importance of these terms.
-
 
 
 #### Double stimulation
@@ -199,7 +173,47 @@ _... the germ-cell and the unit of analysis are one and the same thing, but in o
 
 In this thesis, my role as both researcher and practitioner makes both aspects relevant. Examining the analytical dimension, the process of seeking and defining key activities as units for analysis helps to delineate the boundaries of what to analyse in depth. One challenge in applying this approach is the duration and relative stability required to identify these germ cells. In their critique of Penuel, Engeström and Sannino [-@engestrom_methodological_2014] provide no suggestions for adapting their models to more rapidly changing situations where actors come from different activity systems. The developmental aspect will be addressed in the following chapters, which explore the evolution and analysis of the learning design, highlighting the process of applying of game design patterns by participants as a germ-cell concept that both shapes and facilitates practice.
 
-## Design based research (DBR)
+
+
+
+### Formative Interventions
+ <!-- namely Change Laboratory (from Helsinki school) and 5th Dimension (Cole's intervention carried out in partnership with wider sociocultural researchers). -->
+
+The term formative intervention (FI) has its roots in Cole and Engeström's exploration of two models of CHAT based interventionist research [@valsiner_cultural-historical_2007],
+
+
+
+Cole and Engeström [-@valsiner_cultural-historical_2007] contend that while formative interventions align with key principles of CHAT, there are practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process [EXPLAIN].
+
+They also note the challenges of financing lengthy and repeated interventions within the experimental process, as well as the potential to disrupt the status quo of research settings by developing the agency of workers and learners. This disruption may, in turn, impact the direction of the research, steering it away from the objectives initially supported by the funders.  
+
+
+## The work of Laboratory of Comparative Human Cognition (LCHC) and DBR
+
+### Formative interventions based on mutual appropriation
+
+The work of Michael Cole and colleagues Laboratory of Comparative Human Cognition (LCHC) in San Diego
+
+Cole highlights the need to align research interventions with the ongoing aims of educational or community partners to maximise their sustainability beyond the research period [@valsiner_cultural-historical_2007; @cole_fifth_2006].
+
+ITS BEEN PRODUCTIVE - THESE HAVE COME OUT OF IT
+
+The chapter later explores  concepts derived from this school, such as funds of knowledge, idiocultures, and legitimate peripheral participation, which are especially relevant to this study.
+These include approaches like communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian].
+
+
+LCHC's approach to formative interventions is  iterative, responsive and flexible. It shares characteristics and some common lineage with design based research.
+
+
+
+#### Mutual appropriation
+
+
+The concept mutual appropriation has been utilised by Cole to explain and explore the development of the practicalities and structure of the research programme The setting of 5D interventions predominantly consisted of after-school clubs run by community partners, guided by university researchers and supported by undergraduate student volunteers. The main activities were playful tasks aimed at providing fun, along with additional objectives of building literacy.  Cole noted that for an activity to be sustainable, the goals of researchers, student volunteers, funders, and local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describe a mutual process of adaptation in joint activities between institutions, which not only reforms activities to make them suitable for ongoing partnership but also leaves a historical trace of evolving activities that serve as a valuable basis for cultural analysis [@downing-wilson_design_2011]. A key distinction between the 5D approach and that of Change Laboratories is that, in the early stages of the 5D intervention, activity goals are not fully formed and are still in a state of evolution. I will return to this point later in this chapter.    
+
+
+
+### Design based research (DBR)
 
 <!-- 5thD interventions and related LCHC approaches incorporate, and have contributed to design based approaches in research. -->
 
@@ -213,7 +227,11 @@ DBR has diverse interpretations, which stem from a set of generally agreed princ
 
 While starting from similar roots, and sharing key concerns regarding ecological validity, there has been a degree of contestation in attempts to compare formative intervention with design based research.
 
-EXPLORED IN LATER SECTION
+Penuel attempted to link FI and DBR explicitly [-@penuel_emerging_2014]
+
+Penuel [-@penuel_emerging_2014] proposes the _formative intervention research_ as a useful term to encapsulate a variation of FI closely aligned with CHAT, including those drawing on elements of design-based research. In reply, Engeström [-@engestrom_methodological_2014] initially resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@sannino_formative_2016; @engestrom_methodological_2014; @engestrom_discursive_2011].
+
+More recently, Engeström has defended its specific application against more flexible interpretations [@engestrom_methodological_2014]. In this section, I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory.
 
 
 ## Concepts of agency within CHAT
@@ -306,11 +324,6 @@ The following concepts are CHAT concepts relevant to this study which are releva
 
 The work of the Laboratory of Comparative Human Cognition (LCHC), in particular the previously mentioned after-school intervention Fifth Dimension (5D) [@cole_mind_1997], provides useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007] which are explored in this section. Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis, have been developed or utilised by various researchers associated with LCHC: design based approaches, mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
 
-
-#### Mutual appropriation
-
-
-Turning first to mutual appropriation, the concept has been utilised by Cole to explain and explore the development of the practicalities and structure of the research programme The setting of 5D interventions predominantly consisted of after-school clubs run by community partners, guided by university researchers and supported by undergraduate student volunteers. The main activities were playful tasks aimed at providing fun, along with additional objectives of building literacy.  Cole noted that for an activity to be sustainable, the goals of researchers, student volunteers, funders, and local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describe a mutual process of adaptation in joint activities between institutions, which not only reforms activities to make them suitable for ongoing partnership but also leaves a historical trace of evolving activities that serve as a valuable basis for cultural analysis [@downing-wilson_design_2011]. A key distinction between the 5D approach and that of Change Laboratories is that, in the early stages of the 5D intervention, activity goals are not fully formed and are still in a state of evolution. I will return to this point later in this chapter.    
 
 
 #### idioculture
