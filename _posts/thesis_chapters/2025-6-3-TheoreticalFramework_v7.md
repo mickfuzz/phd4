@@ -73,20 +73,9 @@ This chapter outlines the theoretical frameworks that shape the methodology and 
 ## The foundational concepts of activity theory
 
 
-
-
 Before outlining the core concepts driving Activity Theory (AT), a brief historical overview helps to contextualise them. For Marx, human endeavour and change are based on activity, with the subject of that activity being the individual or group driving it [@marx1975marx; @blunden_interdisciplinary_2009]. Vygotsky built upon Marxist ideas, emphasising the importance of human activity as a socially mediated process, and applied these core concepts to the broader understanding of learning [@blunden_interdisciplinary_2010]. While Vygotsky's student Leontiev developed Vygotsky's work into a prototypical Activity Theory (AT), AT had stagnated in the repressive context of the USSR [@blunden_interdisciplinary_2010] and saw limited uptake in Western academia until Cole translated Vygotsky's work [@cole_mind_1978]. Cole's efforts brought these foundational ideas into the realm of educational psychology during the broader _social turn_ in the discipline.
 
 In this emerging field of cultural psychology, scholars such as Wertsch [-@wertsch_vygotsky_1985] and Cole [-@cole_cultural_1996] explored the critical role of cultural mediation in human development, particularly in relation to learning communities and contexts. They positioned learning pedagogies as forms of mediational strategies. Before turning to Cole's work and others in this context, it is valuable to examine the core concepts of Activity Theory. Nardi and Kaptelinin outline AT as a series of foundational principles that underpin broader theories [@kaptelinin_acting_2009; @wertsch_concept_1981], specifically: object-orientedness, tool mediation, hierarchical structure of activity, the ongoing development of activity, and the psychological processes of internalisation and externalisation.
-
-
-
-
-
-
-
-
-
 
 A useful starting point to explore key concepts in AT is Vygotsky’s formulation of the relationship between subject, object, and tools. Activity Theory is object-oriented, meaning that human behaviour and learning are driven by the goals or objectives of the individual or collective subject [@engestrom_learning_1987-1]. Kaptelinin and colleagues [-@kaptelinin_activity_1995] note that while the materialist roots of AT, stemming from Marxist theory, have led some interpretations to focus on the object as the physical entity being worked on and transformed by activity, conceptual objects are also included in Leontiev’s conception of Activity Theory [@leontev_problem_1974]. Thus, the term object is best understood within the context of a broader motivation or objective. To represent the subject-object relationship in a way that addresses Vygotsky's resolution of the subject-object, mind-body, and Cartesian dualism problems [@still1991mutual], this relationship was developed by Leontiev into a triadic model that includes tools which mediate the activity [@engestrom_learning_1987-1]. See fig 3.x below.
 
@@ -96,8 +85,6 @@ Fig. 3.x Essential components of activity outlined by Vygotsky
 
 
 Turning to mediation via tools, Vygotsky's concept of tools is broad [-@cole_mind_1978], encompassing language, physical tools, and representational concepts. Mediation is particularly relevant to this study, as the learning environment involves diverse and dynamic forms of tool use. Physical, digital, and conceptual tools evolve as products of the experiences of others in society, containing evidence of cultural adaptation and evolution. This study positions pedagogies as forms of mediational strategy that can be employed by both facilitators and learners [@donato_sociocultural_1994; @gutierrez_re-mediating_2009].
-
-
 
 For Vygotsky, mediation via conceptual tools involves the interconnected processes of internalisation and externalisation of activity [@kaptelinin_activity_1995-1].  Learners are actively processing and make sense of the world by both appropriating cultural learning from cultural practices and then by contributing back into shared cultural understandings of the world. This reciprocal process is well described in learning context by Rogoff via a personal process she calls participatory appropriation [@rogoff_observing_1995].  This reciprocity is crucial as it challenges traditional transmission-based models of learning. Rogoff further identifies this appropriation as consisting of three key planes, of _personal, interpersonal, and cultural processes_ [@rogoff_observing_1995, p.154], the analysis of which is essential for understanding community activity, a topic that will be explored in a later section of this chapter.
 
@@ -125,7 +112,6 @@ As activity theory (AT) has been adopted and developed beyond its Soviet origins
 <!-- Given the variation in the use of terms, the  disambiguation of these terms and context on schools of AT  in the context of this study is useful here.
 Activity theory (AT) refers to the core principles of the approach discussed earlier.  -->
 
-
 Third generation activity theory (3GAT) represents an important development of conceptual tools for applying activity theory to authentic learning settings. Engeström's concept of the activity system model extends Leontiev's work through a triangular representation that highlights key cultural aspects of the activity in question. Engeström adds a new tier to the model to visually represent Leontiev's focus on issues of cultural factors  [@engestrom_learning_1987-1]. Specifically, these cultural factors include the wider community, which encompasses those involved in the activity beyond the subjects themselves, the division of labour, which may occur through either the distribution of tasks among community members or a more vertical power structure, and the emergence of rules or norms that guide evolving community behaviours [@sannino_cultural-historical_2018].
 
 ![](./Pictures/At_dia_5_basic_v1.png){width=60%}
@@ -143,7 +129,7 @@ To clarify this relationship , an example in context is beneficial. In research 
 
 Figure 3.cakir - An object shared between different activity systems
 
-This conception emphasises the importance of the roles of researchers and other stakeholders within these interventionist and participatory processes. Analysing activity through its transformation, particularly in relation to the contradictions and tensions among system elements, draws on Marxist conceptions of dialectics and forms the foundation for the concepts of expansive learning. In 3GAT, this view of transformation through collaborative work between activity systems on a new, expanded object is termed expansive learning [@engestrom_design_2011].
+The conception of joint activity emphasises the importance of the roles of researchers and other stakeholders within these interventionist and participatory processes. Analysing activity through its transformation, particularly in relation to the contradictions and tensions among system elements, draws on Marxist conceptions of dialectics and forms the foundation for the concepts of expansive learning. In 3GAT, this view of transformation through collaborative work between activity systems on a new, expanded object is termed expansive learning [@engestrom_design_2011].
 
 Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems [@engestrom_expansive_2001]. 3GAT achieves this through careful of description, analysis, and representation of system elements, the interaction between systems, and the resulting contradictions. Some tensions arising between participant motives and different parts of activity system may be resolved quickly through change, while others may persist and can be referred to as conflicts [@sannino_cultural-historical_2018]. These unresolved contradictions which develop into impasses or conflicts which may serve as motivational factors driving agentic responses from participants. A later section explores Sannino's perspective on such conflicts as a source of transformative agency in greater depth.
 
