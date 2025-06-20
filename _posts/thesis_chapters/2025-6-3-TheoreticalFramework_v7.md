@@ -376,7 +376,9 @@ Y is explored in more depth in Chapter 6, in particular via the varied use of ga
 ## Variations and synthesis in interventionist CHAT and DBR research
 
 
-While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings.  This section begins by comparing DBR and  formative interventions within CHAT. It then explores the variations between key approaches, relevant to this thesis. Specifically it describes applications of DBR, Change Labs and Living Labs, and social design based experiments (SDBEs).
+While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings.  This section begins by comparing DBR and  formative interventions within CHAT.
+
+It then explores the variations between key approaches, relevant to this thesis. Specifically it describes applications of DBR, Change Labs and Living Labs, and social design based experiments (SDBEs).
 
 ### Comparing and critiquing DBR and CHAT / formative interventions
 
