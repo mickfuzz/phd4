@@ -12,13 +12,16 @@ title: 3. Theoretical Framework
 -   [Introduction](#introduction)
 -   [The foundational concepts of activity
     theory](#the-foundational-concepts-of-activity-theory)
--   [Further developments in activity
-    theory](#further-developments-in-activity-theory)
     -   [3GAT and Expansive learning](#gat-and-expansive-learning)
-    -   [Formative Interventions](#formative-interventions)
         -   [Double stimulation](#double-stimulation)
         -   [Rising to the concrete](#rising-to-the-concrete)
--   [Design based research (DBR)](#design-based-research-dbr)
+    -   [Formative Interventions](#formative-interventions)
+-   [The work of Laboratory of Comparative Human Cognition (LCHC) and
+    DBR](#the-work-of-laboratory-of-comparative-human-cognition-lchc-and-dbr)
+    -   [Formative interventions based on mutual
+        appropriation](#formative-interventions-based-on-mutual-appropriation)
+        -   [Mutual appropriation](#mutual-appropriation)
+    -   [Design based research (DBR)](#design-based-research-dbr)
 -   [Concepts of agency within CHAT](#concepts-of-agency-within-chat)
     -   [Instrumental](#instrumental)
         -   [Transformation agency through double stimulation (TADS) -
@@ -34,7 +37,6 @@ title: 3. Theoretical Framework
     -   [Theoretical concepts emerging from the LCHC and the Fifth
         Dimension
         interventions](#theoretical-concepts-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
-        -   [Mutual appropriation](#mutual-appropriation)
         -   [idioculture](#idioculture)
         -   [third spaces and funds of
             knowledge](#third-spaces-and-funds-of-knowledge)
