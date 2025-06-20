@@ -23,18 +23,11 @@
             making](#feedback-and-relational-agency-and-specialism-in-context-of-making)
 -   [An overview of CHAT concepts relevant to this
     study](#an-overview-of-chat-concepts-relevant-to-this-study)
-    -   [Theoretical concepts emerging from the LCHC and the Fifth
-        Dimension
-        interventions](#theoretical-concepts-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
-        -   [idioculture](#idioculture)
-        -   [third spaces and funds of
-            knowledge](#third-spaces-and-funds-of-knowledge)
-    -   [Funds of knowledge and third
-        space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces (and repertoires in the context of this
-            study)](#third-spaces-and-repertoires-in-the-context-of-this-study)
-        -   [Repertoires of practice within three planes of
-            activity](#repertoires-of-practice-within-three-planes-of-activity)
+    -   [idioculture](#idioculture)
+    -   [Third spaces and funds of
+        knowledge](#third-spaces-and-funds-of-knowledge)
+    -   [Repertoires of practice within three planes of
+        activity](#repertoires-of-practice-within-three-planes-of-activity)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
     -   [Comparing and critiquing DBR and CHAT / formative

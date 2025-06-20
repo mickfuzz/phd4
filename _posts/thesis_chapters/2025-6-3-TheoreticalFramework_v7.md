@@ -34,18 +34,11 @@ title: 3. Theoretical Framework
             making](#feedback-and-relational-agency-and-specialism-in-context-of-making)
 -   [An overview of CHAT concepts relevant to this
     study](#an-overview-of-chat-concepts-relevant-to-this-study)
-    -   [Theoretical concepts emerging from the LCHC and the Fifth
-        Dimension
-        interventions](#theoretical-concepts-emerging-from-the-lchc-and-the-fifth-dimension-interventions)
-        -   [idioculture](#idioculture)
-        -   [third spaces and funds of
-            knowledge](#third-spaces-and-funds-of-knowledge)
-    -   [Funds of knowledge and third
-        space](#funds-of-knowledge-and-third-space)
-        -   [Third spaces (and repertoires in the context of this
-            study)](#third-spaces-and-repertoires-in-the-context-of-this-study)
-        -   [Repertoires of practice within three planes of
-            activity](#repertoires-of-practice-within-three-planes-of-activity)
+    -   [idioculture](#idioculture)
+    -   [Third spaces and funds of
+        knowledge](#third-spaces-and-funds-of-knowledge)
+    -   [Repertoires of practice within three planes of
+        activity](#repertoires-of-practice-within-three-planes-of-activity)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
     -   [Comparing and critiquing DBR and CHAT / formative
@@ -96,10 +89,9 @@ In this emerging field of cultural psychology, scholars such as Wertsch [-@werts
 
 A useful starting point to explore key concepts in AT is Vygotsky’s formulation of the relationship between subject, object, and tools. Activity Theory is object-oriented, meaning that human behaviour and learning are driven by the goals or objectives of the individual or collective subject [@engestrom_learning_1987-1]. Kaptelinin and colleagues [-@kaptelinin_activity_1995] note that while the materialist roots of AT, stemming from Marxist theory, have led some interpretations to focus on the object as the physical entity being worked on and transformed by activity, conceptual objects are also included in Leontiev’s conception of Activity Theory [@leontev_problem_1974]. Thus, the term object is best understood within the context of a broader motivation or objective. To represent the subject-object relationship in a way that addresses Vygotsky's resolution of the subject-object, mind-body, and Cartesian dualism problems [@still1991mutual], this relationship was developed by Leontiev into a triadic model that includes tools which mediate the activity [@engestrom_learning_1987-1]. See fig 3.x below.
 
-![](./Pictures/At_dia_6_basicer_v1.png){width=90%}
-Fig. 3.x essential conception of Activity
+![](./Pictures/At_dia_6_basicer_v1.png){width=60%}
 
-
+Fig. 3.x Essential components of activity outlined by Vygotsky
 
 
 Turning to mediation via tools, Vygotsky's concept of tools is broad [-@cole_mind_1978], encompassing language, physical tools, and representational concepts. Mediation is particularly relevant to this study, as the learning environment involves diverse and dynamic forms of tool use. Physical, digital, and conceptual tools evolve as products of the experiences of others in society, containing evidence of cultural adaptation and evolution. This study positions pedagogies as forms of mediational strategy that can be employed by both facilitators and learners [@donato_sociocultural_1994; @gutierrez_re-mediating_2009].
@@ -110,7 +102,7 @@ For Vygotsky, mediation via conceptual tools involves the interconnected process
 
 To describe activity systems with greater granularity, Leontiev [-@leontiev_activity_2009] employed the concepts of actions and operations, which together constitute a vertical hierarchy of activity structure. At the highest level, activity is driven by an overall motive, while actions represent smaller sub-goals necessary to achieve this broader objective. As we move down this hierarchy, we encounter a series of unconscious operations that are performed fluently during the execution of actions. See the figure below from [@daniels_vygotsky_2001, p.87].
 
-![](./Pictures/At_dia_7_hierarchy_v1.png){width=90%}
+![](./Pictures/At_dia_7_hierarchy_v1.png){width=80%}
 
 Figure 3. x -  hierarchical structure of activity adapted from  [@daniels_vygotsky_2001, p.87].
 
@@ -135,18 +127,19 @@ Activity theory (AT) refers to the core principles of the approach discussed ear
 
 Third generation activity theory (3GAT) represents an important development of conceptual tools for applying activity theory to authentic learning settings. Engeström's concept of the activity system model extends Leontiev's work through a triangular representation that highlights key cultural aspects of the activity in question. Engeström adds a new tier to the model to visually represent Leontiev's focus on issues of cultural factors  [@engestrom_learning_1987-1]. Specifically, these cultural factors include the wider community, which encompasses those involved in the activity beyond the subjects themselves, the division of labour, which may occur through either the distribution of tasks among community members or a more vertical power structure, and the emergence of rules or norms that guide evolving community behaviours [@sannino_cultural-historical_2018].
 
-![](./Pictures/At_dia_5_basic_v1.png){width=90%}
+![](./Pictures/At_dia_5_basic_v1.png){width=60%}
   Figure 3. x - Engeström's representation of community concepts an activity system
 
-While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory [@spinuzzi_trying_2020-1]. This shared, or expanded, object being worked on by more than one activity system is illustrated in Figure 3.x below.
+While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory [@spinuzzi_trying_2020-1]. This shared, or expanded, object being worked on by more than one activity system of expansive learning forms an important base for formative in [@sannino_formative_2016] [@engestrom_methodological_2014]
 
-![](./Pictures/shared_object_engestrom.png){width=90%}
+<!-- ![](./Pictures/shared_object_engestrom.png){width=90%}
 
-Figure 3. x - Engeström's concept of expansive learning via a shared object, from [@sannino_formative_2016] [@engestrom_methodological_2014]
+Figure 3. x - Engeström's concept of expansive learning via a shared object, from [@sannino_formative_2016] [@engestrom_methodological_2014] -->
 
-To clarify this relationship further, an example in context is beneficial. In research on a joint activity involving schools, Cakir and colleagues [-@cakir_contradictions_2022] depict the joint activity as an objective shared between the school, family, and researchers.
+To clarify this relationship , an example in context is beneficial. In research on a joint activity involving schools, Cakir and colleagues [-@cakir_contradictions_2022] depict the joint activity as an objective shared between the school, family, and researchers.
 
 ![](./Pictures/expandedobj_incakir.jpg){width=90%}
+
 Figure 3.cakir - An object shared between different activity systems
 
 This conception emphasises the importance of the roles of researchers and other stakeholders within these interventionist and participatory processes. Analysing activity through its transformation, particularly in relation to the contradictions and tensions among system elements, draws on Marxist conceptions of dialectics and forms the foundation for the concepts of expansive learning. In 3GAT, this view of transformation through collaborative work between activity systems on a new, expanded object is termed expansive learning [@engestrom_design_2011].
@@ -176,14 +169,10 @@ _... the germ-cell and the unit of analysis are one and the same thing, but in o
 In this thesis, my role as both researcher and practitioner makes both aspects relevant. Examining the analytical dimension, the process of seeking and defining key activities as units for analysis helps to delineate the boundaries of what to analyse in depth. One challenge in applying this approach is the duration and relative stability required to identify these germ cells. In their critique of Penuel, Engeström and Sannino [-@engestrom_methodological_2014] provide no suggestions for adapting their models to more rapidly changing situations where actors come from different activity systems. The developmental aspect will be addressed in the following chapters, which explore the evolution and analysis of the learning design, highlighting the process of applying of game design patterns by participants as a germ-cell concept that both shapes and facilitates practice.
 
 
-
-
 ### Formative Interventions
  <!-- namely Change Laboratory (from Helsinki school) and 5th Dimension (Cole's intervention carried out in partnership with wider sociocultural researchers). -->
 
 The term formative intervention (FI) has its roots in Cole and Engeström's exploration of two models of CHAT based interventionist research [@valsiner_cultural-historical_2007],
-
-
 
 Cole and Engeström [-@valsiner_cultural-historical_2007] contend that while formative interventions align with key principles of CHAT, there are practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process [EXPLAIN].
 
@@ -319,30 +308,21 @@ al_2016-1]
 
 The following concepts are CHAT concepts relevant to this study which are relevant to putting CHAT to work via formative interventions.
 
-
-
-
-### Theoretical concepts emerging from the LCHC and the Fifth Dimension interventions
-
 The work of the Laboratory of Comparative Human Cognition (LCHC), in particular the previously mentioned after-school intervention Fifth Dimension (5D) [@cole_mind_1997], provides useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007] which are explored in this section. Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis, have been developed or utilised by various researchers associated with LCHC: design based approaches, mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
 
 
 
-#### idioculture
+### idioculture
 
 Cole describes the value of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. Following Fine [@fine_boys_1987], Cole employs the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures do not emerge from thin air; rather they encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017]. Cole describes the utility of idiocultures as concrete ways of studying the dynamics of cultural variability between different sites, as well as practical means to shape the programme's activities based on participants' previous experiences [@cole_idiocultural_2017].
 
 
-#### third spaces and funds of knowledge
+### Third spaces and funds of knowledge
 
 This interpretation of the practical utility of idiocultures resonates with the concepts of third spaces and funds of knowledge. Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as resources that can be drawn upon by teachers and participants to facilitate learning in school or other environments, thereby achieving more equitable and inclusive learning experiences. This approach is particularly valuable for learners whose home life is culturally distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy. The process of blending the knowledge and discourses of the first space (home life) with the motivations of the second space (school or institution) into a new third space has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009]. Rajala and colleagues [-@rajala_utopian_2023] problematise the use of FoK in third spaces. They critique the superficial application of FoK, which may perpetuate cultural stereotypes and thus maintain the existing negative status quo [@rajala_utopian_2023]. Additionally, the practical challenge of gathering sufficient relevant data on home cultures to inform a more nuanced use of FoK would be very time-consuming. To address these issues, they advance the concept of funds of identity, which allows for an exploration of home cultures within the scope of the intervention through the creation of identity artefacts with participants [@subero_mediation_2018].
 
 
-
-
-### Funds of knowledge and third space
-
-
+**fok**
 The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
 
 In the original study home visits were carried out to better inform design of after-school activities.
@@ -352,12 +332,8 @@ However there limits to this approach, including only some families were visited
 The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
 
 
-
 Look at how Moje opertationalised third spaces too.
 See dissertation on third space here [@bellocchi_learning_nodate]
-
-
-#### Third spaces (and repertoires in the context of this study)
 
 
 The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning.
@@ -365,7 +341,7 @@ The concept of third space is helpful in the context of this study in particular
 
 
 
-#### Repertoires of practice within three planes of activity
+### Repertoires of practice within three planes of activity
 
 INSERT Repertoires AS A MORE APPLIED CONCEPTS OF USE IN THE OBSERVATION OF AND DESIGNING FOR BUILD OF idiocultureS
 
@@ -428,8 +404,6 @@ A key aspect of DBR is its emphasis on the rapid iteration of educational resour
 
 #### Social design-based experiments (SDBEs)
 
-
-
 The work of 5D has led Gutiérrez to develop a methodology called Social design-based experiments (SDBEs). SDBEs draw on FI and DBR and extend it with several useful techniques and perspectives.
 
 SDBE draw on the work of DBR.
@@ -459,7 +433,6 @@ To situate the reader at this stage, concepts related to an activity systems app
 Fig 3.broad - environmental positioning with game making activity mediating the interactions between stakeholders.
 
 The representation above shows a relation between systems which allows transmission of funds of knowledge and existing repertoires of communication from the existing   activity systems of different stakeholders and learning contribution to a new, emerging system. Following an approach taken by Lecusay [-@lecusay_telementoring_2015], the processes at work in the emerging shared object merits examination as an activity system in their own rights a process tackled in chapter five.
-
 
 
 The use of concepts from both of CHAT and DBR is particularly valuable for this study, as it allows exploration of the contextual factors and influences from other activity systems contributing to the new shared object of activity. These include the ongoing development of cultural artefacts used, home interests and repertoires, as well as my own motivations.
