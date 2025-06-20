@@ -208,10 +208,10 @@ DBR is common in the domain of learning sciences, particularly in advancing prac
 
 Barab and Squire [-@barab_design-based_2004] describe the inherent _messiness_ of design-based research  which presents a challenge for researchers when attempting to present results in a coherent manner that is useful for other practitioners. There is an ongoing tension between staying closely aligned with the specific, rich context of the research, and stepping back to generalise findings without becoming lost in abstraction. This balance is crucial to ensure that the research is both contextually meaningful and practically applicable to broader settings. Hoadley and Campos [-@hoadley_design-based_2022] further explore the outcomes of DBR, including the development of design processes, the creation of domain theories, the formulation of design principles or patterns, the introduction of ontological innovations, the generation of new hypotheses, and the transformative learning experienced by researchers themselves. These varied outcomes highlight the broad applicability of DBR and the importance of ensuring that design processes and theoretical insights are communicated clearly to enhance the utility of research findings.
 
+A key aspect of DBR is its emphasis on the rapid iteration of resources based on continuous feedback rooted in practice. In an educational context, this process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003].
+
 **DBR and affordances  -  INSERTED**
 While there is a wealth of research which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012].
-
-
 
 
 <!-- While starting from similar roots, and sharing key concerns regarding ecological validity, there has been a degree of contestation in attempts to compare formative intervention with design based research. -->
@@ -419,19 +419,30 @@ Returning the concept of double stimulation....
 For example, in the Change Laboratory model, the first stimulus would be data derived from ethnographic video recordings, which if _mirrored_ back to participants to help to identify a problem that needs addressing. The second stimulus, more accurately a series of stimuli, comprises techniques designed to provoke, shape, record, and reflect on the emerging discussion [@engestrom_putting_2007]. Sannino's work on the volitional aspect of the double stimulation process views auxiliary stimuli as triggers for will and agency in participants [@sannino_principle_2015]. The exploration of these concepts, as discussed by Hopwood [@hopwood2023motives], is addressed in greater detail later in this chapter.
 
 
-#### DBR as an applied research process
 
-This section outlines key techniques used in DBR which I draw on in later chapters namely, the challenge of overcoming the tension between the rich context and generalisation of results (moved up), design narratives, and the process of rapid iterations of learning designs.
+#### Design Narratives
 
-##### Design Narratives
+Some more on the challenge of overcoming the tension between the rich context and generalisation of results (moved up),
 
 One solution to the challenge of balancing utility and generalisation, as well as representing the research process in an accessible format, is through the use of _design narratives_. Bakker [-@bakker_design_2018] notes the difficulties of conveying the richness of the design process within the constraints of traditional journal formats, where space restrictions may hinder detailed explanations. Design narratives, as proposed by Hoadley [-@hoadley_creating_2002-1], address these limitations by providing a detailed account of the learning design process. They document the problems encountered during the intervention, the iterative changes made, and the rationale behind those revisions [@hoadley_creating_2002-1; @brase_knowledge_2024; @bell_theoretical_2004].
 
 In this study, a design narrative is particularly valuable in conveying the intricate details of the learning design. This thesis format allows for a fuller exploration of these aspects, notably in Chapter 5 where I use the depth of description possible to illuminate evolving tensions in the learning activity. I argue that design narratives can further enhance the alignment between DBR and Cultural-Historical Activity Theory (CHAT) interventions. By incorporating systemic and analytical concepts from activity theory, design narratives can provide a more holistic account of the intervention process. An example of such a narrative, using CHAT techniques, is found in Cole's [-@cole_fifth_2006] work on the Fifth Dimension.
 
-##### Iterative approach
 
-A key aspect of DBR is its emphasis on the rapid iteration of educational resources based on continuous feedback rooted in practice. This process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003]. This emphasis on rapid iteration aligns with the aims of this thesis, where the ongoing feedback from participants informed the development of a novel learning design via phases of delivery. The iterative nature of DBR, with its focus on refining learning materials in response to feedback, supports the dynamic, practice-based approach explored in the following chapters. By integrating these DBR concepts, this thesis leverages the strengths of design-based approaches while aligning them with the systemic insights offered by CHAT. This flexible approach addresses both the complexities of real-world learning contexts and the need for practical, and ideally replicable outcomes.
+#### Design-Based Implementation Research  - DBIR -
+
+Design-based implementation research was Penuel's [@penuel_design-based_2021] follow up to formative interventions which had met resistance.
+
+The research on support inquiry learning
+finds xx an uses the following methods, approaches.
+[@penuel
+
+
+##### Iterative approach - KEEP SOME HERE AMD MOVE REST UP OR TO CH.3
+
+A key aspect of DBR is its emphasis on the rapid iteration of educational resources based on continuous feedback rooted in practice. This process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003].
+
+This emphasis on rapid iteration aligns with the aims of this thesis, where the ongoing feedback from participants informed the development of a novel learning design via phases of delivery. The iterative nature of DBR, with its focus on refining learning materials in response to feedback, supports the dynamic, practice-based approach explored in the following chapters. By integrating these DBR concepts, this thesis leverages the strengths of design-based approaches while aligning them with the systemic insights offered by CHAT. This flexible approach addresses both the complexities of real-world learning contexts and the need for practical, and ideally replicable outcomes.
 
 
 
