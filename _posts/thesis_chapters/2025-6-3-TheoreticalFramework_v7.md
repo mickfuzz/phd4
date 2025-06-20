@@ -131,10 +131,11 @@ Activity theory (AT) refers to the core principles of the approach discussed ear
 
 The term third generation activity theory (3GAT) has emerged from the work of  Engeström and the Helsinki school's interpretation of AT. This section begins by exploring key concepts in third generation activity theory (3GAT) and their application through formative interventions.
 
-The work of the Laboratory of Comparative Human Cognition (LCHC) in San Diego
+The work of Michael Cole and colleagues Laboratory of Comparative Human Cognition (LCHC) in San Diego
 
-It then examines concepts derived from CHAT, as articulated by Michael Cole and his colleagues, such as funds of knowledge, idiocultures, and legitimate peripheral participation, which are especially relevant to this study.
-These include approaches like communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian]. 
+
+The chapter later explores  concepts derived from this school, such as funds of knowledge, idiocultures, and legitimate peripheral participation, which are especially relevant to this study.
+These include approaches like communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian].
 
 
 ### 3GAT and Expansive learning
@@ -303,7 +304,7 @@ The following concepts are CHAT concepts relevant to this study which are releva
 
 ### Theoretical concepts emerging from the LCHC and the Fifth Dimension interventions
 
-The work of Michael Cole and colleagues at the Laboratory of Comparative Human Cognition (LCHC), in particular the previously mentioned after-school intervention Fifth Dimension (5D) [@cole_mind_1997], provides useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007] which are explored in this section. Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis, have been developed or utilised by various researchers associated with LCHC: design based approaches, mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
+The work of the Laboratory of Comparative Human Cognition (LCHC), in particular the previously mentioned after-school intervention Fifth Dimension (5D) [@cole_mind_1997], provides useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007] which are explored in this section. Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis, have been developed or utilised by various researchers associated with LCHC: design based approaches, mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
 
 
 #### Mutual appropriation
