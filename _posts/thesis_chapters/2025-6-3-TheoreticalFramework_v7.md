@@ -156,19 +156,25 @@ _... the germ-cell and the unit of analysis are one and the same thing, but in o
 In this thesis, my role as both researcher and practitioner makes both aspects relevant. Examining the analytical dimension, the process of seeking and defining key activities as units for analysis helps to delineate the boundaries of what to analyse in depth. One challenge in applying this approach is the duration and relative stability required to identify these germ cells. In their critique of Penuel, Engeström and Sannino [-@engestrom_methodological_2014] provide no suggestions for adapting their models to more rapidly changing situations where actors come from different activity systems. The developmental aspect will be addressed in the following chapters, which explore the evolution and analysis of the learning design, highlighting the process of applying of game design patterns by participants as a germ-cell concept that both shapes and facilitates practice.
 
 
-### Formative Interventions
+## Formative Interventions
  <!-- namely Change Laboratory (from Helsinki school) and 5th Dimension (Cole's intervention carried out in partnership with wider sociocultural researchers). -->
 
 The term formative intervention (FI) has its roots in Cole and Engeström's exploration of two models of CHAT based interventionist research [@valsiner_cultural-historical_2007],
 
-Cole and Engeström [-@valsiner_cultural-historical_2007] contend that while formative interventions align with key principles of CHAT, there are practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process [EXPLAIN].
+Cole and Engeström [-@valsiner_cultural-historical_2007] outline characteristics of formative interventions that represent with key principles of CHAT,
+Examples of specific instances of formative interventions are examined in the final section of chapter.
 
-They also note the challenges of financing lengthy and repeated interventions within the experimental process, as well as the potential to disrupt the status quo of research settings by developing the agency of workers and learners. This disruption may, in turn, impact the direction of the research, steering it away from the objectives initially supported by the funders.  
+Cole and Engeström [-@valsiner_cultural-historical_2007]
+outline practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process [EXPLAIN].
+
+They also note the challenges of financing lengthy and repeated interventions within the experimental process, as well as the potential to disrupt the status quo of research settings by developing the agency of workers and learners.
+
+<!-- This disruption may, in turn, impact the direction of the research, steering it away from the objectives initially supported by the funders.   -->
 
 
-## The work of Laboratory of Comparative Human Cognition (LCHC) and DBR
+### The work of Laboratory of Comparative Human Cognition (LCHC) and DBR
 
-### Formative interventions based on mutual appropriation
+#### Formative interventions based on mutual appropriation
 
 The work of Michael Cole and colleagues Laboratory of Comparative Human Cognition (LCHC) in San Diego
 
@@ -182,34 +188,40 @@ These include approaches like communities of learners [@rogoff_developing_1994],
 
 LCHC's approach to formative interventions is  iterative, responsive and flexible. It shares characteristics and some common lineage with design based research.
 
-
-
 #### Mutual appropriation
-
 
 The concept mutual appropriation has been utilised by Cole to explain and explore the development of the practicalities and structure of the research programme The setting of 5D interventions predominantly consisted of after-school clubs run by community partners, guided by university researchers and supported by undergraduate student volunteers. The main activities were playful tasks aimed at providing fun, along with additional objectives of building literacy.  Cole noted that for an activity to be sustainable, the goals of researchers, student volunteers, funders, and local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describe a mutual process of adaptation in joint activities between institutions, which not only reforms activities to make them suitable for ongoing partnership but also leaves a historical trace of evolving activities that serve as a valuable basis for cultural analysis [@downing-wilson_design_2011]. A key distinction between the 5D approach and that of Change Laboratories is that, in the early stages of the 5D intervention, activity goals are not fully formed and are still in a state of evolution. I will return to this point later in this chapter.    
 
 
 
-### Design based research (DBR)
+### Design based research (DBR) as formative interventions
 
 <!-- 5thD interventions and related LCHC approaches incorporate, and have contributed to design based approaches in research. -->
 
-From a source of Brown's provocation on the importance of context [@brown_design_1992], the evolution in the conceptual complexity and practical application of what has become known as design based research (DBR).
-
-While these broad approaches are in alignment with CHAT, Penuel [-@penuel_emerging_2014], in an attempt to summarise differences between DBR and CHAT interventions, notes that DBR is more common in the domain of learning sciences, particularly in advancing practice and theory related to innovative learning tasks. In contrast, CHAT interventions concentrate more on transformations in activity and the increasing agency of those involved. initially outlined several criticisms of DBR when compared to CHAT in educational contexts: it is vague in its description of systemic elements in analysis, and it tends to be overly focused on a linear approach to refining the researcher's learning design, which limits the input and agency of participants. O'Neill [-@oneill_understanding_2016] echoes these concerns and extends them, urging DBR researchers to apply CHAT methodology to address the limitations of current DBR practices in the learning sciences community. He emphasises that DBR researchers often fail to invest sufficient time in familiarising themselves with the existing learning practices of the contexts they study, an oversight that runs counter to the more contextually focused approaches encouraged by CHAT.  
+Brown's provocation on the importance of context [@brown_design_1992] foreshadowed the evolution in the conceptual diversity and practical application of what has become known as design based research (DBR).
 
 
-DBR has diverse interpretations, which stem from a set of generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021]. Easterday and colleagues [-@easterday_design-based_2014] characterise the core elements of DBR as: research as a form of intervention, iteration, involvement of participants in the evolution of designs, and flexibility in research outcomes based on how events unfold . Cobb and colleagues [-@cobb_design_2003, p.13] summarise the characteristics of design-based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose 'theories' do real work in practical educational contexts" . For more detailed definitions of DBR, see Sandoval [-@sandoval_conjecture_2014] and Hay [-@hay_constructivism_2001, p. 3].
+DBR has diverse interpretations, which stem from a set of generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021]. Easterday and colleagues [-@easterday_design-based_2014] characterise the core elements of DBR as: research as a form of intervention, iteration, involvement of participants in the evolution of designs, and flexibility in research outcomes based on how events unfold . Cobb and colleagues [-@cobb_design_2003, p.13] summarise the characteristics of design-based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose 'theories' do real work in practical educational contexts" .
+DBR is common in the domain of learning sciences, particularly in advancing practice and theory related to innovative learning tasks [@penuel_emerging_2014]. For more detailed definitions of DBR and its place within a socio economic funding structure, see Sandoval [-@sandoval_conjecture_2014] and Hay [-@hay_constructivism_2001, p. 3].
 
+WHO? initially outlined several criticisms of DBR when compared to CHAT in educational contexts: it is vague in its description of systemic elements in analysis, and it tends to be overly focused on a linear approach to refining the researcher's learning design, which limits the input and agency of participants. O'Neill [-@oneill_understanding_2016] echoes these concerns and extends them, urging DBR researchers to apply CHAT methodology to address the limitations of current DBR practices in the learning sciences community. He emphasises that DBR researchers often fail to invest sufficient time in familiarising themselves with the existing learning practices of the contexts they study, an oversight that runs counter to the more contextually focused approaches encouraged by CHAT.  
 
-While starting from similar roots, and sharing key concerns regarding ecological validity, there has been a degree of contestation in attempts to compare formative intervention with design based research.
+Penuel [-@penuel_emerging_2014]  links FI and DBR explicitly  through proposing and defining a term _formative intervention research_ as a useful term to encapsulate a variation of FI closely aligned with CHAT, including those drawing on elements of design-based research.
 
-Penuel attempted to link FI and DBR explicitly [-@penuel_emerging_2014]
+<!-- While starting from similar roots, and sharing key concerns regarding ecological validity, there has been a degree of contestation in attempts to compare formative intervention with design based research. -->
 
-Penuel [-@penuel_emerging_2014] proposes the _formative intervention research_ as a useful term to encapsulate a variation of FI closely aligned with CHAT, including those drawing on elements of design-based research. In reply, Engeström [-@engestrom_methodological_2014] initially resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@sannino_formative_2016; @engestrom_methodological_2014; @engestrom_discursive_2011].
+Engeström [-@engestrom_methodological_2014] initially resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@sannino_formative_2016; @engestrom_methodological_2014; @engestrom_discursive_2011].
 
-More recently, Engeström has defended its specific application against more flexible interpretations [@engestrom_methodological_2014]. In this section, I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory.
+CHAT interventions concentrate more on transformations in activity and the increasing agency of those involved COMPARED TO DBR? EVIDENCE? PENUEL?
+
+In Chapter 4 I will outline the use in this thesis of formative intervention using both 3GAT concepts and those from the overlap between DBR and the descendent flexible design experiments approach of LCHC.  
+
+Element of the research design also draw on more specific methods later in the chapter; specifically:  Change lab, living lab,
+
+ A guiding principles within, mutuality of the process, and joint activity is that examining development of varied expression of  agency.
+
+<!-- While x  resisted a formalisation, this naming and description of process is a welcome way of sharing practice. -->
+<!-- More recently, Engeström has defended its specific application against more flexible interpretations [@engestrom_methodological_2014]. In this section, I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory. -->
 
 
 ## Concepts of agency within CHAT
@@ -231,8 +243,6 @@ Instrumental agency reflects a concept of agency as the ability to get things do
 Within a CHAT framework, this type of agency can be seen as enhancing the fluidity of practice, with learners using both objects and people as tools within mediated activities. According to Leontiev, actions that initially require concentration and effort may evolve into fluid operations through practice. Thus, understanding these dimensions of agency within an AT framework should be grounded in a solid comprehension of mediation principles.
 
 
-
-
 #### Transformation agency through double stimulation (TADS) - On double stimulation and agency
 
 
@@ -240,8 +250,17 @@ The Helsinki school's focus on transformative agency also advocates the importan
 
 Studies of transformative agency, for example within CL, often involve a significant longitudinal aspect. However, the TADS concepts has been applied in research over much shorter time frames and in more naturalistic settings such as hospital practice [@hopwood_forward_2022; @hopwood_volitional_2022], higher education [@grant_double_2022], and digital education [@aagaard_teacher_2022]. The concept of volitional action by subjects as a foundation for transformation is used in these shorter term studies to explore the processes of decision forming and implementation [@virkkunen_dilemmas_2006; @sannino_double_2015]. Here the secondary stimuli are used by participants as a spur and then as leverage in volitional acts.
 
-REPLACE WITH AN EXAMPLE?
-To address this aspect, Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors. This metaphor highlights the active effort of participants to overcome tensions and dilemmas in their activities, which can leave them stuck, much like being stranded on a sandbank. In an educational intervention, learners might "throw a kedge anchor" into the learning environment, symbolising an intentional action to pull themselves out of the impasse they are facing.
+ENCHANCE WITH AN EXAMPLE?
+To address this aspect, Sannino augments the concept of transformative agency by double stimulation (TADS) with a metaphor of a sea vessel warping using kedging anchors. This metaphor highlights the active effort of participants to overcome tensions and dilemmas in their activities through intentional action to pull themselves out of the impasse they are facing.
+
+<!-- ![](./Pictures/warping.jpg){width=60%}
+
+Figure 3.warping - Warping using a kedging anchor -->
+
+While not all attempts, such as directly asking a peer or teacher for help, will succeed, some will take hold and lead to transformation for the student. This may also trigger a broader shift in the educational environment itself. This idea is particularly relevant to the setting of this study, where the learning environment is co-created by both participants and researchers.
+
+
+<!-- , which can leave them stuck, much like being stranded on a sandbank. In an educational intervention, learners might "throw a kedge anchor" into the learning environment, symbolising an intentional action to pull themselves out of the impasse they are facing. -->
 
 <!-- _We may think of the second stimulus as an anchor. Anchors are commonly understood as stabilising devices to prevent a vessel from moving. However, not all anchors have this function. Beside the heavy-weight anchors, there are also kedge anchors serving the purpose of ‘warping,’ that is, pulling the anchor once it has settled on the ground, for moving the vessel away from a problem area._ [@sannino_transformative_2022, p. 4] -->
 
@@ -249,9 +268,6 @@ To address this aspect, Sannino augments the concept of transformative agency by
 
 Figure 3.warping - Warping using a kedging anchor -->
 
-
-
-While not all attempts, such as directly asking a peer or teacher for help, will succeed, some will take hold and lead to transformation for the student. This may also trigger a broader shift in the educational environment itself. This idea is particularly relevant to the setting of this study, where the learning environment is co-created by both participants and researchers.
 
 #### Transformative Activist Stance (TAS)
 
@@ -293,37 +309,43 @@ al_2016-1]
 
 ## An overview of CHAT concepts relevant to this study
 
-The following concepts are CHAT concepts relevant to this study which are relevant to putting CHAT to work via formative interventions.
+BETTER LINK FROM LAST SECTION.
 
-The work of the Laboratory of Comparative Human Cognition (LCHC), in particular the previously mentioned after-school intervention Fifth Dimension (5D) [@cole_mind_1997], provides useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007] which are explored in this section. Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. The following theoretical concepts, beneficial to this thesis, have been developed or utilised by various researchers associated with LCHC: design based approaches, mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
+This section outlines key CHAT concepts  relevant to this study which have emerged from the process of undertaking formative interventions. Most of the concepts treated emerged from the work of the Laboratory of Comparative Human Cognition (LCHC); in particular the research on the after-school intervention Fifth Dimension (5thD) [@cole_mind_1997], has provided  useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007]; namely: design based approaches, mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
 
 
 
-### idioculture
 
-Cole describes the value of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. Following Fine [@fine_boys_1987], Cole employs the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures do not emerge from thin air; rather they encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017]. Cole describes the utility of idiocultures as concrete ways of studying the dynamics of cultural variability between different sites, as well as practical means to shape the programme's activities based on participants' previous experiences [@cole_idiocultural_2017].
 
 
 ### Third spaces and funds of knowledge
 
-This interpretation of the practical utility of idiocultures resonates with the concepts of third spaces and funds of knowledge. Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as resources that can be drawn upon by teachers and participants to facilitate learning in school or other environments, thereby achieving more equitable and inclusive learning experiences. This approach is particularly valuable for learners whose home life is culturally distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy. The process of blending the knowledge and discourses of the first space (home life) with the motivations of the second space (school or institution) into a new third space has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009]. Rajala and colleagues [-@rajala_utopian_2023] problematise the use of FoK in third spaces. They critique the superficial application of FoK, which may perpetuate cultural stereotypes and thus maintain the existing negative status quo [@rajala_utopian_2023]. Additionally, the practical challenge of gathering sufficient relevant data on home cultures to inform a more nuanced use of FoK would be very time-consuming. To address these issues, they advance the concept of funds of identity, which allows for an exploration of home cultures within the scope of the intervention through the creation of identity artefacts with participants [@subero_mediation_2018].
+Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023].
+
+**third spaces**
 
 
-**fok**
-The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
 
-In the original study home visits were carried out to better inform design of after-school activities.
-
-However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
-
-The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
-
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning.
 
 Look at how Moje opertationalised third spaces too.
 See dissertation on third space here [@bellocchi_learning_nodate]
 
 
-The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning.
+The process of blending the knowledge and discourses of the first space (home life) with the motivations of the second space (school or institution) into a new third space has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
+
+**fok**
+
+Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as resources that can be drawn upon by teachers and participants to facilitate learning in school or other environments, thereby achieving more equitable and inclusive learning experiences. This approach is particularly valuable for learners whose home life is culturally distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy.
+
+The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
+
+The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
+
+In the original study home visits were carried out to better inform design of after-school activities. However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
+
+
+Rajala and colleagues [-@rajala_utopian_2023] problematise the use of FoK in third spaces. They critique the superficial application of FoK, which may perpetuate cultural stereotypes and thus maintain the existing negative status quo [@rajala_utopian_2023]. Additionally, the practical challenge of gathering sufficient relevant data on home cultures to inform a more nuanced use of FoK would be very time-consuming. To address these issues, they advance the concept of funds of identity, which allows for an exploration of home cultures within the scope of the intervention through the creation of identity artefacts with participants [@subero_mediation_2018].
 
 
 
@@ -335,7 +357,20 @@ INSERT Repertoires AS A MORE APPLIED CONCEPTS OF USE IN THE OBSERVATION OF AND D
 
 Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
 
-The work of Rogoff and Gutiérrez on linguistic and cultural-historical repertoires [@rogoff_cultural_2003] also aims to prevent cultural-historical practices of participation from being misrepresented as innate behaviours, a misrepresentation they identify as particularly problematic in relation to race. They emphasise that both educators and researchers should avoid designing interventions based on assumed traits of learners. Instead, they advocate for researching and verifying existing repertoires of practice that may be incorporated and then extended within joint work. This perspective builds on Rogoff's pioneering approach to analysing complex group activities through three planes of observation: personal, social, and community activity. A key motivation driving the analysis of behaviours on the social plane is Rogoff's desire to transcend the dichotomy between learner-led and teacher-led approaches [@rogoff_childrens_1993; @mascolo_beyond_2009]. Rogoff's concept of guided participation and the role of emerging repertoires of practice within that process, serving as a middle ground between instruction and discovery, are explored in more detail, through the lens of participants use of game design patterns, in Chapter 6.
+
+Following Fine [@fine_boys_1987], Cole employs the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures do not emerge from thin air; rather they encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017]. Cole describes the utility of idiocultures as concrete ways of studying the dynamics of cultural variability between different sites, as well as practical means to shape the programme's activities based on participants' previous experiences [@cole_idiocultural_2017].
+
+<!-- Cole describes the value of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. -->
+
+The work of Rogoff and Gutiérrez on linguistic and cultural-historical repertoires [@rogoff_cultural_2003] also aims to prevent cultural-historical practices of participation from being misrepresented as innate behaviours, a misrepresentation they identify as particularly problematic in relation to race. They emphasise that both educators and researchers should avoid designing interventions based on assumed traits of learners. Instead, they advocate for researching and verifying existing repertoires of practice that may be incorporated and then extended within joint work. This perspective builds on Rogoff's pioneering approach to analysing complex group activities through three planes of observation: personal, social, and community activity. A key motivation driving the analysis of behaviours on the social plane is Rogoff's desire to transcend the dichotomy between learner-led and teacher-led approaches [@rogoff_childrens_1993; @mascolo_beyond_2009].
+
+In addition the importance of identity is highlighted but in a way which requires complex and multi-layered research approaches based on situated historicity rather than cultural stereotypes.
+
+This is important for this thesis as it
+allows x, thus transcending a  instruction and discovery differences,
+Y is explored in more depth in Chapter 6, in particular via the varied use of game design patterns, .
+
+<!-- Rogoff's concept of guided participation and the role of emerging repertoires of practice within that process, serving as a middle ground between instruction and discovery, are explored in more detail, through the lens of participants use of game design patterns, in Chapter 6. -->
 
 
 ## Variations and synthesis in interventionist CHAT and DBR research
