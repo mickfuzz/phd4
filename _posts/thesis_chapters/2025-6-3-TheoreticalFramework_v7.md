@@ -172,9 +172,9 @@ They also note the challenges of financing lengthy and repeated interventions wi
 <!-- This disruption may, in turn, impact the direction of the research, steering it away from the objectives initially supported by the funders.   -->
 
 
-### The work of Laboratory of Comparative Human Cognition (LCHC) and DBR
+## The work of Laboratory of Comparative Human Cognition (LCHC) and DBR
 
-#### Formative interventions based on mutual appropriation
+### Formative interventions based on mutual appropriation
 
 The work of Michael Cole and colleagues Laboratory of Comparative Human Cognition (LCHC) in San Diego
 
@@ -204,21 +204,46 @@ Brown's provocation on the importance of context [@brown_design_1992] foreshadow
 DBR has diverse interpretations, which stem from a set of generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021]. Easterday and colleagues [-@easterday_design-based_2014] characterise the core elements of DBR as: research as a form of intervention, iteration, involvement of participants in the evolution of designs, and flexibility in research outcomes based on how events unfold . Cobb and colleagues [-@cobb_design_2003, p.13] summarise the characteristics of design-based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose 'theories' do real work in practical educational contexts" .
 DBR is common in the domain of learning sciences, particularly in advancing practice and theory related to innovative learning tasks [@penuel_emerging_2014]. For more detailed definitions of DBR and its place within a socio economic funding structure, see Sandoval [-@sandoval_conjecture_2014] and Hay [-@hay_constructivism_2001, p. 3].
 
-WHO? initially outlined several criticisms of DBR when compared to CHAT in educational contexts: it is vague in its description of systemic elements in analysis, and it tends to be overly focused on a linear approach to refining the researcher's learning design, which limits the input and agency of participants. O'Neill [-@oneill_understanding_2016] echoes these concerns and extends them, urging DBR researchers to apply CHAT methodology to address the limitations of current DBR practices in the learning sciences community. He emphasises that DBR researchers often fail to invest sufficient time in familiarising themselves with the existing learning practices of the contexts they study, an oversight that runs counter to the more contextually focused approaches encouraged by CHAT.  
 
-Penuel [-@penuel_emerging_2014]  links FI and DBR explicitly  through proposing and defining a term _formative intervention research_ as a useful term to encapsulate a variation of FI closely aligned with CHAT, including those drawing on elements of design-based research.
+
+Barab and Squire [-@barab_design-based_2004] describe the inherent _messiness_ of design-based research  which presents a challenge for researchers when attempting to present results in a coherent manner that is useful for other practitioners. There is an ongoing tension between staying closely aligned with the specific, rich context of the research, and stepping back to generalise findings without becoming lost in abstraction. This balance is crucial to ensure that the research is both contextually meaningful and practically applicable to broader settings. Hoadley and Campos [-@hoadley_design-based_2022] further explore the outcomes of DBR, including the development of design processes, the creation of domain theories, the formulation of design principles or patterns, the introduction of ontological innovations, the generation of new hypotheses, and the transformative learning experienced by researchers themselves. These varied outcomes highlight the broad applicability of DBR and the importance of ensuring that design processes and theoretical insights are communicated clearly to enhance the utility of research findings.
+
+**DBR and affordances  -  INSERTED**
+While there is a wealth of research which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012].
+
+
+
 
 <!-- While starting from similar roots, and sharing key concerns regarding ecological validity, there has been a degree of contestation in attempts to compare formative intervention with design based research. -->
 
-Engeström [-@engestrom_methodological_2014] initially resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@sannino_formative_2016; @engestrom_methodological_2014; @engestrom_discursive_2011].
+<!-- CHAT interventions concentrate more on transformations in activity and the increasing agency of those involved COMPARED TO DBR? EVIDENCE? PENUEL? -->
 
-CHAT interventions concentrate more on transformations in activity and the increasing agency of those involved COMPARED TO DBR? EVIDENCE? PENUEL?
+#### Comparing and critiquing DBR and CHAT / formative interventions
+
+Penuel [-@penuel_emerging_2014]  links FI and DBR explicitly  through proposing and defining a term _formative intervention research_ as a useful term to encapsulate a variation of FI closely aligned with CHAT, including those drawing on elements of design-based research. Engeström [-@engestrom_methodological_2014] initially resists this proposition, insisting that formative interventions should contain a clear articulation of _double stimulation_ and the process of _rising to the concrete_ within the framework of Engeström and Sannino's understanding of these concepts [@sannino_formative_2016; @engestrom_methodological_2014; @engestrom_discursive_2011].
+
+
+Engeström's view of DBR [-@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic and historic nature of context with CHAT conceptions of activity and it tends to be overly focused on a linear approach to refining the researcher's learning design, which limits the input and agency of participants. O'Neill, in advocating for great use of CHAT approaches within DBR, offers contextual factors which help explain this deficit, including the time scales and wider priorities of using DBR within the funded research environment of the learning sciences [@oneill_understanding_2016]. The result is a challenge for DBR in producing in-depth analyses of context, which are often required in CHAT-based approaches.
+
+<!-- WHO? initially outlined several criticisms of DBR when compared to CHAT in educational contexts: it is vague in its description of systemic elements in analysis,  -->
+
+O'Neill [-@oneill_understanding_2016] echoes these concerns and extends them, urging DBR researchers to apply CHAT methodology to address the limitations of current DBR practices in the learning sciences community. He emphasises that DBR researchers often fail to invest sufficient time in familiarising themselves with the existing learning practices of the contexts they study, an oversight that runs counter to the more contextually focused approaches encouraged by CHAT.  
+
+
+Bakker [-@bakker_design_2018] challenges Engeström's characterisation of DBR as having closed goals, particularly critiquing Engeström's portrayal of the work of Collins and colleagues [-@collins_design_2004] as a misrepresentation. Bakker [-@bakker_design_2018, p.17] argues that these researchers did "not want to fix variables or educational goals upfront" . He echoes the call of  Cole, Penuel and O’Neill for more dialogue and greater recognition of the shared traditions between CHAT and design research [-@cole_cultural-historical_2018]. Penuel [-@penuel_emerging_2014] emphasises the eclectic methodological approach in design-based research as a necessary means of responding flexibly to context. Bakker also views this flexibility as a strength of DBR, resisting calls for greater formalisation of the design process [@ormel_researchpractice_2012; @mckenney_systematic_2013].
+
+An additional challenge is the context in which formative interventions are often applied. These interventions are frequently used in stable, institutional work environments, particularly in European contexts, where stakeholder roles and systemic structures are more predictable. In contrast, learning environments associated with DBR, especially in less formal or rapidly evolving contexts, do not share the same stability [@spinuzzi_trying_2020-1]. This difference may limit the utility of formative interventions like the Change Laboratory in more fluid settings.  
+
+Recent work by Engeström, Sannino, and colleagues suggests a shift toward a more collaborative stance on DBR, recognising its value rather than critiquing it outright. In particular, they acknowledge that formative interventions can enrich DBR by offering a robust framework for systemic transformation, collective agency, and expansive learning [@cakir_contradictions_2022]. This shift highlights a growing consensus on the potential benefits of incorporating cultural-historical concepts into DBR approaches. Certainly, the discussion of the previous paragraphs show close alignment in most details.
 
 In Chapter 4 I will outline the use in this thesis of formative intervention using both 3GAT concepts and those from the overlap between DBR and the descendent flexible design experiments approach of LCHC.  
 
 Element of the research design also draw on more specific methods later in the chapter; specifically:  Change lab, living lab,
 
- A guiding principles within, mutuality of the process, and joint activity is that examining development of varied expression of  agency.
+The study in this thesis, which applies CHAT principles to a novel and relatively unstable learning context, presents a useful case study in this ongoing endeavour to integrate the strengths of both formative interventions and DBR.
+
+A guiding principles within, mutuality of the process, and joint activity is that examining development of varied expression of  agency.
+
 
 <!-- While x  resisted a formalisation, this naming and description of process is a welcome way of sharing practice. -->
 <!-- More recently, Engeström has defended its specific application against more flexible interpretations [@engestrom_methodological_2014]. In this section, I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory. -->
@@ -376,25 +401,9 @@ Y is explored in more depth in Chapter 6, in particular via the varied use of ga
 ## Variations and synthesis in interventionist CHAT and DBR research
 
 
-While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings.  This section begins by comparing DBR and  formative interventions within CHAT.
+While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings.
 
 It then explores the variations between key approaches, relevant to this thesis. Specifically it describes applications of DBR, Change Labs and Living Labs, and social design based experiments (SDBEs).
-
-### Comparing and critiquing DBR and CHAT / formative interventions
-
-Engeström's view of DBR [-@engestrom_learning_2009] is that it lacks rigorous examination of the dynamic and historic nature of context with CHAT conceptions of activity. O'Neill, in advocating for great use of CHAT approaches within DBR, offers contextual factors which help explain this deficit, including the time scales and wider priorities of using DBR within the funded research environment of the learning sciences [@oneill_understanding_2016]. The result is a challenge for DBR in producing in-depth analyses of context, which are often required in CHAT-based approaches.
-
-
-Bakker [-@bakker_design_2018] challenges Engeström's characterisation of DBR as having closed goals, particularly critiquing Engeström's portrayal of the work of Collins and colleagues [-@collins_design_2004] as a misrepresentation. Bakker [-@bakker_design_2018, p.17] argues that these researchers did "not want to fix variables or educational goals upfront" . He echoes the call of  Cole, Penuel and O’Neill for more dialogue and greater recognition of the shared traditions between CHAT and design research [-@cole_cultural-historical_2018]. Penuel [-@penuel_emerging_2014] emphasises the eclectic methodological approach in design-based research as a necessary means of responding flexibly to context. Bakker also views this flexibility as a strength of DBR, resisting calls for greater formalisation of the design process [@ormel_researchpractice_2012; @mckenney_systematic_2013].
-
-An additional challenge is the context in which formative interventions are often applied. These interventions are frequently used in stable, institutional work environments, particularly in European contexts, where stakeholder roles and systemic structures are more predictable. In contrast, learning environments associated with DBR, especially in less formal or rapidly evolving contexts, do not share the same stability [@spinuzzi_trying_2020-1]. This difference may limit the utility of formative interventions like the Change Laboratory in more fluid settings.  
-
-Recent work by Engeström, Sannino, and colleagues suggests a shift toward a more collaborative stance on DBR, recognising its value rather than critiquing it outright. In particular, they acknowledge that formative interventions can enrich DBR by offering a robust framework for systemic transformation, collective agency, and expansive learning [@cakir_contradictions_2022]. This shift highlights a growing consensus on the potential benefits of incorporating cultural-historical concepts into DBR approaches. The study in this thesis, which applies CHAT principles to a novel and relatively unstable learning context, presents a useful case study in this ongoing endeavour to integrate the strengths of both formative interventions and DBR.  
-
-Barab and Squire [-@barab_design-based_2004] describe the inherent _messiness_ of design-based research  which presents a challenge for researchers when attempting to present results in a coherent manner that is useful for other practitioners. There is an ongoing tension between staying closely aligned with the specific, rich context of the research, and stepping back to generalise findings without becoming lost in abstraction. This balance is crucial to ensure that the research is both contextually meaningful and practically applicable to broader settings. Hoadley and Campos [-@hoadley_design-based_2022] further explore the outcomes of DBR, including the development of design processes, the creation of domain theories, the formulation of design principles or patterns, the introduction of ontological innovations, the generation of new hypotheses, and the transformative learning experienced by researchers themselves. These varied outcomes highlight the broad applicability of DBR and the importance of ensuring that design processes and theoretical insights are communicated clearly to enhance the utility of research findings.
-
-**DBR and affordances  -  INSERTED**
-While there is a wealth of research which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012].
 
 ### Examining specific models of formative interventions and DBR processes
 
