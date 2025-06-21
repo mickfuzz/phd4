@@ -77,7 +77,8 @@ This study is qualitative, general, and exploratory in nature, shaped by DBR and
 
 Rather than starting with fixed aims, the inquiry evolved through mutual engagement with participants and an openness to emergent goals. This orientation is justified both by the nature of the setting (non-formal, collaborative, and often resistant to conventional evaluation [CITAION]) and by the desire to avoid prematurely deciding on what kinds of pedagogical or methodological innovations might arise. While certain features remained consistent throughout, the process was fundamentally shaped by what unfolded during iterative cycles of engagement.
 
-
+MOVED HERE
+This emphasis on rapid iteration aligns with the aims of this thesis, where the ongoing feedback from participants informed the development of a novel learning design via phases of delivery. The iterative nature of DBR, with its focus on refining learning materials in response to feedback, supports the dynamic, practice-based approach explored in the following chapters. By integrating these DBR concepts, this thesis leverages the strengths of design-based approaches while aligning them with the systemic insights offered by CHAT. This flexible approach addresses both the complexities of real-world learning contexts and the need for practical, and ideally replicable outcomes.
 
 Pedagogical elements of the research design were  co-developed through collaboration with young learners, their families, and undergraduate student helpers. Over time, iterative design phases were informed by participant feedback, emergent needs, and reflection on practice. This collaborative shaping of both tools and pedagogy reflects established principles in participatory research [@iversen_computational_2018-1; @iivari_critical_2017], DBR [@barab_design-based_2004], and formative interventions [@cole_fifth_2006; @blunden_formative_2023].
 
@@ -106,7 +107,7 @@ As explored in Fifth Dimension work by Cole and others, this researcher-practiti
 
 
 ## Data collection within project delivery phases
-## Data Collection Within Project Delivery Phases
+
 
 This section outlines both the delivery of the game-making programme and the data collection activities embedded within each phase. As the next chapter presents the evolution of the intervention as a design narrative, the focus here is primarily on methods of data collection and the analytical approaches they supported.
 
@@ -157,11 +158,6 @@ Interviewees included Saskia Leggett, a researcher involved in the Creative Fami
 #### LINKS OUT
 
 
-
-
-
-
-
 This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix. [A draft of which is here](https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=11432580350275268987)
 
 
@@ -174,12 +170,6 @@ This whole process is so demanding in terms of careful file management. Making m
 The analysis was structured in three stages to reflect the evolving relationship between the data and the research questions. This staged approach allowed for an iterative process: beginning with exploratory review, progressing through thematic refinement and methodological adjustment, and concluding with interpretive consolidation. Each stage responded to new insights and practical constraints, and together they represent a strategy for understanding how learning, agency, and contradiction played out within the CGD&P interventions.
 
 Due to the exploratory nature of the research and the openness to emergent directions, the analysis process evolved iteratively across multiple stages. For the purposes of clarity, this process is presented in three simplified stages that reflect broad shifts in focus and method. Each stage marks a move toward greater granularity, using different analytical strategies suited to the emerging needs of the study. This structure also proved particularly useful in managing the large volume of video and screen capture data generated during the CGD&P sessions.
-
-
-
-
-
-
 
 
 
@@ -205,9 +195,14 @@ Stage 1 served as a exploratory review of the dataset to assess data quality, re
 
 The process was initially driven by the need to produce a summary of the facilitation process and to surface contextual tensions for a book chapter [@chesterman_game_2023], as well as to contribute to a mapping of learning dimensions developed during the D3 phase[^6] for online resource design . Journal analysis provided a foundational perspective on facilitation and early thematic tensions. Given the breadth of journal data, a comprehensive thematic analysis and exhaustive coding was impractical; instead, insights were triangulated with findings from the literature review to expose key themes and contradictions in the evolving pedagogy. Rogoff’s [-@rogoff_observing_1995] three planes of sociocultural activity were particularly useful here, allowing reflections on facilitation to be categorised across personal, interpersonal, and institutional dimensions, a technique further refined by Morcom [-@morcom_scaffolding_2014]. Alongside journal entries, evolving teaching resources, participant-created games, and assets  were examined to provide insight into how learners engaged with design elements, navigated  constraints, and appropriated resources for their own purposes. The use of these materials  informed subsequent iterations of facilitation and resource development, and contributed to  the emergent facilitation strategy.
 
+
+
+
 Practitioner interviews were used alongside journal reflections to identify key pedagogical concerns, barriers to participation, and evolving priorities within the learning design. Four extended interviews (averaging 90 minutes each) were conducted with professionals and collaborators from overlapping fields. The semi-structured format allowed for responsive dialogue, helping to surface themes such as learner identity, creative constraint, scaffolding strategies, and the design tensions in non-formal learning contexts. Themes included: agency as a focus, which emerged from Dave Potts’ reflections on the value of surfacing and supporting participants’ own interests in digital making; the value and tensions surrounding competition in non-formal settings, raised by Matt Curringa; the helping roles played by parents in young people's engagement with technology, highlighted by Saskia Leggett; and the affordances of online toolkits and game mechanics as mediational strategies, discussed by James Clegg. These interviews also helped focus subsequent cycles of video analysis by informing early coding directions and refinement of the research questions.
 
 Finally, video data was explored through a broad review of selected screen capture and 360-degree recordings from P2, P3, and P4. This initial dip into the video archive was used to assess both the quality and analytic potential of the recordings. Observations were recorded using a spreadsheet format and structured around Rogoff’s [@rogoff_observing_1995] three-plane framework. This approach provided an initial sense of the rhythms of sessions, the emergence of roles, and the unfolding of mediational practices. At this stage, full transcription was not attempted; instead, time-stamped observations helped determine which sessions might warrant deeper analysis in subsequent stages.
+
+
 
 This first stage set the foundation for the later interpretive work by clarifying the practical constraints of the data, surfacing early thematic directions, and testing the viability of a multi-source, iterative approach.
 
@@ -274,6 +269,14 @@ This study does not aim to generalise in a statistical sense. Instead, it suppor
 
 Chapter 5 extends the idea of replication through a design narrative, outlining how tools, materials and pedagogical structures evolved in response to emerging contradictions. This narrative reflects the ethos of DBR by documenting iterative and context-responsive design decisions that may be useful to others working in similar settings.
 
+Turning the replicability of the methodology more broadly, the blend of methods and ethos outlined in this chapter is a potential contribution back to the DBR and CHAT community.
+
+Rather than following an established applied CHAT methodology like the Change Laboratory, I synthesise different concepts outlined in this chapter. Chapter 4, which describes the methodology in more detail, will explain how I draw on CHAT, DBR, and Rogoff's concept [-@rogoff_observing_1995] of the three foci of analysis. In the analysis, I focus on the tensions between system elements, the iterative processes used to address these tensions, and transformational concepts of agency.
+
+This methodology pays particular attention to the development of the artefacts and processes developed as part of the learning design as a form of evidence of these transformations. The more rapid iterations of design align to a greater extent to DBR process of than that of Change Laboratory.
+
+Despite this, this study does aim for a full application of the stricter interpretation of the term formative intervention as outlined by Engeström and Sannino [-@engestrom_methodological_2014]. This hybrid approach addresses a key critique of the Helsinki school's implementation of third-generation activity theory (3GAT) via formative interventions such as the Change Laboratory, specifically that it is time-consuming and requires stable stakeholders [@spinuzzi_trying_2020-1]. However, while this hybrid process has proven fruitful in some areas, it has also posed challenges during the analysis stage. The implications of both successes and challenges are explored in the thesis conclusion.
+
 ### Methodological and Practical Limitations
 
 Several limitations shaped the scope of this research. Interview data was limited in number and timing due to logistical constraints and the emphasis on supporting live sessions. More regular or follow-up interviews might have added further depth. Similarly, while significant video data was collected, only a subset was transcribed or coded in detail, reflecting a balance between depth and breadth in analysis.
@@ -289,6 +292,17 @@ The role of the researcher as facilitator, designer and analyst brought both opp
 ### Closing Note
 
 This chapter has outlined the methodological framework that underpins the study, combining a staged analytical process with reflexive and design-based strategies. Emphasis has been placed on the evolving nature of the research design, and on the relationships between analysis, tool development and facilitation practice.
+
+
+To situate the reader at this stage, concepts related to the methodological approach explored in this chapter are briefly outlined in the context of this study. Figure 3.broad below presents a broader picture of the activity within the context of other activity systems.
+
+![](./Pictures/At_dia_3_v3.png){width=90%}
+
+Fig 3.broad - environmental positioning with game making activity mediating the interactions between stakeholders.
+
+The representation above shows a relation between systems which allows transmission of funds of knowledge and existing repertoires of communication from the existing   activity systems of different stakeholders and learning contribution to a new, emerging system. Following an approach taken by Lecusay [-@lecusay_telementoring_2015], the processes at work in the emerging shared object merits examination as an activity system in their own rights a process tackled in chapter five.
+ALSO LINK TO 3RD SPACES AND MOVEMENT FROM Gutiérrez
+
 
 The next chapter builds on this foundation by tracing the co-development of the CGD&P programme over time. Using a design narrative approach IS THIS EXPLORED? [@hoadley_method_2002], Chapter 5 explores how emerging contradictions within the learning environment shaped key shifts in goals, resources and the collaborative object of the game-making intervention.
 

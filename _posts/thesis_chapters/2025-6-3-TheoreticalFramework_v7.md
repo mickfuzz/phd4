@@ -223,6 +223,9 @@ A key aspect of DBR is its emphasis on the rapid iteration of resources based on
 **DBR and affordances  -  INSERTED**
 While there is a wealth of research which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012].
 
+LINK TO HCI RELEVANT TO THIS STUDY? KEEP?
+The broader concept of participants actively overcoming blockages caused by contradictions is well-explored in the fields of Human-Computer Interaction (HCI) and DBR. These fields often focus on revising educational tool designs to address conflicts, while still recognising the agency and input of participants [@karanasios_moving_2021].
+
 
 <!-- While starting from similar roots, and sharing key concerns regarding ecological validity, there has been a degree of contestation in attempts to compare formative intervention with design based research. -->
 
@@ -253,6 +256,8 @@ Element of the research design also draw on more specific methods later in the c
 The study in this thesis, which applies CHAT principles to a novel and relatively unstable learning context, presents a useful case study in this ongoing endeavour to integrate the strengths of both formative interventions and DBR.
 
 A guiding principles within, mutuality of the process, and joint activity is that examining development of varied expression of  agency.
+
+
 
 
 <!-- While x  resisted a formalisation, this naming and description of process is a welcome way of sharing practice. -->
@@ -445,11 +450,9 @@ finds xx an uses the following methods, approaches.
 [@penuel
 
 
-##### Iterative approach - KEEP SOME HERE AMD MOVE REST UP OR TO CH.3
-
 A key aspect of DBR is its emphasis on the rapid iteration of educational resources based on continuous feedback rooted in practice. This process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003].
 
-This emphasis on rapid iteration aligns with the aims of this thesis, where the ongoing feedback from participants informed the development of a novel learning design via phases of delivery. The iterative nature of DBR, with its focus on refining learning materials in response to feedback, supports the dynamic, practice-based approach explored in the following chapters. By integrating these DBR concepts, this thesis leverages the strengths of design-based approaches while aligning them with the systemic insights offered by CHAT. This flexible approach addresses both the complexities of real-world learning contexts and the need for practical, and ideally replicable outcomes.
+
 
 
 
@@ -472,31 +475,20 @@ For shadows work on abstract and concrete in the future.
 
 ## Conclusion / Synthesis.
 
-
 In this chapter I have outlined the foundational concepts and current strands of interest of CHAT and explored how the field is becoming increasing aligned with that of design-based research. The complementary elements identified can be operationalised by utilising both CHAT's comprehensive framework for understanding human activity and DBR's practical focus on more rapidly iterative cycles of designed interventions.
 
+EDIT DOWN
+While TAS can be seen primarily as a conceptual approach in comparison to TADS which more closely linked to an applied approach of formative interventions, I am encouraged by the activist stance advocated by Stetsenko [-@stetsenko_critical_2020], which rejects the abstraction of oneself from the processes participants engage in and promotes immersion in the struggle. This aligns with my own motivations in this study, resonating with my past experiences, as I position myself as an activist advocating for improved access to game-making through computer coding, a process currently hindered by educational contexts and classroom practices as explored in Chapters 1 and 2.
 
 
-To situate the reader at this stage, concepts related to an activity systems approach explored in this chapter are briefly outlined in the context of this study. Figure 3.broad below presents a broader picture of the activity within the context of other activity systems as seen in the work of Cakir and colleagues represented above in Fig 3.cakir [-@cakir_contradictions_2022].
 
-![](./Pictures/At_dia_3_v3.png){width=90%}
-
-Fig 3.broad - environmental positioning with game making activity mediating the interactions between stakeholders.
-
-The representation above shows a relation between systems which allows transmission of funds of knowledge and existing repertoires of communication from the existing   activity systems of different stakeholders and learning contribution to a new, emerging system. Following an approach taken by Lecusay [-@lecusay_telementoring_2015], the processes at work in the emerging shared object merits examination as an activity system in their own rights a process tackled in chapter five.
 
 
 The use of concepts from both of CHAT and DBR is particularly valuable for this study, as it allows exploration of the contextual factors and influences from other activity systems contributing to the new shared object of activity. These include the ongoing development of cultural artefacts used, home interests and repertoires, as well as my own motivations.
 
-MOVE THIS UP OR DROP IT?
-While TAS can be seen primarily as a conceptual approach in comparison to TADS which more closely linked to an applied approach of formative interventions, I am encouraged by the activist stance advocated by Stetsenko [-@stetsenko_critical_2020], which rejects the abstraction of oneself from the processes participants engage in and promotes immersion in the struggle. This aligns with my own motivations in this study, resonating with my past experiences, as I position myself as an activist advocating for improved access to game-making through computer coding, a process currently hindered by educational contexts and classroom practices as explored in Chapters 1 and 2.  
-
-KEEP THIS?
-To achieve this, rather than following an established applied CHAT methodology like the Change Laboratory, I synthesise different concepts outlined in this chapter. Chapter 4, which describes the methodology in more detail, will explain how I draw on CHAT, DBR, and Rogoff's concept [-@rogoff_observing_1995] of the three foci of analysis. In the analysis, I focus on the tensions between system elements, the iterative processes used to address these tensions, and transformational concepts of agency.
-
-In chapter 5 particular attention is paid to the development of the artefacts and processes developed as part of the learning design as a form of evidence of these transformations. The more rapid iterations of design align to a greater extent to DBR process of than that of Change Laboratory. Despite this, this study does aim for a full application of the stricter interpretation of the term formative intervention as outlined by Engeström and Sannino [-@engestrom_methodological_2014]. This hybrid approach addresses a key critique of the Helsinki school's implementation of third-generation activity theory (3GAT) via formative interventions such as the Change Laboratory, specifically that it is time-consuming and requires stable stakeholders [@spinuzzi_trying_2020-1]. However, while this hybrid process has proven fruitful in some areas, it has also posed challenges during the analysis stage. The implications of both successes and challenges are explored in the thesis conclusion.
-
-Turning to a similar issue regarding conceptions of agency, TADS (transformative agency by double stimulation) is most commonly explored in relation to Change Laboratory and professional settings. Despite its potential in less structured contexts, there is a paucity of studies in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93]. However, the broader concept of participants actively overcoming blockages caused by contradictions is well-explored in the fields of Human-Computer Interaction (HCI) and DBR. These fields often focus on revising educational tool designs to address conflicts, while still recognising the agency and input of participants [@karanasios_moving_2021] In line with Hopwood [-@hopwood_agency_2022], I see significant potential in the application of TADS in varied, real-world learning environments, using a diverse range of in-situ data sources as learning practices evolve.
+Rather than following an established applied CHAT methodology like the Change Laboratory, I synthesise different concepts outlined in this chapter. Chapter 4, which describes the methodology in more detail, will explain how I draw on CHAT, DBR, and Rogoff's concept [-@rogoff_observing_1995] of the three foci of analysis. In the analysis, I focus on the tensions between system elements, the iterative processes used to address these tensions, and transformational concepts of agency.
 
 
 To conclude this chapter, it is helpful to situate this synthesised theoretical framework as one that has the potential to make a valuable contribution through an applied case study. This case study aims to engage with current theoretical advances in the field of agency studies, particularly within the implementation of smaller-scale formative interventions. The framework outlined in this chapter informs the specific methodology described in the following chapter, where methods of data collection and stages of data analysis evolve in an iterative process, while remaining structured to incorporate the underlying concepts of CHAT and DBR.
+
+<!-- Turning to a similar issue regarding conceptions of agency, TADS (transformative agency by double stimulation) is most commonly explored in relation to Change Laboratory and professional settings. Despite its potential in less structured contexts, there is a paucity of studies in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93].  -->
