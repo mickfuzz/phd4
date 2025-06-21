@@ -15,13 +15,16 @@ title: 3. Theoretical Framework
     -   [3GAT and Expansive learning](#gat-and-expansive-learning)
         -   [Double stimulation](#double-stimulation)
         -   [Rising to the concrete](#rising-to-the-concrete)
-    -   [Formative Interventions](#formative-interventions)
+-   [Formative Interventions](#formative-interventions)
 -   [The work of Laboratory of Comparative Human Cognition (LCHC) and
     DBR](#the-work-of-laboratory-of-comparative-human-cognition-lchc-and-dbr)
     -   [Formative interventions based on mutual
         appropriation](#formative-interventions-based-on-mutual-appropriation)
         -   [Mutual appropriation](#mutual-appropriation)
-    -   [Design based research (DBR)](#design-based-research-dbr)
+    -   [Design based research (DBR) as formative
+        interventions](#design-based-research-dbr-as-formative-interventions)
+        -   [Comparing and critiquing DBR and CHAT / formative
+            interventions](#comparing-and-critiquing-dbr-and-chat-formative-interventions)
 -   [Concepts of agency within CHAT](#concepts-of-agency-within-chat)
     -   [Instrumental](#instrumental)
         -   [Transformation agency through double stimulation (TADS) -
@@ -34,55 +37,49 @@ title: 3. Theoretical Framework
             making](#feedback-and-relational-agency-and-specialism-in-context-of-making)
 -   [An overview of CHAT concepts relevant to this
     study](#an-overview-of-chat-concepts-relevant-to-this-study)
-    -   [idioculture](#idioculture)
     -   [Third spaces and funds of
         knowledge](#third-spaces-and-funds-of-knowledge)
     -   [Repertoires of practice within three planes of
         activity](#repertoires-of-practice-within-three-planes-of-activity)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
-    -   [Comparing and critiquing DBR and CHAT / formative
-        interventions](#comparing-and-critiquing-dbr-and-chat-formative-interventions)
     -   [Examining specific models of formative interventions and DBR
         processes](#examining-specific-models-of-formative-interventions-and-dbr-processes)
         -   [Change Lab and Living labs](#change-lab-and-living-labs)
-        -   [DBR as an applied research
-            process](#dbr-as-an-applied-research-process)
-            -   [Design Narratives](#design-narratives)
-            -   [Iterative approach](#iterative-approach)
+        -   [Design Narratives](#design-narratives)
+        -   [Design-Based Implementation Research - DBIR
+            -](#design-based-implementation-research---dbir--)
+            -   [Iterative approach - KEEP SOME HERE AMD MOVE REST UP OR
+                TO
+                CH.3](#iterative-approach---keep-some-here-amd-move-rest-up-or-to-ch.3)
         -   [Social design-based experiments
             (SDBEs)](#social-design-based-experiments-sdbes)
 -   [Conclusion / Synthesis.](#conclusion-synthesis.)
-
 
 ## Introduction
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. As such, the research questions address cultural factors which act as barriers to participation in digital making, and therefore require a method of research which allows the detailed analysis of complex, emergent learning environments. To achieve this, I adopt cultural historical activity theory (CHAT) as a guiding framework, which is operationalised through a formative intervention approach, incorporating adaptations from design-based research (DBR). This chapter explores these theoretical frameworks and key concepts relevant to the development of the thesis.
 
 
-Activity Theory (AT) emerged as part of a movement known as the social turn in psychology [@sugiman_social_2008], marking a shift from a purely psychological approach towards a more social understanding of learning and human behaviour. While this shift has influenced various disciplines, the focus here is on its impact on learning. The rationale behind moving away from the assumption that human mental activity should be studied in isolated, context-free settings  [@stetsenko_activity_2005], concerns not only the validity of results [@brown_design_1992], but also the relevance of the research for both designers and participants [@barnett_ecosystem_2019]. This perspective transcends traditional transmission models of learning and embraces the value of group-based, participatory processes. The work of Brown [-@brown_design_1992], a prominent psychology researcher advocating the importance of context within experimental design, helped legitimise this focus and facilitated its broad adoption across diverse fields. The growing work in these varied fields, sometimes grouped by the term _learning sciences_, reflects a move away from randomised control trials and their attempt to sever context, shifting from a behaviourist view of learning as an internal psychological process to a more interdisciplinary approach. This new approach draws on cognitive and cultural psychology [@hoadley_learning_2011]. While this fragmentation promotes pluralism and knowledge-sharing across fields as diverse as education, anthropology, and computer science, it has also been criticised for lacking conceptual coherence in understanding learning and human activity on a deeper level [@hoadley_learning_2011].
-
-END ON A POSITIVE NOTE FROM COLE?
-
-
-
-
-
 This chapter outlines the theoretical frameworks that shape the methodology and underlying ethos of this study. It begins by introducing the foundational concepts of AT and then explores its evolution into CHAT and third-generation activity theory (3GAT), developed by Engeström and the Helsinki school. In order to enhance the 3GAT approach, several key concepts from the work of the Laboratory of Comparative Human Cognition (LCHC) in San Diego are discussed. To demonstrate how CHAT is applied in research, the chapter also examines DBR and various forms of formative interventions. While AT forms the basis of this study, elements from other theoretical approaches within the learning sciences, particularly DBR, are incorporated to address the utility and practical application of the research [@hoadley_creating_2002-1; @barnett_ecosystem_2019]. To address the study’s focus on designing an intervention aimed at fostering participant agency within the game-making process, the final section of the chapter explores key conceptions of agency within CHAT, specifically in the form of activist and transformative approaches. The chapter concludes by justifying the synthesis of these theoretical choices and provides a brief description of how these concepts are operationalised within the context of this study.
 
 ## The foundational concepts of activity theory
 
+Activity Theory (AT) emerged as part of a movement known as the social turn in psychology [@sugiman_social_2008], marking a shift from a purely psychological approach towards a more social understanding of learning and human behaviour. While this shift has influenced various disciplines, the focus here is on its impact on learning. The rationale behind moving away from the assumption that human mental activity should be studied in isolated, context-free settings  [@stetsenko_activity_2005], concerns not only the validity of results [@brown_design_1992], but also the relevance of the research for both designers and participants [@barnett_ecosystem_2019]. This perspective transcends traditional transmission models of learning and embraces the value of group-based, participatory processes.
 
-Before outlining the core concepts driving Activity Theory (AT), a brief historical overview helps to contextualise them. For Marx, human endeavour and change are based on activity, with the subject of that activity being the individual or group driving it [@marx1975marx; @blunden_interdisciplinary_2009]. Vygotsky built upon Marxist ideas, emphasising the importance of human activity as a socially mediated process, and applied these core concepts to the broader understanding of learning [@blunden_interdisciplinary_2010]. While Vygotsky's student Leontiev developed Vygotsky's work into a prototypical Activity Theory (AT), AT had stagnated in the repressive context of the USSR [@blunden_interdisciplinary_2010] and saw limited uptake in Western academia until Cole translated Vygotsky's work [@cole_mind_1978]. Cole's efforts brought these foundational ideas into the realm of educational psychology during the broader _social turn_ in the discipline.
+Before outlining the core concepts driving Activity Theory (AT), a brief historical overview helps to contextualise them. For Marx, human endeavour and change are based on activity, with the subject of that activity being the individual or group driving it [@marx1975marx; @blunden_interdisciplinary_2009]. Vygotsky built upon Marxist ideas, emphasising the importance of human activity as a socially mediated process, and applied these core concepts to the broader understanding of learning [@blunden_interdisciplinary_2010]. While Vygotsky's student Leontiev developed Vygotsky's work into a prototypical activity theory (AT), AT had stagnated in the repressive context of the USSR [@blunden_interdisciplinary_2010] and saw limited uptake in Western academia until Cole translated Vygotsky's work [@cole_mind_1978]. Cole's efforts brought these foundational ideas into the realm of education and psychology during the broader _social turn_ in the discipline.
 
-In this emerging field of cultural psychology, scholars such as Wertsch [-@wertsch_vygotsky_1985] and Cole [-@cole_cultural_1996] explored the critical role of cultural mediation in human development, particularly in relation to learning communities and contexts. They positioned learning pedagogies as forms of mediational strategies. Before turning to Cole's work and others in this context, it is valuable to examine the core concepts of Activity Theory. Nardi and Kaptelinin outline AT as a series of foundational principles that underpin broader theories [@kaptelinin_acting_2009; @wertsch_concept_1981], specifically: object-orientedness, tool mediation, hierarchical structure of activity, the ongoing development of activity, and the psychological processes of internalisation and externalisation.
+The work of Brown [-@brown_design_1992], a prominent psychology researcher advocating the importance of context within experimental design, helped legitimise this focus and facilitated its broad adoption across diverse fields. The growing work in these varied fields, sometimes grouped by the term _learning sciences_, reflects a move away from randomised control trials and their attempt to sever context, shifting from a behaviourist view of learning as an internal psychological process to a more interdisciplinary approach. This new approach draws on cognitive and cultural psychology [@hoadley_learning_2011]. While this fragmentation promotes pluralism and knowledge-sharing across fields as diverse as education, anthropology, and computer science, the field of learning sciences has been criticised for lacking conceptual coherence in understanding learning and human activity on a deeper level [@hoadley_learning_2011].
+
+TRANSITION - TO ADDRESS THIS DEFICIT? ...
+In this emerging field of cultural psychology, scholars such as Wertsch [-@wertsch_vygotsky_1985] and Cole [-@cole_cultural_1996] explored the critical role of cultural mediation in human development, particularly in relation to learning communities and contexts.  Nardi and Kaptelinin outline AT as a series of foundational principles that underpin broader theories [@kaptelinin_acting_2009; @wertsch_concept_1981], specifically: object-orientedness, tool mediation, hierarchical structure of activity, the ongoing development of activity, and the psychological processes of internalisation and externalisation.
+CHECK THIS LIST
 
 A useful starting point to explore key concepts in AT is Vygotsky’s formulation of the relationship between subject, object, and tools. Activity Theory is object-oriented, meaning that human behaviour and learning are driven by the goals or objectives of the individual or collective subject [@engestrom_learning_1987-1]. Kaptelinin and colleagues [-@kaptelinin_activity_1995] note that while the materialist roots of AT, stemming from Marxist theory, have led some interpretations to focus on the object as the physical entity being worked on and transformed by activity, conceptual objects are also included in Leontiev’s conception of Activity Theory [@leontev_problem_1974]. Thus, the term object is best understood within the context of a broader motivation or objective. To represent the subject-object relationship in a way that addresses Vygotsky's resolution of the subject-object, mind-body, and Cartesian dualism problems [@still1991mutual], this relationship was developed by Leontiev into a triadic model that includes tools which mediate the activity [@engestrom_learning_1987-1]. See fig 3.x below.
 
 ![](./Pictures/At_dia_6_basicer_v1.png){width=60%}
 
 Fig. 3.x Essential components of activity outlined by Vygotsky
-
 
 Turning to mediation via tools, Vygotsky's concept of tools is broad [-@cole_mind_1978], encompassing language, physical tools, and representational concepts. Mediation is particularly relevant to this study, as the learning environment involves diverse and dynamic forms of tool use. Physical, digital, and conceptual tools evolve as products of the experiences of others in society, containing evidence of cultural adaptation and evolution. This study positions pedagogies as forms of mediational strategy that can be employed by both facilitators and learners [@donato_sociocultural_1994; @gutierrez_re-mediating_2009].
 
@@ -92,7 +89,7 @@ To describe activity systems with greater granularity, Leontiev [-@leontiev_acti
 
 ![](./Pictures/At_dia_7_hierarchy_v1.png){width=80%}
 
-Figure 3. x -  hierarchical structure of activity adapted from  [@daniels_vygotsky_2001, p.87].
+Figure 3. x - Hierarchical structure of activity adapted from  [@daniels_vygotsky_2001, p.87].
 
 The concept of fluency is key to this study, making it essential to locate and describe the chains of operations and actions involved in the activity. Kuutti [-@kuutti_activity_1995] articulates the transition from actions to operations as follows:
 
@@ -102,7 +99,12 @@ Additionally, activity systems can be viewed as nested within broader activity s
 
 For example, in Barab et al.'s [-@barab_using_2002] research on changes to a university course, the use of varied scopes and different framings of activity are used, at times focusing in on the specifics of evolving tool use or participant interaction as an object of activity, to build up a detailed examination of the tensions and processes within a complex educational environment. This level of detail not only enhances replicability but also provides utility to other practitioners, illustrating and justifying the use of a smaller activity system than what is typically represented in Engeström's approach [@engestrom_learning_1987-1; @lave_developmental_1993; @barab_using_2002]. Similarly, in this thesis, while game making is studied as a community project within a larger system, interpersonal activity is also examined through an activity system of a smaller scope. This aspect is explored in more detail in Chapter 4.
 
-In terms of development, activity theory perceives activity as constantly evolving within its context. The theory is rooted in Marxist dialectical materialism, which posits that activity is a dynamic system best understood through its transformations [@ilyenkov1960dialectics]. A significant driver of transformation in activity is the emergence and resolution of contradictions and conflicts that arise from the accumulation of tensions within the activity itself [@ilyenkov1960dialectics; @blunden_activity_2023]. Engeström’s work on what he termed the third generation of activity theory includes the theory of expansive learning, which traces the changes and growth of the object being worked on. This transformation often occurs as tensions extend beyond a single activity system to involve multiple systems, acknowledging the influence of actors moving between them [@engestrom_expansive_2001]. Alongside Cole’s contributions, this framework is essential for broadening the understanding of activity and engaging with cross-cultural perspectives on learning [@cole_cross-cultural_1988]. These concepts are explored further in the section on expansive learning below.
+In terms of development, activity theory perceives activity as constantly evolving within its context. The theory is rooted in Marxist dialectical materialism, which posits that activity is a dynamic system best understood through its transformations [@ilyenkov1960dialectics]. A significant driver of transformation in activity is the emergence and resolution of contradictions and conflicts that arise from the accumulation of tensions within the activity itself [@ilyenkov1960dialectics; @blunden_activity_2023].
+
+WORK ON THIS LINK - SIGNPOST BOTH 3GAT AND LCHC
+Engeström’s work on what he termed the third generation of activity theory includes the theory of expansive learning, which traces the changes and growth of the object being worked on. This transformation often occurs as tensions extend beyond a single activity system to involve multiple systems, acknowledging the influence of actors moving between them [@engestrom_expansive_2001].
+
+Alongside Cole’s contributions, this framework is essential for broadening the understanding of activity and engaging with cross-cultural perspectives on learning [@cole_cross-cultural_1988]. These concepts are explored further in the section on expansive learning below.
 
 ###  3GAT and Expansive learning
 
@@ -117,7 +119,7 @@ Third generation activity theory (3GAT) represents an important development of c
 ![](./Pictures/At_dia_5_basic_v1.png){width=60%}
   Figure 3. x - Engeström's representation of community concepts an activity system
 
-While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory [@spinuzzi_trying_2020-1]. This shared, or expanded, object being worked on by more than one activity system of expansive learning forms an important base for formative in [@sannino_formative_2016] [@engestrom_methodological_2014]
+While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory [@spinuzzi_trying_2020-1]. This shared, or expanded, object being worked on by more than one activity system of expansive learning forms an important base for formative in [@sannino_formative_2016] [@engestrom_methodological_2014].
 
 <!-- ![](./Pictures/shared_object_engestrom.png){width=90%}
 
@@ -129,7 +131,8 @@ To clarify this relationship , an example in context is beneficial. In research 
 
 Figure 3.cakir - An object shared between different activity systems
 
-The conception of joint activity emphasises the importance of the roles of researchers and other stakeholders within these interventionist and participatory processes. Analysing activity through its transformation, particularly in relation to the contradictions and tensions among system elements, draws on Marxist conceptions of dialectics and forms the foundation for the concepts of expansive learning. In 3GAT, this view of transformation through collaborative work between activity systems on a new, expanded object is termed expansive learning [@engestrom_design_2011].
+The conception of joint activity emphasises the importance of the roles of researchers and other stakeholders within these interventionist and participatory processes. ADD LECUSAY TOO HERE?
+Analysing activity through its transformation, particularly in relation to the contradictions and tensions among system elements, draws on Marxist conceptions of dialectics and forms the foundation for the concepts of expansive learning. In 3GAT, this view of transformation through collaborative work between activity systems on a new, expanded object is termed expansive learning [@engestrom_design_2011].
 
 Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems [@engestrom_expansive_2001]. 3GAT achieves this through careful of description, analysis, and representation of system elements, the interaction between systems, and the resulting contradictions. Some tensions arising between participant motives and different parts of activity system may be resolved quickly through change, while others may persist and can be referred to as conflicts [@sannino_cultural-historical_2018]. These unresolved contradictions which develop into impasses or conflicts which may serve as motivational factors driving agentic responses from participants. A later section explores Sannino's perspective on such conflicts as a source of transformative agency in greater depth.
 
@@ -162,33 +165,40 @@ In this thesis, my role as both researcher and practitioner makes both aspects r
 The term formative intervention (FI) has its roots in Cole and Engeström's exploration of two models of CHAT based interventionist research [@valsiner_cultural-historical_2007],
 
 Cole and Engeström [-@valsiner_cultural-historical_2007] outline characteristics of formative interventions that represent with key principles of CHAT,
-Examples of specific instances of formative interventions are examined in the final section of chapter.
+
+WHAT ARE THEY?
+They are base  
 
 Cole and Engeström [-@valsiner_cultural-historical_2007]
 outline practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process [EXPLAIN].
 
 They also note the challenges of financing lengthy and repeated interventions within the experimental process, as well as the potential to disrupt the status quo of research settings by developing the agency of workers and learners.
 
+Examples of specific instances of formative interventions are examined in the final section of chapter.
+
+
 <!-- This disruption may, in turn, impact the direction of the research, steering it away from the objectives initially supported by the funders.   -->
 
 
-## The work of Laboratory of Comparative Human Cognition (LCHC) and DBR
+### DBR and the formative interventions from the Laboratory of Comparative Human Cognition (LCHC)
 
-### Formative interventions based on mutual appropriation
+
+
+ based on mutual appropriation
 
 The work of Michael Cole and colleagues Laboratory of Comparative Human Cognition (LCHC) in San Diego
 
-Cole highlights the need to align research interventions with the ongoing aims of educational or community partners to maximise their sustainability beyond the research period [@valsiner_cultural-historical_2007; @cole_fifth_2006].
-
-ITS BEEN PRODUCTIVE - THESE HAVE COME OUT OF IT
-
-The chapter later explores  concepts derived from this school, such as funds of knowledge, idiocultures, and legitimate peripheral participation, which are especially relevant to this study.
-These include approaches like communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991], and social design experiments [@gutierrez2020utopian].
+was influenced by approaches like communities of learners [@rogoff_developing_1994], communities of practice [@lave_situated_1991],
 
 
 LCHC's approach to formative interventions is  iterative, responsive and flexible. It shares characteristics and some common lineage with design based research.
 
+
+The chapter later explores  concepts derived from this school, such as funds of knowledge, idiocultures, third space which are especially relevant to this study.
+
 #### Mutual appropriation
+
+Cole highlights the need to align research interventions with the ongoing aims of educational or community partners to maximise their sustainability beyond the research period [@valsiner_cultural-historical_2007; @cole_fifth_2006].
 
 The concept mutual appropriation has been utilised by Cole to explain and explore the development of the practicalities and structure of the research programme The setting of 5D interventions predominantly consisted of after-school clubs run by community partners, guided by university researchers and supported by undergraduate student volunteers. The main activities were playful tasks aimed at providing fun, along with additional objectives of building literacy.  Cole noted that for an activity to be sustainable, the goals of researchers, student volunteers, funders, and local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describe a mutual process of adaptation in joint activities between institutions, which not only reforms activities to make them suitable for ongoing partnership but also leaves a historical trace of evolving activities that serve as a valuable basis for cultural analysis [@downing-wilson_design_2011]. A key distinction between the 5D approach and that of Change Laboratories is that, in the early stages of the 5D intervention, activity goals are not fully formed and are still in a state of evolution. I will return to this point later in this chapter.    
 
@@ -302,35 +312,32 @@ This framing is relevant to the ethical commitments of this study, particularly 
 
 ### Relational Agency
 
-Relational agency has multiple interpretations, some of which pose challenges for a politically engaged analysis. Stetsenko [@stetsenko2020radical] critiques ecological and sociomaterial theories of agency advanced by scholars such as Latour [@latour_reassembling_2005], Barad [@barad_meeting_2007], and Giddens [@giddens_constitution_1984]. While these approaches usefully explore distributed activity across human and material systems, Stetsenko argues they often omit attention to power, political struggle, and the transformative potential of human action.
+Relational agency has multiple interpretations, some of which pose challenges for a politically engaged analysis. Stetsenko [@stetsenko2020radical] critiques ecological and sociomaterial theories of agency advanced by scholars such as Latour [@latour_reassembling_2005], Barad [@barad_meeting_2007], and Giddens [@giddens_constitution_1984]. While these approaches usefully explore distributed activity across human and material systems, Stetsenko argues they often omit attention to power, political struggle, and the transformative potential of human action. By contrast, Edwards and Mackenzie’s [@edwards_steps_2005] conception of relational agency builds on activity theory and retains a focus on historical and political dimensions. Relational agency extends instrumental agency by recognising the social capacity to interpret and respond to others’ actions, particularly through collaboration. It involves individuals working with others to expand a shared object of activity with evolving goals. In educational contexts, this form of agency is often constrained by institutional routines, yet still offers a useful lens for analysing participation in community-based learning environments.
 
-By contrast, Edwards and Mackenzie’s [@edwards_steps_2005] conception of relational agency builds on activity theory and retains a focus on historical and political dimensions. Relational agency extends instrumental agency by recognising the social capacity to interpret and respond to others’ actions, particularly through collaboration. It involves individuals working with others to expand a shared object of activity, while aligning their own contributions with evolving goals. In educational contexts, this form of agency is often constrained by institutional routines, yet still offers a useful lens for analysing participation in community-based learning environments.
+For Edwards [@edwards_building_2011, p.34], relational agency involves collaborating with others to extend the shared understanding of an activity's object, and adjusting one's own actions in response to others' evolving interpretations of that object. In many educational settings, feedback is an important part of this process. Chapter 2 examined the work of Gutiérrez and colleagues in 5thD interventions [-@digiacomo_relational_2016-1; -@gutierrez_developing_2008;-@digiacomo_seven_2017] in addressing identity formation in an after school educational context. The focus of Gutierrez on equity, and diversity within agency in noteable. Within one key study, the researchers explored the role of feedback within that learning environment to increase relational agency and a form of specialism they term _relational expertise_ [-@digiacomo_relational_2016-1]. This case study is helpful to illustrated an example of a practical educational process involving feedback. DEVELOP / DESCRIBE
+
+The researchers, "argue that these relational and material feedback elements of the activity helped to create an environment with relational agency"
+
+The next section on CHAT concepts, in part, develops related concepts of third spaces and emerging repertoires within these communites.
+
 
 <!-- Both TAS and relational agency are relevant to this thesis: the former informs the researcher’s stance, while the latter helps describe how learners negotiate support and meaning through joint activity. -->
-
-
 
 <!-- For Stetsenko the stakes are high given ecological and military crises caused by neo-liberal capitalist economic, but there is still everything to play for [@hall_marxism_2023]. -->
 <!-- While the overall focus is societal change, TAS has been applied to smaller scale concrete explorations, including play [@stetsenko_serious_2015], transformation in the setting of adolescents looked after in residential care [@vianna_connecting_2011]. In TAS aspects of conceptual understandings of agency and specifics of methodology are less explored than the motivational dimensions, the methods of auto-ethnography and case studies are used in several studies which draw on this concept [@vianna_connecting_2011]. -->
 
 
 
-#### Feedback and relational agency and specialism in context of making
+<!-- **The role of feedback and and identity formation within relational agency** -->
 
 
-TO ADD - Within relational agency, a call back to 3rd spaces and emerging repertoires is needed to introduce exploration in Chapter 7.
 
-The work of DiGiacomo and Gutiérrez exploring making and tinkering in a 5D context explored the role of:
-
-   1. feedback to increase relational agency
-   2. feedback increases relational expertise in
-
-The additional focus of equity, and diversity rather than agency of Gutierrez should be noted here also.  
-
-From [-@digiacomo_relation
+<!-- From [-@digiacomo_relation
 al_2016-1]
 
-    We argue that these relational and material feedback elements of the activity helped to create an environment with relational agency—a “capacity for working with others to strengthen purposeful responses to complex problems” [@edwards_building_2011] (Edwards, 2011, p.34). According to Edwards (2011), relational agency arises from (a) working with others to expand the object of activity and (b) aligning one’s own responses to new interpretations being made by the others while acting on the expanded object.
+    We argue that these relational and material feedback elements of the activity helped to create an environment with relational agency—a “capacity for working with others to strengthen purposeful responses to complex problems” [@edwards_building_2011, p.34] (Edwards, 2011, p.34). According to Edwards (2011), relational agency arises from (a) working with others to expand the object of activity and (b) aligning one’s own responses to new interpretations being made by the others while acting on the expanded object. -->
+
+
 
 ## An overview of CHAT concepts relevant to this study
 
