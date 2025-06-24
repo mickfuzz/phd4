@@ -278,7 +278,6 @@ I draw on the work of Matusov and colleagues [-@matusov_mapping_2016] who catego
 
 ### Instrumental Agency
 
-
 Instrumental agency reflects a concept of agency as the ability to get things done, thus, a view of agency as a set of capacities [@edwards_steps_2005]. Matusov and colleagues [-@matusov_mapping_2016] highlight an often technological view of educational environments where educators seek to increase instrumental agency by building the individual capacity of learners to achieve relevant tasks. Many DBR studies which aim to develop and study the use of new tools especially in the area of education technology, would aim to increase instrumental learner agency, designing away problems.
 
 
@@ -381,13 +380,32 @@ One solution to the challenge of balancing utility and generalisation, as well a
 In this study, a design narrative is particularly valuable in conveying the intricate details of the learning design. This thesis format allows for a fuller exploration of these aspects, notably in Chapter 5 where I use the depth of description possible to illuminate evolving tensions in the learning activity. I argue that design narratives can further enhance the alignment between DBR and Cultural-Historical Activity Theory (CHAT) interventions. By incorporating systemic and analytical concepts from activity theory, design narratives can provide a more holistic account of the intervention process. An example of such a narrative, using CHAT techniques, is found in Cole's [-@cole_fifth_2006] work on the Fifth Dimension.
 
 
+
+#### Design-based implementation research (DBIR)
+
+Design-based implementation research (DBIR) was developed by Penuel and colleagues [@penuel_design-based_2021] as a response to the challenges faced by formative interventions in institutional settings. Formative interventions, such as the Change Laboratory, are designed to support systemic transformation and collective agency. However, their intensive, workshop-based model is often more suited to stable institutional environments and can be difficult to scale in less predictable or fast-changing settings. This has sometimes limited their uptake in contexts that demand more flexible, rapidly deployable approaches. In contrast to the relatively open-ended structure of formative interventions, DBIR introduces a more pragmatic orientation, one that seeks to produce usable and context-sensitive knowledge that can support organisational learning.
+
+DBIR builds on the foundations of DBR but places greater emphasis on sustainability, system-level coordination, and the long-term integration of innovation into everyday practice. It aims to foster equitable change through iterative, collaborative partnerships between researchers, practitioners, and policy actors. Core features of DBIR include collaborative goal-setting, iterative design cycles that incorporate practitioner feedback, and a focus on designing for equity from the outset. This approach has been particularly influential in supporting inquiry-based learning in schools, especially where resources are limited and teacher agency is constrained by systemic pressures. Like earlier forms of DBR, DBIR retains the central process of iterating educational tools based on close engagement with classroom practice. This process supports the development of pedagogies and materials that are responsive to local needs, while remaining analytically productive for broader educational theory [@cobb_design_2003].
+
+#### Social design-based experiments (SDBEs)
+
+Building on the legacy of the 5th Dimension project, Gutiérrez and colleagues developed social design-based experiments (SDBEs) as a methodological response to the limitations of traditional DBR. While SDBEs retain core commitments to designing learning environments in practice, they explicitly foreground social justice, identity, and power in both their theoretical orientation and practical methods [@gutierrez_social_2016-1].
+
+SDBEs are distinctive in their focus on designing for diversity and equality, and in recognising learners as historical actors whose movement across institutional and everyday contexts shapes their participation in educational activity. This approach pays particular attention to the dynamic interplay between formal and informal knowledge, seeking to destabilise hierarchical distinctions between them. Rather than viewing school-based knowledge as authoritative and community-based knowledge as supplementary, SDBEs position both as legitimate and mutually constitutive.
+
+This methodological stance is closely tied to transformative agency, where participants are not only expected to adapt to new designs, but are actively supported in reshaping the learning environment itself. Gutiérrez emphasises the importance of feedback, collaboration, and responsiveness in cultivating what she terms *relational expertise*, a shared capacity to participate meaningfully in joint activity. In one case study, the researchers argue that relational and material feedback processes helped produce conditions in which relational agency could emerge.
+
+SDBEs are therefore particularly suited to learning environments characterised by cultural heterogeneity, shifting roles, and an emphasis on learner voice. They also share affinities with Vygotskian thinking on the relationship between abstract and concrete moments in development, an idea returned to in Chapter 7 through the study’s analysis of conceptual emergence and learner agency.
+
+
+<!--
 #### Design-Based Implementation Research  - DBIR -
 
 Design-based implementation research was Penuel's [@penuel_design-based_2021] follow up to formative interventions which had met resistance.
 
 The research on support inquiry learning
 finds xx an uses the following methods, approaches.
-[@penuel
+
 
 
 A key aspect of DBR is its emphasis on the rapid iteration of educational resources based on continuous feedback rooted in practice. This process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003].
@@ -411,7 +429,7 @@ and include the following
 - non hierarchical - horizontal concepts of institutional and everyday knowledge [@gutierrez_social_2016-1, p4]
 
 For shadows work on abstract and concrete in the future.
-
+ -->
 
 ## Conclusion / Synthesis.
 
