@@ -25,11 +25,10 @@
     -   [Relational agency](#relational-agency)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
--   [Variations and synthesis in interventionist CHAT and DBR
-    research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research-1)
     -   [The Change Laboratory model](#the-change-laboratory-model)
     -   [Learning Labs](#learning-labs)
     -   [Design narratives](#design-narratives)
     -   [Designing for equity and transformation: from DBIR to
         SDBEs](#designing-for-equity-and-transformation-from-dbir-to-sdbes)
--   [Conclusion / Synthesis.](#conclusion-synthesis.)
+-   [Conclusion: from theory to
+    intervention](#conclusion-from-theory-to-intervention)

@@ -37,14 +37,13 @@ title: 3. Theoretical Framework
     -   [Relational agency](#relational-agency)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
--   [Variations and synthesis in interventionist CHAT and DBR
-    research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research-1)
     -   [The Change Laboratory model](#the-change-laboratory-model)
     -   [Learning Labs](#learning-labs)
     -   [Design narratives](#design-narratives)
     -   [Designing for equity and transformation: from DBIR to
         SDBEs](#designing-for-equity-and-transformation-from-dbir-to-sdbes)
--   [Conclusion / Synthesis.](#conclusion-synthesis.)
+-   [Conclusion: from theory to
+    intervention](#conclusion-from-theory-to-intervention)
 
 ## Introduction
 
@@ -346,18 +345,7 @@ al_2016-1]
 
 ## Variations and synthesis in interventionist CHAT and DBR research
 
-Despite shared interests in transformation and participation, activity theory and design-based research have produced divergent methodological models, reflecting different assumptions about agency, scale, and systemic change. This section outlines key approaches relevant to this study, including the Change Laboratory, Learning Labs, design narratives and social design-based experiments (SDBEs), each of which offers a distinct take on interventionist research.
-
-The aim is not to provide an exhaustive review, but to highlight methodological features that inform the design of this study. Elements from these traditions are integrated into the approach developed in the following chapter.
-
-
-## Variations and synthesis in interventionist CHAT and DBR research
-
-
-While there is broad agreement among researchers regarding the theoretical understanding of concepts in activity theory, there is greater disparity in their application within research settings. This section explores the variations between key approaches, relevant to this thesis. Specifically it describes applications of Change Labs and Living Labs, and social design based experiments (SDBEs).
-
-
-The aim here is to look at the general approach of different specific approaches. Element of which will be used in my own methodology described in the following chapter.
+Despite shared interests in transformation and participation, activity theory and design-based research have produced divergent methodological models. This section outlines key approaches relevant to this study, including the Change Laboratory, Learning Labs, design narratives, and social design-based experiments (SDBEs), each of which offers a distinct take on interventionist research. The aim is not to provide an exhaustive review, but to highlight methodological features that inform the design of this study. Elements from these traditions are integrated into the approach developed in the following chapter.
 
 
 ### The Change Laboratory model
