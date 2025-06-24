@@ -9,6 +9,7 @@ layout: post
 categories: chapter
 title: 3. Theoretical Framework
 ---
+
 -   [Introduction](#introduction)
 -   [The foundational concepts of activity
     theory](#the-foundational-concepts-of-activity-theory)
@@ -22,10 +23,10 @@ title: 3. Theoretical Framework
         knowledge](#third-spaces-and-funds-of-knowledge)
     -   [Repertoires of practice within three planes of
         activity](#repertoires-of-practice-within-three-planes-of-activity)
--   [Design based research (DBR) as formative
-    interventions](#design-based-research-dbr-as-formative-interventions)
-    -   [Comparing and critiquing DBR and CHAT / formative
-        interventions](#comparing-and-critiquing-dbr-and-chat-formative-interventions)
+-   [Design-based research (DBR) in relation to formative
+    intervention](#design-based-research-dbr-in-relation-to-formative-intervention)
+    -   [Tensions and alignments between DBR and formative
+        intervention](#tensions-and-alignments-between-dbr-and-formative-intervention)
 -   [Concepts of agency within CHAT](#concepts-of-agency-within-chat)
     -   [Instrumental Agency](#instrumental-agency)
         -   [Transformation agency through double stimulation (TADS) -
@@ -33,17 +34,16 @@ title: 3. Theoretical Framework
             agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
         -   [Transformative Activist Stance
             (TAS)](#transformative-activist-stance-tas)
-    -   [Relational Agency](#relational-agency)
+    -   [Relational agency](#relational-agency)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
-    -   [Examining specific models of formative interventions and DBR
-        processes](#examining-specific-models-of-formative-interventions-and-dbr-processes)
-        -   [Change Lab and Living labs](#change-lab-and-living-labs)
-        -   [Design Narratives](#design-narratives)
-        -   [Design-Based Implementation Research - DBIR
-            -](#design-based-implementation-research---dbir--)
-        -   [Social design-based experiments
-            (SDBEs)](#social-design-based-experiments-sdbes)
+-   [Variations and synthesis in interventionist CHAT and DBR
+    research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research-1)
+    -   [The Change Laboratory model](#the-change-laboratory-model)
+    -   [Learning Labs](#learning-labs)
+    -   [Design narratives](#design-narratives)
+    -   [Designing for equity and transformation: from DBIR to
+        SDBEs](#designing-for-equity-and-transformation-from-dbir-to-sdbes)
 -   [Conclusion / Synthesis.](#conclusion-synthesis.)
 
 ## Introduction
@@ -344,6 +344,11 @@ al_2016-1]
     We argue that these relational and material feedback elements of the activity helped to create an environment with relational agency—a “capacity for working with others to strengthen purposeful responses to complex problems” [@edwards_building_2011, p.34] (Edwards, 2011, p.34). According to Edwards (2011), relational agency arises from (a) working with others to expand the object of activity and (b) aligning one’s own responses to new interpretations being made by the others while acting on the expanded object. -->
 
 
+## Variations and synthesis in interventionist CHAT and DBR research
+
+Despite shared interests in transformation and participation, activity theory and design-based research have produced divergent methodological models, reflecting different assumptions about agency, scale, and systemic change. This section outlines key approaches relevant to this study, including the Change Laboratory, Learning Labs, design narratives and social design-based experiments (SDBEs), each of which offers a distinct take on interventionist research.
+
+The aim is not to provide an exhaustive review, but to highlight methodological features that inform the design of this study. Elements from these traditions are integrated into the approach developed in the following chapter.
 
 
 ## Variations and synthesis in interventionist CHAT and DBR research
@@ -355,13 +360,13 @@ While there is broad agreement among researchers regarding the theoretical under
 The aim here is to look at the general approach of different specific approaches. Element of which will be used in my own methodology described in the following chapter.
 
 
-#### The Change Laboratory model
+### The Change Laboratory model
 
 The Change Laboratory (CL) is Engeström’s key implementation of expansive learning in workplace environments [@engestrom_putting_2007]. CL interventions typically involve a series of workshops with key stakeholders, facilitated by researchers. The structural model of third-generation activity theory (3GAT) is used to identify and reflect on contradictions in current practices, with the goal of collectively envisioning and enacting change. This model is well suited to relatively stable work environments where roles, tools, and community structures are clearly defined.
 
 In the CL model, the mechanism of double stimulation plays a central role. The first stimulus is often empirical data, such as video or observational artefacts, that help participants surface contradictions. The second stimulus takes the form of conceptual tools or mediational artefacts introduced to support reflection and reorganisation of the activity. Double binds are particularly important in this process. They mark moments where the constraints of the existing system become intolerable, creating a space for participants to take up new tools or concepts and reframe the situation. Sannino [@sannino_principle_2015] highlights how these auxiliary stimuli can support volitional engagement, enabling the emergence of transformative agency.
 
-#### Learning Labs
+### Learning Labs
 
 A related approach is the Learning Lab [@cakir_contradictions_2022; @bal2011culturally], which adapts similar workshop structures to school and educational contexts. While it shares core features with the CL model, the Learning Lab is often used to study how educational innovations emerge and unfold, rather than to directly produce them. As such, it tends to operate at a more analytical level, focusing on how learning environments evolve through participation and reflection. This meta-level positioning means that Learning Lab studies are particularly attentive to how tensions and shifts play out, often through linguistic analysis of interactions between diverse stakeholders in bespoke reflective workshops.
 
@@ -370,37 +375,31 @@ One key contribution of this tradition is its detailed treatment of tension and 
 This typology aligns closely with the earlier discussion of double stimulation. While the model was introduced through CLs, the same explanatory framework can be applied to Learning Labs. The presence of discursive tensions, particularly double binds, helps explain how expansive learning unfolds in real time, especially when participants are given tools to articulate, confront, and work through contradictions. This framing is foundational to the present study’s approach to both design and analysis, and informs how agency, innovation, and tool use are interpreted in the chapters that follow.
 
 
-#### Design narratives
+### Design narratives
 
 Design narratives emerged in the learning sciences as a response to the limitations of communicating design-based research (DBR) within traditional journal formats, where space and context are often constrained [@hoadley_creating_2002]. They offer a way to bridge the tension between richly situated accounts and the need for generalisable insights. Hoadley [-@hoadley_creating_2002-1] introduced design narratives as a means of providing detailed, reflective accounts of the learning design process. These narratives document the problems encountered, the iterative changes made, and the reasoning behind key decisions [@hoadley_creating_2002-1; @brase_knowledge_2024; @bell_theoretical_2004]. Bakker [-@bakker_design_2018] similarly notes the challenge of representing the full complexity of design work within conventional publishing formats. In this study, a design narrative is particularly valuable in conveying the intricate details of the learning design. This thesis format allows for a fuller exploration of these aspects, notably in Chapter 5, where I use extended description to examine how tensions emerged and were responded to during the activity. I argue that design narratives can help further align DBR with CHAT-informed interventions. By incorporating systemic concepts from activity theory, they offer a more holistic account of both the practical and analytical development of an intervention.
 
 A key influence on this approach is the Fifth Dimension project, described in Cole’s work [@cole_fifth_2006]. The 5thD programme exemplifies a CHAT-informed design narrative situated in informal, community-based settings [@nicolopoulou_design_2009; @downing-wilson_design_2011]. It shows how both educational and research designs were shaped by feedback from participants, student volunteers, and educators. Design adaptations emerged in response to concrete tensions and local cultural practices, rather than being fixed in advance. As discussed in Chapter 2, 5D also offers a model of thick description and negotiated meaning across institutional and everyday contexts. Researchers did not impose a static design but remained responsive to the lived activity of the site. This underscores the idea that design narratives are not only retrospective records but also cultural tools that shape and are shaped by the learning activity itself.
 
-#### Designing for equity and transformation: from DBIR to SDBEs
+### Designing for equity and transformation: from DBIR to SDBEs
 
 Efforts to scale context-sensitive educational innovation have led to methodological developments that extend core principles of design-based research (DBR). One such development is design-based implementation research (DBIR), which emerged from Penuel and colleagues' work [@penuel_design-based_2021] and seeks to address the challenge of producing change that is both sustainable and equitable across institutional systems. DBIR retains DBR’s emphasis on iteration and collaboration but explicitly prioritises long-term implementation, practitioner partnership, and system-level coordination. It offers a pragmatic orientation to research, foregrounding organisational learning and equity from the outset, especially in contexts like inquiry-based learning where resources may be constrained.
 
-The methodological and political aims of DBIR share a strong family resemblance with social design-based experiments (SDBEs), a related approach developed by Gutiérrez and colleagues [@gutierrez_social_2016-1]. SDBEs build on traditions of formative intervention and DBR but reorient the work around questions of identity, power, and social justice. While DBIR often operates in more formal institutional settings, SDBEs are typically situated in informal or hybrid learning environments where learners' repertoires and cultural histories are central to the design process.
+The methodological and political aims of DBIR share a strong resemblance with social design-based experiments (SDBEs), a related approach developed by Gutiérrez and colleagues [@gutierrez_social_2016-1]. SDBEs build on traditions of formative intervention and DBR but reorient the work around questions of identity, power, and social justice. While DBIR often operates in more formal institutional settings, SDBEs are typically situated in informal or hybrid learning environments where learners' repertoires and cultural histories are central to the design process.
 
 This study draws on these overlapping traditions, but given its focus on a fluid, co-designed learning space involving multiple stakeholder voices, the approach aligns most closely with the logic of SDBEs. In particular, SDBEs support the creation of third spaces where community and institutional knowledge intersect, and where feedback functions not just as an instructional device but as a material and relational element in cultivating *relational expertise* and *relational agency* [@digiacomo_relational_2016-1]. These concerns echo the aims of DBIR but are more explicitly addressed in the analytical and practical toolkit of SDBEs, making them especially relevant to the intervention context explored in this thesis.
 
 
-## Conclusion / Synthesis.
+## Conclusion: from theory to intervention
 
-In this chapter I have outlined the foundational concepts and current strands of interest of CHAT and explored how the field is becoming increasing aligned with that of design-based research. The complementary elements identified can be operationalised by utilising both CHAT's comprehensive framework for understanding human activity and DBR's practical focus on more rapidly iterative cycles of designed interventions.
+This chapter has outlined the theoretical foundation for the study, combining concepts from design-based research (DBR) and cultural-historical activity theory (CHAT) to support an interventionist methodology. I have traced how their overlapping concerns with participation, iteration, and transformation provide a productive framework for the study’s design. At the same time, attention has been paid to their distinct theoretical commitments. DBR foregrounds flexible design processes in learning environments, while CHAT centres the systemic analysis of contradictions and the development of agency.
 
-EDIT DOWN
-While TAS can be seen primarily as a conceptual approach in comparison to TADS which more closely linked to an applied approach of formative interventions, I am encouraged by the activist stance advocated by Stetsenko [-@stetsenko_critical_2020], which rejects the abstraction of oneself from the processes participants engage in and promotes immersion in the struggle. This aligns with my own motivations in this study, resonating with my past experiences, as I position myself as an activist advocating for improved access to game-making through computer coding, a process currently hindered by educational contexts and classroom practices as explored in Chapters 1 and 2.
+A central focus has been the treatment of agency, particularly through concepts of relational and transformative agency. These offer tools for analysing how participants engage with and reshape the learning environment. The role of contradictions, double stimulation, and expansive learning has been emphasised as a mechanism through which new forms of activity and identity emerge. The chapter also examined specific interventionist models including the Change Laboratory, Learning Lab, and social design-based experiments (SDBEs), to identify methodological approaches relevant to the present study.
 
+The thesis draws on elements from across these approaches, particularly the emphasis on iterative design, analysis of contradictions, and joint activity. The intervention explored in this study did not adopt a single model wholesale, but instead developed a hybrid approach tailored to the demands of a fluid, informal setting. In doing so, it reflects the tradition of CHAT-informed research that treats interventions not only as means of change but also as analytical lenses through which learning and development can be understood.
 
-
-
-
-The use of concepts from both of CHAT and DBR is particularly valuable for this study, as it allows exploration of the contextual factors and influences from other activity systems contributing to the new shared object of activity. These include the ongoing development of cultural artefacts used, home interests and repertoires, as well as my own motivations.
-
-Rather than following an established applied CHAT methodology like the Change Laboratory, I synthesise different concepts outlined in this chapter. Chapter 4, which describes the methodology in more detail, will explain how I draw on CHAT, DBR, and Rogoff's concept [-@rogoff_observing_1995] of the three foci of analysis. In the analysis, I focus on the tensions between system elements, the iterative processes used to address these tensions, and transformational concepts of agency.
+The next chapter outlines the methodological design of the study, including how the theoretical concepts introduced here were operationalised through collaborative practices, data collection, and analysis.
 
 
-To conclude this chapter, it is helpful to situate this synthesised theoretical framework as one that has the potential to make a valuable contribution through an applied case study. This case study aims to engage with current theoretical advances in the field of agency studies, particularly within the implementation of smaller-scale formative interventions. The framework outlined in this chapter informs the specific methodology described in the following chapter, where methods of data collection and stages of data analysis evolve in an iterative process, while remaining structured to incorporate the underlying concepts of CHAT and DBR.
 
 <!-- Turning to a similar issue regarding conceptions of agency, TADS (transformative agency by double stimulation) is most commonly explored in relation to Change Laboratory and professional settings. Despite its potential in less structured contexts, there is a paucity of studies in the area of "student-centered contexts of learning"  [@isaac_cultural_2021, p. 93].  -->
