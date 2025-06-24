@@ -11,8 +11,6 @@
             Role](#researcherfacilitator-dual-role)
     -   [Data collection within project delivery
         phases](#data-collection-within-project-delivery-phases)
-    -   [Data Collection Within Project Delivery
-        Phases](#data-collection-within-project-delivery-phases-1)
         -   [LINKS OUT](#links-out)
     -   [Data analysis process](#data-analysis-process)
         -   [Summary table of data

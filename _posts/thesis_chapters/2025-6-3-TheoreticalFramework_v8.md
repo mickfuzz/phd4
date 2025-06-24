@@ -13,34 +13,27 @@ title: 3. Theoretical Framework
 -   [The foundational concepts of activity
     theory](#the-foundational-concepts-of-activity-theory)
     -   [3GAT and Expansive learning](#gat-and-expansive-learning)
-        -   [Double stimulation](#double-stimulation)
-        -   [Rising to the concrete](#rising-to-the-concrete)
--   [Formative Interventions](#formative-interventions)
--   [The work of Laboratory of Comparative Human Cognition (LCHC) and
-    DBR](#the-work-of-laboratory-of-comparative-human-cognition-lchc-and-dbr)
-    -   [Formative interventions based on mutual
-        appropriation](#formative-interventions-based-on-mutual-appropriation)
-        -   [Mutual appropriation](#mutual-appropriation)
-    -   [Design based research (DBR) as formative
-        interventions](#design-based-research-dbr-as-formative-interventions)
-        -   [Comparing and critiquing DBR and CHAT / formative
-            interventions](#comparing-and-critiquing-dbr-and-chat-formative-interventions)
+    -   [Formative Interventions](#formative-interventions)
+-   [CHAT concepts emerging from the Laboratory of Comparative Human
+    Cognition
+    (LCHC)](#chat-concepts-emerging-from-the-laboratory-of-comparative-human-cognition-lchc)
+    -   [Mutual appropriation](#mutual-appropriation)
+    -   [Third spaces and funds of
+        knowledge](#third-spaces-and-funds-of-knowledge)
+    -   [Repertoires of practice within three planes of
+        activity](#repertoires-of-practice-within-three-planes-of-activity)
+-   [Design based research (DBR) as formative
+    interventions](#design-based-research-dbr-as-formative-interventions)
+    -   [Comparing and critiquing DBR and CHAT / formative
+        interventions](#comparing-and-critiquing-dbr-and-chat-formative-interventions)
 -   [Concepts of agency within CHAT](#concepts-of-agency-within-chat)
-    -   [Instrumental](#instrumental)
+    -   [Instrumental Agency](#instrumental-agency)
         -   [Transformation agency through double stimulation (TADS) -
             On double stimulation and
             agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
         -   [Transformative Activist Stance
             (TAS)](#transformative-activist-stance-tas)
     -   [Relational Agency](#relational-agency)
-        -   [Feedback and relational agency and specialism in context of
-            making](#feedback-and-relational-agency-and-specialism-in-context-of-making)
--   [An overview of CHAT concepts relevant to this
-    study](#an-overview-of-chat-concepts-relevant-to-this-study)
-    -   [Third spaces and funds of
-        knowledge](#third-spaces-and-funds-of-knowledge)
-    -   [Repertoires of practice within three planes of
-        activity](#repertoires-of-practice-within-three-planes-of-activity)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
     -   [Examining specific models of formative interventions and DBR
@@ -49,9 +42,6 @@ title: 3. Theoretical Framework
         -   [Design Narratives](#design-narratives)
         -   [Design-Based Implementation Research - DBIR
             -](#design-based-implementation-research---dbir--)
-            -   [Iterative approach - KEEP SOME HERE AMD MOVE REST UP OR
-                TO
-                CH.3](#iterative-approach---keep-some-here-amd-move-rest-up-or-to-ch.3)
         -   [Social design-based experiments
             (SDBEs)](#social-design-based-experiments-sdbes)
 -   [Conclusion / Synthesis.](#conclusion-synthesis.)
@@ -59,7 +49,6 @@ title: 3. Theoretical Framework
 ## Introduction
 
 The focus of this study is on the construction of shared meaning and practices as part of an emerging community of game makers. As such, the research questions address cultural factors which act as barriers to participation in digital making, and therefore require a method of research which allows the detailed analysis of complex, emergent learning environments. To achieve this, I adopt cultural historical activity theory (CHAT) as a guiding framework, which is operationalised through a formative intervention approach, incorporating adaptations from design-based research (DBR). This chapter explores these theoretical frameworks and key concepts relevant to the development of the thesis.
-
 
 This chapter outlines the theoretical frameworks that shape the methodology and underlying ethos of this study. It begins by introducing the foundational concepts of AT and then explores its evolution into CHAT and third-generation activity theory (3GAT), developed by Engeström and the Helsinki school. In order to enhance the 3GAT approach, several key concepts from the work of the Laboratory of Comparative Human Cognition (LCHC) in San Diego are discussed. To demonstrate how CHAT is applied in research, the chapter also examines DBR and various forms of formative interventions. While AT forms the basis of this study, elements from other theoretical approaches within the learning sciences, particularly DBR, are incorporated to address the utility and practical application of the research [@hoadley_creating_2002-1; @barnett_ecosystem_2019]. To address the study’s focus on designing an intervention aimed at fostering participant agency within the game-making process, the final section of the chapter explores key conceptions of agency within CHAT, specifically in the form of activist and transformative approaches. The chapter concludes by justifying the synthesis of these theoretical choices and provides a brief description of how these concepts are operationalised within the context of this study.
 
@@ -72,8 +61,7 @@ Before outlining the core concepts driving Activity Theory (AT), a brief histori
 The work of Brown [-@brown_design_1992], a prominent psychology researcher advocating the importance of context within experimental design, helped legitimise this focus and facilitated its broad adoption across diverse fields. The growing work in these varied fields, sometimes grouped by the term _learning sciences_, reflects a move away from randomised control trials and their attempt to sever context, shifting from a behaviourist view of learning as an internal psychological process to a more interdisciplinary approach. This new approach draws on cognitive and cultural psychology [@hoadley_learning_2011]. While this fragmentation promotes pluralism and knowledge-sharing across fields as diverse as education, anthropology, and computer science, the field of learning sciences has been criticised for lacking conceptual coherence in understanding learning and human activity on a deeper level [@hoadley_learning_2011].
 
 TRANSITION - TO ADDRESS THIS DEFICIT? ...
-In this emerging field of cultural psychology, scholars such as Wertsch [-@wertsch_vygotsky_1985] and Cole [-@cole_cultural_1996] explored the critical role of cultural mediation in human development, particularly in relation to learning communities and contexts.  Nardi and Kaptelinin outline AT as a series of foundational principles that underpin broader theories [@kaptelinin_acting_2009; @wertsch_concept_1981], specifically: object-orientedness, tool mediation, hierarchical structure of activity, the ongoing development of activity, and the psychological processes of internalisation and externalisation.
-CHECK THIS LIST
+In this emerging field of cultural psychology, scholars such as Wertsch [-@wertsch_vygotsky_1985] and Cole [-@cole_cultural_1996] explored the critical role of cultural mediation in human development, particularly in relation to learning communities and contexts.  Nardi and Kaptelinin outline AT as a series of foundational principles that underpin broader theories [@kaptelinin_acting_2009; @wertsch_concept_1981], specifically: object-orientedness, tool mediation, the psychological processes of internalisation and externalisation, hierarchical structure of activity, and the ongoing development of activity.
 
 A useful starting point to explore key concepts in AT is Vygotsky’s formulation of the relationship between subject, object, and tools. Activity Theory is object-oriented, meaning that human behaviour and learning are driven by the goals or objectives of the individual or collective subject [@engestrom_learning_1987-1]. Kaptelinin and colleagues [-@kaptelinin_activity_1995] note that while the materialist roots of AT, stemming from Marxist theory, have led some interpretations to focus on the object as the physical entity being worked on and transformed by activity, conceptual objects are also included in Leontiev’s conception of Activity Theory [@leontev_problem_1974]. Thus, the term object is best understood within the context of a broader motivation or objective. To represent the subject-object relationship in a way that addresses Vygotsky's resolution of the subject-object, mind-body, and Cartesian dualism problems [@still1991mutual], this relationship was developed by Leontiev into a triadic model that includes tools which mediate the activity [@engestrom_learning_1987-1]. See fig 3.x below.
 
@@ -102,14 +90,14 @@ For example, in Barab et al.'s [-@barab_using_2002] research on changes to a uni
 In terms of development, activity theory perceives activity as constantly evolving within its context. The theory is rooted in Marxist dialectical materialism, which posits that activity is a dynamic system best understood through its transformations [@ilyenkov1960dialectics]. A significant driver of transformation in activity is the emergence and resolution of contradictions and conflicts that arise from the accumulation of tensions within the activity itself [@ilyenkov1960dialectics; @blunden_activity_2023].
 
 WORK ON THIS LINK - SIGNPOST BOTH 3GAT AND LCHC
+
 Engeström’s work on what he termed the third generation of activity theory includes the theory of expansive learning, which traces the changes and growth of the object being worked on. This transformation often occurs as tensions extend beyond a single activity system to involve multiple systems, acknowledging the influence of actors moving between them [@engestrom_expansive_2001].
 
 Alongside Cole’s contributions, this framework is essential for broadening the understanding of activity and engaging with cross-cultural perspectives on learning [@cole_cross-cultural_1988]. These concepts are explored further in the section on expansive learning below.
 
 ###  3GAT and Expansive learning
 
-
-As activity theory (AT) has been adopted and developed beyond its Soviet origins, researchers have developed new concepts within varied schools of practice. The cultural-historical approach and cultural-historical activity theory (CHAT) denote the broader application of these principles, which may also integrate related concepts from sociocultural frameworks. The term third generation activity theory (3GAT) has emerged from the work of  Engeström and the Helsinki school's interpretation of CHAT. This section begins by exploring key concepts in third generation activity theory (3GAT) and their application through formative interventions.
+As activity theory (AT) has been adopted and developed beyond its Soviet origins, researchers have developed new concepts within varied schools of practice. The cultural-historical approach and cultural-historical activity theory (CHAT) denote the broader application of these principles, which may also integrate related concepts from sociocultural frameworks. The term third generation activity theory (3GAT) has emerged from the work of  Engeström and the Helsinki school's interpretation of CHAT. This section begins by exploring key concepts in third generation activity theory (3GAT) and their application through formative interventions: specifically, a community layer of activity, contradictions and tensions between system elements, double stimulation, and rising to the concrete.
 
 <!-- Given the variation in the use of terms, the  disambiguation of these terms and context on schools of AT  in the context of this study is useful here.
 Activity theory (AT) refers to the core principles of the approach discussed earlier.  -->
@@ -117,7 +105,8 @@ Activity theory (AT) refers to the core principles of the approach discussed ear
 Third generation activity theory (3GAT) represents an important development of conceptual tools for applying activity theory to authentic learning settings. Engeström's concept of the activity system model extends Leontiev's work through a triangular representation that highlights key cultural aspects of the activity in question. Engeström adds a new tier to the model to visually represent Leontiev's focus on issues of cultural factors  [@engestrom_learning_1987-1]. Specifically, these cultural factors include the wider community, which encompasses those involved in the activity beyond the subjects themselves, the division of labour, which may occur through either the distribution of tasks among community members or a more vertical power structure, and the emergence of rules or norms that guide evolving community behaviours [@sannino_cultural-historical_2018].
 
 ![](./Pictures/At_dia_5_basic_v1.png){width=60%}
-  Figure 3. x - Engeström's representation of community concepts an activity system
+
+Figure 3. x - Engeström's representation of community concepts an activity system
 
 While these visual representations are novel, the main advances of third generation activity theory (3GAT) lie in its expanded focus on the role of interacting activity systems, the movement of subjects between systems, and the potential for collaborative work on a shared object. The recognition of broader activity systems and the transfer of motivations and practices of actors into new systems encapsulates Engeström's perspective on activity theory [@spinuzzi_trying_2020-1]. This shared, or expanded, object being worked on by more than one activity system of expansive learning forms an important base for formative in [@sannino_formative_2016] [@engestrom_methodological_2014].
 
@@ -132,59 +121,53 @@ To clarify this relationship , an example in context is beneficial. In research 
 Figure 3.cakir - An object shared between different activity systems
 
 The conception of joint activity emphasises the importance of the roles of researchers and other stakeholders within these interventionist and participatory processes. ADD LECUSAY TOO HERE?
+
 Analysing activity through its transformation, particularly in relation to the contradictions and tensions among system elements, draws on Marxist conceptions of dialectics and forms the foundation for the concepts of expansive learning. In 3GAT, this view of transformation through collaborative work between activity systems on a new, expanded object is termed expansive learning [@engestrom_design_2011].
 
-Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems [@engestrom_expansive_2001]. 3GAT achieves this through careful of description, analysis, and representation of system elements, the interaction between systems, and the resulting contradictions. Some tensions arising between participant motives and different parts of activity system may be resolved quickly through change, while others may persist and can be referred to as conflicts [@sannino_cultural-historical_2018]. These unresolved contradictions which develop into impasses or conflicts which may serve as motivational factors driving agentic responses from participants. A later section explores Sannino's perspective on such conflicts as a source of transformative agency in greater depth.
+Drawing on concepts of tensions and contradictions existing in foundational concepts of dialectal materialism, the 3GAT allows for a granular exploration of tensions and contradictions are a vital source of change and evolution of new and ongoing activity systems [@engestrom_expansive_2001]. 3GAT achieves this through careful of description, analysis, and representation of system elements, the interaction between systems, and the resulting contradictions. Some tensions arising between participant motives and different parts of activity system may be resolved quickly through change, while others may persist and can be referred to as conflicts [@sannino_cultural-historical_2018]. These unresolved contradictions which develop into impasses or conflicts which may serve as motivational factors driving agentic responses from participants. A later section explores Sannino's perspective on such conflicts as a source of transformative agency in greater depth. Following Kuutti's approach [-@kuutti_activity_1995], this study adopts the term contradictions to encompass concepts of tensions, barriers, and misalignments. Engeström states that such sub-terms can be "understood as manifestations of contradictions" [@engestrom_discursive_2011, p. 340]. Additionally, Kamanga emphasises the value of identifying system congruencies or strengths within activity systems [@kamanga_contradictions_2021]. For a comprehensive analysis of systemic contradictions, see the work of Engeström and Cakir [@cakir_contradictions_2022; @engestrom_discursive_2011].
 
-
-In this study, rather than analysing larger workplace systems over extended periods, the focus is on the analysis of systemic tensions within the context of shorter interventions, as seen in diverse research [@barab_developing_2002; @barab_using_2002; @lewin_developing_2018]. Following Kuutti's approach [-@kuutti_activity_1995], this study adopts the term contradictions to encompass concepts of tensions, barriers, and misalignments. Engeström states that such sub-terms can be "understood as manifestations of contradictions" [@engestrom_discursive_2011, p. 340]. Additionally, Kamanga emphasises the value of identifying system congruencies or strengths within activity systems [@kamanga_contradictions_2021]. For a comprehensive analysis of systemic contradictions, see the work of Engeström and Cakir [@cakir_contradictions_2022; @engestrom_discursive_2011].
-
-
-#### Double stimulation
-
-Double stimulation refers to a process involving the use of tools to overcome contradictions that emerge in joint activity. Engeström's early work on formative interventions frames the first stimulus as "the problem itself", while a potential series of secondary stimuli can be introduced as part of the intervention [@valsiner_cultural-historical_2007, p.492]. Engeström and Sannino [-@engestrom_methodological_2014] explain that the process of double stimulation is active and goes beyond simple mediation via existing tools. The stimuli, whether presented by researchers as suggested tools or discovered in the environment by participants, are actively imbued with meaning and transformed by the participants through their use.  
-
-"Most likely the initially given potential second stimuli are rejected or reshaped by the participants, and the participants typically pick up or invent devices of their own, often as if behind the back of the interventionist." [@engestrom_methodological_2014, p.121]
+MOVE THIS? APPLICATION?
+In this study, rather than analysing larger workplace systems over extended periods, the focus is on the analysis of systemic tensions within the context of shorter interventions, as seen in diverse research [@barab_developing_2002; @barab_using_2002; @lewin_developing_2018].
 
 
 
-#### Rising to the concrete
+<!-- #### Double stimulation -->
 
-The concept of rising to the concrete through a germ cell of activity (or unit of analysis) can be traced through the works of Vygotsky and Leontiev back to Hegelian and Marxist ideas of holistic understandings of phenomena [@blunden_activity_2023]. Forms of activity are viewed as concrete instances and iterations of underlying germ cell concepts, which exist in an abstract form. For example, Marx's analysis identifies complex and diverse patterns of economic activity within the capitalist system as stemming from an underlying, prototypical concept of commodity exchange in pre-industrial economies. The works of Blunden and Davydov [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023; @davydov_problems_2008] provide comprehensive justification for the utility of identifying a germ cell or unit of analysis in relation to collaborative and learning projects. Blunden describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
+Double stimulation refers to a process involving the use of tools to overcome contradictions that emerge in joint activity. Engeström's early work on formative interventions frames the first stimulus as "the problem itself", while a potential series of secondary stimuli can be introduced as part of the intervention [@valsiner_cultural-historical_2007, p.492]. Engeström and Sannino [-@engestrom_methodological_2014] explain that the process of double stimulation is active and goes beyond simple mediation via existing tools. The stimuli, whether presented by researchers as suggested tools or discovered in the environment by participants, are actively imbued with meaning and transformed by the participants through their use. Engeström [-@engestrom_methodological_2014, p.121] notes that it is likely that such stimuli are "ejected or reshaped by the participants, and the participants typically pick up or invent devices of their own".
 
+
+<!-- #### Rising to the concrete -->
+
+The concept of a germ cell of activity (or unit of analysis) can be traced through the works of Vygotsky and Leontiev back to Hegelian and Marxist ideas of holistic understandings of phenomena [@blunden_activity_2023]. Forms of activity are viewed as concrete instances and iterations of underlying germ cell concepts, which exist in an abstract form. For example, Marx's analysis identifies complex and diverse patterns of economic activity within the capitalist system as stemming from an underlying, prototypical concept of commodity exchange in pre-industrial economies. The works of Blunden and Davydov [@blunden_interdisciplinary_2010; @blunden_germ_2014; @blunden_activity_2023; @davydov_problems_2008] provide comprehensive justification for the utility of identifying a germ cell or unit of analysis in relation to collaborative and learning projects. Blunden describes the germ cell of activity and the unit of activity as two similar concepts with slightly different foci.
 
 
 _... the germ-cell and the unit of analysis are one and the same thing, but in one case the developmental aspect is emphasised and in the other case the analytical aspect is emphasised._ [@blunden_unit_2020]
 
-In this thesis, my role as both researcher and practitioner makes both aspects relevant. Examining the analytical dimension, the process of seeking and defining key activities as units for analysis helps to delineate the boundaries of what to analyse in depth. One challenge in applying this approach is the duration and relative stability required to identify these germ cells. In their critique of Penuel, Engeström and Sannino [-@engestrom_methodological_2014] provide no suggestions for adapting their models to more rapidly changing situations where actors come from different activity systems. The developmental aspect will be addressed in the following chapters, which explore the evolution and analysis of the learning design, highlighting the process of applying of game design patterns by participants as a germ-cell concept that both shapes and facilitates practice.
+In this thesis, my role as both researcher and practitioner makes both aspects relevant. Examining the analytical dimension, the process of seeking and defining key activities as units for analysis helps to delineate the boundaries of what to analyse in depth. One challenge in applying this approach is the duration and relative stability required to identify these germ cells. The developmental aspect will be addressed in the following chapters, which explore the evolution and analysis of the learning design.
+
+<!-- highlighting the process of applying of game design patterns by participants as a germ-cell concept that both shapes and facilitates practice.  -->
+
+MOVE THIS?
+In their critique of Penuel, Engeström and Sannino [-@engestrom_methodological_2014] provide no suggestions for adapting their models to more rapidly changing situations where actors come from different activity systems.
 
 
-## Formative Interventions
+### Formative Interventions
+
  <!-- namely Change Laboratory (from Helsinki school) and 5th Dimension (Cole's intervention carried out in partnership with wider sociocultural researchers). -->
 
-The term formative intervention (FI) has its roots in Cole and Engeström's exploration of two models of CHAT based interventionist research [@valsiner_cultural-historical_2007],
+Cole and Engeström [@valsiner_cultural-historical_2007] use the term formative intervention to describe their interventionist research based on the  principles of CHAT
+and overcome practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process. Engeström and Sannino in the Helsinki school highlight the importance of double stimulation and identifying a germ cell that can be applied more widely through a process of rising to the concrete [@sannino_formative_2016; @engestrom_discursive_2011], defends this more narrow interpretation against attempts to use the term formative intervention more broadly [@engestrom_methodological_2014]. Examples of specific instances of formative interventions from the Helsinki school are examined in the final section of chapter.
 
-Cole and Engeström [-@valsiner_cultural-historical_2007] outline characteristics of formative interventions that represent with key principles of CHAT,
+By way of contrast, Cole [- @valsiner_cultural-historical_2007] bases his initial interpretation for formative interventions on the concept of mutual appropriation. The following sections locate this concept within a wider ecology of formative interventions, design experiments emerging from the Laboratory of Comparative Human Cognition (LCHC) in San Diego.
 
-WHAT ARE THEY?
-They are base  
-
-Cole and Engeström [-@valsiner_cultural-historical_2007]
-outline practical challenges in aligning with perceived rigour of social science, given the variation in environmental factors in the research process [EXPLAIN].
-
-They also note the challenges of financing lengthy and repeated interventions within the experimental process, as well as the potential to disrupt the status quo of research settings by developing the agency of workers and learners.
-
-Examples of specific instances of formative interventions are examined in the final section of chapter.
-
-
+<!-- [EXPLAIN] -->
+<!-- They also note the challenges of financing lengthy and repeated interventions within the experimental process, as well as the potential to disrupt the status quo of research settings by developing the agency of workers and learners. -->
 <!-- This disruption may, in turn, impact the direction of the research, steering it away from the objectives initially supported by the funders.   -->
 
 
-### DBR and the formative interventions from the Laboratory of Comparative Human Cognition (LCHC)
+## CHAT concepts emerging from the Laboratory of Comparative Human Cognition (LCHC)
 
-
-
- based on mutual appropriation
+This section outlines key CHAT concepts  relevant to this study which have emerged from the process of undertaking formative interventions. Most of the concepts treated emerged from the work of the Laboratory of Comparative Human Cognition (LCHC); in particular the research on the after-school intervention Fifth Dimension (5thD) [@cole_mind_1997], has provided  useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007]; namely:  mutual appropriation, third spaces, idiocultures, funds of knowledge, and design based approaches.
 
 The work of Michael Cole and colleagues Laboratory of Comparative Human Cognition (LCHC) in San Diego
 
@@ -194,42 +177,79 @@ was influenced by approaches like communities of learners [@rogoff_developing_19
 LCHC's approach to formative interventions is  iterative, responsive and flexible. It shares characteristics and some common lineage with design based research.
 
 
-The chapter later explores  concepts derived from this school, such as funds of knowledge, idiocultures, third space which are especially relevant to this study.
+<!-- The chapter later explores  concepts derived from this school, such as funds of knowledge, idiocultures, third space which are especially relevant to this study. -->
 
-#### Mutual appropriation
+
+### Mutual appropriation
 
 Cole highlights the need to align research interventions with the ongoing aims of educational or community partners to maximise their sustainability beyond the research period [@valsiner_cultural-historical_2007; @cole_fifth_2006].
 
 The concept mutual appropriation has been utilised by Cole to explain and explore the development of the practicalities and structure of the research programme The setting of 5D interventions predominantly consisted of after-school clubs run by community partners, guided by university researchers and supported by undergraduate student volunteers. The main activities were playful tasks aimed at providing fun, along with additional objectives of building literacy.  Cole noted that for an activity to be sustainable, the goals of researchers, student volunteers, funders, and local partners needed, as much as possible, to align [@cole_fifth_2006]. To achieve this, Cole and colleagues describe a mutual process of adaptation in joint activities between institutions, which not only reforms activities to make them suitable for ongoing partnership but also leaves a historical trace of evolving activities that serve as a valuable basis for cultural analysis [@downing-wilson_design_2011]. A key distinction between the 5D approach and that of Change Laboratories is that, in the early stages of the 5D intervention, activity goals are not fully formed and are still in a state of evolution. I will return to this point later in this chapter.    
 
 
+### Third spaces and funds of knowledge
 
-### Design based research (DBR) as formative interventions
+<!--
+**third spaces** -->
+
+The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning. Cole's approach to formative interventions involved creating educational programmes founded on motivations of sustainability, mutuality, and a utopian ideal of creating a new activity system. This new system would thus be insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023]. Drawing on Homi Bhabha’s [@bhabha_location_2012] postcolonial concept of the third space as a site of hybridity and negotiation between cultural meanings, Gutiérrez [@gutierrez_rethinking_1999] recontextualised the term within education to theorise learning environments that bridge students’ everyday knowledge with academic practices. This process of blending the knowledge and discourses of the first space (home life) with the expectations and norms of the second space (school or institution) into a new third space has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @bryant_academic_2009]. The work of Moje [@moje_working_2004] in particular helps to demonstrate how the concept of third space can be operationalised within educational settings. She examined how home-based discourses might be productively integrated with school-based literacies, while also highlighting the challenges and tensions involved in constructing truly hybrid learning environments.
+
+<!-- Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy. -->
+<!-- See also dissertation on third space here [@bellocchi_learning_nodate] -->
+
+
+Funds of knowledge (FoK), a term popularised by Luis Moll, one of the research partners in the 5th Dimension (5D) project [@moll_funds_1992], positions home-based discourses and practices as valuable resources that educators can draw upon to support learning in school and other educational settings. This approach aims to foster more equitable and inclusive learning experiences, particularly for students whose home cultures are significantly different from the dominant school discourse. FoK refers to the knowledge and skills acquired through participation in everyday activities outside formal schooling, which teachers can use to enhance classroom learning and support learner motivation. Moll and colleagues found that the cultural practices, skills, and traditions of Latino families were largely absent from mainstream school curricula, contributing to deficit views of these communities [@moll_funds_1992].
+
+The concept emerged from research conducted in Latino communities in the United States, where Moll [@moll_funds_1992] defined FoK as the knowledge household members acquire through lived experience and social practice. In the original study, researchers conducted home visits to inform the design of after-school programmes. However, limitations of this approach included its adult-focused design and the fact that only a subset of families were visited [@rajala_utopian_2023]. Rajala and colleagues [@rajala_utopian_2023] critique the application of FoK in third space pedagogies, arguing that superficial uses risk reinforcing cultural stereotypes and reproducing deficit narratives. They also highlight practical barriers, such as the time-intensive nature of gathering meaningful data on students’ home cultures. In response, they advocate for the concept of funds of identity, which supports the co-construction of identity artefacts with participants as a means of representing and engaging with home cultures in more dynamic and participant-led ways [@subero_mediation_2018].
+
+
+### Repertoires of practice within three planes of activity
+
+This section explores how concepts such as linguistic and cultural-historical repertoires and idiocultures have been used to understand and support culturally responsive learning environments. Rogoff and Gutiérrez's [@gutierrez_cultural_2003] initial motivation in their exploration of repertoires was to challenge reductive and overgeneralised notions of learning styles, particularly when applied to non-dominant communities. The researchers highlight the value of identifying potential funds of knowledge, framed as “linguistic and cultural-historical repertoires”, that learners bring to educational settings [@gutierrez_cultural_2003, p.22].  Following Fine [@fine_boys_1987], Cole employs the term _idioculture_ [@cole_fifth_2006, p.32] to describe the emergence of a novel, localised micro-culture within the 5th Dimension (5D) programme. In line with Downing-Wilson [@downing_wilson_sociogenesis_2011], these idiocultures do not emerge in isolation; rather, they reflect the intersecting traits of diverse cultural systems represented by programme stakeholders [@cole_idiocultural_2017]. Cole emphasises the utility of idiocultures both as a means of examining cultural variability across sites and as a practical basis for adapting programme activities to participants' lived experiences [@cole_idiocultural_2017].
+
+The work of Rogoff and Gutiérrez on linguistic and cultural-historical repertoires [@rogoff_cultural_2003] also seeks to prevent misrepresentation of cultural practices as innate traits, a pattern they identify as especially damaging when linked to racial assumptions. They stress that researchers and educators should avoid designing interventions based on presumed characteristics of learners. Instead, they call for contextualised inquiry into existing repertoires of practice, which can then be extended through collaborative activity. This position builds on Rogoff’s foundational framework for analysing participation across three interconnected planes: personal, social, and community [@rogoff_childrens_1993].
+
+A central aim of analysing behaviour on the social plane is Rogoff’s effort to move beyond the binary between teacher-led and learner-led approaches, as also noted by Mascolo [@mascolo_beyond_2009]. In addition, identity is highlighted as a key factor, but one that requires complex, multi-layered inquiry grounded in situated historicity rather than reliance on cultural stereotypes. This is important for this thesis as it allows for an approach that transcends binary distinctions between instruction and discovery, supporting a more nuanced view of participation. This theme is explored in more depth in Chapter 6, particularly through the varied use of game design patterns.
+
+
+
+<!-- Cole describes the value of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. -->
+
+
+<!-- Rogoff's concept of guided participation and the role of emerging repertoires of practice within that process, serving as a middle ground between instruction and discovery, are explored in more detail, through the lens of participants use of game design patterns, in Chapter 6. -->
+
+
+## Design based research (DBR) as formative interventions
 
 <!-- 5thD interventions and related LCHC approaches incorporate, and have contributed to design based approaches in research. -->
 
+MORE SIGNPOSTING FOR THIS SECTION
+
 Brown's provocation on the importance of context [@brown_design_1992] foreshadowed the evolution in the conceptual diversity and practical application of what has become known as design based research (DBR).
 
+DBR has diverse interpretations, which stem from a set of generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021]. Easterday and colleagues [-@easterday_design-based_2014] characterise the core elements of DBR as: research as a form of intervention, iteration, involvement of participants in the evolution of designs, and flexibility in research outcomes based on how events unfold . Cobb and colleagues [-@cobb_design_2003, p.13] summarise the characteristics of design-based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose 'theories' do real work in practical educational contexts".
 
-DBR has diverse interpretations, which stem from a set of generally agreed principles [@penuel_emerging_2014; @mckenney_educational_2021]. Easterday and colleagues [-@easterday_design-based_2014] characterise the core elements of DBR as: research as a form of intervention, iteration, involvement of participants in the evolution of designs, and flexibility in research outcomes based on how events unfold . Cobb and colleagues [-@cobb_design_2003, p.13] summarise the characteristics of design-based approaches as "extended (iterative), interventionist (innovative and design-based), and theory-oriented enterprises whose 'theories' do real work in practical educational contexts" .
 DBR is common in the domain of learning sciences, particularly in advancing practice and theory related to innovative learning tasks [@penuel_emerging_2014]. For more detailed definitions of DBR and its place within a socio economic funding structure, see Sandoval [-@sandoval_conjecture_2014] and Hay [-@hay_constructivism_2001, p. 3].
-
 
 
 Barab and Squire [-@barab_design-based_2004] describe the inherent _messiness_ of design-based research  which presents a challenge for researchers when attempting to present results in a coherent manner that is useful for other practitioners. There is an ongoing tension between staying closely aligned with the specific, rich context of the research, and stepping back to generalise findings without becoming lost in abstraction. This balance is crucial to ensure that the research is both contextually meaningful and practically applicable to broader settings. Hoadley and Campos [-@hoadley_design-based_2022] further explore the outcomes of DBR, including the development of design processes, the creation of domain theories, the formulation of design principles or patterns, the introduction of ontological innovations, the generation of new hypotheses, and the transformative learning experienced by researchers themselves. These varied outcomes highlight the broad applicability of DBR and the importance of ensuring that design processes and theoretical insights are communicated clearly to enhance the utility of research findings.
 
-A key aspect of DBR is its emphasis on the rapid iteration of resources based on continuous feedback rooted in practice. In an educational context, this process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003].
 
-**DBR and affordances  -  INSERTED**
-While there is a wealth of research which discusses and applies concepts of affordances and dynamic agency, often in the field of HCI, the focus is often skewed towards individual rather than on collective action [@kaptelinin_affordances_2012].
-
-LINK TO HCI RELEVANT TO THIS STUDY? KEEP?
-The broader concept of participants actively overcoming blockages caused by contradictions is well-explored in the fields of Human-Computer Interaction (HCI) and DBR. These fields often focus on revising educational tool designs to address conflicts, while still recognising the agency and input of participants [@karanasios_moving_2021].
+A key aspect of DBR is its emphasis on the rapid iteration of resources based on continuous feedback rooted in practice. In an educational context, this process helps produce pedagogies and resources that respond to the needs of learners [@cobb_design_2003]. This iterative responsiveness is also visible in how participants navigate the design environment itself. A further lens through which to view design-based research is the concept of affordances, commonly used in HCI and educational technology design to describe the perceived possibilities for action provided by a tool or environment [@kaptelinin_affordances_2012]. While affordances have often been analysed at the level of individual tool-user interaction, recent scholarship has expanded this to consider collective and sociocultural dimensions of affordance. In both HCI and DBR, there is a shared interest in how participants respond to contradictions in activity by appropriating or modifying tools to suit emergent needs. As Karanasios and Allen [@karanasios_moving_2021] suggest, users often engage with digital tools in creative ways to overcome obstacles or redesign workflows, an idea echoed in DBR’s emphasis on iterative refinement and participant agency. In this thesis, learners’ responses to design tensions, for instance how they adapted or misused templates, reshaped their digital tools, or requested changes to the learning environment, can be understood through this sociocultural framing of affordance. Such moments serve as evidence of agency, aligning with the CHAT principle that contradictions can act as drivers of transformation when supported by responsive design.
 
 
 <!-- While starting from similar roots, and sharing key concerns regarding ecological validity, there has been a degree of contestation in attempts to compare formative intervention with design based research. -->
 
 <!-- CHAT interventions concentrate more on transformations in activity and the increasing agency of those involved COMPARED TO DBR? EVIDENCE? PENUEL? -->
+
+
+
+
+
+<!-- While x  resisted a formalisation, this naming and description of process is a welcome way of sharing practice. -->
+<!-- More recently, Engeström has defended its specific application against more flexible interpretations [@engestrom_methodological_2014]. In this section, I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory. -->
+
+
 
 #### Comparing and critiquing DBR and CHAT / formative interventions
 
@@ -259,11 +279,6 @@ A guiding principles within, mutuality of the process, and joint activity is tha
 
 
 
-
-<!-- While x  resisted a formalisation, this naming and description of process is a welcome way of sharing practice. -->
-<!-- More recently, Engeström has defended its specific application against more flexible interpretations [@engestrom_methodological_2014]. In this section, I explore the Helsinki school's narrower interpretation of formative interventions as an application of 3GAT theory. -->
-
-
 ## Concepts of agency within CHAT
 
 To help later exploration of RQ3 which which asks how participants develop agency in an evolving community of game makers, it is important to clarify the concept of agency, particularly in the context of learning environments. The question of who or what has agency is a philosophical one with practical applications in designing learning settings. Agency and autonomy are often either vaguely defined or have contested, interconnected definitions in studies [@huang_autonomy_2013; @matusov_mapping_2016]. For this thesis, in line with a cultural-historical approach, agency is viewed as a cultural phenomenon experienced by individuals in relation to their peers and their learning environment.
@@ -274,7 +289,7 @@ To situate this view within the varied and evolving concepts of agency in educat
 I draw on the work of Matusov and colleagues [-@matusov_mapping_2016] who categorise agency into several genres: instrumental agency focused on developing capacities, effortful agency related to motivation and commitment, dynamically emergent agency involving affordances and actor-network theory, and authorial agency, which entails agentic changes to the learning environment. Matusov and colleagues’ critique effortful agency in education, which primarily focuses on achieving goals predefined by educational institutions. -->
 
 
-### Instrumental
+### Instrumental Agency
 
 
 Instrumental agency reflects a concept of agency as the ability to get things done, thus, a view of agency as a set of capacities [@edwards_steps_2005]. Matusov and colleagues [-@matusov_mapping_2016] highlight an often technological view of educational environments where educators seek to increase instrumental agency by building the individual capacity of learners to achieve relevant tasks. Many DBR studies which aim to develop and study the use of new tools especially in the area of education technology, would aim to increase instrumental learner agency, designing away problems.
@@ -343,71 +358,6 @@ al_2016-1]
     We argue that these relational and material feedback elements of the activity helped to create an environment with relational agency—a “capacity for working with others to strengthen purposeful responses to complex problems” [@edwards_building_2011, p.34] (Edwards, 2011, p.34). According to Edwards (2011), relational agency arises from (a) working with others to expand the object of activity and (b) aligning one’s own responses to new interpretations being made by the others while acting on the expanded object. -->
 
 
-
-## An overview of CHAT concepts relevant to this study
-
-BETTER LINK FROM LAST SECTION.
-
-This section outlines key CHAT concepts  relevant to this study which have emerged from the process of undertaking formative interventions. Most of the concepts treated emerged from the work of the Laboratory of Comparative Human Cognition (LCHC); in particular the research on the after-school intervention Fifth Dimension (5thD) [@cole_mind_1997], has provided  useful concepts related to the development and analysis of culture through joint activity [@valsiner_cultural-historical_2007]; namely: design based approaches, mutual appropriation, third spaces, idiocultures, funds of knowledge, and communities of learners.
-
-
-
-
-
-
-### Third spaces and funds of knowledge
-
-Cole's approach in this area  The programme emphasised sustainability, mutuality, and a utopian ideal of creating a new activity system, insulated from some of the more debilitating aspects of mainstream schooling and broader societal forces [@blunden_formative_2023].
-
-**third spaces**
-
-
-
-The concept of third space is helpful in the context of this study in particular as a space between home life and formal education rooted in a sociocultural understandings of learning.
-
-Look at how Moje opertationalised third spaces too.
-See dissertation on third space here [@bellocchi_learning_nodate]
-
-
-The process of blending the knowledge and discourses of the first space (home life) with the motivations of the second space (school or institution) into a new third space has been explored in various studies [@moje_working_2004; @gutierrez_developing_2008; @gutierrez_developing_2008; @bryant_academic_2009].
-
-**fok**
-
-Funds of knowledge (FoK), a term popularised by one of the research partners of the 5D, Luis Moll [@moll_funds_1992], locates home discourses and practices as resources that can be drawn upon by teachers and participants to facilitate learning in school or other environments, thereby achieving more equitable and inclusive learning experiences. This approach is particularly valuable for learners whose home life is culturally distant from school discourses. Moje and colleagues [@moje_working_2004] explore the use of FoK in the context of interventions outside of school, aiming to develop content literacy.
-
-The term addresses the use of knowledge and skills from participation in activities outside school that teachers can build on to help classroom work and to support the motivation of learners. Researchers found that Latino home cultures, skills and traditions were hardly visible in mainstream school cultures. This resulted in a form of deficit thinking about the performance of these communities [@moll_funds_1992].
-
-The concept of funds of knowledge (FoK) emerged from research within United States Latino communities. FoK refers to knowledge that household members have gained as part of their lived experience and social practices [@moll_funds_1992].
-
-In the original study home visits were carried out to better inform design of after-school activities. However there limits to this approach, including only some families were visited, and adult focused nature of process [@rajala_utopian_2023].  
-
-
-Rajala and colleagues [-@rajala_utopian_2023] problematise the use of FoK in third spaces. They critique the superficial application of FoK, which may perpetuate cultural stereotypes and thus maintain the existing negative status quo [@rajala_utopian_2023]. Additionally, the practical challenge of gathering sufficient relevant data on home cultures to inform a more nuanced use of FoK would be very time-consuming. To address these issues, they advance the concept of funds of identity, which allows for an exploration of home cultures within the scope of the intervention through the creation of identity artefacts with participants [@subero_mediation_2018].
-
-
-
-
-### Repertoires of practice within three planes of activity
-
-INSERT Repertoires AS A MORE APPLIED CONCEPTS OF USE IN THE OBSERVATION OF AND DESIGNING FOR BUILD OF idiocultureS
-
-
-Rogoff and Gutierrez's initial motivation in their exploration of repertoires was to challenge simplistic, overgeneralising approaches regarding learning styles especially if applied to non-dominant communities [@gutierrez_cultural_2003]. The researchers highlight the value of identifying potential funds of knowledge framed as "linguistic and cultural-historical repertoires" that learners bring to learning environments [@gutierrez_cultural_2003, p.22].
-
-
-Following Fine [@fine_boys_1987], Cole employs the term _idioculture_ [@cole_fifth_2006, p.32] to highlight the evolution of a novel, micro culture within the 5D programme. In line with Downing-Wilson [-@downing_wilson_sociogenesis_2011], novel idiocultures do not emerge from thin air; rather they encompass the traits of the diverse cultural systems of stakeholders [@cole_idiocultural_2017]. Cole describes the utility of idiocultures as concrete ways of studying the dynamics of cultural variability between different sites, as well as practical means to shape the programme's activities based on participants' previous experiences [@cole_idiocultural_2017].
-
-<!-- Cole describes the value of researchers being involved in early evolution of interventions in their observations in adaptations of the 5D programme based on the culture of the host partners and young participants. -->
-
-The work of Rogoff and Gutiérrez on linguistic and cultural-historical repertoires [@rogoff_cultural_2003] also aims to prevent cultural-historical practices of participation from being misrepresented as innate behaviours, a misrepresentation they identify as particularly problematic in relation to race. They emphasise that both educators and researchers should avoid designing interventions based on assumed traits of learners. Instead, they advocate for researching and verifying existing repertoires of practice that may be incorporated and then extended within joint work. This perspective builds on Rogoff's pioneering approach to analysing complex group activities through three planes of observation: personal, social, and community activity. A key motivation driving the analysis of behaviours on the social plane is Rogoff's desire to transcend the dichotomy between learner-led and teacher-led approaches [@rogoff_childrens_1993; @mascolo_beyond_2009].
-
-In addition the importance of identity is highlighted but in a way which requires complex and multi-layered research approaches based on situated historicity rather than cultural stereotypes.
-
-This is important for this thesis as it
-allows x, thus transcending a  instruction and discovery differences,
-Y is explored in more depth in Chapter 6, in particular via the varied use of game design patterns, .
-
-<!-- Rogoff's concept of guided participation and the role of emerging repertoires of practice within that process, serving as a middle ground between instruction and discovery, are explored in more detail, through the lens of participants use of game design patterns, in Chapter 6. -->
 
 
 ## Variations and synthesis in interventionist CHAT and DBR research
