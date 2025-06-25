@@ -705,7 +705,6 @@ CREATE A NEW SUMMARY OF DISCUSSION HERE.
 - DBR -> germ cell
 - use of collection of GPD a as a alignement with Hook and Repenning
 - STEPPED STAGES DESIGN
-
 ---
 
 This chapter has explored the complexity of the interacting tools and documentation in relation to their evolution in different phases of the formative intervention process. The contradictions explored initially focused on technical and then more social dimensions of the learning design, a process which has surfaced some of the barriers to achieving the varied competencies needed to complete the text coding of a multi-media project. The following table begins a process of synthesis of design factors. It is limited at this stage in analysis in relation to other research. Thus a discussion section follows which begins such analysis.
@@ -836,6 +835,9 @@ While SGD was limited in participant pathway choice, my design is not. Following
 
 ---  
 
+
+
+
 The shift from P1 to P2 represents a move from a design-build-test to a stepped, stage-based approach. This graduated approach introduce code structures and challenges in an initially simplistic, prototypical format for learners to experience and explore, which are subsequently replaced by more advanced models or complex instances of the task.
 
 GDPs were encountered through the game playing and analysis activity explored in the section above. GDPs were incorporated as affordances into a starter game template, initially highlighted via facilitator interaction and later as the guiding principle of _quick start cards_ to scaffold modifications to the code template.
@@ -893,15 +895,6 @@ As expressed in the discussion, the role of GDPs within activity is complex. The
 
 <!--
 
--->
-
-
-Gilbert is the worsted name.
-
-
-
-## Footnotes
-
 [^1]: https://mickfuzz.github.io/makecode-platformer-101/
 [^2]: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions
 [^3]: https://mickfuzz.github.io/makecode-platformer-101/addHazard
@@ -910,4 +903,204 @@ Gilbert is the worsted name.
 [^6]: https://glitch.com/~grid-game-template
 [^7]: https://en.flossmanuals.net/phaser-game-making-in-glitch/_full/#create-a-game-space
 [^8]: https://www.piskelapp.com
-[^9]: https://en.flossmanuals.net/phaser-game-making-in-glitch/_full/
+[^9]: https://en.flossmanuals.net/phaser-game-making-in-glitch/_full/ -->
+
+
+Gilbert is the worsted name.
+
+
+## Parking Lot
+
+
+
+### Perhaps reintegrate above
+
+MOVE THIS PART TO CHAPTER 3?
+
+Following Barab's description of nested activity systems [-@barab_using_2002], this shared system, whose objective is to make a games for an audience to play,  can be seen not only as nested within the wider systems but also as a container for  other  activity systems nested with that. While this overall approach is considered valid [FIND OTHER SUPPORT], the danger of fragmenting activity to much is to make matters confusing. The job of the researcher is to prioritise systems to describe and analyse based on the area of study and the concerns of the participants.
+
+This prioritisation in AT is sometimes conceptualised as the process of finding a key units of analysis. In the process of research I have found two units of activity particularly illuminating, one being the shared activity system described above of making a game in a community process. The other, narrower in scope can be described as implementing individual game features.
+
+Beyond these key systems, I draw on the concepts of actions and operations within systems to describe tensions and contradictions which emerge in the research process [-@leontiev_activity_2009].
+
+
+MOVE THIS TO CHAPTER 7 -
+A student helper shares a question -  "Is yours the one where level one is harder than level three?". This is indicative of some of the emerging playful approaches that younger participants in particular are taking to the overall process. This represents an example of the influence of the wider systems of play of on the shared idioculture of the game making community. The complexities of processes to create and to help resolve contradictions as this cultural domain of collective making are explored later in this chapter.
+
+
+
+
+
+#### MOVED LINK - Applying activity theory to surface contradictions and design tensions experienced by participants and facilitator/s
+
+NOTE - THIS WAS INTERUPTING FLOW - SO MOVED HERE
+
+Identifying shifts in participant activity in terms of scope facilitates analysis of the complex and interwoven cultural, social and personal actions in a communities activity [@rogoff_observing_1995]. Above, Toby shifts between the wider activity of making a game and sharing it with peers and narrower actions implementing concrete code structures. This aspect is developed in chapter five.
+
+In addition  analysis of community processes also involves transformation over time.  The next section offers a description of the evolution of tool use in different phases of the study with an aim to situate analysis of emerging tensions in the use of tools, resources and processes in the following section.
+
+The followings sections use a process of analysis of contradictions between system elements of the activity systems outlined above. The processes is a formative intervention (explored in chapter three) in that the surfacing of tensions due to changes in the learning design over time are examined. As noted in the introduction, this chapter explores the following areas of contradictions: contradictions in the technical tool use of design, contradictions shaping the development of supporting documentation, contradictions to do with issues of identity and the cultural dimension of participation.
+
+<!-- For example a common contradiction may be an immediate goal of children to mess around, play games and have fun while the goals of parent may be to maximise the acquisition of skills -->
+
+<!-- I chart the detail of the evolution of resources and other responses used helps illuminate broader, systemic issues concerns in the overall activity [@barab_using_2002]. -->
+
+
+#### Notes from vignette
+
+
+<!-- Objectives at this level also vary between participants with some more straight-forward and others more tricky based on their making style. For example, beyond a purely utilitarian objective, a further objective in implementing a GDP, e.g. a new graphical element may be to increase a sense of personal identification with the game as an vehicle for personal expression. -->
+
+
+<!-- One observation from he experimental course was that without signific
+**Phase one:** In response to need, I adapted a starting code template of a platform game and created various code examples to add functionality requested by participants. This template was adapted from an online tutorial to create a game of the _platformer_ genre  (see glossary), a move which helped to limit expectations of the technical complexity of their game. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
+
+ant support, the process of making a game is complex and there are many possible blockages in the process. -->
+
+<!-- Contradictions conce
+rned with use of core tools and additional documentation and support are explored in two later sections of this chapter. -->
+
+<!-- In the last chapter, we examined the use of Rogoff's 3 lenses of cultural, social and personal activity. We can see a broaChapter five contains more detail on the emergence of game design patterns as shared concepts and the implications for activity in more depth.
+d alignment of these lenses and the scopes of the activity systems above.
+
+NOTE - Explore how performed in line with other research - e.g. DBR (Barab) and possibly Bevan and Petrich -->
+
+<!-- to highlight possible tensions and contradictions between competing goals of interrelated activity systems. -->
+
+
+<!-- In line with the process outlined in chapter three, the following sections outline different scopes of activity to introduce tensions between system elements which are explored in this chapter. -->
+
+
+
+<!-- The following descriptions mirror the work of AT researchers who conceptualise scope of activity as concentric circles from Broffennbrenner with "larger" scopes of cultural and societal goals and smaller, narrower, lower scopes of more personal activity [Engestrom][Cole]. -->
+
+
+<!-- NOTE - Get into difference between object / objective and outcomes -->
+
+<!-- While the limited example above of Toby's activity illustrates fun, additional data from interviews with this child and family back the broad goals above. [develop - perhaps an appendix or quotes] -->
+
+<!-- As previously explored this mirrors the Activity, Action and Operation hierarchy. -->
+
+#### Notes before C1
+
+
+<!-- ADD THIS FUNCTIONALITY OF ASSET AREA TO DESCRIPTIO OF CODE PLAYGROUND
+A key element of game creation is the creation and management of graphical and audio assets.  -->
+
+
+<!-- I began by mirroring social model of learning like CoL and CoP and their propose apprenticeship-based approaches. Specifically, introducing possible code solutions to implement the ideas of participants. However, limits to my time involvement and my technical fluency hindered this process creating stress in myself and frustration and hesitancy on participants to get direct help.
+
+    NOTE - Examples drop?
+    For example, to troubleshoot a code error might take between one minute and 10 minutes depending on the complexity of it. To work with participants to identify and then implement a new coding structure could take up to 30 minutes.
+
+    At times I was able to identify a discreet new code construct and to implement an example of this between sessions. At times I would attempt to do this in the group setting with varying results.
+
+    Other interventions were called for directly by parents. Two relevant and relates requests happened at the end of P1.
+
+    One was a call for more hands on play and use of the tools of production before being called on to make creative decisions. The parent likened this to an studio approach. Another was a request for additional supporting resources which explained the coding structures used in accessible but detailed ways. A request which hinted at a more structured, instruction based approach.
+
+    However, interview data from participants placed great value on the flexibility of the approach which allowed participants to choose what they wanted to add to their game next. -->
+
+
+<!-- Based on group work with adults on creating media projects together I created an email group that all participants could post to to ask for help. However this option was hardly ever used taken up. I was given feedback from one parent that asking on for technical help via an email forum not something that they felt comfortable doing. The same family also gave useful feedback about social norms of not bothering people getting in the way of asking for help.
+
+Thus other ways of addressing this conflict were called for. -->
+
+<!-- The need to get started somewhere emerged - and the template was a response to that.
+Just an immediate, intuitive way to bring something to the table as a starting point to develop. The template was based on a prominent tutorial on the phaser website called Making your first game.
+https://web.archive.org/web/20180426051205/http://phaser.io/tutorials/making-your-first-phaser-2-game -->
+
+<!-- As preparation for the sessions I had followed the tutorial. When the  and adapted it. I removed out as much code as possible and thus simplifying the structure and readability.
+  https://github.com/glitch-game-club/glitch-game-club/blob/master/games
+ -->
+
+
+ #### Dropped from c1
+
+ After this shared first change, participants next choices varied greatly. While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others,  were much less concerned with this aspect of game play, despite sometime frustrating resulting player movement.
+
+ Data explored in the next chapter supports foundational claims of constructionist computing and UMC advocates  that greater user choice over the design process contributes to participant motivational and a feeling ownership of their projects [@lytle_use_2019; @peppler_computer_2009]
+
+
+#### Dropped from Discussion
+
+<!-- This is a long-running theme of constructionist research, with roots in Papert concept of Microworlds, typically embodied by the Mathland environment, where participants control a robotic turtle with lines of simplified LOGO code language.  Because the turtle speaks only LOGO, children are drawn to speak LOGO to progress. Thus, Scratch and Mircoworlds can be seen as digital playgrounds with affordances that encourage certain types of play. -->
+
+<!-- The next section begins by discussing how authentic tools and processes, while challenging for novices, can be addressed using existing of key design principles. -->
+
+<!-- IS THIS USEFUL HERE? LATER? NEXT CHAPTER?
+RQ2 addresses uses the term computational fluency, which as explored in chapter 2, is a better fit for the aims of this study than computational thinking, given the former's increased focus on agency and a more concrete, accessible approach.   -->
+
+
+
+<!-- At some point in this process I realised that I wanted to encourage the growth of computational fluency.
+
+That was not clear, the use of computational thinking also jumped out from a sense of wanting to fit into the common frameworks of this area. But this approach had always seemed too abstract as a form of repertoire to me. More hands on specific repertoires to do with the logistics of more concrete tasks suited the high impact from minimal input approach, made particularly relevant given the difficulty of using a code environment. -->
+
+ <!-- in line with wider conceptions of PBL and UDL.
+
+  - particpant voice and choice
+  - peer learning and ongoing sharing of process via product
+  - reduced class instructions
+  - avoiding stuckness
+  - linking to authentic practices and commuities
+
+While computational fluency is a valid of the objectives of the game making activity goal, this chapter has (re)surfaced the many barriers to achieving this via the text coding of a multi-media project. -->
+
+<!-- MOVE TO CH.7?
+Participants are able to leave the protective harbour by accessing more authentic documentation and moving beyond existing templates. The experience may be involve choppier waters but the tools and processes remain familiar. -->
+
+
+
+### Moved from Graphical Assets above
+
+This technical solution had a positive impact on engagement with game coding and allowed social elements of coding processes to evolve
+
+MOVE THIS PART SOMEWHERE ELSE
+This adaptation is one example of how a technical solution had a positive impact on engagement with game coding and allowed social elements of coding processes to evolve.
+
+Many participants spending significant time and effort undertaking many iterations of changes to the level design .  
+
+An illustrative example of the impact of is explored via a vignette in appendix 5.toby where child participant Toby designs many levels as a way of making his game distinct from others (include BETTER SUMMARY).
+
+Participants varied in their approach to level design, some drew on their experiences to mirrors platform game conventions, while others enjoyed working against these conventions, a theme which is explored in more detail in a following section  - SIGNPOST
+
+
+MOVE
+My observations in P1 aligned with research on the motivational value of the ability for young people to bring their interests into multimedia creations via choice of assets and narratives [@kajamaa_digital_2018; @resnick2014give; @peppler_supergoo_2007].
+
+MOVE
+A full table of the tools used and their purposes created to help orientate participants in P1 are outlined in 5.tech. The use of many production processes and asset creation tools in P1 complicated the object of activity in a way which I evaluated as negatively impacting the leading activity and motivation of making a game to share. Thus in P2 I reduced the number of suggested tool address this overcomplication. I now outline and discuss the use of simple block graphics, the use of pixel art authoring tool, and wider asset creation approaches.
+
+MMOVE TO APPENDIX.TECH
+with three main areas: a set of editing tools; a canvas for creation; and a set of tools to export, save and import work . The size of the colour block in the starter template were  32 x 32 to align with the default project size of Piskel to reduce technical friction when designing and swapping in new graphical resources. This standardisation also helped resolve a complications encountered in P1 due to differing sizes of sprites created using different graphical tools.
+
+MOVED
+Participants would identify the need for an asset in their game. They would then use the separate software to create that asset, and the be supported to save assets to their computer's hard drive in a compatible format. They would then need to upload assets to the code playground environment, discover the text link of the asset, and then insert that link into the main JavaScript game file at the relevant line of code.
+
+### Removed from Docs - add to appendix .tech
+
+<!-- My rationale was that each pattern added builds familiarity with the code structure. -->
+
+<!-- To address this tension, in addition to self-contained chapter focused on instrumental code changes needed to implement game features, I created opening chapters of the online manual which were more traditional in format and explained underlying concepts that the starting template had initially abstracted away from the participants. -->
+
+
+
+As introducing diverse forms of documentation and the resulting over complexity of the shared object of activity on a community level resulted in some users failing or struggling to find the right resources online, I designed and introduced a themed hub for both snippets and tutorial chapters. My aim was to mitigate potential learner alienation from unfamiliar technical documentation through accessible design which, in line with x, oriented access to documentation to participants existing gameplay experience rather than underlying coding constructs.
+
+![Pattern Collection](./Pictures/pattern_collection_1.png){width=95%}
+
+
+The use of code snippets, while a promising authentic practice, presented challenges which this careful curation of examples aimed to overcome. As explored in chapter two, while the use of code examples or snippets in code playgrounds is a common professional problem solving practice [@yang_stack_2017], their use in novice learning has limitations including lack of relevant, consistency, being removed from the domain context, and not being structured in a self explanatory way [@treude_understanding_2017]. While I initially encouraged participants to search within examples from the Phaser website, and authentic documentation and help forums, the resulting confusion and difficulties experienced by participants, prompted me to create other more bespoke documentation.  
+
+### Remove 20th April 25
+
+MOVE?
+In 3GAT terminology, the affordances of my design can be framed as a series of secondary stimuli. Sannino [@sannino_principle_2015] highlights the intersection of the use of secondary stimuli by participants and their volitional action or agency.
+
+IS THIS NEEDED HERE? PROBABLY NOT.
+While subsequent chapters explore shifts in the overall structure of participant activity in alignment with concepts of relational and transformative agency, the evolution of these tools, based on the novice status of the participants, also led to an increase in instrumental agency.  This instrumental proficiency was required before the rich set of interactions based on peer learning and other social coding processes could emerge in playtesting practices. Instrumental agency can be seen as the base of a hierarchy of agency, in other words, that other dimensions of agency may need to be built on this one. This foundational agentic level is further explored in relation to other research in the following section.
+
+
+DOES IT?
+There is a parallel between the utility of germ cell concepts and so-called strong concepts or intermediate knowledge in design theory [@hook_strong_2012; @barendregt_intermediate-level_2018].
