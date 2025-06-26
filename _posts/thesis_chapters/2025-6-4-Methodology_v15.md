@@ -298,13 +298,33 @@ Despite this, this study does aim for a full application of the stricter interpr
 
 Several limitations shaped the scope of this research. Interview data was limited in number and timing due to logistical constraints and the emphasis on supporting live sessions. More regular or follow-up interviews might have added further depth. Similarly, while significant video data was collected, only a subset was transcribed or coded in detail, reflecting a balance between depth and breadth in analysis.
 
+
+
 Demographic information was not formally collected, which limited opportunities to analyse learning in relation to categories such as class, neurodiversity or ethnicity. This reflected a deliberate effort to avoid over-formalising informal learning contexts, but it also constrained the interpretation of inclusion and representation.
 
 Plans for comprehensive coding using NVivo were revised (see Stage 2). Several predefined categories were collapsed or removed, and the process became increasingly interpretive and inductive. This was in line with the study’s broader DBR orientation, where analytical strategies were refined in response to the needs and limitations of the data and context.
 
 The methodological approach combined principles from the Helsinki School’s interpretation of formative intervention with naturalistic methods of observing practice in situ. While not all research decisions can be justified as systematic, they reflect an evolving effort to understand learning as a complex, socially situated process. The design and delivery of the learning intervention itself served as both a context and a method for exploring agency, contradiction and tool use.
 
-The role of the researcher as facilitator, designer and analyst brought both opportunities and risks. Some decisions were intuitive, shaped by prior experience in digital learning facilitation. While this raises questions of objectivity, the Transformative Activist Stance frames such positioning not as bias but as part of a legitimate epistemological commitment. Autoethnographic materials trace the development of the intervention and the researcher’s own evolving perspective. These are included to support transparency rather than as direct data sources.
+The stages of formal analysis started at the end of the phases of delivery. A more accepted process is to undertake some formal analysis between each phases.
+
+The role of the researcher as facilitator, designer and analyst brought both opportunities and risks. Some decisions were intuitive, shaped by prior experience in digital learning facilitation. While this raises questions of objectivity, the Transformative Activist Stance frames such positioning not as bias but as part of a legitimate  commitment to utilitarian change. Autoethnographic materials trace the development of the intervention and the researcher’s own evolving perspective. These are included to support transparency rather than as direct data sources.
+
+### Wider Limitations
+
+Following the guidance of Thompson [@thomson_category_2024]
+wider limitations are included in this chapter rather than the concluding chapter, as a way to avoid reducing the narrative flow and impact of those conclusions.
+
+The greatest limitation is the lack of focus on the impact or efficacy of the intervention on any particular aspect of the map of learning dimensions. CT, Ssytems thinking, use of coding constructions.
+Such a focus would require either a deeper dive into existing data or ideally collecting a new data in a further iteration which also featured additional methods to triangulate understandings of the concepts and processes that were the subject of study. ADD A FOOT NOTE HERE WITH EXAMPLES? For example, how effective was the intervention
+
+Such an approach here was not taken based on early and sustained guidance from multiple supervisors and follows the more general advice of Bakker on formulating DBR research questions.
+
+Bakker offers guidance in the formulation of research questions in DBR studies which are relevant to this thesis [@bakker_design_2018]. He promotes HOW and WHAT CONSIDERATIONS formulation of question to be represent the exploratory nature of DBR approaches and to increase the possibility of possible generalisation without over promising in terms of projecting beyond the embedded nature of the findings as embedded in the context of the study.
+
+Limitations of the data collected in P4 and P5 were practical in scope due to the room being used and the existing amount of data.
+
+In addition, a comparison of the different toolsets being used could be potentially instructive. HOW?
 
 ### Closing Note
 
