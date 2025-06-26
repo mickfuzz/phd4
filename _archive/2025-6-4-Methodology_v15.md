@@ -22,8 +22,6 @@ title: 4. Methodology
             Role](#researcherfacilitator-dual-role)
     -   [Data collection within project delivery
         phases](#data-collection-within-project-delivery-phases)
-    -   [Data Collection Within Project Delivery
-        Phases](#data-collection-within-project-delivery-phases-1)
         -   [LINKS OUT](#links-out)
     -   [Data analysis process](#data-analysis-process)
         -   [Summary table of data
@@ -34,12 +32,16 @@ title: 4. Methodology
             Refinement](#stage-2-thematic-refinement)
         -   [Stage 3 -- Interpretive
             Consolidation](#stage-3-interpretive-consolidation)
+            -   [GDPs as a germ cell in design and
+                analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
+            -   [Analysing learner agency](#analysing-learner-agency)
         -   [Ethical considerations and
             validity](#ethical-considerations-and-validity)
         -   [Generalisability and
             Replication](#generalisability-and-replication)
         -   [Methodological and Practical
             Limitations](#methodological-and-practical-limitations)
+        -   [Wider Limitations](#wider-limitations)
         -   [Closing Note](#closing-note)
     -   [Footnotes](#footnotes)
 
@@ -250,25 +252,20 @@ Rather than introducing entirely new materials at each phase, the learning desig
 
 As later chapters show, GDPs were not fixed instructional tools but mutable artefacts shaped in and through practice. Their value lay not only in the structures they provided but in how they were interpreted, adapted, and occasionally resisted by participants. This reinforced the germ cell’s analytical utility—not as a static unit, but as a dynamic mediator of developmental possibility. Framing GDPs in this way helped make visible the shifting relationship between individual action, shared artefacts, and the broader activity system over time.
 
+#### Analysing learner agency
 
+In parallel, the concept of learner agency was refined through a return to participant action across different learning contexts. Gestural and embodied data played a key role here, with several vignettes including analysis of how learners moved around the room, negotiated turn-taking, or used physical props alongside digital tools. These embodied interactions were interpreted as expressions of how agency was enacted, co-constructed, and at times constrained within the learning environment.
 
-#### Exploring Agency
+The final phase of analysis examined how learners asserted influence over their trajectories, tools, and social roles. Agency was treated as relational and distributed, shaped by how participants appropriated resources, collaborated with others, and navigated tensions or uncertainty. This included attention to gesture, humour, spatial positioning, narrative framing, and tool access.
 
-In parallel, the concept of learner agency was refined through a return to participant action across different learning contexts. Gestural and embodied data played a key role here, with several vignettes including analysis of how learners moved around the room, negotiated turn-taking, or used physical props alongside digital tools.
+The analysis focused on how participants engaged with the learning environment to make meaningful choices, express identities, and adapt design pathways. This involved tracking participant interactions across tools, roles, and physical or social settings. These patterns were interpreted through close examination of video, dialogue, and observational notes, forming the basis for later thematic and theoretical development.
 
-REPLACE FOLLOWING WITH FORESHADOING OF CH.7
-This included recognition of how agency was distributed over time, scaffolded by peers and parents, and shaped by opportunities to explore, remix, and perform learning in varied modes.
+Thematic interpretations related to identity, participation, and constraint are developed in greater depth in Chapter 7, where learner agency is explored as both a relational and developmental process.
 
-- learners developing agency through personal expression of home and other Identities
-- agency through choice over pathway via GDPS
-- agency through flexible design cycle pathways, especially via community playtesting
-- developing agency through celebration of different game maker styles
-- authenticity of tool use, especially docs and access to Community
-- authenticity of audience - and role of drama to facilitate reflection
-
-This interpretive work aimed to clarify not only how the learning environment supported certain forms of agency and design fluency, but also what constraints remained. In some vignettes, learners struggled to access tools or articulate their ideas, prompting reflections on equity, inclusion, and the role of facilitation. These observations informed both the final conceptual model (developed in Chapter 7) and ongoing questions about how pedagogical environments can be designed to support participation across multiple modes and identities.
+This interpretive work aimed to clarify not only how the learning environment supported certain forms of agency and design fluency, but also what constraints remained. In some vignettes, learners struggled to access tools or articulate their ideas, prompting reflections on equity, inclusion, and the role of facilitation. These observations informed both the final conceptual model, developed in Chapter 7, and ongoing questions about how pedagogical environments can be designed to support participation across multiple modes and identities.
 
 By the end of this stage, the analysis had shifted from mapping general trends to closely engaging with specific examples that embodied tensions and possibilities within the CGD&P project. These vignettes became the foundation for articulating the study’s contributions to both theory and practice.
+
 
 ### Ethical considerations and validity
 
@@ -326,7 +323,7 @@ Limitations of the data collected in P4 and P5 were practical in scope due to th
 
 In addition, a comparison of the different toolsets being used could be potentially instructive. HOW?
 
-### Closing Note
+### Chapter conclusion
 
 This chapter has outlined the methodological framework that underpins the study, combining a staged analytical process with reflexive and design-based strategies. Emphasis has been placed on the evolving nature of the research design, and on the relationships between analysis, tool development and facilitation practice.
 

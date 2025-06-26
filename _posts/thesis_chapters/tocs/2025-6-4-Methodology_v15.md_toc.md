@@ -23,12 +23,13 @@
             Consolidation](#stage-3-interpretive-consolidation)
             -   [GDPs as a germ cell in design and
                 analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
-            -   [Exploring Agency](#exploring-agency)
+            -   [Analysing learner agency](#analysing-learner-agency)
         -   [Ethical considerations and
             validity](#ethical-considerations-and-validity)
         -   [Generalisability and
             Replication](#generalisability-and-replication)
         -   [Methodological and Practical
             Limitations](#methodological-and-practical-limitations)
+        -   [Wider Limitations](#wider-limitations)
         -   [Closing Note](#closing-note)
     -   [Footnotes](#footnotes)
