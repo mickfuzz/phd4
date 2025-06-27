@@ -345,8 +345,6 @@ Chapter 5 outlines how this culminated in a crisis which involved me reaching ou
 
 
 Mick Chesterman<M.Chesterman@mmu.ac.uk>
-Nov 15, 2017, 1:20:31 PM
-to mozilla-html5-gamemaking-mcr@googlegroups.com
 
 Hi there,
 
