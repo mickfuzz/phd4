@@ -10,8 +10,17 @@ number-sections: true
 categories: chapter
 title: 9. Appendices
 ---
+
 -   [Appendices](#appendices)
+    -   [Ethics](#ethics)
+        -   [Game Making Club and Study Recruitment
+            Material](#game-making-club-and-study-recruitment-material)
+        -   [Participant Information
+            Sheet](#participant-information-sheet)
+        -   [Game Making Club follow up
+            email](#game-making-club-follow-up-email)
     -   [Interviews](#interviews)
+        -   [Practioner interviews](#practioner-interviews)
         -   [Interview.summaries](#interview.summaries)
             -   [Use of helping roles in Interview
                 data.](#use-of-helping-roles-in-interview-data.)
@@ -107,6 +116,8 @@ title: 9. Appendices
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+        -   [Summary of Phases removed from Chapter
+            4.](#summary-of-phases-removed-from-chapter-4.)
             -   [D1: Initial research and development - August and
                 September
                 2017](#d1-initial-research-and-development---august-and-september-2017)
@@ -186,15 +197,127 @@ title: 9. Appendices
         -   [Material Dimensions](#material-dimensions)
         -   [Social Dimensions](#social-dimensions)
         -   [Cultural Dimensions](#cultural-dimensions)
-    -   [Ethics](#ethics)
-        -   [Game Making Club and Study Recruitment
-            Material](#game-making-club-and-study-recruitment-material)
-            -   [Game Making Club and
-                Study](#game-making-club-and-study)
+    -   [Final administrative appendix](#final-administrative-appendix)
+        -   [Back up links to short URL
+            resources](#back-up-links-to-short-url-resources)
 
 # Appendices
 
-## Interviews
+## Appendix A: Ethics and recruitment
+
+
+This information is to be circulated to Home Education Forums and Email groups.  
+
+
+### A2: Game Making Club follow up email
+
+My name is Mick Chesterman. I am a tutor and PhD student in the Manchester Met Faculty of Education. I am looking for families to take part in a Game Making club to learn how to make video games together.  
+
+The weekly game making activities start on take place on ___________ and the Manchester Met Brooks campus and will last until __________________.
+
+These activities are part of a study looking at collaboration, creativity and problem solving in a family learning environment. Taking part in the study will involve some of the sessions being recorded and some interviews with you about your experiences. More details will be provided as part of a fuller participant information sheet.  
+
+If you do not wish to be a part of this study that’s not a problem.  You should still apply to take part as one version of the club will not be a part of the study. This version of the club will undertake equivalent activities.  
+
+To register your interest in taking part. Please email me on m.chesterman@mmu.ac.uk
+
+Many Thanks
+
+Mick Chesterman.  
+
+
+### Appendix A3: Full Participant Information Sheets
+
+_Investigating the Potential of Family Game Making to Support Collaborative Production: Participatory research with Families_
+
+
+### A3a. Information Sheet for Parents
+
+You and your child/children are being invited to be involved in this research study. Before you decide whether you want your child to take part, it is important for you to understand why the research is being done and what your participation will involve. Please take time to read the following information carefully to help you decide whether you wish to take part. If anything is unclear or if you would like more information please contact Mick Chesterman (email: m.chesterman@mmu.ac.uk)
+
+#### What is the purpose of the study?
+The project hopes to understand the process of making digital games. Two or more family members will join a larger group to explore creativity and problem solving in this context. The aim is that this understanding will help inform good practice for wider game making activities as part of family learning projects and venue programmes.
+
+#### What will participation involve?
+We would like to observe you and your child/children’s participation in an approximately 8-week (2 hours per week) game making programme. The activities are designed to support participants to review and make your own digital games that can be played on web browsers. Some of the work will involve using paper, pens, textiles, and other materials to make picture prototypes and generate sounds to include in the games created.
+
+These sessions will occur during Autumn 2019 / 2020 at Manchester Metropolitan University (Brooks Building) during school time, facilitated by the researcher. You will be expected to accompany your child/children and participate in the activities.
+
+There are no known risks, inconveniences or direct benefits, although we expect participants may increase their understanding of game making concepts and practices.
+
+All written, drawn and material artefacts produced will be treated as research data. The researcher will make descriptive notes during sessions. Some activities will also be audio and video recorded. These recordings may be used for reflective interviews. These interviews will also be audio recorded, with the content analysed to inform reports or academic publications.
+
+Approximately three weeks after the sessions are complete, each family unit will be invited to a follow-up interview.
+
+Identities will be kept confidential through coding and the use of pseudonyms. Any images used in reports will be altered using Photoshop to create anonymised line art sketches. Video used in research presentations will be edited to maximise anonymity. All data will be stored on a password-protected external drive in a locked office at MMU.
+
+Please note:
+- Names will be removed from all data, and information will be anonymised.
+- If there is any risk of indirect identification, we will consult with you.
+- You and your child can withdraw at any time by emailing Mick Chesterman.
+- If you withdraw, your data will not be analysed, and you may still take part in other activities.
+
+#### Who to contact
+For questions about the study:
+- Mick Chesterman, ESRI, MMU, Room 1.43, Birley Building  
+- Email: m.chesterman@mmu.ac.uk  
+- Phone: +44 161 124 72060
+
+To raise a concern:
+- Prof Ricardo Nemirovsky, Faculty Ethics Committee  
+- Email: r.nemirovsky@mmu.ac.uk
+
+---
+
+### A3b. Information Sheet for Young Participants
+
+Dear Student,
+
+We are asking you to take part in a research project called _Investigating the Potential of Family Game Making to Support Collaborative Production_. We’re interested in how young people and their family members can work together to solve problems and create new ideas when making simple video games.
+
+If you agree to join in, you and other students will come to Manchester Metropolitan University with your parent or guardian. You will use fun equipment and technology to explore and make digital games.
+
+These activities will happen over about 8 days. Your parent or guardian will be with you the whole time and take you to and from the university.
+
+We will video and record what happens while you work together and on the computer. When we show or write about the project, we’ll change your name and turn any pictures of you into cartoon-style line drawings, so no one knows it’s you.
+
+If you change your mind, you can stop taking part at any time. Just tell us or let your parent or guardian know.
+
+Questions?  
+- Call: +44 161 124 72060  
+- Email: Mick Chesterman (m.chesterman@mmu.ac.uk)
+
+
+
+### A3c. Information Sheet for Practitioners
+
+You are being invited to take part in a research study. Before you decide, it’s important you understand why the research is being done and what it will involve. If anything is unclear or you want more information, please contact Mick Chesterman (m.chesterman@mmu.ac.uk).
+
+#### What is the purpose of the study?
+The project explores how families make digital games together and how this process supports collaboration. The goal is to develop good practice for family learning and public programme delivery.
+
+#### Why have you been chosen?
+You have experience working with different age groups in digital game making. Your insights are valuable for the study.
+
+This is a personal academic study. Whether or not you participate will have no bearing on your professional relationship with MMU.
+
+#### What will participation involve?
+You will take part in an interview about your experience, held at MMU or another convenient location. The interview will be audio recorded, and notes will be taken. These will be used to inform the researcher’s doctoral thesis and related academic work.
+
+Participation is voluntary. You can withdraw at any time, and any data already collected will be destroyed and excluded from analysis.
+
+#### Who to contact
+For questions about the study:
+- Mick Chesterman, ESRI, MMU, Room 1.43, Birley Building  
+- Email: m.chesterman@mmu.ac.uk  
+- Phone: +44 161 124 72060
+
+To raise a concern:
+- Prof Ricardo Nemirovsky, Faculty Ethics Committee  
+- Email: r.nemirovsky@mmu.ac.uk
+
+
+## Appendix B - Interview data
 
 These interview extracts are presented sometimes with commentary and sometimes without as they are directly reference from commentary in chapters.
 
@@ -1650,28 +1773,11 @@ There’s more info here - [https://docs.google.com/document/d/1qSpeVjLi2CMs2HCW
 -   Are there other cultural factors which interacted with the game making programme?
 
 
-## Ethics
 
 
 
+## Final administrative appendix
 
-### Game Making Club and Study Recruitment Material
+### Back up links to short URL resources
 
-This information is to be circulated to Home Education Forums and Email groups.  
-
-Game Making Club and Study
-
-#### Game Making Club and Study
-My name is Mick Chesterman. I am a tutor and PhD student in the Manchester Met Faculty of Education. I am looking for families to take part in a Game Making club to learn how to make video games together.  
-
-The weekly game making activities start on take place on ___________ and the Manchester Met Brooks campus and will last until __________________.
-
-These activities are part of a study looking at collaboration, creativity and problem solving in a family learning environment. Taking part in the study will involve some of the sessions being recorded and some interviews with you about your experiences. More details will be provided as part of a fuller participant information sheet.  
-
-If you do not wish to be a part of this study that’s not a problem.  You should still apply to take part as one version of the club will not be a part of the study. This version of the club will undertake equivalent activities.  
-
-To register your interest in taking part. Please email me on m.chesterman@mmu.ac.uk
-
-Many Thanks
-
-Mick Chesterman.  
+The short code generator tiny.cc has been used to create more readable links for footnotes and at times in appendices. The following list of short codes used allows readers to follow links if the tiny.cc service is deprecated.
