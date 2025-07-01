@@ -168,7 +168,7 @@ The table below outlines the types of data collected and where they occurred acr
 
 Journal notes were kept throughout the process in both paper-based journals and chronologically organised Word documents. These notes included session reflections, notes on challenges of the design of resources, and reflections on emerging themes from relevant, existing research. Alongside this, I archived the digital resources used in each phase, including templates, guides, and materials created by the young participants. The games themselves were treated as a form of data. This was partly informed by activity theory's emphasis on tools as culturally mediated artefacts, and by the principle of double stimulation, where learners appropriate and repurpose tools for their own ends. This adaptation beyond expected use became an important data point.
 
-There were practical challenges in collecting and maintaining access to these digital artefacts. In 2025, the platform Glitch.com announced it would no longer host user projects[^5a]. I responded by downloading HTML, JavaScript, and CSS files for each game, and archiving them in a Git repository. A similar process occurred related to Piskel graphical editing tool.  
+There were practical challenges in collecting and maintaining access to these digital artefacts. In 2025, the platform Glitch.com announced it would no longer host user projects [^5].  A similar process occurred related to Piskel graphical editing tool [^5a].  
 
 Video data played a key role in capturing situated activity: both 360 video data and screen capture data were recorded [^5aa]. Regarding computer screen capture, the software Flashback Pro was chosen for screen capture due to its accessibility and low cost. The software recorded user input and screen activity including data of mouse clicks and keyboard events [^5aaa].
 
@@ -189,24 +189,7 @@ Turning to interviews of fellow practitioners and researchers in the area of cre
 
 The analysis was structured in three stages to reflect the evolving relationship between the data and the research questions. This staged approach allowed for an iterative process: beginning with exploratory review, progressing through thematic refinement and methodological adjustment, and concluding with interpretive consolidation. Each stage responded to new insights and practical constraints, and together they represent a strategy for understanding how learning, agency, and contradiction played out within the CGD&P interventions.
 
-Due to the exploratory nature of the research and the openness to emergent directions, the analysis process evolved iteratively across multiple stages. For the purposes of clarity, this process is presented in three simplified stages that reflect broad shifts in focus and method. Each stage marks a move toward greater granularity, using different analytical strategies suited to the emerging needs of the study. This structure also proved particularly useful in managing the large volume of video and screen capture data generated during the CGD&P sessions.
-
-
-
-
-### Summary table  of data analysis
-
-The table below provides a cross-reference between the research questions, the types of data collected, and the analytical and theoretical approaches employed. It serves as a conceptual map to clarify how each question was addressed through the methodological process described in this chapter.
-
-
-
-| Stage | Technique                                  | Description                                                                                                                                                                                                                                                                                                      |
-|-------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 & 2 | Making observations of activity based on 3 planes approach (& practicalities) | Dipping into screen capture and 360 footage (VLC player) helped inform the smaller subsequent selection of data.<br><br>Observations stored in an Excel spreadsheet and separate Word documents on tensions and barriers in activity.                                                                                 |
-| 2     | Transcription of activity and conversations | Simultaneous viewing of screen capture and 360 footage.<br><br>Actions and extracts of conversations recorded into a Word document.<br><br>For the individual/pair, their activity was split into 5-minute sections and recorded in a Word document, time-coded via a grid table format.                            |
-| 2     | Exploratory Thematic Clustering             | Video capture data and 360 data imported into NVivo.<br><br>Eight screen capture/360 files from five group sessions analyzed.<br><br>The process was complicated by the video file formats and their extended length.<br><br>Activity was coded based on an evolving schema including design cycle stages, participant interactions, and game elements participants were working on. |
-| 3     | Revised Thematic Clustering                 | Video capture and 360 data in NVivo.<br><br>Twelve screen capture/360 files from five group sessions analyzed.<br><br>A revised thematic analysis focused on different uses of game design patterns (GDPs) and dimensions of participant agency.                                                                  |
-| 3     | Choosing and transcribing vignettes        | Simultaneous viewing of screen capture and 360 footage in VLC player.<br><br>Practitioner interviews also reviewed in VLC player.<br><br>Four vignettes chosen and transcribed.<br><br>Full transcription for a limited time period including description and commentary on non-verbal aspects like movement and gesture.<br><br>Provides deeper insight into pair processes and individual experiences. |
+Due to the exploratory nature of the research and the openness to emergent directions, the analysis process evolved iteratively across multiple stages. For the purposes of clarity, this process is presented in three simplified stages that reflect broad shifts in focus and method. Each stage marks a move toward greater granularity, using different analytical strategies suited to the emerging needs of the study. This structure also proved particularly useful in managing the large volume of video and screen capture data generated during the game making sessions.
 
 
 ### Stage 1 - Exploratory analysis
@@ -292,6 +275,22 @@ This interpretive work aimed to clarify not only how the learning environment su
 
 By the end of this stage, the analysis had shifted from mapping general trends to closely engaging with specific examples that showed tensions, possibilities, and shifts in learner participation. These vignettes became the foundation for articulating the study’s contributions to both theory and practice.
 
+
+### Summary table  of data analysis of video data
+
+The table below provides an initial summary of  approaches employed at different stages of the data analysis process in relation to video data used. The purpose of this summary is to ....
+INFORM FUTURE WORK? A CONTRIBUTION? 
+
+
+| Stage | Technique                                  | Description                                                                                                                                                                                                                                                                                                      |
+|-------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 & 2 | Making observations of activity based on 3 planes approach (& practicalities) | Dipping into screen capture and 360 footage (VLC player) helped inform the smaller subsequent selection of data.<br><br>Observations stored in an Excel spreadsheet and separate Word documents on tensions and barriers in activity.                                                                                 |
+| 2     | Transcription of activity and conversations | Simultaneous viewing of screen capture and 360 footage.<br><br>Actions and extracts of conversations recorded into a Word document.<br><br>For the individual/pair, their activity was split into 5-minute sections and recorded in a Word document, time-coded via a grid table format.                            |
+| 2     | Exploratory Thematic Clustering             | Video capture data and 360 data imported into NVivo.<br><br>Eight screen capture/360 files from five group sessions analyzed.<br><br>The process was complicated by the video file formats and their extended length.<br><br>Activity was coded based on an evolving schema including design cycle stages, participant interactions, and game elements participants were working on. |
+| 3     | Revised Thematic Clustering                 | Video capture and 360 data in NVivo.<br><br>Twelve screen capture/360 files from five group sessions analyzed.<br><br>A revised thematic analysis focused on different uses of game design patterns (GDPs) and dimensions of participant agency.                                                                  |
+| 3     | Choosing and transcribing vignettes        | Simultaneous viewing of screen capture and 360 footage in VLC player.<br><br>Practitioner interviews also reviewed in VLC player.<br><br>Four vignettes chosen and transcribed.<br><br>Full transcription for a limited time period including description and commentary on non-verbal aspects like movement and gesture.<br><br>Provides deeper insight into pair processes and individual experiences. |
+
+
 ## Broader methodological considerations
 
 ### Ethical considerations and validity
@@ -367,8 +366,8 @@ The next chapter builds on this foundation by tracing how the CGD&P programme de
 [^2a]: This message and summaries of the participant information sheets are included within Appendix A.
 [^3]: Glitch games and manual page:https://glitch-game-club.github.io/ggcp/ggc-examples/ https://glitch-game-club.github.io/ggcp/manual/ - See Appendix t.x for full description of learning resources
 [^4]: MakeCode is a block-based programming environment created by Microsoft that enables coding through graphical blocks and JavaScript or Python extensions.
-[^5]: Glitch migration was needed after glitch.com announced it would stop hosting in July 2025. This is common with free services, but the process of downloading files and reuploading them was made easier by the use of web technology. They are now online here: https://github.com/glitch-game-club/ggcp
-[^5a]: While some projects created in Piskel were lost, many had been exported in advance and could be preserved.
+[^5]: Glitch migration was needed after glitch.com announced it would stop hosting in July 2025. I responded by downloading HTML, JavaScript, and CSS files for each game, and archiving them in a Git repository. The process of downloading files and reuploading them was made easier by the use of web technology. They are now online here: https://github.com/glitch-game-club/ggcp
+[^5a]: While some projects created in Piskel were lost, many had been incorporated within existing games and were thus preserved in this way. The choices of this intervention and how they compared to the wider aims of software sustainability are outlined in Appendix T.
 [^5aa]: 360° video captures activity in all directions, offering a full view of group interactions and spatial dynamics.
 Screen capture video records on-screen actions, allowing analysis of digital tool use and participant choices during game making.
 [^5aaa]: To make the files usable in coding software like NVivo, they had to be converted from `.fbr` to `.mp4` format. This conversion process removed some data, such as mouse and keyboard events.
