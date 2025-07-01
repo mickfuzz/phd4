@@ -316,8 +316,30 @@ To raise a concern:
 - Prof Ricardo Nemirovsky, Faculty Ethics Committee  
 - Email: r.nemirovsky@mmu.ac.uk
 
+## Appendix B: Methodology contributions
 
-## Appendix B - Interview data
+### Appendix B.1: Video data analysis workflow and methodological adaptations
+
+The table below outlines the main techniques and strategies used across the three stages of video data analysis in this study. It summarises how different tools, formats, and frameworks were employed in response to the evolving demands of the dataset, including screen capture and 360° footage. While the methods described here were specific to this project’s context, they offer a potential model for other researchers working in complex, real-world learning environments where formal software tools may fall short. The emphasis on pragmatism, triangulation, and iterative adaptation aligns with the ethos of DBR and sociocultural research.
+
+
+### Summary table  of data analysis of video data
+
+The table below provides an initial summary of  approaches employed at different stages of the data analysis process in relation to video data used. The purpose of this summary is to provide a summary of the process o
+
+
+| Stage | Technique                                  | Description                                                                                                                                                                                                                                                                                                      |
+|-------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 & 2 | Making observations of activity based on 3 planes approach (& practicalities) | Dipping into screen capture and 360 footage (VLC player) helped inform the smaller subsequent selection of data.<br><br>Observations stored in an Excel spreadsheet and separate Word documents on tensions and barriers in activity.                                                                                 |
+| 2     | Transcription of activity and conversations | Simultaneous viewing of screen capture and 360 footage.<br><br>Actions and extracts of conversations recorded into a Word document.<br><br>For the individual/pair, their activity was split into 5-minute sections and recorded in a Word document, time-coded via a grid table format.                            |
+| 2     | Exploratory Thematic Clustering             | Eight screen capture/360 files from five group sessions analysed.<br><br>The process was complicated by the video file formats and their extended length.<br><br>Activity was coded based on an evolving schema including design cycle stages, participant interactions, and game elements participants were working on. |
+| 3     | Revised Thematic Clustering                 | Video capture and 360 data in NVivo.<br><br>Twelve screen capture/360 files from five group sessions analyzed.<br><br>A revised thematic analysis focused on different uses of game design patterns (GDPs) and dimensions of participant agency.                                                                  |
+| 3     | Choosing and transcribing vignettes        | Simultaneous viewing of screen capture and 360 footage in VLC player.<br><br>Practitioner interviews also reviewed in VLC player.<br><br>Four vignettes chosen and transcribed.<br><br>Full transcription for a limited time period including description and commentary on non-verbal aspects like movement and gesture.<br><br>Provides deeper insight into pair processes and individual experiences. |
+
+
+
+
+## Appendix C - Interview data
 
 These interview extracts are presented sometimes with commentary and sometimes without as they are directly reference from commentary in chapters.
 
@@ -1530,12 +1552,32 @@ CAN i FIND ANY KEY EXAMPLES OF THIS?
 
 
 
+
+
 ## Unplaced - but needed.
 
 place here
 
 NOTE HOW MUCH OF THIS SHOULD GO IN CHAPTER 7 ?
 
+An interaction on the visual map included for completeness and link to the 5tD intervention.
+
+### Vignette 7 – `.map` – Dialogue of use of physical maps at the start of session X
+
+| Transcript | Description |
+|------------|-------------|
+| **Mick (f):** I’m putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I’m going to put that one over there in the corner, if that’s one that you’re working on. | Mick cuts out an image from [^4] representing a GDP of key and doors. |
+| **Tehillah (c):** So I’ve gone really far away on the map. | Tehillah quickly places her marker on that image and grins. Other parents and children to the right and left of her look at her marker. |
+| **Mick (f):** Yeah. | Mick smiles too whilst walking to get and glue another cut-out. |
+| **Tehillah (c):** Heh! | Tehillah walks back to her mother and stretches out her arms to her, who picks her up. Tehillah whispers in her mother’s ear. |
+| **Mick (f):** There should be some blue tack if you are struggling to make your character stand up. | Mick walks around the back of the group and sticks another GDP pattern on a different pre-drawn island. Roxanne (p) notices Agnes’s (c) falling character and passes the child blue tack to help. |
+| **Roxanne (p):** Oh that’s something you were wanting to do. | Roxanne points at a cut-out that Mick has just stuck down. |
+| **Richie (c):** I like the idea of making the enemies move. | – |
+| **Roxanne (p):** Ok, there’s a worksheet here about that. So you don’t want to any any health meter? | – |
+| **Richie (c):** No. | – |
+| **Roxanne (p):** At least not right now. You want to do this, on a sheet, right here, here you go. | Roxanne waves sheet and smiles at Mick and laughs. |
+| **Mick (f):** Great that’s good. We’ve got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move when it moves around the screen. | Mick moves hands when saying “make your character move,” indicating animation. |
+| **Mick (f):** Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that. | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate “you guys.” |
 
 
 ## Perhaps delete?
