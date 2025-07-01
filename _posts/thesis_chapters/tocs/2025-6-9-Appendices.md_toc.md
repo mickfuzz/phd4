@@ -22,7 +22,14 @@
             -   [What will participation
                 involve?](#what-will-participation-involve-1)
             -   [Who to contact](#who-to-contact-1)
-    -   [Appendix B - Interview data](#appendix-b---interview-data)
+    -   [Appendix B: Methodology
+        contributions](#appendix-b-methodology-contributions)
+        -   [Appendix B.1: Video data analysis workflow and
+            methodological
+            adaptations](#appendix-b.1-video-data-analysis-workflow-and-methodological-adaptations)
+        -   [Summary table of data analysis of video
+            data](#summary-table-of-data-analysis-of-video-data)
+    -   [Appendix C - Interview data](#appendix-c---interview-data)
         -   [Practioner interviews](#practioner-interviews)
         -   [Interview.summaries](#interview.summaries)
             -   [Use of helping roles in Interview
@@ -171,6 +178,9 @@
         -   [Concluding remarks on debugging and
             revision](#concluding-remarks-on-debugging-and-revision)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
+        -   [Vignette 7 -- `.map` -- Dialogue of use of physical maps at
+            the start of session
+            X](#vignette-7-.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
     -   [Perhaps delete?](#perhaps-delete)
         -   [Appendix 5.x - Community norming in playtesting - DROP THIS
             ONE

@@ -29,10 +29,8 @@ title: 4. Methodology
         -   [Table: Summary of delivery
             phases](#table-summary-of-delivery-phases)
     -   [Data analysis process](#data-analysis-process)
-        -   [Summary table of data
-            analysis](#summary-table-of-data-analysis)
-        -   [Stage 1 - Exploratory
-            analysis](#stage-1---exploratory-analysis)
+        -   [Stage 1 -- Exploratory
+            analysis](#stage-1-exploratory-analysis)
         -   [Stage 2 -- Thematic
             Refinement](#stage-2-thematic-refinement)
         -   [Stage 3 -- Interpretive
@@ -47,11 +45,11 @@ title: 4. Methodology
         -   [Ethical considerations and
             validity](#ethical-considerations-and-validity)
         -   [Generalisability and
-            Replication](#generalisability-and-replication)
-        -   [Methodological and Practical
-            Limitations](#methodological-and-practical-limitations)
-        -   [Wider Limitations](#wider-limitations)
-        -   [Chapter conclusion](#chapter-conclusion)
+            replication](#generalisability-and-replication)
+        -   [Methodological and practical
+            limitations](#methodological-and-practical-limitations)
+        -   [Wider limitations](#wider-limitations)
+    -   [Chapter conclusion](#chapter-conclusion)
     -   [Footnotes](#footnotes)
 
 # Methodology
@@ -338,7 +336,7 @@ Limitations of the data collected in P4 and P5 were practical in scope, due to s
 
 ## Chapter conclusion
 
-This chapter has outlined the methodological framework underpinning the study, combining a staged analytical process with a reflexive, practice-based approach. The research design evolved iteratively, with analysis, tool development, and facilitation treated as overlapping components of a continuous inquiry. Insights emerged through repeated cycles of observation, reflection, and design response. The approach enabled attention to contradictions, the development of learner agency, and the role of mediating tools, supporting analysis at both individual and community levels. The next chapter builds on this foundation by tracing the development of the CGD&P programme over time. Using a design narrative approach [@hoadley_method_2002], Chapter 5 explores how tensions in the learning environment prompted shifts in goals, tools, and shared practices, and how these changes were introduced and refined across different phases of delivery.
+This chapter has outlined the methodological framework underpinning the study, combining a staged analytical process with a reflexive, practice-based approach. The research design evolved iteratively, with analysis, tool development, and facilitation treated as overlapping components of a continuous inquiry. Insights emerged through repeated cycles of observation, reflection, and design response. The approach enabled attention to contradictions, the development of learner agency, and the role of mediating tools, supporting analysis at both individual and community levels. The next chapter builds on this foundation by tracing the development of the CGD&P programme over time. Using a design narrative approach [@hoadley_creating_2002-1], Chapter 5 explores how tensions in the learning environment prompted shifts in goals, tools, and shared practices, and how these changes were introduced and refined across different phases of delivery.
 
 
 ## Footnotes

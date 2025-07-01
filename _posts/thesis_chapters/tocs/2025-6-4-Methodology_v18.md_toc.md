@@ -17,10 +17,8 @@
         -   [Table: Summary of delivery
             phases](#table-summary-of-delivery-phases)
     -   [Data analysis process](#data-analysis-process)
-        -   [Summary table of data
-            analysis](#summary-table-of-data-analysis)
-        -   [Stage 1 - Exploratory
-            analysis](#stage-1---exploratory-analysis)
+        -   [Stage 1 -- Exploratory
+            analysis](#stage-1-exploratory-analysis)
         -   [Stage 2 -- Thematic
             Refinement](#stage-2-thematic-refinement)
         -   [Stage 3 -- Interpretive
@@ -35,9 +33,9 @@
         -   [Ethical considerations and
             validity](#ethical-considerations-and-validity)
         -   [Generalisability and
-            Replication](#generalisability-and-replication)
-        -   [Methodological and Practical
-            Limitations](#methodological-and-practical-limitations)
-        -   [Wider Limitations](#wider-limitations)
-        -   [Chapter conclusion](#chapter-conclusion)
+            replication](#generalisability-and-replication)
+        -   [Methodological and practical
+            limitations](#methodological-and-practical-limitations)
+        -   [Wider limitations](#wider-limitations)
+    -   [Chapter conclusion](#chapter-conclusion)
     -   [Footnotes](#footnotes)
