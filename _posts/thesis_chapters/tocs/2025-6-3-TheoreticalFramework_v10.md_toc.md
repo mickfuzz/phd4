@@ -17,13 +17,6 @@
     -   [Tensions and alignments between DBR and formative
         intervention](#tensions-and-alignments-between-dbr-and-formative-intervention)
 -   [Concepts of agency within CHAT](#concepts-of-agency-within-chat)
-    -   [Instrumental Agency](#instrumental-agency)
-        -   [Transformation agency through double stimulation (TADS) -
-            On double stimulation and
-            agency](#transformation-agency-through-double-stimulation-tads---on-double-stimulation-and-agency)
-        -   [Transformative Activist Stance
-            (TAS)](#transformative-activist-stance-tas)
-    -   [Relational agency](#relational-agency)
 -   [Variations and synthesis in interventionist CHAT and DBR
     research](#variations-and-synthesis-in-interventionist-chat-and-dbr-research)
     -   [The Change Laboratory model](#the-change-laboratory-model)
