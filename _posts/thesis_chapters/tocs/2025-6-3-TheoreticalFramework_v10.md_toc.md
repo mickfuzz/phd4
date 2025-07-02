@@ -1,9 +1,8 @@
 -   [Introduction](#introduction)
--   [The foundational concepts of activity
-    theory](#the-foundational-concepts-of-activity-theory)
     -   [CHAT, 3GAT and expansive
         learning](#chat-3gat-and-expansive-learning)
-    -   [Formative Interventions](#formative-interventions)
+    -   [Formative Interventions as a CHAT
+        methodology](#formative-interventions-as-a-chat-methodology)
 -   [CHAT concepts emerging from the Laboratory of Comparative Human
     Cognition
     (LCHC)](#chat-concepts-emerging-from-the-laboratory-of-comparative-human-cognition-lchc)
