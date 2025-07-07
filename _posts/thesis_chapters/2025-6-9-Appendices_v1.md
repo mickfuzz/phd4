@@ -21,21 +21,10 @@ title: 9. Appendices
             Sheets](#appendix-a3-full-participant-information-sheets)
         -   [A3a. Information Sheet for
             Parents](#a3a.-information-sheet-for-parents)
-            -   [What is the purpose of the
-                study?](#what-is-the-purpose-of-the-study)
-            -   [What will participation
-                involve?](#what-will-participation-involve)
-            -   [Who to contact](#who-to-contact)
         -   [A3b. Information Sheet for Young
             Participants](#a3b.-information-sheet-for-young-participants)
         -   [A3c. Information Sheet for
             Practitioners](#a3c.-information-sheet-for-practitioners)
-            -   [What is the purpose of the
-                study?](#what-is-the-purpose-of-the-study-1)
-            -   [Why have you been chosen?](#why-have-you-been-chosen)
-            -   [What will participation
-                involve?](#what-will-participation-involve-1)
-            -   [Who to contact](#who-to-contact-1)
     -   [Appendix B: Methodology
         contributions](#appendix-b-methodology-contributions)
         -   [Appendix B.1: Video data analysis workflow and
@@ -52,25 +41,12 @@ title: 9. Appendices
                 data.](#use-of-helping-roles-in-interview-data.)
         -   [Interview.1 - Madiha, Nasrin and
             Xavier](#interview.1---madiha-nasrin-and-xavier)
-            -   [Interview.1.a](#interview.1.a)
-            -   [Interview.1.b](#interview.1.b)
-            -   [Interview.1.b](#interview.1.b-1)
         -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
-            -   [Interview.2.a](#interview.2.a)
-            -   [Interview.2.b](#interview.2.b)
-            -   [Interview.2.](#interview.2.)
         -   [Interview.3 - Maggie and
             Toby](#interview.3---maggie-and-toby)
-            -   [Interview.3.a](#interview.3.a)
-            -   [Other extracts](#other-extracts)
         -   [Interview.4 - Dan](#interview.4---dan)
-            -   [Interview.4.a](#interview.4.a)
         -   [App.7.fdb - Feedback
             Extracts](#app.7.fdb---feedback-extracts)
-            -   [App.fdb.a - Susanna and Tehillah note on starting
-                games](#app.fdb.a---susanna-and-tehillah-note-on-starting-games)
-            -   [App.fdb.a - P1 end
-                evaluation](#app.fdb.a---p1-end-evaluation)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
@@ -81,8 +57,8 @@ title: 9. Appendices
         appendix](#appendix-d---learning-design-appendix)
         -   [Appendix D.1 - On software
             tools](#appendix-d.1---on-software-tools)
-        -   [Appendix D.? - Tools used in different phases of
-            activity](#appendix-d.---tools-used-in-different-phases-of-activity)
+            -   [Appendix D.? - Tools used in different phases of
+                activity](#appendix-d.---tools-used-in-different-phases-of-activity)
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
@@ -99,16 +75,13 @@ title: 9. Appendices
                 GDPs](#appendix-d.2-themeing---themeing-gdps)
             -   [Appendix 5.R.x - Sketching towards a map to help
                 navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
-        -   [Appendix D.x - Maker types and social
-            missions](#appendix-d.x---maker-types-and-social-missions)
-        -   [Appendix.bartle - Summary of interactive Bartle test - EDIT
-            DOWN LOADS - MOVE SOME TO BLOG
-            POST](#appendix.bartle---summary-of-interactive-bartle-test---edit-down-loads---move-some-to-blog-post)
+        -   [Appendix D.3 - Other intervention resources and
+            processes](#appendix-d.3---other-intervention-resources-and-processes)
+            -   [Appendix D.x - Maker types and social
+                missions](#appendix-d.x---maker-types-and-social-missions)
             -   [Maker types](#maker-types)
             -   [Playful Playtesting](#playful-playtesting)
             -   [Side missions](#side-missions)
-        -   [Appendix D.3 - Other supporting
-            resources](#appendix-d.3---other-supporting-resources)
             -   [Appendix D.? - Drama
                 process](#appendix-d.---drama-process)
             -   [Playful dialogue with the aliens unrelated to game
@@ -157,31 +130,11 @@ title: 9. Appendices
         -   [Concluding remarks on debugging and
             revision](#concluding-remarks-on-debugging-and-revision)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
+        -   [Developing Digital Literacy skills / Fluency - / & Play
+            paradox](#developing-digital-literacy-skills-fluency---play-paradox)
         -   [Vignette 7 -- `.map` -- Dialogue of use of physical maps at
             the start of session
             X](#vignette-7-.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
-    -   [Perhaps delete?](#perhaps-delete)
-        -   [Appendix 5.x - Community norming in playtesting - DROP THIS
-            ONE
-            PERHAPS](#appendix-5.x---community-norming-in-playtesting---drop-this-one-perhaps)
-        -   [5.dn - Expanded Design
-            Narrative](#dn---expanded-design-narrative)
-        -   [Shared object as GDP move to Ch
-            5](#shared-object-as-gdp-move-to-ch-5)
-            -   [On Template / Documentation
-                use](#on-template-documentation-use)
-            -   [Email on list for P1 - regarding the use of a
-                template](#email-on-list-for-p1---regarding-the-use-of-a-template)
-            -   [Additional commentary and analysis of Toby's vignette -
-                MOVE TO EXTERNAL
-                DOCUMENT](#additional-commentary-and-analysis-of-tobys-vignette---move-to-external-document)
-            -   [Developing a collection of GDPs and code
-                snippets](#developing-a-collection-of-gdps-and-code-snippets)
-        -   [Not sure if useful](#not-sure-if-useful)
-            -   [Developing Digital Literacy skills / Fluency -
-                OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
-        -   [Tensions in tool use emerging between agency and
-            authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
     -   [Final administrative appendix](#final-administrative-appendix)
         -   [Back up links to short URL
             resources](#back-up-links-to-short-url-resources)
@@ -238,10 +191,12 @@ _Investigating the Potential of Family Game Making to Support Collaborative Prod
 
 You and your child/children are being invited to be involved in this research study. Before you decide whether you want your child to take part, it is important for you to understand why the research is being done and what your participation will involve. Please take time to read the following information carefully to help you decide whether you wish to take part. If anything is unclear or if you would like more information please contact Mick Chesterman (email: m.chesterman@mmu.ac.uk)
 
-#### What is the purpose of the study?
+**What is the purpose of the study?**
+
 The project hopes to understand the process of making digital games. Two or more family members will join a larger group to explore creativity and problem solving in this context. The aim is that this understanding will help inform good practice for wider game making activities as part of family learning projects and venue programmes.
 
-#### What will participation involve?
+**What will participation involve?**
+
 We would like to observe you and your child/children’s participation in an approximately 8-week (2 hours per week) game making programme. The activities are designed to support participants to review and make your own digital games that can be played on web browsers. Some of the work will involve using paper, pens, textiles, and other materials to make picture prototypes and generate sounds to include in the games created.
 
 These sessions will occur during Autumn 2019 / 2020 at Manchester Metropolitan University (Brooks Building) during school time, facilitated by the researcher. You will be expected to accompany your child/children and participate in the activities.
@@ -260,7 +215,8 @@ Please note:
 - You and your child can withdraw at any time by emailing Mick Chesterman.
 - If you withdraw, your data will not be analysed, and you may still take part in other activities.
 
-#### Who to contact
+**Who to contact**
+
 For questions about the study:
 - Mick Chesterman, ESRI, MMU, Room 1.43, Birley Building  
 - Email: m.chesterman@mmu.ac.uk  
@@ -270,7 +226,7 @@ To raise a concern:
 - Prof Ricardo Nemirovsky, Faculty Ethics Committee  
 - Email: r.nemirovsky@mmu.ac.uk
 
----
+
 
 ### A3b. Information Sheet for Young Participants
 
@@ -296,20 +252,24 @@ Questions?
 
 You are being invited to take part in a research study. Before you decide, it’s important you understand why the research is being done and what it will involve. If anything is unclear or you want more information, please contact Mick Chesterman (m.chesterman@mmu.ac.uk).
 
-#### What is the purpose of the study?
-The project explores how families make digital games together and how this process supports collaboration. The goal is to develop good practice for family learning and public programme delivery.
+**What is the purpose of the study?**
 
-#### Why have you been chosen?
+he project explores how families make digital games together and how this process supports collaboration. The goal is to develop good practice for family learning and public programme delivery.
+
+**Why have you been chosen?**
+
 You have experience working with different age groups in digital game making. Your insights are valuable for the study.
 
 This is a personal academic study. Whether or not you participate will have no bearing on your professional relationship with MMU.
 
-#### What will participation involve?
+**What will participation involve?**
+
 You will take part in an interview about your experience, held at MMU or another convenient location. The interview will be audio recorded, and notes will be taken. These will be used to inform the researcher’s doctoral thesis and related academic work.
 
 Participation is voluntary. You can withdraw at any time, and any data already collected will be destroyed and excluded from analysis.
 
-#### Who to contact
+**Who to contact**
+
 For questions about the study:
 - Mick Chesterman, ESRI, MMU, Room 1.43, Birley Building  
 - Email: m.chesterman@mmu.ac.uk  
@@ -339,6 +299,27 @@ The table below provides an initial summary of  approaches employed at different
 | 3     | Revised Thematic Clustering                 | Video capture and 360 data in NVivo.<br><br>Twelve screen capture/360 files from five group sessions analyzed.<br><br>A revised thematic analysis focused on different uses of game design patterns (GDPs) and dimensions of participant agency.                                                                  |
 | 3     | Choosing and transcribing vignettes        | Simultaneous viewing of screen capture and 360 footage in VLC player.<br><br>Practitioner interviews also reviewed in VLC player.<br><br>Four vignettes chosen and transcribed.<br><br>Full transcription for a limited time period including description and commentary on non-verbal aspects like movement and gesture.<br><br>Provides deeper insight into pair processes and individual experiences. |
 
+
+
+### Additional summary of phases of this study's methodology
+
+D1 Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015].
+
+P1 was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
+
+
+D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources.
+
+P2, A game making course of 6 weeks. The template and resources created D2 were used as a starting point but still under rapid development based on informal participant feedback and my journal reflections.
+
+Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
+
+P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
+
+
+The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
+I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
+The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
 
 
@@ -416,27 +397,27 @@ Mentioned in Chapter 7
 
 ### Interview.1 -   Madiha, Nasrin and Xavier
 
-#### Interview.1.a
+**Interview.1.a**
 
 
-#### Interview.1.b  
+**Interview.1.b**  
 
 The involvement of Madiha in Nasrin's gaming
 
-#### Interview.1.b  
+**Interview.1.b**  
 
 The choices to explore issues of social media
 
 
 ### Interview.2 - Mark and Ed
 
-
-#### Interview.2.a  
+**Interview.2.a**  
 
 - The use of paper prototyping and then progression to digital sketching.
 The quick use of digital tools
 
-#### Interview.2.b  
+**Interview.2.b**
+
 Choice to explore trains as a subject
 
 Mark and Ed designed a game around the character of a train driver that needed to collect coal. In subsequent post course interview Mark describes the impact of the child feeling like they could bring their own identity and interest into the project.
@@ -463,30 +444,30 @@ Mark: and to have it train themed, didn't that like, keep your interest in the d
 Ed:  Yeah.
 Mark: Because the whole theme of it. Just I know just your eyes lit up when you realised you could expand your interests into gaming.
 
-#### Interview.2.
+**Interview.2.**
 
 Plodding
 
 ### Interview.3 - Maggie and Toby
 
-#### Interview.3.a
+**Interview.3.a**
 
 Choice of home interests bee keeping
 
-#### Other extracts
+**Other extracts**
 
 - Emotional when J. who was dyslexic was able to do the code pattern matching exercise.
 
 ### Interview.4 - Dan
 
-#### Interview.4.a
+**Interview.4.a**
 
 Dan's involvement in Coder Dojo.   
 
 ### App.7.fdb - Feedback Extracts
 
 
-#### App.fdb.a - Susanna and Tehillah note on starting games
+##### App.fdb.a - Susanna and Tehillah note on starting games
 
 Added to vignette 2 also
 
@@ -497,7 +478,7 @@ End of course evaluation at show case for  P 1.
 Find extracts from here
 https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit
 
-#### App.fdb.a - P1 end evaluation
+##### App.fdb.a - P1 end evaluation
 
 Athena (P1.debrief) also shared reflections on the issues of family and home education dynamics, suggesting that parents may get in the way of young people's ability to move into other's spaces to learn things, and that parental helping roles may therefore be a hindrance.
 
@@ -610,7 +591,7 @@ Chapter 5 outlines how this culminated in a crisis which involved me reaching ou
 
 ### Appendix D.1 - On software tools
 
-### Appendix D.? - Tools used in different phases of activity
+#### Appendix D.? - Tools used in different phases of activity
 
 
 - Piskel - a graphical editor used to create pixel art sprite characters;
@@ -728,7 +709,7 @@ Game states and functions to create the game loop (see glossary) are included na
 4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
 
 
-**Template structure and asset placement - Add in Chapter tutorial example extract here too**
+##### Template structure and asset placement - Add in Chapter tutorial example extract here too
 
 In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
 
@@ -881,7 +862,9 @@ _Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type a
 The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
 
 
-### Appendix D.x - Maker types and social missions
+### Appendix D.3 - Other intervention resources and processes
+
+#### Appendix D.x - Maker types and social missions
 
 Appendix referred to in Chapters 5 and 7.  
 
@@ -889,7 +872,7 @@ The process of exploring identity in this way surfaced the cheekiness of some yo
 
 
 
-### Appendix.bartle -  Summary of interactive Bartle test - EDIT DOWN LOADS - MOVE SOME TO BLOG POST
+##### Appendix.bartle -  Summary of interactive Bartle test - EDIT DOWN LOADS - MOVE SOME TO BLOG POST
 
 As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
 
@@ -1010,10 +993,9 @@ the lively discussion about game playing in response to the mission to _find out
 ADD IN DETAIL FROM P3 -
 
 
-### Appendix D.3 - Other supporting resources
 
 
-#### Appendix D.? - Drama process
+### Appendix D.? - Drama process
 
 **Exploring documentation and accessing technical help within the drama frame**
 
@@ -1202,7 +1184,7 @@ The process of collating these skill aligned to curricular concepts above or tho
 - Use of graphical editing tool sets: for example drawing pencils, fill buckets, eraser tools.
 -  
 
-### Appendix.recommendations - for practitioners.
+## Appendix E .recommendations - for practitioners - KEEP OR DROP?
 
 #### Additional commentary from chapter 6.
 
@@ -1250,35 +1232,12 @@ In its engagement with participant choice over which patterns to implement, and 
 ## Technical Appendix One - On technical aspects of the decision regarding the learning design
 
 
-### Summary of Phases removed from Chapter 4.
-
-D1 Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015].
-
-P1 was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
-
-
-D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources.
-
-P2, A game making course of 6 weeks. The template and resources created D2 were used as a starting point but still under rapid development based on informal participant feedback and my journal reflections.
-
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
-
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool [mc].
-I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
-The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
-
-
 
 #### Appendix.tech.prototyping Use of visual prototyping
-
 
 MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
 
 In Chapter 6 the use of visual prototyping was explored in relation Vignette 7 with Dan and Toby.
-
 
 By way of contrast, in Vignette 2, the Susanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
 
@@ -1331,7 +1290,6 @@ And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
 
 
 #### Appendix.debugging GDPs used to nurture tactical responses to coding errors
-
 
 COPIED FROM GDP CHAPTER
 
@@ -1437,6 +1395,18 @@ NOTE HOW MUCH OF THIS SHOULD GO IN CHAPTER 7 ?
 
 An interaction on the visual map included for completeness and link to the 5tD intervention.
 
+
+#### Developing Digital Literacy skills / Fluency - / & Play paradox
+
+<!-- - MOVE TO CHAP 7 > AS A TACTIC TO PROMOTE AGENCY - A TENSION? -->
+
+The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
+
+Perhaps play paradox here? Not a tension but something to design for? And thus backgrounding the aspects of computational thinking in favour of a more accessible experience using authentic technology. A reflection as a facilitator.
+
+This tension can be described as a play paradox. WHERE IS THIS FIRST INTRODUCED I was looking to avoid too much time spent in asset creation at the expense of other processes which would develop coding concepts and practices. It also increased the possibility of peer learning as less tools were being used.
+
+
 ### Vignette 7 – `.map` – Dialogue of use of physical maps at the start of session X
 
 | Transcript | Description |
@@ -1454,186 +1424,6 @@ An interaction on the visual map included for completeness and link to the 5tD i
 | **Mick (f):** Great that’s good. We’ve got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move when it moves around the screen. | Mick moves hands when saying “make your character move,” indicating animation. |
 | **Mick (f):** Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that. | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate “you guys.” |
 
-
-## Perhaps delete?
-
-place here
-
-### Appendix 5.x  - Community norming in playtesting - DROP THIS ONE PERHAPS
-
-Mi: (Talking to self) No! It's so hard that. (referring to a particular jump in her game.)
-Mick: How are you getting on Mi? It's looking good.
-Mick: (Noting frustrated air of Mi) Have you made it too hard?
-Mi: I don't know. Can you jump from here to here with this.. this.. him? (point to main character)
-Mick: So it look like you bump your head and fall down.
-Mick: One bit of friendly feedback that I would give you is that it's taking a long time to move left and right. And that is something that you can change if you want to.
-Mi: Oh right yeah.direct
-Mick: Yeah.
-Mi: Yeah, actually that's a good idea.
-Mick: If you think about average games. Your average jump time would be about one second in the air. So that can be a bit of guide sometime
-
-### 5.dn - Expanded Design Narrative
-
-
-![Illustration 4.x - Broad Environmental Activity Systems  ](./Pictures/At_dia_3_v2.png){width=95%}
-The diagram is in line with Engestrom's concept of expansive learning via a shared object (explored in the chapter three) [@engestrom_expansive_2001]. In this research, I take the approach of treating this shared object as an activity system in its own right. Lecusay [@lecusay_telementoring_2015] applies a similar approach when describing an adaption to an after school program. He describes the shared object as an idiocultural hybrid which develops into its own activity system.
-DEVELOP
-
-### Shared object as GDP move to Ch 5
-
-Chapter five contains more detail on the emergence of game design patterns as shared concepts and the implications for activity in more depth.
-
-Game design patterns emerged as a shared object as described by Engestrom in []. The object of activity here is not only the code and game assets which participants are working on. In addition the emerging concept and group understanding of the game design pattern becomes a share understanding on a community level as playtesing, pair work and peer help happens.
-
-![Illustration 4.x - Shared object of implementing GDP  ](./Pictures/At_dia_4_v1.png){width=95%}
-
-
-#### On Template / Documentation use
-
-Other parents requested additional supporting resources which explained the coding structures used in accessible but detailed ways. A request which hinted at a more structured, instruction based approach.
-
-
-In addition, my own motivations to explore research claims which on the engagement value of prioritising modifications to for quick impact on the game and on allowing participants choose over what they wanted to add to their game next.
-
-
-#### Email on list for P1 - regarding the use of a template
-
-Hi there,
-
-Great session this week!
-
-We didn't get on to phaser this week but here are some games to remix in
-phaser and the tutorials
-
-You could try a similar approach to the one we did in scratch, upload
-our own images from piskel to replace the ones here.
-
-
-Phaser Platform Game Tutorial from Richard and Alvin
-https://thimbleprojects.org/piratepete/334344/
-tutorial
-https://phaser.io/tutorials/making-your-first-phaser-2-game/
-
-
-
-#### Additional commentary and analysis of Toby's vignette - MOVE TO EXTERNAL DOCUMENT
-
-
-By this stage, the process of collecting a user generated list of features and trying to respond to all of them as a facilitator had been abandoned as unrealistic. Instead a collection of GDPs had been created.
-
-Other participants were less proficient using this online resources and used printed out versions of documentation.
-
-After inserting the code which adds a moving enemy to the game, Toby spends five minutes altering the variables involved to match his design and to create a level of challenge that he is happy with.
-
-Toby makes quick progress. one factor here is willingness to make mistakes. There is a confidence here in undoing mistakes, commenting out new code to return to previous behaviour.
-
-The trial and error approach also yields benefits, a mistake in the values edited creates an unexpected result of the enemy moving vertically instead of horizontally. Within the objective of adding or altering game features (also referred to as game design patterns here), implementing more complicated patterns involved several stages and varied tools. Using the terminology of Leontiev [-@leontiev_activity_2009], participants undertakes certain chains of processes in a fluid way that shows that actions had become operations (as explored in chapter three). In vignette 4.x, an example of such an operation is Toby's quick navigation between different areas of the game code, the game preview window and other sources of documentation. In contrast, some tasks are new to Toby and are performed more hesitantly. In the vignette's description, it can be observed that at times Toby is careful and hesitant, checking and rechecking the process of copying and pasting new code into his game from the code example of a design pattern he has chosen.y. Toby embraces this mistake and shares his account of this happy accident enthusiastically.
-
-
-<!-- In the example above Toby progresses from playtesting his own game to altering it. The code to change the layout of the platforms of the game is already included in the starting template. Thus is able add a new platform by making simple code changes. Toby retests the game immediately by clicking on the preview element of the code environment.  -->
-
-<!-- However within that wider objective there may be a variety of goals depending on the participant. In this case Toby's goal is addresses the challenge and variety of the game playing experience. -->
-
-<!-- Toby builds his competence in the process of comparing the own code to the code example to work out what code is new and relevant to the desired behaviour. -->
-
-<!-- In the vignette of Toby's activity this wider objective is present in the facilitator orientation at the start which references this audience -  _the Monday after we can play our games and we can share them with students. We can make the students frustrated when they can’t beat our games_. At the end of the vignette text, one of the student helpers also imagines this audience playing the game of Toby.    -->
-
-
-
-#### Developing a collection of GDPs and code snippets
-
-These code examples allow users to see the behaviour in context with the code and output side by side. While code examples existed on the Phaser website and support forums, in line with other support sites like stack exchange, their utility
-
-<!-- The competency to overlook the concrete differences in code structure to abstract the principles away and to then apply those principles to the existing structure of their code project seemed too ambitious for this group of novices. -->
-
-<!-- Creating a bespoke set of code snippets helped address the challenges described above. In P1 I responded by creating one off documents with the relevant code which were both printed, emailed and shared via google drive. In line with the practice of accessing help via code snippets, the code examples could be to be copied and pasted into the game. This process lacked coherent process for participants to navigation to the resource they need. The process also lacked a consistency in signposting how the code listed fit within the existing structure.  -->
-
-<!-- a theory supported by observations of Toby's proficiency in the vignette above. -->
-
-<!-- As these tutorials took as a starting point the code of the starting template and did not attempt to explain that, they did not however resolve the issue of participants wanting resources that explained these core constructs and underlying concepts.
-
-I created opening chapters of the online manual which were more traditional in format and explained underlying concepts that the starting template had initially abstracted away from the participants.  -->
-
-<!-- To describe the relationship between the self-contained chapters described above and the process of backtracking to gain foundational knowledge, I used the term _meeting yourself in the middle_. In the supporting chapters this term represented the value of retracing initial steps as a way to explore the computing concepts present in the design. -->
-
-An example of parent Sh interaction with long form tutorial follows. Sh engaged with the long form resources. While this process did not involve dialogue, the recording of her screen allows for a detailed description of how the resources was used.
-Sh opens browswer to see list of code Examples, navigates to page, sees list of chapters, selects GDP pattern name, then follows along.
-FIND THIS EXAMPLE AND WRITE IT UP / SEE WHAT IT ADDS TO THIS SECTION.
-
-
-MOVE THIS TO THE NEXT BIT?
-Interestingly, the online menus was not used by participants in any regular or consistent way. However, it did have a trickle down effect. Some trailblazing participants did either browse it, use it to try to solve problems or were referred to it my the facilitators. The patterns that those learners implemented were then remarked upon by other learners and sometimes adopted via peer teaching.
-
-<!-- As explored in the literature review, it is difficult to explore this pedagogical approach relation to other similar programmes due to the lack of data on specifics of the learning materials presented to participants. -->
-
-
-<!-- While time consuming, the process of aligning documentation, code snippets with more general concepts of game analysis, served to simplify the navigation of documentation.  -->
-
-IS THIS NEEDED?
-The guiding principle is that key affordances of the supporting secondary stimuli are designed to closely align with the objectives of leading activity at the predominant scope of activity.In the language of the theoretical framework, I explore the process of working with GPDs as a germ cell of the overall game making activity.
-
-
-### Not sure if useful
-
-#### Developing Digital Literacy skills / Fluency - OPERATIONS
-
-
-
-- MOVE TO CHAP 7 > AS A TACTIC TO PROMOTE AGENCY - A TENSION?
-
-
-The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
-
-Perhaps play paradox here? Not a tension but something to design for? And thus backgrounding the aspects of computational thinking in favour of a more accessible experience using authentic technology. A reflection as a facilitator.
-
-<!-- This tension can be described as a play paradox. WHERE IS THIS FIRST INTRODUCED I was looking to avoid too much time spent in asset creation at the expense of other processes which would develop coding concepts and practices. It also increased the possibility of peer learning as less tools were being used. -->
-
-
-### Tensions in tool use emerging between agency and authenticity
-
-IF THINGS ARE TO STAY IT MUST BE DIRECTLY RELEVANT TO AGENCY
-IF THIS IS REALLY NEEDED IT WOULD NEED TO BE IN LR
-
-
-The object of the coders
-
-
-In terms of authenticity of audience, participants make a shareable digital game. The authentic goal of making a game allowed participants to draw on tacit knowledge and navigate within implicit bounds reducing the need for intrusive instruction which might negatively effect feelings of agency.
-
-PERHAPS EXPLORE PLAYTESTING HERE AS AUTHENTICITY OF AUDIENCE.
-In addition, playtesting processes are authentic and often informed by existing real experience as game players.
-
-MOVE TO CHAPTER 7?
-These observations on authenticity and playtesting are in-line with existing research outlining the value of playtesting in game-making [FIND] and to address cultural barriers to coding cultures [@disalvo_glitch_2009].
-Playtesting is explored in more detail in relation agency in Chapter 7.
-
-
-There are examples of the authenticity of the audience being used by participants
-
-  - Susanna uses the imagined audience to norm behaviour.
-  - Tehillah (Th) imagines the impact of her game on real students as a motivational factor and one which drives design decisions.
-
-
-The use of code playgrounds and js? structured along design principles which align with affordance theory.
-
-THEREFORE - WHAT IS THE KEY POINT HERE?
-
-While authenticity in coding context is potentially off-putting or prohibitive if too complex, it is motivating if linked with real life competencies and culturally relevant activities and outputs. In this context there is an explicit link between participant feelings of self-efficacy and their growing experiences of agency.
-
-Educators should be aware of this tension and help resolve it by developing their competency and using simplified professional tools. The benefits to leaners are increased experience of agency, through x, y and z. And the development of an activity systems which has the following benefits / characteristics.
-
-While this is broadly in line with PBL theories, and constructionism the use of CHAT perpective on agency brings some useful tools to the researcher and practitioner.
-CROSSREFF -  list the benefits here.
-
-
-
-**Summary of barriers and tensions explored in this chapter**
-
-
-
-Different areas of contradictions between different elements in activity systems emerged in journal notes and retropective analysis of evolution of the design. Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
-
-I propose that more granular understanding of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
 
 
 

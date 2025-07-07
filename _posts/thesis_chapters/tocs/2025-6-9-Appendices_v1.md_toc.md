@@ -9,21 +9,10 @@
             Sheets](#appendix-a3-full-participant-information-sheets)
         -   [A3a. Information Sheet for
             Parents](#a3a.-information-sheet-for-parents)
-            -   [What is the purpose of the
-                study?](#what-is-the-purpose-of-the-study)
-            -   [What will participation
-                involve?](#what-will-participation-involve)
-            -   [Who to contact](#who-to-contact)
         -   [A3b. Information Sheet for Young
             Participants](#a3b.-information-sheet-for-young-participants)
         -   [A3c. Information Sheet for
             Practitioners](#a3c.-information-sheet-for-practitioners)
-            -   [What is the purpose of the
-                study?](#what-is-the-purpose-of-the-study-1)
-            -   [Why have you been chosen?](#why-have-you-been-chosen)
-            -   [What will participation
-                involve?](#what-will-participation-involve-1)
-            -   [Who to contact](#who-to-contact-1)
     -   [Appendix B: Methodology
         contributions](#appendix-b-methodology-contributions)
         -   [Appendix B.1: Video data analysis workflow and
@@ -40,25 +29,12 @@
                 data.](#use-of-helping-roles-in-interview-data.)
         -   [Interview.1 - Madiha, Nasrin and
             Xavier](#interview.1---madiha-nasrin-and-xavier)
-            -   [Interview.1.a](#interview.1.a)
-            -   [Interview.1.b](#interview.1.b)
-            -   [Interview.1.b](#interview.1.b-1)
         -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
-            -   [Interview.2.a](#interview.2.a)
-            -   [Interview.2.b](#interview.2.b)
-            -   [Interview.2.](#interview.2.)
         -   [Interview.3 - Maggie and
             Toby](#interview.3---maggie-and-toby)
-            -   [Interview.3.a](#interview.3.a)
-            -   [Other extracts](#other-extracts)
         -   [Interview.4 - Dan](#interview.4---dan)
-            -   [Interview.4.a](#interview.4.a)
         -   [App.7.fdb - Feedback
             Extracts](#app.7.fdb---feedback-extracts)
-            -   [App.fdb.a - Susanna and Tehillah note on starting
-                games](#app.fdb.a---susanna-and-tehillah-note-on-starting-games)
-            -   [App.fdb.a - P1 end
-                evaluation](#app.fdb.a---p1-end-evaluation)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
@@ -69,8 +45,8 @@
         appendix](#appendix-d---learning-design-appendix)
         -   [Appendix D.1 - On software
             tools](#appendix-d.1---on-software-tools)
-        -   [Appendix D.? - Tools used in different phases of
-            activity](#appendix-d.---tools-used-in-different-phases-of-activity)
+            -   [Appendix D.? - Tools used in different phases of
+                activity](#appendix-d.---tools-used-in-different-phases-of-activity)
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
@@ -87,16 +63,13 @@
                 GDPs](#appendix-d.2-themeing---themeing-gdps)
             -   [Appendix 5.R.x - Sketching towards a map to help
                 navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
-        -   [Appendix D.x - Maker types and social
-            missions](#appendix-d.x---maker-types-and-social-missions)
-        -   [Appendix.bartle - Summary of interactive Bartle test - EDIT
-            DOWN LOADS - MOVE SOME TO BLOG
-            POST](#appendix.bartle---summary-of-interactive-bartle-test---edit-down-loads---move-some-to-blog-post)
+        -   [Appendix D.3 - Other intervention resources and
+            processes](#appendix-d.3---other-intervention-resources-and-processes)
+            -   [Appendix D.x - Maker types and social
+                missions](#appendix-d.x---maker-types-and-social-missions)
             -   [Maker types](#maker-types)
             -   [Playful Playtesting](#playful-playtesting)
             -   [Side missions](#side-missions)
-        -   [Appendix D.3 - Other supporting
-            resources](#appendix-d.3---other-supporting-resources)
             -   [Appendix D.? - Drama
                 process](#appendix-d.---drama-process)
             -   [Playful dialogue with the aliens unrelated to game
@@ -145,31 +118,11 @@
         -   [Concluding remarks on debugging and
             revision](#concluding-remarks-on-debugging-and-revision)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
+        -   [Developing Digital Literacy skills / Fluency - / & Play
+            paradox](#developing-digital-literacy-skills-fluency---play-paradox)
         -   [Vignette 7 -- `.map` -- Dialogue of use of physical maps at
             the start of session
             X](#vignette-7-.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
-    -   [Perhaps delete?](#perhaps-delete)
-        -   [Appendix 5.x - Community norming in playtesting - DROP THIS
-            ONE
-            PERHAPS](#appendix-5.x---community-norming-in-playtesting---drop-this-one-perhaps)
-        -   [5.dn - Expanded Design
-            Narrative](#dn---expanded-design-narrative)
-        -   [Shared object as GDP move to Ch
-            5](#shared-object-as-gdp-move-to-ch-5)
-            -   [On Template / Documentation
-                use](#on-template-documentation-use)
-            -   [Email on list for P1 - regarding the use of a
-                template](#email-on-list-for-p1---regarding-the-use-of-a-template)
-            -   [Additional commentary and analysis of Toby's vignette -
-                MOVE TO EXTERNAL
-                DOCUMENT](#additional-commentary-and-analysis-of-tobys-vignette---move-to-external-document)
-            -   [Developing a collection of GDPs and code
-                snippets](#developing-a-collection-of-gdps-and-code-snippets)
-        -   [Not sure if useful](#not-sure-if-useful)
-            -   [Developing Digital Literacy skills / Fluency -
-                OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
-        -   [Tensions in tool use emerging between agency and
-            authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
     -   [Final administrative appendix](#final-administrative-appendix)
         -   [Back up links to short URL
             resources](#back-up-links-to-short-url-resources)
