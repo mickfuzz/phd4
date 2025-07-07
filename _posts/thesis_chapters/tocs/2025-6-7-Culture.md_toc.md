@@ -52,8 +52,6 @@
         -   [Metaphors as a way to communicate dimensions of agency and
             related design
             concerns](#metaphors-as-a-way-to-communicate-dimensions-of-agency-and-related-design-concerns)
-            -   [Harbours as both protective and
-                authentic](#harbours-as-both-protective-and-authentic)
             -   [Jamming on the Titanic](#jamming-on-the-titanic)
             -   [Addressing both metaphors](#addressing-both-metaphors)
         -   [Conclusion](#conclusion)

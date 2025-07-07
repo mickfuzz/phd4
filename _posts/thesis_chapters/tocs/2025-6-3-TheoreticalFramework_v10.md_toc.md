@@ -1,4 +1,6 @@
 -   [Introduction](#introduction)
+-   [The foundational concepts of activity
+    theory](#the-foundational-concepts-of-activity-theory)
     -   [CHAT, 3GAT and expansive
         learning](#chat-3gat-and-expansive-learning)
     -   [Formative Interventions as a CHAT
