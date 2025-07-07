@@ -10,6 +10,7 @@ number-sections: true
 categories: chapter
 title: 9. Appendices
 ---
+
 -   [Appendices](#appendices)
     -   [On Structure of Appendices &
         Vignettes](#on-structure-of-appendices-vignettes)
@@ -32,6 +33,10 @@ title: 9. Appendices
             adaptations](#appendix-b.1-video-data-analysis-workflow-and-methodological-adaptations)
         -   [Summary table of data analysis of video
             data](#summary-table-of-data-analysis-of-video-data)
+        -   [Additional summary of phases of this study's
+            methodology](#additional-summary-of-phases-of-this-studys-methodology)
+        -   [Methodology - Back up links to short URL
+            resources](#methodology---back-up-links-to-short-url-resources)
     -   [Appendix C - Interview data & participant feedback or detailed
         observations](#appendix-c---interview-data-participant-feedback-or-detailed-observations)
         -   [Participants Interview questions - semi
@@ -39,20 +44,34 @@ title: 9. Appendices
         -   [Interview data summaries](#interview-data-summaries)
             -   [Use of helping roles in Interview
                 data.](#use-of-helping-roles-in-interview-data.)
-        -   [Interview.1 - Madiha, Nasrin and
-            Xavier](#interview.1---madiha-nasrin-and-xavier)
-        -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
-        -   [Interview.3 - Maggie and
-            Toby](#interview.3---maggie-and-toby)
-        -   [Interview.4 - Dan](#interview.4---dan)
-        -   [App.7.fdb - Feedback
-            Extracts](#app.7.fdb---feedback-extracts)
+            -   [Interview.1 - Madiha, Nasrin and
+                Xavier](#interview.1---madiha-nasrin-and-xavier)
+            -   [Interview.2 - Mark and Ed](#interview.2---mark-and-ed)
+            -   [Interview.3 - Maggie and
+                Toby](#interview.3---maggie-and-toby)
+            -   [Interview.4 - Dan](#interview.4---dan)
+            -   [App.7.fdb - Feedback
+                Extracts](#app.7.fdb---feedback-extracts)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
-        -   [Appendix.5.bee - Contextual Vignette on the conflict
-            experienced by one family & the 3D
-            Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
+        -   [c - Additional Smaller
+            Vignettes](#c---additional-smaller-vignettes)
+            -   [Appendix.C .dliteracy - Developing Digital Literacy
+                skills & Play
+                paradox](#appendix.c-.dliteracy---developing-digital-literacy-skills-play-paradox)
+        -   [Appendix.C .? - patching & and
+            debugging](#appendix.c-.---patching-and-debugging)
+            -   [Transcript of interaction explaining code
+                patching](#transcript-of-interaction-explaining-code-patching)
+            -   [Appendix.debugging GDPs used to nurture tactical
+                responses to coding
+                errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
+            -   [Appendix.C .bee - Contextual Vignette on the conflict
+                experienced by one family & the 3D
+                Bee](#appendix.c-.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
+            -   [Appendix. prototyping Use of visual
+                prototyping](#appendix.-prototyping-use-of-visual-prototyping)
     -   [Appendix D - Learning design
         appendix](#appendix-d---learning-design-appendix)
         -   [Appendix D.1 - On software
@@ -67,6 +86,8 @@ title: 9. Appendices
                 P2](#appendix-d.1.---design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
         -   [Appendix D.2 - Supporting
             documentation](#appendix-d.2---supporting-documentation)
+            -   [Appendix D.2.a Summary of online
+                resources](#appendix-d.2.a-summary-of-online-resources)
             -   [Appendix D.2? .samplechapter - Extract of supporting
                 resources - Sample chapter on Keys and Doors gameplay
                 design
@@ -77,67 +98,40 @@ title: 9. Appendices
                 navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
         -   [Appendix D.3 - Other intervention resources and
             processes](#appendix-d.3---other-intervention-resources-and-processes)
-            -   [Appendix D.x - Maker types and social
-                missions](#appendix-d.x---maker-types-and-social-missions)
+            -   [Appendix D.3.x - .map -- Dialogue of use of physical
+                maps at the start of session
+                X](#appendix-d.3.x---.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
+            -   [Appendix D.3.x - Maker types and social
+                missions](#appendix-d.3.x---maker-types-and-social-missions)
             -   [Maker types](#maker-types)
             -   [Playful Playtesting](#playful-playtesting)
             -   [Side missions](#side-missions)
-            -   [Appendix D.? - Drama
-                process](#appendix-d.---drama-process)
+        -   [Appendix D.4 - Drama
+            process](#appendix-d.4---drama-process)
             -   [Playful dialogue with the aliens unrelated to game
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
-        -   [Appendix.learningmap - Tension emerging in the Learning
-            Design regarding Computational Thinking
-            concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
-            -   [Evolution of the map](#evolution-of-the-map)
-            -   [Evolution of the Learning dimensions map - COPIED HERE
-                FROM CHAPTER
-                8](#evolution-of-the-learning-dimensions-map---copied-here-from-chapter-8)
-            -   [Background on learning Dimensions Map - -
-                COMPRESS?](#background-on-learning-dimensions-map-----compress)
+        -   [Appendix.D.5 - On the discovery, mapping and participant
+            experience of a map of learning
+            dimensions.](#appendix.d.5---on-the-discovery-mapping-and-participant-experience-of-a-map-of-learning-dimensions.)
+            -   [Reflection on personal appropriation of
+                concepts](#reflection-on-personal-appropriation-of-concepts)
+            -   [Evidence of CT in the
+                results](#evidence-of-ct-in-the-results)
             -   [The potential of learning and navigational
                 maps](#the-potential-of-learning-and-navigational-maps)
             -   [Tensions involving explicit teaching of curricular
                 concepts or
                 not](#tensions-involving-explicit-teaching-of-curricular-concepts-or-not)
-            -   [The more abstract definiton of
-                CT](#the-more-abstract-definiton-of-ct)
-            -   [Reflection on personal appropriation of
-                concepts](#reflection-on-personal-appropriation-of-concepts)
-        -   [Appendix.digitalliteracy](#appendix.digitalliteracy)
-        -   [Appendix.recommendations - for
-            practitioners.](#appendix.recommendations---for-practitioners.)
-            -   [Additional commentary from chapter
-                6.](#additional-commentary-from-chapter-6.)
-            -   [Practitioners can use GDPs to foster of culture, home
-                interests and evolving participation in an
-                idioculture](#practitioners-can-use-gdps-to-foster-of-culture-home-interests-and-evolving-participation-in-an-idioculture)
-            -   [GDPs again - Move some of this to Chapter 2 if
-                helpful?](#gdps-again---move-some-of-this-to-chapter-2-if-helpful)
-    -   [Technical Appendix One - On technical aspects of the decision
-        regarding the learning
-        design](#technical-appendix-one---on-technical-aspects-of-the-decision-regarding-the-learning-design)
-        -   [Summary of Phases removed from Chapter
-            4.](#summary-of-phases-removed-from-chapter-4.)
-            -   [Appendix.tech.prototyping Use of visual
-                prototyping](#appendix.tech.prototyping-use-of-visual-prototyping)
-    -   [Technical Appendix Two - On reaction to
-        tech](#technical-appendix-two---on-reaction-to-tech)
-        -   [Appendix.patching](#appendix.patching)
-        -   [Appendix.debugging GDPs used to nurture tactical responses
-            to coding
-            errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
-        -   [Concluding remarks on debugging and
-            revision](#concluding-remarks-on-debugging-and-revision)
+    -   [Appendix E .recommendations - for practitioners - KEEP OR
+        DROP?](#appendix-e-.recommendations---for-practitioners---keep-or-drop)
+        -   [Additional commentary from chapter
+            6.](#additional-commentary-from-chapter-6.)
+        -   [Practitioners can use GDPs to foster of culture, home
+            interests and evolving participation in an
+            idioculture](#practitioners-can-use-gdps-to-foster-of-culture-home-interests-and-evolving-participation-in-an-idioculture)
+        -   [GDPs again - Move some of this to Chapter 2 if
+            helpful?](#gdps-again---move-some-of-this-to-chapter-2-if-helpful)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
-        -   [Developing Digital Literacy skills / Fluency - / & Play
-            paradox](#developing-digital-literacy-skills-fluency---play-paradox)
-        -   [Vignette 7 -- `.map` -- Dialogue of use of physical maps at
-            the start of session
-            X](#vignette-7-.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
-    -   [Final administrative appendix](#final-administrative-appendix)
-        -   [Back up links to short URL
-            resources](#back-up-links-to-short-url-resources)
 
 # Appendices
 
@@ -1209,7 +1203,7 @@ ADD IN DETAIL FROM P3 -
 
 
 
-### Appendix D.? - Drama process
+### Appendix D.4 - Drama process
 
 **Exploring documentation and accessing technical help within the drama frame**
 
@@ -1234,11 +1228,12 @@ The process started with supportive and celebratory messages posted from the ali
 
 
 
-
-
-### Appendix.learningmap - Tension emerging in the Learning Design regarding Computational Thinking concepts
+### Appendix.D.5 - On the discovery, mapping and participant experience of a map of learning dimensions.
 
 This appendix outlines the evolution of a map of learning dimensions which is referenced in Chapter 6. A section section contains reflections on the aspect of the learning design which suit curricular approaches to computing and computational thinking.
+
+
+Similarly, one of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. Table 4.x. shows my resulting map of learning dimensions. While some concepts are common to existing computational thinking frameworks others, including systems thinking concepts, are more unique to game making. The choice to include some elements over others is based on a synthesis of the experience of participants, existing frameworks in this domain (previously explored in the LR), and my own interpretation which privileged under explored elements like systems patterns. Due to the dominance personal input, this framework is offered as starting point which could benefit from the type of collaborative analysis undertaken in Bevan and Petrich's process.
 
 
 |      Coding Concepts    | Systems Patterns    | Design Practices|
@@ -1259,7 +1254,18 @@ Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 Research on _concept maps_ [@canas2003summary] as methods for teachers and researchers to identify key learning suited to particular computing projects has gained traction in the field of computing education [@keppens_concept_2008; @noauthor_quick_2020; @weinerth_concept_2014]. The value of facilitators presenting concepts  and asking students to create maps of concepts for formative assessment. In addition, there is value in mapping which are likely to occur in project work especially when such concepts are embedded in activity in a way which resists superficial analysis. Research on hands-on tinkering in science museums by Bevan and Petrich [-@petrich_it_2013] together with educators examined video footage of families interacting with exhibits to make a structured list of the learning they observed. Their resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
 
-Similarly, one of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. Table 4.x. shows my resulting map of learning dimensions. While some concepts are common to existing computational thinking frameworks others, including systems thinking concepts, are more unique to game making. The choice to include some elements over others is based on a synthesis of the experience of participants, existing frameworks in this domain (previously explored in the LR), and my own interpretation which privileged under explored elements like systems patterns. Due to the dominance personal input, this framework is offered as starting point which could benefit from the type of collaborative analysis undertaken in Bevan and Petrich's process.
+
+
+#### The potential of learning  maps
+
+This process of mapping this framework is potentially of use for teachers and other researchers to help their observation of students in game making activities to align with design, coding and computational concepts. Offering student choice in project work can create stressful demands on a teacher trying to support a diverse design paths [@blumenfeld_motivating_1991; @cole_fifth_2006]. To address this issue practically, rather than students working on varied game types and features, I restricted the genre of game and offered a significant but limited menu of features, a process explored in the next section. The mapping of specific design features to the related concepts, as outlined above, has potential to aid teachers and students to track and correlate the underlying curricular concepts being explored in these divergent learning pathways.
+
+The process of adapting this learning design to the needs of more formal settings can be aligned to existing research on this area. For example the concept of semantic waves is relevant here as a way of visioning the alternation between concrete design experience and communicating the underlying abstract concepts [@curzon_using_2020; @maton_making_2013].   
+
+However, despite this alignment and potential utility in a school setting, I was reluctant to introduce these resources in this informal context, reflecting the lack of external motivation for participants to align with curricular demands driven by exam requirements. Introducing additional mediational tools with the aim of the communicating and reinforcing abstract computing or systems concepts risked effectively establishing a new competing activity system. This perspective validates my reluctance to introduce additional distracting stimulus, instead prioritising time spent in on-going hands on experimentation, peer learning and playful activities. Additionally, while this approach aligns with situated  understandings of knowledge which problematise the separation of the content to be learned from the embodied social activity itself [@rogoff_observing_1995; @leontev_problem_1974], this alignment did not halt my concern over remaining locked into concrete experience and not developing awareness of repeated abstract concepts which could be of future generalised utility [@maton_making_2013].
+
+My ongoing discomfort surrounding the validity of the learning experience without direct alignment to abstract content, stem from wider concerns around avoiding danger of tacit learning by reinforcing learning and spur metacognition [@gherardi_toward_1998]. Even if generalisable concepts can be encountered in the context of an learner-driven activity, they may not be explored without guidance from others. Hoyles and Noss term this tension a 'play paradox' [@hoyles_pedagogy_1992, p.46]. This theme is explored in more detail in chapter six concentrating on social processes rather than external documentation.
+
 
 <!-- In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. -->
 
@@ -1286,29 +1292,43 @@ In P4 I wanted to create resources and processes which are of potential value to
 
 <!-- NOTE WHY THESE CONCEPTS? -->
 
-|      Coding Concepts    | Systems Patterns    | Design Practices|
-|--------------|-----------|------------|
-| Sequences | Systems Elements      | Goal Setting        |
-| Variables      | Systems Dynamics  | Being Incremental and Iterative       |
-| Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
-| Loops | Balancing Feedback Loops      | Web Navigation    |
-| Arrays |       | Problem Solving        |
-| Creating Functions |       | Version Control    |
-| Change Listener |    | Debugging   |
-| Input Event |   | Reusing and Remixing      |
 
 To illustrate these concepts in more depth, I created concise descriptions of the concepts [^2], and cross referenced with examples of the concepts in practice in the application common game features[^3]. This process aimed to be an aid to my existing attempts to highlight relevant concepts in-situ.
 
 In journal notes I note my attempts to find learning relating to abstract concepts happening in-situ. A common example of use of loops or arrays or functions. I would highlight their use by participants and link to their activity. This mirrors the concept of the value of abstract in context for wider application is underlined in the work Davydov of rising to the concrete [@valsiner_cultural-historical_2007].
 
-#### The potential of learning and navigational maps
 
-This process of mapping this framework is potentially of use for teachers and other researchers to help their observation of students in game making activities to align with design, coding and computational concepts. Offering student choice in project work can create stressful demands on a teacher trying to support a diverse design paths [@blumenfeld_motivating_1991; @cole_fifth_2006]. To address this issue practically, rather than students working on varied game types and features, I restricted the genre of game and offered a significant but limited menu of features, a process explored in the next section. The mapping of specific design features to the related concepts, as outlined above, has potential to aid teachers and students to track and correlate the underlying curricular concepts being explored in these divergent learning pathways.
+#### Reflection on personal appropriation of concepts
 
-The process of adapting this learning design to the needs of more formal settings can be aligned to existing research on this area. For example the concept of semantic waves is relevant here as a way of visioning the alternation between concrete design experience and communicating the underlying abstract concepts [@curzon_using_2020; @maton_making_2013].   
+**Interview data**
 
-However, despite this alignment and potential utility in a school setting, I was reluctant to introduce these resources in this informal context, reflecting the lack of external motivation for participants to align with curricular demands driven by exam requirements. Introducing additional mediational tools with the aim of the communicating and reinforcing abstract computing or systems concepts risked effectively establishing a new competing activity system. This perspective validates my reluctance to introduce additional distracting stimulus, instead prioritising time spent in on-going hands on experimentation, peer learning and playful activities. Additionally, while this approach aligns with situated  understandings of knowledge which problematise the separation of the content to be learned from the embodied social activity itself [@rogoff_observing_1995; @leontev_problem_1974], this alignment did not halt my concern over remaining locked into concrete experience and not developing awareness of repeated abstract concepts which could be of future generalised utility [@maton_making_2013]. My ongoing discomfort surrounding the validity of the learning experience without direct alignment to abstract content, stem from wider concerns around avoiding danger of tacit learning by reinforcing learning and spur metacognition [@gherardi_toward_1998]. Even if generalisable concepts can be encountered in the context of an learner-driven activity, they may not be explored without guidance from others. Hoyles and Noss term this tension a 'play paradox' [@hoyles_pedagogy_1992, p.46]. This theme is explored in more detail in chapter six concentrating on social processes rather than external documentation.
+Transcript of S and J
+The testing of the jigsaw activity
 
+While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
+
+
+
+#### Evidence of CT in the results
+
+Even, taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
+
+_Abstraction_:  identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter. The work of Dan and Toby beyond the template?
+
+_Decomposition_: example of parents helping children break a larger problems into more manageable steps e.g one parent suggests to his child "Save that for version 1.1".  
+
+_Generalisation / pattern recognition_ is present in the majority of participants as patterns are readily available to participants in starting code and the extra patches that are added. The process is repeated.
+
+_Sequencing / algorithms_ are frequently explored in the resolution of errors with participants. This exploration focuses on the potential of the 3M learning design rather than making claims on the suitability to develop CT via game making which is explored extensively in other research.
+
+Conceptions of personal appropriation should not be limited to only the curricular concepts included in the learning map, the many of the behaviours explored above show both the appropriation and feeding back of varied understandings of game design patterns and related concepts and skills. The process of reusing and modify code to create a computer game can surface both abstract and concrete computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. While the design of this study does not suit full exploration of the personal plane of activity, the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge and design processes.
+In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?).
+
+
+Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
+
+My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
+THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
 
 
 #### Tensions involving explicit teaching of curricular concepts or not
@@ -1400,40 +1420,3 @@ place here
 NOTE HOW MUCH OF THIS SHOULD GO IN CHAPTER 7 ?
 
 An interaction on the visual map included for completeness and link to the 5tD intervention.
-
-
-
-## To move / delete
-
-#### The more abstract definiton of CT
-
-In Chapter 7, I outline how design decisions requiring the application of abstract CT concepts based on Wings definition were to a great extent black boxed in the learning design outlined in Chapter 5.
-
-However, the design also allowed people to forge their own path and make diversion from the suggested genre and choice of GDPs.
-
-Even, taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
-
-_Abstraction_:  identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter. The work of Dan and Toby beyond the template?
-_Decomposition_: example of parents helping children break a larger problems into more manageable steps e.g one parent suggests to his child "Save that for version 1.1".  
-_Generalisation / pattern recognition_ is present in the majority of participants as patterns are readily available to participants in starting code and the extra patches that are added. The process is repeated.
-_Sequencing / algorithms_ are frequently explored in the resolution of errors with participants. This exploration focuses on the potential of the 3M learning design rather than making claims on the suitability to develop CT via game making which is explored extensively in other research.
-
-Conceptions of personal appropriation should not be limited to only the curricular concepts included in the learning map, the many of the behaviours explored above show both the appropriation and feeding back of varied understandings of game design patterns and related concepts and skills. The process of reusing and modify code to create a computer game can surface both abstract and concrete computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. While the design of this study does not suit full exploration of the personal plane of activity, the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge and design processes.
-In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?).
-
-
-Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
-
-My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
-THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
-
-#### Reflection on personal appropriation of concepts
-
-**Interview data**
-
-Transcript of S and J
-The testing of the jigsaw activity
-
-While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
-
-Also move some of the above down here.
