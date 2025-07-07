@@ -1,4 +1,6 @@
 -   [Appendices](#appendices)
+    -   [On Structure of Appendices &
+        Vignettes](#on-structure-of-appendices-vignettes)
     -   [Appendix A: Ethics and
         recruitment](#appendix-a-ethics-and-recruitment)
         -   [A2: Game Making Club follow up
@@ -29,10 +31,11 @@
             adaptations](#appendix-b.1-video-data-analysis-workflow-and-methodological-adaptations)
         -   [Summary table of data analysis of video
             data](#summary-table-of-data-analysis-of-video-data)
-    -   [Appendix C - Interview data](#appendix-c---interview-data)
+    -   [Appendix C - Interview data & participant feedback or detailed
+        observations](#appendix-c---interview-data-participant-feedback-or-detailed-observations)
         -   [Participants Interview questions - semi
             structured](#participants-interview-questions---semi-structured)
-        -   [Interview.summaries](#interview.summaries)
+        -   [Interview data summaries](#interview-data-summaries)
             -   [Use of helping roles in Interview
                 data.](#use-of-helping-roles-in-interview-data.)
         -   [Interview.1 - Madiha, Nasrin and
@@ -56,37 +59,48 @@
                 games](#app.fdb.a---susanna-and-tehillah-note-on-starting-games)
             -   [App.fdb.a - P1 end
                 evaluation](#app.fdb.a---p1-end-evaluation)
-    -   [On Structure of Appendices &
-        Vignettes](#on-structure-of-appendices-vignettes)
-    -   [Appendix.design.p1](#appendix.design.p1)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
         -   [Appendix.5.bee - Contextual Vignette on the conflict
             experienced by one family & the 3D
             Bee](#appendix.5.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
-        -   [Appendix.themeing - Themeing
-            GDPs](#appendix.themeing---themeing-gdps)
+    -   [Appendix D - Learning design
+        appendix](#appendix-d---learning-design-appendix)
+        -   [Appendix D.1 - On software
+            tools](#appendix-d.1---on-software-tools)
+        -   [Appendix D.? - Tools used in different phases of
+            activity](#appendix-d.---tools-used-in-different-phases-of-activity)
+            -   [Description of types of activities involved in game
+                making and the tools used to do
+                them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+            -   [Appendix D.1.? - Design decisions in the technical
+                decisions of the template design in
+                P2](#appendix-d.1.---design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
+        -   [Appendix D.2 - Supporting
+            documentation](#appendix-d.2---supporting-documentation)
+            -   [Appendix D.2? .samplechapter - Extract of supporting
+                resources - Sample chapter on Keys and Doors gameplay
+                design
+                chapter](#appendix-d.2-.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
+            -   [Appendix D.2? themeing - Themeing
+                GDPs](#appendix-d.2-themeing---themeing-gdps)
             -   [Appendix 5.R.x - Sketching towards a map to help
                 navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
-        -   [Appendix 7.makertypes (and social
-            missions)](#appendix-7.makertypes-and-social-missions)
-            -   [What kind of Maker are you - Motivations behind social
-                processes (emerging in
-                playtesting)](#what-kind-of-maker-are-you---motivations-behind-social-processes-emerging-in-playtesting)
-            -   [Appendix.playtestingtypes (Ch.
-                7)](#appendix.playtestingtypes-ch.-7)
-            -   [Commentary on side
-                missions](#commentary-on-side-missions)
-        -   [Appendix.drama - Drama process
-            -](#appendix.drama---drama-process--)
-            -   [Exploring documentation and accessing technical help
-                within the drama
-                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
+        -   [Appendix D.x - Maker types and social
+            missions](#appendix-d.x---maker-types-and-social-missions)
+        -   [Appendix.bartle - Summary of interactive Bartle test - EDIT
+            DOWN LOADS - MOVE SOME TO BLOG
+            POST](#appendix.bartle---summary-of-interactive-bartle-test---edit-down-loads---move-some-to-blog-post)
+            -   [Maker types](#maker-types)
+            -   [Playful Playtesting](#playful-playtesting)
+            -   [Side missions](#side-missions)
+        -   [Appendix D.3 - Other supporting
+            resources](#appendix-d.3---other-supporting-resources)
+            -   [Appendix D.? - Drama
+                process](#appendix-d.---drama-process)
             -   [Playful dialogue with the aliens unrelated to game
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
-        -   [Appendix.bartle - Summary of interactive Bartle
-            test](#appendix.bartle---summary-of-interactive-bartle-test)
         -   [Appendix.learningmap - Tension emerging in the Learning
             Design regarding Computational Thinking
             concepts](#appendix.learningmap---tension-emerging-in-the-learning-design-regarding-computational-thinking-concepts)
@@ -118,34 +132,10 @@
     -   [Technical Appendix One - On technical aspects of the decision
         regarding the learning
         design](#technical-appendix-one---on-technical-aspects-of-the-decision-regarding-the-learning-design)
-        -   [Tools used in different phases of
-            activity](#tools-used-in-different-phases-of-activity)
-            -   [Description of types of activities involved in game
-                making and the tools used to do
-                them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
         -   [Summary of Phases removed from Chapter
             4.](#summary-of-phases-removed-from-chapter-4.)
-        -   [Appendix.tech.samplechapter - Extract of supporting
-            resources - Sample chapter on Keys and Doors gameplay design
-            chapter](#appendix.tech.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
-            -   [Game Space: Keys and Doors](#game-space-keys-and-doors)
-        -   [Appendix.tech.gameframework - Framework to support game
-            analysis via game elements
-            -](#appendix.tech.gameframework---framework-to-support-game-analysis-via-game-elements--)
-        -   [Design decisions in the technical decisions of the template
-            design in
-            P2](#design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
-            -   [Using a structural
-                template](#using-a-structural-template)
-            -   [Summary of motivations and sources of P2
-                template](#summary-of-motivations-and-sources-of-p2-template)
             -   [Appendix.tech.prototyping Use of visual
                 prototyping](#appendix.tech.prototyping-use-of-visual-prototyping)
-            -   [Using Phaser 2 not 3 & Game
-                States](#using-phaser-2-not-3-game-states)
-                -   [Template structure and asset placement - Add in
-                    Chapter tutorial example extract here
-                    too](#template-structure-and-asset-placement---add-in-chapter-tutorial-example-extract-here-too)
     -   [Technical Appendix Two - On reaction to
         tech](#technical-appendix-two---on-reaction-to-tech)
         -   [Appendix.patching](#appendix.patching)
