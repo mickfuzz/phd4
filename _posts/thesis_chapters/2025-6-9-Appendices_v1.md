@@ -144,20 +144,13 @@ title: 9. Appendices
 
 ## On Structure of Appendices & Vignettes
 
-Vignette are presented first and given a separate name based on when they appear in the thesis. In the interim before for a final appendix is completed they use descriptive names.
+**Vignettes:**  Vignettes contain extended transcription of discourse and when possible participant gestures and inline commentary. Vignettes are contained in a special appendix section.
 
-Technical appendices follow. They contain some overlap with chapter material in order to be self contained. The
-
-Other Appendices will be organised by chapter. Thus AP 5.1 is is the first mentioned in Chapter 5. In the interim before for a final appendix is completed they use descriptive names.
-
-The following summary list of appendices my help orientate the reader.
-MOVE LIST ABOVE HERE WHEN STABLE ENOUGH  
-
-
-**Vignettes:**  Vignettes contain extended transcription of discourse and when possible participant gestures and inline commentary. Vignettes are contained in another chapter / document (due currently to the need for more complicated tables that writing in markdown allows)
-
-
-
+- Recruitment & administrative
+- Methodology section
+- Interviews, smaller vignettes, & specialist findings
+- Learning design
+- Recommendations for practitioners (summary if needed?)
 
 ## Appendix A: Ethics and recruitment
 
@@ -500,7 +493,6 @@ Athena (P1.debrief) also shared reflections on the issues of family and home edu
 
 
 ### Email to participants in mid-P1 -  Never mind the bees. I need your help too!
-
 
 Mick Chesterman<M.Chesterman@mmu.ac.uk>
 
