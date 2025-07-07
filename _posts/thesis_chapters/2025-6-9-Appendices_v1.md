@@ -10,17 +10,40 @@ number-sections: true
 categories: chapter
 title: 9. Appendices
 ---
-
 -   [Appendices](#appendices)
-    -   [Ethics](#ethics)
-        -   [Game Making Club and Study Recruitment
-            Material](#game-making-club-and-study-recruitment-material)
-        -   [Participant Information
-            Sheet](#participant-information-sheet)
-        -   [Game Making Club follow up
-            email](#game-making-club-follow-up-email)
-    -   [Interviews](#interviews)
-        -   [Practioner interviews](#practioner-interviews)
+    -   [Appendix A: Ethics and
+        recruitment](#appendix-a-ethics-and-recruitment)
+        -   [A2: Game Making Club follow up
+            email](#a2-game-making-club-follow-up-email)
+        -   [Appendix A3: Full Participant Information
+            Sheets](#appendix-a3-full-participant-information-sheets)
+        -   [A3a. Information Sheet for
+            Parents](#a3a.-information-sheet-for-parents)
+            -   [What is the purpose of the
+                study?](#what-is-the-purpose-of-the-study)
+            -   [What will participation
+                involve?](#what-will-participation-involve)
+            -   [Who to contact](#who-to-contact)
+        -   [A3b. Information Sheet for Young
+            Participants](#a3b.-information-sheet-for-young-participants)
+        -   [A3c. Information Sheet for
+            Practitioners](#a3c.-information-sheet-for-practitioners)
+            -   [What is the purpose of the
+                study?](#what-is-the-purpose-of-the-study-1)
+            -   [Why have you been chosen?](#why-have-you-been-chosen)
+            -   [What will participation
+                involve?](#what-will-participation-involve-1)
+            -   [Who to contact](#who-to-contact-1)
+    -   [Appendix B: Methodology
+        contributions](#appendix-b-methodology-contributions)
+        -   [Appendix B.1: Video data analysis workflow and
+            methodological
+            adaptations](#appendix-b.1-video-data-analysis-workflow-and-methodological-adaptations)
+        -   [Summary table of data analysis of video
+            data](#summary-table-of-data-analysis-of-video-data)
+    -   [Appendix C - Interview data](#appendix-c---interview-data)
+        -   [Participants Interview questions - semi
+            structured](#participants-interview-questions---semi-structured)
         -   [Interview.summaries](#interview.summaries)
             -   [Use of helping roles in Interview
                 data.](#use-of-helping-roles-in-interview-data.)
@@ -109,35 +132,11 @@ title: 9. Appendices
         design](#technical-appendix-one---on-technical-aspects-of-the-decision-regarding-the-learning-design)
         -   [Tools used in different phases of
             activity](#tools-used-in-different-phases-of-activity)
-        -   [Appendix 5.tech - Summary of the tools and processes used
-            in P1, P2 and
-            P3.](#appendix-5.tech---summary-of-the-tools-and-processes-used-in-p1-p2-and-p3.)
-            -   [Description of tools used](#description-of-tools-used)
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
         -   [Summary of Phases removed from Chapter
             4.](#summary-of-phases-removed-from-chapter-4.)
-            -   [D1: Initial research and development - August and
-                September
-                2017](#d1-initial-research-and-development---august-and-september-2017)
-            -   [P1: A phase of exploratory, co-creative game making -
-                October 2017 to March
-                2018](#p1-a-phase-of-exploratory-co-creative-game-making---october-2017-to-march-2018)
-            -   [D2: Development Stage - May 2018 to December
-                2018](#d2-development-stage---may-2018-to-december-2018)
-            -   [P2: Accelerated game making programme - 5 weeks in
-                January to February
-                2019](#p2-accelerated-game-making-programme---5-weeks-in-january-to-february-2019)
-            -   [P3: Adding a process drama to the game making
-                programme: 5 weeks in May
-                2019](#p3-adding-a-process-drama-to-the-game-making-programme-5-weeks-in-may-2019)
-            -   [D3: research and development - Make Code - November
-                2019 to September
-                2020](#d3-research-and-development---make-code---november-2019-to-september-2020)
-            -   [P4: MakeCode Arcade 1- November 2019 to DEc
-                2020](#p4-makecode-arcade-1--november-2019-to-dec-2020)
-            -   [P5: MakeCode Arcade 2](#p5-makecode-arcade-2)
         -   [Appendix.tech.samplechapter - Extract of supporting
             resources - Sample chapter on Keys and Doors gameplay design
             chapter](#appendix.tech.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
@@ -168,6 +167,9 @@ title: 9. Appendices
         -   [Concluding remarks on debugging and
             revision](#concluding-remarks-on-debugging-and-revision)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
+        -   [Vignette 7 -- `.map` -- Dialogue of use of physical maps at
+            the start of session
+            X](#vignette-7-.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
     -   [Perhaps delete?](#perhaps-delete)
         -   [Appendix 5.x - Community norming in playtesting - DROP THIS
             ONE
@@ -190,18 +192,29 @@ title: 9. Appendices
                 OPERATIONS](#developing-digital-literacy-skills-fluency---operations)
         -   [Tensions in tool use emerging between agency and
             authenticity](#tensions-in-tool-use-emerging-between-agency-and-authenticity)
-    -   [Participants Interview questions - semi structured
-        -](#participants-interview-questions---semi-structured--)
-        -   [Introductory Questions](#introductory-questions)
-        -   [Personal Dimensions](#personal-dimensions)
-        -   [Material Dimensions](#material-dimensions)
-        -   [Social Dimensions](#social-dimensions)
-        -   [Cultural Dimensions](#cultural-dimensions)
     -   [Final administrative appendix](#final-administrative-appendix)
         -   [Back up links to short URL
             resources](#back-up-links-to-short-url-resources)
 
 # Appendices
+
+
+## On Structure of Appendices & Vignettes
+
+Vignette are presented first and given a separate name based on when they appear in the thesis. In the interim before for a final appendix is completed they use descriptive names.
+
+Technical appendices follow. They contain some overlap with chapter material in order to be self contained. The
+
+Other Appendices will be organised by chapter. Thus AP 5.1 is is the first mentioned in Chapter 5. In the interim before for a final appendix is completed they use descriptive names.
+
+The following summary list of appendices my help orientate the reader.
+MOVE LIST ABOVE HERE WHEN STABLE ENOUGH  
+
+
+**Vignettes:**  Vignettes contain extended transcription of discourse and when possible participant gestures and inline commentary. Vignettes are contained in another chapter / document (due currently to the need for more complicated tables that writing in markdown allows)
+
+
+
 
 ## Appendix A: Ethics and recruitment
 
@@ -339,15 +352,72 @@ The table below provides an initial summary of  approaches employed at different
 
 
 
-## Appendix C - Interview data
+## Appendix C - Interview data & participant feedback or detailed observations
 
 These interview extracts are presented sometimes with commentary and sometimes without as they are directly reference from commentary in chapters.
 
-###  Practioner interviews
+<!-- ###  Practioner interviews
 
-Saskia Leggett is a researcher who was active in the in Creative Family Learning program under direction of Ricarosa Roque. She took a leading role in creating the programme's support resources. Matt Curinga is an academic at Columbia and teaches in educational technology and computer science. He is also active in a non-profit organisation, Zero Day Camp, promoting learning coding and engineering through engaging projects. Dave  Potts is a professional programmer and a parent and volunteer at Coder Dojo which is a volunteer run teaching technology monthly event. James Clegg is PGCE Computing student/teacher and volunteer student helper for the game making programme.
+Saskia Leggett is a researcher who was active in the in Creative Family Learning program under direction of Ricarosa Roque. She took a leading role in creating the programme's support resources. Matt Curinga is an academic at Columbia and teaches in educational technology and computer science. He is also active in a non-profit organisation, Zero Day Camp, promoting learning coding and engineering through engaging projects. Dave  Potts is a professional programmer and a parent and volunteer at Coder Dojo which is a volunteer run teaching technology monthly event. James Clegg is PGCE Computing student/teacher and volunteer student helper for the game making programme. -->
 
-### Interview.summaries
+
+### Participants Interview questions - semi structured
+
+**Background & Purpose of Interview**
+
+The interview will support my studies of **family game making** through an exploration of the aims, issues faced and types of learning you promote in your program/s.
+
+There’s more info here - [https://docs.google.com/document/d/1qSpeVjLi2CMs2HCWL\_In1WAM-egPXpCLQl3F6wdxNJ8/edit](https://docs.google.com/document/d/1qSpeVjLi2CMs2HCWL_In1WAM-egPXpCLQl3F6wdxNJ8/edit)
+
+**Introductory Questions**
+
+-   In a nutshell, can you tell me about what you have done on the game making activities?
+-   What are some of the background factors that motivate you taking part in these activities?
+-   Is there anything that jumped out as successful
+-   Was anything unexpected?
+
+**Personal Dimensions**
+
+-   What knowledge or skills are you trying to build by taking part?
+-   What about personal attributes / qualities
+-   Can you tell me more about any specific activities that did built knowledge or attributes?
+-   Tell me about any  times you felt you could bring your own identities or interests into your making processes?
+-   Tell me more about how that happened and any impact it had on you.
+-   Tell me any times you felt you could choose your next steps or your own path of progression in your activities
+-   Tell me more about how that happened and any impact it had on you.
+
+**Material Dimensions**
+
+-   Tell me about the software or hardware tools or materials you used
+-   How did they impact on how or how much you were able to collaborate?
+-   Did they make some of your goals easier or harder?
+-   What was your general thinking around these tools or materials, any other reactions?
+-   What about the resources used, printed or online? Similar questions to the above.
+
+**Social Dimensions**
+
+-   What are your recollections of any  social dimensions of learning you recall from the game making programme? Either Unstructured interaction or more structured, directed interaction
+-   Tell me about any specific activities or resources that you think may have supported this social approach to learning?
+-   What challenges do you think existed in this area?
+-   What are the pros and cons of working with families?
+-   What are the pros and cons of working with other families?
+-   Do you think the family nature of the programme impacted on how activities evolved?
+-   What observations about intergenerational interaction did you made?
+-   Are there particular any emerging patterns or roles of collaborative interaction that started to happen?
+-   Is there any other impact that the family learning environment have on the overall programme?
+
+**Cultural Dimensions**
+
+-   Were you able to bring in interests of identities from family life to the programme
+-   Could you draw on any other activities or groups you are a part of?
+-   Did you make any links to any real life groups of people or communities outside the game making programme
+-   Are there tensions or challenges or advantages about concerning linking with outside communities?
+-   Are there other cultural factors which interacted with the game making programme?
+
+
+
+
+### Interview data summaries
 
 #### Use of helping roles in Interview data.
 
@@ -455,36 +525,6 @@ Athena (P1.debrief) also shared reflections on the issues of family and home edu
     If parents and kids work together, social rules are stuck to, in that the adults lead a learning process.
 
 
-## On Structure of Appendices & Vignettes
-
-Vignette are presented first and given a separate name based on when they appear in the thesis. In the interim before for a final appendix is completed they use descriptive names.
-
-Technical appendices follow. They contain some overlap with chapter material in order to be self contained. The
-
-Other Appendices will be organised by chapter. Thus AP 5.1 is is the first mentioned in Chapter 5. In the interim before for a final appendix is completed they use descriptive names.
-
-The following summary list of appendices my help orientate the reader.
-MOVE LIST ABOVE HERE WHEN STABLE ENOUGH  
-
-
-**Vignettes:**  Vignettes contain extended transcription of discourse and when possible participant gestures and inline commentary. Vignettes are contained in another chapter / document (due currently to the need for more complicated tables that writing in markdown allows)
-
-
-
-## Appendix.design.p1
-
-As my ex-neighbour Barry once said to me, _there are a million ways to start a conversation_. There are probably just as many to start the process of designing and making a game using code as well. In choosing how to present the appendices of this study I try to do so in an accessible narrative which draws on my extensive facilitation and design journal notes to contextualise the findings from video data. I justify this partial approach in line with Stetsenko's activist stance described in Chapter 4.
-
-This section augments the brief narrative of P1 in Chapter 5 outline my motivations and observations driving learning design decisions.  
-
-I did not want to start with coding processes that might alienate, but also as my own game coding skills were also being tested to their limits at this point also and I was working hard to introduce coding at a suitable level. I had experience of teaching web coding but limited knowledge of how to code games. Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
-
-Thus for initial weeks I engaged with the following activities.
-
-In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges.
-
-
-Chapter 5 outlines how this culminated in a crisis which involved me reaching out to parents for help in the organisation of the game making sessions via the  following email.
 
 ### Email to participants in mid-P1 -  Never mind the bees. I need your help too!
 
@@ -563,10 +603,236 @@ That week I had omitted them as I felt a sense of urgency coming from families t
 
 
 
+## Appendix D - Learning design appendix
 
-### Appendix.themeing -  Themeing GDPs
+<!-- As my ex-neighbour Barry once said to me, _there are a million ways to start a conversation_. There are probably just as many to start the process of designing and making a game using code as well. In choosing how to present the appendices of this study I try to do so in an accessible narrative which draws on my extensive facilitation and design journal notes to contextualise the findings from video data. I justify this partial approach in line with Stetsenko's activist stance described in Chapter 4. -->
+
+<!-- This section augments the brief narrative of P1 in Chapter 5 outline my motivations and observations driving learning design decisions.  
+
+I did not want to start with coding processes that might alienate, but also as my own game coding skills were also being tested to their limits at this point also and I was working hard to introduce coding at a suitable level. I had experience of teaching web coding but limited knowledge of how to code games. Thus during these five week that time I had been teaching myself the basics following my own repertoires and practices as a mostly self-taught coder.
+
+Thus for initial weeks I engaged with the following activities.
+
+In phase one, I noted that any addition to the game in terms of adding new any quantity of code created many potential coding, conceptual and organisational challenges.
+
+
+Chapter 5 outlines how this culminated in a crisis which involved me reaching out to parents for help in the organisation of the game making sessions via the  following email. -->
+
+### Appendix D.1 - On software tools
+
+### Appendix D.? - Tools used in different phases of activity
+
+
+- Piskel - a graphical editor used to create pixel art sprite characters;
+- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
+- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
+- Sonic Pi - an education music application allowing the creation of music using text coding;
+- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
+- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
+
+#### Description of types of activities involved in game making and the tools used to do them
+
+Table - or short entries with screenshots.
+
+Phaser 2.6.2 javascript library
+Glitch code playground
+Incomplete game template
+Print out of cards with simple coding missions
+Online graphics editor Piskel.
+Audio editors, audacity,
+Updated incomplete game template
+Piskel online graphics editor
+Step by step tutorials on FLOSS manuals
+Drama scenario
+Interactive chat page in glitch
+
+
+**Mapping skills used.**
+See this attempt at a map of skills used in P1 - very extensive but not the focus of this study.
+
+
+https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
+
+
+
+#### Appendix D.1.? - Design decisions in the technical decisions of the template design in P2
+
+**Using a structural template rather than creating from first principles**
+
+Creating the project from first principles is relatively complex both semantically and practically.
+
+In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
+While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
+
+**Summary of motivations and sources of P2 template**
+
+Chapter 5 gives a summary of the motivations of the structure of the P2 starting template. The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
+
+Original source of grid template
+https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
+
+
+Phaser tutorial
+https://phaser.io/tutorials/making-your-first-phaser-2-game/
+https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
+
+
+##### Using Phaser 2 not 3 & Game States
+
+The process of using JavaScript was challenging. At one stage I contacted a developer of JS who had written a tutorial for Mozilla. Her response was why use JS over scratch, and why not use Phaser 3.
+
+These are fair questions the first of which I address in the introduction of the thesis. The technical question of why to not use Phaser 3, a more recent version, raises a point of interest surrounding the complexity of the code syntax used and the initial appearance of the code project to novices.
+
+**Object structure and use of this keyword**
+A key decision to keep using Phaser 2 in the development period between P1 and P2 was to avoid the use of the object structure needed to initialise a game state.
+
+<!-- DROP? To illustrate this point on a technical code level it is of value to compare the code needed to creating a world statement of the two libraries. -->
+
+The move from Phaser 2 to 3 structure was in part to integrate with other modern JavaScript frameworks but a side effect is to introduce an object structure requiring greater complexity of syntax and the use of this as an object orientated concept.
+
+While a useful programming concept, the this keyword which can refer to a contextual parent object regardless of the context of which function it is called withing, is potentially confusing to explain to novice coders. Instead I judged that referring explicitly to the GameState object was preferable.
+
+To do this, I used global variables in the code in a way which in another context would be problematic, say if interacting with other code libraries.
+
+An alternative would be to use template based on Phaser 3 but use this construct to avoid the use of this via assigning it the name of the state.
+
+https://codepen.io/samme/pen/JjYreex
+    function init() {
+      // You do need to *read* `this`, once:
+      state = this;
+
+**Structure of Game States**
+
+One change that was needed between P1 and P2 was the addition of an initial game state into the starting code.
+
+We can compare the code structure of the Phaser 2 tutorial with the starting template of the P2 starting game.
+
+**Phaser.com Phaser 2 tutorial**
+
+    var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
+
+    function preload() {
+    }
+
+
+**P2 starting game extract**
+
+    // Initialize the game at a certain size
+    var game = new Phaser.Game(550, 400, Phaser.AUTO, "game-div", "", false, false);
+
+    // The following javascript object called playState contains all the active code for this simple game.
+    // You can add other states like, win, lose, start etc
+    var playState = {};
+
+    playState.preload = function () {}
+
+
+The motivation to add game states was driven by the requests of participants to As this was allow the addition of a game over screen, or a starting splash screen to introduce the topic and instructions to play the game.
+
+The decision to introduce this in the starting template was motivated by an experience in P1 of one group who  and J - to change the code structure to do this was jarring and reduced the familiarity that they had built up with the existing code structure. This was borne out in a comment in the end of project interview. "Once we had got over x"
+
+Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
+
+![](./Pictures/overview_of_structure_cropped.png){width=55%}
+
+4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
+
+
+**Template structure and asset placement - Add in Chapter tutorial example extract here too**
+
+In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
+
+Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
+
+**Grid structure for graphical assets**
+I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
+
+
+
+### Appendix D.2 - Supporting documentation
+
+#### Appendix D.2? .samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
+
+This chapter, used as an example in Chapter 6 was being accessed online by Susanna in Vignette 2.
+
+The full manual is available here.
+https://3m.flossmanuals.net/
+
+##### Game Space: Keys and Doors
+
+The game mechanic of collecting keys to be able to open doors to enter other spaces is well used in platform games to increase a sense of adventure. Let's look at one way to do this. We draw on the code of a similar tutorial here by Belen Albeza.
+
+Check the code: what we need to know and do
+
+There is some background knowledge in this book that will be useful for us in getting this mechanic to work - adding More levels - Game Mechanic: Adding Levels
+Going over the code:
+
+The code for a minimal example of the Keys and Doors game mechanic is shown here - https://glitch.com/edit/#!/key-and-doors-grid?path=js
+
+Make sure you have or add these variables at the start of our code that are located outside of any one function as they are needed by more than one function.
+
+  var hasKey = false;
+  var key;
+  var door;
+
+In the playState.preload function we will need to load some images for our keys and doors. Here are two lines which you can copy and use while testing. You can replace these images with your own.
+
+  game.load.image("key", "https://cdn.glitch.com/5d318c12-590d-47a1-b471-92a5dc0aae9d%2Fkey.png");
+  game.load.spritesheet("door2, "https://cdn.glitch.com/5d318c12-590d-47a1-b471-92a5dc0aae9d%2Fdoor.png", 42, 66);
+
+Then we will create a key and door for our first level. Add the following code to our if statement in the playState.create function which controls which level is loaded.
+
+  if (!currentLevel || currentLevel === 1) {
+    loadLevel(level1);
+    // add extra code for just level one here
+    key = game.add.sprite(100,25,"key");
+    door = game.add.sprite(20,260,"door");
+    door.animations.add("open", [1, 2], 8); // 8fps
+
+Then when the play is happening. We want to set up overlap conditions in our playState.update function for player and keys and doors.
+
+  game.physics.arcade.overlap(player, key, hitKeys);
+  game.physics.arcade.overlap(player, door, hitDoors);
+
+We then create new functions mentioned in these overlap statements. Create these functions after your update function in your code.
+
+In hitKeys we want to kill off the key and set our hasKey variable to true, ready to open the door.
+
+var hitKeys = function (player, key) {
+    key.kill();
+    hasKey = true;
+};
+
+For the hitDoor function we need to check to see if the player has already picked up the key, as we don't want anything to happen if that is not the case, or if they haven't collected all the coins yet too.
+
+var hitDoors = function (player, door) {
+    if (hasKey === true && coins.total === 0){
+      door.animations.play("open");
+      hasKey = false;
+      player.kill();
+      game.time.events.add(1000, nextLevel, this);
+    }
+};
+
+If the player does have the key then we want to play the animation of the door opening, then reset the value of hasKey as we don't want that to continue to the next level, make the player disappear, and then call the next level function after one second so that we get to see the door opening.
+
+We also need to comment out the code which would allow the player to progress to the next level if they have just collected all the coins.
+
+    // MAKE SURE TO COMMENT OUT OR REMOVE THE FOLLOWING CODE
+    //if the player has collected all the coins move them on to the next level
+    // if (coins.total === 0) {
+    //     nextLevel();
+    // }
+
+That's it. We hope you enjoy adding this game space element to your game to allow the use of keys and doors to encourage exploration.
+
+
+
+
+#### Appendix D.2? themeing - Themeing GDPs
 
 In grouping the game design patterns into categories for the documentation hub page, I drew on academic and professional interpretations of game elements [@salen_game_2006; @schell_art_2008; @tekinbas_rules_2003]. Schnell's detailed analysis of tens of game elements presented as design lenses was too complex for this audience. Instead, I adapted a simplified introductory framework developed for use in youth-oriented Game Jams to help novice game makers hack/analysis and then adapt key elements of non-digital games [@cornish_game_2018].
+
 
 - **SPACE:** Where the game takes place.
 - **GOAL:** What is the objective of the game? What are you trying to do?
@@ -574,7 +840,20 @@ In grouping the game design patterns into categories for the documentation hub p
 - **MECHANICS:** What actions take place in the game. What are the verbs involved?
 - **RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
 
-The framework youth game jams and in the Q2L school to help participants develop their implicit knowledge of game design concepts in to explicit share vocabulary before engaging in digital making via collaborative analysis of common games [@cornish_game_2018; @institute_of_play_gamestar_nodate]. Similarly, in early stages of my design participants completed a similar activity after playing retro arcade games [included in appendix].
+The framework youth game jams and in the Q2L school to help participants develop their implicit knowledge of game design concepts in to explicit share vocabulary before engaging in digital making via collaborative analysis of common games [@cornish_game_2018; @institute_of_play_gamestar_nodate].
+
+
+**Printable framework to support game analysis via game elements**
+
+In early stages of my design participants completed a similar activity after playing retro arcade games. As a possible resource for other practitioners I include a link to a printable power point sheet with the above structure.
+
+INCLUDE LINK
+<!-- Perhaps a completed one with children's writing on it. -->
+
+    Guidance for practitioners
+    As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design.  Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
+
+
 
 I related this simple categorisation the emerging list of requests for game features made by my participants. The final categorisation used in P4 is included as a Table 5.x below.
 
@@ -592,12 +871,11 @@ I related this simple categorisation the emerging list of requests for game feat
 Table 5.x Categorisation of game design patterns used in P4.
 
 This categorisation, while simplified, is consistent with professional and technical frameworks popular in game making communities including: the MDA framework [@olsson2014conceptual] (which focuses on analysis of games based on the user experience), Elemental Tetrad [@schell_art_2008], and DDE [@korn_design_2017]. The theme of using technical frameworks in an accessible way to facilitate the creations of novice participants is continued in the chapters five and six.  
+
 I noted that some patterns addressed game aesthetics (simplified to  _game polish_) for example; the graphical representation of game characters; adding sounds; and adding background images. Others could be described as _game mechanics_ including: jumping on enemies; finding a door or flag to progress to the next level; and collect all food before progressing to next level. Others concerned aspects of _game space_: the size and shape of game world; and adding new levels the game. In P5 I extended the scheme to included  _system and challenge_ patterns. These explore at how different elements in
  cxteract to create challenge in the game.
 
-I then took the existing list of game elements that have been identified by students and categorised them based on a blend of two frameworks.
-
-I made some simplifications and adaption to increase accessibility for non-professional and young people. For example, the term of aesthetics is very wide and used by suited simplification _game polish_.
+I then took the existing list of game elements that have been identified by students and categorised them based on a blend of two frameworks. I made some simplifications and adaption to increase accessibility for non-professional and young people. For example, the term of aesthetics is very wide and used by suited simplification _game polish_.
 
 ![Game Design Themes](./Pictures/four_gdp_themes.png){width=55%}
 
@@ -613,14 +891,62 @@ _Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type a
 The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
 
 
-### Appendix 7.makertypes (and social missions)
+### Appendix D.x - Maker types and social missions
 
-
-MOVED HERE
+Appendix referred to in Chapters 5 and 7.  
 
 The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
-#### What kind of Maker are you - Motivations behind social processes (emerging in playtesting)
+
+
+### Appendix.bartle -  Summary of interactive Bartle test - EDIT DOWN LOADS - MOVE SOME TO BLOG POST
+
+As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
+
+I introduce a warm-up activity trialled in P2 where participants took part in an interactive the Bartle test (what kind of game player are you).  
+
+
+A Bartle test is ...
+
+![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png)}
+
+
+It took the form of an as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+The process was adapted so players moved
+to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital identities of their children.
+
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation.
+
+The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+
+As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+
+Below I outline how I designed to encourage this behaviour.
+<!--
+In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users -->
+
+
+
+<!-- #### Building Identities as Game Makers (dropped) -->
+
+<!-- NOTE - MAY NEED TO REWRITE to clearly precursor next chapter -->
+
+<!--
+in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
+ -->
+
+<!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
+
+
+#### Maker types
+
+**What kind of Maker are you - Motivations behind social processes (emerging in playtesting)**
 
 By the end of P2 most of the tools and main processes were in place. But I still felt tensions around introducing reflective processes and wanted to de-centre myself where possible from a teacher position. My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
 
@@ -633,9 +959,11 @@ In and early tentative attempt to define in broad strokes the types of game make
 -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
 -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
 
+<!-- My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you. -->
+
 I saw potential value here to address the danger internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches [@papert_epistemological_1990]. Thus, in P2 I introduced a starter game in which families moved into different quadrants of the room in answering questions on the Bartle test. This process celebrated different game playing types and allowed a public sharing of previously hidden gaming preferences, although for some non-gaming parents and children I had to ask them to use their imagination. Several parents noted that this process gave them great insight into how their child identified within the cultures of the games they played.
 
-After the process of playing a game I shared my proposition that there different game maker types. I asked participants to evaluate and discuss with peers what kind of game maker they were from the list above. This process was not explicitly used in later reflections however parent Mark made the following comment in post-session P3 interviews.
+After the process of playing a game I shared my proposition that there different game maker types. I asked participants to evaluate and discuss with peers what kind of game maker they were from the list above. This process was not explicitly used in later reflections however parent Mark made the following comment in post-session interviews.
 
     We used the instructions, we like to plod.
 
@@ -643,11 +971,12 @@ After the process of playing a game I shared my proposition that there different
 
 I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
 
-#### Appendix.playtestingtypes (Ch. 7)
+#### Playful Playtesting
+
+(Ch. 7)
 
 The maker types listed above were in particular played out in the playtesting process.
 
-**Playful playtesting**
 
 Some children added additional playful elements to playtesting. Because these interactions were mobile between workstations is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
 
@@ -657,9 +986,9 @@ WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
 
 These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
 
-#### Commentary on side missions
+#### Side missions
 
-Full table of side missions.
+**Full table of side missions**
 
 | Your Alien Mission (social)          | Your Secret Alien Mission:              
 |----------------|----------------|
@@ -691,9 +1020,12 @@ the lively discussion about game playing in response to the mission to _find out
 ADD IN DETAIL FROM P3 -
 
 
-### Appendix.drama - Drama process -
+### Appendix D.3 - Other supporting resources
 
-#### Exploring documentation and accessing technical help within the drama frame
+
+#### Appendix D.? - Drama process
+
+**Exploring documentation and accessing technical help within the drama frame**
 
 
 To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. The process of writing down a text request encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. Undertaking it in-role potentially addresses the barrier of asking for help by de-personalising the process.
@@ -714,51 +1046,6 @@ This chat began to fulfil a function of building  insider rapport, creating a fu
 
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
 
-
-
-### Appendix.bartle -  Summary of interactive Bartle test
-
-As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
-
-I introduce a warm-up activity trialled in P2 where participants took part in an interactive the Bartle test (what kind of game player are you).  
-
-
-A Bartle test is ...
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png)}
-
-
-It took the form of an as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-The process was adapted so players moved
-to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital identities of their children.
-
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation.
-
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
-
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
-
-Below I outline how I designed to encourage this behaviour.
-
-In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
-- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you.
-
-<!-- #### Building Identities as Game Makers (dropped) -->
-
-<!-- NOTE - MAY NEED TO REWRITE to clearly precursor next chapter -->
-
-<!--
-in open world games are used in part to appeal to different kinds of players [@bartle_hearts_nodate].
- -->
-
-<!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
 
 
 
@@ -972,50 +1259,12 @@ In its engagement with participant choice over which patterns to implement, and 
 
 ## Technical Appendix One - On technical aspects of the decision regarding the learning design
 
-### Tools used in different phases of activity
-
-### Appendix 5.tech  - Summary of the tools and processes used in P1, P2 and P3.
-
-#### Description of tools used
-
-- Piskel - a graphical editor used to create pixel art sprite characters;
-- Audacity - a desktop based application to record and edit audio using audio effects and filters like delay and echo;
-- freesound.org - an open repository of audio files which could be downloaded, used directly or altered using Audacity;
-- Sonic Pi - an education music application allowing the creation of music using text coding;
-- Bfxr & jsfxr - web based tools to create sound effects aimed at game production;
-- Scratch - while scratch was not use for game production, I encouraged participants to use its intuative graphical editor to create backgrounds for the game;
-
-#### Description of types of activities involved in game making and the tools used to do them
-Table - or short entries with screenshots.
-
-Phaser 2.6.2 javascript library
-Glitch code playground
-Incomplete game template
-Print out of cards with simple coding missions
-Online graphics editor Piskel.
-Audio editors, audacity,
-Updated incomplete game template
-Piskel online graphics editor
-Step by step tutorials on FLOSS manuals
-Drama scenario
-Interactive chat page in glitch
-
-
-**Mapping skills used.**
-See this attempt at a map of skills used in P1 - very extensive but not the focus of this study.
-
-
-https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
-
 
 ### Summary of Phases removed from Chapter 4.
 
 D1 Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015].
 
-
-Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
-
-The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
+P1 was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials or clearly defined limitations. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
 
 
 D2: One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a game template and supporting resources.
@@ -1031,299 +1280,6 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
 The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
-
-#### D1: Initial research and development - August and September 2017
-
-Find PhD proposal games for a read write world.
-
-* Phaser
-* Thimble
-
-Before engaging with families in P1 I followed tutorials on Mozilla's developer community website on writing games in javascript. I had used Mozilla's Thimble code playground tool in earlier work teaching javascript, a snapshot of which is available as PGCE dissertation [@chesterman_webmaking_2015]. I discovered I could use  Thimble, to house a working javascript based game. Mozilla promoted a professional, open source, javascript library for web game making called Phaser.js. At this time I also evaluated several online pixel graphics editors and chose Piskelapp.com.
-
-#### P1: A phase of exploratory, co-creative game making - October 2017 to March 2018  
-
-<!-- NOTE - The evolution involves phases and then tension - what and how to cover both?  -->
-<!-- This phase took place before the official start of this research and relevant ethics application. As such,  -->
-
-
-**Participants started with no set plan or toolset and were asked to plan and make a game in two larger groups of 5-6 participants of mixed ages. After several weeks, a minimal incomplete starting game code template was introduced in response to student need.**
-
-
-Phase one was an extended, exploratory series of game making sessions over several months. This stage was aimed not at collecting user data rather than building my  competency as a facilitator. The process began with no pre-existing supporting materials. Several weeks in to the processes, I adapted a starting code template of a platform game and created various code examples to add functionality requested by participants. This template was adapted from an online tutorial to create a game of the _platformer_ genre  (see glossary), a move which helped to limit expectations of the technical complexity of their game. At the end of this stage participants showcased their games to students in the foyer of the MMU Brooks building.
-
-
-**Tools used:** Phaser javascript library; Thimble code playground; online graphics editor Piskel; a varied set of other graphical and audio asset creation tools.
-
-
-#### D2: Development Stage - May 2018 to December 2018
-
-One-off workshops at Mozilla, Feral Vector and Manchester libraries events and to PGCE computer students helped focus and the creation of a “half baked” game template and supporting online and printable resources.
-
-<!-- The requirements of this compressed time frame aligned with feedback to prompt me to design an accelerated process to bump start the game-production process. -->
-
-<!-- The first phase of delivery in late 2018 was based on initial research stage; I drew on literature to identify factors to consider when designing for collaboration, adopting a project based approach inspired by design thinking.  -->
-<!-- To inculcate parents and children in to the culture of retro video games I began initial sessions by inviting participants to older arcade games on laptops. -->
-<!-- Game filled laptops.  
-Should this be added to the table above
--->
-<!-- The tools allow participants to create games using a combination of a free to use online tools.
-an online  coding environment
-using the phaser javascript game library (glitch.com), a pixel art editor (piskelapp.com), and a sound effect generator (sfbgames.com/chiptone). -->
-
-<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
-https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit#
- -->
-
-<!-- #### The half-baked starting platformer game
-Participants started with no set plan or toolset and were asked to plan and make a game in two larger groups of 5-6 participants of mixed ages. After several weeks, a minimal incomplete starting game code template was introduced in response to student need.  
-
-
-Then One-off workshops at Mozilla and Feral Vector conferences and to PGCE computer students and the creation of a “half baked” game template |  Phaser 2.6.2 javascript library; Thimble code playground; online graphics editor Piskel; audio creation tools
-NOTE - ALSO EXPLORED IN NEXT CHAPTER - HOW TO ARRANGE?
-
-The use and design characteristics of the starting point of a half-baked game.
-
-- Phaser 2 to avoid complexity of code structure
-- 2D platformer - familiar to most - Mario and Sonic
-- low-spec graphics
-- game of player, platforms, and coins to collect and hazards to avoid.
-- graphical level design
-- key variables brought to the top
-- simple structure of code in terms of aligning with framework and not adding extra functions
-
-
-**Variable editing effective movement**
-
-Player movement was a key to playtesting feedback as such three  key variables were highlighted at the very start of the game code and given descriptive names to facilitate their editing. When testing the game, the player's jump height was not great enough to allow progression up from the floor to one of the platform thus thwarting the collection of items.
-
-Game progression require altering at least one of the descriptively names variables associated with jump height and then activating a preview window to observer the changes by playing the game in a new browser tab.
-<!--FIND  Some evidence of building proficiency with significant work to change these three   
-
-    // Variables that change how the player moves
-    var gravity = 500;
-    var velocity_x = 100;
-    var velocity_y = 300;
-
-While some participants engaged with extensive experimentation to find a player movement feel that seemed just right, others were much less concerted with this aspect of game play, lowering gravity drastically to allow a greater jump size but a more frustrating floaty jump.
-
-**Level design and prototyping**
-
-The starting**Glitch Game Club**
-First iteration of game making course of 5-6 weeks. The template and resources created in the previous stage were used as a starting point but continued to evolve.
-**Tools:**
- Phaser; Glitch, Piskel; updated game template; quick start cards; step-by-step tutorials; code examples   game template included a minimal amount of platforms, hazards to avoid and golden blocks to collect. Image 4.x above show a printable _quick start_ cards to aid participants to begin the process of changing level design.
-
-As preThe possibility of disturbing the syntax of the  of code in the array. When participant did this it provided a good opportunity for facilitators or parents to outline the importance of correct syntax of and to explain the code structure.
-
-The vignette in the last chapter saw Toby's adding new levels to his  game and undertaking many iterations of changes to the level design. He and several other participants spent extensive time performing level design activity with a goal of making the game extremely challenging but still technically possible. Others played with the convention of the game by removing all hazards and filling the screen with rewards/coins (an example is outlined in the starting vignette of the next chapter).
-
-**Incomplete graphical blocks & Piskel**
-
-The use of blank, coloured blocks of 32 x 32 pixels encouraged participants to change the graphical design and the relatively small size of the sprites encouraged rapid design.
-
-PERHAPS REPLACE THIS WITH SCREEN SHOT OF PISKEL AS A TOOL
-![](./Pictures/whale_1.png){width=50%}
-
-The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using   code syntax.
-
-**Incomplete graphical blocks & Piskel**
-
-The
-
-PARK FOR NOW - Maybe move to Design
-The concept of the feel of the game or the challenges maps to the Dynamics of MDA framework.
- -->
-
-
-#### P2: Accelerated game making programme  - 5 weeks in January to February 2019
-
-**Glitch Game Club**
-First iteration of game making course of 5-6 weeks. The template and resources created in the previous stage were used as a starting point but continued to evolve.
-
-
-**Tools used:** Phaser; Glitch code playground replaces Thimble, Piskel; a starter game template; quick start cards; step-by-step tutorials; code snippet examples.  
-
-
-<!-- Have a look at this document which outlines Structuring and Scaffolding Phaser Activities from Phaser Book
-https://docs.google.com/document/d/1lk-8dHFFNbFXFtE5vV6_GHXYRzU7ATWZAIe-hNunyx8/edit# -->
-
-NOT TRUE SEE LINK IN NOTES
-By the beginning of P2 most of the resources and activities were in place and relatively stable. There were some incremental evolutions in the template that stemmed from participant feedback and my reflections. Key additions at this stage to support the use of a template were a collection of tutorials and code examples illustrating key game features that had been requested by participants. The collection of game patterns were presented in a web page together with the starting template and a link to an online book collecting the process into step-by-step chapter based tutorials. The resources are explored in more depth in sections three and four below. A more complete description of the resources used in P2 and P3 are included in appendix 4.x.The experimental team consisted of Home Educating families . Learners acted as researcher participants to guide the next iteration of the game making program both directly and indirectly.
-
-Direct input was through requests and informal feedback and structured end-of-course interviews. Indirect input came from research data in the form on the games participants created, my research journal entries on my interactions with and observations of participants and recorded audio and video data of the participants and their computer screen capture.
-
-#### P3: Adding a process drama to the game making programme: 5 weeks in May 2019
-
-
-P3 used the same toolset as P2 however in addition, drew on my previous work with the MMU Faculty of Education drama department [@caldwell_drama_2019] to create a simple drama process to give an external motivation and narrative to the creation of games using for a fictional audience of visiting aliens. The participant activity of these stages and tensions between system elements are discussed in detail in the remainder of this chapter and in following chapters.
-
-**Tools used:** As per P2; a drama scenario; side missions; a code project to interact with aliens using markdown code.   
-
-#### D3:  research and development - Make Code - November 2019 to September 2020
-
-#### P4: MakeCode Arcade 1- November 2019 to DEc 2020
-
-The last iterations of the learning design adopted the MakeCode Arcade tool as a new game authoring tool. This block based programming environment reduced participant coding errors allowing a greater focus on game making concepts.
-
-In 2019 MakeCode Arcade was launched to make games using for novice coders via the use of a block coding systems similar to Scratch. I adapted resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in a later section of this chapter. I ran two iterations of game making course using MakeCode Arcade. The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language [^1]. Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
-
-I also adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum. To do this I added a learning dimensions map, a process which is explored in chapter.
-
-**Tools used:** Make Code Arcade (MCA) tool; MCA Template starting game; MCA quick start cards; MCA game pattern menu; MCA game pattern tutorials ; Learning Dimensions Map.  
-
-Include footnote to online resources.
-
-#### P5: MakeCode Arcade 2
-
-
-<!-- At this stage of writing I include a bullet point list of design relevant features to be expanded later.
-
-- Shared repositories of resources - users shared a log in so they could see the work created by others.
-- Showcase: At the end of the game making process students asked strangers to play their game in the foyer of my departmental building
-- Drama Games: the process of warming up, creates community and sets a tone
-- Drama Process: specifically designed ot  overcome limits of the classroom.
-- Playtesting: the process of playtesting, either self or peer links back to a community purpose
- -->
-
-<!-- __Insert image of code__
-
-The code of the game.
-While the code is made up of various elements, only the javascript file is normally altered by participants.
-The complexity is hidden away from the end user.
-
-__Insert image of game in browser__
-
-On the screen you can see the game.
-Toby then decides he wants to add a new element to his game.
-He browses the list of game design patterns.
-There is a tension where he is hesitant about where to place code.
-Screen shot of the menu of choices. -->
-
-
-
-
-### Appendix.tech.samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
-
-This chapter, used as an example in Chapter 6 was being accessed online by Susanna in Vignette 2.
-
-The full manual is available here.
-https://3m.flossmanuals.net/
-
-#### Game Space: Keys and Doors
-
-The game mechanic of collecting keys to be able to open doors to enter other spaces is well used in platform games to increase a sense of adventure. Let's look at one way to do this. We draw on the code of a similar tutorial here by Belen Albeza.
-
-Check the code: what we need to know and do
-
-There is some background knowledge in this book that will be useful for us in getting this mechanic to work - adding More levels - Game Mechanic: Adding Levels
-Going over the code:
-
-The code for a minimal example of the Keys and Doors game mechanic is shown here - https://glitch.com/edit/#!/key-and-doors-grid?path=js
-
-Make sure you have or add these variables at the start of our code that are located outside of any one function as they are needed by more than one function.
-
-  var hasKey = false;
-  var key;
-  var door;
-
-In the playState.preload function we will need to load some images for our keys and doors. Here are two lines which you can copy and use while testing. You can replace these images with your own.
-
-  game.load.image("key", "https://cdn.glitch.com/5d318c12-590d-47a1-b471-92a5dc0aae9d%2Fkey.png");
-  game.load.spritesheet("door2, "https://cdn.glitch.com/5d318c12-590d-47a1-b471-92a5dc0aae9d%2Fdoor.png", 42, 66);
-
-Then we will create a key and door for our first level. Add the following code to our if statement in the playState.create function which controls which level is loaded.
-
-  if (!currentLevel || currentLevel === 1) {
-    loadLevel(level1);
-    // add extra code for just level one here
-    key = game.add.sprite(100,25,"key");
-    door = game.add.sprite(20,260,"door");
-    door.animations.add("open", [1, 2], 8); // 8fps
-
-Then when the play is happening. We want to set up overlap conditions in our playState.update function for player and keys and doors.
-
-  game.physics.arcade.overlap(player, key, hitKeys);
-  game.physics.arcade.overlap(player, door, hitDoors);
-
-We then create new functions mentioned in these overlap statements. Create these functions after your update function in your code.
-
-In hitKeys we want to kill off the key and set our hasKey variable to true, ready to open the door.
-
-var hitKeys = function (player, key) {
-    key.kill();
-    hasKey = true;
-};
-
-For the hitDoor function we need to check to see if the player has already picked up the key, as we don't want anything to happen if that is not the case, or if they haven't collected all the coins yet too.
-
-var hitDoors = function (player, door) {
-    if (hasKey === true && coins.total === 0){
-      door.animations.play("open");
-      hasKey = false;
-      player.kill();
-      game.time.events.add(1000, nextLevel, this);
-    }
-};
-
-If the player does have the key then we want to play the animation of the door opening, then reset the value of hasKey as we don't want that to continue to the next level, make the player disappear, and then call the next level function after one second so that we get to see the door opening.
-
-We also need to comment out the code which would allow the player to progress to the next level if they have just collected all the coins.
-
-    // MAKE SURE TO COMMENT OUT OR REMOVE THE FOLLOWING CODE
-    //if the player has collected all the coins move them on to the next level
-    // if (coins.total === 0) {
-    //     nextLevel();
-    // }
-
-That's it. We hope you enjoy adding this game space element to your game to allow the use of keys and doors to encourage exploration.
-
-### Appendix.tech.gameframework - Framework to support game analysis via game elements -
-
-Include also the powerpoint sheet or link to it.
-Perhaps a completed one with children's writing on it.
-
-Extract from Game Jam Guide [@cornish_game_2018]
-
----
-
-As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design:
-
-**GOAL:** What is the objective of the game? What are you trying to do?
-**COMPONENTS:** What are all the objects or actors in the game?
-**MECHANICS:** What actions take place in the game. What are the verbs involved?
-**RULES:** What can or can’t you do in the game? What defines boundaries? Does play happen in real time or do you take turns?
-
-Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
-
----
-
-Extract from Game Jam Guide [@cornish_game_2018]
-
-
-
-### Design decisions in the technical decisions of the template design in P2
-
-#### Using a structural template
-
-**Not creating from first principles**
-
-Creating the project from first principles is relatively complex both semantically and practically.
-
-In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
-While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
-
-#### Summary of motivations and sources of P2 template
-
-Chapter 5 gives a summary of the motivations of the structure of the P2 starting template. The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
-
-Original source of grid template
-https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
-
-
-Phaser tutorial
-https://phaser.io/tutorials/making-your-first-phaser-2-game/
-https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
 
 
 #### Appendix.tech.prototyping Use of visual prototyping
@@ -1357,77 +1313,6 @@ Later in the interaction, the parent outlines a different use of prototyping, th
     Mick: It seemed to have value in that you were just doing it in the same format that you would use for the game.
 
     Mark:   Yeah. I think it's really important. I think the pencil and pen thing just didn't work did it. We sketched... It's got its place. But it's, the kids weren't that interested in using the graph paper to block out Piskel. It didn't translate. It was just easier to block it out straight in software.
-
-
-#### Using Phaser 2 not 3 & Game States
-
-The process of using JavaScript was challenging. At one stage I contacted a developer of JS who had written a tutorial for Mozilla. Her response was why use JS over scratch, and why not use Phaser 3.
-
-These are fair questions the first of which I address in the introduction of the thesis. The technical question of why to not use Phaser 3, a more recent version, raises a point of interest surrounding the complexity of the code syntax used and the initial appearance of the code project to novices.
-
-**Object structure and use of this keyword**
-A key decision to keep using Phaser 2 in the development period between P1 and P2 was to avoid the use of the object structure needed to initialise a game state.
-
-<!-- DROP? To illustrate this point on a technical code level it is of value to compare the code needed to creating a world statement of the two libraries. -->
-
-The move from Phaser 2 to 3 structure was in part to integrate with other modern JavaScript frameworks but a side effect is to introduce an object structure requiring greater complexity of syntax and the use of this as an object orientated concept.
-
-While a useful programming concept, the this keyword which can refer to a contextual parent object regardless of the context of which function it is called withing, is potentially confusing to explain to novice coders. Instead I judged that referring explicitly to the GameState object was preferable.
-
-To do this, I used global variables in the code in a way which in another context would be problematic, say if interacting with other code libraries.
-
-An alternative would be to use template based on Phaser 3 but use this construct to avoid the use of this via assigning it the name of the state.
-
-https://codepen.io/samme/pen/JjYreex
-    function init() {
-      // You do need to *read* `this`, once:
-      state = this;
-
-**Structure of Game States**
-
-One change that was needed between P1 and P2 was the addition of an initial game state into the starting code.
-
-We can compare the code structure of the Phaser 2 tutorial with the starting template of the P2 starting game.
-
-**Phaser.com Phaser 2 tutorial**
-
-    var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
-
-    function preload() {
-    }
-
-
-**P2 starting game extract**
-
-    // Initialize the game at a certain size
-    var game = new Phaser.Game(550, 400, Phaser.AUTO, "game-div", "", false, false);
-
-    // The following javascript object called playState contains all the active code for this simple game.
-    // You can add other states like, win, lose, start etc
-    var playState = {};
-
-    playState.preload = function () {}
-
-
-The motivation to add game states was driven by the requests of participants to As this was allow the addition of a game over screen, or a starting splash screen to introduce the topic and instructions to play the game.
-
-The decision to introduce this in the starting template was motivated by an experience in P1 of one group who  and J - to change the code structure to do this was jarring and reduced the familiarity that they had built up with the existing code structure. This was borne out in a comment in the end of project interview. "Once we had got over x"
-
-Game states and functions to create the game loop (see glossary) are included natively in the phaser framework [@faas_introduction_2017]. Game states allow designers to deconstruct games and game code into collections of sub-units (states)   [@kostolny_digital_2017]. For example a simple arcade games may only had an insert coin state, a play state and a game over state. A game coding framework like phaser shields its users from code complexity by providing a game state manager and associated functions out-of-the-box, meaning that lots of underlying code is already written and hidden from view. To increase simplicity for my participants the starting template I created had only one game state called _PlayState_. It followed the following structure: a beginning section out side of a function declaring variables; a preload function which loads assets into the game; a create function which sets up the initial game; an update function which listens to and responds to user input. The following illustration from the step-based instructions illustrates the structure for participants, including the possibility to create new game states e.g. a game over state.
-
-![](./Pictures/overview_of_structure_cropped.png){width=55%}
-
-4.x - Game states and function structure explained in the Glitch Game Makers manual created for for P2 and P3
-
-
-##### Template structure and asset placement - Add in Chapter tutorial example extract here too
-
-In P1 the suggested process of adding game elements was relatively complex which involved changing parameters of functions to alter to adjust their location. An example of the code needed is included one of my tutorial chapters / appendix 4.x [^7].
-
-Complexities included: each element needs to be added separately with code elements required in three different areas of the code template, adding x,y coordinates to place each game elements was; difficulties concerning adding graphical elements of different sizes. These complexities created frustrations in the game making activity P1, in particular as project became bigger cod became unwieldy and confusing to alter, causing a negative impact on the testing and revision process in particular.    
-
-**Grid structure for graphical assets**
-I had previously set the dimensions of the matrix above based on this size to create a resulting game size of 550, 400, in line with a retro game style.
 
 
 
@@ -1759,61 +1644,6 @@ CROSSREFF -  list the benefits here.
 Different areas of contradictions between different elements in activity systems emerged in journal notes and retropective analysis of evolution of the design. Some blockages were non-technical including hunger or grumpyness between participants, others were due to lack of access to the right tools or understanding of processes, others were particular types of coding error.
 
 I propose that more granular understanding of different kinds of design blocks can help facilitators and ultimately learners in building agency in their response to them.
-
-
-## Participants Interview questions - semi structured -
-
-**Background & Purpose of Interview**
-
-The interview will support my studies of **family game making** through an exploration of the aims, issues faced and types of learning you promote in your program/s.
-
-There’s more info here - [https://docs.google.com/document/d/1qSpeVjLi2CMs2HCWL\_In1WAM-egPXpCLQl3F6wdxNJ8/edit](https://docs.google.com/document/d/1qSpeVjLi2CMs2HCWL_In1WAM-egPXpCLQl3F6wdxNJ8/edit)
-
-### Introductory Questions
-
--   In a nutshell, can you tell me about what you have done on the game making activities?
--   What are some of the background factors that motivate you taking part in these activities?
--   Is there anything that jumped out as successful
--   Was anything unexpected?
-
-### Personal Dimensions
-
--   What knowledge or skills are you trying to build by taking part?
--   What about personal attributes / qualities
--   Can you tell me more about any specific activities that did built knowledge or attributes?
--   Tell me about any  times you felt you could bring your own identities or interests into your making processes?
--   Tell me more about how that happened and any impact it had on you.
--   Tell me any times you felt you could choose your next steps or your own path of progression in your activities
--   Tell me more about how that happened and any impact it had on you.
-
-### Material Dimensions
-
--   Tell me about the software or hardware tools or materials you used
--   How did they impact on how or how much you were able to collaborate?
--   Did they make some of your goals easier or harder?
--   What was your general thinking around these tools or materials, any other reactions?
--   What about the resources used, printed or online? Similar questions to the above.
-
-### Social Dimensions
-
--   What are your recollections of any  social dimensions of learning you recall from the game making programme? Either Unstructured interaction or more structured, directed interaction
--   Tell me about any specific activities or resources that you think may have supported this social approach to learning?
--   What challenges do you think existed in this area?
--   What are the pros and cons of working with families?
--   What are the pros and cons of working with other families?
--   Do you think the family nature of the programme impacted on how activities evolved?
--   What observations about intergenerational interaction did you made?
--   Are there particular any emerging patterns or roles of collaborative interaction that started to happen? Have barron ones ready to prompt.
--   Is there any other impact that the family learning environment have on the overall programme?
-
-### Cultural Dimensions
-
--   Were you able to bring in interests of identities from family life to the programme
--   Could you draw on any other activities or groups you are a part of?
--   Did you make any links to any real life groups of people or communities outside the game making programme
--   Are there tensions or challenges or advantages about concerning linking with outside communities?
--   Are there other cultural factors which interacted with the game making programme?
-
 
 
 
