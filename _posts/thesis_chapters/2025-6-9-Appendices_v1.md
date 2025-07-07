@@ -321,7 +321,9 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
 The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
+### Methodology -  Back up links to short URL resources
 
+The short code generator tiny.cc has been used to create more readable links for footnotes and at times in appendices. The following list of short codes used allows readers to follow links if the tiny.cc service is deprecated.
 
 ## Appendix C - Interview data & participant feedback or detailed observations
 
@@ -395,7 +397,7 @@ There’s more info here - [https://docs.google.com/document/d/1qSpeVjLi2CMs2HCW
 Mentioned in Chapter 7
 
 
-### Interview.1 -   Madiha, Nasrin and Xavier
+#### Interview.1 -   Madiha, Nasrin and Xavier
 
 **Interview.1.a**
 
@@ -409,7 +411,7 @@ The involvement of Madiha in Nasrin's gaming
 The choices to explore issues of social media
 
 
-### Interview.2 - Mark and Ed
+#### Interview.2 - Mark and Ed
 
 **Interview.2.a**  
 
@@ -448,7 +450,7 @@ Mark: Because the whole theme of it. Just I know just your eyes lit up when you 
 
 Plodding
 
-### Interview.3 - Maggie and Toby
+#### Interview.3 - Maggie and Toby
 
 **Interview.3.a**
 
@@ -458,13 +460,13 @@ Choice of home interests bee keeping
 
 - Emotional when J. who was dyslexic was able to do the code pattern matching exercise.
 
-### Interview.4 - Dan
+#### Interview.4 - Dan
 
 **Interview.4.a**
 
 Dan's involvement in Coder Dojo.   
 
-### App.7.fdb - Feedback Extracts
+#### App.7.fdb - Feedback Extracts
 
 
 ##### App.fdb.a - Susanna and Tehillah note on starting games
@@ -531,8 +533,160 @@ ps: I guess the challenge is to do this so that it’s a map, with different lea
 
 So supporting autonomous learning but also team work.
 
+### c - Additional Smaller Vignettes
 
-### Appendix.5.bee - Contextual Vignette on the conflict experienced by one family & the 3D Bee
+#### Appendix.C .dliteracy - Developing Digital Literacy skills  & Play paradox
+
+<!-- - MOVE TO CHAP 7 > AS A TACTIC TO PROMOTE AGENCY - A TENSION? -->
+
+The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
+
+Perhaps play paradox here? Not a tension but something to design for? And thus backgrounding the aspects of computational thinking in favour of a more accessible experience using authentic technology. A reflection as a facilitator.
+
+This tension can be described as a play paradox. WHERE IS THIS FIRST INTRODUCED I was looking to avoid too much time spent in asset creation at the expense of other processes which would develop coding concepts and practices. It also increased the possibility of peer learning as less tools were being used.
+
+
+**Digital / Web Literacy**
+
+Belshaw?
+
+To integrate new gameplay design patterns or adapt existing ones in their games, participants needed to develop unfamiliar technical processes associated with computer coding, as well as foundational digital skills related to using a desktop personal computer. See Appendix: Digital Literacy for further details. One example of a skill developed by many participants was proficiency in keyboard and mouse use. Combined with the ability to navigate internet browser tabs, this facilitated movement between computer code, game prototypes, and supporting web-based documentation.
+
+The process of collating these skill aligned to curricular concepts above or those explored in computing research as desirable in a manageable list involved excluding a large number of relevant skills that were being developed as part of the game making activities. In particular key digital literacy and basic skills associated with using a desktop personal computer which were developed are listed below.
+
+- Keyboard use: in particular use of shortcuts including Cntl + C, Cntl + V and the use of Shift and arrow keys to highlight text
+- Mouse use: building proficiency with accurate mouse use and the process of clicking and dragging
+- File management: downloading and locating digital files on a desktop environment
+- Exporting graphical assets: locating the proceedure for exporting files from applications for use on other applications in the correct (interchangeable) format.
+- Using web browser tabs: creating new tabs and navigating between different browser tabs as part of a iterative design process.
+- Use of graphical editing tool sets: for example drawing pencils, fill buckets, eraser tools.
+-  
+
+
+### Appendix.C .? -  patching & and debugging
+
+
+#### Transcript of interaction explaining code patching
+
+The following is a transcript...
+
+So if you click on that (referring to tutorial link) if you want to add a moving enemy.
+
+I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
+
+![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
+
+Madiha: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
+
+Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
+
+Madiha: So just insert it somewhere.
+
+Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
+
+So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
+
+Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
+And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
+
+
+#### Appendix.debugging GDPs used to nurture tactical responses to coding errors
+
+COPIED FROM GDP CHAPTER
+
+Additionally the key affordances of the learning design including the starting template code snippets and the resulting code patching process appear to encourage the creation of glitch errors (Appendix Debugging).
+
+**Solving / Debuggging code problems that responses are helped by the high level of context present in the use of GDP as a structural design framework.**
+
+In critique of online tutorials researchers note few provide common errors [@kim_pedagogical_2017]. While it seems reasonable not to include all possible errors, the challenge of supporting participants to build skills and effective repertoires involving debugging is widely recognised [SUPPORT]. My observations suggest that the close coupling of code implementation and target behaviour aids participants in debugging and also be profitably can be drawn on by facilitators.
+
+In analysis of journal notes and recorded screens I began to identify different kinds of coding problems that blocked participants from progressing and build proficiency and flexibility in addressing them. Reflections on participant experiences of kinds of errors are explored in Appendix.tech.2. In the appendix I reflect on syntax errors which stopped the game from working entirely, bugs where code changes had no effect on the game and glitches which don't crash the game instead creating an unintended effect. Glitches merit a summary here as a particularly interesting site of guided participation. In my reflective notes I propose that glitches are more motivating to correct than other errors.
+
+Aspects of the design, use of a starting template and supporting resources based on code snippets and thus code patching process increased appear to encourage glitch bugs. See Vignette 1 for an example of a glitch bug which provoked further investigation and hand on tinkering. A diversity of helping strategies evolved, my own and those of others, in response to errors. For my part, these altered when I judged when participants to be receptive to different forms of input. Glitch errors were often embraced as curiosities and as a learning opportunity to understand the related code and associated abstract concepts using a concrete example afforded by the mechanics of the game design pattern. Mirroring the proposition of half baked games theory that a incomplete / templated game are motivates initial participation, my observation support a position that glitch bugs, which move game into a broken state also provide motivation. Additionally, as the bug relates to a targeted GDP which is closely coupled with a suggested code solution and tutorial, this process incorporates the benefits of a just-in-time approach to supporting documentation
+
+This area opens some interesting lines of questioning which are beyond the full remit of this research but are included in Appendix.tech.2 as promising areas for future work. When addressing issues of motivation and efficacy a different research methodology would be needed.
+
+----
+
+This section highlights different possible errors and notes that responses are helped by the high level of context present in the use of GDP as a structural design framework.
+
+**On Patching**
+
+More on patching and interaction with debugging.
+
+and interaction with UMC process.
+
+**On different kinds of errors**
+
+In analysis of journal notes and recorded screens I began to identify different kinds of coding problems that blocked participants from progressing.
+
+
+In critique of online tutorials researchers note  few provide common errors[@kim_pedagogical_2017]. This lack of problem solving techniques communicated in online tutorials may addressed through use of GDPs.
+
+Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
+
+More research would be welcome on how to help learners pick up these understandings.
+Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
+
+For example,  on into the detail and types or errors.  These include:
+
+  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
+  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
+  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
+
+
+NOTE - Perhaps explore glitch examples.
+
+
+<!-- #### Examples of Glitch types of errors
+Short examples of different types and the affect implications.
+Glitch errors can be productive.
+**Productive in exploring code / creating new game opportunites**
+An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
+
+**Productive in in**
+- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
+
+ The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
+
+
+
+This area show potential but is under explored. However, just surfacing the issue feels valid in terms of useful stream of facilitator practice to explore.
+
+
+
+##### Concluding remarks on debugging and revision
+
+Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug JavaScript errors or the process of hovering over red dots in the code playground to explore error messages.
+
+<!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
+
+The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug.
+
+As I built proficiency as a facilitator I began to identify different kinds of errors. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern.
+
+The following example provides an illustration of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
+FIND EXAMPLE IF POSSIBLE.
+
+This area opens some interesting lines of questioning which are beyond the full remit of this research
+
+- Question - do more useful / less de-motivating errors result from remixing and game patching?
+- Question - what impact does the process of being driven by GDPs have on how users deal with errors?
+  - For example does the closely paired code structure and game output help with motivation?
+  - How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
+
+
+
+
+<!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
+CAN i FIND ANY KEY EXAMPLES OF THIS?
+-->
+
+
+
+
+
+#### Appendix.C .bee - Contextual Vignette on the conflict experienced by one family & the 3D Bee
 
 One family in P1 chose not to continue with most other families after the Xmas break.
 
@@ -570,6 +724,38 @@ The freedom of choice and imagination allowed by designing on paper and via pixe
 
 That week I had omitted them as I felt a sense of urgency coming from families to solve their problems. The scarcity in facilitator time drove me to crack on supporting families to debug code errors. -->
 <!-- In this emergent design, they had mostly completed asset design and narrative development and the only coding remained. I thus wanted to address the tension between completing the project and alienation from just coding. -->
+
+
+
+#### Appendix. prototyping Use of visual prototyping
+
+MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
+
+In Chapter 6 the use of visual prototyping was explored in relation Vignette 7 with Dan and Toby.
+
+By way of contrast, in Vignette 2, the Susanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
+
+The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the matrix helped the child design with little coding or literacy ability. The way the code is structured has been chosen to allow a graphical analogue between the lines of code in the form of a comma separated array and the appearance of the resulting game output on the screen. The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper. The process of turn the sketched into reality on the screen and sharing with others appears to be transformative in terms of the engagement level of the child.
+
+
+There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their children. When invited to share about their design process in a post session interview, Ed and Mark  also discuss the use of paper to clarify initial GDP ideas in interview data. When asked if they were able to Mark  prompts
+
+    Mick: Tell me a  bit  how you came up with those aims in your game, in terms of coming up with a plan.
+    Mark: What for the things that we need to do to it to finish it?
+    Mick: Yeah. Oh, just even from the beginning point. How did you plan together as well?
+    Mark: Well we started off on paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
+
+Later in the interaction, the parent outlines a different use of prototyping, that of sketching directly into software. For this pair, the child appears to prefer sketching directly into software. The father also appreciates potential problems of translating ideas from paper into a digital format.
+
+    Mark: I was very excited by seeing Ed playing with this because it's interesting that everything doesn't have to be a paper and pen.
+    It's nice to just for the kids to feel that they can sketch on Piskel straight off the bat without taking a tutorial or being told by an adult.  It's really intuitive and you just go straight into it.
+    Mick: That's an interesting thing because in some ways it started off with people working on paper because I thought that would be really accessible. Yeah. And maybe it was through observations of people just going “Do you know what I’m just happy sketching on Piskel”.
+    Mark: (Animatedly) The kids, all the kids I saw not just Ed.
+    Mick: Digital sketching.
+    Mark: Yeah.
+    Mick: It seemed to have value in that you were just doing it in the same format that you would use for the game.
+
+    Mark:   Yeah. I think it's really important. I think the pencil and pen thing just didn't work did it. We sketched... It's got its place. But it's, the kids weren't that interested in using the graph paper to block out Piskel. It didn't translate. It was just easier to block it out straight in software.
 
 
 
@@ -722,6 +908,20 @@ I had previously set the dimensions of the matrix above based on this size to cr
 
 ### Appendix D.2 - Supporting documentation
 
+
+#### Appendix D.2.a Summary of online resources
+
+A summary table including:
+
+- Manual,
+- GDP menu
+- Game to remix
+- Manual splash page
+
+To do
+
+- List of the code examples - update GDP manual with this.
+
 #### Appendix D.2? .samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
 
 This chapter, used as an example in Chapter 6 was being accessed online by Susanna in Vignette 2.
@@ -864,7 +1064,29 @@ The process of sketching, revising and re-sketching the elements led me to conne
 
 ### Appendix D.3 - Other intervention resources and processes
 
-#### Appendix D.x - Maker types and social missions
+#### Appendix D.3.x - .map – Dialogue of use of physical maps at the start of session X
+
+Add some kind of description and a photograph.
+
+
+
+| Transcript | Description |
+|------------|-------------|
+| **Mick (f):** I’m putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I’m going to put that one over there in the corner, if that’s one that you’re working on. | Mick cuts out an image from [^4] representing a GDP of key and doors. |
+| **Tehillah (c):** So I’ve gone really far away on the map. | Tehillah quickly places her marker on that image and grins. Other parents and children to the right and left of her look at her marker. |
+| **Mick (f):** Yeah. | Mick smiles too whilst walking to get and glue another cut-out. |
+| **Tehillah (c):** Heh! | Tehillah walks back to her mother and stretches out her arms to her, who picks her up. Tehillah whispers in her mother’s ear. |
+| **Mick (f):** There should be some blue tack if you are struggling to make your character stand up. | Mick walks around the back of the group and sticks another GDP pattern on a different pre-drawn island. Roxanne (p) notices Agnes’s (c) falling character and passes the child blue tack to help. |
+| **Roxanne (p):** Oh that’s something you were wanting to do. | Roxanne points at a cut-out that Mick has just stuck down. |
+| **Richie (c):** I like the idea of making the enemies move. | – |
+| **Roxanne (p):** Ok, there’s a worksheet here about that. So you don’t want to any any health meter? | – |
+| **Richie (c):** No. | – |
+| **Roxanne (p):** At least not right now. You want to do this, on a sheet, right here, here you go. | Roxanne waves sheet and smiles at Mick and laughs. |
+| **Mick (f):** Great that’s good. We’ve got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move when it moves around the screen. | Mick moves hands when saying “make your character move,” indicating animation. |
+| **Mick (f):** Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that. | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate “you guys.” |
+
+
+#### Appendix D.3.x - Maker types and social missions
 
 Appendix referred to in Chapters 5 and 7.  
 
@@ -1041,14 +1263,24 @@ This appendix outlines the evolution of a map of learning dimensions which is re
 Table 1.1. Learning Dimensions of the 3M Game Making Model
 
 
-#### Evolution of the map
+##### Background on learning Dimensions Map - - COMPRESS?
+
+Research on _concept maps_ [@canas2003summary] as methods for teachers and researchers to identify key learning suited to particular computing projects has gained traction in the field of computing education [@keppens_concept_2008; @noauthor_quick_2020; @weinerth_concept_2014]. The value of facilitators presenting concepts  and asking students to create maps of concepts for formative assessment. In addition, there is value in mapping which are likely to occur in project work especially when such concepts are embedded in activity in a way which resists superficial analysis. Research on hands-on tinkering in science museums by Bevan and Petrich [-@petrich_it_2013] together with educators examined video footage of families interacting with exhibits to make a structured list of the learning they observed. Their resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
+
+Similarly, one of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. Table 4.x. shows my resulting map of learning dimensions. While some concepts are common to existing computational thinking frameworks others, including systems thinking concepts, are more unique to game making. The choice to include some elements over others is based on a synthesis of the experience of participants, existing frameworks in this domain (previously explored in the LR), and my own interpretation which privileged under explored elements like systems patterns. Due to the dominance personal input, this framework is offered as starting point which could benefit from the type of collaborative analysis undertaken in Bevan and Petrich's process.
+
+<!-- In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. -->
+
+<!-- Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects.  -->
+
+
+
+##### Evolution of the map
 
 The inspiration is that of Bevan and Petrich's  [-@bevan_learning_2015; -@petrich_it_2013] work to bring a similar learning map to a seemingly chaotic tinkering and making process in museum contexts.
 
 IS THIS IN LR?
 
-
-#### Evolution of the Learning dimensions map - COPIED HERE FROM CHAPTER 8
 
 **Conflicts stemming from tensions between privileging participant choices or underlying computing and systems concepts**
 
@@ -1059,19 +1291,6 @@ In P4 I wanted to create resources and processes which are of potential value to
 
 <!-- The second was a conflict which manifested via my hesitancy to introduce tools and activities designed to address
  this tension. -->
-
-
-
-#### Background on learning Dimensions Map - - COMPRESS?
-
-Research on _concept maps_ [@canas2003summary] as methods for teachers and researchers to identify key learning suited to particular computing projects has gained traction in the field of computing education [@keppens_concept_2008; @noauthor_quick_2020; @weinerth_concept_2014]. The value of facilitators presenting concepts  and asking students to create maps of concepts for formative assessment. In addition, there is value in mapping which are likely to occur in project work especially when such concepts are embedded in activity in a way which resists superficial analysis. Research on hands-on tinkering in science museums by Bevan and Petrich [-@petrich_it_2013] together with educators examined video footage of families interacting with exhibits to make a structured list of the learning they observed. Their resulting map of learning dimensions included underlying science concepts but also contained more general skills and helping behaviours involved in exploratory learning processes.
-
-Similarly, one of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. Table 4.x. shows my resulting map of learning dimensions. While some concepts are common to existing computational thinking frameworks others, including systems thinking concepts, are more unique to game making. The choice to include some elements over others is based on a synthesis of the experience of participants, existing frameworks in this domain (previously explored in the LR), and my own interpretation which privileged under explored elements like systems patterns. Due to the dominance personal input, this framework is offered as starting point which could benefit from the type of collaborative analysis undertaken in Bevan and Petrich's process.
-
-<!-- In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. -->
-
-<!-- Another chapter in this collection identified concept maps and observation as methods for teachers and researchers to identify key learning suited to particular computing projects.  -->
-
 
 <!-- NOTE WHY THESE CONCEPTS? -->
 
@@ -1132,57 +1351,8 @@ I could trust my instincts as a facilitator to not detract attention from partic
 In the language of activity theory the change of objective denotes is a shift in scope of the activity system.
 
 
-#### The more abstract definiton of CT
-
-In Chapter 7, I outline how design decisions requiring the application of abstract CT concepts based on Wings definition were to a great extent black boxed in the learning design outlined in Chapter 5.
-
-However, the design also allowed people to forge their own path and make diversion from the suggested genre and choice of GDPs.
-
-Even, taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
-
-_Abstraction_:  identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter. The work of Dan and Toby beyond the template?
-_Decomposition_: example of parents helping children break a larger problems into more manageable steps e.g one parent suggests to his child "Save that for version 1.1".  
-_Generalisation / pattern recognition_ is present in the majority of participants as patterns are readily available to participants in starting code and the extra patches that are added. The process is repeated.
-_Sequencing / algorithms_ are frequently explored in the resolution of errors with participants. This exploration focuses on the potential of the 3M learning design rather than making claims on the suitability to develop CT via game making which is explored extensively in other research. Conceptions of personal appropriation should not be limited to only the curricular concepts included in the learning map, the many of the behaviours explored above show both the appropriation and feeding back of varied understandings of game design patterns and related concepts and skills. The process of reusing and modify code to create a computer game can surface both abstract and concrete computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. While the design of this study does not suit full exploration of the personal plane of activity, the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge and design processes.
-In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?).
 
 
-Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
-
-My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
-THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
-
-#### Reflection on personal appropriation of concepts
-
-**Interview data**
-
-Transcript of S and J
-The testing of the jigsaw activity
-
-While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
-
-Also move some of the above down here.
-
-
-
-
-### Appendix.digitalliteracy
-
-**Digital / Web Literacy**
-
-Belshaw?
-
-To integrate new gameplay design patterns or adapt existing ones in their games, participants needed to develop unfamiliar technical processes associated with computer coding, as well as foundational digital skills related to using a desktop personal computer. See Appendix: Digital Literacy for further details. One example of a skill developed by many participants was proficiency in keyboard and mouse use. Combined with the ability to navigate internet browser tabs, this facilitated movement between computer code, game prototypes, and supporting web-based documentation.
-
-The process of collating these skill aligned to curricular concepts above or those explored in computing research as desirable in a manageable list involved excluding a large number of relevant skills that were being developed as part of the game making activities. In particular key digital literacy and basic skills associated with using a desktop personal computer which were developed are listed below.
-
-- Keyboard use: in particular use of shortcuts including Cntl + C, Cntl + V and the use of Shift and arrow keys to highlight text
-- Mouse use: building proficiency with accurate mouse use and the process of clicking and dragging
-- File management: downloading and locating digital files on a desktop environment
-- Exporting graphical assets: locating the proceedure for exporting files from applications for use on other applications in the correct (interchangeable) format.
-- Using web browser tabs: creating new tabs and navigating between different browser tabs as part of a iterative design process.
-- Use of graphical editing tool sets: for example drawing pencils, fill buckets, eraser tools.
--  
 
 ## Appendix E .recommendations - for practitioners - KEEP OR DROP?
 
@@ -1229,162 +1399,6 @@ In its engagement with participant choice over which patterns to implement, and 
 
 
 
-## Technical Appendix One - On technical aspects of the decision regarding the learning design
-
-
-
-#### Appendix.tech.prototyping Use of visual prototyping
-
-MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
-
-In Chapter 6 the use of visual prototyping was explored in relation Vignette 7 with Dan and Toby.
-
-By way of contrast, in Vignette 2, the Susanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
-
-The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the matrix helped the child design with little coding or literacy ability. The way the code is structured has been chosen to allow a graphical analogue between the lines of code in the form of a comma separated array and the appearance of the resulting game output on the screen. The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper. The process of turn the sketched into reality on the screen and sharing with others appears to be transformative in terms of the engagement level of the child.
-
-
-There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their children. When invited to share about their design process in a post session interview, Ed and Mark  also discuss the use of paper to clarify initial GDP ideas in interview data. When asked if they were able to Mark  prompts
-
-    Mick: Tell me a  bit  how you came up with those aims in your game, in terms of coming up with a plan.
-    Mark: What for the things that we need to do to it to finish it?
-    Mick: Yeah. Oh, just even from the beginning point. How did you plan together as well?
-    Mark: Well we started off on paper didn’t we. That's the first thing we did. I think it was a benefit actually. We, we did a lot of sketching didn’t we and a lot of brainstorming ideas and seeing and trying to test out whether it would work.
-
-Later in the interaction, the parent outlines a different use of prototyping, that of sketching directly into software. For this pair, the child appears to prefer sketching directly into software. The father also appreciates potential problems of translating ideas from paper into a digital format.
-
-    Mark: I was very excited by seeing Ed playing with this because it's interesting that everything doesn't have to be a paper and pen.
-    It's nice to just for the kids to feel that they can sketch on Piskel straight off the bat without taking a tutorial or being told by an adult.  It's really intuitive and you just go straight into it.
-    Mick: That's an interesting thing because in some ways it started off with people working on paper because I thought that would be really accessible. Yeah. And maybe it was through observations of people just going “Do you know what I’m just happy sketching on Piskel”.
-    Mark: (Animatedly) The kids, all the kids I saw not just Ed.
-    Mick: Digital sketching.
-    Mark: Yeah.
-    Mick: It seemed to have value in that you were just doing it in the same format that you would use for the game.
-
-    Mark:   Yeah. I think it's really important. I think the pencil and pen thing just didn't work did it. We sketched... It's got its place. But it's, the kids weren't that interested in using the graph paper to block out Piskel. It didn't translate. It was just easier to block it out straight in software.
-
-
-
-## Technical Appendix Two - On reaction to tech
-
-#### Appendix.patching
-
-So if you click on that (referring to tutorial link) if you want to add a moving enemy.
-
-I’ve tried to put a bit like that (referring to illustration below on code patching). What that means is, you’re looking for that bit of code at the top. And you’re going to copy it and paste it into that bit at the bottom. Where it says Playstate.preload. That’s the part of the code that you need to put it into. Just to make it a bit clearer.
-
-![Figure 5.1. Code Patching](./Pictures/vign_5_1.png){ width=80% }
-
-Madiha: So you’re not cutting the bit at the top out, in red. You’re using that bit instead of the yellow bit.
-
-Mick: Well actually, you’re putting it inside of it. So here you would copy it and in your code example. You then  look for that bit where it says preload. You then put it inside of it at the bottom of that.   
-
-Madiha: So just insert it somewhere.
-
-Mick. Yeah insert it. So here we’ve got different parts of our game. We’ve got preload. We’ve got create. And we get used, we start to get used to finding them. In this one it’s preload that’s the one that its saying we should put it inside of. And then this  next bit. It’s saying, ah, you should put that into your create function.
-
-So we’re moving in the right direction. But any other things where you think. Ah that could be easier. Let me know and I’ll try to make these resources much easier.
-
-Mick: It’s almost like this is our control panel. What do you want to do next and we jump off from there.
-And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
-
-
-#### Appendix.debugging GDPs used to nurture tactical responses to coding errors
-
-COPIED FROM GDP CHAPTER
-
-Additionally the key affordances of the learning design including the starting template code snippets and the resulting code patching process appear to encourage the creation of glitch errors (Appendix Debugging).
-
-**Solving / Debuggging code problems that responses are helped by the high level of context present in the use of GDP as a structural design framework.**
-
-In critique of online tutorials researchers note few provide common errors [@kim_pedagogical_2017]. While it seems reasonable not to include all possible errors, the challenge of supporting participants to build skills and effective repertoires involving debugging is widely recognised [SUPPORT]. My observations suggest that the close coupling of code implementation and target behaviour aids participants in debugging and also be profitably can be drawn on by facilitators.
-
-In analysis of journal notes and recorded screens I began to identify different kinds of coding problems that blocked participants from progressing and build proficiency and flexibility in addressing them. Reflections on participant experiences of kinds of errors are explored in Appendix.tech.2. In the appendix I reflect on syntax errors which stopped the game from working entirely, bugs where code changes had no effect on the game and glitches which don't crash the game instead creating an unintended effect. Glitches merit a summary here as a particularly interesting site of guided participation. In my reflective notes I propose that glitches are more motivating to correct than other errors.
-
-Aspects of the design, use of a starting template and supporting resources based on code snippets and thus code patching process increased appear to encourage glitch bugs. See Vignette 1 for an example of a glitch bug which provoked further investigation and hand on tinkering. A diversity of helping strategies evolved, my own and those of others, in response to errors. For my part, these altered when I judged when participants to be receptive to different forms of input. Glitch errors were often embraced as curiosities and as a learning opportunity to understand the related code and associated abstract concepts using a concrete example afforded by the mechanics of the game design pattern. Mirroring the proposition of half baked games theory that a incomplete / templated game are motivates initial participation, my observation support a position that glitch bugs, which move game into a broken state also provide motivation. Additionally, as the bug relates to a targeted GDP which is closely coupled with a suggested code solution and tutorial, this process incorporates the benefits of a just-in-time approach to supporting documentation
-
-This area opens some interesting lines of questioning which are beyond the full remit of this research but are included in Appendix.tech.2 as promising areas for future work. When addressing issues of motivation and efficacy a different research methodology would be needed.
-
-----
-
-This section highlights different possible errors and notes that responses are helped by the high level of context present in the use of GDP as a structural design framework.
-
-**On Patching**
-
-More on patching and interaction with debugging.
-
-and interaction with UMC process.
-
-**On different kinds of errors**
-
-In analysis of journal notes and recorded screens I began to identify different kinds of coding problems that blocked participants from progressing.
-
-
-In critique of online tutorials researchers note  few provide common errors[@kim_pedagogical_2017]. This lack of problem solving techniques communicated in online tutorials may addressed through use of GDPs.
-
-Professionals build up this sense through experience. While some practices are taught many others become ad-hoc rules of thumb that are difficult to communicate in abstract ways.
-
-More research would be welcome on how to help learners pick up these understandings.
-Further analysis of the different kinds of errors that are likely to arrive and testing different strategies for dealing with them that take into account the zone or proximal development of the participants may provide not only useful input for the participants, but also opportunities to check understandings of processes and game patterns and computational patterns in use.
-
-For example,  on into the detail and types or errors.  These include:
-
-  -   **Syntax and Program Errors** are errors in your code which stop the game from functioning at all, often resulting in a blank screen.
-  -   **No Behaviour Bugs** are errors which in your code which don't stop the game from functioning but your intended effect is not present when it should be.
-  -   **Glitches** don't stop your game from running but as you play you see that there is an unintended effect. The game does something different from what we want it to do.
-
-
-NOTE - Perhaps explore glitch examples.
-
-
-<!-- #### Examples of Glitch types of errors
-Short examples of different types and the affect implications.
-Glitch errors can be productive.
-**Productive in exploring code / creating new game opportunites**
-An interesting one where the x / y axis mix up for Te 2019-03-18 leads to a new challenge in the game.
-
-**Productive in in**
-- Glitch - 2019-05-08 - Te and Da  - create moving enemy but it totally leaves the screen. This caused amusement and participants knew how they thought they would follow that up.
-
- The game making style of some participants -- for the most part young people -- seemed particularly likely to induce glitches and their unintended effects in game play. As a facilitator I began to celebrate these glitches with participants and explore with them the opportunities they provided to understand the related code in a way that was often concrete, engaging and and playful. -->
-
-
-
-This area show potential but is under explored. However, just surfacing the issue feels valid in terms of useful stream of facilitator practice to explore.
-
-
-
-### Concluding remarks on debugging and revision
-
-Many participants spent significant periods of time improving, testing and fixing coding errors in their games. Analysis of the coding of video data showed that revision and debugging was often a solo effort. In a way that mirrors the spread of other creative technical processes, certain revision and debugging practices that were transmitted through interaction with the facilitator that were adopted and used by the community. Some practices were straight-forward, for example the swift navigation between the source code window and a preview window of the live game. Others were more specialist like the use of the developer console of the internet browser to debug JavaScript errors or the process of hovering over red dots in the code playground to explore error messages.
-
-<!-- PERHAPS PULL UP DETAILS OF DEBUGGING. -->
-
-The experience of debugging appears to be a particular practice evoking certain feelings. Feelings of frustration alternate with elation at solving a tricky bug.
-
-As I built proficiency as a facilitator I began to identify different kinds of errors. The use of code patching often provoked glitch bugs which where actually behaviour did not match intended behaviour. In analysis of interactions with participants when trying to solve coding blockages, I note different strategies in responding to such errors. For some participants I quickly solve them with short explanation to allow them to continue. For other participants who I judge to be receptive I may celebrate the glitch and explore with them the opportunities they provided to understand the related code in a way that allowed the exploration of more abstract concepts using a concrete example afforded by the mechanics of the game design pattern.
-
-The following example provides an illustration of this kind of interaction and examines the surfacing of computational thinking concepts in particular.
-FIND EXAMPLE IF POSSIBLE.
-
-
-This area opens some interesting lines of questioning which are beyond the full remit of this research
-
-
-- Question - do more useful / less de-motivating errors result from remixing and game patching?
-- Question - what impact does the process of being driven by GDPs have on how users deal with errors?
-  - For example does the closely paired code structure and game output help with motivation?
-  - How do you develop a more granular sense of the kinds of blocks, errors and how to overcome them.
-
-
-
-
-<!-- While the use of debugging tools and processes are often introduced to solve a particular problem in implementing one GDP. The same process is uses to solve issues that crop up while implementing other patterns. Throughout the recordings, some individuals show an evolution of problem solving knowledge and processes in relation to coding through their independent work.
-CAN i FIND ANY KEY EXAMPLES OF THIS?
--->
-
-
-
 
 
 ## Unplaced - but needed.
@@ -1396,40 +1410,38 @@ NOTE HOW MUCH OF THIS SHOULD GO IN CHAPTER 7 ?
 An interaction on the visual map included for completeness and link to the 5tD intervention.
 
 
-#### Developing Digital Literacy skills / Fluency - / & Play paradox
 
-<!-- - MOVE TO CHAP 7 > AS A TACTIC TO PROMOTE AGENCY - A TENSION? -->
+## To move / delete
 
-The process of creating a pixel art characters and hazard involved using an online grid design tool called Piskel, creating an design of an appropriate size, saving, exporting as an image, downloading to the hard drive of the laptop in use and finally uploading and incorporating the image into the code project and linking using code syntax.
+#### The more abstract definiton of CT
 
-Perhaps play paradox here? Not a tension but something to design for? And thus backgrounding the aspects of computational thinking in favour of a more accessible experience using authentic technology. A reflection as a facilitator.
+In Chapter 7, I outline how design decisions requiring the application of abstract CT concepts based on Wings definition were to a great extent black boxed in the learning design outlined in Chapter 5.
 
-This tension can be described as a play paradox. WHERE IS THIS FIRST INTRODUCED I was looking to avoid too much time spent in asset creation at the expense of other processes which would develop coding concepts and practices. It also increased the possibility of peer learning as less tools were being used.
+However, the design also allowed people to forge their own path and make diversion from the suggested genre and choice of GDPs.
 
+Even, taking Wing's more abstract definition of CT, many examples arise in recorded interactions without being explicitly taught.
 
-### Vignette 7 – `.map` – Dialogue of use of physical maps at the start of session X
+_Abstraction_:  identified by Wing as the most vital CT concept, merits a deeper examination and is covered in a later section of this chapter. The work of Dan and Toby beyond the template?
+_Decomposition_: example of parents helping children break a larger problems into more manageable steps e.g one parent suggests to his child "Save that for version 1.1".  
+_Generalisation / pattern recognition_ is present in the majority of participants as patterns are readily available to participants in starting code and the extra patches that are added. The process is repeated.
+_Sequencing / algorithms_ are frequently explored in the resolution of errors with participants. This exploration focuses on the potential of the 3M learning design rather than making claims on the suitability to develop CT via game making which is explored extensively in other research.
 
-| Transcript | Description |
-|------------|-------------|
-| **Mick (f):** I’m putting the ones that are hardest further away from our home island. So, because keys and doors is quite tricky, I’m going to put that one over there in the corner, if that’s one that you’re working on. | Mick cuts out an image from [^4] representing a GDP of key and doors. |
-| **Tehillah (c):** So I’ve gone really far away on the map. | Tehillah quickly places her marker on that image and grins. Other parents and children to the right and left of her look at her marker. |
-| **Mick (f):** Yeah. | Mick smiles too whilst walking to get and glue another cut-out. |
-| **Tehillah (c):** Heh! | Tehillah walks back to her mother and stretches out her arms to her, who picks her up. Tehillah whispers in her mother’s ear. |
-| **Mick (f):** There should be some blue tack if you are struggling to make your character stand up. | Mick walks around the back of the group and sticks another GDP pattern on a different pre-drawn island. Roxanne (p) notices Agnes’s (c) falling character and passes the child blue tack to help. |
-| **Roxanne (p):** Oh that’s something you were wanting to do. | Roxanne points at a cut-out that Mick has just stuck down. |
-| **Richie (c):** I like the idea of making the enemies move. | – |
-| **Roxanne (p):** Ok, there’s a worksheet here about that. So you don’t want to any any health meter? | – |
-| **Richie (c):** No. | – |
-| **Roxanne (p):** At least not right now. You want to do this, on a sheet, right here, here you go. | Roxanne waves sheet and smiles at Mick and laughs. |
-| **Mick (f):** Great that’s good. We’ve got some sheets that I would recommend. That are almost like gateways to other places. One is to make your character move when it moves around the screen. | Mick moves hands when saying “make your character move,” indicating animation. |
-| **Mick (f):** Another is to make your enemies move around the screen to make it a bit harder. I know you guys have done that. | Mick moves a pointed hand to indicate an enemy moving on the screen and then points to Clive and Pearl to indicate “you guys.” |
+Conceptions of personal appropriation should not be limited to only the curricular concepts included in the learning map, the many of the behaviours explored above show both the appropriation and feeding back of varied understandings of game design patterns and related concepts and skills. The process of reusing and modify code to create a computer game can surface both abstract and concrete computing concepts present in the concrete application of code that have emerged organically at different stages of the creative process. While the design of this study does not suit full exploration of the personal plane of activity, the repeated, solo, incremental changes of the details of implementation of game design patterns indicate a personal appropriation of concepts like game feel and challenge and design processes.
+In one interaction with Sh, exploring how a bracket placed in the wrong place can effectively break the game yielded a productive discussion on the importance of correct code sequencing (PERHAPS INCLUDE AS APPENDIX?).
 
 
+Beyond this broad mapping of systems and computing concepts to aid facilitators to highlight I also sketched out metacognitive activities to explore these concepts on completion of each GDP. As explored in the design chapter, later revisions of the design of supporting materials for each GDP included links to online descriptions of design, systems and computational concepts. Thus, beginning with experience and progressing to analysis in a sway that mirrors reflective professional practice. However analysis of my journal entries show an ongoing reluctance to shift learners away from the practical implementation of repeated game design patterns to focus on more abstract, de-contextualised conceptions of the knowledge.
 
+My intuitive reluctance to impose shifts in the scope of activity systems, can be interpreted through the lens of TADS. For me to prompt a shift to a  activities to reinforce recognitions and connection of learner generated code to computing and systems concepts, would impose a objective (first stimulus) and expose a new set of secondary stimuli for learners to draw on.
+THIS SECTION NEEDS DEVELOPMENT AND COMPLEXIFICATION IN RELATION TO EXISTING RESEARCH.
 
+#### Reflection on personal appropriation of concepts
 
-## Final administrative appendix
+**Interview data**
 
-### Back up links to short URL resources
+Transcript of S and J
+The testing of the jigsaw activity
 
-The short code generator tiny.cc has been used to create more readable links for footnotes and at times in appendices. The following list of short codes used allows readers to follow links if the tiny.cc service is deprecated.
+While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
+
+Also move some of the above down here.
