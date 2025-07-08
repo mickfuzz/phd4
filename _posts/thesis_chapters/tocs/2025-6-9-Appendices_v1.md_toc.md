@@ -100,12 +100,12 @@
         -   [Appendix.D.5 - On the discovery, mapping and participant
             experience of a map of learning
             dimensions.](#appendix.d.5---on-the-discovery-mapping-and-participant-experience-of-a-map-of-learning-dimensions.)
+            -   [The potential of learning
+                maps](#the-potential-of-learning-maps)
             -   [Reflection on personal appropriation of
                 concepts](#reflection-on-personal-appropriation-of-concepts)
             -   [Evidence of CT in the
                 results](#evidence-of-ct-in-the-results)
-            -   [The potential of learning and navigational
-                maps](#the-potential-of-learning-and-navigational-maps)
             -   [Tensions involving explicit teaching of curricular
                 concepts or
                 not](#tensions-involving-explicit-teaching-of-curricular-concepts-or-not)
