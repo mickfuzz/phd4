@@ -769,7 +769,7 @@ Mentioned in Ch.5 table of manifestations of system tensions, barriers and congr
 ### Appendix D.1 - On software tools
 
 
-#### Appendix D.1.a - Summary of the following section
+#### Appendix D.1.a - Summary of software tool use
 
 **Getting started**
 
@@ -782,22 +782,7 @@ A fuller picture is included here.
 THIS IS INCOMPLETE RIGHT NOW.
 COMPLETE IT - AND DECIDE HOW MUCH DETAIL TO GO IN CHAPTER 5 - HOW MUCH HERE.
 
-SUMMARY THAT COULD BE A TABLE (OR DEVELOPED)
-
-**Code playground:** The use of the code playground helped by providing the following: a place the starting template could be viewed and played. A remix button, which when clicked created a new version of the project that could be adapted.
-
-**Simplified file structure:** The file structure was simplified so that participants were shown only the game.js file.
-
-**Variables at the start of the document:** In tandem with the use of a side by side view of game and code in the interface, small changes in those variables created rapid feedback responses and large changes in the game.
-
-**Piskel as an accessible tool size:** more on this or drop?
-
-**Graphical structuring of the level design using text code:** Changes to level design were highly scaffolded to mimic a tile map approach using text code arrays and regular block graphics.
-
-**Careful design to allow for default Piskel size:**
-The size of the pixels 32 x32
-
-
+#### Appendix D.1.? structural aspects ()
 
 #### Appendix D.1.? .toolist - Tools used in different phases of activity
 
