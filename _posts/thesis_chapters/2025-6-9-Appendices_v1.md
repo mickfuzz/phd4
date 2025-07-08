@@ -1079,30 +1079,37 @@ The process of exploring identity in this way surfaced the cheekiness of some yo
 
 
 
-##### Appendix.bartle -  Summary of interactive Bartle test - EDIT DOWN LOADS - MOVE SOME TO BLOG POST
+##### Appendix.bartle -  Summary of interactive Bartle test
 
-As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers.
+EDIT DOWN LOADS - MOVE SOME TO BLOG POST
+INTRO OF JOHN'S INPUT?
 
-I introduce a warm-up activity trialled in P2 where participants took part in an interactive the Bartle test (what kind of game player are you).  
-
-
-A Bartle test is ...
-
-![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png)}
+As part of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. I saw potential value here to address the danger internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches [@papert_epistemological_1990].
 
 
-It took the form of an as extended spectrum line/grid activity [FIND DESCRIPTION SOURCE]. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+I introduce a warm-up activity trialled in P2 where participants took part in an physical version of the Bartle Player Test, a framework used to categorise players of multiplayer games based on their preferred play style [@hamari_player_2014]. It identifies four main player types: Achievers (motivated by goals and rewards), Explorers (interested in discovery), Socialisers (driven by interaction with others), and Griefers (focused on disruption of other people's game experience). The test helps game designers understand what motivates different players.
 
-The process was adapted so players moved
-to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents. The process was very engaging and quite revealing. Parents responded that the process gave them new insight into the digital identities of their children.
+![\ Illustration 10: Bartle Player Type Test](./Pictures/bartle_test.png){width=95%}
 
-After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation.
+The process was adapted so players moved to a different quadrant of the room based on their response to the question. The process allowed young people to see how their response differed from that of their parents.
 
-The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject and talk to other games study practitioners. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
+This process celebrated different game playing types and allowed a public sharing of previously hidden gaming preferences, although for some non-gaming parents and children I had to ask them to use their imagination.
 
-As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+Several parents noted that this process gave them great insight into how their child identified within the cultures of the games they played. The process of exploring identity in this way surfaced the  and the pleasure some young people took in demonstrating their playful mischievousness. I began to make journal notes on this subject. I began to ask the question can the surfacing maker types (as per player types) encourage awareness and celebrate the emerging practices that the community was producing.
 
-Below I outline how I designed to encourage this behaviour.
+After the results were revealed, I then proposed as facilitator that my observations were that there different game maker types. I read out the different types and asked them to place themselves in a two-dimensional grid based on their self evaluation of what kind of game maker they were. Other family members were then invited to comment to see if they agreed with this interpretation. The process of exploring identity in this way surfaced the cheekiness of some young people and the pleasure they took in demonstrating their playful mischievousness. I began to make journal notes on this subject, reflection on the potential value of surfacing _maker types_ (from player types) to encourage awareness and celebrate the emerging practices that the community was producing. In particular,  linking _griefing_ in digital play with similar disruptive practices in digital making, in this case the process of messing with game play conventions other people's creations. As an example some players created impossible or overly easy game levels. They appeared aware of implications for game balance but is taking pleasure in this seeming destruction of the key challenge of the game as an act of disruptive play. They seem to take pleasure from ignoring concepts of what should be done to maintain game balance and from the sense of shock from their current audience her parent. Going against this convention is a type of playful destruction in this context. The process mirrors play theory concept of playing against the game or dark play [@sutton-smith_ambiguity_2001].
+
+I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker* types:
+
+-   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game -   
+- **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
+-   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
+-   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
+
+Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport. Madiha in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
+
+It is worth stating that, the reflections on game maker  types or styles above are not imagined or proposed as an exclusive or unchangeable styles. This statement addresses concerns on learning styles advanced by Fleming. The main problem with Fleming’s learning styles (VARK) is that there is little scientific evidence of improved outcomes or even for set styles in learners. Instead the styles are advanced as a reflective tool and as a prompt for exploratory activities in the learning design as explored in the following section.
+
 <!--
 In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals. In doing this I have taken inspiration from Bartle's game player types [@hamari_player_2014]. I translated player types to maker types based on notes in my observation journal and extracts from screen capture data. The following list of *Game Maker *types:
 
@@ -1110,8 +1117,6 @@ In and early tentative attempt to define in broad strokes the types of game make
 - **Planners:** like to study to get a full knowledge of the tools and what is possible before they build up their game step-by-step
 -   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
 -   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users -->
-
-
 
 <!-- #### Building Identities as Game Makers (dropped) -->
 
@@ -1124,47 +1129,14 @@ in open world games are used in part to appeal to different kinds of players [@b
 <!-- For examples in the Vignette of S and T's interaction we can see attributes of the child as a Glitcher. In terms of understanding of the game as a dynamic system, this is seen clearly in the parent's alarm at the child's deletion of all elements of hazard. The parent is keen to keep a sense of game balance to ensure a sense of challenge for the imagined player. "It's no fun having a game without any hazards to avoid." The child seems determined to remove all hazards.  -->
 
 
-#### Maker types
+#### Adapting the learning design to encourage activities exploring different maker types
 
-**What kind of Maker are you - Motivations behind social processes (emerging in playtesting)**
-
-By the end of P2 most of the tools and main processes were in place. But I still felt tensions around introducing reflective processes and wanted to de-centre myself where possible from a teacher position. My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. Participants, particularly older ones, used playtesting as a way of showing support for fellow game makers. Example behaviours included: praising graphical content; making links with home interests of participants through questioning; and building rapport.
-
-Madiha in particular used playtesting to show her appreciation of the graphical work of others especially in the creation of cute animal characters. In response to one game which featured an image of a dog, other participants asked: _Do you like dogs? Do you have a dog at home?_.
-
-In and early tentative attempt to define in broad strokes the types of game maker behaviour and underlying goals, taking inspiration from Bartle's game player types [@hamari_player_2014], identifying social makers, planners, magpies and glitchers.  
-
--   **Social makers:** form relationships with other game makers and players by finding out more about their work and telling stories in their game   
-- **Planners:** like to study to build knowledge of the tools before they build up their game step-by-step following instructions
--   **Magpie makers:** like trying out lots of different things and happy to borrow code, images and sound from anywhere for quick results
--   **Glitchers:** mess around with the code trying to see if they can break it interesting ways and cause a bit of havoc for other users
-
-<!-- My rationale for this process was to promote awareness of pluralistic programming process [@papert_epistemological_1990]. I wanted to try to communicate a message to participants that when you are learning something hard it is of value follow your own working preferences and try to discover a creative style that suits you. -->
-
-I saw potential value here to address the danger internal bias about the kind of process that a computer programmer should adopt, echoing the call for pluralism in approaches [@papert_epistemological_1990]. Thus, in P2 I introduced a starter game in which families moved into different quadrants of the room in answering questions on the Bartle test. This process celebrated different game playing types and allowed a public sharing of previously hidden gaming preferences, although for some non-gaming parents and children I had to ask them to use their imagination. Several parents noted that this process gave them great insight into how their child identified within the cultures of the games they played.
-
-After the process of playing a game I shared my proposition that there different game maker types. I asked participants to evaluate and discuss with peers what kind of game maker they were from the list above. This process was not explicitly used in later reflections however parent Mark made the following comment in post-session interviews.
-
-    We used the instructions, we like to plod.
-
-![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
+My journal notes detail an evolution of attempts to try to build into the program, activities which help build the participants sense of their own identities of game makers or more generally digital designers. By the end of P2 most of the tools and main processes were in place. But I wanted to decrease reliance of my role as facilitator, to increase organic reflective processes and to celebrate emerging participant identities. To do this I began to integrate my observations of different game maker styles in to the learning design more explicitly.
 
 I used the question "What kind of game maker are you?" as an indicator to participants that one aim of the project was to create a space where different approaches are possible and celebrated. To communicate this approach, as well as starting game activity, I incorporated the question into an animation of the resources home page (see illustration 4.x). In P3 the underlying ideas were incorporated into the process drama described in the next section.
 
-#### Playful Playtesting
+![Illustration 4.x - What kind of game maker are you  ](./Pictures/kindofgamemaker.png){width=95%}
 
-(Ch. 7)
-
-The maker types listed above were in particular played out in the playtesting process.
-
-
-Some children added additional playful elements to playtesting. Because these interactions were mobile between workstations is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
-
-WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
-
-    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
-
-These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
 
 #### Side missions
 
@@ -1179,7 +1151,6 @@ These changes to the form and function of playtesting by young participants is a
 | Find out what other people are planning. Give some friendly feedback to one other person / group. Why don’t you try…   | Add a rude sound to someone else’s project.    |
 | Ask 2 different groups if they have thought about what sounds they are going to put in their game.   | Swap over some sounds in someone else’s project and see if they notice.   |
 | Find out from three groups if they are going to try any totally new ideas.  | Delete all of the code of someone else as they are editing it and see how they react. Then help them get it back using the Rewind function.   |
-
 
 In the transcript above of vignette 4.1.b we see that in the end-of-session reporting back participants engage in a lively discussion about the secret missions they had been given. Encouraged by her mother Madiha, Nasrin shares that she has been highly engaged in a disruptive secret mission. Dan and Toby express playful frustration. Mark and Ed contribute by sharing their more subtle disruption and Richie is keen to have his _rude noise_ mission noticed and commented on. Some public missions had a noticeable impact in this session particularly in  stimulating a discussion among parents around which arcade games they played as youths.
 
@@ -1199,13 +1170,27 @@ the lively discussion about game playing in response to the mission to _find out
 
 ADD IN DETAIL FROM P3 -
 
+In later reflections parent Mark made the following comment in post-session interviews; "We used the instructions, we like to plod.".
 
+
+#### Playful Playtesting
+
+Referenced in Chapter 7.
+
+The maker types listed above were in particular played out in the playtesting process.
+
+Some children added additional playful elements to playtesting. Because these interactions were mobile between workstations is it hard to extract audio and transcribe their speech. However, it is possible to communicate the characteristics of this play via a description of a typical encounter and the gestures of participants.
+
+WATCH MORE CLOSELY AND TRANSCRIBE GESTURES
+
+    Play is initiated by calling across the room as an invitation to play, or as a provocation. When playtesting is underway it is normally undertaken with two or three participants standing around the computer rather than being seated. The core of those involved take turns to play the game, exclaiming frustration or triumph at completing levels or failing. Failure may be extremely performative with a rapid pulling way from the screen and keyboard. This may be followed with a battle to wrestle control of the keyboard to play the game next. This may involving playful pushing, and wrestling of hands and arms and vocalisations. While this play is happening it may attract other participants who remain on outskirts of the activity looking on able to watch what is happening on the screen and respond non-verbally with smiles or laughs.
+
+These changes to the form and function of playtesting by young participants is another example of expression of agency by participants that widens the scope of possibility of actions.
 
 
 ### Appendix D.4 - Drama process
 
 **Exploring documentation and accessing technical help within the drama frame**
-
 
 To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. The process of writing down a text request encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. Undertaking it in-role potentially addresses the barrier of asking for help by de-personalising the process.
 
