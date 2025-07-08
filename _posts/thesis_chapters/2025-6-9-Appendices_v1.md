@@ -760,9 +760,46 @@ In phase one, I noted that any addition to the game in terms of adding new any q
 
 Chapter 5 outlines how this culminated in a crisis which involved me reaching out to parents for help in the organisation of the game making sessions via the  following email. -->
 
+
+### Mapping?
+
+Mentioned in Ch.5 table of manifestations of system tensions, barriers and congruences.
+
+
 ### Appendix D.1 - On software tools
 
-#### Appendix D.? - Tools used in different phases of activity
+
+#### Appendix D.1.a - Summary of the following section
+
+**Getting started**
+
+In D1 the decision to work with retro games stemmed from a Home Education consultation event which is described in Chapter 1. This possibility to work with games spurred a return to my own love of arcade games. I became an enthusiastic pirate, scouring the web for emulated versions of the arcade games I played in the late 1970's and early 1980's. I was intrigued and impressed by the community of enthusiasts sharing these archives of games, translated into ROMs, and shared online, and creating software to emulate the old arcade machines and home video game consoles.  
+
+**Summary of motivations and sources of P2 template**
+
+Chapter 5 gives a summary of the motivations of the structure of the P2 starting template.
+A fuller picture is included here.
+THIS IS INCOMPLETE RIGHT NOW.
+COMPLETE IT - AND DECIDE HOW MUCH DETAIL TO GO IN CHAPTER 5 - HOW MUCH HERE.
+
+SUMMARY THAT COULD BE A TABLE (OR DEVELOPED)
+
+**Code playground:** The use of the code playground helped by providing the following: a place the starting template could be viewed and played. A remix button, which when clicked created a new version of the project that could be adapted.
+
+**Simplified file structure:** The file structure was simplified so that participants were shown only the game.js file.
+
+**Variables at the start of the document:** In tandem with the use of a side by side view of game and code in the interface, small changes in those variables created rapid feedback responses and large changes in the game.
+
+**Piskel as an accessible tool size:** more on this or drop?
+
+**Graphical structuring of the level design using text code:** Changes to level design were highly scaffolded to mimic a tile map approach using text code arrays and regular block graphics.
+
+**Careful design to allow for default Piskel size:**
+The size of the pixels 32 x32
+
+
+
+#### Appendix D.1.? .toolist - Tools used in different phases of activity
 
 
 - Piskel - a graphical editor used to create pixel art sprite characters;
@@ -797,26 +834,30 @@ https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruq
 
 
 
-#### Appendix D.1.? - Design decisions in the technical decisions of the template design in P2
 
-**Using a structural template rather than creating from first principles**
+#### Appendix D.1.?  - Design decisions in the technical decisions of the template design in P2
 
-Creating the project from first principles is relatively complex both semantically and practically.
+Creating a web game project from first principles is relatively complex both semantically and practically. There are technical advantages of using a structural template rather than creating from first principles. The process of supporting novice coders via boiler plate templates allows those writing supporting documentation to pull together a pre-built working demonstration is particularly useful in the domain of web technology, which normally consist of  collections of HTML, JavaScript, CSS and other configuration files. This process allows users to avoid initial configuration and thus accelerate the process of adding new features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023].
 
-In the domain of web technology, starter templates consist of pre-built collections of HTML, JavaScript, CSS and other configuration files which allow users to avoid initial configuration and thus accelerate adding features to projects. For example the Next.js web framework comes with a large range of starter templates based on common requirements of web sites [@nelson_best_2023]. Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
+Phaser starting templates available from the website share this aim of providing scaffolding by providing a downloadable zip of files which when extracted are already interlinked correctly [^5].
 While access to HTML and CSS files of the base project was available in the left menu as show in  by default participants would see only the JavaScript file names game.js .
 
-**Summary of motivations and sources of P2 template**
+**Evolution of the structure of the starting template**
 
-Chapter 5 gives a summary of the motivations of the structure of the P2 starting template. The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
+
+
+The proces
+
+The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
 
 Original source of grid template
 https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-platformer-phaser
 
-
 Phaser tutorial
 https://phaser.io/tutorials/making-your-first-phaser-2-game/
 https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
+
+
 
 
 ##### Using Phaser 2 not 3 & Game States
@@ -894,6 +935,7 @@ I had previously set the dimensions of the matrix above based on this size to cr
 ### Appendix D.2 - Supporting documentation
 
 
+
 #### Appendix D.2.a Summary of online resources
 
 A summary table including:
@@ -907,7 +949,7 @@ To do
 
 - List of the code examples - update GDP manual with this.
 
-#### Appendix D.2? .samplechapter  - Extract of supporting resources - Sample chapter on Keys and Doors gameplay design chapter
+#### Appendix D.2.? - Sample chapter on Keys and Doors gameplay design chapter
 
 This chapter, used as an example in Chapter 6 was being accessed online by Susanna in Vignette 2.
 
@@ -983,8 +1025,6 @@ We also need to comment out the code which would allow the player to progress to
 That's it. We hope you enjoy adding this game space element to your game to allow the use of keys and doors to encourage exploration.
 
 
-
-
 #### Appendix D.2? themeing - Themeing GDPs
 
 In grouping the game design patterns into categories for the documentation hub page, I drew on academic and professional interpretations of game elements [@salen_game_2006; @schell_art_2008; @tekinbas_rules_2003]. Schnell's detailed analysis of tens of game elements presented as design lenses was too complex for this audience. Instead, I adapted a simplified introductory framework developed for use in youth-oriented Game Jams to help novice game makers hack/analysis and then adapt key elements of non-digital games [@cornish_game_2018].
@@ -1008,8 +1048,6 @@ INCLUDE LINK
 
     Guidance for practitioners
     As part of the introductory activity make sure students are familiar with the 5 parts of a game, or sometimes called the 5 principles of game design.  Be sure to ask students what they already know about these terms or see what educated guesses they may have before giving the answers away.
-
-
 
 I related this simple categorisation the emerging list of requests for game features made by my participants. The final categorisation used in P4 is included as a Table 5.x below.
 
@@ -1036,7 +1074,7 @@ I then took the existing list of game elements that have been identified by stud
 ![Game Design Themes](./Pictures/four_gdp_themes.png){width=55%}
 
 
-#### Appendix 5.R.x - Sketching towards a map to help navigation.
+#### Appendix D.R.x - Sketching towards a map to help navigation.
 
 In trying to organise and represent code examples to participants in a logical way, I experimented with different categories and themes to contains the emerging game elements. I also explored the concept of mapping the different challenges by difficulty on a map via structuring via concentric rings. An example of the kind of grouping sketch used is included below as Figure 4.x.  
 
@@ -1044,7 +1082,13 @@ In trying to organise and represent code examples to participants in a logical w
 
 _Fig 4.x. Scan of Journal Sketch of early attempt at dividing features by type and difficulty - Dated 11.3.2019_
 
-The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists. For example, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
+The process of sketching, revising and re-sketching the elements led me to connect this process of categorisation with the work of game theorists.
+
+MDA framework -
+
+In addition, I recognised synergies with between _open-world_ game design and my attempts to structure resources and help learners navigate the learning experience based on choosing challenges based on their interests and appropriate difficulty levels [@squire_open-ended_2008].
+
+
 
 
 ### Appendix D.3 - Other intervention resources and processes
@@ -1052,7 +1096,6 @@ The process of sketching, revising and re-sketching the elements led me to conne
 #### Appendix D.3.x - .map – Dialogue of use of physical maps at the start of session X
 
 Add some kind of description and a photograph.
-
 
 
 | Transcript | Description |
