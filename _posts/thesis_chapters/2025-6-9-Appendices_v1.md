@@ -834,20 +834,43 @@ https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruq
 
 #### Appendix D.1.?  - On Codeplaygrounds from P1-P3
 
+Is the introduction needed?
+
 My dissertation work on Codeplaygrounds at post graduate level used Thimble [@chesterman_webmaking_2015] [^tb]. The pedagogy was guided by Mozilla's work on Webmaking [@mozilla_foundation_webmaker_2014] [^mwp].
 
-**Extended section on features (referenced in Chapter 5 C1)**
-
-Side by side preview
 
 
-**Reduced functionality**
+
+##### D.1.? - Overview of Code Playground on features
+
+(referenced in Chapter 5 C1)
+
+**Relevant for this study**
+
+- Side by side preview
+- Image uploading
+- Code linting
+- Rewind facility
+
+**Less relevant**
+- Community feedback, support  
+
+
+**Reduced functionality of Code Playgrounds in 2025**
 
 The deprecation of Glitch and migration has involved the loss of some functionality. The main one being the live aspect of both the Thimble and Glitch tools. The process of working on a project and having an ongoing live weblink which could be shared with fellow participants, friends and family is significant as a contribution to an online community of enthusiasts publishing games.  There are several alternatives available now that this functionality has been lost from the toolset but none as immediate and simple.
 
 A similar process happened in 2025 to the glitch platform. Glitch migration was needed after glitch.com announced it would stop hosting in July 2025.
 
 I undertook a process of downloading files and reuploading them to an online repository. They are now online here: https://github.com/glitch-game-club/ggcp.
+
+This begs a question, where best for facilitators to host code playground projects from 2025 onwards.
+
+- Replit: Live hosting not supported
+- Codepen: Image uploads not supported.
+- Raspberry Pi Code Editor: Image uploading not supported
+
+
 
 #### Appendix D.1.?  - Design decisions in the technical decisions of the template design in P2
 
@@ -868,6 +891,48 @@ https://web.archive.org/web/20170606010908/http://www.lessmilk.com/tutorial/2d-p
 Phaser tutorial
 https://phaser.io/tutorials/making-your-first-phaser-2-game/
 https://web.archive.org/web/20170601000000*/https://phaser.io/tutorials/making-your-first-phaser-game
+
+
+
+##### Code variables and structure
+
+<!-- THIS SEEMS A BIT SPRALLING NOW! -->
+
+In P1, after delays caused by lack of coding knowledge, I had guided participants to begin their games by using a very partial template based on an online tutorial. As the process continued, it became apparent that the starting template greatly shaped the following design possibilities.
+
+To address this, in the development period between P1 and P2, I redesigned the starting code template of a game with a greater attention to pedagogical concerns in the following ways: I made changes to the code to reduce obscure syntax where possible increasing code readability and simplifying the structure of inter-related functions to facilitate the process of adding new code structures and code snippets.
+
+The choice to pre-select a particular genre, specifically a _platformer_ game (see glossary), was a pragmatic response to reducing the tension caused by diverse help requests, which narrowed the range of game features that would be requested. A summary of how these concerns were implemented in the design process follows (see Appendix 5.tech. for a fuller description).
+
+##### Graphical asset scaffolding
+
+Turning to the use of graphical assets, the starting template was altered to facilitate and encourage the process of adding designs created by participants. Initial graphical assets consisted of colour blocks, a design choice inviting learners to develop game characters from a clean slate (see Figure 5.px). To help resolve the overly complicated use of multiple asset creation tools, I prioritised the use of the pixel art tool Piskel, as I evaluated it to be intuitive for many younger participants. In P2, participants were guided to make a game on a broadly environmental theme, participants often redesigned sprites to games involving animals. Figure 5.fish shows a whale as a player character and plastic bottles as a hazard and fish as an item to collect.
+
+![Figure 5.px - Interface of Piskelapp tool](./Pictures/piskel_app_1.png){width=95%}
+
+The process of game art and audio creation opportunities seeding narrative and artistic creativity is explored in more detail - IN AN APPENDIX?
+
+![Figure 5.fish - a sample set of assets created in Piskel in the context of a working platform game created by child in P2](./Pictures/whale_1.png){width=95%}
+
+While I made several technical adjustments to facilitate the swapping of participant graphical designs (outlined in Appendix 5.tech), the process still required a series of potentially tricky operations. While some novice code authoring tools offer self-contained solutions for audio and graphical asset creation by providing in-built authoring tools and libraries of assets, the code playground Glitch provided neither, thus requiring the use of Piskel as an external asset creation tool, complicating the process. However, this forced choice to use a distributed toolset, rather than a self-contained approach to asset management, led to benefits in developing key digital literacy skills needed for web creation. Some participants became remarkably adept at the complex process of migrating assets from Piskel into their games, transforming the chain of actions involved into fluid operations. This section has focused on the rationale behind the introduction and initial expansion of the design's primary tools, rather than evidencing their subsequent impact on participants, which is explored in Chapter 6.
+
+##### Audio assset design
+
+To add here
+
+Sonic Pi
+Online sound editor.
+
+
+##### Level design
+
+Addressing level design, in P1 the process was relatively complex involving changing parameters of functions to change asset location, and spiralling code complexity (see Appendix 5.chapter). Instead, to align with research on the value of a visual approach to coding multi-media projects for novices [@guzdial_programming_2004; @resnick_scratch_2009],  in the P2 starting template the use of a graphical grid structure to edit level design shown in Fig 5.grid. A minimal choice of level design elements were represented specifically; platforms to be jumped on; hazards to be avoided; and rewards to be collected.
+
+![](./Pictures/grid_editor_1.png){width=95%}
+Figure 5.grid - Grid based editing of level design with a simple key for hazards, coins, and platforms.
+
+Technically, each level is a JavaScript object consisting of a data array of 12 entries containing 17 characters which representing a matrix layout of the game. Each grid entry can be either black or one of the following: x (platform); h (hazard); o (coin). The structure of text-based array has a strong visual correlation with the resulting game layout and changes to the text based grid in the code area on the left would be immediately seen in the right hand project preview area. This solution abstracts away complexity and repetitive nature of asset placement mirroring a technique called tilemaps [@erhard-olsson_procedural_2018] used in GUI oriented game making tools (see glossary and Appendix.tech).
+
 
 
 
@@ -1453,6 +1518,13 @@ In its engagement with participant choice over which patterns to implement, and 
 
 
 ## Unplaced - but needed.
+
+## Technical / Additional Blog Posts.
+
+
+Publish the following as blog posts
+
+ - Break down of the starter code design structure decisions and adaptations as a contribution to applied half-baked / UMC research.
 
 
 
