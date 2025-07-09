@@ -123,7 +123,7 @@ This section outlines both the delivery of the game-making programme and the dat
 
 ![](./Pictures/phases_diagram_chevrons_3.png){width=98%}
 
-Fig. 4.x Summary of delivery phases and development periods
+Figure 4.x Summary of delivery phases and development periods
 
 <!-- **Development and recruitment** -->
 
@@ -355,7 +355,7 @@ This chapter has outlined the methodological framework underpinning the study, c
 
 [^7]: MakeCode is a block-based programming environment created by Microsoft that enables coding through graphical blocks and JavaScript or Python extensions.
 
-[^8]: Glitch migration was needed after glitch.com announced it would stop hosting in July 2025. I responded by downloading HTML, JavaScript, and CSS files for each game, and archiving them in a Git repository. The process of downloading files and reuploading them was made easier by the use of web technology. They are now online here: https://github.com/glitch-game-club/ggcp
+[^8]: Glitch migration was needed after glitch.com announced it would stop hosting in July 2025. I responded by downloading HTML, JavaScript, and CSS files for each game, and archiving them in a Git repository. The process of downloading files and reuploading them was made easier by the use of web technology. They are now online here: https://github.com/glitch-game-club/ggcp. The process has involved the loss of some functionality as described in Appendix.D.1.?
 
 [^9]: While some projects created in Piskel were lost, many had been incorporated within existing games and were thus preserved in this way. The choices of this intervention and how they compared to the wider aims of software sustainability are outlined in Appendix T.
 

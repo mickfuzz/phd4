@@ -775,6 +775,18 @@ Mentioned in Ch.5 table of manifestations of system tensions, barriers and congr
 
 In D1 the decision to work with retro games stemmed from a Home Education consultation event which is described in Chapter 1. This possibility to work with games spurred a return to my own love of arcade games. I became an enthusiastic pirate, scouring the web for emulated versions of the arcade games I played in the late 1970's and early 1980's. I was intrigued and impressed by the community of enthusiasts sharing these archives of games, translated into ROMs, and shared online, and creating software to emulate the old arcade machines and home video game consoles.  
 
+**Exploratory Phase 1**
+
+When reviewing my notes on this section I am surprised how the learners managed to keep engaged as I only introduced the actually tools to undertake text coding in week 5 due to my own hesitancy in supporting coding.
+
+The journey certainly took us around the houses with diverse use of tools and processes. I even asked participants to create a mock up of their characters and backgrounds within Scratch as its interface was familiar to some, and more user friendly to others.
+
+I don't know why it took me so long to adapt a template from the community and use it as a base given that I had taken this approach in my previous study detailing accelerated coding using a starter template of an HTML and css based meme [@chesterman_webmaking_2015].
+
+In week 5 I introduced a minimal template to remix from based on a phaser tutorial [^codep].
+
+
+
 **Summary of motivations and sources of P2 template**
 
 Chapter 5 gives a summary of the motivations of the structure of the P2 starting template.
@@ -783,6 +795,9 @@ THIS IS INCOMPLETE RIGHT NOW.
 COMPLETE IT - AND DECIDE HOW MUCH DETAIL TO GO IN CHAPTER 5 - HOW MUCH HERE.
 
 #### Appendix D.1.? structural aspects ()
+
+
+
 
 #### Appendix D.1.? .toolist - Tools used in different phases of activity
 
@@ -818,7 +833,22 @@ See this attempt at a map of skills used in P1 - very extensive but not the focu
 https://docs.google.com/spreadsheets/d/1Zu7bTMmQRj_Kgt6k6cI9nECdBtwgfnUAVd3OGruqoko/edit?gid=1216831858#gid=1216831858
 
 
+#### Appendix D.1.?  - On Codeplaygrounds from P1-P3
 
+My dissertation work on Codeplaygrounds at post graduate level used Thimble [@chesterman_webmaking_2015] [^tb]. The pedagogy was guided by Mozilla's work on Webmaking [@mozilla_foundation_webmaker_2014] [^mwp].
+
+**Extended section on features (referenced in Chapter 5 C1)**
+
+Side by side preview
+
+
+**Reduced functionality**
+
+The deprecation of Glitch and migration has involved the loss of some functionality. The main one being the live aspect of both the Thimble and Glitch tools. The process of working on a project and having an ongoing live weblink which could be shared with fellow participants, friends and family is significant as a contribution to an online community of enthusiasts publishing games.  There are several alternatives available now that this functionality has been lost from the toolset but none as immediate and simple.
+
+A similar process happened in 2025 to the glitch platform. Glitch migration was needed after glitch.com announced it would stop hosting in July 2025.
+
+I undertook a process of downloading files and reuploading them to an online repository. They are now online here: https://github.com/glitch-game-club/ggcp.
 
 #### Appendix D.1.?  - Design decisions in the technical decisions of the template design in P2
 
@@ -829,9 +859,7 @@ While access to HTML and CSS files of the base project was available in the left
 
 **Evolution of the structure of the starting template**
 
-
-
-The proces
+The process
 
 The code is available at the following link -  https://glitch.com/edit/#!/grid-game-template?path=game.js%3A242%3A25
 
@@ -1432,3 +1460,12 @@ place here
 NOTE HOW MUCH OF THIS SHOULD GO IN CHAPTER 7 ?
 
 An interaction on the visual map included for completeness and link to the 5tD intervention.
+
+## Footnotes
+
+[^tb]: Thimble was an online code editor for teaching HTML, CSS, and JavaScript, released in 2012 and updated in 2015. It was shut down in 2019. Mozilla allowed Thimble projects to be migrated to Glitch.com which they suggested as a replacement.
+https://medium.com/read-write-participate/a-note-about-thimble-b8ba0a51b8fd
+
+[^mwp]: https://wiki.mozilla.org/Webmaker/Whitepaper
+
+[^codep]: I used this one from Phaser and adapted it in code pen.  https://codepen.io/mrmick/pen/jaXzxw?editors=0010
