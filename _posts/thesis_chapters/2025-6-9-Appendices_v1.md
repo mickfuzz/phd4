@@ -783,8 +783,7 @@ The journey certainly took us around the houses with diverse use of tools and pr
 
 I don't know why it took me so long to adapt a template from the community and use it as a base given that I had taken this approach in my previous study detailing accelerated coding using a starter template of an HTML and css based meme [@chesterman_webmaking_2015].
 
-In week 5 I introduced a minimal template to remix from based on a phaser tutorial [^codep].
-
+In week 5 I introduced a minimal template to remix from based on a phaser tutorial.  I used this one from Phaser -  and adapted it and presented in the Thimble code playground. As of October 2025 it is still available to view  https://codepen.io/mrmick/pen/jaXzxw?editors=0010.  
 
 
 **Summary of motivations and sources of P2 template**
@@ -1463,5 +1462,3 @@ In its engagement with participant choice over which patterns to implement, and 
 https://medium.com/read-write-participate/a-note-about-thimble-b8ba0a51b8fd
 
 [^mwp]: https://wiki.mozilla.org/Webmaker/Whitepaper
-
-[^codep]: I used this one from Phaser -  and adapted it in code pen.  https://codepen.io/mrmick/pen/jaXzxw?editors=0010
