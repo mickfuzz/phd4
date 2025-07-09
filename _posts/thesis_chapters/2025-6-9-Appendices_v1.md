@@ -1455,11 +1455,7 @@ In its engagement with participant choice over which patterns to implement, and 
 
 ## Unplaced - but needed.
 
-place here
 
-NOTE HOW MUCH OF THIS SHOULD GO IN CHAPTER 7 ?
-
-An interaction on the visual map included for completeness and link to the 5tD intervention.
 
 ## Footnotes
 
@@ -1468,4 +1464,4 @@ https://medium.com/read-write-participate/a-note-about-thimble-b8ba0a51b8fd
 
 [^mwp]: https://wiki.mozilla.org/Webmaker/Whitepaper
 
-[^codep]: I used this one from Phaser and adapted it in code pen.  https://codepen.io/mrmick/pen/jaXzxw?editors=0010
+[^codep]: I used this one from Phaser -  and adapted it in code pen.  https://codepen.io/mrmick/pen/jaXzxw?editors=0010
