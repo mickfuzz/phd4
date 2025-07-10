@@ -771,6 +771,18 @@ Mentioned in Ch.5 table of manifestations of system tensions, barriers and congr
 
 #### Appendix D.1.a - Summary of software tool use
 
+**The current toolset**
+
+P2-3 Grid Game Template: https://replit.com/@3m-gaming/Grid-Game-Template
+Manual: http://3m.flossmanuals.net
+Manual Splash page: https://glitch-game-club.github.io/ggcp/manual
+Menu of GDPs: https://glitch-game-club.github.io/ggcp/ggc-examples/  
+
+**Historical toolset**
+
+P1 Template: https://codepen.io/mrmick/pen/jaXzxw?editors=0010
+
+
 **Getting started**
 
 In D1 the decision to work with retro games stemmed from a Home Education consultation event which is described in Chapter 1. This possibility to work with games spurred a return to my own love of arcade games. I became an enthusiastic pirate, scouring the web for emulated versions of the arcade games I played in the late 1970's and early 1980's. I was intrigued and impressed by the community of enthusiasts sharing these archives of games, translated into ROMs, and shared online, and creating software to emulate the old arcade machines and home video game consoles.  
