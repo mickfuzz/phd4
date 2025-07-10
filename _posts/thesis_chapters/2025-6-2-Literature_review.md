@@ -865,6 +865,9 @@ The authors provide examples of computational thinking patterns, such as *genera
 Another important concept within the SGD pedagogy is student ownership, particularly in participants' ability to design their own characters and backgrounds [@repenning_scalable_2015]. One limitation of the approach is the reliance on heavy scaffolding, requiring step-by-step instructions due to the complexity of the game authoring process [@repenning_scalable_2015, p.11.10]. While the authors suggest allowing students to create their own games, this is presented as an optional activity at the end of a unit, which many schools could not implement due to time constraints. This may explain the relatively low figures for student ownership, with only 139 out of 700 responses (20%) indicating aspects of student ownership [@repenning_scalable_2015, p.11.10]. Other limitations include the programme's reliance on bespoke software developed by the team, which raises concerns about long-term maintenance. Additionally, while the resources are described as just-in-time instruction, a review of the supporting website reveals lengthy instructional materials, which may hinder their effectiveness in achieving this goal [^20].  
 
 
+ADDED BACK IN - SEEMS IMPORTANT - CHECK AGAIN
+In SGD the concept of proximal flow links flow theory and the vital importance of engagement, via scaffolding to the ZPD and the social and environmental nature of that support [@basawapatna_zones_2013]. This proximal flow theory informed the structuring of tutorials within the programme [@basawapatna_zones_2019]. The concept of just in time instruction aims to reduce boredom and increase engagement with strong linking between the instruction needed and the goal to achieve a tangible goal linked a game.
+WHY IMPORTANT? 
 <!-- Both concepts of patterns can be identified by participants through their familiarity with software as users. Patterns are also shared within communities of established and novice designers as a way of saving time, encouraging code reuse and developing a shared vocabulary of concepts that enriches computational practice of the community participants. -->
 
 <!-- ![\ Illustration 6: Examples of Computational Thinking Patterns from SGD programme](./Pictures/10000000000002AD000002581577508549E2425F.png){width="12.349cm" height="10.816cm"} -->
@@ -878,10 +881,6 @@ Another important concept within the SGD pedagogy is student ownership, particul
 
 
 
-<!-- In SGD the concept of proximal flow links flow theory and the vital importance of engagement, via scaffolding to the ZPD and the social and environmental nature of that support [@basawapatna_zones_2013].
-
-This proximal flow theory developed into a particular tutorial format [@basawapatna_zones_2019].
-The concept of just in time instruction aims to reduce boredom and increase engagement with strong linking between the instruction needed and the goal to achieve a tangible goal linked a game. -->
 
 
 
