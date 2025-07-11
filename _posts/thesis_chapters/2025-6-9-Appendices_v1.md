@@ -773,7 +773,14 @@ Mentioned in Ch.5 table of manifestations of system tensions, barriers and congr
 
 **The current toolset**
 
-P2-3 Grid Game Template: https://replit.com/@3m-gaming/Grid-Game-Template
+**P2-3 Grid Game Template**
+
+CodePen () https://codepen.io/mrmick/pen/gbaOEgB?editors=0010
+Github: https://github.com/glitch-game-club/simple-game-to-edit
+Replit:  https://replit.com/@3m-gaming/Grid-Game-Template
+
+**Resources**
+
 Manual: http://3m.flossmanuals.net
 Manual Splash page: https://glitch-game-club.github.io/ggcp/manual
 Menu of GDPs: https://glitch-game-club.github.io/ggcp/ggc-examples/  
@@ -782,6 +789,8 @@ Menu of GDPs: https://glitch-game-club.github.io/ggcp/ggc-examples/
 
 P1 Template: https://codepen.io/mrmick/pen/jaXzxw?editors=0010
 
+P2 original editor - Glitch.com -
+add screenshot.
 
 **Getting started**
 
