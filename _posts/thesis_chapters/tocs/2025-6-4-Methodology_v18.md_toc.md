@@ -39,3 +39,5 @@
         -   [Wider limitations](#wider-limitations)
     -   [Chapter conclusion](#chapter-conclusion)
     -   [Footnotes](#footnotes)
+    -   [PARTS FROM OTHER CHAPTER THAT ARE
+        USEFUL](#parts-from-other-chapter-that-are-useful)

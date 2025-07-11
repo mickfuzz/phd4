@@ -61,13 +61,21 @@
                 prototyping](#appendix.-prototyping-use-of-visual-prototyping)
     -   [Appendix D - Learning design
         appendix](#appendix-d---learning-design-appendix)
+        -   [Mapping?](#mapping)
         -   [Appendix D.1 - On software
             tools](#appendix-d.1---on-software-tools)
-            -   [Appendix D.? - Tools used in different phases of
-                activity](#appendix-d.---tools-used-in-different-phases-of-activity)
+            -   [Appendix D.1.a - Summary of software tool
+                use](#appendix-d.1.a---summary-of-software-tool-use)
+            -   [Appendix D.1.? structural aspects
+                ()](#appendix-d.1.-structural-aspects)
+            -   [Appendix D.1.? .toolist - Tools used in different
+                phases of
+                activity](#appendix-d.1.-.toolist---tools-used-in-different-phases-of-activity)
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+            -   [Appendix D.1.? - On Codeplaygrounds from
+                P1-P3](#appendix-d.1.---on-codeplaygrounds-from-p1-p3)
             -   [Appendix D.1.? - Design decisions in the technical
                 decisions of the template design in
                 P2](#appendix-d.1.---design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
@@ -75,14 +83,13 @@
             documentation](#appendix-d.2---supporting-documentation)
             -   [Appendix D.2.a Summary of online
                 resources](#appendix-d.2.a-summary-of-online-resources)
-            -   [Appendix D.2? .samplechapter - Extract of supporting
-                resources - Sample chapter on Keys and Doors gameplay
-                design
-                chapter](#appendix-d.2-.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
+            -   [Appendix D.2.? - Sample chapter on Keys and Doors
+                gameplay design
+                chapter](#appendix-d.2.---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
             -   [Appendix D.2? themeing - Themeing
                 GDPs](#appendix-d.2-themeing---themeing-gdps)
-            -   [Appendix 5.R.x - Sketching towards a map to help
-                navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
+            -   [Appendix D.R.x - Sketching towards a map to help
+                navigation.](#appendix-d.r.x---sketching-towards-a-map-to-help-navigation.)
         -   [Appendix D.3 - Other intervention resources and
             processes](#appendix-d.3---other-intervention-resources-and-processes)
             -   [Appendix D.3.x - .map -- Dialogue of use of physical
@@ -90,9 +97,11 @@
                 X](#appendix-d.3.x---.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
             -   [Appendix D.3.x - Maker types and social
                 missions](#appendix-d.3.x---maker-types-and-social-missions)
-            -   [Maker types](#maker-types)
-            -   [Playful Playtesting](#playful-playtesting)
+            -   [Adapting the learning design to encourage activities
+                exploring different maker
+                types](#adapting-the-learning-design-to-encourage-activities-exploring-different-maker-types)
             -   [Side missions](#side-missions)
+            -   [Playful Playtesting](#playful-playtesting)
         -   [Appendix D.4 - Drama
             process](#appendix-d.4---drama-process)
             -   [Playful dialogue with the aliens unrelated to game
@@ -119,3 +128,6 @@
         -   [GDPs again - Move some of this to Chapter 2 if
             helpful?](#gdps-again---move-some-of-this-to-chapter-2-if-helpful)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
+    -   [Technical / Additional Blog
+        Posts.](#technical-additional-blog-posts.)
+    -   [Footnotes](#footnotes)
