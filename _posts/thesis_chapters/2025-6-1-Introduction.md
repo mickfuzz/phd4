@@ -80,7 +80,7 @@ title: 1. Introduction - Pumping up the Jam - Facilitating participant collabora
             research](#on-utility-and-design-based-research)
     -   [PARKED](#parked)
 
-# Introduction - Pumping up the Jam - Facilitating participant collaboration and agency development in the making of code-based retro games
+# Introduction - Pumping up the Jam - Supporting collaboration and agency in families’ retro game-making with code
 
 Author Mick Chesterman
 
