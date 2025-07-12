@@ -80,7 +80,7 @@ title: 1. Introduction - Pumping up the Jam - Facilitating participant collabora
             research](#on-utility-and-design-based-research)
     -   [PARKED](#parked)
 
-# Introduction - Pumping up the Jam - Facilitating participant collaboration and agency in the making of code-based retro games
+# Introduction - Pumping up the Jam - Facilitating participant collaboration and agency development in the making of code-based retro games
 
 Author Mick Chesterman
 
@@ -88,7 +88,19 @@ Author Mick Chesterman
 
 **A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.**
 
+This study addresses the cultural and interpersonal dimensions and evolving tool use of an emerging community of home educating families coding digital games together.
+Number of phases? Age range.
+Key methodologies.
 
+
+
+<!-- This thesis explores how computing game design and programming (CGD&P) can be made more inclusive and responsive to the needs of late primary-aged learners. Drawing on sociocultural theory, activity theory, and design-based research, the study investigates how pedagogy can support learner agency, surface contradictions, and connect with children’s existing repertoires of knowledge and interest.
+
+The research was conducted across five phases in a UK home education context, involving a diverse group of children, parents, and facilitators. A flexible pedagogical model, called the 3M framework (Missions, Maps, and Methods), was developed and refined through cycles of co-design and facilitation. It made use of curated game design patterns, playful narrative structures, and adaptable code templates to support creative and collaborative learning.
+
+Using video analysis, screen capture, and contradiction mapping, the study examined how learners engaged with technical, cultural, and relational aspects of game-making. Findings show how participants adapted tools, resisted fixed roles, and developed new forms of agency through playful experimentation and collective problem-solving.
+
+The thesis contributes to educational theory by extending activity-theoretical approaches to agency in informal computing settings and offers practical insights for educators seeking to design more inclusive, dialogic, and creative programming experiences. -->
 
 <!-- Author Mick Chesterman
 
