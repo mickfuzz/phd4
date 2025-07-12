@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
 layout: post
 categories: chapter
-title: 1. Introduction - Games for a Read-Write world.
+title: 1. Introduction - Pumping up the Jam - Facilitating participant collaboration and agency in creating code-based retro games   
 ---
 -   [Introduction - "Games for a Read / Write
     World."](#introduction---games-for-a-read-write-world.)
@@ -80,15 +80,23 @@ title: 1. Introduction - Games for a Read-Write world.
             research](#on-utility-and-design-based-research)
     -   [PARKED](#parked)
 
-# Introduction - “Games for a Read / Write World.”
+# Introduction - Pumping up the Jam - Facilitating participant collaboration and agency in the making of code-based retro games
+
+Author Mick Chesterman
+
+## Abstract
 
 **A study of the cultural and interpersonal dimensions and evolving tool use of an emerging community of families coding digital games together.**
+
+
 
 <!-- Author Mick Chesterman
 
 ## Abstract
 https://stummuac-my.sharepoint.com/:w:/r/personal/55120089_ad_mmu_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7B813EF50F-3400-4E1E-8105-698B756CAB7C%7D&file=Simulation%202025%20-%20test%20project.docx&action=default&mobileredirect=true&wdOrigin=OFFICE-OFFICE-METAOS.FILEBROWSER.FILES-HOME
 To come - for now see outline of thesis at the end of chapter -->
+
+
 
 
 ## 1. Introduction to the thesis
