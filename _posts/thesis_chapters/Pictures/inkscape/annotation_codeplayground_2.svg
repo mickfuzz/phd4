@@ -75,7 +75,10 @@
        d="m 130.67734,120.81327 11.04439,0.12911"
        id="path3084"
        inkscape:connector-type="polyline"
-       inkscape:connector-curvature="0" /></g><g
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="../simple_codeplayground_2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" /></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"><path
@@ -204,9 +207,9 @@
        id="text760"><tspan
          x="21.078125"
          y="125.95565"
-         id="tspan433"><tspan
+         id="tspan526"><tspan
            dx="0 6.0536528"
-           id="tspan431">23</tspan></tspan></text><path
+           id="tspan524">23</tspan></tspan></text><path
        style="fill:none;stroke-width:0.264583"
        id="path762"
        sodipodi:type="arc"
