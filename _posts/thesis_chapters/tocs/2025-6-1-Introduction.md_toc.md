@@ -1,5 +1,7 @@
--   [Introduction - "Games for a Read / Write
-    World."](#introduction---games-for-a-read-write-world.)
+-   [Introduction - Pumping up the Jam - Supporting collaboration and
+    agency in families' retro game-making with
+    code](#introduction---pumping-up-the-jam---supporting-collaboration-and-agency-in-families-retro-game-making-with-code)
+    -   [Abstract](#abstract)
     -   [1. Introduction to the thesis](#introduction-to-the-thesis)
     -   [2. Context / Background](#context-background)
         -   [Background of informal settings / non-formal and home

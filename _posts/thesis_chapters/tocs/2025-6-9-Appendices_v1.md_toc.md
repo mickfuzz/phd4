@@ -39,6 +39,10 @@
             -   [Interview.4 - Dan](#interview.4---dan)
             -   [App.7.fdb - Feedback
                 Extracts](#app.7.fdb---feedback-extracts)
+                -   [App.fdb.a - Susanna and Tehillah note on starting
+                    games](#app.fdb.a---susanna-and-tehillah-note-on-starting-games)
+                -   [App.fdb.a - P1 end
+                    evaluation](#app.fdb.a---p1-end-evaluation)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
@@ -54,6 +58,8 @@
             -   [Appendix.debugging GDPs used to nurture tactical
                 responses to coding
                 errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
+                -   [Concluding remarks on debugging and
+                    revision](#concluding-remarks-on-debugging-and-revision)
             -   [Appendix.C .bee - Contextual Vignette on the conflict
                 experienced by one family & the 3D
                 Bee](#appendix.c-.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
@@ -76,9 +82,22 @@
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
             -   [Appendix D.1.? - On Codeplaygrounds from
                 P1-P3](#appendix-d.1.---on-codeplaygrounds-from-p1-p3)
+                -   [D.1.? - Overview of Code Playground on
+                    features](#d.1.---overview-of-code-playground-on-features)
             -   [Appendix D.1.? - Design decisions in the technical
                 decisions of the template design in
                 P2](#appendix-d.1.---design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
+                -   [Code variables and
+                    structure](#code-variables-and-structure)
+                -   [Graphical asset
+                    scaffolding](#graphical-asset-scaffolding)
+                -   [Audio assset design](#audio-assset-design)
+                -   [Level design](#level-design)
+                -   [Using Phaser 2 not 3 & Game
+                    States](#using-phaser-2-not-3-game-states)
+                -   [Template structure and asset placement - Add in
+                    Chapter tutorial example extract here
+                    too](#template-structure-and-asset-placement---add-in-chapter-tutorial-example-extract-here-too)
         -   [Appendix D.2 - Supporting
             documentation](#appendix-d.2---supporting-documentation)
             -   [Appendix D.2.a Summary of online
@@ -86,6 +105,8 @@
             -   [Appendix D.2.? - Sample chapter on Keys and Doors
                 gameplay design
                 chapter](#appendix-d.2.---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
+                -   [Game Space: Keys and
+                    Doors](#game-space-keys-and-doors)
             -   [Appendix D.2? themeing - Themeing
                 GDPs](#appendix-d.2-themeing---themeing-gdps)
             -   [Appendix D.R.x - Sketching towards a map to help
@@ -97,6 +118,8 @@
                 X](#appendix-d.3.x---.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
             -   [Appendix D.3.x - Maker types and social
                 missions](#appendix-d.3.x---maker-types-and-social-missions)
+                -   [Appendix.bartle - Summary of interactive Bartle
+                    test](#appendix.bartle---summary-of-interactive-bartle-test)
             -   [Adapting the learning design to encourage activities
                 exploring different maker
                 types](#adapting-the-learning-design-to-encourage-activities-exploring-different-maker-types)
@@ -109,8 +132,11 @@
         -   [Appendix.D.5 - On the discovery, mapping and participant
             experience of a map of learning
             dimensions.](#appendix.d.5---on-the-discovery-mapping-and-participant-experience-of-a-map-of-learning-dimensions.)
+            -   [Background on learning Dimensions Map - -
+                COMPRESS?](#background-on-learning-dimensions-map-----compress)
             -   [The potential of learning
                 maps](#the-potential-of-learning-maps)
+                -   [Evolution of the map](#evolution-of-the-map)
             -   [Reflection on personal appropriation of
                 concepts](#reflection-on-personal-appropriation-of-concepts)
             -   [Evidence of CT in the
