@@ -1331,7 +1331,45 @@ These changes to the form and function of playtesting by young participants is a
 
 ### Appendix D.4 - Drama process
 
-**Exploring documentation and accessing technical help within the drama frame**
+
+#### Introducing a drama process in P3
+
+**Context:**  
+The participants have entered the room and chosen a laptop to work on. Some of the children are playing web-based games or reviewing the games they made previously. The session progresses with a warm-up game involving many false starts, rule changes, tactics, appeals to be serious, laughter, and repeated restarts. The transcript picks up at this point.
+
+##### Transcript and inline notes
+
+**Mick:**  
+Ok. So I’ve got a surprise. I don’t know if you know but as part of our Home Ed club we did a page of different games. It’s on glitch.com and it’s called Glitch Game Club… there’s one for Home Ed Winter 2019 and here are all the games that we made. We made a lot of games. 15 games.  
+This has not gone unnoticed because I got a message through this account. This is kind of a story now. We are entering a story. You have to use your imagination.  
+We got a message and it was an audio message. If you guys take your fingers off your keyboards and have a listen to this audio message which is quite unusual as I don’t think it was from anyone on … this ... Earth.
+
+**Audio message (read aloud):**  
+> Greetings Earthlings, we have an important message for the Glitch Game Makers.  
+> We are the Weean. You would call us an alien life force. We like to think of ourselves as friendly space cousins.  
+> We can see your Internet from space. We are contacting you because we know you are making games on the Internet.  
+> We are on our way to Planet Earth, and we have an important mission for you. We are an Intergalactic Rescue team. We know you have problems on your planet. We can help.  
+> But we need to find out one thing first. Are you worth it?  
+> After we are gone will you also be able to help yourselves? Or are you already doomed to make the same mistakes again?  
+> You must pass this challenge. Make some games showing problems you have on Earth. In the games also include ideas for how to solve them.
+
+**Mission Instructions:**  
+- Make a game about a big or small problem for your planet to solve.  
+- Let us play it each week as you go along.  
+- Give us an update each week by recording a group update.  
+- Show you can work on your own but also as part of a team.  
+- We will send you text messages with mini-missions. Tell us how you do.
+
+**Mick:**  
+So yeah, that’s the story. (with heavy irony) I’m pretty sure it’s true.  
+(Mick and others laugh)
+
+So all they’re asking us to do is come up with a game. We’ve got four sessions. It’s got to be about the problems of the world—big or small. Include your ideas on how to solve them.  
+And yeah, work alone but also as a team. We’ve got to give them a report by the end of each session. That’s our mission.
+
+
+
+#### Exploring documentation and accessing technical help within the drama frame
 
 To do this in a way that encouraged other participants to join in, I created a project in the shared coding project area with a webpage that could be edited and viewed by participants. When in the vignette 4.1.b Mark asks "We’d like to ask the Weean some more questions (to overcome coding blockages), is that the best way to do it?", he is referring to this project webpage. The process of writing down a text request encourages the adoption of professional practice of asking a written question to overcome a coding problem and thus builds experience of using technical terms. Undertaking it in-role potentially addresses the barrier of asking for help by de-personalising the process.
 
@@ -1350,6 +1388,130 @@ The process of asking the aliens for technical help within a code project sparke
 This chat began to fulfil a function of building  insider rapport, creating a fun atmosphere, celebrating the completion of games in the absence of a public showcase, and signposting the achievements of other participants. For some pairs, while the child interacted in the live chat, parents performed final tweaks to code projects and challenges. Two parents in particular worked hard debugging more complex elements of the game with facilitators and peers. Other parents engaged with the chat and encouraged their children to get feedback from the aliens about their game in particular.
 
 The process started with supportive and celebratory messages posted from the alien. The impact was significant with the young people with 5 out of 7 engaging by writing messages and all mentioning the interactions verbally during the session.
+
+
+
+
+### Session reflections involving drama narrative and secret missions (P3)
+
+**Context:**  
+This extract comes from the following session in phase three. In three of the four sessions, the last 10 minutes involved giving a progress update to the aliens.  
+
+Compared to previous phases, these structured reflections prompted near-complete participation. The need to maintain the drama narrative seemed to boost motivation.  
+
+I asked participants to gather around a particular computer “monitored by the aliens” which helped them stop coding and physically cluster together. Even initially reluctant participants began contributing more than in earlier reflective formats.
+
+#### Transcript and Activity Log
+
+**Mick:**  
+Ok are you guys ready to share back? If you could come to this side of the room we’re going to get Mark and Edward to share back first. Everyone can use this computer the Weean are watching.
+
+**Mark:**  
+All we’ve done today is just get a background in and then we were working on the one the Weean sent us—about dropping the coins in.  
+The idea is planting trees—dropping seeds. Some enemies tweening around take them away.  
+We want a timer—drop enough in a certain timeframe or you can’t go to the next level.  
+Level two is watering trees.  
+Level three is protecting them from being chopped down again.  
+We’ve got the concept and code, so we should make a jump forward now. Doesn’t look like we’ve done much—but we have. (laughs)
+
+**Mick:**  
+That’s great. Anything you want help with before next time?
+
+**Mark:**  
+Yeah, we’d like to ask the Weean some more questions. Is that OK?
+
+**Mick:**  
+Yes for sure. You’ve been talking to them—this project called *Talking to the Weean* lets you do that. Go to “Edit Project,” click “WEEAN,” and use Markdown to ask questions.
+
+#### Chat Extract from ‘Talking to the Weean’ project
+
+**Ed:**  
+Weean what’s it like up there?
+
+**Weean:**  
+It’s cold and very big but quite tranquil.
+
+**Ed:**  
+What is your name?
+
+**Weean:**  
+We are the Weean. We have no name. We are all the same.
+
+**Ed:**  
+That must be hard at Xmas. (laughter)
+
+**Weean:**  
+It is. It sure is.
+
+**Mark:**  
+That’s tickled me, that.
+
+**Mick:**  
+So you can have a conversation with them in markup. Nasrin, can you tell us what you’ve added to your game? Is it still called “No Toby Allowed”? (laughs)
+
+**Nasrin:**  
+Not really done much today, I was busy doing stuff with Toby’s.
+
+**Dan:**  
+We noticed.
+
+**Nasrin:**  
+I’ve changed the platform a bit.
+
+**Madiha:**  
+You had a secret mission though, didn’t you?
+
+**Nasrin:**  
+Yeah, it was to change someone’s game—their character or something—and see if they noticed.  
+I think they did notice.
+
+**Dan:**  
+We did.
+
+**Madiha:**  
+You couldn’t not notice.
+
+**Mick:**  
+You turned up the volume on the mischief. (laughter)
+
+**Madiha:**  
+Sprite!
+
+**Mark:**  
+We also had a secret mission.
+
+**Mick:**  
+What was it?
+
+**Mark:**  
+To change the sound on someone’s game.
+
+**Nasrin:**  
+Oh, was it?
+
+**Mark:**  
+Did you notice?
+
+**Nasrin:**  
+No! (laughing)
+
+**Mark:**  
+Play it now!
+
+**Richie:**  
+You definitely noticed my bit. (points)
+
+(Nasrin starts playing her game)
+
+**Nasrin:**  
+I can’t hear anything different. (Everyone laughs)
+
+**Mark:**  
+I thought you were going to go “Aagh!” but you didn’t say anything.
+
+**Mick:**  
+Interesting—some people notice, some don’t.
+
 
 
 
