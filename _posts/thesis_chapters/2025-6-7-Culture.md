@@ -233,10 +233,10 @@ Chapter 2 began to explore, through the lens of personal appropriation, a variet
 Following Hook [-@hook_strong_2012], Eriksson et al. [-@eriksson_using_2019], in their use of a curated collection of GDPs to structure game design, framed design patterns as a form of intermediate-level concept, between the detail of concrete implementation and more general theories. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work.  -->
 
 
-This section explores dimensions of abstraction and concreteness in the use of GDPs within the context of computing education by revisiting relevant pedagogies outlined in Chapter 2. In activity theory, specifically in formative interventions, the research process and the evolving design involve a process of _rising to the concrete_. This analytical process involves identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it. Thus, in this study, GDPs are conceptualised as both intermediate-level learning design principles (explored in Chapter 5) and as units of analysis (see Chapter 3), as well as analytical germ cells manifested in varied motivational and mediational forms (Chapter 6).
+This section explores dimensions of abstraction and concreteness in the use of GDPs within the context of computing education by revisiting relevant pedagogies outlined in Chapter 2. In activity theory, specifically in formative interventions, the research process and the evolving design involve a process of _rising to the concrete_. This analytical process involves identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it. 
 
-
-
+THERE IS DUPLICATION HERE WITH CH.6 - REMOVE IT -
+Thus, in this study, GDPs are conceptualised as both intermediate-level learning design principles (explored in Chapter 5) and as units of analysis (see Chapter 3), as well as analytical germ cells manifested in varied motivational and mediational forms (Chapter 6).
 
 
 <!-- This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter  -->

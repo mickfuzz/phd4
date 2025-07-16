@@ -575,7 +575,7 @@ Mick: It’s almost like this is our control panel. What do you want to do next 
 And I’ve put it down on a bit of paper.  It’s just gcc-examples.glitch.com
 
 
-#### Appendix.debugging GDPs used to nurture tactical responses to coding errors
+#### Appendix C.debugging GDPs used to nurture tactical responses to coding errors
 
 COPIED FROM GDP CHAPTER
 
@@ -1522,7 +1522,7 @@ This appendix outlines the evolution of a map of learning dimensions which is re
 
 Similarly, one of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. Table 4.x. shows my resulting map of learning dimensions. While some concepts are common to existing computational thinking frameworks others, including systems thinking concepts, are more unique to game making. The choice to include some elements over others is based on a synthesis of the experience of participants, existing frameworks in this domain (previously explored in the LR), and my own interpretation which privileged under explored elements like systems patterns. Due to the dominance personal input, this framework is offered as starting point which could benefit from the type of collaborative analysis undertaken in Bevan and Petrich's process.
 
-
+<!--
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
 | Sequences | Systems Elements      | Goal Setting        |
@@ -1534,8 +1534,22 @@ Similarly, one of the outcomes of my research was to extract from hours of recor
 | Change Listener |    | Debugging   |
 | Input Event |   | Reusing and Remixing      |
 
-Table 1.1. Learning Dimensions of the 3M Game Making Model
+Table 1.1. Learning Dimensions of the 3M Game Making Model -->
 
+
+
+| Computational Thinking  | Coding Concepts    | Systems Patterns    | Design and Technical Practices|
+|--------------|--------------|-----------|------------|
+| Abstraction | Sequences | Systems Elements      | Goal Setting        |
+| Decomposition | Variables      | Systems Dynamics  | Being Incremental and Iterative       |
+| Pattern Recognition | Logic | Reinforcing Feedback Loops      | Developing Vocabulary        |
+| Algorithmic Thinking | Loops | Balancing Feedback Loops      | Web Literacy (as a subset of digital literacy)  [^moz] |
+|  | Arrays |       | Code patching       |
+| | Creating Functions |       | Version Control    |
+| | Change Listener |    | Debugging   |
+| | Input Event |   | Reusing and Remixing      |
+
+Table  -  Learning Dimensions final version from D5 process.
 
 ##### Background on learning Dimensions Map - - COMPRESS?
 
@@ -1553,6 +1567,7 @@ However, despite this alignment and potential utility in a school setting, I was
 
 My ongoing discomfort surrounding the validity of the learning experience without direct alignment to abstract content, stem from wider concerns around avoiding danger of tacit learning by reinforcing learning and spur metacognition [@gherardi_toward_1998]. Even if generalisable concepts can be encountered in the context of an learner-driven activity, they may not be explored without guidance from others. Hoyles and Noss term this tension a 'play paradox' [@hoyles_pedagogy_1992, p.46]. This theme is explored in more detail in chapter six concentrating on social processes rather than external documentation.
 
+CROSS REFERENCING
 
 <!-- In learning environments where there is a lot of choice assessing learners via observation is beneficial. Rather than deciding what you want to teach and testing students on that area, you can map the learning happening in an authentic activity. -->
 
