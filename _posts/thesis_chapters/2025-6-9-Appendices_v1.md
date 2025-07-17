@@ -712,11 +712,11 @@ That week I had omitted them as I felt a sense of urgency coming from families t
 
 
 
-#### Appendix. prototyping Use of visual prototyping
+#### Appendix C.proto prototyping Use of visual prototyping
 
 MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
 
-In Chapter 6 the use of visual prototyping was explored in relation Vignette 7 with Dan and Toby.
+In Chapter 6 the use of visual prototyping was explored in relation Vignette 6 with Dan and Toby.
 
 By way of contrast, in Vignette 2, the Susanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
 

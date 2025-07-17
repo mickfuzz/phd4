@@ -55,9 +55,9 @@
             debugging](#appendix.c-.---patching-and-debugging)
             -   [Transcript of interaction explaining code
                 patching](#transcript-of-interaction-explaining-code-patching)
-            -   [Appendix.debugging GDPs used to nurture tactical
+            -   [Appendix C.debugging GDPs used to nurture tactical
                 responses to coding
-                errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
+                errors](#appendix-c.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
                 -   [Concluding remarks on debugging and
                     revision](#concluding-remarks-on-debugging-and-revision)
             -   [Appendix.C .bee - Contextual Vignette on the conflict
@@ -127,8 +127,22 @@
             -   [Playful Playtesting](#playful-playtesting)
         -   [Appendix D.4 - Drama
             process](#appendix-d.4---drama-process)
+            -   [Introducing a drama process in
+                P3](#introducing-a-drama-process-in-p3)
+                -   [Transcript and inline
+                    notes](#transcript-and-inline-notes)
+            -   [Exploring documentation and accessing technical help
+                within the drama
+                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
             -   [Playful dialogue with the aliens unrelated to game
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
+        -   [Session reflections involving drama narrative and secret
+            missions
+            (P3)](#session-reflections-involving-drama-narrative-and-secret-missions-p3)
+            -   [Transcript and Activity
+                Log](#transcript-and-activity-log)
+            -   [Chat Extract from 'Talking to the Weean'
+                project](#chat-extract-from-talking-to-the-weean-project)
         -   [Appendix.D.5 - On the discovery, mapping and participant
             experience of a map of learning
             dimensions.](#appendix.d.5---on-the-discovery-mapping-and-participant-experience-of-a-map-of-learning-dimensions.)
