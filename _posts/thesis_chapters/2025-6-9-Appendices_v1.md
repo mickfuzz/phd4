@@ -718,10 +718,9 @@ MOVE FOLLOWING TO AN APPENDIX ON PAPER PROTOTYPING ?
 
 In Chapter 6 the use of visual prototyping was explored in relation Vignette 6 with Dan and Toby.
 
-By way of contrast, in Vignette 2, the Susanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
+In Vignette 2, the Susanna(p) notices the child's difficulty in using cursor and delete/backspace keys to edit a matrix allowing level design. The parent provides a book with grid paper to allow the child to replicate the matrix. The parent is then able to transcribe the design to the code example while engaging the child by checking she has interpreted the design correctly.
 
 The use of paper prototypes was one technique used by several parents to support their children to form and develop their design ideas. In our starting vignette the matrix helped the child design with little coding or literacy ability. The way the code is structured has been chosen to allow a graphical analogue between the lines of code in the form of a comma separated array and the appearance of the resulting game output on the screen. The parent uses the graphical representation of design in the code template as a jumping off point to make a connection to home practice of sketching things out in paper. The process of turn the sketched into reality on the screen and sharing with others appears to be transformative in terms of the engagement level of the child.
-
 
 There are other examples of the use of paper prototyping of GDPs being used by parents to provide scaffolding for their children. When invited to share about their design process in a post session interview, Ed and Mark  also discuss the use of paper to clarify initial GDP ideas in interview data. When asked if they were able to Mark  prompts
 
