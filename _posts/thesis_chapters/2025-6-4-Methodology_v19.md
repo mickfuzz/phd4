@@ -9,25 +9,22 @@ layout: post
 categories: chapter
 title: 4. Methodology
 ---
-
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
         -   [Describing a broad overview of the
             approach](#describing-a-broad-overview-of-the-approach)
-        -   [An overview of how this study applies theoretical
-            principles](#an-overview-of-how-this-study-applies-theoretical-principles)
+    -   [Data collection within project delivery
+        phases](#data-collection-within-project-delivery-phases)
+        -   [Table: Summary of delivery
+            phases](#table-summary-of-delivery-phases)
+        -   [Theoretical commitments shaping
+            design](#theoretical-commitments-shaping-design)
             -   [A qualitative and exploratory
                 approach](#a-qualitative-and-exploratory-approach)
             -   [The use of holistic data and rich
                 descriptions](#the-use-of-holistic-data-and-rich-descriptions)
         -   [Utility and replicability](#utility-and-replicability)
-        -   [Authentic and ecological orientation and my
-            researcher--facilitator dual
-            role](#authentic-and-ecological-orientation-and-my-researcherfacilitator-dual-role)
-    -   [Data collection within project delivery
-        phases](#data-collection-within-project-delivery-phases)
-        -   [Table: Summary of delivery
-            phases](#table-summary-of-delivery-phases)
+        -   [Ethical considerations](#ethical-considerations)
     -   [Data analysis process](#data-analysis-process)
         -   [Stage 1 -- Exploratory
             analysis](#stage-1-exploratory-analysis)
@@ -37,13 +34,16 @@ title: 4. Methodology
             Consolidation](#stage-3-interpretive-consolidation)
             -   [Design narrative as interpretive
                 structure](#design-narrative-as-interpretive-structure)
+            -   [Use of 3GAT analysis](#use-of-3gat-analysis)
+        -   [Diagrammatic representations - Drop, move or
+            keep?](#diagrammatic-representations---drop-move-or-keep)
             -   [GDPs as a germ cell in design and
                 analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
             -   [Analysing learner agency](#analysing-learner-agency)
-    -   [Broader methodological
-        considerations](#broader-methodological-considerations)
-        -   [Ethical considerations and
-            validity](#ethical-considerations-and-validity)
+    -   [Researcher stance and interpretive
+        validity](#researcher-stance-and-interpretive-validity)
+        -   [Triangulation and analytic
+            trustworthiness](#triangulation-and-analytic-trustworthiness)
         -   [Generalisability and
             replication](#generalisability-and-replication)
         -   [Methodological and practical
@@ -53,6 +53,8 @@ title: 4. Methodology
     -   [Footnotes](#footnotes)
 
 # Methodology
+
+
 
 ## Introduction
 
@@ -77,12 +79,117 @@ Data included screen capture analysis,  documentation emerging from the research
 **RQ3**: *How do learner agency and game-maker identity develop within CGD&P communities of practice, and what pedagogical strategies best support this evolution across diverse learning contexts?*  
 A dataset spanning phases of community interactions and design development, interviews, and field notes was analysed through thematic clustering, relational mapping, and narrative analysis. This was informed by DBR’s emphasis on iterative refinement and 3GAT’s view of expansive learning in situated activity which draws on practices from interconnected activity systems.
 
-### An overview of how this study applies theoretical principles
+
+
+## Data collection within project delivery phases
+
+This section outlines both the delivery of the game-making programme and the data collection activities embedded within each phase. As the next chapter presents the evolution of the intervention as a design narrative, the focus here is primarily on methods of data collection and the analytical approaches they supported. The project was delivered over five distinct phases, along with a development period. Each phase involved changes to tools, group sizes, and facilitation practices. These shifts reflected both planned redesign and more responsive adaptations to participant needs. Figure 4.x shows a summary of these phases.
+
+<!-- From https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g2e34c54339d_0_0#slide=id.g2e34c54339d_0_0 -->
+
+![](./Pictures/phases_diagram_chevrons_3.png){width=98%}
+
+Figure 4.x Summary of delivery phases and development periods
+
+<!-- **Development and recruitment** -->
+
+The first development process of this study (D1) drew on a background context of my involvement in community-based technology education as outlined in Chapter 1. My involvement in previous work through the EdLab programme [^3] and its playful technology strand meant that I had already built relationships with the home-educating community. Between 2016 and the start of this study, I had run various workshops in libraries, the university, and through CoderDojo events. To promote these events I had used three established home education communication networks[^4]. The recruitment process of this study followed this previous pattern. I shared a invitation to participant to those three groups which asking interested families to contact me by email [^5]. Once contacted by potential participants, I sent them a participation sheet and asked for confirmation of attendance [^6].
+
+The following table gives an overview of participant numbers, number of sessions, and key learning activities by phase. These changes in focus and activity shaped the kinds of data generated, and also influenced the form and feasibility of collection.
+
+
+
+### Data collection methods and their integration with project delivery
+
+| Phase | Sessions | Participants | Activities and data highlights |
+|-------|----------|--------------|-------------------------------|
+| **P1** | 10 | 5 parents, 8 children | **Exploratory group phase.** Mixed-age groups engaged in paper-based planning, introductory coding with a text-based tool, and asset creation. Game files and design artefacts were collected. |
+| **P2** | 6  | 8 parents, 11 children, 4 student helpers | **Smaller group development.** Participants used a shared coding template and printed guides. Asset creation was less central to the process. |
+| **P3** | 5  | 4 parents, 8 children, 1 student helper | **Drama-integrated learning.** Continued with the same coding setup, enriched by side missions and drama-based activities. |
+| **P4** | 6  | 4 parents, 7 children | **Toolset shift.** MakeCode (block-based) was introduced [^7]. Sessions became more modular and self-paced. |
+| **P5** | 5  | 3 parents, 3 children | **Personalised learning.** A smaller group continued using MakeCode, with a focus on individual and pair-based game projects. |
+
+Table 4.x: Summary of delivery phases
+
+<!--
+| Phase | Sessions | Participants | Key learning activities and data generated |
+|-------|----------|--------------|--------------------------------------------|
+| P1    | 10       | 5 (p) + 8 (c) | Exploratory phase with three larger groups of mixed ages. Data includes paper-based planning, basic coding using a text-based toolset, and early asset creation. Game files and code were collected. See Appendix t.x. |
+| P2    | 6        | 8 (p) + 11 (c) + 4 (sh) | Groups became smaller and more focused. A shared template supported game development. Asset creation was more limited, but participants used printed guides extensively. [^3] |
+| P3    | 5        | 4 (p) + 8 (c) + 1 (sh) | Same coding environment as in P2. Additional drama activities and side missions were introduced. See Appendix t.x. |
+| P4    | 6        | 4 (p) + 7 (c) | MakeCode, a block-based toolset[^4], was introduced and used throughout. Sessions became more modular. See Appendix t.x. |
+| P5    | 5        | 3 (p) + 3 (c) | A smaller cohort continued to use MakeCode, focusing on individual and pair-based work. See Appendix t.x. | -->
+
+
+
+The table below provides a consolidated summary of the data collection methods used in this study. It outlines each data source, the mode of collection, the volume and scope of material gathered, and the analytic purpose within the research. This table is intended to demonstrate methodological breadth and coherence by showing how each method contributed to addressing the research questions and theoretical framing. Rather than separating data type and analytic relevance, this integrated summary reinforces the methodological logic of the study as situated within iterative, design-based research.
+
+
+| **Data source**           | **Collection method**                                | **Volume / Scope**                              | **Analytic purpose and framing**                                               |
+|--------------------------|-------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------|
+| 360° video recordings     | Fixed Samsung Gear 360 camera                        | 9 recordings across P2–P4                        | Group interaction, gesture, peer mediation (Rogoff, CHAT)                      |
+| Screen recordings         | Flashback Pro with input/audio capture               | 72 recordings across 12 sessions (P2–P5)         | Tool use, coding navigation, contradiction (CHAT, mediation)                  |
+| Facilitator journal       | Paper notes and digital Word docs                    | 3 paper journals + 50 digital pages              | Researcher stance, design changes, contradiction surfacing (DBR, CHAT)         |
+| Participant interviews    | Semi-structured with game artefacts for prompting    | 4 interviews (~90 mins each)                     | Perceived agency, collaboration, design reflection (agency theory, CHAT)       |
+| Practitioner interviews   | Zoom interviews with informal educators              | 4 interviews (~90 mins each)                     | Facilitation strategies, contextual tensions (DBR, SDBE)                        |
+| Digital artefacts         | Games, graphical assets, code files, sketches        | Collected across all phases                      | Creative responses, appropriation, problem-solving (germ cell, mediation)      |
+| Programme resources       | Templates, guides, tools created during sessions     | Iteratively developed, stored digitally          | Evolution of scaffolds and pedagogy (design narrative, DBR, formative design)  |
+
+**Table 4.x – Overview of data collection methods, scope, and analytic relevance**        
+
+
+The development of learning resources took place alongside delivery, and participants influenced this process in various ways. Some changes were shaped by direct input, such as help requests, informal conversations, and interviews. Others were shaped by more indirect means, including the games participants made, my journal entries reflecting on interactions, and video or screen capture data from sessions.
+
+Journal notes were kept throughout the process in both paper-based journals and chronologically organised Word documents. These notes included session reflections, notes on challenges of the design of resources, and reflections on emerging themes from relevant, existing research. Alongside this, I archived the digital resources used in each phase, including templates, guides, and materials created by the young participants. The games themselves were treated as a form of data. This was partly informed by activity theory's emphasis on tools as culturally mediated artefacts, and by the principle of double stimulation, where learners appropriate and repurpose tools for their own ends. This adaptation beyond expected use became an important data point.
+
+There were practical challenges in collecting and maintaining access to these digital artefacts. In 2025, the platform Glitch.com announced it would no longer host user projects [^8].  A similar process occurred related to Piskel graphical editing tool [^9].  
+
+Video data played a key role in capturing situated activity: both 360 video data and screen capture data were recorded [^10]. Regarding computer screen capture, the software Flashback Pro was chosen for screen capture due to its accessibility and low cost. The software recorded user input and screen activity including data of mouse clicks and keyboard events [^11].
+
+The use of 360° camera footage stemmed from two main considerations. Firstly, I wanted a fixed approach rather than a roaming attached device to avoid possible disorientation [@caton2019methodological], and I wanted to try to capture as little video data as practicable due to the high overhead of processing and interpreting it. Given this motivation, I avoided using individual webcams of the computers or several static cameras positioned in several locations in the room. Instead, I arranged the tables in a square with chairs on the outside facing inwards and positioned a 360 camera in the centre of this arrangement. This approach allowed capturing whole-group interaction using only one camera source. A still of the 360 footages (before processing) is shown in Figure 4.x.
+
+![](./Pictures/360_smudge.png){width=98%}
+
+Figure 4.x - 360 footage from the central camera (before processing)
+
+Managing both set of video data involved careful planning. The large video files required consistent naming and regular backups. The 360 recordings were particularly complex, sometimes split into segments that made time navigation difficult. Specialised software from the camera manufacturer was needed to process the raw footage. To address these challenges, I developed a Linux-based workflow for organising and processing video and audio data, which is included in the technical appendix [^12].
+
+Participant and practitioner interviews took place after Phase 3. These were semi-structured and conducted online due to practical and, at times, COVID-related constraints. While the interviews were not fully transcribed, key sections were reviewed and analysed in combination with other data. To help participants recall information, during the interview process a laptop was on hand to allow them to revisit their created games games and assets to support their reflection on design choices and problem-solving strategies.
+
+Turning to interviews of fellow practitioners and researchers in the area of creating digital making, interviewees included Saskia Leggett, a researcher involved in the Creative Family Learning programme; Matt Curinga, an academic and educator active in community-based coding projects; Dave Potts, a professional programmer and long-term CoderDojo volunteer; and James Clegg, a PGCE computing student who had also supported sessions in person.
+
+<!--
+#### Summary of data collection methods
+
+### Summary of data collection methods
+
+| **Data source**                                | **Collected through**                                           | **Used to explore**                                               |
+|------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------|
+| Participant interaction with each other and digital software | 360° video and screen recordings                        | Learning processes, tool use, collaboration, agency              |
+| Digital artefacts                              | Code files, resulting games, graphical assets, physical sketches | Participant responses to design tools and creative direction     |
+| Facilitator journal                            | Reflexive notes during and after sessions                       | Researcher stance, contradiction surfacing, pedagogical choices  |
+| Participant interviews                         | Paired or individual interviews with learners (audio-recorded)  | Reflections on design decisions, perceived agency, collaboration |
+| Practitioner interviews                        | Audio-recorded interviews with facilitators from similar non-formal creative coding settings     | Existing facilitation strategies, contexual tensions, participant roles and identities      |
+
+
+Revised more detail.
+
+| **Data source**           | **Collection method**                                | **Volume / Scope**                              | **Analytic purpose and framing**                                               |
+|--------------------------|-------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------|
+| 360° video recordings     | Fixed Samsung Gear 360 camera                        | 9 recordings across P2–P4                        | Group interaction, gesture, peer mediation (Rogoff, CHAT)                      |
+| Screen recordings         | Flashback Pro with input/audio capture               | 72 recordings across 12 sessions (P2–P5)         | Tool use, coding navigation, contradiction (CHAT, mediation)                  |
+| Facilitator journal       | Paper notes and digital Word docs                    | 3 paper journals + 50 digital pages              | Researcher stance, design changes, contradiction surfacing (DBR, CHAT)         |
+| Participant interviews    | Semi-structured with game artefacts for prompting    | 4 interviews (~90 mins each)                     | Perceived agency, collaboration, design reflection (agency theory, CHAT)       |
+| Practitioner interviews   | Zoom interviews with informal educators              | 4 interviews (~90 mins each)                     | Facilitation strategies, contextual tensions (DBR, SDBE)                        |
+| Digital artefacts         | Games, graphical assets, code files, sketches        | Collected across all phases                      | Creative responses, appropriation, problem-solving (germ cell, mediation)      |
+| Programme resources       | Templates, guides, tools created during sessions     | Iteratively developed, stored digitally          | Evolution of scaffolds and pedagogy (design narrative, DBR, formative design)  |
+ -->
+
+## How the theoretical framework has informed the research design
 
 The following section gives an overview of how this thesis puts the theoretical principles explored in Chapter 3 into practice.
-CREATE LIST?  
 
-#### A qualitative and exploratory approach
+### A qualitative and exploratory approach
 
 This study is qualitative, general, and exploratory in nature, shaped by DBR and CHAT. It adopts an iterative, context-sensitive approach to understanding learning environments in CGD&P, avoiding rigid experimental constraints. In terms of educational objectives, the goal is to generate situated knowledge that can inform responsive educational practices rather than to produce more universally generalisable outcomes [@cobb_design_2003]. However, the methodology of this research also seeks to reveal pedagogical tensions, contradictions, and shifts in learner agency and develop understandings which have potential for a broader application.
 
@@ -106,88 +213,35 @@ The commitment to rich description is not just analytical rigour but also driven
 The principle of utility and replicability within research, when applied to software use within research more generally using the concept of  software sustainability [@crouch_software_2013] [^1]. Similarly, given the context home education and a wider  target audience of informal settings, an important contextual factor is that participants have a limited budget to spend on educational resources. As such, educational software  tools to be replicable and sustainable, ideally at free or low cost tools were prioritised [^2]. To achieve this, FLOSS or freely available tools were used wherever feasible. Applying these principles to  software used in both analysis and delivery, ensuring that both the pedagogical design and research methodology can be adopted or adapted by others [@bonneel_code_2020].
 
 
-### Authentic and ecological orientation and my  researcher–facilitator dual role
 
-To produce findings are contextually valid and socially relevant, pedagogical interventions took place within a real-world CGD&P learning programme in a non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible (covered in a following section). These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019]  where value is created through contextually relevant pedagogical engagement. My role as both researcher and facilitator was central to achieving this embeddedness within an authentic context and the broader methodological design of the study. I designed each session to serve a dual purpose of data collection and an educational workshop planned and adapted to meet the varied needs of participants. While this dual role introduced challenges such as balancing the requirements of pedagogical intervention with challenged of recognising positionality within observation, it also provided opportunities for sustained engagement, flexible design, and a clearer view of pedagogical evolution in action. The researcher-practitioner stance invites critical reflection on the ethics, logistics, and value of practice-based inquiry. In achieving this balance, I found the detailed descriptions of the motivational and the practical interventions of Fifth Dimension programme research by Cole and others [-@cole_sustaining_2001; -@cole_fifth_2006; -@cole2009designing] particularly valuable.
-
-<!-- AND Stetsenko HERE? -->
-
-Throughout the process, I aimed to recognise and support emergent participant practices, using tools and scaffolds that could adapt dynamically. These choices are revisited across the following findings chapters, which trace how participants responded to, reshaped, and extended the learning environment.
+### Ethical considerations
 
 
-## Data collection within project delivery phases
+Ethical approval for this study was obtained through the ESRI ethics process using the ETHOS system. Participants were recruited via outreach to home education networks, coding events and community meet-ups. Inclusion criteria included being part of a family unit (including guardians) with the ability to travel to the Manchester Metropolitan University campus. Participating families included children aged approximately 7 to 13, and all participants needed to have sufficient English literacy to engage with written materials and communication. An expressed interest in learning to make digital games together as an educational project was also required.
 
-This section outlines both the delivery of the game-making programme and the data collection activities embedded within each phase. As the next chapter presents the evolution of the intervention as a design narrative, the focus here is primarily on methods of data collection and the analytical approaches they supported. The project was delivered over five distinct phases, along with a development period. Each phase involved changes to tools, group sizes, and facilitation practices. These shifts reflected both planned redesign and more responsive adaptations to participant needs. Figure 4.x shows a summary of these phases.
+Consent and assent processes were tailored to suit different participant groups, including home-educating families, children and university students. For children, assent was negotiated through informal discussion followed by a simple written agreement, and parents remained nearby or directly involved throughout. DBS-checked adult facilitators and volunteers supported sessions, and alternative activities were always available so that children could opt out at any time. These steps aimed to protect participant autonomy while recognising the relational dynamics of informal learning settings.
 
-<!-- From https://docs.google.com/presentation/d/1vR6dzFG6qXIdpB_-s6PbCePiB87qTs6YAXCljxNcb5Y/edit?slide=id.g2e34c54339d_0_0#slide=id.g2e34c54339d_0_0 -->
-
-![](./Pictures/phases_diagram_chevrons_3.png){width=98%}
-
-Figure 4.x Summary of delivery phases and development periods
-
-<!-- **Development and recruitment** -->
-
-The first development process of this study (D1) drew on a background context of my involvement in community-based technology education as outlined in Chapter 1. My involvement in previous work through the EdLab programme [^3] and its playful technology strand meant that I had already built relationships with the home-educating community. Between 2016 and the start of this study, I had run various workshops in libraries, the university, and through CoderDojo events. To promote these events I had used three established home education communication networks[^4]. The recruitment process of this study followed this previous pattern. I shared a invitation to participant to those three groups which asking interested families to contact me by email [^5]. Once contacted by potential participants, I sent them a participation sheet and asked for confirmation of attendance [^6].
-
-The following table gives an overview of participant numbers, number of sessions, and key learning activities by phase. These changes in focus and activity shaped the kinds of data generated, and also influenced the form and feasibility of collection.
-
-### Table: Summary of delivery phases
-
-| Phase | Sessions | Participants | Activities and data highlights |
-|-------|----------|--------------|-------------------------------|
-| **P1** | 10 | 5 parents, 8 children | **Exploratory group phase.** Mixed-age groups engaged in paper-based planning, introductory coding with a text-based tool, and asset creation. Game files and design artefacts were collected. |
-| **P2** | 6  | 8 parents, 11 children, 4 student helpers | **Smaller group development.** Participants used a shared coding template and printed guides. Asset creation was less central to the process. |
-| **P3** | 5  | 4 parents, 8 children, 1 student helper | **Drama-integrated learning.** Continued with the same coding setup, enriched by side missions and drama-based activities. |
-| **P4** | 6  | 4 parents, 7 children | **Toolset shift.** MakeCode (block-based) was introduced [^7]. Sessions became more modular and self-paced. |
-| **P5** | 5  | 3 parents, 3 children | **Personalised learning.** A smaller group continued using MakeCode, with a focus on individual and pair-based game projects. |
-
-
-<!--
-| Phase | Sessions | Participants | Key learning activities and data generated |
-|-------|----------|--------------|--------------------------------------------|
-| P1    | 10       | 5 (p) + 8 (c) | Exploratory phase with three larger groups of mixed ages. Data includes paper-based planning, basic coding using a text-based toolset, and early asset creation. Game files and code were collected. See Appendix t.x. |
-| P2    | 6        | 8 (p) + 11 (c) + 4 (sh) | Groups became smaller and more focused. A shared template supported game development. Asset creation was more limited, but participants used printed guides extensively. [^3] |
-| P3    | 5        | 4 (p) + 8 (c) + 1 (sh) | Same coding environment as in P2. Additional drama activities and side missions were introduced. See Appendix t.x. |
-| P4    | 6        | 4 (p) + 7 (c) | MakeCode, a block-based toolset[^4], was introduced and used throughout. Sessions became more modular. See Appendix t.x. |
-| P5    | 5        | 3 (p) + 3 (c) | A smaller cohort continued to use MakeCode, focusing on individual and pair-based work. See Appendix t.x. | -->
-
-The development of learning resources took place alongside delivery, and participants influenced this process in various ways. Some changes were shaped by direct input, such as help requests, informal conversations, and interviews. Others were shaped by more indirect means, including the games participants made, my journal entries reflecting on interactions, and video or screen capture data from sessions.
-
-The table below outlines the types of data collected and where they occurred across the phases.
-
-| Name                        | Details                             | Description                                                                                          | Used in which phases |
-|-----------------------------|-------------------------------------|------------------------------------------------------------------------------------------------------|----------------------|
-| Screen capture data         | 72 recordings from 12 sessions      | Recorded using Flashback Pro. Included video, audio, mouse activity, and keystrokes.                 | P2, P3, P4, P5        |
-| 360 video data              | 9 recordings from 9 sessions        | Captured using a Samsung Gear 360-degree camera on SD card.                                                       | P2, P3, P4            |
-| Journal entries             | 3 paper journals and 50 pages digital | Reflections, session planning, design sketches, and notes on challenges and evaluation.              | All phases            |
-| Programme resources created | Varied (see Chapter 5)              | Materials evolved through participant feedback and facilitator experimentation. Stored digitally.    | All phases            |
-| Practitioner interviews     | 4 interviews, around 90 minutes each | Conducted via Zoom. Recorded and stored as video and audio files.                                              | Post P3 workshops              |
-| Participant interviews      | 4 interviews, around 90 minutes each | One via Zoom, three captured using screen recording to prompt reflection on games and artefacts. All stored as stored as video and audio files.  | Post P3 workshops              |
-
-Journal notes were kept throughout the process in both paper-based journals and chronologically organised Word documents. These notes included session reflections, notes on challenges of the design of resources, and reflections on emerging themes from relevant, existing research. Alongside this, I archived the digital resources used in each phase, including templates, guides, and materials created by the young participants. The games themselves were treated as a form of data. This was partly informed by activity theory's emphasis on tools as culturally mediated artefacts, and by the principle of double stimulation, where learners appropriate and repurpose tools for their own ends. This adaptation beyond expected use became an important data point.
-
-There were practical challenges in collecting and maintaining access to these digital artefacts. In 2025, the platform Glitch.com announced it would no longer host user projects [^8].  A similar process occurred related to Piskel graphical editing tool [^9].  
-
-Video data played a key role in capturing situated activity: both 360 video data and screen capture data were recorded [^10]. Regarding computer screen capture, the software Flashback Pro was chosen for screen capture due to its accessibility and low cost. The software recorded user input and screen activity including data of mouse clicks and keyboard events [^11].
-
-The use of 360° camera footage stemmed from two main considerations. Firstly, I wanted a fixed approach rather than a roaming attached device to avoid possible disorientation [@caton2019methodological], and I wanted to try to capture as little video data as practicable due to the high overhead of processing and interpreting it. Given this motivation, I avoided using individual webcams of the computers or several static cameras positioned in several locations in the room. Instead, I arranged the tables in a square with chairs on the outside facing inwards and positioned a 360 camera in the centre of this arrangement. This approach allowed capturing whole-group interaction using only one camera source. A still of the 360 footages (before processing) is shown in Figure 4.x.
-
-![](./Pictures/360_smudge.png){width=98%}
-
-Figure 4.x - 360 footage from the central camera (before processing)
-
-Managing both set of video data involved careful planning. The large video files required consistent naming and regular backups. The 360 recordings were particularly complex, sometimes split into segments that made time navigation difficult. Specialised software from the camera manufacturer was needed to process the raw footage. To address these challenges, I developed a Linux-based workflow for organising and processing video and audio data, which is included in the technical appendix [^12].
-
-Participant and practitioner interviews took place after Phase 3. These were semi-structured and conducted online due to practical and, at times, COVID-related constraints. While the interviews were not fully transcribed, key sections were reviewed and analysed in combination with other data. To help participants recall information, during the interview process a laptop was on hand to allow them to revisit their created games games and assets to support their reflection on design choices and problem-solving strategies.
-
-Turning to interviews of fellow practitioners and researchers in the area of creating digital making, interviewees included Saskia Leggett, a researcher involved in the Creative Family Learning programme; Matt Curinga, an academic and educator active in community-based coding projects; Dave Potts, a professional programmer and long-term CoderDojo volunteer; and James Clegg, a PGCE computing student who had also supported sessions in person.
-
+While data collection involved video and screen recordings that could not be fully anonymised at source, all analytic materials and outputs used pseudonyms, removed or obscured identifying visuals. The raw video data was stored on a password-protected external computer drive, separate from other working research data. Only the lead researcher had direct access to this material, although the ethics approval process stated that project supervisors could be given access on request.
 
 ## Data analysis process
 
-The analysis was structured in three stages to reflect the evolving relationship between the data and the research questions. This approach supported an iterative process: beginning with exploratory review, progressing through thematic refinement and methodological adjustment, and concluding with interpretive consolidation. Each stage responded to emerging insights and practical constraints, forming a strategy for examining how learning, agency, and contradiction unfolded within the CGD&P interventions.
+The analysis was structured in three stages to reflect the evolving relationship between the data and the research questions. This approach supported an iterative process: beginning with exploratory review, progressing through thematic refinement and methodological adjustment, and concluding with interpretive consolidation. Each stage involved increasing analytical granularity, using strategies suited to the shifting demands of the research. This structure also helped manage the substantial volume of video and screen capture data generated during the game-making sessions.
 
-Given the exploratory nature of the study and its openness to emergent directions, the analysis evolved across multiple stages. For clarity, it is presented here in three simplified phases that mark broad shifts in focus and method. Each stage involved increasing analytical granularity, using strategies suited to the evolving demands of the research. This structure also helped manage the substantial volume of video and screen capture data generated during the game-making sessions.
+
+| **Analytic strategy**        | **Based on**                          | **Purpose**                                           | **Theoretical lens**             |
+|-----------------------------|---------------------------------------|------------------------------------------------------|----------------------------------|
+| Spreadsheet annotation      | Partial transcript of speech and description of screen/room video        | To track episodes of interaction across Rogoff's planes             | Rogoff, CHAT                     |
+| Contradiction mapping       | Journals, video data of  episodes & tool use        | To surface tensions and system-level disruptions     | CHAT (more specifically 3GAT)                      |
+| Thematic refinement         | Recurring patterns across data types  | To group design tensions, participant strategies     | CHAT, DBR                        |
+| Design narrative | Artefacts & journals & vignettes    | To trace learning and role shifts over time          | Expansive learning, germ cell concept  |
+| Agency interpretation | Vignettes & journal notes     | To identify shifts in tool use, initiative, role-taking, & identity         | CHAT conceptions of agency       |
+
+Table 4.x: Summary of data analysis methods
+
+
+Before outlining the three stages, I introduce the key analytic concepts that shaped the identification and interpretation of episodes across the dataset. Contradictions within the activity system were treated as potential sources of learning and redesign. Drawing on third-generation activity theory (3GAT), these were identified through tensions between tools, roles, and goals. Mediating artefacts, including digital tools, gestures, and documentation, were examined for how they supported or disrupted emerging patterns of behaviour. Rogoff’s model of personal, interpersonal, and cultural planes of analysis provided a framework for connecting individual actions to wider group practices,  through spreadsheet annotation increasingly detailed transcription of selected video data. A complex and shifting view of agency was needed to understand the experience of participants as learners redirected tasks, repurposed tools, or supported peers.  Gameplay design patterns (GDPs) were analysed as potential germ cells, understood as small but generative design elements that supported developmental movement. Their uptake and reinterpretation offered insight into how learners engaged with the structure and flexibility of the learning environment.
+
+These concepts guided interpretation throughout the three stages that follow: exploratory analysis, thematic refinement, and interpretive consolidation.
 
 ### Stage 1 – Exploratory analysis
 
@@ -297,28 +351,40 @@ As later chapters show, GDPs were not fixed instructional tools but mutable arte
 
 #### Analysing learner agency
 
-In parallel, the concept of learner agency was developed through close engagement with participant action across different learning contexts. Several vignettes focused on how learners collaborated, made design decisions, and used material and digital tools to shape their contributions. Through this process, my understanding of agency shifted and deepened. It became clear that agency was not a fixed trait but something that emerged through interaction, support, and opportunities to make meaningful choices. These actions were shaped by learners’ prior experiences, the roles they took on, and the changing structure of the sessions.
+GREATER FOCUS ON LITERATURE WITH OUT DUPLICATION.
+BE CAREFUL ON WHERE ELSE THIS IS EXPLORE.
+
+REFERENCE RQ3
+
+In parallel, the focus of learner agency was developed through close engagement with participant action across different learning contexts. Several vignettes focused on how learners collaborated, made design decisions, and used material and digital tools to shape their contributions. Through this process, my understanding of agency shifted and deepened. It became clear that agency was not a fixed trait but something that emerged through interaction, support, and opportunities to make meaningful choices. These actions were shaped by learners’ prior experiences, the roles they took on, and the changing structure of the sessions.
 
 The later stages of analysis paid close attention to how participants influenced their own learning paths, how they supported each other, and how they responded when things were difficult or unclear. Agency was interpreted as something that could take different forms, such as trying out new ideas, helping others, changing direction, or asserting creative control. To understand this, I looked at humour, spatial positioning, narrative framing, and the use of gesture to support communication and identity.
 
 This view of agency developed gradually through the analysis process, rather than being applied from the start. It was shaped by what was visible in the data and by ongoing questions about how power, choice, and participation played out in practice. These observations provided a way of seeing agency not only in terms of individual skill or autonomy, but also as something built together and shaped by the design itself.
 
+In line with understandings of  double stimulation intervention, some episodes involved participants generating new mediating elements in response to uncertainty or contradiction.
+
 Chapter 7 builds on this analysis in more depth. It focuses on how agency took different forms across the group, and how learners moved between different roles, styles, and strategies. That chapter also links this to wider ideas about identity, collaboration, and the kinds of opportunities that design-based learning can create.
 
-This interpretive work aimed to clarify not only how the learning environment supported certain forms of agency and design fluency, but also what constraints remained. In some vignettes, learners struggled to access tools or articulate their ideas, prompting reflections on inclusion and the role of facilitation. These observations informed both the final conceptual model, developed in Chapter 7, and ongoing questions about how pedagogical environments can be designed to support participation across multiple modes and identities.
+This interpretive work aimed to clarify not only how the learning environment supported certain forms of agency and design fluency, but also what constraints remained. In some vignettes, learners struggled to access tools or articulate their ideas, prompting reflections on inclusion and the role of facilitation. These observations informed both the final conceptual model, developed in Chapter 7, and ongoing questions about how pedagogical environments can be designed to support participation and identity formation via varied approaches.
 
+WHICH STAGE - HOW DOES IT FIT IN?
 By the end of this stage, the analysis had shifted from mapping general trends to closely engaging with specific examples that showed tensions, possibilities, and shifts in learner participation. These vignettes became the foundation for articulating the study’s contributions to both theory and practice.
 
 
-## Broader methodological considerations
 
-### Ethical considerations and validity
+## Researcher stance and interpretive validity
 
-Ethical approval for this study was obtained through the ESRI ethics process using the ETHOS system. Participants were recruited via outreach to home education networks, coding events and community meet-ups. Inclusion criteria included being part of a family unit (including guardians) with the ability to travel to the Manchester Metropolitan University campus. Participating families included children aged approximately 7 to 13, and all participants needed to have sufficient English literacy to engage with written materials and communication. An expressed interest in learning to make digital games together as an educational project was also required.
+### Triangulation and analytic trustworthiness
 
-Consent and assent processes were tailored to suit different participant groups, including home-educating families, children and university students. For children, assent was negotiated through informal discussion followed by a simple written agreement, and parents remained nearby or directly involved throughout. DBS-checked adult facilitators and volunteers supported sessions, and alternative activities were always available so that children could opt out at any time. These steps aimed to protect participant autonomy while recognising the relational dynamics of informal learning settings.
+To produce findings are contextually valid and socially relevant, pedagogical interventions took place within an CGD&P learning programme in a non-formal educational context shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped recruitment, session scheduling, and the kinds of learning interactions that were possible (covered in a following section). These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019]  where value is created through contextually relevant pedagogical engagement. My role as both researcher and facilitator was central to achieving this embeddedness within an authentic context and the broader methodological design of the study. I designed each session to serve a dual purpose of data collection and an educational workshop planned and adapted to meet the varied needs of participants. While this dual role introduced challenges such as balancing the requirements of pedagogical intervention with challenged of recognising positionality within observation, it also provided opportunities for sustained engagement, flexible design, and a clearer view of pedagogical evolution in action. The researcher-practitioner stance invites critical reflection on the ethics, logistics, and value of practice-based inquiry. In achieving this balance, I found the detailed descriptions of the motivational and the practical interventions of Fifth Dimension programme research by Cole and others [-@cole_sustaining_2001; -@cole_fifth_2006; -@cole2009designing] particularly valuable.
 
-While data collection involved video and screen recordings that could not be fully anonymised at source, all analytic materials and outputs used pseudonyms, removed or obscured identifying visuals. The raw video data was stored on a password-protected external computer drive, separate from other working research data. Only the lead researcher had direct access to this material, although the ethics approval process stated that project supervisors could be given access on request.
+<!-- AND Stetsenko HERE? -->
+
+Throughout the process, I aimed to recognise and support emergent participant practices, using tools and scaffolds that could adapt dynamically. These choices are revisited across the following findings chapters, which trace how participants responded to, reshaped, and extended the learning environment.
+
+
+**Validity & rigour - return to positionality**
 
 Addressing validity of data interpretation, the analysis of this research has prioritised ecological validity by studying interactions that emerged in authentic, practice-based contexts, rather than in controlled or experimental conditions. In addition this study adopted a critical stance on objectivist notions of validity, drawing on DBR and activity theory traditions that position the researcher as an active participant in meaning-making. Validity was approached through triangulation across media data formats such as video, interviews, journals and supporting resources, and supported by ongoing reflection and iterative analysis. Following the transformative activist stance [@stetsenko2020radical], validity in this study is grounded in my ethical and practical engagement with participants, and in the co-construction of knowledge aimed at transforming learning relationships and tools. In this process, journal informed reflection played an important role. While not directly analysed alongside participant data, these journal notes informed the design of resources and facilitation strategies. Selected of journal notes  are included in Appendix 4.x [^17] as evidence of the evolving researcher-practitioner role.
 
@@ -406,7 +472,7 @@ This chapter has outlined the methodological framework underpinning the study, c
 
 [^17]: Sample journal notes scans are available in Appendix 4.x.
 
-## PARTS FROM OTHER CHAPTER THAT ARE USEFUL
+<!-- ## PARTS FROM OTHER CHAPTER THAT ARE USEFUL -->
 
 <!-- To do this it employs an argumentative grammar fusing elements of DBR and CHAT concepts: specifically iterative processes, analysis of emerging tensions between systems elements, a focus on affordances and secondary stimuli (particularly in relation to participant agency), and the process of rising to the concrete through exploration of a germ cell concept. -->
 

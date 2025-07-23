@@ -63,8 +63,8 @@
             -   [Appendix.C .bee - Contextual Vignette on the conflict
                 experienced by one family & the 3D
                 Bee](#appendix.c-.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
-            -   [Appendix. prototyping Use of visual
-                prototyping](#appendix.-prototyping-use-of-visual-prototyping)
+            -   [Appendix C.proto prototyping Use of visual
+                prototyping](#appendix-c.proto-prototyping-use-of-visual-prototyping)
     -   [Appendix D - Learning design
         appendix](#appendix-d---learning-design-appendix)
         -   [Mapping?](#mapping)
