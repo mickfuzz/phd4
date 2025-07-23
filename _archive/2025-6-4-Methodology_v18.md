@@ -216,7 +216,7 @@ I planned and trialled a workaround to these limitations. Using VLC Player allow
 
 The process of creating these documents for video files of approximately two hours was still time consuming but productive. The use of 360° video data to contextualise the screen capture data became significant enough to support a more holistic understanding of the processes at hand. This led to the development of a consistent co-viewing procedure, achieved using VLC Player’s ability to view and control two video files side by side [^16].
 
-![](./Pictures/360_side_by_side.png){width=98%}
+![](./Pictures/360_side_by_side_edge.png){width=98%}
 
 Figure 4.x - 360 footage and screen capture side by side (after processing)
 
@@ -255,6 +255,7 @@ The chapters that follow present the findings of the study in relation to the us
 #### Design narrative as interpretive structure
 
 This stage of analysis was informed by a design narrative approach, which shaped how patterns of contradiction, adaptation, and response were identified across the CGD&P intervention. Rather than organising interpretation strictly by theme or data type, the analysis followed the evolving arc of the learning design, structured around key shifts in practice, tool use, and facilitation across the delivery phases. This approach aligned with the pedagogical logic of the intervention and was supported by journal notes and triangulated with interview data. The narrative structure reflects the ethos of design-based research by documenting iterative, context-responsive design decisions that may be useful to others working in similar settings.
+
 
 
 #### GDPs as a germ cell in design and analysis
