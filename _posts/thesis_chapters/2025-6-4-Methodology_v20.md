@@ -234,13 +234,16 @@ All video and screen data were stored on a password-protected external drive, se
 
 Withdrawal was handled with care across participant groups. Consent forms for practitioner-facilitators made clear that if they withdrew from the study, all data gathered would be destroyed and not analysed. For family participants, withdrawal procedures noted that data would no longer be analysed, but did not explicitly state that it would be destroyed. This distinction reflected the complex nature of group-based video data and the need to preserve the integrity of multi-participant recordings.
 
-The challenges of ongoing consent were especially visible in this informal, multi-phase project. Two families who participated in Phase 1 did not continue into later phases. While no formal reason was given, their withdrawal was respected as an implicit form of opting out. To support autonomy, consent forms included the wording “You will be able to continue with activities or equivalent activities,” emphasising that withdrawal from research would not mean exclusion from the educational opportunity. However, as no families took up the offer of alternative activities, it is possible that some perceived withdrawal from the study as synonymous with withdrawing from the broader game-making experience.
+The challenges of ongoing consent were present  in this non-formal, multi-phase project. To support autonomy, consent forms included the wording “You will be able to continue with activities or equivalent activities,” emphasising that withdrawal from research would not mean exclusion from the educational opportunity. While no families withdrew from the research process, two families who participated in in the first part of Phase 1 did not continue into an extended period or later phases. I interpreted their withdrawal as an important way of communicating alienation from the game making process. One family returned to give feedback at the phase end and thus contributed to the research process in this way[^af].
 
-Additional complexities emerged from the use of 360° video and screen recordings. Where families withdrew, their data was no longer analysed, but it was not always possible to fully remove their presence from recordings that included other participants. This was addressed in the consent forms, which clarified the distinction between individual and group data.
 
-A separate issue arose in relation to missing screen recording data. For one family, end-of-session video captures were regularly absent. In one instance, a short clip showed the young person navigating away from the software. This could suggest a resistance to surveillance or a technical decision, as video capture software sometimes slowed down the game-making tools. Given the study’s focus on agency, I chose not to challenge or investigate this absence during ongoing sessions.
+Additional complexities emerged from the use of 360° video and screen recordings. While no families ultimately withdrew, the protocol specified that if they had, their data would no longer have been analysed. However, it would not have been destroyed — a departure from standard practice for individual data, where withdrawal typically requires deletion in line with ethical guidance such as BERA [addin], which prioritises participant autonomy and control. This adaptation was necessary because it was not possible to fully remove a participant’s presence from 360° recordings that included other individuals. Group-based video data of this kind makes clean removal impractical without compromising the integrity of the dataset and the contributions of others. This limitation was outlined in the consent forms.
 
-Assessing risk throughout the research process was also essential. While the overall activity of game making as a collaborative process was relatively low-risk in a physical or emotional sense, the more significant ethical concern for some home-educating families was the potential for alienation from learning to programme, or from engaging in a university setting. I addressed this through strategies aimed at creating an inclusive, welcoming educational environment, which was part of the underlying ethos of the research.
+addn https://www.bera.ac.uk/publication/ethical-guidelines-for-educational-research-2018
+
+A separate issue arose in relation to missing screen recording data. For one family, end-of-session video captures were regularly absent. In one instance, a short clip showed the young person navigating away from the software. This could suggest a resistance to surveillance or a technical decision, as video capture software sometimes slowed down the game-making tools. Given the families on going participation in other aspects of the research, their on-going verbal assent to the research process, and the focus of the study on varied expressions of agency, I chose not to challenge the absence of recorded screen data during ongoing sessions.
+
+Assessing risk throughout the research process was also essential [@hammersley2012risk]. While the overall activity of game making as a collaborative process was relatively low-risk in a physical or emotional sense, an ethical issue concerning home-educating families was the potential for alienation from learning to programme, or from engaging in a partnership educational setting (in this case at University). I addressed this through strategies aimed at creating an inclusive, welcoming educational environment, aligned with the underlying ethos of the research.
 
 My approach to ethics was also shaped by values of reciprocity, drawn from prior community and activist work and its intersection with discourse within higher education on open educational practices [@cronin_openness_2017]. My ongoing volunteer participation in local, volunteer-run creative coding events helped to build trust and extend relationships beyond the confines of the study itself. These efforts aimed to support more equitable research relationships and ensure participants gained lasting value from their involvement. This community approach to knowledge generation raises questions regarding researcher positionality and data validity, which are taken up later in this chapter [@schiffer_issues_2020].
 
@@ -289,18 +292,33 @@ Certain problematic issue were skirted, no payment involved, but as the particip
 The analysis was structured in three stages to reflect the evolving relationship between the data and the research questions. This approach supported an iterative process: beginning with exploratory review, progressing through thematic refinement and methodological adjustment, and concluding with interpretive consolidation. Each stage involved increasing analytical granularity, using strategies suited to the shifting demands of the research. This structure also helped manage the substantial volume of video and screen capture data generated during the game-making sessions.
 
 
+
+Before outlining the three stages, I introduce the key analytic concepts that shaped the identification and interpretation of episodes across the dataset. Contradictions within the activity system were treated as potential sources of learning and redesign. Drawing on third-generation activity theory (3GAT), these were identified through tensions between tools, roles, and goals. Mediating artefacts, including digital tools, gestures, and documentation, were examined for how they supported or disrupted emerging patterns of behaviour. Rogoff’s model of personal, interpersonal, and cultural planes of analysis provided a framework for connecting individual actions to wider group practices,  through spreadsheet annotation increasingly detailed transcription of selected video data. A complex and shifting view of agency was needed to understand the experience of participants as learners redirected tasks, repurposed tools, or supported peers.  Gameplay design patterns (GDPs) were analysed as potential germ cells, understood as small but generative design elements that supported developmental movement. Their uptake and reinterpretation offered insight into how learners engaged with the structure and flexibility of the learning environment.
+
+
+Describing the practical methods involved in the process of applying these strategies is complicated by the process of triangulating data. A summary table including the methods used is outline below.
+
+<!--
 | **Analytic strategy**        | **Based on**                          | **Purpose**                                           | **Theoretical lens**             |
 |-----------------------------|---------------------------------------|------------------------------------------------------|----------------------------------|
 | Spreadsheet annotation      | Partial transcript of speech and description of screen/room video        | To track episodes of interaction across Rogoff's planes             | Rogoff, CHAT                     |
 | Contradiction mapping       | Journals, video data of  episodes & tool use        | To surface tensions and system-level disruptions     | CHAT (more specifically 3GAT)                      |
 | Thematic refinement         | Recurring patterns across data types  | To group design tensions, participant strategies     | CHAT, DBR                        |
 | Design narrative | Artefacts & journals & vignettes    | To trace learning and role shifts over time          | Expansive learning, germ cell concept  |
-| Agency interpretation | Vignettes & journal notes     | To identify shifts in tool use, initiative, role-taking, & identity         | CHAT conceptions of agency       |
+| Agency interpretation | Vignettes & journal notes     | To identify shifts in tool use, initiative, role-taking, & identity         | CHAT conceptions of agency       | -->
+
+| **Analytic strategy**       | **Data sources**                                         | **Methods used**                                                      | **Purpose / Theoretical lens**                                  |
+|-----------------------------|----------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Spreadsheet annotation      | Partial transcript, screen/room video                    | Spreadsheet logging, annotation, detailed transcription                | Track interaction across Rogoff's planes (Rogoff, CHAT)         |
+| Contradiction mapping       | Journals, video episodes, tool use                       | Mapping tensions across roles, tools, and goals                        | Surface systemic disruptions (CHAT, 3GAT)                       |
+| Thematic refinement         | Patterns across multiple data types                      | Pattern recognition, grouping across sources                           | Identify design tensions and participant strategies (CHAT, DBR)|
+| Design narrative            | Artefacts, journals, vignettes                           | Narrative construction, triangulation of multimodal data               | Trace learning and role shifts (Expansive learning, germ cells)|
+| Agency interpretation       | Vignettes, journal notes                                 | Micro-analysis of initiative, role-taking, peer support                | Interpret shifts in identity and agency (CHAT – agency)        |
+
 
 Table 4.x: Summary of data analysis methods
 
 
-Before outlining the three stages, I introduce the key analytic concepts that shaped the identification and interpretation of episodes across the dataset. Contradictions within the activity system were treated as potential sources of learning and redesign. Drawing on third-generation activity theory (3GAT), these were identified through tensions between tools, roles, and goals. Mediating artefacts, including digital tools, gestures, and documentation, were examined for how they supported or disrupted emerging patterns of behaviour. Rogoff’s model of personal, interpersonal, and cultural planes of analysis provided a framework for connecting individual actions to wider group practices,  through spreadsheet annotation increasingly detailed transcription of selected video data. A complex and shifting view of agency was needed to understand the experience of participants as learners redirected tasks, repurposed tools, or supported peers.  Gameplay design patterns (GDPs) were analysed as potential germ cells, understood as small but generative design elements that supported developmental movement. Their uptake and reinterpretation offered insight into how learners engaged with the structure and flexibility of the learning environment.
 
 These concepts guided interpretation throughout the three stages that follow: exploratory analysis, thematic refinement, and interpretive consolidation.
 
@@ -346,11 +364,10 @@ To manage the scope of analysis, eight full sessions and three partial sessions 
 
 <!-- In this context, the term refers to a segment of recorded participant activity captured via screen recording, typically involving one learner or a pair working at a laptop during a broader workshop session. -->
 
-As this process continued and generated a wealth of potentially useful observations, I began to question the value of transferring data into NVivo as originally anticipated.
-
-The technical questions and frustrations with the limitations of NVivo were compounded by more conceptual questions regarding the utility of the quantitative approach it would enable. It became clear that the process of working towards a fixed coding frame risked distracting from a more holistic understanding of the learning environment, particularly the emergent, improvisational, and tool-mediated aspects of learner agency.
+As this process continued and generated a wealth of potentially useful observations, I began to question the value of transferring data into NVivo as originally anticipated. The technical questions and frustrations with the limitations of NVivo were compounded by more conceptual questions regarding the utility of the quantitative approach it would enable. It became clear that the process of working towards a fixed coding frame risked distracting from a more holistic understanding of the learning environment, particularly the emergent, improvisational, and tool-mediated aspects of learner agency.
 
 Already by this stage some candidate codes, such as computational and systems thinking, had been de-prioritised due to either their conceptual overlap with existing literature or a lack of richness in the recorded data of this study. Other categories, such as game design stages, became harder to apply consistently across groups and sessions. A rigid schema, in this case, risked missing what was most interesting: the improvised and evolving use of resources, peer scaffolding, and ongoing negotiation of meaning within the making process.
+ADD - Saldaña, J. (2016). The Coding Manual for Qualitative Researchers (3rd ed.).
 
 The shift from planned coding to a more interpretive, emergent strategy was not clear cut; it evolved through repeated attempts to organise, code, and revisit earlier transcripts. The process of creating the session annotation documents also informed a selection of shorter episodes within each session which were flagged for deeper treatment in later vignette analysis. The use of Rogoff’s [-@rogoff_observing_1995] three planes of analysis (personal, interpersonal, and cultural) continued to be helpful as a scaffolding framework. I continued to add to the spreadsheet of analysis structured using three foci, documenting in it novel instances of activity, in particular emerging tensions in activity.
 
@@ -361,7 +378,7 @@ This flexibility helped me identify new themes within the data, such as the sign
 
 ### Stage 3 – Interpretive Consolidation
 
-The third and final stage of analysis focused on consolidating insights through detailed, interpretive work. Building on the broad mapping of Stage 1 and the thematic refinement of Stage 2, this phase returned to key segments of data selected for their richness, complexity, and relevance to the evolving research questions. The goal was to generate grounded, contextualised understandings of learner agency, design mediation, and pedagogical interaction. This stage centred on six key vignettes drawn from screen capture and 360-degree video recordings. These were chosen for their representation of diverse learner roles, visible design decision-making, and interactional dynamics. Full transcriptions were produced for these segments, integrating verbal dialogue, on-screen activity, and embodied communication such as gestures and movement within the learning space.  Viewing the 360° footage alongside the screen capture recordings proved essential in several cases, especially where participants referenced their physical environment or used gesture to support peer explanation. Gestures were also used often to communicate planned  game movements on screen, or for other on-screen actions or procedures, e.g in Vignette x, indication of action of cropping an image.
+The third and final stage of analysis focused on consolidating insights through detailed, interpretive work. Building on the broad mapping of Stage 1 and the thematic refinement of Stage 2, this phase returned to key segments of data selected for their richness, complexity, and relevance to the evolving research questions. The goal was to generate grounded, contextualised understandings of learner agency, design mediation, and pedagogical interaction. This stage centred on six key vignettes drawn from screen capture and 360-degree video recordings. These were chosen for their representation of diverse learner roles, visible design decision-making, and interactional dynamics. Full transcriptions were produced for these segments, integrating verbal dialogue, on-screen activity, and embodied communication such as gestures and movement within the learning space.  Viewing the 360° footage alongside the screen capture recordings proved essential in several cases, especially where participants referenced their physical environment or used gesture to support peer explanation [@nemirovsky_gesture_2012]. Gestures were also used often to communicate planned  game movements on screen, or for other on-screen actions or procedures [^crr].
 
 <!-- At my second formal review, my supervisor Ricardo Nemirovsky encouraged a more deliberate integration of gesture analysis. -->
 
@@ -541,6 +558,15 @@ This chapter has outlined the methodological framework underpinning the study, c
 [^16]: The process involved a syncronisation process involving adding front padding for the video file that started second chronologically. It is detailed in Appendix X.
 
 [^17]: Sample journal notes scans are available in Appendix 4.x.
+
+[^af]: Anastasia's family's experience is covered in more detail in Chapter 5.
+
+[^crr]: For example in Vignette 4, indication of action of cropping an image using gestures.
+
+
+
+
+
 
 <!-- ## PARTS FROM OTHER CHAPTER THAT ARE USEFUL -->
 
