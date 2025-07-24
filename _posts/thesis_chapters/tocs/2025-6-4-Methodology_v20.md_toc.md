@@ -2,14 +2,14 @@
     -   [Introduction](#introduction)
         -   [Research design and alignment with
             questions](#research-design-and-alignment-with-questions)
-        -   [A qualitative and exploratory
-            approach](#a-qualitative-and-exploratory-approach)
+        -   [Reflections on theoretical grounding and research
+            design](#reflections-on-theoretical-grounding-and-research-design)
     -   [Data collection within project delivery
         phases](#data-collection-within-project-delivery-phases)
         -   [Data collection methods and their integration with project
             delivery](#data-collection-methods-and-their-integration-with-project-delivery)
-    -   [How the theoretical framework has informed the research
-        design](#how-the-theoretical-framework-has-informed-the-research-design)
+    -   [Reflections on methodological
+        approach](#reflections-on-methodological-approach)
         -   [The use of holistic data and rich
             descriptions](#the-use-of-holistic-data-and-rich-descriptions)
         -   [Utility and replicability](#utility-and-replicability)
