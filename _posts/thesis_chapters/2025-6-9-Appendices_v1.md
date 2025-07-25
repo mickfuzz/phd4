@@ -307,6 +307,30 @@ The last iterations of the learning design adopted the MakeCode Arcade tool as a
 I adapted and advanced resources with an aim that they could be used within secondary classrooms to support computing curriculum.
 The facilitation techniques and approach were adapted from those of P2 to facilitate the use of the block coding language . Tool use at this stage is also explored in a chapter in a collection on K-12 computing education [@chesterman_game_2023].
 
+### B.x Methodology - Extract of 5 minute transcripts
+
+| Timespan           | Content |
+|--------------------|---------|
+| 15:00.0 - 20:00.0 | Fok -<br><br>Ed is looking for an animation frame already created<br><br>Mark still reading documentation on how to add animation to a character.<br><br>Mark: Quite complicated. But we can do it. But it would mean a lot of mucking around<br>Ed: Ah Er<br>Mark: Which is difficult to do while we’re here. But it’s doable.<br>Mark: It’s like a project in itself really.<br>Ed: Project in itself?<br>Mark: Yeah! (laughing). I just want to know like. We can get him in. So if I ask about the sizing.<br>Ed: Hmmn<br>Mark: I think you can edit the size here.<br>Ed: Why don’t you go here for a computer and you can do that?<br>Mark: Why. What. While you’re doing what?<br>Ed: Um making a sound track or something. I could do something like that.<br>Mark: Ok. Yeah. I’ll see if there’s any more computers in the cupboard.<br><br>Plan – Polish <br>Child Solo – creating assets – |
+| 20:00.0 - 25:00.0 | Ed then creates a head – struggling<br>Seems a bit stuck – not able to recreate work<br><br>Making noises to indicate stuckness after 10 mins<br><br>Create – Polish <br>Child Solo – creating assets –<br>Pair – navigating to assets |
+
+
+
+### Methodology - Appendix B.Rqs & coding schema
+
+A short commentary on the evolution of research questions and the title of the thesis indicating shifts in focus.
+
+The coding schema evolved in tandem with shifting understandings of the research focus. 
+
+_Disguarded_:
+
+_Retained for initial 5 min transcripts;_
+
+Design stages  
+Peer Interaction
+Type of game design pattern
+
+
 ### Methodology -  Back up links to short URL resources
 
 The short code generator tiny.cc has been used to create more readable links for footnotes and at times in appendices. The following list of short codes used allows readers to follow links if the tiny.cc service is deprecated.
