@@ -320,7 +320,7 @@ The facilitation techniques and approach were adapted from those of P2 to facili
 
 A short commentary on the evolution of research questions and the title of the thesis indicating shifts in focus.
 
-The coding schema evolved in tandem with shifting understandings of the research focus. 
+The coding schema evolved in tandem with shifting understandings of the research focus.
 
 _Disguarded_:
 
@@ -328,7 +328,7 @@ _Retained for initial 5 min transcripts;_
 
 Design stages  
 Peer Interaction
-Type of game design pattern
+Varied uses of game design pattern
 
 
 ### Methodology -  Back up links to short URL resources
