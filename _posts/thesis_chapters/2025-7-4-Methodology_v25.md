@@ -17,13 +17,11 @@ title: 4. Methodology
             design](#reflections-on-theoretical-grounding-and-research-design)
     -   [Data collection within project delivery
         phases](#data-collection-within-project-delivery-phases)
-        -   [Data collection methods and their integration with project
-            delivery](#data-collection-methods-and-their-integration-with-project-delivery)
     -   [Reflections on methodological
         approach](#reflections-on-methodological-approach)
-        -   [The use of holistic data and rich
-            descriptions](#the-use-of-holistic-data-and-rich-descriptions)
-        -   [Utility and replicability](#utility-and-replicability)
+        -   [Rich description and practical utility in a responsive
+            research
+            design](#rich-description-and-practical-utility-in-a-responsive-research-design)
         -   [Ethical considerations](#ethical-considerations)
     -   [Data analysis process](#data-analysis-process)
         -   [Stage 1 -- Exploratory
@@ -32,18 +30,17 @@ title: 4. Methodology
             Refinement](#stage-2-thematic-refinement)
         -   [Stage 3 -- Interpretive
             Consolidation](#stage-3-interpretive-consolidation)
-            -   [Design narrative as interpretive
-                structure](#design-narrative-as-interpretive-structure)
-            -   [Use of 3GAT analysis](#use-of-3gat-analysis)
-        -   [Diagrammatic representations - Drop, move or
-            keep?](#diagrammatic-representations---drop-move-or-keep)
+            -   [Use of vignettes as analytic
+                episodes](#use-of-vignettes-as-analytic-episodes)
+            -   [Interpreting contradictions through design
+                narrative](#interpreting-contradictions-through-design-narrative)
             -   [GDPs as a germ cell in design and
                 analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
             -   [Analysing learner agency](#analysing-learner-agency)
     -   [Researcher stance and interpretive
         validity](#researcher-stance-and-interpretive-validity)
-        -   [Triangulation and analytic
-            trustworthiness](#triangulation-and-analytic-trustworthiness)
+        -   [Positionality and analytic
+            trustworthiness](#positionality-and-analytic-trustworthiness)
         -   [Generalisability and
             replication](#generalisability-and-replication)
         -   [Methodological and practical
@@ -55,11 +52,7 @@ title: 4. Methodology
 
 # Methodology
 
-
-
 ## Introduction
-
-
 
 This chapter sets out the methodological approach underpinning the study, building on the theoretical commitments explored in Chapter 3. Drawing on activity theory and design-based research (DBR), the research was conducted as an iterative process embedded in a  non-formal learning environment in a home education and university partnership. Rather than applying a fixed method to a controlled setting, the study developed responsively, shaped by the interplay of context, participant contributions, and pedagogical experimentation. Chapter 3 introduced the conceptual foundations that informed this approach: learning as socially and historically situated, agency as emergent and distributed, and design as a catalyst for transformation. These ideas are translated here into a methodological approach, particularly a focus on mutual engagement with participants, flexibility in pedagogical design, and responsiveness to evolving dynamics within the setting.
 
@@ -333,7 +326,7 @@ Full transcriptions were created for each episode, integrating verbal dialogue, 
 
 Each vignette was used as a site of interpretive analysis. It contributed to the research questions by showing how learners asserted agency, responded to guidance, or adapted resources to suit their needs. Where possible, these episodes were triangulated with post-session interviews, learner artefacts such as games or design sketches, and journal entries written immediately after facilitation [@harrits_qualitative_2021].
 
-*A sample vignette is included in Special Appendix D.1.*
+*A sample vignette extract?*
 
 
 #### Interpreting contradictions through design narrative
@@ -352,7 +345,7 @@ The second diagram (Figure 5.full) narrows the focus to the situated activity of
 
 Both scopes of activity are important for understanding the contradictions explored in this study. The broader system shown in Figure 5.broad informs how cultural and contextual factors shaped participation across the programme as a whole. The more situated system in Figure 5.full was used to analyse interaction during specific workshop episodes. Together, these frames underpin the analysis of contradictions presented in Chapter 5. The second scope also becomes central in Chapter 6, which draws on the same unit of analysis to examine how gameplay design patterns were taken up and transformed within learner activity.
 
-##### GDPs as a germ cell in design and analysis
+#### GDPs as a germ cell in design and analysis
 
 As part of Stage 3 of the analysis, this section addresses Research Question 2 by examining how gameplay design patterns (GDPs) functioned as mediational tools within the situated activity of the CGD&P workshops. Drawing on the second unit of analysis outlined earlier, GDPs were interpreted not only as practical scaffolds, but also as evolving conceptual resources. A spreadsheet of thematic codes, begun in Stage 2, was extended to cluster GDP use across Rogoff’s three planes of activity (individual, interpersonal, and cultural). Patterns of adaptation and reinterpretation were particularly salient, as learners often modified a pattern’s purpose or linked it to emergent gameplay goals. These shifts were interpreted through a CHAT lens as evidence of agency enacted through tool transformation and appropriation. Findings from this process are developed in detail in Chapter 6.
 

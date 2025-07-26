@@ -23,8 +23,8 @@
                 episodes](#use-of-vignettes-as-analytic-episodes)
             -   [Interpreting contradictions through design
                 narrative](#interpreting-contradictions-through-design-narrative)
-                -   [GDPs as a germ cell in design and
-                    analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
+            -   [GDPs as a germ cell in design and
+                analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
             -   [Analysing learner agency](#analysing-learner-agency)
     -   [Researcher stance and interpretive
         validity](#researcher-stance-and-interpretive-validity)

@@ -24,21 +24,22 @@ title: Conclusions
             -   [Significant advances in understanding of how GDPs can
                 be used in the field of CGD&P and
                 beyond](#significant-advances-in-understanding-of-how-gdps-can-be-used-in-the-field-of-cgdp-and-beyond)
-            -   [Agency and repertoire in CGD&P
-                (RQ3)](#agency-and-repertoire-in-cgdp-rq3)
+        -   [2.2 Agency and repertoire in CGD&P
+            (RQ3)](#agency-and-repertoire-in-cgdp-rq3)
             -   [Keeping hard fun hard -](#keeping-hard-fun-hard--)
-        -   [The value and processes of creating space for emergent
-            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
+            -   [Recap / concuding comments, the value and processes of
+                creating space for emergent practices and
+                agency](#recap-concuding-comments-the-value-and-processes-of-creating-space-for-emergent-practices-and-agency)
     -   [Summary of contributions, research outputs, and future
         directions](#summary-of-contributions-research-outputs-and-future-directions)
         -   [Key recommendations for educators and
             facilitators](#key-recommendations-for-educators-and-facilitators)
         -   [Directions for future
             research](#directions-for-future-research)
-        -   [Reflections on practice, participation and
-            positioning](#reflections-on-practice-participation-and-positioning)
+    -   [Reflections on practice, participation and
+        positioning](#reflections-on-practice-participation-and-positioning)
         -   [Two emotional moments](#two-emotional-moments)
-        -   [8. Final reflections](#final-reflections)
+    -   [Final reflections](#final-reflections)
     -   [Foot note](#foot-note)
 
 # Conclusion
@@ -142,7 +143,7 @@ GDPs played a dual role in the pedagogy: they functioned both as code artefacts 
 
 Crucially, GDPs helped bridge the abstract–concrete gap in computing pedagogy. Abstract computing concepts—such as loops, conditionals or systems dynamics—became grounded in concrete design choices. The inclusion of a Learning Dimensions Map provided a framework for naming and reflecting on these connections. Table 1 below shows how coding concepts, systems patterns, and design practices were mapped onto GDPs. -->
 
-#### Agency and repertoire in CGD&P (RQ3)
+### 2.2 Agency and repertoire in CGD&P (RQ3)
 
 **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
 
@@ -175,10 +176,9 @@ Some parents were aware of this tension as outlined in appendix.
 
 There is a potential tension between instrumental agency and transformative agency.
 
-### The value and processes of creating space for emergent practices.
+#### Recap / concuding comments, the value and processes of creating space for emergent practices and agency
 
-In the last chapter there was discussion on
-- metaphors for creating space, harbours, walled gardens
+Returing to metaphors for creating space, harbours, and jam sessions,
 
 These metaphorical ideas have implications for practitioners that can be framed perhaps best as tensions.
 
@@ -254,7 +254,6 @@ While limitations related to scope, scale, and context have been outlined in Cha
 - **Other areas of application of the REEPP model:**  Other interprestations extensions of the REEPP model may offer new opportunities to explore engagement and authenticity in more tangible maker settings. These adaptations could help integrate computational thinking with sensor-based interaction, robotics, or hybrid game-making experiences.
 
 
-
 - **Wider 3M model:** The use of  3M model could be trialled in a range of new settings, including school-based computing lessons, enrichment clubs, and museum-based learning environments. Such work would help evaluate the model’s transferability beyond the flexible, high-autonomy context of home education.
 
 - **Learning Dimensions Map:** The Learning Dimensions Map, developed as an interpretive and facilitative tool, could be adapted into a co-reflective scaffold for use with learners and educators. This could support deeper insight into emergent learning trajectories and concept development in project-based computing education.
@@ -271,7 +270,7 @@ While limitations related to scope, scale, and context have been outlined in Cha
 .
 
 
-### Reflections on practice, participation and positioning
+## Reflections on practice, participation and positioning
 
 <!-- This study was not only about pedagogy and design, it was also about relationships. The researcher’s positionality as a community educator and designer shaped every phase of the project. This dual role enabled trust, flexibility, and rapid iteration, but also demanded constant reflexivity. The intervention was co-produced with participants and families; its values emerged through practice as much as planning.
 
@@ -298,7 +297,7 @@ In the end stages of the writing up process. In a final review of interview data
 The first Maggie's sharing of a moment that made her quite emotional in recognising the learning of her dyslexic son.
 The second was a sharing of Madiha that her daughter had hacked a Amazon Fire tablet to install the android play store thus allowing greater access to free apps and extending the usefulness of the devices beyond the manufacturer's constraints. They reflected that participation in the game making process had helped with the empowerment and patience need to achieve this process. As someone involved in hacking, and repurposing technology to reduce landfill via the Todmorden Makery project this made me emotional.
 
-### 8. Final reflections
+##  Final reflections
 
 This thesis began with the question of how computing education might become more collaborative and interest driven.
 

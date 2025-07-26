@@ -13,19 +13,20 @@
             -   [Significant advances in understanding of how GDPs can
                 be used in the field of CGD&P and
                 beyond](#significant-advances-in-understanding-of-how-gdps-can-be-used-in-the-field-of-cgdp-and-beyond)
-            -   [Agency and repertoire in CGD&P
-                (RQ3)](#agency-and-repertoire-in-cgdp-rq3)
+        -   [2.2 Agency and repertoire in CGD&P
+            (RQ3)](#agency-and-repertoire-in-cgdp-rq3)
             -   [Keeping hard fun hard -](#keeping-hard-fun-hard--)
-        -   [The value and processes of creating space for emergent
-            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
+            -   [Recap / concuding comments, the value and processes of
+                creating space for emergent practices and
+                agency](#recap-concuding-comments-the-value-and-processes-of-creating-space-for-emergent-practices-and-agency)
     -   [Summary of contributions, research outputs, and future
         directions](#summary-of-contributions-research-outputs-and-future-directions)
         -   [Key recommendations for educators and
             facilitators](#key-recommendations-for-educators-and-facilitators)
         -   [Directions for future
             research](#directions-for-future-research)
-        -   [Reflections on practice, participation and
-            positioning](#reflections-on-practice-participation-and-positioning)
+    -   [Reflections on practice, participation and
+        positioning](#reflections-on-practice-participation-and-positioning)
         -   [Two emotional moments](#two-emotional-moments)
-        -   [8. Final reflections](#final-reflections)
+    -   [Final reflections](#final-reflections)
     -   [Foot note](#foot-note)
