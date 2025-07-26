@@ -1,18 +1,16 @@
 -   [Methodology](#methodology)
     -   [Introduction](#introduction)
-        -   [Describing a broad overview of the
-            approach](#describing-a-broad-overview-of-the-approach)
+        -   [Research design and alignment with
+            questions](#research-design-and-alignment-with-questions)
+        -   [Reflections on theoretical grounding and research
+            design](#reflections-on-theoretical-grounding-and-research-design)
     -   [Data collection within project delivery
         phases](#data-collection-within-project-delivery-phases)
-        -   [Table: Summary of delivery
-            phases](#table-summary-of-delivery-phases)
-        -   [Theoretical commitments shaping
-            design](#theoretical-commitments-shaping-design)
-            -   [A qualitative and exploratory
-                approach](#a-qualitative-and-exploratory-approach)
-            -   [The use of holistic data and rich
-                descriptions](#the-use-of-holistic-data-and-rich-descriptions)
-        -   [Utility and replicability](#utility-and-replicability)
+    -   [Reflections on methodological
+        approach](#reflections-on-methodological-approach)
+        -   [Rich description and practical utility in a responsive
+            research
+            design](#rich-description-and-practical-utility-in-a-responsive-research-design)
         -   [Ethical considerations](#ethical-considerations)
     -   [Data analysis process](#data-analysis-process)
         -   [Stage 1 -- Exploratory
@@ -21,13 +19,12 @@
             Refinement](#stage-2-thematic-refinement)
         -   [Stage 3 -- Interpretive
             Consolidation](#stage-3-interpretive-consolidation)
-            -   [Design narrative as interpretive
-                structure](#design-narrative-as-interpretive-structure)
-            -   [Use of 3GAT analysis](#use-of-3gat-analysis)
-        -   [Diagrammatic representations - Drop, move or
-            keep?](#diagrammatic-representations---drop-move-or-keep)
-            -   [GDPs as a germ cell in design and
-                analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
+            -   [Use of vignettes as analytic
+                episodes](#use-of-vignettes-as-analytic-episodes)
+            -   [Interpreting contradictions through design
+                narrative](#interpreting-contradictions-through-design-narrative)
+                -   [GDPs as a germ cell in design and
+                    analysis](#gdps-as-a-germ-cell-in-design-and-analysis)
             -   [Analysing learner agency](#analysing-learner-agency)
     -   [Researcher stance and interpretive
         validity](#researcher-stance-and-interpretive-validity)

@@ -22,6 +22,10 @@
             data](#summary-table-of-data-analysis-of-video-data)
         -   [Additional summary of phases of this study's
             methodology](#additional-summary-of-phases-of-this-studys-methodology)
+        -   [B.x Methodology - Extract of 5 minute
+            transcripts](#b.x-methodology---extract-of-5-minute-transcripts)
+        -   [Methodology - Appendix B.Rqs & coding
+            schema](#methodology---appendix-b.rqs-coding-schema)
         -   [Methodology - Back up links to short URL
             resources](#methodology---back-up-links-to-short-url-resources)
     -   [Appendix C - Interview data & participant feedback or detailed
