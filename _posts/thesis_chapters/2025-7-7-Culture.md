@@ -1048,17 +1048,6 @@ _Table 7.x - Summative table illustrating stages of facilitating RARB in this st
 
 The following section begins with a summary of how and where the research questions have been answered, dealing first with the sub-questions before returning to the principal research question. A description and graphical representation of an overall pedagogy developed follows.
 
-**Sub-question 1 (RQ1):** What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
-
-RQ1 was answered via the design narrative in Chapter 5 which contained analysis using CHAT concepts to examine three key areas of contradiction in the evolving research design. A summary table and discussion discussed the findings in relation to existing pedagogies explored in Chapter 2. The REEPPP approach outlined in part one of this chapter is in part a result of this line of questioning.
-
-**Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
-
-RQ2 was addressed by findings in Chapter 6 via a summative table of different mediational and motivational uses of GDPs. An interpretation of the role of GDPs as a germ cell of game making activity and it has been discussed in more depth in this chapter. In addition, it has been used to inform analysis of the use of patterns within the technical structure of the REEPPP approach.
-
-**Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
-
-RQ3 is addressed in part two of this chapter through the reinterpretation of cultural elements in the findings of Chapter 6 using concepts of third space, and repertoires.
 
 **Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches (used in this study)?
 
