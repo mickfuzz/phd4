@@ -76,3 +76,4 @@
             -MOVE to
             concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
         -   [MOVED FROM CHAPTER 6](#moved-from-chapter-6)
+        -   [MOVED FROM CHAPTER 8 JULY](#moved-from-chapter-8-july)

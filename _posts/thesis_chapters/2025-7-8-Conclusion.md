@@ -9,171 +9,37 @@ layout: post
 categories: chapter
 title: Conclusions
 ---
-
--   [Conclusions](#conclusions)
+-   [Conclusion](#conclusion)
     -   [Introduction](#introduction)
-    -   [Key Findings and research
-        outputs](#key-findings-and-research-outputs)
-        -   [Significant advances in understanding of how GDPs can be
-            used in the field of CGD&P and
-            beyond](#significant-advances-in-understanding-of-how-gdps-can-be-used-in-the-field-of-cgdp-and-beyond)
-        -   [Research output: 3M game making (Meta) model of pedagogical
-            elements of the learning
-            design](#research-output-3m-game-making-meta-model-of-pedagogical-elements-of-the-learning-design)
-        -   [Research Output - REEPP as a technical
-            pedagogy](#research-output---reepp-as-a-technical-pedagogy)
-        -   [Highlighting value of socio-cultural approach to contribute
-            to the field of CGD&P pedagogy (and
-            beyond)](#highlighting-value-of-socio-cultural-approach-to-contribute-to-the-field-of-cgdp-pedagogy-and-beyond)
-            -   [Research Output - A pedagogy aligned with inclusive
-                approaches and promising for neurodiversity in
-                particular](#research-output---a-pedagogy-aligned-with-inclusive-approaches-and-promising-for-neurodiversity-in-particular)
-            -   [Evidence of evolution on design/ processes and learner
-                agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
-        -   [Research Output - Conceptualisations of agency formation -
-            RARB - relational agency through repertoire
-            blending](#research-output---conceptualisations-of-agency-formation---rarb---relational-agency-through-repertoire-blending)
-            -   [Research Output - Conceptualisations of forms of
-                agency - in context - MERGE
-                UP](#research-output---conceptualisations-of-forms-of-agency---in-context---merge-up)
-                -   [The value of designing for shifting forms agency as
-                    a transferrable concepts. - MERGE
-                    UP](#the-value-of-designing-for-shifting-forms-agency-as-a-transferrable-concepts.---merge-up)
-            -   [Specific 3M techniques through the lens of agency
-                (RQ3)](#specific-3m-techniques-through-the-lens-of-agency-rq3)
-        -   [DBR / FI / SDBE processes to divining authentic
-            frameworks](#dbr-fi-sdbe-processes-to-divining-authentic-frameworks)
-            -   [Finding intermediate knowledge in the form of learner
-                focused, guiding pedagogical
-                frameworks](#finding-intermediate-knowledge-in-the-form-of-learner-focused-guiding-pedagogical-frameworks)
-            -   [Home Ed families and the research
-                process](#home-ed-families-and-the-research-process)
-        -   [Contribution to the research in the field: DBR / FI & 4TH
-            GENERATION CHAT / UTOPIAN
-            METHODOLOGIES](#contribution-to-the-research-in-the-field-dbr-fi-4th-generation-chat-utopian-methodologies)
-    -   [Practical implications and recommendations for
-        practice](#practical-implications-and-recommendations-for-practice)
-        -   [Transfer of collection of Design patterns as a gateway
-            framework to other
-            domains.](#transfer-of-collection-of-design-patterns-as-a-gateway-framework-to-other-domains.)
-        -   [Revisiting potential audiences for the research outputs of
-            this study and how contextual factors may impact
-            relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contextual-factors-may-impact-relevancy)
-        -   [Addressing inclusion and
-            neurodiversity](#addressing-inclusion-and-neurodiversity)
-        -   [Limitations in exploring drama elements and participation
-            types](#limitations-in-exploring-drama-elements-and-participation-types)
-        -   [Using Concrete / applied
-            frameworks](#using-concrete-applied-frameworks)
-            -   [abstact vs applied frameworks - Comparing aims of
-                coding for empowerment/ learner agency with STEM
-                pipeline
-                narrative](#abstact-vs-applied-frameworks---comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
-            -   [Guided iterative (stepped) project
-                frames.](#guided-iterative-stepped-project-frames.)
-        -   [The value and processes of creating space for emergent
-            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
-        -   [Summary of implications for practice to encourage
-            agency](#summary-of-implications-for-practice-to-encourage-agency)
-        -   [Asking questions about the challenge of applying this model
-            to classroom
-            environments.](#asking-questions-about-the-challenge-of-applying-this-model-to-classroom-environments.)
-        -   [Discussion on 3M's accumulative effect - more than a sum or
-            parents](#discussion-on-3ms-accumulative-effect---more-than-a-sum-or-parents)
-    -   [Limitations if this research](#limitations-if-this-research)
-        -   [Gender based issues of
-            inclusion](#gender-based-issues-of-inclusion)
-        -   [Advantages and limitations of Home Education
-            context](#advantages-and-limitations-of-home-education-context)
-        -   [A larger focus on empowerment impact on
-            participants](#a-larger-focus-on-empowerment-impact-on-participants)
-        -   [Addressing the nature of my contribution to research
-            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
-    -   [Future directions and promising
-        areas](#future-directions-and-promising-areas)
-        -   [Design patterns as a teaching
-            aid](#design-patterns-as-a-teaching-aid)
-        -   [How can the use of design patterns map to other computing
-            educational
-            domains?](#how-can-the-use-of-design-patterns-map-to-other-computing-educational-domains)
-    -   [Concluding reflection](#concluding-reflection)
-        -   [Final reflection of the characteristics and potential of
-            the pedagogy and how it relates to my past and
-            future](#final-reflection-of-the-characteristics-and-potential-of-the-pedagogy-and-how-it-relates-to-my-past-and-future)
-    -   [PREVIOUS WORK TO MOVE OR
-        INTEGRATE](#previous-work-to-move-or-integrate)
-        -   [Perhaps a summary of 3M & motivations
-            here?](#perhaps-a-summary-of-3m-motivations-here)
-            -   [Keeping hard fun hard - MOVE TO A DISCUSSION SECTION OF
-                ATHER CHAPTER? CH. 7 = IN MOVEMENT BETWEEN DIFFERENT
-                TYPES OF AGENCY / CMOPUTATIONAL
-                FLUENCY?](#keeping-hard-fun-hard---move-to-a-discussion-section-of-ather-chapter-ch.-7-in-movement-between-different-types-of-agency-cmoputational-fluency)
-    -   [Research outputs & discussion on
-        outputs](#research-outputs-discussion-on-outputs)
-        -   [Research Output - Collection of GDPS with supporting
-            resources (including Learning dimensions
-            map)](#research-output---collection-of-gdps-with-supporting-resources-including-learning-dimensions-map)
+    -   [2 Concluding reflections organised by research
+        questions.](#concluding-reflections-organised-by-research-questions.)
+        -   [2.1 Contradiction and the design process (RQ1) -
+            Discussion](#contradiction-and-the-design-process-rq1---discussion)
+            -   [Research Output - REEPP as a technical
+                pedagogy](#research-output---reepp-as-a-technical-pedagogy)
             -   [Evolution of the Learning dimensions
                 map](#evolution-of-the-learning-dimensions-map)
-            -   [Backgroud on learning Dimensions Map - background -
-                COMPRESS?](#backgroud-on-learning-dimensions-map---background---compress)
-            -   [The potential of learning and navigational
-                maps](#the-potential-of-learning-and-navigational-maps)
-            -   [PRIMM and Semantic Waves in relation to use of Learning
-                Dimensions map and GDP
-                use](#primm-and-semantic-waves-in-relation-to-use-of-learning-dimensions-map-and-gdp-use)
-            -   [Practical or Abstract Framework - CT as a practical
-                skill or a more abstract
-                concept.](#practical-or-abstract-framework---ct-as-a-practical-skill-or-a-more-abstract-concept.)
-    -   [Answering RQ3 on agency - synthesis and limitations of this
-        research](#answering-rq3-on-agency---synthesis-and-limitations-of-this-research)
-        -   [Synthesis of reflections on designing for learner
-            agency](#synthesis-of-reflections-on-designing-for-learner-agency)
-    -   [Implications and recommendations for
-        practitioners](#implications-and-recommendations-for-practitioners)
+        -   [2.2 Game design patterns as conceptual and social scaffolds
+            (RQ2)](#game-design-patterns-as-conceptual-and-social-scaffolds-rq2)
+            -   [Significant advances in understanding of how GDPs can
+                be used in the field of CGD&P and
+                beyond](#significant-advances-in-understanding-of-how-gdps-can-be-used-in-the-field-of-cgdp-and-beyond)
+            -   [Agency and repertoire in CGD&P
+                (RQ3)](#agency-and-repertoire-in-cgdp-rq3)
+            -   [Keeping hard fun hard -](#keeping-hard-fun-hard--)
         -   [The value and processes of creating space for emergent
-            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.-1)
-            -   [Supporting different game making approaches via
-                scaffolding within choice with
-                limits.](#supporting-different-game-making-approaches-via-scaffolding-within-choice-with-limits.)
-        -   [Exploring CT development via the use of
-            GDPs](#exploring-ct-development-via-the-use-of-gdps)
-        -   [Game Design Patterns vs CT and more established
-            "knowledge"](#game-design-patterns-vs-ct-and-more-established-knowledge)
-            -   [GDP, CT & Transfer](#gdp-ct-transfer)
-            -   [Technical of 3M concepts suiting
-                transfer](#technical-of-3m-concepts-suiting-transfer)
-            -   [Strengths and Weaknesses of the GDP construct /
-                terminology](#strengths-and-weaknesses-of-the-gdp-construct-terminology)
-            -   [On CTs and CTs emerging in the
-                wild.](#on-cts-and-cts-emerging-in-the-wild.)
-            -   [Compare formal teaching of CT and CS with an approach
-                based on a freer choice of
-                patterns.](#compare-formal-teaching-of-ct-and-cs-with-an-approach-based-on-a-freer-choice-of-patterns.)
-    -   [Final Conclusion](#final-conclusion)
-        -   [Two things that made people
-            emotional](#two-things-that-made-people-emotional)
-    -   [Holding Zone or DROP](#holding-zone-or-drop)
-        -   [Thoughts Log - things that may end up
-            here.](#thoughts-log---things-that-may-end-up-here.)
-        -   [GDPs that are already in the
-            template](#gdps-that-are-already-in-the-template)
-        -   [Breaking out of the walled
-            garden:](#breaking-out-of-the-walled-garden)
-        -   [Synergies of use of GDP by practioners and learners in
-            research
-            designs](#synergies-of-use-of-gdp-by-practioners-and-learners-in-research-designs)
-        -   [On transfer of gdps -
-            debates](#on-transfer-of-gdps---debates)
-        -   [Physical Computing and Game
-            Making:](#physical-computing-and-game-making)
-        -   [Missing data on starting game / quick start cards (Limit -
-            but drop
-            )](#missing-data-on-starting-game-quick-start-cards-limit---but-drop)
-        -   [How does this fit into other domain specific research -
-            Constructionism, Computer supported collaborative learning
-            CSCL](#how-does-this-fit-into-other-domain-specific-research---constructionism-computer-supported-collaborative-learning-cscl)
-
+            practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
+    -   [Summary of contributions, research outputs, and future
+        directions](#summary-of-contributions-research-outputs-and-future-directions)
+        -   [Key recommendations for educators and
+            facilitators](#key-recommendations-for-educators-and-facilitators)
+        -   [Directions for future
+            research](#directions-for-future-research)
+        -   [Reflections on practice, participation and
+            positioning](#reflections-on-practice-participation-and-positioning)
+        -   [Two emotional moments](#two-emotional-moments)
+        -   [8. Final reflections](#final-reflections)
+    -   [Foot note](#foot-note)
 
 # Conclusion
 
@@ -356,6 +222,27 @@ This section provides a summary of some of the synthesised discussion above and 
 
 
 
+### Key recommendations for educators and facilitators
+
+**Allow learners to draw on their home interests by creating an inclusive creative environment** where they are encouraged to explore their existing knowledge of game conventions and their attitudes towards video game play. Recognising these *funds of knowledge* supports engagement and enables learners to make meaningful connections between personal interests and technical practices.
+
+**Start coding with a half-baked game [@kynigos_children_2018]:** Provide learners with a partially completed game template that they can adapt. This shared structure promotes peer learning and comparison, while also helping facilitators keep track of each participant’s evolving codebase and learning pathway.
+
+**Use emerging learner requests to shape a collection of code examples:** Build a set of code snippets and supporting documentation based on familiar gameplay design patterns (GDPs). These can be co-curated with participants over time. Encourage learners to explore and remix these elements, supporting autonomy and technical growth.
+
+**Allow flexible working practices and incorporate regular play-testing:** Create an environment where learners can draw on relationships with family members and experiment with different modes of collaboration. Scheduled play-testing and shared feedback moments foster a sense of co-creation, motivation, and cross-project dialogue.
+
+**Incorporate playful approaches to support emergent identity work:** Use drama, narrative prompts, and side missions to invite diverse forms of participation. These elements can help learners experiment with new roles and self-representations within the learning space.
+
+**Support agency in multiple forms:** Design learning environments that allow learners to take initiative (instrumental agency), express ideas (authorial agency), and reshape activity structures (transformative agency). Scaffolding should support rather than constrain these possibilities.
+
+**Design with scaffolding and choice in balance:** Tools like GDP menus and narrative maps provide structure without closing down creativity. Offering a curated set of remixable components helps reduce overwhelm, especially for novice learners, while preserving space for exploration.
+
+**Adopt facilitation metaphors that support emergence:** Think of the educator’s role as holding open a harbour or wayfinding space—somewhere learners can navigate their own routes with guidance. This helps avoid overly linear or predetermined models of progress.
+
+**Plan for transferability and reflection:** Encourage learners to reflect on how their current game-making strategies might apply in new domains or contexts. Make design decisions and code structures visible to support deeper understanding and future adaptation.
+
+
 
 ### Directions for future research
 
@@ -438,17 +325,7 @@ Taken as a whole, I often find the many challenges ahead overwhelming in scope a
 
 
 
-## Practical implications and recommendations for practice
 
-### Transfer of collection of Design patterns as a gateway framework to other domains.
-
-**Applicable beyond this domain / new contributions to research area**
-
-While the search for intermediate design concepts is applicable in other domains, how can this research contribute to this area of research?
-
-- a stronger focus on participants and facilitators in this area.
-- which creates a larger scope of use of GDPs than that imagined by Eriksson et al. which incorporates more social / cultural uses
-- a experimental process led by participants in curating the menu of patterns (within limits set by facilitators)
 
 
 

@@ -1545,6 +1545,10 @@ This appendix outlines the evolution of a map of learning dimensions which is re
 
 Similarly, one of the outcomes of my research was to extract from hours of recorded material some of the concepts and practices that learners engaged with when making games. Table 4.x. shows my resulting map of learning dimensions. While some concepts are common to existing computational thinking frameworks others, including systems thinking concepts, are more unique to game making. The choice to include some elements over others is based on a synthesis of the experience of participants, existing frameworks in this domain (previously explored in the LR), and my own interpretation which privileged under explored elements like systems patterns. Due to the dominance personal input, this framework is offered as starting point which could benefit from the type of collaborative analysis undertaken in Bevan and Petrich's process.
 
+
+
+
+
 <!--
 |      Coding Concepts    | Systems Patterns    | Design Practices|
 |--------------|-----------|------------|
