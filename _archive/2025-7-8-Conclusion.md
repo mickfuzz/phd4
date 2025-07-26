@@ -10,67 +10,43 @@ categories: chapter
 title: Conclusions
 ---
 
--   [Conclusions](#conclusions)
+
+
+-   [Discursive Conclusion](#discursive-conclusion)
+    -   [Research Questions - March
+        2024](#research-questions---march-2024)
+    -   [Outline notes](#outline-notes)
+        -   [Initial Discussion Outline](#initial-discussion-outline)
+        -   [Initial Conclusion Outline](#initial-conclusion-outline)
     -   [Introduction](#introduction)
     -   [Key Findings and research
         outputs](#key-findings-and-research-outputs)
-        -   [Significant advances in understanding of how GDPs can be
-            used in the field of CGD&P and
-            beyond](#significant-advances-in-understanding-of-how-gdps-can-be-used-in-the-field-of-cgdp-and-beyond)
         -   [Research output: 3M game making (Meta) model of pedagogical
             elements of the learning
             design](#research-output-3m-game-making-meta-model-of-pedagogical-elements-of-the-learning-design)
-        -   [Research Output - REEPP as a technical
-            pedagogy](#research-output---reepp-as-a-technical-pedagogy)
-        -   [Highlighting value of socio-cultural approach to contribute
-            to the field of CGD&P pedagogy (and
-            beyond)](#highlighting-value-of-socio-cultural-approach-to-contribute-to-the-field-of-cgdp-pedagogy-and-beyond)
-            -   [Research Output - A pedagogy aligned with inclusive
-                approaches and promising for neurodiversity in
-                particular](#research-output---a-pedagogy-aligned-with-inclusive-approaches-and-promising-for-neurodiversity-in-particular)
-            -   [Evidence of evolution on design/ processes and learner
-                agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
-        -   [Research Output - Conceptualisations of agency formation -
-            RARB - relational agency through repertoire
-            blending](#research-output---conceptualisations-of-agency-formation---rarb---relational-agency-through-repertoire-blending)
-            -   [Research Output - Conceptualisations of forms of
-                agency - in context - MERGE
-                UP](#research-output---conceptualisations-of-forms-of-agency---in-context---merge-up)
-                -   [The value of designing for shifting forms agency as
-                    a transferrable concepts. - MERGE
-                    UP](#the-value-of-designing-for-shifting-forms-agency-as-a-transferrable-concepts.---merge-up)
-            -   [Specific 3M techniques through the lens of agency
-                (RQ3)](#specific-3m-techniques-through-the-lens-of-agency-rq3)
-        -   [DBR / FI / SDBE processes to divining authentic
-            frameworks](#dbr-fi-sdbe-processes-to-divining-authentic-frameworks)
-            -   [Finding intermediate knowledge in the form of learner
-                focused, guiding pedagogical
-                frameworks](#finding-intermediate-knowledge-in-the-form-of-learner-focused-guiding-pedagogical-frameworks)
-            -   [Home Ed families and the research
-                process](#home-ed-families-and-the-research-process)
-        -   [Contribution to the research in the field: DBR / FI & 4TH
-            GENERATION CHAT / UTOPIAN
-            METHODOLOGIES](#contribution-to-the-research-in-the-field-dbr-fi-4th-generation-chat-utopian-methodologies)
+        -   [Research Output - Toolsets of template and Code playground
+            (RQ1 and impact on
+            RQ3)](#research-output---toolsets-of-template-and-code-playground-rq1-and-impact-on-rq3)
+        -   [Evidence of evolution on design/ processes and learner
+            agency](#evidence-of-evolution-on-design-processes-and-learner-agency)
+    -   [Theoretical Contributions](#theoretical-contributions)
+        -   [Research Output - Conceptualisations of forms of
+            agency](#research-output---conceptualisations-of-forms-of-agency)
+        -   [Divining authentic
+            frameworks](#divining-authentic-frameworks)
     -   [Practical implications and recommendations for
         practice](#practical-implications-and-recommendations-for-practice)
-        -   [Transfer of collection of Design patterns as a gateway
-            framework to other
-            domains.](#transfer-of-collection-of-design-patterns-as-a-gateway-framework-to-other-domains.)
         -   [Revisiting potential audiences for the research outputs of
             this study and how contextual factors may impact
             relevancy](#revisiting-potential-audiences-for-the-research-outputs-of-this-study-and-how-contextual-factors-may-impact-relevancy)
-        -   [Addressing inclusion and
-            neurodiversity](#addressing-inclusion-and-neurodiversity)
-        -   [Limitations in exploring drama elements and participation
-            types](#limitations-in-exploring-drama-elements-and-participation-types)
         -   [Using Concrete / applied
             frameworks](#using-concrete-applied-frameworks)
             -   [abstact vs applied frameworks - Comparing aims of
                 coding for empowerment/ learner agency with STEM
                 pipeline
                 narrative](#abstact-vs-applied-frameworks---comparing-aims-of-coding-for-empowerment-learner-agency-with-stem-pipeline-narrative)
-            -   [Guided iterative (stepped) project
-                frames.](#guided-iterative-stepped-project-frames.)
+            -   [Guided iterative (step-wise) project
+                frames.](#guided-iterative-step-wise-project-frames.)
         -   [The value and processes of creating space for emergent
             practices.](#the-value-and-processes-of-creating-space-for-emergent-practices.)
         -   [Summary of implications for practice to encourage
@@ -87,8 +63,6 @@ title: Conclusions
             context](#advantages-and-limitations-of-home-education-context)
         -   [A larger focus on empowerment impact on
             participants](#a-larger-focus-on-empowerment-impact-on-participants)
-        -   [Addressing the nature of my contribution to research
-            landscape](#addressing-the-nature-of-my-contribution-to-research-landscape)
     -   [Future directions and promising
         areas](#future-directions-and-promising-areas)
         -   [Design patterns as a teaching
@@ -151,8 +125,6 @@ title: Conclusions
                 based on a freer choice of
                 patterns.](#compare-formal-teaching-of-ct-and-cs-with-an-approach-based-on-a-freer-choice-of-patterns.)
     -   [Final Conclusion](#final-conclusion)
-        -   [Two things that made people
-            emotional](#two-things-that-made-people-emotional)
     -   [Holding Zone or DROP](#holding-zone-or-drop)
         -   [Thoughts Log - things that may end up
             here.](#thoughts-log---things-that-may-end-up-here.)
@@ -174,14 +146,64 @@ title: Conclusions
             Constructionism, Computer supported collaborative learning
             CSCL](#how-does-this-fit-into-other-domain-specific-research---constructionism-computer-supported-collaborative-learning-cscl)
 
+<!--
+## Starting thoughts on writing up results.
+
+The 3M model as a pedagogical model which aligns with PBL principles and more general social approach to learning coding.
+A start here of mapping in a Matrix that could be included in a concluding chapter.
+https://docs.google.com/document/d/1DRgpgIUfq5XIktYy-lX4WlviUDnffNc0v8SOeLGgHho/edit -->
 
 # Conclusions
+
+
+## Ideas to add
+
+
+
+Input the criteria for game making studies from Denner et al [@denner_does_2019, p.31] - say that follow up study with this detail would be useful.
+
+It should also be said that this lack of data and descriptive rather that quantative data is not uncommon in this areas of study from Denner's results. 
+
+
+## Outline notes
+
+The working draft of this chapter now merges a proposed discussion chapter with the conclusion.
+
+### Initial Discussion  Outline
+
+
+- Analyse 3M design with this lens of agency
+  - Game design to understanding games as a design artefact for empowerment purposes
+  - Tension between walled garden and wider choice
+- sCompare key elements of 3M other studies in comping coding domain , primm, umc,
+
+      - shifts in levels of abstraction
+ Compare key elements of 3M - Then other more general frameworks , pbl, udl, cop, col - These differ in scope and specificity, and thus utility for practitioners
+
+
+  - address transfer?
+-
+   Synthesis of conceptions of designing for learner agency in an emerging community of coders
+  - compare Resnick / Paperts features of 'designing for tinkerability', with TADS and creating hooking points for double stimulation (warping anchors)
+  - note different emphasis on the agency of the learner to one focusing on curriculum knowledge and resulting reccommendations
+  - also compare concept of computational fluency of Resnick.
+  - differing focus on the role of the designer
+  - similarities in process - iterative, empowerment
+
+### Initial Conclusion  Outline
+
+  - Recap discussion around comparing aims of coding for empowerment/ learner agency with STEM pipeline narrative
+    - simple duality - critique of CT, pipeline narrative to fill vacancies in job market
+    - complexify simple duality interpretation, as authenticity and linking to real practices ARE empowering
+  - Recap analysis of framework to facilitate designing for an emerging community of coders
+    - Explore possibility to extend this to other domains
+    - Advantages and limitations of Home Education context
 
 
 
 ## Introduction
 
-<!-- This chapter synthesises answers to the RQs 1-3 in the following way.
+This chapter synthesises answers to the RQs 1-3 in the following way.
 
 Firstly by examining the research outputs of the study and discussion how they embody answers to the RQs.
 
@@ -190,42 +212,7 @@ Firstly by examining the research outputs of the study and discussion how they e
 - Practical Implications  
 - Limitations  
 - Future Research Directions  
-- Final Reflection   -->
-
-
-
-This chapter provides a final synthesis of the thesis, returning to its central questions and articulating the contribution made by the study to knowledge and practice. The research was motivated by a desire to explore how computing game design and programming (CGD&P) could be ...
-
-
-Building on sociocultural theory, activity theory, and design-based research, the study developed, trialled and iteratively refined a flexible pedagogy that foregrounded digital fluency, agency,  and incorporation of diverse repertoire.
-
-The work took place across five phases in a home education and university partnership context. The pedagogical approach, eventually articulated through the 3M model (Missions, Maps, and Methods), was developed through cycles of design, facilitation and reflection.
-
-This final chapter revisits the study’s three sub-questions and primary question, offers a summary of the conceptual, methodological and practical contributions, and closes with reflections on future directions and the broader relevance of this work.
-
-The guiding question was:
-
-**Primary research question (RQP):** How can understandings of how to design and facilitate CGD\&P be enriched using socio-cultural approaches (used in this study)?
-
-
-
-
-**Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
-
-RQ2 was addressed by findings in Chapter 6 via a summative table of different mediational and motivational uses of GDPs. An interpretation of the role of GDPs as a germ cell of game making activity and it has been discussed in more depth in this chapter. In addition, it has been used to inform analysis of the use of patterns within the technical structure of the REEPPP approach.
-
-**Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
-
-RQ3 is addressed in part two of this chapter through the reinterpretation of cultural elements in the findings of Chapter 6 using concepts of third space, and repertoires.
-
-
-### 2. Contradiction and the design process (RQ1) - Discussion
-
-**Sub-question 1 (RQ1):** What contradictions arose in this research’s evolving design process and how were they addressed in the resulting CGD&P pedagogy?
-
-RQ1 was answered via the design narrative in Chapter 5 which contained analysis using CHAT concepts to examine three key areas of contradiction in the evolving research design. A summary table and discussion discussed the findings in relation to existing pedagogies explored in Chapter 2. The REEPPP approach outlined in part one of this chapter is in part a result of this line of questioning.
-
-
+- Final Reflection  
 
 
 ## Key Findings and research outputs
@@ -996,7 +983,7 @@ Elements of contrast with 3M include;
 
 ## Final Conclusion
 
-### Two emotional moments
+### Two things that made people emotional
 
 This PhD has taken a long time. When I started I had a 2 year old boy. He is now 10. His learning journey as someone who is lively, expressive and struggles with formal learning environments has brought up issues of designing for inclusive pedagogies that would have formed a greater part of the research process if carried out now.
 
@@ -1004,3 +991,75 @@ In the end stages of the writing up process. In a final review of interview data
 The first Maggie's sharing of a moment that made her quite emotional in recognising the learning of her dyslexic son.
 The second was a sharing of Madiha that her daughter had hacked a Amazon Fire tablet to install the android play store thus allowing greater access to free apps and extending the usefulness of the devices beyond the manufacturer's constraints. They reflected that participation in the game making process had helped with the empowerment and patience need to achieve this process.
 As someone involved in hacking, and repurposing technology to reduce landfill via the Todmorden Makery project this made me emotional.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Holding Zone or DROP
+
+
+### Thoughts Log - things that may end up here.
+
+### GDPs that are already in the template
+
+Some GDPs were not made a part of the menu of options as they were already in the template.
+For example Reward.
+
+Is this a missed opportunity to surface and discuss those patterns? cf [@eriksson_using_2019]
+
+### Breaking out of the walled garden:
+
+Te and Da's decision to explore a different starting point and add uncharted GDPs like following enemies.
+A potential tension which was resolved quickly in some ways.
+But at the cost of maintaining a working game.
+
+
+### Synergies of use of GDP by practioners and learners in research designs
+
+The use of GDP by practitioners are compared to those of participants and synergies are explored.
+
+
+### On transfer of gdps - debates
+In this context of novice coders in an informal environment it seems appropriate to introduce some levels of reusable practice whilst initially prioritising individual learner engagement and community participation.
+Game design patterns contain elements of more abstract and thus repeatable structures thus fulfilling some of the promise transfer offered by advocates of Computational Thinking. This is explored in more depth in the next chapter.
+
+
+
+
+### Physical Computing and Game Making:
+
+- There is scant evidence for this in the video data.
+- I can make observations from journal notes and try to find mention of it in interviews.
+
+(Imported Writing)
+**Physical Computing and Game Making:** The use of physical computing to create concrete and tangible activities can increase the engagement and motivation of learners [@kaloti-hallak_students_2015]. Making the digital concepts physical, and thus allowing exploration via diverse means, also aligns with inclusive learning principles. To support my game making projects, I created simple arcade cabinets out of wood with retro arcade buttons. Connecting arcade buttons to the computer via simple electronics is a project which can be completed quickly. The process of students building their own arcade cabinets for a games showcase increased their perception of the authenticity of their end goal. Some families created low-tech, customised arcade cabinets using cardboard. Although my studies have been small-scale the self-reported effects on learner engagement and motivation of this part of the program were significant.
+
+
+
+### Missing data on starting game / quick start cards (Limit - but drop )
+
+Study on the use of templated starting cards was unfortunately hindered by the logistics of the recording process which began only after this process had happened and may participants had already undertaken one phase.
+
+A separate study of a stand-alone group engaging with this starting template and cards would be welcome, and may be a legitimate follow up to this study.
+
+### How does this fit into other domain specific research - Constructionism, Computer supported collaborative learning CSCL
+
+This section follows up on gaps in the reserach exposed in the introduction
+
+Attempt to show differences and possible lines of inquiry that have been neglected in other areas.

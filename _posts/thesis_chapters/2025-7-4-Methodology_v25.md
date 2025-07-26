@@ -408,21 +408,21 @@ This interpretive work aimed to clarify not only how the learning environment su
 WHICH STAGE - HOW DOES IT FIT IN?
 By the end of this stage, the analysis had shifted from mapping general trends to closely engaging with specific examples that showed tensions, possibilities, and shifts in learner participation. These vignettes became the foundation for articulating the study’s contributions to both theory and practice. -->
 
+## Researcher stance and interpretive validity
+
+### Positionality and analytic trustworthiness
+
+To produce findings that are contextually valid and socially relevant, in line with the core principles of DBR [@brown_design_1992], pedagogical interventions took place within an authentic learning environment, specifically a CGD&P learning programme in a non-formal educational setting. This setting was shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped the recruitment processes, session scheduling, and the kinds of learning interactions that were possible [^par]. These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019], where value is created through contextually relevant pedagogical engagement.
+
+My role as both researcher and facilitator was central to achieving this embeddedness within an authentic context and the broader methodological design of the study. I designed each session to serve a dual purpose: as a site for data collection and as an educational workshop, planned and adapted to meet the varied needs of participants. While this dual role introduced challenges, such as balancing the requirements of pedagogical intervention with the challenges of recognising my positionality within the research process, it also provided opportunities for sustained engagement, flexible design, and an involved perspective of pedagogical evolution in action. The researcher–practitioner stance invites critical reflection on the ethics, logistics, and value of practice-based inquiry [@INSERT_CITATION]. For example, my closeness to the learning design as the designer of the pedagogy could create a positive bias in how participant experience was perceived.
+
+There are two counterpoints to this risk. First, the findings of this study are presented as exploratory and tentative, and would require further testing. Second, as proposed by Stetsenko [-@stetsenko_critical_2020] and others [@INSERT_CITATION], the positioning of research as objective is not realistic, and risks a disinterested stance. The advantage of Stetsenko’s *activist stance* lies in its potential for a positive, direct influence on the situation at hand. Following the logic of this transformative activist stance, validity in this study is grounded in my ethical and practical engagement with participants, and in the co-construction of knowledge aimed at transforming learning relationships and tools.
+
+This approach to validity shaped the entire analytic process. The analysis of this research has prioritised ecological validity by studying interactions that emerged in authentic, practice-based contexts, rather than in controlled or experimental conditions. In addition, this study adopted a critical stance on objectivist notions of validity, drawing on DBR and activity theory traditions that position the researcher as an active participant in meaning-making. Validity was approached through triangulation across media data formats such as video, interviews, journals and supporting resources, and supported by ongoing reflection and iterative analysis.
+
+In achieving validity through an interventionist approach, I found the detailed descriptions of the motivational and practical interventions of the Fifth Dimension programme research by Cole and others [-@cole_sustaining_2001; -@cole_fifth_2006; -@cole2009designing] particularly valuable. In particular, the descriptions of mutual negotiation of aims between partners and sustainability of activity were instructive in shaping my own approach.
 
 
-  ## Researcher stance and interpretive validity
-
-  ### Positionality and analytic trustworthiness
-
-  To produce findings that are contextually valid and socially relevant, in line with the core principles of DBR [@brown_design_1992], pedagogical interventions took place within an authentic learning environment, specifically a CGD&P learning programme in a non-formal educational setting. This setting was shaped by home education practices, local community logistics, and varied participant demographics. This ecological embeddedness shaped the recruitment processes, session scheduling, and the kinds of learning interactions that were possible [^par]. These factors also brought an authenticity that aligns with ecosystem models of learning design [@barnett_ecosystem_2019], where value is created through contextually relevant pedagogical engagement.
-
-  My role as both researcher and facilitator was central to achieving this embeddedness within an authentic context and the broader methodological design of the study. I designed each session to serve a dual purpose: as a site for data collection and as an educational workshop, planned and adapted to meet the varied needs of participants. While this dual role introduced challenges, such as balancing the requirements of pedagogical intervention with the challenges of recognising my positionality within the research process, it also provided opportunities for sustained engagement, flexible design, and an involved perspective of pedagogical evolution in action. The researcher–practitioner stance invites critical reflection on the ethics, logistics, and value of practice-based inquiry [@INSERT_CITATION]. For example, my closeness to the learning design as the designer of the pedagogy could create a positive bias in how participant experience was perceived.
-
-  There are two counterpoints to this risk. First, the findings of this study are presented as exploratory and tentative, and would require further testing. Second, as proposed by Stetsenko [-@stetsenko_critical_2020] and others [@INSERT_CITATION], the positioning of research as objective is not realistic, and risks a disinterested stance. The advantage of Stetsenko’s *activist stance* lies in its potential for a positive, direct influence on the situation at hand. Following the logic of this transformative activist stance, validity in this study is grounded in my ethical and practical engagement with participants, and in the co-construction of knowledge aimed at transforming learning relationships and tools.
-
-  This approach to validity shaped the entire analytic process. The analysis of this research has prioritised ecological validity by studying interactions that emerged in authentic, practice-based contexts, rather than in controlled or experimental conditions. In addition, this study adopted a critical stance on objectivist notions of validity, drawing on DBR and activity theory traditions that position the researcher as an active participant in meaning-making. Validity was approached through triangulation across media data formats such as video, interviews, journals and supporting resources, and supported by ongoing reflection and iterative analysis.
-
-  In achieving validity through an interventionist approach, I found the detailed descriptions of the motivational and practical interventions of the Fifth Dimension programme research by Cole and others [-@cole_sustaining_2001; -@cole_fifth_2006; -@cole2009designing] particularly valuable. In particular, the descriptions of mutual negotiation of aims between partners and sustainability of activity were instructive in shaping my own approach.
 
 
 <!-- Journal-informed reflection played an important role. While not directly analysed alongside participant data, these journal notes informed the design of resources and facilitation strategies.  -->
@@ -438,6 +438,23 @@ This section addresses generalisability not in statistical terms, but in terms o
 This hybrid approach responds to a key critique of the Helsinki school’s implementation of third-generation activity theory (3GAT): that formative interventions such as Change Laboratories are often seen as time-consuming and suited to stable, institutionalised stakeholder groups [@spinuzzi_trying_2020-1]. While my approach operated under more flexible, time-bound, and community-led conditions, it still maintained a generative orientation. It focused on identifying contradictions, surfacing agency, and generating change through iterative design cycles. These cycles aligned more closely with DBR than with the structured protocols of the Change Laboratory, but they remain consistent with formative intervention understood more broadly.
 
 This approach also placed particular emphasis on artefact development and facilitation processes as means of enabling learning and transformation. Templates, heuristics, and workflows were refined in practice, reflecting ongoing negotiation between design intent and emergent use. In this sense, the artefacts were not only research outputs but tools of inquiry and change. Alongside this theoretical positioning, the study foregrounds practical strategies for replication. Chapter 5 supports potential replication of facilitation practice by offering a design narrative that outlines how tools, materials, and pedagogical structures were used and adapted in response to emerging contradictions.
+
+
+
+<!-- #### Home Ed families and the research process
+
+Addressing the replicability of the research process, it is of value here to recap the previous chapters characterision of its nature as as open and risky, and requiring me to rapidly generate new tools in response. Certain factors mitigated against the incomplete design, namely a tenatious group of participants in P1, and my existing relationship with some participants built in previous encounters. The input of families as a responsive testing group and as detailed above, as active inputters to the evolving pedagogical approach was significant. As such, while this aspect is not extensively explored in this study, I propose there is significant potential in the input of home educating families as a consituant part in collaborative design based approaches to  uncover exisiting, situated repetoires in a way that can shape emergent practices in new learning expereiences. Specifically potential to can inform design  to produce tools and pedagogies aims which can help other facilitators seed productive community activity in other learning settings. -->
+
+<!-- ### DBR / FI / SDBE processes to divining authentic frameworks
+
+The process of discovering the framework of GDPs explored in chapter five merits exploration from the perspective of replicability.
+
+Finding intermediate knowledge in the form of learner focused, guiding pedagogical frameworks
+
+Is there is something particular about the format of the game product to be designed that particularly suits this process. What other products does it suit?
+
+What are the broad implication for the use of this frameworks in other domains. -->
+
 
 In addition, the study contributes a practical methodology for beginning analysis of  complex video data across screen capture and 360° formats. Conventional qualitative analysis software (e.g. NVivo) proved cumbersome, prompting the development of a custom workflow using open-source tools, manual transcription, and thematic clustering structured by Rogoff’s [@rogoff_observing_1995] three planes of analysis. While discussed earlier in relation to analytic procedure, this workflow also forms part of the study’s contribution to transferable methodology.
 
