@@ -18,17 +18,14 @@ PERHAPS ORGANISE BY CHAPTER?
 
 Or perhaps group terms by theme, include references in each description with examples and characteristics. Then have a short complex commentary at the end of each section.   -->
 
-### Methodology terms
+### Methodology and general  terms
 
 **Contradictions:** A key term in the expansion of the learning activity
 
-### Other theoretical terms
 
 **Flow:**
 <!-- is this needed to complement computational fluidity. -->
 
-
-### Overall terms
 
 **Learning design:** The term used for a set of resources and pedagogical techniques introduced by myself as a facilitator of coding sessions. The following terms are used as synonym at times to avoid a repetitive writing style: _learning intervention_ and _game making pedagogy_. Wider terms are used which encompass non-designed elements for example _learning activity_.
 
@@ -70,7 +67,7 @@ Or perhaps group terms by theme, include references in each description with exa
 
 **Code snippets:** Extracts of code which may be contained in a code playground project or as part of other documentation. The motivation for sharing is so other coders can copy, paste and then adapt the code into their own projects.
 
-**Code syntax errors:** Errors to do with the grammar of the code.
+**Code syntax errors:** Syntax errors in computer coding equate to grammatical errors in other languages. They occur when code violates the rules of the programming language, such as missing punctuation, incorrect structure, or misspelled commands, preventing the program from running.
 
 **JavaScript library/framework:** A collection of one or more files of JavaScript code which abstract away specialised abilities which can be reused by other   
 
