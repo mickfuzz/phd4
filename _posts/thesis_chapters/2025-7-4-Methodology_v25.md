@@ -538,7 +538,7 @@ Limitations of the data collected in P4 and P5 were practical in scope, due to s
 
 [^12]: This whole process is so demanding in terms of careful file management. Making me create a linux command line toolbox which is included as a technical appendix. [A draft of which is here](https://docs.google.com/document/d/1Y7MsZDY8ofvls5XO7tztSu8KFdClJo09o3qpWOdkb2M/edit?usp=drive_web&ouid=11432580350275268987)
 
-[^13]: In appendix and online as part of the D3 Make code resources here: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions
+<!-- [^13]: In appendix and online as part of the D3 Make code resources here: https://mickfuzz.github.io/makecode-platformer-101/learningDimensions -->
 
 [^14]: Nvivo software is proprietary and costly, but is provided by my University which also provides training which I attended.
 
@@ -553,8 +553,8 @@ Limitations of the data collected in P4 and P5 were practical in scope, due to s
 [^tran]: taking here the wider use of the term transcript to include descriptive elements as well as spoken word.
 
 
-
-[^17]: Sample journal notes scans are available in Appendix 4.x.
+<!--
+[^17]: Sample journal notes scans are available in Appendix 4.x. -->
 
 [^af]: Anastasia's family's experience is covered in more detail in Chapter 5.
 
