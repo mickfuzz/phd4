@@ -30,5 +30,4 @@
         -   [Methodological and practical
             limitations](#methodological-and-practical-limitations)
         -   [Wider limitations](#wider-limitations)
-    -   [Chapter conclusion](#chapter-conclusion)
     -   [Footnotes](#footnotes)
