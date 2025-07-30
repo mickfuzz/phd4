@@ -2,17 +2,12 @@
     -   [Introduction](#introduction)
         -   [Research design and alignment with
             questions](#research-design-and-alignment-with-questions)
-        -   [Reflections on theoretical grounding and research
-            design](#reflections-on-theoretical-grounding-and-research-design)
-    -   [Data collection within project delivery
-        phases](#data-collection-within-project-delivery-phases)
+    -   [Data collec### Data collection within project delivery
+        phases](#data-collec-data-collection-within-project-delivery-phases)
+        -   [Data collection summary and
+            sources](#data-collection-summary-and-sources)
     -   [Reflections on methodological
         approach](#reflections-on-methodological-approach)
-        -   [Rich description and practical utility in a responsive
-            research
-            design](#rich-description-and-practical-utility-in-a-responsive-research-design)
-        -   [Ethical considerations](#ethical-considerations)
-    -   [Data analysis process](#data-analysis-process)
         -   [Stage 1 -- Exploratory
             analysis](#stage-1-exploratory-analysis)
         -   [Stage 2 -- Thematic

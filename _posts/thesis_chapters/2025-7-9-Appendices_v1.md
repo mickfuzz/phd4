@@ -34,6 +34,10 @@ title: 9. Appendices
             data](#summary-table-of-data-analysis-of-video-data)
         -   [Additional summary of phases of this study's
             methodology](#additional-summary-of-phases-of-this-studys-methodology)
+        -   [B.x Methodology - Extract of 5 minute
+            transcripts](#b.x-methodology---extract-of-5-minute-transcripts)
+        -   [Methodology - Appendix B.Rqs & coding
+            schema](#methodology---appendix-b.rqs-coding-schema)
         -   [Methodology - Back up links to short URL
             resources](#methodology---back-up-links-to-short-url-resources)
     -   [Appendix C - Interview data & participant feedback or detailed
@@ -51,6 +55,10 @@ title: 9. Appendices
             -   [Interview.4 - Dan](#interview.4---dan)
             -   [App.7.fdb - Feedback
                 Extracts](#app.7.fdb---feedback-extracts)
+                -   [App.fdb.a - Susanna and Tehillah note on starting
+                    games](#app.fdb.a---susanna-and-tehillah-note-on-starting-games)
+                -   [App.fdb.a - P1 end
+                    evaluation](#app.fdb.a---p1-end-evaluation)
         -   [Email to participants in mid-P1 - Never mind the bees. I
             need your help
             too!](#email-to-participants-in-mid-p1---never-mind-the-bees.-i-need-your-help-too)
@@ -63,38 +71,62 @@ title: 9. Appendices
             debugging](#appendix.c-.---patching-and-debugging)
             -   [Transcript of interaction explaining code
                 patching](#transcript-of-interaction-explaining-code-patching)
-            -   [Appendix.debugging GDPs used to nurture tactical
+            -   [Appendix C.debugging GDPs used to nurture tactical
                 responses to coding
-                errors](#appendix.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
+                errors](#appendix-c.debugging-gdps-used-to-nurture-tactical-responses-to-coding-errors)
+                -   [Concluding remarks on debugging and
+                    revision](#concluding-remarks-on-debugging-and-revision)
             -   [Appendix.C .bee - Contextual Vignette on the conflict
                 experienced by one family & the 3D
                 Bee](#appendix.c-.bee---contextual-vignette-on-the-conflict-experienced-by-one-family-the-3d-bee)
-            -   [Appendix. prototyping Use of visual
-                prototyping](#appendix.-prototyping-use-of-visual-prototyping)
+            -   [Appendix C.proto prototyping Use of visual
+                prototyping](#appendix-c.proto-prototyping-use-of-visual-prototyping)
     -   [Appendix D - Learning design
         appendix](#appendix-d---learning-design-appendix)
+        -   [Mapping?](#mapping)
         -   [Appendix D.1 - On software
             tools](#appendix-d.1---on-software-tools)
-            -   [Appendix D.? - Tools used in different phases of
-                activity](#appendix-d.---tools-used-in-different-phases-of-activity)
+            -   [Appendix D.1.a - Summary of software tool
+                use](#appendix-d.1.a---summary-of-software-tool-use)
+            -   [Appendix D.1.? structural aspects
+                ()](#appendix-d.1.-structural-aspects)
+            -   [Appendix D.1.? .toolist - Tools used in different
+                phases of
+                activity](#appendix-d.1.-.toolist---tools-used-in-different-phases-of-activity)
             -   [Description of types of activities involved in game
                 making and the tools used to do
                 them](#description-of-types-of-activities-involved-in-game-making-and-the-tools-used-to-do-them)
+            -   [Appendix D.1.? - On Codeplaygrounds from
+                P1-P3](#appendix-d.1.---on-codeplaygrounds-from-p1-p3)
+                -   [D.1.? - Overview of Code Playground on
+                    features](#d.1.---overview-of-code-playground-on-features)
             -   [Appendix D.1.? - Design decisions in the technical
                 decisions of the template design in
                 P2](#appendix-d.1.---design-decisions-in-the-technical-decisions-of-the-template-design-in-p2)
+                -   [Code variables and
+                    structure](#code-variables-and-structure)
+                -   [Graphical asset
+                    scaffolding](#graphical-asset-scaffolding)
+                -   [Audio assset design](#audio-assset-design)
+                -   [Level design](#level-design)
+                -   [Using Phaser 2 not 3 & Game
+                    States](#using-phaser-2-not-3-game-states)
+                -   [Template structure and asset placement - Add in
+                    Chapter tutorial example extract here
+                    too](#template-structure-and-asset-placement---add-in-chapter-tutorial-example-extract-here-too)
         -   [Appendix D.2 - Supporting
             documentation](#appendix-d.2---supporting-documentation)
             -   [Appendix D.2.a Summary of online
                 resources](#appendix-d.2.a-summary-of-online-resources)
-            -   [Appendix D.2? .samplechapter - Extract of supporting
-                resources - Sample chapter on Keys and Doors gameplay
-                design
-                chapter](#appendix-d.2-.samplechapter---extract-of-supporting-resources---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
+            -   [Appendix D.2.? - Sample chapter on Keys and Doors
+                gameplay design
+                chapter](#appendix-d.2.---sample-chapter-on-keys-and-doors-gameplay-design-chapter)
+                -   [Game Space: Keys and
+                    Doors](#game-space-keys-and-doors)
             -   [Appendix D.2? themeing - Themeing
                 GDPs](#appendix-d.2-themeing---themeing-gdps)
-            -   [Appendix 5.R.x - Sketching towards a map to help
-                navigation.](#appendix-5.r.x---sketching-towards-a-map-to-help-navigation.)
+            -   [Appendix D.R.x - Sketching towards a map to help
+                navigation.](#appendix-d.r.x---sketching-towards-a-map-to-help-navigation.)
         -   [Appendix D.3 - Other intervention resources and
             processes](#appendix-d.3---other-intervention-resources-and-processes)
             -   [Appendix D.3.x - .map -- Dialogue of use of physical
@@ -102,18 +134,39 @@ title: 9. Appendices
                 X](#appendix-d.3.x---.map-dialogue-of-use-of-physical-maps-at-the-start-of-session-x)
             -   [Appendix D.3.x - Maker types and social
                 missions](#appendix-d.3.x---maker-types-and-social-missions)
-            -   [Maker types](#maker-types)
-            -   [Playful Playtesting](#playful-playtesting)
+                -   [Appendix.bartle - Summary of interactive Bartle
+                    test](#appendix.bartle---summary-of-interactive-bartle-test)
+            -   [Adapting the learning design to encourage activities
+                exploring different maker
+                types](#adapting-the-learning-design-to-encourage-activities-exploring-different-maker-types)
             -   [Side missions](#side-missions)
+            -   [Playful Playtesting](#playful-playtesting)
         -   [Appendix D.4 - Drama
             process](#appendix-d.4---drama-process)
+            -   [Introducing a drama process in
+                P3](#introducing-a-drama-process-in-p3)
+                -   [Transcript and inline
+                    notes](#transcript-and-inline-notes)
+            -   [Exploring documentation and accessing technical help
+                within the drama
+                frame](#exploring-documentation-and-accessing-technical-help-within-the-drama-frame)
             -   [Playful dialogue with the aliens unrelated to game
                 making](#playful-dialogue-with-the-aliens-unrelated-to-game-making)
+        -   [Session reflections involving drama narrative and secret
+            missions
+            (P3)](#session-reflections-involving-drama-narrative-and-secret-missions-p3)
+            -   [Transcript and Activity
+                Log](#transcript-and-activity-log)
+            -   [Chat Extract from 'Talking to the Weean'
+                project](#chat-extract-from-talking-to-the-weean-project)
         -   [Appendix.D.5 - On the discovery, mapping and participant
             experience of a map of learning
             dimensions.](#appendix.d.5---on-the-discovery-mapping-and-participant-experience-of-a-map-of-learning-dimensions.)
+            -   [Background on learning Dimensions Map - -
+                COMPRESS?](#background-on-learning-dimensions-map-----compress)
             -   [The potential of learning
                 maps](#the-potential-of-learning-maps)
+                -   [Evolution of the map](#evolution-of-the-map)
             -   [Reflection on personal appropriation of
                 concepts](#reflection-on-personal-appropriation-of-concepts)
             -   [Evidence of CT in the
@@ -131,6 +184,9 @@ title: 9. Appendices
         -   [GDPs again - Move some of this to Chapter 2 if
             helpful?](#gdps-again---move-some-of-this-to-chapter-2-if-helpful)
     -   [Unplaced - but needed.](#unplaced---but-needed.)
+    -   [Technical / Additional Blog
+        Posts.](#technical-additional-blog-posts.)
+    -   [Footnotes](#footnotes)
 
 # Appendices
 
