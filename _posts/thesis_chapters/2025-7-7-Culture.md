@@ -63,32 +63,9 @@ title: 7. Findings on RQ3
         -   [Metaphors as a way to communicate dimensions of agency and
             related design
             concerns](#metaphors-as-a-way-to-communicate-dimensions-of-agency-and-related-design-concerns)
-            -   [Harbours as both protective and
-                authentic](#harbours-as-both-protective-and-authentic)
             -   [Jamming on the Titanic](#jamming-on-the-titanic)
             -   [Addressing both metaphors](#addressing-both-metaphors)
         -   [Conclusion](#conclusion)
-    -   [TO MOVE OR DROP FROM CHAPTER](#to-move-or-drop-from-chapter)
-        -   [On planned and emergent
-            activity)](#on-planned-and-emergent-activity)
-    -   [Notes - MOVED TO THE END FOR
-        REVIEW](#notes---moved-to-the-end-for-review)
-        -   [On Fluency](#on-fluency)
-        -   [Removed in December - perhaps
-            rehome](#removed-in-december---perhaps-rehome)
-    -   [Removed in Jan - find home](#removed-in-jan---find-home)
-        -   [MoE](#moe)
-        -   [**An example of mini TADS - use of secondary
-            resources**](#an-example-of-mini-tads---use-of-secondary-resources)
-    -   [Move to next chapter
-        Conclusion](#move-to-next-chapter-conclusion)
-        -   [Questions and Conceptual challenges to dissemination - MOVE
-            PERHAPS TO NEXT
-            CHAPTER?](#questions-and-conceptual-challenges-to-dissemination---move-perhaps-to-next-chapter)
-        -   [6. The impact of constraints in design on agency - NOT SURE
-            -MOVE to
-            concluson?](#the-impact-of-constraints-in-design-on-agency---not-sure--move-to-concluson)
-        -   [MOVED FROM CHAPTER 6](#moved-from-chapter-6)
 
 # Discussion
 
@@ -1109,13 +1086,11 @@ My design decision to build the toolset as structure on top of authentic tools a
 CH.5 -->
 <!-- While it is important to acknowledge the danger that such support may make learners run into trouble if coding other projects outside of this supported space, the use of authentic code language makes this less of an issues than with specialised coding environments aimed at novices [@hagge_coding_2018]. Thus to make one addition to the metaphor this design is like a sea-harbour, tools like Scratch are like a swimming pool. -->
 
-
-
 <!-- The freedoms and restrictions of playgrounds -->
 <!-- A similar metaphorical dimension of protection is present in metaphors of play spaces, a link which is immediately present in this design in the use of code playgrounds (web-based environments which reduce the complexity of web development and provide immediate feedback and community). Additionally, the process of checking the performance of games is called play-testing, with connotations of a playful, and therefore social space. Similarly, the term sandbox is used extensively in web development to indicate a safety in terms of non-critical space to trial new code and make mistakes.  -->
 <!--
 In the previous chapter, I explored the flexible nature of emerging design behaviours and proposed them as a form of improvisation or jamming. DID I?  -->
-#### Jamming on the Titanic
+#### Jamming as a metaphor
 
 Once on board, the passengers may entertain themselves through exchanging and celebrating diversity in cultural experiences. One of my favorite scenes of the Titanic movie is the raucous folk music jam below deck. Jamming, a term common in music and theatre, describes responsive, improvised, rapid, and fluid responses to collaborators' ideas and audience reactions [@pinheiro2011creative; @sawyer_group_2003]. The concept of musical improvisation within jam sessions is a productive way to explore a tension between freedom and structure within the domain of research. As with harbours, a jamming process has structure and designed limitations [@rosso_creativity_2014], but beyond that they provide affordances to encourage learners to evolve their own play processes as a form of transformational and relational agency.
 
@@ -1123,9 +1098,8 @@ In a jam session, as with the harbour metaphor, foundational infrastructure is p
 
 Linking this metaphor to the process of game making, the process of improvisation based on a prototype of a familiar created genre is present in the half-baked platformer game template. This research has outlined the value of an authentic audience made up partly of peer makers to motivate the development of repertoires of practice in a game making context. Additionally, the value of the possibility to blend established repertoires with those brought by peer players is also a motivation in the context of the metaphor and this research.
 
-#### Addressing both metaphors
 
-Parallels between the guiding frameworks advanced in this chapter and the metaphorical descriptions above help conceptualise and communicate the diverse processes at play. The structural elements, particularly those of the harbour metaphor, are represented in the REEPPP approach. The element of transport links facilitating loading of material aligns with the importation of repertoires stage of the RARB process outlined above. While the overall broad description of the musical jam communicates the essence of the RARB process at work. There are other elements of the jam, including the role of the facilitator to hold an inclusive and welcoming space, which are less explored in this research. This and other broad limitations are now addressed in a concluding section.
+Parallels between the guiding frameworks advanced in this chapter and the metaphorical description of the jamming process above and the habour in Chapter 5  help conceptualise and communicate the diverse processes at play. The structural elements, particularly those of the harbour metaphor, are represented in the REEPPP approach. The element of transport links facilitating loading of material aligns with the importation of repertoires stage of the RARB process outlined above. While the overall broad description of the musical jam communicates the essence of the RARB process at work. There are other elements of the jam, including the role of the facilitator to hold an inclusive and welcoming space, which are less explored in this research. This and other broad limitations are now addressed in a concluding section.
 
 ### Conclusion
 
