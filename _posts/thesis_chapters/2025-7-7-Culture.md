@@ -67,9 +67,9 @@ title: 7. Findings on RQ3
             -   [Addressing both metaphors](#addressing-both-metaphors)
         -   [Conclusion](#conclusion)
 
-# Discussion
+# Findings related to agency
 
-
+<!--
 ## Research Questions April 2025
 
 - **Primary research question (RQP):** How can understandings of how to design and facilitate CGD&P be enriched using socio-cultural approaches (used in this study)?
@@ -78,7 +78,7 @@ title: 7. Findings on RQ3
 
 - **Sub-question 2 (RQ2):** How can the use of a collection of game design patterns support CGD&P, in particular in relation to abstract and concrete dimensions of existing pedagogies?
 
-- **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers?
+- **Sub-question 3 (RQ3):** How can varied dimensions of agency be identified and nurtured in an evolving community of game makers? -->
 
 
 <!-- Principle question: How can understandings of pedagogies to support CGD&P be deepened using socio-cultural perspectives?  
@@ -119,25 +119,18 @@ This section describes and discusses some of the emergent, flexible and adaptive
 
 ## Introduction
 
-This discussion chapter draws together the findings of previous chapters to deepen the analysis of the concepts explored and to synthesise observations into formulations that can be communicated in an accessible way. To begin, this chapter discusses the findings of Chapter 6 in relation to existing research on programming pedagogies. It specifically addresses the complexities of the abstract and concrete dimensions of computing education.
+This discussion chapter draws together the findings of previous chapters to deepen the analysis of the concepts explored and to synthesise observations into formulations that can be communicated in an accessible way. To begin, this chapter continues discusses the findings of Chapter 6 in relation to existing research on programming pedagogies. It specifically addresses the complexities of the abstract and concrete dimensions of computing education.
 
-The second section addresses gaps in the existing landscape related to social and cultural dimensions of CGD&P research through examining participants' development of agency via game making. To achieve this, I begin with an exploration of the study’s findings in relation to instrumental, transformative, and relational agency. I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires. To do this, the findings of this research are framed within three stages of a described process of relational agency by repertoire blending.
+The second section addresses gaps in the existing landscape related to social and cultural dimensions of CGD&P research through examining participants' development of agency via game making. To achieve this, I begin with an exploration of the study’s findings in relation to instrumental, transformative, and relational agency. I develop an interpretation of relational agency drawing on Rogoff and Gutiérrez's [@gutierrez_cultural_2003] concept of learner repertoires. To do this, the findings of this research are framed within a novel model describing three stages of a process agency development.
 
 A final section summarises findings for a broad audience, addressing the characteristics of the design that support relational agency, a graphical representation of the development of agency, and an exploration of metaphors that synthesise significant features of the learning design.
+ADD A LITTLE MORE DETAIL.
 
 <!-- As framework is developed via a utopian and utilitarian approach to design-based research and formative interventions. -->
 
 <!-- The purpose here is to ground this discussion of the study's emergent cultural and interpersonal activity within the context of ongoing explorations into theoretical and practical applications of agency in socio-cultural research circles.  -->
 
-
-
 <!-- As a way to address cultural development in more depth, particularly the development of learner identities within the research activities,  -->
-
-
-
-
-
-
 
  <!-- As such, it communicates insights  for equity and diversity via practical concerns to inform future recommendations for practice.  
 
@@ -175,7 +168,7 @@ This section explores these academic conceptions in a playful way using relatabl
 
 
 
-## Part one - Exploring concepts of abstract and concrete knowledge frameworks in relation to Game Design Patterns
+## Part one - Exploring concepts of abstract and concrete knowledge frameworks in relation to game design patterns
 
 <!-- 1. Recap  concepts of abstraction  
 2. Link to data
@@ -190,7 +183,7 @@ This section explores these academic conceptions in a playful way using relatabl
 
 <!-- **Intro to section** -->
 
-The tension between the abstract and concrete dimensions of the process of learning to program runs as a theme through the literature in the domain of computer game design and programming (CGD&P). Yet, the field would still benefit from research on novel pedagogies that explicitly address the complexities of abstraction in computing education (see Chapter 2). Areas of complexity relevant to this study include: issues of degrees of abstraction in understandings of computational thinking; the role of levels of abstraction for teachers and learners; and epistemological pluralism as a way to value concrete approaches. This chapter explores these characteristics in relation to the data surfaced in Chapters 5 and 6 of this thesis. This section develops the proposal of GDPs as a construct located between the abstract and concrete poles of the learning experience and examines the utility of this positioning for facilitators and participants. Finally, a technical pedagogical structure is advanced and given the term of _remix-enabled elective pattern patching_ (REEPP).
+The tension between the abstract and concrete dimensions of the process of learning to program runs as a theme through existing research on computer game design and programming (CGD&P). Yet, the field would still benefit from research on novel pedagogies that explicitly address the complexities of abstraction in computing education (see Chapter 2). Areas of complexity relevant to this study include: issues of degrees of abstraction in understandings of computational thinking [@wing_computational_2006; @brennan_new_2012]; the potential benefit of understanding the role of levels of abstraction for teachers and learners [@waite_abstraction_2018]; and epistemological pluralism as a way to value concrete approaches[@papert_epistemological_1990]. This chapter explores these characteristics in relation to the data surfaced in Chapters 5 and 6 of this thesis. This section develops the proposal of GDPs as a construct located between the abstract and concrete poles of the learning experience and examines the utility of this positioning for facilitators and participants. Finally, a technical pedagogical structure is advanced and given the term of _remix-enabled elective pattern patching_ (REEPP).
 
 <!-- THIS IS SORT OF Dropped
 gpPS AND  their utility for facilitators for participants. -->
@@ -210,10 +203,7 @@ Chapter 2 began to explore, through the lens of personal appropriation, a variet
 Following Hook [-@hook_strong_2012], Eriksson et al. [-@eriksson_using_2019], in their use of a curated collection of GDPs to structure game design, framed design patterns as a form of intermediate-level concept, between the detail of concrete implementation and more general theories. The value of the intermediate nature of the knowledge generated is to serve the replicability and generalisation of research work.  -->
 
 
-This section explores dimensions of abstraction and concreteness in the use of GDPs within the context of computing education by revisiting relevant pedagogies outlined in Chapter 2. In activity theory, specifically in formative interventions, the research process and the evolving design involve a process of _rising to the concrete_. This analytical process involves identifying from concrete data an abstraction of interest and utility and leveraging the power of this concept to generate distinct concrete instantiations of it.
-
-THERE IS DUPLICATION HERE WITH CH.6 - REMOVE IT -
-Thus, in this study, GDPs are conceptualised as both intermediate-level learning design principles (explored in Chapter 5) and as units of analysis (see Chapter 3), as well as analytical germ cells manifested in varied motivational and mediational forms (Chapter 6).
+This section explores dimensions of abstraction and concreteness in the use of GDPs within the context of computing education by revisiting relevant pedagogies outlined in Chapter 2. In this study, GDPs are conceptualised as both intermediate-level learning design principles (explored in Chapter 5) and as units of analysis (see Chapter 3), as well as analytical germ cells manifested in varied motivational and mediational forms (Chapter 6). In my research process guided by CHAT formative interventions, involved analysis identifying from concrete data GDPS as an abstraction of interest and utility, leveraging the concept to generate distinct concrete instantiations of it within the evolving design: a process refered to within CHAT as _rising to the concrete_.
 
 
 <!-- This concept becomes the root of the varied approaches and forms of support outlined in Chapter 5 and in the resulting uses of GDPs in Chapter  -->
@@ -251,7 +241,7 @@ The concepts and legacy of Papert and Turkle's [-@papert_epistemological_1990] e
 
 #### Computational thinking and bricolage
 
-While computational thinking is not a pedagogy, it has formed the basis of a significant amount of research on diverse pedagogies to support its development. As such, a summary in relation to the findings of this research is relevant here. Chapter 2 explored definitions of computational thinking varying in degrees of abstraction or application. Two notable interpretations include Wing's [-@wing_computational_2006] focus on abstraction encompassing overarching computing principles and high-level structural design approaches, and Resnick and Brennan's [-@brennan_new_2012] more applied approach including _computational practices_ and perspectives. This applied approach draws on the legacy of Papert and Turkle's [-@papert_epistemological_1990] research on diversity in coding approaches to counter potentially alienating abstract dominant approach. By way of contrast bricolage approaches maintain strong links between function and form. The findings of this research suggest that participants' practices resembled bricolage, a theme explored further in the following sections.
+While computational thinking is not a pedagogy, it has formed the basis of a significant amount of research on diverse pedagogies to support its development. As such, a summary in relation to the findings of this research is relevant here. Chapter 2 explored definitions of computational thinking varying in degrees of abstraction or application. Two notable interpretations include Wing's [-@wing_computational_2006] focus on abstraction encompassing overarching computing principles and high-level structural design approaches, and Resnick and Brennan's [-@brennan_new_2012] more applied approach including _computational practices_ and perspectives. The applied approach of  Resnick and Brennan draws on the legacy of Papert and Turkle's [-@papert_epistemological_1990] research on diversity in coding approaches to counter potentially alienating abstract dominant approach. By way of contrast bricolage approaches maintain strong links between function and form. The findings of this research suggest that participants' practices resembled bricolage, a theme explored further in the following sections.
 
 
 #### Exploring findings using concepts of semantic profiles, LOA, & PRIMM
@@ -260,10 +250,12 @@ While computational thinking is not a pedagogy, it has formed the basis of a sig
 
 Concept of levels of abstraction (LOA) and semantic profiles within the PRIMM pedagogy were explored in the pedagogical discussion in Chapter 2 [@waite_abstraction_2016; @sentance_teachers_2019]. A shared feature of both models is the recommendation that learners shift their focus between abstract and concrete levels of project structure and semantic concepts respectively. The pedagogies are advanced to help teachers design learning experiences that allow participant shifts in perspective and thus deepen knowledge by packing and unpacking abstracted concepts via concrete experiences, in line with legitimation code theory [@maton_making_2013].
 
-In this thesis, there are two principal dimensions of abstraction at play. The first features the abstract concepts present in Wing's definition of computational thinking at one pole and concrete code implementation at the other. The second dimension, represented in the LOA framework, is a hierarchy of elements, namely: goal, design, code, and results. The goal, being the most abstract element, situates GDPs between these levels (see Table 7.x for more details). To represent GDPs on a graded scale of semantic density, following Barendregt et al. [-@barendregt_intermediate-level_2017], they would be situated between abstract CT processes and concrete implementation. Thus, for the purposes of this analysis, it is appropriate to place the LOA in the lower half of the profile (see Figure 7.x below), and at levels above GDP place more abstract concepts of systems thinking and computational thinking.
+In this thesis, there are two principal dimensions of abstraction at play. The first follows Wing's definition of computational thinking (centred around decontextualised concepts of abstraction, generalisation, and decomposition) at one pole and concrete code implementation at the other. The second dimension of abstraction is represented in the LOA framework as a hierarchy of elements, namely: goal, design, code, and results. The goal, being the most abstract element, situates GDPs between these levels (see Table 7.x for more details). To represent GDPs on a graded scale of semantic density [@macnaught_jointly_2013][^sd], following Barendregt et al. [-@barendregt_intermediate-level_2017], they would be situated between abstract CT processes and concrete implementation. Thus, for the purposes of this analysis, it is appropriate to place the LOA in the lower half of the profile (see Figure 7.x below), and at levels above GDP place more abstract concepts of systems thinking and computational thinking.
 
 
 ![Figure 7.x - Semantic density of the key concepts of this research  ](./Pictures/ch_7_sw_dia_a.png){width=75%}
+
+
 
 <!-- It is relevant to distinguish the interpretations of different dimension abstraction described above: specifically Wing's and Papert's conceptions of abstraction, which can be described as present in top-down planning processes, and generalisable beyond context and abstraction present in the LOA framework is be characterised instead as a goal-design-code-results hierarchy, with the goal being the most abstract.   -->
 
@@ -273,26 +265,28 @@ Addressing interpretations of LOA [@waite_abstraction_2018] in video data, we ca
 | **Level**            | **Focus** | **Example** |
 |---------------|--------------|---------------|
 | **Conceptual Level**  | Goal formation. | Choosing what features to add to the game in the form of GDPs. |
-| **Design Level**  | Design choices involving coding concepts and knoweldge of   | Documentation organised around GDPs scaffolds this process. What needs to be done is to a large extent prescribed. |
-| **Code Level**  | Adding, checking and debugging the lines of code. | This process is supported via template a structure which encourages simple modification, and code patching. Debugging of code also happens at this level. |
+| **Design Level**  | Design choices involving coding concepts and knowledge of structural organisation of the code project.  | Documentation organised around GDPs scaffolds this process. What needs to be done is to a large extent prescribed. |
+| **Code Level**  | Adding, checking and debugging the lines of code. | This process is supported via a template  structure which encourages simple modification, and code patching. Debugging of code also happens at this level. |
 | **Execution Level**  | Understanding the outputs. | There is immediate feedback here and a strong correlation between goal and outcome in the self-playing of the game product. |
 
-Table. 7.x Levels of abstraction located in the findings  
+Table. 7.x - Description of levels of abstraction located in the findings  
+
+MISS MATCH IN LEVELS - CHECK ORIGINGAL SEE CL COMMENT. CLARIFY SENTANCE
 
 This table therefore outlines some of the impact of the design decisions made on the level at which participants are spending time in their game making. To continue this process, the following diagram is an approximate representation of the scope of movement using the scale of semantic density outlined in Figure 7.x above, using participant (Toby) behaviour seen in Vignette 1 (also explored in Chapter 5). In this vignette, an exploration of abstract CT concepts and explicit use of systems concepts are rarely present, and the resulting semantic profiles show movement in the lower areas of the gradation of semantic density. This shallow semantic wave above is typical in describing the data of other participants in analysed session recordings.
 
 ![Figure 7.x - Semantic profile in Vignette 2  ](./Pictures/ch_7_sw_dia_4.png){width=95%}
 
-Movement between layers of abstraction and concrete occurs as Toby(c) shifts between goal formation and the concrete implementation using design practices and specific code structures. Toby starts by imagining and choosing a design pattern and navigates to the relevant documentation. He progresses to implement the pattern via patching in code from the code example. He tests it via previewing and playtesting the game. He then revises or debugs it iteratively. For example, a series of alternations between checking game output level and the code debugging level results from Toby needing to make several changes to get the positioning of the moving enemy correct. Examples pervade the data of Vignettes of similar iterative shifts between these levels. The descriptions of increasing participant fluency via operationalisation in Chapter 6 are interrelated with this repeated movement between levels and perspectives. Games provide high motivation to adjust code to get the result feeling just right, and GDPs are particularly relevant in this process due to the tangible level of feedback at the most concrete level (as explored in Chapter 5 and 6).
+Movement between layers of abstraction and concrete occurs as Toby(c) shifts between goal formation and the concrete implementation using design practices and specific code structures. Toby starts by imagining and choosing a design pattern and navigates to the relevant documentation. He progresses to implement the pattern via patching in code from the code example. He tests it via previewing and playtesting the game. He then revises or debugs it iteratively. For example, when Toby needing to make several changes to get the positioning of the moving enemy correct his activity oscilates between checking game output level and the code debugging level results. Examples pervade the data of Vignettes of similar iterative shifts between these levels. The descriptions of increasing participant fluency via operationalisation in Chapter 6 are interrelated with this repeated movement between levels and perspectives. Games provide high motivation to adjust code to get the result feeling just right. GDPs provide a framework and shared language to help guide and articulate this process to other designers. The is a stong link between the concept of a GDPs and the tangible experience of it during feedback during the process of playing the resulting game (as explored in Chapter 5 and 6). This contributues to a clearer trajectory for participants in navigating levels of abstraction at play within the GGD&P process.
 
 
 
 <!-- nd processes are present in data, but only when adults with relevant knowledge facilitator, either myself or parents, do point them out and during the process of code implementation. More implicit use of coding constructs is more common. -->
 <!-- **Description of impact of blackboxing on semantic profile of learners** -->
 
-While the semantic profile shows rapid iterations, they are limited in scope with little activity at the code design level or use of more abstract computing concepts. This pattern is due in part to the format of supporting resources structured in design pattern format, with a description of a GDP packaged together with a suggested code design and sample lines of code as a concrete implementation (see Chapter 5). Additionally, as a learning designer, I had pre-completed aspects of project implementation that required more generalisable computational thinking skills which would have been a potentially valuable learning experience. For example, abstraction was present in the structuring of key variables within the starting template and via the graphical design tool in the form of a grid matrix in an array data structure. Decomposition and generalisation (pattern recognition) were present in the structuring of the collection of GDPs. For advocates of the potential of abstract interpretations of computational thinking, this process could be perceived as over-scaffolding, depriving learners of the chance to learn and practice valuable practices.
+While the semantic profile shows rapid iterations, they are limited in scope with little activity at the code design level or use of more abstract computing concepts. This pattern is due in part to the format of supporting resources structured as design patterns [^gdp]. Additionally, as a learning designer, I had pre-completed aspects of project implementation that required more generalisable computational thinking skills which would have been a potentially valuable learning experience. For example, abstraction was present in the structuring of key variables within the starting template and via the graphical design tool in the form of a grid matrix in an array data structure. Decomposition and generalisation (pattern recognition) were present in the structuring of the collection of GDPs based on the MDA framework. For advocates of the potential of abstract interpretations of computational thinking, this process could be perceived as over-scaffolding, depriving learners of the chance to learn and practice valuable practices [@pea_logo_1987; @curzon_developing_2014].
 
-These black-boxing decisions were initially made to address barriers associated with abstract approaches and conceptual complexity (see Chapter 2), thus prioritising accessibility and flow experience. As such, the resulting semantic profile of Figure 7.x above can be aligned with the description of Papert and Turkle's [@papert_epistemological_1990] bricoleur maker styles and constructionist design heuristics [@resnick_reflections_2005] (see Appendix.tech for fuller details). Observations show most participants operating as bricoleurs, feeling their way through smaller-scale iterations rather than extensive planning followed by implementation. The process of scaffolding this abstraction allowed greater focus on the relational and affective elements of the learning design, processes which are described in more depth in part two of this chapter.
+These scaffolding decisions were initially made to address barriers associated with abstract approaches and conceptual complexity, thus prioritising accessibility and flow experience for participants as explored in chapters 5 and 6. As such, the resulting semantic profile of Figure 7.x above can be aligned with the description of Papert and Turkle's [@papert_epistemological_1990] bricoleur maker styles and constructionist design heuristics [@resnick_reflections_2005] (see Appendix.tech for fuller details). Observations show most participants operating as bricoleurs, feeling their way through smaller-scale iterations rather than extensive planning followed by implementation. The process of scaffolding the design in this way, and thus abstracting away complexity (refered to as created black-boxes by constructionist researchers [@resnick_design_2005]), allowed greater focus on the relational and affective elements of the learning design, processes which are described in more depth in part two of this chapter.
 
 
 
@@ -304,9 +298,10 @@ In addition the observations in the discussion section of Chapter 6, which rejec
 
 <!-- Thus there are limits here to which this research can be said to support claims of LOA and semantic profiling.  -->
 
-While the utility of black-boxing to increase accessibility for participants here supports the potential of LOA to review participant experience of learning programming [@waite_abstraction_2018-1, p.21], there remains the question of the value of participants being explicitly aware of LOA. While systems concepts and computational thinking concepts are being explored at the concrete level, and were included in written instructions, they were not explicitly taught in sessions. These intentional limits in exploration of more abstract concepts, in line with a bricolage approach, appear to be at odds with advocacy for alternating between abstract and concrete dimensions in semantic waves [@curzon_using_2020]. It follows that the authors would cite this as a problematic limitation in the approach, or at the least as missed opportunities to _unpack and repack_ concepts [@maton_making_2013].
+As a researcher and designer, mapping  participant experience of learning design  to LOA helps review its accessibility  [@waite_abstraction_2018-1, p.21]. However, there remains the question of the value of participants being explicitly aware of LOA. While systems concepts and computational thinking concepts are being explored at the concrete level, and were included in written instructions, they were not explicitly taught in sessions. These intentional limits in exploration of more abstract concepts, in line with a bricolage approach, appear to be at odds with advocacy for alternating between abstract and concrete dimensions in semantic waves [@curzon_using_2020]. It follows that the authors would cite this as a problematic limitation in the approach, or at the least as missed opportunities to _unpack and repack_ concepts [@maton_making_2013].
 
 While the value of explicit teaching of more abstract dimensions of computational thinking is not challenged here, my findings expose underlying tensions. In my use of just-in-time personal instruction of abstract concepts while code is being worked on, I balanced factors such as how welcome this underpinning knowledge would be to students. Would it interrupt their flow? A tension involving competing demands on the facilitator is also relevant, as there was a high demand on my time and I prioritised getting people unstuck to keep them engaged. Given a different focus or motivation, for example a need to explore concepts due to curricular or exam pressures, the process of supporting students to explore more abstract concepts could have been scaffolded further through more explicitly guided reflective processes. An alternative profile is represented in the illustration below.
+CLARIFY
 
 
 ![Figure 7.x - Possible alternative semantic profile  ](./Pictures/ch_7_sw_dia_5.png){width=95%}
@@ -1159,3 +1154,9 @@ The role of the emerging culture and identity of the idioculture  is developed i
 
 <!-- [^1]: https://playthinklearn.net/blog/ten-steps-to-game-design/
 [^2]: https://docs.google.com/presentation/d/1fZYko5dL-r3RHF6NZsLyZspBE77K8XIfLgnZ2HFj58Q/ -->
+
+## Footnotes
+
+[^sd]: Chapter 2 contains  a description of semantic density used within computing pedagogy [@curzon_using_2020].
+
+[^gdp]: design pattern resources contain a description of a GDP packaged together with a suggested code design and sample lines of code as a concrete implementation (see Chapter 5).
