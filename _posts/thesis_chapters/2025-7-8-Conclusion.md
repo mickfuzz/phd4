@@ -189,10 +189,10 @@ These metaphorical ideas have implications for practitioners that can be framed 
 It is from the concrete, practical, collaborative struggle of how to jointly make a game making community and to build fluency in the process of making games that this research emerges. And as such the concrete, responsive, re-assembling of existing pedagogies and elements of the learning activity systems is a integral tactic here aligned with a recent socio-cultural concerns.  
 
 _This shift from “fixing” the individual to re-mediating and transforming the functional system is key to reimagining new
-forms of learning and doing science that are tied to the imaginings of new futures, trajectories, and identities (Gutierrez, Morales, & Martinez, 2009) [@gutierrez_re-mediating_2009-2] in [@gutierrezpossibilities2015-1]_
+forms of learning and doing science that are tied to the imaginings of new futures, trajectories, and identities (Gutierrez, Morales, & Martinez, 2009) [@gutierrez_re-mediating_2009-2] in [@gutierrez-possibilities2015-1]
 
 
-However it is of value to explore how transferrable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches.
+It is of value to explore how transferable these findings are to other contexts of learning, and other genres of digital making, or beyond to other project based approaches.
 
 
 
