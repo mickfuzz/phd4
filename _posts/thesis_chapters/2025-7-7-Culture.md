@@ -1024,7 +1024,7 @@ There are some additions to the previous representation in Figure 7.x of GDPs as
 <!-- Given this challenge, the process of presenting the main elements of the learning design as a whole are challenging [@kynigos_half-baked_2007; @kynigos_black-and-white_2004-1], and bearing in mind that there are already a good degree of complexity in the pedagogy summarised above, it begs the question is it tactical to attempt such a synthesis in terms of the specifics of the learning design. -->
 
 
-### Communicate dimensions of agency and related design concerns via jamming as a metaphor
+### Communicating dimensions of agency and related design concerns via jamming as a metaphor
 
 The previous sections have explored a multi-faceted view of participant agency and the process of repertoire development in this learning design. This section reinterprets some of these aspects, in particular the principles in Table 7.x above, using a metaphorical approach. The use of metaphor here has two functions. The first is to help deepen my analysis via a move to the abstract, searching for communicable generalisations. Secondly, to aid the accessibility of this research for an audience of practitioners as well as researchers. Given the complex nature of the pedagogy, a metaphorical approach allows a simplified but evocative perspective which communicates the future possibilities of findings [@rajala_utopian_2023; @gutierrez2020utopian].
 
@@ -1065,7 +1065,6 @@ CH.5 -->
 <!--
 In the previous chapter, I explored the flexible nature of emerging design behaviours and proposed them as a form of improvisation or jamming. DID I?  -->
 
-**Jamming as a metaphor**
 
 <!-- Once on board, the passengers may entertain themselves through exchanging and celebrating diversity in cultural experiences.One of my favourite scenes of the Titanic movie is the raucous folk music jam below deck.  -->
 

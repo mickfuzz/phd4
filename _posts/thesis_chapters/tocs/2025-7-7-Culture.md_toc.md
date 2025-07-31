@@ -45,8 +45,8 @@
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
-        -   [Communicate dimensions of agency and related design
+        -   [Communicating dimensions of agency and related design
             concerns via jamming as a
-            metaphor](#communicate-dimensions-of-agency-and-related-design-concerns-via-jamming-as-a-metaphor)
+            metaphor](#communicating-dimensions-of-agency-and-related-design-concerns-via-jamming-as-a-metaphor)
         -   [Conclusion](#conclusion)
     -   [Footnotes](#footnotes)
