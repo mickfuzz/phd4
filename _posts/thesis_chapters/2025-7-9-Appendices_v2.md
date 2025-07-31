@@ -558,6 +558,15 @@ Choice of home interests bee keeping
 - Emotional when J. who was dyslexic was able to do the code pattern matching exercise.
 - Felt they neglected Tony
 
+**Interview data**
+
+Transcript of S and J
+The testing of the jigsaw activity
+
+While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
+
+
+
 <!-- End of course evaluation at show case for  P 1.
 Find extracts from here
 https://docs.google.com/document/d/1VL8FPnrBUbcpwL1nmGLCsF1t2JjkitQV_3N8DYeFcoM/edit -->
@@ -1206,16 +1215,6 @@ To illustrate these concepts in more depth, I created concise descriptions of th
 In journal notes I note my attempts to find learning relating to abstract concepts happening in-situ. A common example of use of loops or arrays or functions. I would highlight their use by participants and link to their activity. This mirrors the concept of the value of abstract in context for wider application is underlined in the work Davydov of rising to the concrete [@valsiner_cultural-historical_2007].
 
 
-#### Reflection on personal appropriation of concepts
-
-**Interview data**
-
-Transcript of S and J
-The testing of the jigsaw activity
-
-While the flexible / non-testing nature of the environment makes claims here difficult, a reflection by a parent interview data on a testing activity in P1 is relevant. S parent of J and T on completion of a jigsaw test, celebrated seeing that her family were able to recognise and order the code structures presented as validation of the experiential, non-instructional approach (see appendix.learningmap).
-
-
 
 #### Evidence of CT in the results
 
@@ -1248,8 +1247,6 @@ Here I worked to remove barriers to accessing CT as a framework   via resource c
 Facilitators can use a prepared collection of GDPs to facilitate participants to surface chosen computational, design and systems concepts embedded in games.
 SEE BOOK CHAPTER FOR recommendations FOR TEACHERS - AND INCLUDE HERE.
 DROP?
-
-
 
 I also noted my own caution about overloading learners with shifting and competing goals. My concern hinged on the potential disorientation of the learner that imposed shifts of focus may provoke. As learners shift between different stages of creation the object of their activity shifts from the larger goal of making an engaging game to a narrower goal of implementing a game design pattern to narrower still of completing one of several actions to complete the implementation of a GDP.
 
