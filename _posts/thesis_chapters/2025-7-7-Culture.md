@@ -9,12 +9,11 @@ layout: post
 categories: chapter
 title: 7. Findings on RQ3
 ---
--   [Discussion](#discussion)
-    -   [Research Questions April 2025](#research-questions-april-2025)
+-   [Findings related to agency](#findings-related-to-agency)
     -   [Introduction](#introduction)
     -   [Part one - Exploring concepts of abstract and concrete
-        knowledge frameworks in relation to Game Design
-        Patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
+        knowledge frameworks in relation to game design
+        patterns](#part-one---exploring-concepts-of-abstract-and-concrete-knowledge-frameworks-in-relation-to-game-design-patterns)
         -   [Conceptions of abstraction in the research
             field](#conceptions-of-abstraction-in-the-research-field)
         -   [Exploring findings in relation to existing
@@ -57,15 +56,11 @@ title: 7. Findings on RQ3
             -   [Summative table illustrating stages of facilitating
                 RARB in this
                 study](#summative-table-illustrating-stages-of-facilitating-rarb-in-this-study)
-        -   [Representing the use of REEPP, RARB and the use of GDPs
-            within a pedagogical
-            framework](#representing-the-use-of-reepp-rarb-and-the-use-of-gdps-within-a-pedagogical-framework)
-        -   [Metaphors as a way to communicate dimensions of agency and
-            related design
-            concerns](#metaphors-as-a-way-to-communicate-dimensions-of-agency-and-related-design-concerns)
-            -   [Jamming on the Titanic](#jamming-on-the-titanic)
-            -   [Addressing both metaphors](#addressing-both-metaphors)
+        -   [Communicate dimensions of agency and related design
+            concerns via jamming as a
+            metaphor](#communicate-dimensions-of-agency-and-related-design-concerns-via-jamming-as-a-metaphor)
         -   [Conclusion](#conclusion)
+    -   [Footnotes](#footnotes)
 
 # Findings related to agency
 
