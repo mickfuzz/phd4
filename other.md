@@ -1,6 +1,6 @@
 ---
 # all the regular stuff you have here
-title: Reports and Other Writing
+title: Other Writing
 zotero:
   scannable-cite: false # only relevant when your compiling to scannable-cite .odt
   client: zotero # defaults to zotero
