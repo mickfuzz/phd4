@@ -20,8 +20,8 @@ url: https://mickfuzz.github.io
 #url: https://localhost
 
 
-baseurl: /phd4
-imgurl: https://github.com/mickfuzz/phd4/blob/master/
+baseurl: /phd
+imgurl: https://github.com/mickfuzz/phd/blob/master/
 show_excerpts: true
 
 
