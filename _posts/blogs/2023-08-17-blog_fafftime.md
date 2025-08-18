@@ -4,7 +4,7 @@ zotero:
   client: zotero # defaults to zotero
   author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
   csl-style: harvard-manchester-metropolitan-university # pre-fill the style
-layout: post
+layout: default
 categories: blogs
 title: Blog Post - Faff time
 ---
