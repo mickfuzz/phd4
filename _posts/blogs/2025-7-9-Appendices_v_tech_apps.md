@@ -7,7 +7,7 @@ zotero:
   csl-style: harvard-cite-them-right # pre-fill the style
 layout: post
 number-sections: true
-categories: chapter
+categories: blog
 title: Technical Appendices
 ---
 
