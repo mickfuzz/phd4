@@ -1,5 +1,15 @@
-## Welcome
+---
+# all the regular stuff you have here
+zotero:
+  scannable-cite: false # only relevant when your compiling to scannable-cite .odt
+  client: zotero # defaults to zotero
+  author-in-text: false # when true, enabled fake author-name-only cites by replacing it with the text of the last names of the authors
+  csl-style: harvard # pre-fill the style
+title: PhD Online Resource - Pumping up the Jam
+date: 2021-03-26
+...
+## Welcome Pumping up the Jam
 
-Welcome to the front page of my PhD writing repository. This is a way to deliver different formats of writing and keep an online version.
+Mick Chesterman.
 
-Most of the following are for upcoming book chapters.
+I am starting to publish technical blog posts and looking to complete in early 2026.
