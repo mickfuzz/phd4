@@ -1,0 +1,11 @@
+2025-07-01-Introduction.md
+2025-07-02-Literature_review.md
+2025-07-03-TheoreticalFramework_v10.md
+2025-07-04-Methodology_v25.md
+2025-07-05-Design_v18.md
+2025-07-06-Gdps_v6.md
+2025-07-07-Culture.md
+2025-07-08-Conclusion.md
+2025-07-09-Appendices_v5.md
+2025-07-10-Glossary.md
+2025-07-11-Drama-Paper.md
