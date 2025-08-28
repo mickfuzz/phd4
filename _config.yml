@@ -24,12 +24,12 @@ imgurl: https://github.com/mickfuzz/phd4/blob/master/
 show_excerpts: true
 
 
-markup:
-  goldmark:
-    parser:
-      attribute: true   # allow { .class #id key=val } after headings/blocks
-    renderer:
-      unsafe: true      # lets you use inline HTML if you ever need it
+# markup:
+#   goldmark:
+#     parser:
+#       attribute: true   # allow { .class #id key=val } after headings/blocks
+#     renderer:
+#       unsafe: true      # lets you use inline HTML if you ever need it
       
 #theme: jekyll-theme-minimal
 
