@@ -766,7 +766,7 @@ The celebration here is of pluralism rather than the culturally prevalent perspe
 [^5]: Code playgrounds are online environments used to test, share or invite help from online users on complete or partial code projects or problems, primarily for web-based project involving the technologies of HTML, CSS and variations of JavaScript [@queiros_user_2021]
 [^6]: See an overview of recent retro game related films here. https://js13kgames.com/p/nostalgia-rebooted-2025.html
 [^7]: See itch.io
-[^8:]  For example, Papert created a simplified text programming language LOGO. He created learning environments where students could explore abstract mathematical concepts in  concrete ways through exploratory play using drawing robots controlled LOGO.
+[^8]: For example, Papert created a simplified text programming language LOGO. He created learning environments where students could explore abstract mathematical concepts in  concrete ways through exploratory play using drawing robots controlled LOGO.
 [^9]: The concept of guided participation and how it relates to other dimensions of learning in a community is explored in more detail in Chapter 3.
 [^10]: Goaman [-@goaman_anarchist_2018] describes the protests and counter conferences surrounding the meetings of these institutions through the lens of Tony Blair's phrase "anarchist travelling circus".  WTO - World Trade Organisation, IMF - International Monetary Fund, and G8 an organisation of leading economic countries.
 [^11]: This revolution in technology is well documented here - https://ebrary.net/287067/sociology/emergence_video_activism
